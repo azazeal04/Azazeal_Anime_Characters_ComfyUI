@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Barbabelle",
+    "prompt": "Barbabelle from Barbapapa (1977)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/123919.jpg?s=20e91d2eac77999ccae3a40bfd4cdb19"
+  },
+  {
+    "name": "Barbamama",
+    "prompt": "Barbamama from Barbapapa (1977)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/123917.jpg?s=7db274dd47b78456f8dd2fceacdd6683"
+  },
+  {
+    "name": "Barbapapa",
+    "prompt": "Barbapapa from Barbapapa (1977)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/123915.jpg?s=49c57de38da2a5387adc776bb03558e4"
+  }
+]
