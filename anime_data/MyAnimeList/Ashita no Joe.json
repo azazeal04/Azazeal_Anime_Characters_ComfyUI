@@ -1,0 +1,277 @@
+[
+  {
+    "name": "Rikiishi, Tooru",
+    "prompt": "Rikiishi, Tooru from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/419091.jpg?s=87ed37d80eb2b56a266cd597ce3c67fc"
+  },
+  {
+    "name": "Tange, Danpei",
+    "prompt": "Tange, Danpei from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/126741.jpg?s=594b586ef58ccbf77fbc363ec5b91045"
+  },
+  {
+    "name": "Yabuki, Joe",
+    "prompt": "Yabuki, Joe from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/328207.jpg?s=2943b1c0285a7fba14e8f445423e49a0"
+  },
+  {
+    "name": "Aoyama, Mamoru",
+    "prompt": "Aoyama, Mamoru from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/425286.jpg?s=0b30c2b4460d4756e808ebc4c362359f"
+  },
+  {
+    "name": "Arai",
+    "prompt": "Arai from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/577147.jpg?s=600c5fe2fcac699e6eb382099dba5a05"
+  },
+  {
+    "name": "Bear, Minezaki",
+    "prompt": "Bear, Minezaki from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/577138.jpg?s=4e5b9f9cd72d4a5a9d8dc824d9fa5eab"
+  },
+  {
+    "name": "Bokuto Gym Chairman",
+    "prompt": "Bokuto Gym Chairman from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/529005.jpg?s=de4c31896e94962598546e3531c4210d"
+  },
+  {
+    "name": "Chuukichi",
+    "prompt": "Chuukichi from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/433151.jpg?s=42301bd87d70dc45e06757468f01f4b2"
+  },
+  {
+    "name": "Fukushima, Youichi",
+    "prompt": "Fukushima, Youichi from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/577135.jpg?s=2c937d978659e0b47569732e951ea5a7"
+  },
+  {
+    "name": "Gaikotsu",
+    "prompt": "Gaikotsu from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/529008.jpg?s=26633b2c19221b26d9f5d760c1215e72"
+  },
+  {
+    "name": "Gondo, Goromaki",
+    "prompt": "Gondo, Goromaki from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/256969.jpg?s=21b698ac556de4dfb55b3b7de46f0c35"
+  },
+  {
+    "name": "Guerilla",
+    "prompt": "Guerilla from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/577154.jpg?s=ccdafa75591a8573a1ea5f43c3360f61"
+  },
+  {
+    "name": "Harajima, Ryu",
+    "prompt": "Harajima, Ryu from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/577114.jpg?s=2d3c4bf806c7ee70ed9f551245143389"
+  },
+  {
+    "name": "Hayashi, Noriko",
+    "prompt": "Hayashi, Noriko from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/338116.jpg?s=41d761a0b4d91513208529186901cab2"
+  },
+  {
+    "name": "Hayashi, Keishichi",
+    "prompt": "Hayashi, Keishichi from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/577132.jpg?s=540c13bec5b9957bd081ff5e21167074"
+  },
+  {
+    "name": "Hayashi, Tamako",
+    "prompt": "Hayashi, Tamako from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/577130.jpg?s=8138fcd41d239348328c28a20cafd59a"
+  },
+  {
+    "name": "Hirata",
+    "prompt": "Hirata from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/527578.jpg?s=c71579dd646bb18516e66ba72ba5b94a"
+  },
+  {
+    "name": "Hurricane",
+    "prompt": "Hurricane from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/577137.jpg?s=b48dc4ce4e73cb92099be99f552a69b8"
+  },
+  {
+    "name": "Inaba, Kumetarou",
+    "prompt": "Inaba, Kumetarou from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/527479.jpg?s=827dd5f4d65c4f1dcc9597d9089d0359"
+  },
+  {
+    "name": "Inagaki, Shohei",
+    "prompt": "Inagaki, Shohei from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/577150.jpg?s=45d32c79a2aec9548f1f578baebc9f3c"
+  },
+  {
+    "name": "Ishikura, Osamu",
+    "prompt": "Ishikura, Osamu from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/577124.jpg?s=41e7037348d4a81d5778c7a3454c4ba0"
+  },
+  {
+    "name": "James, Henry",
+    "prompt": "James, Henry from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/528992.jpg?s=68e14cfb7e1a28dc3991ec1c93068104"
+  },
+  {
+    "name": "Judge",
+    "prompt": "Judge from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/577142.jpg?s=58389697c61acd92f39849cf744ae4e4"
+  },
+  {
+    "name": "Kanagushi, Wolf",
+    "prompt": "Kanagushi, Wolf from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/338096.jpg?s=0bdcdb613ec4047e918788427ef031a5"
+  },
+  {
+    "name": "Kinoko",
+    "prompt": "Kinoko from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/433150.jpg?s=a3c34d545800717fae1248a87da3dab2"
+  },
+  {
+    "name": "Kouno, Saburou",
+    "prompt": "Kouno, Saburou from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/577117.jpg?s=7c727f9f7334ea7f8529c6492e4df523"
+  },
+  {
+    "name": "Kunimoto",
+    "prompt": "Kunimoto from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/577121.jpg?s=5f89ff2355f57c68e6427928f2e96799"
+  },
+  {
+    "name": "Leo, Pancho",
+    "prompt": "Leo, Pancho from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/577140.jpg?s=1f4ad9e84e29fa25fe4e9c336e4c4963"
+  },
+  {
+    "name": "Matoba, Gorou",
+    "prompt": "Matoba, Gorou from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/577136.jpg?s=8deae8cc31eb1792ba27a1735409591d"
+  },
+  {
+    "name": "Miss Oyama",
+    "prompt": "Miss Oyama from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/577141.jpg?s=1f8b9c15b7a2fdacbbcea7e98f207325"
+  },
+  {
+    "name": "Mob Boss",
+    "prompt": "Mob Boss from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/577120.jpg?s=eaead25a457291ad412caa450c99b7df"
+  },
+  {
+    "name": "Murase, Takeo",
+    "prompt": "Murase, Takeo from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/577126.jpg?s=2c14bfa0706d7d63e2746a5e1a433d89"
+  },
+  {
+    "name": "Nangou, Kouji",
+    "prompt": "Nangou, Kouji from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/577128.jpg?s=e25d5a4ef15c3bb1b8e6ad1981e90807"
+  },
+  {
+    "name": "Nishi, Kanichi",
+    "prompt": "Nishi, Kanichi from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/338118.jpg?s=bbbcca5991f6c3cd67799713f265668d"
+  },
+  {
+    "name": "Numata",
+    "prompt": "Numata from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/577146.jpg?s=83fbfe584ac0b55e8daa97c17bb6bef1"
+  },
+  {
+    "name": "Oigawa, Gohei",
+    "prompt": "Oigawa, Gohei from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/527482.jpg?s=d9a8a6dd7b31c16a3185a7991dde0952"
+  },
+  {
+    "name": "Oniyama",
+    "prompt": "Oniyama from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/527579.jpg?s=dc19b0e26a4b5f377e902f48bbaa7e4d"
+  },
+  {
+    "name": "Ootaka",
+    "prompt": "Ootaka from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/577125.jpg?s=7aa76d8dee43672024d58eb958691562"
+  },
+  {
+    "name": "Postman",
+    "prompt": "Postman from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/532489.jpg?s=398cb076f0455fcaf46fb3dcacb55597"
+  },
+  {
+    "name": "Prison Warden",
+    "prompt": "Prison Warden from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/577148.jpg?s=864773db0d0579da8320da52382abcd7"
+  },
+  {
+    "name": "Raiden, Tamegoro",
+    "prompt": "Raiden, Tamegoro from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/577118.jpg?s=b3e28a18781a165cddf1ebee06b8145c"
+  },
+  {
+    "name": "Referee",
+    "prompt": "Referee from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/528998.jpg?s=eba62a9d2f97e2e94451611314cccd9b"
+  },
+  {
+    "name": "Rivera, Carlos",
+    "prompt": "Rivera, Carlos from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/338115.jpg?s=3e235e73e4cf5155684a3200e1ffffa4"
+  },
+  {
+    "name": "Robert, Harry",
+    "prompt": "Robert, Harry from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/338113.jpg?s=7dfd5b018ce1f9829485c9e0a0dec5d2"
+  },
+  {
+    "name": "Sachi",
+    "prompt": "Sachi from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/338124.jpg?s=f4a05a17225dadec29b17b9656a9217f"
+  },
+  {
+    "name": "Shark, Suzuki",
+    "prompt": "Shark, Suzuki from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/577144.jpg?s=9d7ab4c469b5c4431c7b4b2a68591aec"
+  },
+  {
+    "name": "Shiraki, Yoko",
+    "prompt": "Shiraki, Yoko from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/264537.jpg?s=1c4cab0d95714bf0d32bcb479fb7ae59"
+  },
+  {
+    "name": "Shiraki, Mikinosuke",
+    "prompt": "Shiraki, Mikinosuke from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/338159.jpg?s=b932c7b9b7bc883663a8a25093a78ca1"
+  },
+  {
+    "name": "Tarou",
+    "prompt": "Tarou from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/433149.jpg?s=467f0f2da2fc006e84596f17c0f39eaf"
+  },
+  {
+    "name": "Tiger Ozaki",
+    "prompt": "Tiger Ozaki from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/528796.jpg?s=65ce83cb8a7822c6af6e8a1640eab0db"
+  },
+  {
+    "name": "Tonkichi",
+    "prompt": "Tonkichi from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/338395.jpg?s=e3ece963986d54dc5758cf7c24e1632a"
+  },
+  {
+    "name": "Tonoya, Kousuke",
+    "prompt": "Tonoya, Kousuke from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/577115.jpg?s=9f3d2e9e09b663b8b8ffddf36640de2e"
+  },
+  {
+    "name": "Yasuo",
+    "prompt": "Yasuo from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/577129.jpg?s=cfa9a5b216ae1fe75d26f67657cc7fad"
+  },
+  {
+    "name": "Yuri",
+    "prompt": "Yuri from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/577139.jpg?s=a599b6355a3448121691c6e30ba71e5b"
+  },
+  {
+    "name": "Yuri's Mother",
+    "prompt": "Yuri's Mother from Ashita no Joe",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/577119.jpg?s=9c0330a0e726488bae1b0d61fe88cc33"
+  }
+]

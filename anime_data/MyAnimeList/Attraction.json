@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Hiro",
+    "prompt": "Hiro from Attraction",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/270559.jpg?s=cb9327bf22c36367fa3b0192c184382c"
+  },
+  {
+    "name": "Koichi",
+    "prompt": "Koichi from Attraction",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/270563.jpg?s=41484b94ba8430a01b7d8b083f734641"
+  },
+  {
+    "name": "Ren",
+    "prompt": "Ren from Attraction",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/270561.jpg?s=f987384e93be7c8a497824c01b4339cb"
+  },
+  {
+    "name": "Club girl",
+    "prompt": "Club girl from Attraction",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/270565.jpg?s=1fbeb3c53282ff750227446efef45d47"
+  },
+  {
+    "name": "The Boss",
+    "prompt": "The Boss from Attraction",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/105024.jpg?s=f07bd9aba89c3248e564f36e01067f67"
+  }
+]
