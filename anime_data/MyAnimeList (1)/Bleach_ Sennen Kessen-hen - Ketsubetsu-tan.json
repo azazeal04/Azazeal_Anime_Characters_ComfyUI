@@ -1,0 +1,617 @@
+[
+  {
+    "name": "Ishida, Uryuu",
+    "prompt": "Ishida, Uryuu from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/139189.jpg?s=c45c92f3d197dbbe891cfd266f487c2f"
+  },
+  {
+    "name": "Kurosaki, Ichigo",
+    "prompt": "Kurosaki, Ichigo from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/512788.jpg?s=55ff462576b32a74758448436f35dcbb"
+  },
+  {
+    "name": "Abarai, Renji",
+    "prompt": "Abarai, Renji from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/171877.jpg?s=e4fb4773c11884cd26a4eaed44ca3f6d"
+  },
+  {
+    "name": "Accutrone, Robert",
+    "prompt": "Accutrone, Robert from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/494372.jpg?s=1f644b394222e15e1e09dde829813b72"
+  },
+  {
+    "name": "Adnyeus",
+    "prompt": "Adnyeus from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/526006.jpg?s=11961ecd30db3b8b22b19a2f531792a1"
+  },
+  {
+    "name": "Aikawa, Love",
+    "prompt": "Aikawa, Love from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/57259.jpg?s=65637e7c842c09ba1e8358d6e583c92b"
+  },
+  {
+    "name": "Aizen, Sousuke",
+    "prompt": "Aizen, Sousuke from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/73909.jpg?s=1a450d31fd432b46314048dbb3915fc4"
+  },
+  {
+    "name": "Akon",
+    "prompt": "Akon from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/103034.jpg?s=a78454331048761184f678fd8d0bdb35"
+  },
+  {
+    "name": "Antenor, Luppi",
+    "prompt": "Antenor, Luppi from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/62228.jpg?s=e14db354db13be25b8f320e8d0a9996f"
+  },
+  {
+    "name": "Aramaki, Makizou",
+    "prompt": "Aramaki, Makizou from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/56717.jpg?s=6e4575f3bf36caa4f7dff49de1d47c2b"
+  },
+  {
+    "name": "Arisawa, Tatsuki",
+    "prompt": "Arisawa, Tatsuki from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/102747.jpg?s=f9f1b7153ab66f10d6f25a2685810764"
+  },
+  {
+    "name": "Asano, Keigo",
+    "prompt": "Asano, Keigo from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/50726.jpg?s=5a3904138f9308fba5382c70dab07525"
+  },
+  {
+    "name": "Ayasegawa, Yumichika",
+    "prompt": "Ayasegawa, Yumichika from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/33228.jpg?s=91e220ec6468364aa25b9a7ea23bdb8f"
+  },
+  {
+    "name": "Ayon",
+    "prompt": "Ayon from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/103021.jpg?s=c70feed7ba19f9418dee2a913520bd3a"
+  },
+  {
+    "name": "Barro, Lille",
+    "prompt": "Barro, Lille from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/524100.jpg?s=b5837ee54d56c17f68e2099fe22ba8ce"
+  },
+  {
+    "name": "Basterbine, Bambietta",
+    "prompt": "Basterbine, Bambietta from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/482240.jpg?s=d94530ac10cbc765263cb5c690d023b8"
+  },
+  {
+    "name": "BG9",
+    "prompt": "BG9 from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/496720.jpg?s=609e7465c52b4ede35f104fdcb2b5f00"
+  },
+  {
+    "name": "Birstanne, Dondochakka",
+    "prompt": "Birstanne, Dondochakka from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/79549.jpg?s=76e32e14bfef612ac10338b5ef309c8c"
+  },
+  {
+    "name": "Black, Bazzard",
+    "prompt": "Black, Bazzard from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/290662.jpg?s=ca4b1b163b864f994e10f9f4965045d4"
+  },
+  {
+    "name": "Catnipp, Candice",
+    "prompt": "Catnipp, Candice from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/246863.jpg?s=3845a2f1ff9dd855d7ded28807094407"
+  },
+  {
+    "name": "Chuhlhourne, Charlotte",
+    "prompt": "Chuhlhourne, Charlotte from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/131629.jpg?s=30d97427c2f9843bdfcdb066c9336db1"
+  },
+  {
+    "name": "Cifer, Ulquiorra",
+    "prompt": "Cifer, Ulquiorra from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/529323.jpg?s=701d2f9aa034abda278ca33c96b54030"
+  },
+  {
+    "name": "De Masculine, Mask",
+    "prompt": "De Masculine, Mask from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/504249.jpg?s=04cab17d9c7800631516c72fe97f27f8"
+  },
+  {
+    "name": "Dokugamine, Riruka",
+    "prompt": "Dokugamine, Riruka from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/139193.jpg?s=741dfcd48ea0116a2332da8f51a202ff"
+  },
+  {
+    "name": "Du, Cang",
+    "prompt": "Du, Cang from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/502508.jpg?s=8e82abe703ea622ad6a21a355bf8094a"
+  },
+  {
+    "name": "Ebern, Asguiaro",
+    "prompt": "Ebern, Asguiaro from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/493386.jpg?s=37ba74adf0d5905510c48993494616ec"
+  },
+  {
+    "name": "Friegen, Luders",
+    "prompt": "Friegen, Luders from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/494648.jpg?s=d330dbf55d367ce925469bf74d9f7f0f"
+  },
+  {
+    "name": "Gewelle, Giselle",
+    "prompt": "Gewelle, Giselle from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/512909.jpg?s=0373c7cdbee6c49bbd0ef9490e9d3ad9"
+  },
+  {
+    "name": "Guatiche, Pesche",
+    "prompt": "Guatiche, Pesche from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/79547.jpg?s=f5092a77e463e2787dbbed4236a4b838"
+  },
+  {
+    "name": "Hans Vorarlberna, Yukio",
+    "prompt": "Hans Vorarlberna, Yukio from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/173579.jpg?s=9386982c9183ba8b16506afe4af782b2"
+  },
+  {
+    "name": "Haschwalth, Jugram",
+    "prompt": "Haschwalth, Jugram from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/290179.jpg?s=641bdcbfe184900f26dfe2f15855814f"
+  },
+  {
+    "name": "Hikifune, Kirio",
+    "prompt": "Hikifune, Kirio from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/495171.jpg?s=612672a3d76f99c8ed97fb8b29e7c8a6"
+  },
+  {
+    "name": "Hinamori, Momo",
+    "prompt": "Hinamori, Momo from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/33231.jpg?s=03dbd7555461218708c86fd953d633e6"
+  },
+  {
+    "name": "Hirako, Shinji",
+    "prompt": "Hirako, Shinji from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/72979.jpg?s=218ab8454b5512a2d97ea5bcace550ce"
+  },
+  {
+    "name": "Hisagi, Shuuhei",
+    "prompt": "Hisagi, Shuuhei from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/76390.jpg?s=a82209807ae4ef998e7b4399200d8908"
+  },
+  {
+    "name": "Hitsugaya, Toushirou",
+    "prompt": "Hitsugaya, Toushirou from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/36579.jpg?s=fec37a5d08dbe1f8e806d3f9ce9d7f4f"
+  },
+  {
+    "name": "Hiyosu",
+    "prompt": "Hiyosu from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/536707.jpg?s=b0aa7bd8f3c223fe917521392207ed58"
+  },
+  {
+    "name": "Hyourinmaru",
+    "prompt": "Hyourinmaru from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/75118.jpg?s=c04bcb40cbe0af9d37035534e22c1ac6"
+  },
+  {
+    "name": "Hyousube, Ichibei",
+    "prompt": "Hyousube, Ichibei from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/502506.jpg?s=5b1d285c0cb1fe06116cc915b3d4ae08"
+  },
+  {
+    "name": "Iba, Tetsuzaemon",
+    "prompt": "Iba, Tetsuzaemon from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/51363.jpg?s=3475a3f7c6cbea73148084a711636dae"
+  },
+  {
+    "name": "Inoue, Orihime",
+    "prompt": "Inoue, Orihime from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/505076.jpg?s=bf526e705495c0698997a2f8b9e3d6f9"
+  },
+  {
+    "name": "Ise, Nanao",
+    "prompt": "Ise, Nanao from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/33233.jpg?s=aaf516f7bb2edc8c9250bd96f329e879"
+  },
+  {
+    "name": "Ishida, Ryuuken",
+    "prompt": "Ishida, Ryuuken from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/141837.jpg?s=b7019c17b82a7ef5515832609c4a5551"
+  },
+  {
+    "name": "Ishida, Souken",
+    "prompt": "Ishida, Souken from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/103056.jpg?s=2bd4bcec8b306dde7a40cf0ffb80f74b"
+  },
+  {
+    "name": "Izuhara, Kinroku",
+    "prompt": "Izuhara, Kinroku from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/547991.jpg?s=7e38b84f08e204a5c95495789a26c02e"
+  },
+  {
+    "name": "Jaegerjaquez, Grimmjow",
+    "prompt": "Jaegerjaquez, Grimmjow from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/529459.jpg?s=b984373cc69a540db053b3516cf46dcc"
+  },
+  {
+    "name": "James",
+    "prompt": "James from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/548140.jpg?s=17f2cd9f996abfca0b83506392a5f2e0"
+  },
+  {
+    "name": "Katori, Batsu'unsai",
+    "prompt": "Katori, Batsu'unsai from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/548431.jpg?s=cf31cfe44808a9fac4102d5fd3911d59"
+  },
+  {
+    "name": "Kirinji, Tenjiirou",
+    "prompt": "Kirinji, Tenjiirou from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/495174.jpg?s=093446288f204321caaff96d11dc5a6c"
+  },
+  {
+    "name": "Kleich, Hubert Alexander",
+    "prompt": "Kleich, Hubert Alexander from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/548002.jpg?s=2eae15b6727172f1732829e661dfb8b7"
+  },
+  {
+    "name": "Koganehiko",
+    "prompt": "Koganehiko from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/83559.jpg?s=fdb08c1d12d7d89c24281b828bee08c3"
+  },
+  {
+    "name": "Kojima, Mizuiro",
+    "prompt": "Kojima, Mizuiro from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/67211.jpg?s=4f39392ec5d32808e504d666263329eb"
+  },
+  {
+    "name": "Komamura, Sajin",
+    "prompt": "Komamura, Sajin from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/59028.jpg?s=4cd3017d94232b3480023fb0d230952e"
+  },
+  {
+    "name": "Kon",
+    "prompt": "Kon from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/102740.jpg?s=f91b0f029056ba25d9aa2dbdc088ce92"
+  },
+  {
+    "name": "Kotetsu, Isane",
+    "prompt": "Kotetsu, Isane from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/33236.jpg?s=9546bafbe41e2f9c520474c5ee65233c"
+  },
+  {
+    "name": "Kotetsu, Kiyone",
+    "prompt": "Kotetsu, Kiyone from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/85347.jpg?s=e9594c7af2cac6f8f83274e810f03181"
+  },
+  {
+    "name": "Kotsubaki, Sentarou",
+    "prompt": "Kotsubaki, Sentarou from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/56712.jpg?s=144cb21c7db99a8500a6d0ec5c7e82e2"
+  },
+  {
+    "name": "Kuchiki, Rukia",
+    "prompt": "Kuchiki, Rukia from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/78215.jpg?s=2a0f7f516f3e5b213833e9f9a9de4a51"
+  },
+  {
+    "name": "Kuchiki, Byakuya",
+    "prompt": "Kuchiki, Byakuya from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/100098.jpg?s=c184bfa12ef0b29cc48d31e986d011ad"
+  },
+  {
+    "name": "Kumoi, Entetsu",
+    "prompt": "Kumoi, Entetsu from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/552032.jpg?s=2633e478233fbf0c9b94d90f7a275186"
+  },
+  {
+    "name": "Kuna, Niko",
+    "prompt": "Kuna, Niko from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/513700.jpg?s=a91c944729bab2d0496efa0f348f4454"
+  },
+  {
+    "name": "Kurosaki, Karin",
+    "prompt": "Kurosaki, Karin from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/158885.jpg?s=f18b6557e88d81a1548dccae7a82a202"
+  },
+  {
+    "name": "Kurosaki, Yuzu",
+    "prompt": "Kurosaki, Yuzu from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/33289.jpg?s=2407eb00b96b3a7d3f15931908f21309"
+  },
+  {
+    "name": "Kurosaki, Isshin",
+    "prompt": "Kurosaki, Isshin from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/97168.jpg?s=894c36b2c23f0b3ce6690d67133f4701"
+  },
+  {
+    "name": "Kurotsuchi, Mayuri",
+    "prompt": "Kurotsuchi, Mayuri from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/73295.jpg?s=e85fc128d238381c72abffa387bfabef"
+  },
+  {
+    "name": "Kurotsuchi, Nemu",
+    "prompt": "Kurotsuchi, Nemu from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/33239.jpg?s=de1a35debfb5cea80425f5238a46198f"
+  },
+  {
+    "name": "Kusajishi, Yachiru",
+    "prompt": "Kusajishi, Yachiru from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/85348.jpg?s=e7b37282b1de3e3d6072176c475787af"
+  },
+  {
+    "name": "Kyouraku, Shunsui Jirou Sakuranosuke",
+    "prompt": "Kyouraku, Shunsui Jirou Sakuranosuke from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/33242.jpg?s=7445a3128d9b5e325c2c49b7a7e6ab92"
+  },
+  {
+    "name": "Lallau, Argola",
+    "prompt": "Lallau, Argola from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/548003.jpg?s=2db210112c053cd7bee3234a94bb31a3"
+  },
+  {
+    "name": "Lamperd, Liltotto",
+    "prompt": "Lamperd, Liltotto from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/246867.jpg?s=f1907c1c168fc644d756917fb9479a3d"
+  },
+  {
+    "name": "Lee, Guenael",
+    "prompt": "Lee, Guenael from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/521266.jpg?s=a87b7f17b28c001fc1ce23b6db6b4dda"
+  },
+  {
+    "name": "Leroux, Zommari",
+    "prompt": "Leroux, Zommari from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/55944.jpg?s=04293e153b4a1ca05b36d28c81213d1c"
+  },
+  {
+    "name": "Madarame, Ikkaku",
+    "prompt": "Madarame, Ikkaku from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/33243.jpg?s=3fe358bed3801d0465927c401c5004e2"
+  },
+  {
+    "name": "Matsumoto, Rangiku",
+    "prompt": "Matsumoto, Rangiku from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/520193.jpg?s=7230b409bd7466d6f38d280000edce09"
+  },
+  {
+    "name": "McAllon, Meninas",
+    "prompt": "McAllon, Meninas from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/255565.jpg?s=9305e379befcb3d105090002f9d989e9"
+  },
+  {
+    "name": "Muguruma, Kensei",
+    "prompt": "Muguruma, Kensei from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/45938.jpg?s=8a002399dcc4ce36d37cdf75bccbcfc8"
+  },
+  {
+    "name": "Najahkoop, NaNaNa",
+    "prompt": "Najahkoop, NaNaNa from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/502510.jpg?s=f572788a2b1aae2fef1c43633fa040ad"
+  },
+  {
+    "name": "Nakk Le Vaar, Askin",
+    "prompt": "Nakk Le Vaar, Askin from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/516662.jpg?s=ac5349597d98c4f08ef4d6694eda9f91"
+  },
+  {
+    "name": "Nimaiya, Ouetsu",
+    "prompt": "Nimaiya, Ouetsu from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/396639.jpg?s=3ff5b7bb4e763ffd9884a1ad8b8e1773"
+  },
+  {
+    "name": "Nödt, Äs",
+    "prompt": "Nödt, Äs from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/493744.jpg?s=dc2c777e0eed753dbfe16b39a5b0ae9d"
+  },
+  {
+    "name": "Obana, Danjirou",
+    "prompt": "Obana, Danjirou from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/552030.jpg?s=8465c8c3fd4780a9201cc860adb18c39"
+  },
+  {
+    "name": "Okikiba, Genshirou",
+    "prompt": "Okikiba, Genshirou from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/547339.jpg?s=3670451e65ff7716cff56fb13de29342"
+  },
+  {
+    "name": "Oomaeda, Mareyo",
+    "prompt": "Oomaeda, Mareyo from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/517386.jpg?s=b0dbf548059b3664e40e321a7e3fee7a"
+  },
+  {
+    "name": "Oomaeda, Marechiyo",
+    "prompt": "Oomaeda, Marechiyo from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/33244.jpg?s=02982b89335a9043d52d3cbc8ba9040e"
+  },
+  {
+    "name": "Opie, Quilge",
+    "prompt": "Opie, Quilge from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/290592.jpg?s=ac2955f2080769fb90b5214c67106b8a"
+  },
+  {
+    "name": "Otoribashi, Roujuurou",
+    "prompt": "Otoribashi, Roujuurou from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/40966.jpg?s=c49c176083d920a8f437dba8c6662419"
+  },
+  {
+    "name": "Outogawa, Furuoki",
+    "prompt": "Outogawa, Furuoki from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/547998.jpg?s=d5498cabd58f24a9688b6659420329fe"
+  },
+  {
+    "name": "Parnkgjas, Pernida",
+    "prompt": "Parnkgjas, Pernida from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/524102.jpg?s=08e39554c48d9b021fbad59c0ac10d7c"
+  },
+  {
+    "name": "Sado, Yasutora",
+    "prompt": "Sado, Yasutora from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/102739.jpg?s=62a1f21a246934b22b8e46a8db7259bf"
+  },
+  {
+    "name": "Saitou, Furoufushi",
+    "prompt": "Saitou, Furoufushi from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/522521.jpg?s=ca2aa43c134bd96895c907a42c172c8e"
+  },
+  {
+    "name": "Sakahone, Saizou",
+    "prompt": "Sakahone, Saizou from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/548000.jpg?s=0d3a1b1a074b63862327c0f84ec1d8b5"
+  },
+  {
+    "name": "Sarugaki, Hiyori",
+    "prompt": "Sarugaki, Hiyori from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/72982.jpg?s=1db28c6a4c237f92b41fb5984f0b0257"
+  },
+  {
+    "name": "Seike, Nobutsune",
+    "prompt": "Seike, Nobutsune from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/548004.jpg?s=764ffce221c5ad80baae5127929aa9c3"
+  },
+  {
+    "name": "Shiba, Ganju",
+    "prompt": "Shiba, Ganju from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/61005.jpg?s=1e4c23eb649bf8d4c65dd1f0d92341db"
+  },
+  {
+    "name": "Shiba, Kuukaku",
+    "prompt": "Shiba, Kuukaku from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/33245.jpg?s=145d97b3688ca57b2ad743ddb6254ae2"
+  },
+  {
+    "name": "Shigyou, Nobutsuna",
+    "prompt": "Shigyou, Nobutsuna from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/547994.jpg?s=2e3d6851627f92955bdec27ec3497f96"
+  },
+  {
+    "name": "Shihouin, Chika",
+    "prompt": "Shihouin, Chika from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/547990.jpg?s=c88c3f6e24798e2d25bce28ead6add1f"
+  },
+  {
+    "name": "Shihouin, Yuushirou Sakimune",
+    "prompt": "Shihouin, Yuushirou Sakimune from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/548141.jpg?s=8e1b5369028591c9e5f24a5c46f7d4cb"
+  },
+  {
+    "name": "Shihouin, Yoruichi",
+    "prompt": "Shihouin, Yoruichi from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/536084.jpg?s=328558550e2e5c85394d1982471151a5"
+  },
+  {
+    "name": "Shijima, Chigiri",
+    "prompt": "Shijima, Chigiri from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/552029.jpg?s=0ed40d989f06606089b3b7f899e62600"
+  },
+  {
+    "name": "Shiroganehiko",
+    "prompt": "Shiroganehiko from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/83560.jpg?s=aeefbbf4632491ac33af5620975d4151"
+  },
+  {
+    "name": "Shutara, Senjumaru",
+    "prompt": "Shutara, Senjumaru from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/571129.jpg?s=eb758aef0849fb1c98df473cfc87a9f6"
+  },
+  {
+    "name": "Socacchio, Dordonii Alessandro Del",
+    "prompt": "Socacchio, Dordonii Alessandro Del from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/33247.jpg?s=8e923e1538447617876692579d7f1f4f"
+  },
+  {
+    "name": "Soi Fon",
+    "prompt": "Soi Fon from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/76136.jpg?s=eca1cd3882ffc6fa556b7001ef0b15b9"
+  },
+  {
+    "name": "Thoumeaux, Gremmy",
+    "prompt": "Thoumeaux, Gremmy from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/245647.jpg?s=d1c6f57ccf839959b9788ead5318260b"
+  },
+  {
+    "name": "Thunderwitch, Cirucci",
+    "prompt": "Thunderwitch, Cirucci from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/33248.jpg?s=757f43c484d06c8c75bef4773be6f2b2"
+  },
+  {
+    "name": "Tousen, Kaname",
+    "prompt": "Tousen, Kaname from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/33249.jpg?s=69f2b58cff6bb604341f0038f262c3c4"
+  },
+  {
+    "name": "Tu Oderschvank, Nelliel",
+    "prompt": "Tu Oderschvank, Nelliel from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/531419.jpg?s=af77808a2bb2a63ae27f46d7fd290992"
+  },
+  {
+    "name": "Ukitake, Juushirou",
+    "prompt": "Ukitake, Juushirou from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/33251.jpg?s=49a8015bf5e4ef1967ba4df44ad7771e"
+  },
+  {
+    "name": "Unohana, Retsu",
+    "prompt": "Unohana, Retsu from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/33252.jpg?s=913cf51c6745995193ac5befbee94570"
+  },
+  {
+    "name": "Urahara, Kisuke",
+    "prompt": "Urahara, Kisuke from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/149491.jpg?s=0f14e8fbbf14dde646817cb8552e8908"
+  },
+  {
+    "name": "Ushouda, Hachigen",
+    "prompt": "Ushouda, Hachigen from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/94494.jpg?s=d5c58775c0382049ec6593a206acf8e4"
+  },
+  {
+    "name": "Valkyrie, Gerard",
+    "prompt": "Valkyrie, Gerard from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/524101.jpg?s=58790ffdff89c690c63ac9fde68ae7a0"
+  },
+  {
+    "name": "Waccabrada, PePe",
+    "prompt": "Waccabrada, PePe from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/547340.jpg?s=c3a6cb4b9eba555dd71bcd9f5e62a4f7"
+  },
+  {
+    "name": "Weizol, Nianzol",
+    "prompt": "Weizol, Nianzol from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/548142.jpg?s=7fe865e74f65ca848b6c2e91ae4cd07f"
+  },
+  {
+    "name": "Wolfman Clan Elder",
+    "prompt": "Wolfman Clan Elder from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/523483.jpg?s=deb0f1d4d1581a388c7341029f2670b9"
+  },
+  {
+    "name": "Yadoumaru, Lisa",
+    "prompt": "Yadoumaru, Lisa from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/45939.jpg?s=8292fdc10684ed907c8358bc4a1c98ce"
+  },
+  {
+    "name": "Yamamoto-Genryuusai, Shigekuni",
+    "prompt": "Yamamoto-Genryuusai, Shigekuni from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/33294.jpg?s=91124999bf07aecce422148f97ac6291"
+  },
+  {
+    "name": "Yhwach",
+    "prompt": "Yhwach from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/396645.jpg?s=cb88dac43b0974aa1af7ed51e731acd9"
+  },
+  {
+    "name": "Zangetsu",
+    "prompt": "Zangetsu from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/33260.jpg?s=c31ce727ee00010ae64cd28947f4ddc7"
+  },
+  {
+    "name": "Zaraki, Kenpachi",
+    "prompt": "Zaraki, Kenpachi from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/150265.jpg?s=a7bda35cc8518a68480cd334baa5e12a"
+  },
+  {
+    "name": "Zeidritz, Johann",
+    "prompt": "Zeidritz, Johann from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/548001.jpg?s=2c6882f9ed21078e1da863fa96d5f53e"
+  },
+  {
+    "name": "Zenjouji, Uhin",
+    "prompt": "Zenjouji, Uhin from Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/552033.jpg?s=04db08b15ad582751a0b5463f87a5be3"
+  }
+]

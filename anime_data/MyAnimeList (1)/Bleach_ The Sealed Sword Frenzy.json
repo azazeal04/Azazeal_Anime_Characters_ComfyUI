@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Baishin",
+    "prompt": "Baishin from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/153267.jpg?s=5a15413f8e1d732653010ea183f39c29"
+  },
+  {
+    "name": "Kuchiki, Rukia",
+    "prompt": "Kuchiki, Rukia from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/78215.jpg?s=2a0f7f516f3e5b213833e9f9a9de4a51"
+  },
+  {
+    "name": "Kurosaki, Ichigo",
+    "prompt": "Kurosaki, Ichigo from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/512788.jpg?s=55ff462576b32a74758448436f35dcbb"
+  },
+  {
+    "name": "Abarai, Renji",
+    "prompt": "Abarai, Renji from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/171877.jpg?s=e4fb4773c11884cd26a4eaed44ca3f6d"
+  },
+  {
+    "name": "Aizen, Sousuke",
+    "prompt": "Aizen, Sousuke from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/73909.jpg?s=1a450d31fd432b46314048dbb3915fc4"
+  },
+  {
+    "name": "Ayasegawa, Yumichika",
+    "prompt": "Ayasegawa, Yumichika from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/33228.jpg?s=91e220ec6468364aa25b9a7ea23bdb8f"
+  },
+  {
+    "name": "Hanakari, Jinta",
+    "prompt": "Hanakari, Jinta from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/208303.jpg?s=7f279466ef8226ee8f8673761712a61f"
+  },
+  {
+    "name": "Hinamori, Momo",
+    "prompt": "Hinamori, Momo from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/33231.jpg?s=03dbd7555461218708c86fd953d633e6"
+  },
+  {
+    "name": "Hisagi, Shuuhei",
+    "prompt": "Hisagi, Shuuhei from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/76390.jpg?s=a82209807ae4ef998e7b4399200d8908"
+  },
+  {
+    "name": "Hitsugaya, Toushirou",
+    "prompt": "Hitsugaya, Toushirou from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/36579.jpg?s=fec37a5d08dbe1f8e806d3f9ce9d7f4f"
+  },
+  {
+    "name": "Ichimaru, Gin",
+    "prompt": "Ichimaru, Gin from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/98077.jpg?s=1c0bf6a253287b0c1ed77d8d9530cd42"
+  },
+  {
+    "name": "Ise, Nanao",
+    "prompt": "Ise, Nanao from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/33233.jpg?s=aaf516f7bb2edc8c9250bd96f329e879"
+  },
+  {
+    "name": "Kira, Izuru",
+    "prompt": "Kira, Izuru from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/33234.jpg?s=9d8f4700de0ef47b440523c48cdf8ea9"
+  },
+  {
+    "name": "Komamura, Sajin",
+    "prompt": "Komamura, Sajin from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/59028.jpg?s=4cd3017d94232b3480023fb0d230952e"
+  },
+  {
+    "name": "Kon",
+    "prompt": "Kon from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/102740.jpg?s=f91b0f029056ba25d9aa2dbdc088ce92"
+  },
+  {
+    "name": "Kotetsu, Isane",
+    "prompt": "Kotetsu, Isane from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/33236.jpg?s=9546bafbe41e2f9c520474c5ee65233c"
+  },
+  {
+    "name": "Kotetsu, Kiyone",
+    "prompt": "Kotetsu, Kiyone from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/85347.jpg?s=e9594c7af2cac6f8f83274e810f03181"
+  },
+  {
+    "name": "Kuchiki, Byakuya",
+    "prompt": "Kuchiki, Byakuya from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/100098.jpg?s=c184bfa12ef0b29cc48d31e986d011ad"
+  },
+  {
+    "name": "Kurosaki, Karin",
+    "prompt": "Kurosaki, Karin from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/158885.jpg?s=f18b6557e88d81a1548dccae7a82a202"
+  },
+  {
+    "name": "Kurosaki, Isshin",
+    "prompt": "Kurosaki, Isshin from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/97168.jpg?s=894c36b2c23f0b3ce6690d67133f4701"
+  },
+  {
+    "name": "Kurosaki, Yuzu",
+    "prompt": "Kurosaki, Yuzu from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/33289.jpg?s=2407eb00b96b3a7d3f15931908f21309"
+  },
+  {
+    "name": "Kurotsuchi, Nemu",
+    "prompt": "Kurotsuchi, Nemu from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/33239.jpg?s=de1a35debfb5cea80425f5238a46198f"
+  },
+  {
+    "name": "Kusajishi, Yachiru",
+    "prompt": "Kusajishi, Yachiru from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/85348.jpg?s=e7b37282b1de3e3d6072176c475787af"
+  },
+  {
+    "name": "Kyouraku, Shunsui Jirou Sakuranosuke",
+    "prompt": "Kyouraku, Shunsui Jirou Sakuranosuke from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/33242.jpg?s=7445a3128d9b5e325c2c49b7a7e6ab92"
+  },
+  {
+    "name": "Madarame, Ikkaku",
+    "prompt": "Madarame, Ikkaku from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/33243.jpg?s=3fe358bed3801d0465927c401c5004e2"
+  },
+  {
+    "name": "Matsumoto, Rangiku",
+    "prompt": "Matsumoto, Rangiku from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/520193.jpg?s=7230b409bd7466d6f38d280000edce09"
+  },
+  {
+    "name": "Shiba, Ganju",
+    "prompt": "Shiba, Ganju from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/61005.jpg?s=1e4c23eb649bf8d4c65dd1f0d92341db"
+  },
+  {
+    "name": "Shihouin, Yoruichi",
+    "prompt": "Shihouin, Yoruichi from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/536084.jpg?s=328558550e2e5c85394d1982471151a5"
+  },
+  {
+    "name": "Soi Fon",
+    "prompt": "Soi Fon from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/76136.jpg?s=eca1cd3882ffc6fa556b7001ef0b15b9"
+  },
+  {
+    "name": "Tousen, Kaname",
+    "prompt": "Tousen, Kaname from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/33249.jpg?s=69f2b58cff6bb604341f0038f262c3c4"
+  },
+  {
+    "name": "Tsumugiya, Ururu",
+    "prompt": "Tsumugiya, Ururu from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/40505.jpg?s=988e1edf0a7f043a96428638ace83a06"
+  },
+  {
+    "name": "Ukitake, Juushirou",
+    "prompt": "Ukitake, Juushirou from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/33251.jpg?s=49a8015bf5e4ef1967ba4df44ad7771e"
+  },
+  {
+    "name": "Urahara, Kisuke",
+    "prompt": "Urahara, Kisuke from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/149491.jpg?s=0f14e8fbbf14dde646817cb8552e8908"
+  },
+  {
+    "name": "Yamada, Hanatarou",
+    "prompt": "Yamada, Hanatarou from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/68624.jpg?s=17af2c04b899710fe7fc6a6d25932981"
+  },
+  {
+    "name": "Zaraki, Kenpachi",
+    "prompt": "Zaraki, Kenpachi from Bleach: The Sealed Sword Frenzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/150265.jpg?s=a7bda35cc8518a68480cd334baa5e12a"
+  }
+]

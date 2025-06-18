@@ -1,0 +1,567 @@
+[
+  {
+    "name": "Midoriya, Izuku",
+    "prompt": "Midoriya, Izuku from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/299404.jpg?s=6a448d3702c1d3185ed7ad8f0b8484f0"
+  },
+  {
+    "name": "Aizawa, Shouta",
+    "prompt": "Aizawa, Shouta from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/301855.jpg?s=30bde8aa7f840805f22ab894a1eca521"
+  },
+  {
+    "name": "Akaguro, Chizome",
+    "prompt": "Akaguro, Chizome from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/331442.jpg?s=cc986fdbae5d5bee3508c4619043c1d1"
+  },
+  {
+    "name": "All For One",
+    "prompt": "All For One from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/370136.jpg?s=9a8bbc134d9c1719cacb71c58d863e72"
+  },
+  {
+    "name": "All Might",
+    "prompt": "All Might from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/310613.jpg?s=2bb273c38247c38003176367645e6488"
+  },
+  {
+    "name": "Amajiki, Tamaki",
+    "prompt": "Amajiki, Tamaki from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/409263.jpg?s=8abef23972ddb5c8a27b71f936919f30"
+  },
+  {
+    "name": "Aoyama, Yuuga",
+    "prompt": "Aoyama, Yuuga from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/300752.jpg?s=9d07d0a55f0a3237206588553b8bf1d1"
+  },
+  {
+    "name": "Ashido, Mina",
+    "prompt": "Ashido, Mina from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/329525.jpg?s=9d19261a645b157c6533a9c883b4a2df"
+  },
+  {
+    "name": "Asui, Tsuyu",
+    "prompt": "Asui, Tsuyu from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/299409.jpg?s=007a26c2a56f15a578815945d1bb2d53"
+  },
+  {
+    "name": "Backdraft",
+    "prompt": "Backdraft from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/301657.jpg?s=714180f01de95f4ff5b32843fbc14395"
+  },
+  {
+    "name": "Bakugou, Katsuki",
+    "prompt": "Bakugou, Katsuki from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/299406.jpg?s=7ce7f3b38b2ebe0fd31b3a313fa14fe9"
+  },
+  {
+    "name": "Bakugou, Mitsuki",
+    "prompt": "Bakugou, Mitsuki from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/359201.jpg?s=dd7801472033b92c6193967fa1c60ea3"
+  },
+  {
+    "name": "Banjou, Daigorou",
+    "prompt": "Banjou, Daigorou from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/451984.jpg?s=b7e3721096bbd76bdddd05b39e2692be"
+  },
+  {
+    "name": "Bate, Cathleen",
+    "prompt": "Bate, Cathleen from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/507077.jpg?s=f25b9c0538e9f5ceaf4c78c9249aafea"
+  },
+  {
+    "name": "Bruce",
+    "prompt": "Bruce from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/506786.jpg?s=a23c2f8a62a5e34bc14715e5edda53fb"
+  },
+  {
+    "name": "Bubaigawara, Jin",
+    "prompt": "Bubaigawara, Jin from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/336399.jpg?s=5631c3e3f6d06a03ce3e9a7c39d247b8"
+  },
+  {
+    "name": "Chikazoku, Tomoyasu",
+    "prompt": "Chikazoku, Tomoyasu from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/454746.jpg?s=07fad36f5d2f8c88c37bb11c04ccac6c"
+  },
+  {
+    "name": "Chisaki, Kai",
+    "prompt": "Chisaki, Kai from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/363701.jpg?s=d81d9d3b1caec291bdfaafae481c8ae3"
+  },
+  {
+    "name": "Crust",
+    "prompt": "Crust from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/410201.jpg?s=aeaae313970b8448d007ea7b5ddf30b1"
+  },
+  {
+    "name": "Dabi",
+    "prompt": "Dabi from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/454749.jpg?s=2adee85c26f3d880c5baebf72c5e5056"
+  },
+  {
+    "name": "Desutegoro",
+    "prompt": "Desutegoro from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/301656.jpg?s=46bf63ab2f008153fa04a581629778ff"
+  },
+  {
+    "name": "Eel Boy",
+    "prompt": "Eel Boy from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/505932.jpg?s=3f853aff8d6e65d042e76af0cb5a476e"
+  },
+  {
+    "name": "Eri",
+    "prompt": "Eri from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/351019.jpg?s=f8481f72139fcd593b6ae8fcf2848a55"
+  },
+  {
+    "name": "Geten",
+    "prompt": "Geten from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/454743.jpg?s=aa7c9943dcb2c7046473b7cd4d1c3be1"
+  },
+  {
+    "name": "Gigantomachia",
+    "prompt": "Gigantomachia from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/461134.jpg?s=10ba8f6fc5e02ec3b236a63caa22ab6f"
+  },
+  {
+    "name": "Giran",
+    "prompt": "Giran from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/336362.jpg?s=ed4012a7e082bc393a326a5144ef811d"
+  },
+  {
+    "name": "Hadou, Nejire",
+    "prompt": "Hadou, Nejire from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/365145.jpg?s=ef9813cd3f5c66c63db0def538f294aa"
+  },
+  {
+    "name": "Hagakure, Tooru",
+    "prompt": "Hagakure, Tooru from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/301045.jpg?s=cc99e993a37c8b98554a18f81c26b538"
+  },
+  {
+    "name": "Hakamada, Tsunagu",
+    "prompt": "Hakamada, Tsunagu from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/334175.jpg?s=6a4fa953896de35d8c6b2add40114552"
+  },
+  {
+    "name": "Hanabata, Koukuu",
+    "prompt": "Hanabata, Koukuu from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/454747.jpg?s=d17b1ff7892120bc9d1bbeae472b0c0b"
+  },
+  {
+    "name": "Hawks' Father",
+    "prompt": "Hawks' Father from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hawks' Mother",
+    "prompt": "Hawks' Mother from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/507068.jpg?s=a6681c558d96f6c55fd04981005ea019"
+  },
+  {
+    "name": "Iguchi, Shuuichi",
+    "prompt": "Iguchi, Shuuichi from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/340998.jpg?s=b043a9c5d8ab06747a328dc6c03650d9"
+  },
+  {
+    "name": "Iida, Tenya",
+    "prompt": "Iida, Tenya from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/299417.jpg?s=ae97d822ef7c4cdbe392766389c3f5f1"
+  },
+  {
+    "name": "Ishiyama, Ken",
+    "prompt": "Ishiyama, Ken from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/333078.jpg?s=daf44d725c55e25c7ffbf6547bdcab53"
+  },
+  {
+    "name": "Izumi, Kouta",
+    "prompt": "Izumi, Kouta from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/350417.jpg?s=605d325e43a8469a955bc8540df1f86b"
+  },
+  {
+    "name": "Jirou, Kyouka",
+    "prompt": "Jirou, Kyouka from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/300745.jpg?s=c0e7c66c088b06ea9d3806ce852e84f4"
+  },
+  {
+    "name": "Kamihara, Shinya",
+    "prompt": "Kamihara, Shinya from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/340831.jpg?s=9ff46d40503fdc44f82864d7ff17cd81"
+  },
+  {
+    "name": "Kamiji, Moe",
+    "prompt": "Kamiji, Moe from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/478560.jpg?s=6c87bb2c4e60cdcac1a5faa891edbb4d"
+  },
+  {
+    "name": "Kaminari, Denki",
+    "prompt": "Kaminari, Denki from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/329527.jpg?s=bdd623918f5fa850d8f2e877318a4a0b"
+  },
+  {
+    "name": "Kannagi, Enma",
+    "prompt": "Kannagi, Enma from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/502515.jpg?s=28227fdc8e61029d9a0c092e6c4f5cd4"
+  },
+  {
+    "name": "Kayama, Nemuri",
+    "prompt": "Kayama, Nemuri from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/366576.jpg?s=ef9b62fe75f8744d82dc6b206d3e33fb"
+  },
+  {
+    "name": "Kendou, Itsuka",
+    "prompt": "Kendou, Itsuka from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/366577.jpg?s=f2158862a269c0295ff07168a7f897ad"
+  },
+  {
+    "name": "Kirishima, Eijirou",
+    "prompt": "Kirishima, Eijirou from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/329529.jpg?s=cbfca4fce697447408c68a94d519b1b0"
+  },
+  {
+    "name": "Komori, Kinoko",
+    "prompt": "Komori, Kinoko from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/329067.jpg?s=39127b0d7ae4bffdf918788e0a0c5088"
+  },
+  {
+    "name": "Kouda, Kouji",
+    "prompt": "Kouda, Kouji from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/301044.jpg?s=b41351f86e128d6086aa27f93bc94dbe"
+  },
+  {
+    "name": "Kudou",
+    "prompt": "Kudou from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/542577.jpg?s=0af33bec7f48395379716453572ab747"
+  },
+  {
+    "name": "Kuroiro, Shihai",
+    "prompt": "Kuroiro, Shihai from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/329070.jpg?s=b0c957158d1a3750a3d1b87746053292"
+  },
+  {
+    "name": "Midoriya, Inko",
+    "prompt": "Midoriya, Inko from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/301940.jpg?s=0c9bd5d7f899ceb146caeb1b5ba1ce14"
+  },
+  {
+    "name": "Mineta, Minoru",
+    "prompt": "Mineta, Minoru from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/299413.jpg?s=741bc5ed3c8c36569aa514e7a7addec8"
+  },
+  {
+    "name": "Mizushima, Masaki",
+    "prompt": "Mizushima, Masaki from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/359962.jpg?s=9e9f401c0a688bf27c2faeed7a0e67a5"
+  },
+  {
+    "name": "Moonfish",
+    "prompt": "Moonfish from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/365142.jpg?s=5da19ed7ada498218724740b03bcdc8b"
+  },
+  {
+    "name": "Muscular",
+    "prompt": "Muscular from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/362580.jpg?s=8dc2ff4845a214813ef4aa0453d447f6"
+  },
+  {
+    "name": "Nakagame, Tatami",
+    "prompt": "Nakagame, Tatami from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/360118.jpg?s=238f9ae24213adb9af8a379f620ad30c"
+  },
+  {
+    "name": "Nezu",
+    "prompt": "Nezu from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/333081.jpg?s=9fa8fc86b6a27cd8cc68f9e2e39d3610"
+  },
+  {
+    "name": "Nishiya, Shinji",
+    "prompt": "Nishiya, Shinji from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/301653.jpg?s=9dacc3b0620370d2481ea656a213e39b"
+  },
+  {
+    "name": "Ordinary Woman",
+    "prompt": "Ordinary Woman from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/504497.jpg?s=3da2c6fb078606ce64a34b2cb0caa8d1"
+  },
+  {
+    "name": "Public Safety Commission President",
+    "prompt": "Public Safety Commission President from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/405343.jpg?s=531f2e65d05949f6f1fa5f63b8ab0c1b"
+  },
+  {
+    "name": "Sakamata, Kuugo",
+    "prompt": "Sakamata, Kuugo from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/360133.jpg?s=f01d7d3bf9617d9d699b29c9d1ca6c4a"
+  },
+  {
+    "name": "Sako, Atsuhiro",
+    "prompt": "Sako, Atsuhiro from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/362578.jpg?s=0243b2b45e72f2ab45ee7c50597a4f05"
+  },
+  {
+    "name": "Satou, Rikidou",
+    "prompt": "Satou, Rikidou from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/301040.jpg?s=c035cf23d1be7d7ffe2de95421b1506b"
+  },
+  {
+    "name": "Sero, Hanta",
+    "prompt": "Sero, Hanta from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/301034.jpg?s=9c53e5d0b43a194eafe90943baec6d10"
+  },
+  {
+    "name": "Shigaraki, Yoichi",
+    "prompt": "Shigaraki, Yoichi from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/478562.jpg?s=bc1b8d39ca02396d503d698a400afdc8"
+  },
+  {
+    "name": "Shigaraki, Tomura",
+    "prompt": "Shigaraki, Tomura from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/272139.jpg?s=ee7d051f5ff04bd4fe6830e0d268cb10"
+  },
+  {
+    "name": "Shimura, Koutarou",
+    "prompt": "Shimura, Koutarou from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/484494.jpg?s=ec9a1b6dd091e33c22c760014f611bb1"
+  },
+  {
+    "name": "Shimura, Hana",
+    "prompt": "Shimura, Hana from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/495063.jpg?s=9f3ff55eb71e89f14dffaab87fac76e6"
+  },
+  {
+    "name": "Shimura, Nana",
+    "prompt": "Shimura, Nana from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/361251.jpg?s=23ab6d215e8b7fc642c17e503cc12491"
+  },
+  {
+    "name": "Shimura, Nao",
+    "prompt": "Shimura, Nao from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/502517.jpg?s=5a81d1a356e5c4d1668b8d9b3cf89c74"
+  },
+  {
+    "name": "Shindou, You",
+    "prompt": "Shindou, You from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/360114.jpg?s=437030025147868b3419b873418f431c"
+  },
+  {
+    "name": "Shinomori, Hikage",
+    "prompt": "Shinomori, Hikage from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/502518.jpg?s=77cc39b821ea8f7c545381131739873d"
+  },
+  {
+    "name": "Shiozaki, Ibara",
+    "prompt": "Shiozaki, Ibara from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/341139.jpg?s=276bdd519658f6dcfa10c8d20501236b"
+  },
+  {
+    "name": "Shirakumo, Oboro",
+    "prompt": "Shirakumo, Oboro from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/565787.jpg?s=844c2e6182600cfefe6868376428db25"
+  },
+  {
+    "name": "Shiretoko, Tomoko",
+    "prompt": "Shiretoko, Tomoko from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/350414.jpg?s=9fb801f82b967439a61b11dc223958d0"
+  },
+  {
+    "name": "Shishida, Juurouta",
+    "prompt": "Shishida, Juurouta from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/329055.jpg?s=76f95928bd8662950303f1a49098832d"
+  },
+  {
+    "name": "Shouda, Nirengeki",
+    "prompt": "Shouda, Nirengeki from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/329061.jpg?s=2ed9a4b8b1a863f10211785de1be446b"
+  },
+  {
+    "name": "Shouji, Mezou",
+    "prompt": "Shouji, Mezou from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/300743.jpg?s=befe73757260a13762736dbb49a0e177"
+  },
+  {
+    "name": "Snipe",
+    "prompt": "Snipe from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/517346.jpg?s=89a19d192c9d3ecc49f6631376621454"
+  },
+  {
+    "name": "Sousaki, Shino",
+    "prompt": "Sousaki, Shino from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/350413.jpg?s=5fcd301f3d8e7cf66b3c2538a768633d"
+  },
+  {
+    "name": "Takagi, Ken",
+    "prompt": "Takagi, Ken from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/389630.jpg?s=614e9d3c12c0538d1952d1df924726bb"
+  },
+  {
+    "name": "Takami, Keigo",
+    "prompt": "Takami, Keigo from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/408739.jpg?s=c0ba97e8a5379b94806d40bc9f07c42c"
+  },
+  {
+    "name": "Takeyama, Yuu",
+    "prompt": "Takeyama, Yuu from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/301652.jpg?s=3caf80080ec5cc1f183ea957607085fb"
+  },
+  {
+    "name": "Tamagawa, Sansa",
+    "prompt": "Tamagawa, Sansa from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/589323.jpg?s=b068abc388b7f4dabd3c3f7cbcfc8bfc"
+  },
+  {
+    "name": "Tameda, Hiroshi",
+    "prompt": "Tameda, Hiroshi from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/410371.jpg?s=004c6019d02e5012c7c7e4703c0131b7"
+  },
+  {
+    "name": "Taser Vilain",
+    "prompt": "Taser Vilain from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/493990.jpg?s=209d1698a073514ffd6982110d67eeaf"
+  },
+  {
+    "name": "Tatsuma, Ryuuko",
+    "prompt": "Tatsuma, Ryuuko from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/398921.jpg?s=b627374734652a8e968bc92a82424322"
+  },
+  {
+    "name": "Tayutai, En",
+    "prompt": "Tayutai, En from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/503104.jpg?s=85dfefcf499c95d833f21341868c2ed2"
+  },
+  {
+    "name": "Tetsutetsu, Tetsutetsu",
+    "prompt": "Tetsutetsu, Tetsutetsu from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/329049.jpg?s=b5ec350e588653f85f72bfe166e0c1c8"
+  },
+  {
+    "name": "Thirteen",
+    "prompt": "Thirteen from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/333084.jpg?s=092ed0eb7997393d0852acd05db826ee"
+  },
+  {
+    "name": "Todoroki, Shouto",
+    "prompt": "Todoroki, Shouto from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/332527.jpg?s=575a733f7d22b2b94a12194e051932de"
+  },
+  {
+    "name": "Todoroki, Natsuo",
+    "prompt": "Todoroki, Natsuo from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/410370.jpg?s=90689e83ee97638b5d3f440d35ba924b"
+  },
+  {
+    "name": "Todoroki, Rei",
+    "prompt": "Todoroki, Rei from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/332472.jpg?s=051d946bf147efa56497fc5a54e3dd0f"
+  },
+  {
+    "name": "Todoroki, Enji",
+    "prompt": "Todoroki, Enji from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/414269.jpg?s=50d7c23bab46581a7c204622a2405db9"
+  },
+  {
+    "name": "Todoroki, Fuyumi",
+    "prompt": "Todoroki, Fuyumi from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/332477.jpg?s=eef7d91173b4dc3272be11c2a7fdea2d"
+  },
+  {
+    "name": "Toga, Himiko",
+    "prompt": "Toga, Himiko from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/485281.jpg?s=6ac12e3a74c7c7603ddf524672c378b2"
+  },
+  {
+    "name": "Tokage, Setsuna",
+    "prompt": "Tokage, Setsuna from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/329064.jpg?s=e672e89c734b1ec75ddce54ed7ef3aaf"
+  },
+  {
+    "name": "Tokoname, Tatsuyuki",
+    "prompt": "Tokoname, Tatsuyuki from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/478561.jpg?s=f5673829149d13e875a6fd278ccaaa1b"
+  },
+  {
+    "name": "Tokoyami, Fumikage",
+    "prompt": "Tokoyami, Fumikage from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/299402.jpg?s=d73e716fbb2763b3ba1a77289939bf12"
+  },
+  {
+    "name": "Toogata, Mirio",
+    "prompt": "Toogata, Mirio from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/349440.jpg?s=a5a970bcb376cd715895b63a36cd995a"
+  },
+  {
+    "name": "Torino, Sorahiko",
+    "prompt": "Torino, Sorahiko from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/334187.jpg?s=41843e4e790f7268a38258a0ecc147ae"
+  },
+  {
+    "name": "Toteki, Itejirou",
+    "prompt": "Toteki, Itejirou from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/361225.jpg?s=e2aa71a81787904682c76b262b24acd2"
+  },
+  {
+    "name": "Toyomitsu, Taishirou",
+    "prompt": "Toyomitsu, Taishirou from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/407140.jpg?s=c2830784381cd5976e4be216bcd646d3"
+  },
+  {
+    "name": "Tsuchikawa, Ryuuko",
+    "prompt": "Tsuchikawa, Ryuuko from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/350415.jpg?s=5531fa1a60e40942c989d6667f82ef10"
+  },
+  {
+    "name": "Tsukauchi, Naomasa",
+    "prompt": "Tsukauchi, Naomasa from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/584633.jpg?s=f5c71cf137032221b0f8832a53a94b8e"
+  },
+  {
+    "name": "Tsutsumi, Kaina",
+    "prompt": "Tsutsumi, Kaina from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/501763.jpg?s=06e3809591d21101d0623f445c72abcf"
+  },
+  {
+    "name": "Ujiko, Daruma",
+    "prompt": "Ujiko, Daruma from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/416224.jpg?s=20d027c8234f791401ed5d8636ecbed0"
+  },
+  {
+    "name": "Uraraka, Ochako",
+    "prompt": "Uraraka, Ochako from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/299421.jpg?s=5c7499bacd3f2c8f4238253a5877c757"
+  },
+  {
+    "name": "Usagiyama, Rumi",
+    "prompt": "Usagiyama, Rumi from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/415149.jpg?s=968fa13ae6395975472924a096b90da8"
+  },
+  {
+    "name": "Wash",
+    "prompt": "Wash from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/410202.jpg?s=8cd6c866b5916dfaaddad88546f0e4af"
+  },
+  {
+    "name": "Yamada, Hizashi",
+    "prompt": "Yamada, Hizashi from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/301650.jpg?s=1c11c5030e2f9c76e778081a463dba39"
+  },
+  {
+    "name": "Yanagi, Reiko",
+    "prompt": "Yanagi, Reiko from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/329056.jpg?s=0e5ee46140015e76b707c6b36e97876c"
+  },
+  {
+    "name": "Yaoyorozu, Momo",
+    "prompt": "Yaoyorozu, Momo from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/562316.jpg?s=bd0f31951d784f77f2d5b78e568b6115"
+  },
+  {
+    "name": "Yoroi Musha",
+    "prompt": "Yoroi Musha from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/410203.jpg?s=2e31c4d639612cb3b83120eaf663eb7a"
+  },
+  {
+    "name": "Yotsubashi, Rikiya",
+    "prompt": "Yotsubashi, Rikiya from Boku no Hero Academia 6th Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/454752.jpg?s=f44bd9c4b24e1e84c361d27804e1478c"
+  }
+]
