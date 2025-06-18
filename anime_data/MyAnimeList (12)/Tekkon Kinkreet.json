@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Kuro",
+    "prompt": "Kuro from Tekkon Kinkreet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/189462.jpg?s=f4dcdd1783a755028e2788cf27885bb6"
+  },
+  {
+    "name": "Shiro",
+    "prompt": "Shiro from Tekkon Kinkreet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/189438.jpg?s=3967903c6ef2a5da687796445858be2c"
+  },
+  {
+    "name": "Chocolat",
+    "prompt": "Chocolat from Tekkon Kinkreet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/379376.jpg?s=3c82fc6fa79a3aa1cb85ca3ff22c4372"
+  },
+  {
+    "name": "Fujimura",
+    "prompt": "Fujimura from Tekkon Kinkreet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/249657.jpg?s=d8a2b59ae3e0487c5c59f76fb80f416e"
+  },
+  {
+    "name": "Jiccha",
+    "prompt": "Jiccha from Tekkon Kinkreet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/379377.jpg?s=65eb08b1e0f076f639dfe17c5c9d0cc8"
+  },
+  {
+    "name": "Kimura",
+    "prompt": "Kimura from Tekkon Kinkreet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/271521.jpg?s=f0aa3e8eafc1d197376ca3e40bd2ace2"
+  },
+  {
+    "name": "Sawada",
+    "prompt": "Sawada from Tekkon Kinkreet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/338500.jpg?s=2f44998b2feceba52bec8b543ed9e65c"
+  },
+  {
+    "name": "Snake",
+    "prompt": "Snake from Tekkon Kinkreet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/271513.jpg?s=f29e48e3ece2dd1482523f4e4ff531a2"
+  },
+  {
+    "name": "Suzuki",
+    "prompt": "Suzuki from Tekkon Kinkreet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/271519.jpg?s=1b1ea86b02fd7a3ec3c0aec5ce8904d5"
+  },
+  {
+    "name": "The Minotaur",
+    "prompt": "The Minotaur from Tekkon Kinkreet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/96978.jpg?s=5368b7e01361dde509b3e741036cb850"
+  },
+  {
+    "name": "Yakuza Boss",
+    "prompt": "Yakuza Boss from Tekkon Kinkreet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/379379.jpg?s=c963f194e03b0ccfa267360133ac6872"
+  }
+]

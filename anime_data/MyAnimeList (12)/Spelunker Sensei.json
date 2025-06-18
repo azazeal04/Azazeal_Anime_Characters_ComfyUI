@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Spelunker",
+    "prompt": "Spelunker from Spelunker Sensei",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/112155.jpg?s=6a4fc3519dc61d3e6bc0578244f6d10b"
+  },
+  {
+    "name": "Delinquent Student",
+    "prompt": "Delinquent Student from Spelunker Sensei",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/182949.jpg?s=d81fbfa3d8fbe0671eb4c650ff5a0473"
+  },
+  {
+    "name": "Female Teacher",
+    "prompt": "Female Teacher from Spelunker Sensei",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/182945.jpg?s=92af3abcbe31dcc8cd41ca2031ce855b"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Spelunker Sensei",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "PE Teacher",
+    "prompt": "PE Teacher from Spelunker Sensei",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/182943.jpg?s=797112082951ac716b6cfbea1c1a83d3"
+  }
+]

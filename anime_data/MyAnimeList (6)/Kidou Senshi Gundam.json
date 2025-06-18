@@ -1,0 +1,527 @@
+[
+  {
+    "name": "Aznable, Char",
+    "prompt": "Aznable, Char from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/565387.jpg?s=0b208bd2c86d0838fca9dc391255cecb"
+  },
+  {
+    "name": "Ray, Amuro",
+    "prompt": "Ray, Amuro from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/324745.jpg?s=fa51c400ce9121fcf23335e65a8f3554"
+  },
+  {
+    "name": "Ajan, Matilda",
+    "prompt": "Ajan, Matilda from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/95464.jpg?s=001b7190da6903ecdf230e1c82f29b98"
+  },
+  {
+    "name": "Akahana",
+    "prompt": "Akahana from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/342079.jpg?s=cff88173cf970a60ead3bc3ea65776cd"
+  },
+  {
+    "name": "Al Bakharov, Simus",
+    "prompt": "Al Bakharov, Simus from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/595276.jpg?s=203bd7a043785c49c5136008858ec2cf"
+  },
+  {
+    "name": "Asakura",
+    "prompt": "Asakura from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/342081.jpg?s=b0fb681bdbc9e45c12420499f689291f"
+  },
+  {
+    "name": "Bamro",
+    "prompt": "Bamro from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/342082.jpg?s=224c43a84309eb447c477a054c50131f"
+  },
+  {
+    "name": "Barom",
+    "prompt": "Barom from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/342083.jpg?s=5a2acc1ccb4c6d72573120ca881e6514"
+  },
+  {
+    "name": "Bloom, Cameron",
+    "prompt": "Bloom, Cameron from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/117753.jpg?s=4695cba5f43036c4943a8cadd1716810"
+  },
+  {
+    "name": "Boone, Flanagan",
+    "prompt": "Boone, Flanagan from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/342084.jpg?s=fd70e933a8df8a35e9b8b731abef5121"
+  },
+  {
+    "name": "Bow, Fraw",
+    "prompt": "Bow, Fraw from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/69552.jpg?s=8fe51cfceb8a5c7429bb95df863dfe31"
+  },
+  {
+    "name": "Bull, Challia",
+    "prompt": "Bull, Challia from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/342085.jpg?s=160073f8df41ab66467338c8ab7d636c"
+  },
+  {
+    "name": "Callahan",
+    "prompt": "Callahan from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/342086.jpg?s=778bd68d9f3fe18913f02813a6a47a40"
+  },
+  {
+    "name": "Callas, Antonio",
+    "prompt": "Callas, Antonio from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/342291.jpg?s=8b8de23b0bf46cf48cd9a5efe5d7fadc"
+  },
+  {
+    "name": "Camilla",
+    "prompt": "Camilla from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/342295.jpg?s=184f5333fb81d7866662a77d211cdfcf"
+  },
+  {
+    "name": "Carioca",
+    "prompt": "Carioca from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/342296.jpg?s=36ac91bc94325dcdad0470227f4c0775"
+  },
+  {
+    "name": "Cassius, Paolo",
+    "prompt": "Cassius, Paolo from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/286361.jpg?s=c177af816004ffaade2c6317c484ae5c"
+  },
+  {
+    "name": "Chiyo",
+    "prompt": "Chiyo from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/342299.jpg?s=ad9f0af2aa73deabed405047e2b65af7"
+  },
+  {
+    "name": "Chuan, Rolland",
+    "prompt": "Chuan, Rolland from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/342301.jpg?s=86f36efdc522e8d38412bb1a43b3719a"
+  },
+  {
+    "name": "Clamp",
+    "prompt": "Clamp from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/342302.jpg?s=40af92a942c2603554449b57b66f9240"
+  },
+  {
+    "name": "Clan, Marker",
+    "prompt": "Clan, Marker from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/117752.jpg?s=76d3e9f75639a03d094abe84be84db8e"
+  },
+  {
+    "name": "Coaly",
+    "prompt": "Coaly from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/342475.jpg?s=081f64cfb26b32be882ce3f5173cd24b"
+  },
+  {
+    "name": "Connolly",
+    "prompt": "Connolly from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/286391.jpg?s=16c306f3744489254a944759cbe6588a"
+  },
+  {
+    "name": "Conscon",
+    "prompt": "Conscon from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/342477.jpg?s=307c87f609867c7211e3b0fb2f21569f"
+  },
+  {
+    "name": "Cowal",
+    "prompt": "Cowal from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/283904.jpg?s=e70c1c8d0ec418a30f4dab3fd2f97eca"
+  },
+  {
+    "name": "Crown",
+    "prompt": "Crown from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/581202.jpg?s=806237ea045332a40a4e4e1d70afdf2c"
+  },
+  {
+    "name": "Cuaran",
+    "prompt": "Cuaran from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/283912.jpg?s=af589b1fd56b2e3e9a1aba5c1ba41150"
+  },
+  {
+    "name": "Darota",
+    "prompt": "Darota from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/283922.jpg?s=b1bd126dd82fe086e44dc845fb3cc509"
+  },
+  {
+    "name": "Denim",
+    "prompt": "Denim from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/351633.jpg?s=45c6148a4a1dc06e620a32e85bd9ca6f"
+  },
+  {
+    "name": "Dimitri",
+    "prompt": "Dimitri from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/283925.jpg?s=d1ff30ce4eca3a467281bfbd34c19b4d"
+  },
+  {
+    "name": "Doan, Cucuruz",
+    "prompt": "Doan, Cucuruz from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/471991.jpg?s=28ff3e58c6cafc656d769d825162c2b9"
+  },
+  {
+    "name": "Dren",
+    "prompt": "Dren from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/286362.jpg?s=5148f3e20bc4c20690ed5e5ee706866a"
+  },
+  {
+    "name": "Dublin, Oscar",
+    "prompt": "Dublin, Oscar from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/238931.jpg?s=7285038905872076886012c6605942b3"
+  },
+  {
+    "name": "Elran",
+    "prompt": "Elran from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/283927.jpg?s=4cd8387c2836c74cecf60dcedfa48e5c"
+  },
+  {
+    "name": "Eschonbach, Joseph",
+    "prompt": "Eschonbach, Joseph from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/115384.jpg?s=1cd5bce51c1ae3771c3b756022e9c10f"
+  },
+  {
+    "name": "Eschonbach, Icelina",
+    "prompt": "Eschonbach, Icelina from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/115383.jpg?s=276d61f65fdd4011a310f5e18851406c"
+  },
+  {
+    "name": "Fang, Omur",
+    "prompt": "Fang, Omur from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/568293.jpg?s=39ec7f56b29022ef429c9ed35fa680b6"
+  },
+  {
+    "name": "Flanagan",
+    "prompt": "Flanagan from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/591379.jpg?s=516ba0a59587ee50f5c59cd58879ee8d"
+  },
+  {
+    "name": "Gadem",
+    "prompt": "Gadem from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/283930.jpg?s=94d71f609aabda51bfe40cb304ff24a9"
+  },
+  {
+    "name": "Gaia",
+    "prompt": "Gaia from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/454585.jpg?s=7da89f8fce4fb24b7003df30245a9a0d"
+  },
+  {
+    "name": "Gene",
+    "prompt": "Gene from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/351631.jpg?s=d955707e208b70a9410955a111330063"
+  },
+  {
+    "name": "Giyal",
+    "prompt": "Giyal from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/283933.jpg?s=0bc1fb2dbd640a77c437cb07cffcad75"
+  },
+  {
+    "name": "Gopp",
+    "prompt": "Gopp from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/454682.jpg?s=b95ed3a71892806b9521ac9e2be62825"
+  },
+  {
+    "name": "Graham, Cozun",
+    "prompt": "Graham, Cozun from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/283905.jpg?s=cb364f85a7c0999376bbabba7d314a55"
+  },
+  {
+    "name": "Hamon, Crowley",
+    "prompt": "Hamon, Crowley from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/117644.jpg?s=11796ae82c63ba60957d149ef709f084"
+  },
+  {
+    "name": "Han, Mosk",
+    "prompt": "Han, Mosk from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/591394.jpg?s=673d63f89f1fbee74bda9157b43a36f4"
+  },
+  {
+    "name": "Haro",
+    "prompt": "Haro from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/31834.jpg?s=9804c8628c60538fef080ce69938f20b"
+  },
+  {
+    "name": "J.Q.",
+    "prompt": "J.Q. from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/283935.jpg?s=03d4b59c86c59b9c16e870827ce0f5fd"
+  },
+  {
+    "name": "John, Job",
+    "prompt": "John, Job from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/66074.jpg?s=403d2abe79b99f27a0912bc0d443d582"
+  },
+  {
+    "name": "Jose, Ryu",
+    "prompt": "Jose, Ryu from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/64629.jpg?s=2ef24e3c0eb83f9309b111ae3c27d3d2"
+  },
+  {
+    "name": "Judock",
+    "prompt": "Judock from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/585444.jpg?s=e55fa132e70e2e812d852e55f4fabef3"
+  },
+  {
+    "name": "Kobayashi, Kikka",
+    "prompt": "Kobayashi, Kikka from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/87106.jpg?s=a6a24d4c21f566777bd792ca01d15612"
+  },
+  {
+    "name": "Kobayashi, Letz",
+    "prompt": "Kobayashi, Letz from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/95025.jpg?s=1d4db06bc8d2ce3849d8829451d15654"
+  },
+  {
+    "name": "Kobayashi, Hayato",
+    "prompt": "Kobayashi, Hayato from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/168967.jpg?s=1ba189a86350f98949deebab0c4e79f5"
+  },
+  {
+    "name": "Kobayashi, Katz",
+    "prompt": "Kobayashi, Katz from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/117643.jpg?s=5333cb5d9a3ac9b10186b5f834fddcb5"
+  },
+  {
+    "name": "Kom",
+    "prompt": "Kom from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/283940.jpg?s=240fad177f906d6117abb6e5708e4cd0"
+  },
+  {
+    "name": "Kum",
+    "prompt": "Kum from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/283941.jpg?s=252038e10a11e3aa7aa286fe7ca83358"
+  },
+  {
+    "name": "Lasa, Koka",
+    "prompt": "Lasa, Koka from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/283939.jpg?s=cfcfa43ca4b5f69c8ecd562e2015bfc6"
+  },
+  {
+    "name": "Law, Sleggar",
+    "prompt": "Law, Sleggar from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/117754.jpg?s=ed72a0b089c336ef30b5af73b1e95c7f"
+  },
+  {
+    "name": "M'Quve",
+    "prompt": "M'Quve from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/454660.jpg?s=f33c9f2a3f801dc9b24349b48e379e6e"
+  },
+  {
+    "name": "Malden, Woody",
+    "prompt": "Malden, Woody from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/117645.jpg?s=9c1b064d50ba5185479360566f5da8ba"
+  },
+  {
+    "name": "Mallygan",
+    "prompt": "Mallygan from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/584501.jpg?s=c5df3bebef7f08c9a9456353adf9c3bd"
+  },
+  {
+    "name": "Marshy",
+    "prompt": "Marshy from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/283942.jpg?s=8226d92ab8e56a8072b05ee14a457806"
+  },
+  {
+    "name": "Masaki",
+    "prompt": "Masaki from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/283943.jpg?s=c36852da9261d67c6a50bcd8325c8e6d"
+  },
+  {
+    "name": "Mash",
+    "prompt": "Mash from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/454584.jpg?s=528f779b8f21e16aed2b52126b5ff1b1"
+  },
+  {
+    "name": "Mass, Sayla",
+    "prompt": "Mass, Sayla from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/115368.jpg?s=0dc16157e070d46a876119c0754afd67"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Noa, Bright",
+    "prompt": "Noa, Bright from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/306002.jpg?s=915b736f3bf2ecedd40a2b81dd6a2d39"
+  },
+  {
+    "name": "O'Hara, Tachi",
+    "prompt": "O'Hara, Tachi from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/283963.jpg?s=4f01e95727780f4cc0381ae07dbb74ec"
+  },
+  {
+    "name": "Ortega",
+    "prompt": "Ortega from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/454583.jpg?s=b9b7ae62fa54bf0be0b3d6845e7e86b1"
+  },
+  {
+    "name": "Pergamino",
+    "prompt": "Pergamino from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/593743.jpg?s=c27d77279dfbaeb6e77da364eedceca5"
+  },
+  {
+    "name": "Pero",
+    "prompt": "Pero from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/283951.jpg?s=b5ba202d0a7b0687feac9d2fc47a7c9e"
+  },
+  {
+    "name": "Persia",
+    "prompt": "Persia from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/122855.jpg?s=039624a96186e77850f8751b73620301"
+  },
+  {
+    "name": "Rackoc",
+    "prompt": "Rackoc from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/283952.jpg?s=0b0d6896c0631369e1689335cd8b1d72"
+  },
+  {
+    "name": "Ral, Ramba",
+    "prompt": "Ral, Ramba from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/60858.jpg?s=e2398fd387895bc8a857274322bec85b"
+  },
+  {
+    "name": "Ratokie, Miharu",
+    "prompt": "Ratokie, Miharu from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/117647.jpg?s=6a9763993ca2203938b10bd7b0ea462f"
+  },
+  {
+    "name": "Ratokie, Milly",
+    "prompt": "Ratokie, Milly from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/283945.jpg?s=b18debcfe993710323e85e3079ea4909"
+  },
+  {
+    "name": "Ratokie, Jill",
+    "prompt": "Ratokie, Jill from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/283936.jpg?s=e68ff8172d5668ca34b0904d92bd4f7b"
+  },
+  {
+    "name": "Ray, Tem",
+    "prompt": "Ray, Tem from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/115389.jpg?s=5595a6ea4dd1d0919753fc2fb339b14c"
+  },
+  {
+    "name": "Ray, Kamaria",
+    "prompt": "Ray, Kamaria from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/115388.jpg?s=02d7594d5caea226ad6631af7fe53bf1"
+  },
+  {
+    "name": "Reed",
+    "prompt": "Reed from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/283953.jpg?s=7791b8a9a781edf0e49a4224b61d4546"
+  },
+  {
+    "name": "Revil, Johann Abraham",
+    "prompt": "Revil, Johann Abraham from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/117646.jpg?s=4833b3afc24873ec616e7479756db623"
+  },
+  {
+    "name": "Seki",
+    "prompt": "Seki from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/283955.jpg?s=69ecc206230369f0e1ec5e439a341ebf"
+  },
+  {
+    "name": "Shiden, Kai",
+    "prompt": "Shiden, Kai from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/169101.jpg?s=103688357ededcfdf6f592b5fc687706"
+  },
+  {
+    "name": "Slender",
+    "prompt": "Slender from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/293733.jpg?s=a58530875aefec0724423aa660df86dd"
+  },
+  {
+    "name": "Smith",
+    "prompt": "Smith from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/283957.jpg?s=4d9d47fed26be47bc5edeb6d0afaedb1"
+  },
+  {
+    "name": "Sol",
+    "prompt": "Sol from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/283960.jpg?s=be756d04732eda234935aae27c18a9d9"
+  },
+  {
+    "name": "Sune, Lalah",
+    "prompt": "Sune, Lalah from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/115367.jpg?s=7c583ff1e435cd4080713bfc8b20043c"
+  },
+  {
+    "name": "Sunmalo",
+    "prompt": "Sunmalo from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/283961.jpg?s=b2b0d3996e85a226671eef9a819322ea"
+  },
+  {
+    "name": "Tachi",
+    "prompt": "Tachi from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/283962.jpg?s=58b7e5d6da15ae6c843ea0df6716d152"
+  },
+  {
+    "name": "Tamura",
+    "prompt": "Tamura from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/283964.jpg?s=f2e77ab738b48f5e56c8feeaf26cb7d5"
+  },
+  {
+    "name": "Tianem",
+    "prompt": "Tianem from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/283965.jpg?s=0e0a14a6ee167b1a188ae9c497182b6c"
+  },
+  {
+    "name": "Tokwan",
+    "prompt": "Tokwan from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/585446.jpg?s=03dd5ba366a0866583d9224514a57147"
+  },
+  {
+    "name": "Twanning",
+    "prompt": "Twanning from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/283967.jpg?s=4bc0a9472925b3a8360c2cb3cc25d34d"
+  },
+  {
+    "name": "Uragang",
+    "prompt": "Uragang from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/585440.jpg?s=8869e51314931c69b399e1c4fe8ddf88"
+  },
+  {
+    "name": "Wakkein",
+    "prompt": "Wakkein from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/286402.jpg?s=a7bbe74ca7e44d13165a776b897e2628"
+  },
+  {
+    "name": "Yashima, Mirai",
+    "prompt": "Yashima, Mirai from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/69550.jpg?s=47bd3dd27b323eaab4ed29da4e84c195"
+  },
+  {
+    "name": "Zabi, Dozle",
+    "prompt": "Zabi, Dozle from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/168963.jpg?s=cd5d0c6081a6019fcc09fcb8bb136133"
+  },
+  {
+    "name": "Zabi, Zenna",
+    "prompt": "Zabi, Zenna from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/454657.jpg?s=321ef543ec56837692669441a2804802"
+  },
+  {
+    "name": "Zabi, Mineva Lao",
+    "prompt": "Zabi, Mineva Lao from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/305679.jpg?s=dc1303af3d1a78dcf1364f33a10866a2"
+  },
+  {
+    "name": "Zabi, Garma",
+    "prompt": "Zabi, Garma from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/109877.jpg?s=e39100a776daf86e02760e215a8ea476"
+  },
+  {
+    "name": "Zabi, Gihren",
+    "prompt": "Zabi, Gihren from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/95029.jpg?s=27881c502e72214383d43c1ad4eca567"
+  },
+  {
+    "name": "Zabi, Degwin Sodo",
+    "prompt": "Zabi, Degwin Sodo from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/115387.jpg?s=95ed7253757861c852feb9f3142fbf60"
+  },
+  {
+    "name": "Zabi, Kycilia",
+    "prompt": "Zabi, Kycilia from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/573440.jpg?s=c8ab41c076862b871645caf048d06952"
+  },
+  {
+    "name": "Zeygan",
+    "prompt": "Zeygan from Kidou Senshi Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/283970.jpg?s=f7165fcd2be9af3f120e2f68585b2eb5"
+  }
+]

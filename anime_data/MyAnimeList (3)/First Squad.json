@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Leo",
+    "prompt": "Leo from First Squad",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/67351.jpg?s=fc5493b2d28d451cca75b7cbf298a636"
+  },
+  {
+    "name": "Marat",
+    "prompt": "Marat from First Squad",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/67327.jpg?s=40d48e87ac6927c6b8c8bb8bb616a6db"
+  },
+  {
+    "name": "Ruslanova, Nadya",
+    "prompt": "Ruslanova, Nadya from First Squad",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/66604.jpg?s=f66680acee1d60b0f2a3f4f04f4d2b3b"
+  },
+  {
+    "name": "Valya",
+    "prompt": "Valya from First Squad",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/67326.jpg?s=bf2caf78b0becf007e77a2ff6b35be31"
+  },
+  {
+    "name": "Zina",
+    "prompt": "Zina from First Squad",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/376349.jpg?s=e0337cbd9753f4bf03506793c939d583"
+  }
+]

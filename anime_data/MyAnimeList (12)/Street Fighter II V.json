@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Chun-Li",
+    "prompt": "Chun-Li from Street Fighter II V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/473809.jpg?s=7e8c6d72fcfbe06e05c8820f72bce700"
+  },
+  {
+    "name": "Masters, Ken",
+    "prompt": "Masters, Ken from Street Fighter II V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/155011.jpg?s=f04d0026d5fcac0d4f57fc530e423eb1"
+  },
+  {
+    "name": "Ryuu",
+    "prompt": "Ryuu from Street Fighter II V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/74237.jpg?s=cf3041d22689c8c2a569462134457fb5"
+  },
+  {
+    "name": "Balrog",
+    "prompt": "Balrog from Street Fighter II V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/105758.jpg?s=5e5338b829bedc30756f32c88687da17"
+  },
+  {
+    "name": "Bison, Mike",
+    "prompt": "Bison, Mike from Street Fighter II V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/271957.jpg?s=e0458fabc6cc7aee0427aa4577be0dc5"
+  },
+  {
+    "name": "Bouncer",
+    "prompt": "Bouncer from Street Fighter II V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/286257.jpg?s=6a1f5258dc3c869b23d75ca51d7c572e"
+  },
+  {
+    "name": "Dhalsim",
+    "prompt": "Dhalsim from Street Fighter II V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/105984.jpg?s=fcb31f272e4df17fb0760915f6d5527d"
+  },
+  {
+    "name": "Fei-Long",
+    "prompt": "Fei-Long from Street Fighter II V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/105554.jpg?s=9d5ffef5fdb16d04f6467e42b3fbf1b2"
+  },
+  {
+    "name": "Guile",
+    "prompt": "Guile from Street Fighter II V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/105555.jpg?s=1dac58eee3acb4eb36a74eebeedeb6e9"
+  },
+  {
+    "name": "Inspector Dorai",
+    "prompt": "Inspector Dorai from Street Fighter II V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/283578.jpg?s=6f5297b6e14901ba9ebc10811b73dee1"
+  },
+  {
+    "name": "Nash, Charlie",
+    "prompt": "Nash, Charlie from Street Fighter II V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/284082.jpg?s=341afb807b37b4dd5a5eaf33d2db7b03"
+  },
+  {
+    "name": "Sagat",
+    "prompt": "Sagat from Street Fighter II V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/105983.jpg?s=aa444dd3539413ee4056cda2746c9438"
+  },
+  {
+    "name": "Vega",
+    "prompt": "Vega from Street Fighter II V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/106477.jpg?s=f689daeccf24e136f65b593cb132fa00"
+  },
+  {
+    "name": "White, Cammy",
+    "prompt": "White, Cammy from Street Fighter II V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/80125.jpg?s=99a70186f495961043f9cc96f6413da8"
+  },
+  {
+    "name": "Zangief",
+    "prompt": "Zangief from Street Fighter II V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/83464.jpg?s=acb92eb117a55172b2817ed3c0768361"
+  }
+]

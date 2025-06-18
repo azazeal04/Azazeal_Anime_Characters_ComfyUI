@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chico",
+    "prompt": "Chico from Pico x CoCo x Chico",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/117168.jpg?s=20ee3f2e1760927b646e03be2bfe10af"
+  },
+  {
+    "name": "CoCo",
+    "prompt": "CoCo from Pico x CoCo x Chico",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/102312.jpg?s=5260782a075ce771cb52af4306bf95b0"
+  },
+  {
+    "name": "Pico",
+    "prompt": "Pico from Pico x CoCo x Chico",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/438896.jpg?s=feecf0663ccd0a00752a979c15d9b971"
+  }
+]

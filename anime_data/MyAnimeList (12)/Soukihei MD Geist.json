@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Geist",
+    "prompt": "Geist from Soukihei MD Geist",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/55115.jpg?s=fd821740be4a41d28395263ec089bb00"
+  },
+  {
+    "name": "Vaiya",
+    "prompt": "Vaiya from Soukihei MD Geist",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/196973.jpg?s=29bcffc3fc352dbdf680fd40774a3643"
+  },
+  {
+    "name": "Golem",
+    "prompt": "Golem from Soukihei MD Geist",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/196901.jpg?s=dcd436d7b54d8d6b6ffbd23c70d72712"
+  },
+  {
+    "name": "Hans",
+    "prompt": "Hans from Soukihei MD Geist",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/196905.jpg?s=2f74b6f8142ac59850d2342a403f087c"
+  },
+  {
+    "name": "Kurtz",
+    "prompt": "Kurtz from Soukihei MD Geist",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/196899.jpg?s=559053915d5e4373cf7891829a11b2f6"
+  },
+  {
+    "name": "Mash",
+    "prompt": "Mash from Soukihei MD Geist",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/196903.jpg?s=49e8ed8a948d00478bcda1aec3acbba1"
+  },
+  {
+    "name": "Sakamoto",
+    "prompt": "Sakamoto from Soukihei MD Geist",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/196907.jpg?s=8ec60d8c0fc883d085da7352310a0767"
+  }
+]

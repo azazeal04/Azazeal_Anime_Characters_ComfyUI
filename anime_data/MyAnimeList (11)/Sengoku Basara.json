@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Date, Masamune",
+    "prompt": "Date, Masamune from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/75897.jpg?s=96b14200884745e1c8f15ba0b40f62a9"
+  },
+  {
+    "name": "Sanada, Yukimura",
+    "prompt": "Sanada, Yukimura from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/106827.jpg?s=7b6fd0feadc3a4429f29787494281374"
+  },
+  {
+    "name": "Akechi, Mitsuhide",
+    "prompt": "Akechi, Mitsuhide from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/160385.jpg?s=3e5d273abc760ed54ce7a803b013906c"
+  },
+  {
+    "name": "Azai, Nagamasa",
+    "prompt": "Azai, Nagamasa from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/76150.jpg?s=0137b359614835ff41e267b47e25a815"
+  },
+  {
+    "name": "Chousokabe, Motochika",
+    "prompt": "Chousokabe, Motochika from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/111781.jpg?s=9952ed4916e8413c0a8e5ce518599178"
+  },
+  {
+    "name": "Fuuma, Kotarou",
+    "prompt": "Fuuma, Kotarou from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/87710.jpg?s=10a01c4c78f3be51662ebecac0642f70"
+  },
+  {
+    "name": "Hojo, Ujimasa",
+    "prompt": "Hojo, Ujimasa from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/107085.jpg?s=b69575f3ef95f532151f6027bfdba8cd"
+  },
+  {
+    "name": "Honda, Tadakatsu",
+    "prompt": "Honda, Tadakatsu from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/102470.jpg?s=caad3523a0f4d51855d382d392ac48b4"
+  },
+  {
+    "name": "Honganji, Kennyo",
+    "prompt": "Honganji, Kennyo from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/179427.jpg?s=bd9e9bb3615bfbf9e9561db3881c35cd"
+  },
+  {
+    "name": "Imagawa, Yoshimoto",
+    "prompt": "Imagawa, Yoshimoto from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Itsuki",
+    "prompt": "Itsuki from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/94199.jpg?s=eeaf407920efa9a3ac53d27b44a055d7"
+  },
+  {
+    "name": "Kasuga",
+    "prompt": "Kasuga from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/242725.jpg?s=fbeb8c53edd1973a85181531acdc2918"
+  },
+  {
+    "name": "Katakura, Kojuurou",
+    "prompt": "Katakura, Kojuurou from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/177399.jpg?s=2aa606494f8fcf758c9666b8f4bad1a7"
+  },
+  {
+    "name": "Maeda, Toshiie",
+    "prompt": "Maeda, Toshiie from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/95115.jpg?s=3f4aa3b54176f0f6699f42ba3a09f804"
+  },
+  {
+    "name": "Maeda, Matsu",
+    "prompt": "Maeda, Matsu from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/77397.jpg?s=d3ca4b1d66dfdca07df0a70970056c9b"
+  },
+  {
+    "name": "Maeda, Keiji",
+    "prompt": "Maeda, Keiji from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/94846.jpg?s=2a8b843bae0d4b51aad5861b40226e75"
+  },
+  {
+    "name": "Matsunaga, Hisahide",
+    "prompt": "Matsunaga, Hisahide from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/99468.jpg?s=5e663e6be5f8123d24938247412013e4"
+  },
+  {
+    "name": "Mori, Ranmaru",
+    "prompt": "Mori, Ranmaru from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/57037.jpg?s=722755c3efd64393e6c135abe0f56de2"
+  },
+  {
+    "name": "Mouri, Motonari",
+    "prompt": "Mouri, Motonari from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/101610.jpg?s=c2b08d318b0fe11b041c568dcd5f4bc5"
+  },
+  {
+    "name": "Naoe, Kanetsugu",
+    "prompt": "Naoe, Kanetsugu from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/91168.jpg?s=bbe3d2080ba3c95298ee4fdd3e14b17b"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nouhime",
+    "prompt": "Nouhime from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/57035.jpg?s=54db1569a776dbd8abb0d0a7e20c0417"
+  },
+  {
+    "name": "Oda, Nobunaga",
+    "prompt": "Oda, Nobunaga from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/75898.jpg?s=9c5c0a6feedd4be12835b90ccff6e15a"
+  },
+  {
+    "name": "Oichi",
+    "prompt": "Oichi from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/77405.jpg?s=d1334484881880b9f9aac5d9087b3227"
+  },
+  {
+    "name": "Sarutobi, Sasuke",
+    "prompt": "Sarutobi, Sasuke from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/150267.jpg?s=5448544bbb55ff52e8c89aec9a7ab092"
+  },
+  {
+    "name": "Shimazu, Yoshihiro",
+    "prompt": "Shimazu, Yoshihiro from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/98668.jpg?s=b8f1b761292449a71ebc0f88574a9693"
+  },
+  {
+    "name": "Takeda, Shingen",
+    "prompt": "Takeda, Shingen from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/94848.jpg?s=168929b435543d1897cb003460fced7d"
+  },
+  {
+    "name": "The Miyoshi Trio, Younger Brother 1",
+    "prompt": "The Miyoshi Trio, Younger Brother 1 from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/312421.jpg?s=d4fcb8d526101291a7111a2e1fb2b077"
+  },
+  {
+    "name": "The Miyoshi Trio, Younger Brother 2",
+    "prompt": "The Miyoshi Trio, Younger Brother 2 from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/312423.jpg?s=4a6433ba76aad87d0def8bfe4872934a"
+  },
+  {
+    "name": "The Miyoshi Trio, Elder Brother",
+    "prompt": "The Miyoshi Trio, Elder Brother from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/312420.jpg?s=691261c1d6dccda7ce2ebbe00ff013b4"
+  },
+  {
+    "name": "Tokugawa, Ieyasu",
+    "prompt": "Tokugawa, Ieyasu from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/148505.jpg?s=37104b9fa8d51b5426590e3f5dee9db6"
+  },
+  {
+    "name": "Uesugi, Kenshin",
+    "prompt": "Uesugi, Kenshin from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/51192.jpg?s=f47f35a92913b5ef5c7ddfd69a638650"
+  },
+  {
+    "name": "Yumekichi",
+    "prompt": "Yumekichi from Sengoku Basara",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/225411.jpg?s=ae6f5f7394236a627157d7a00dba958b"
+  }
+]

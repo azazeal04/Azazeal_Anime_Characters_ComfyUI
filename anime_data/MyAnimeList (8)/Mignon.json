@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Mignon",
+    "prompt": "Mignon from Mignon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/519644.jpg?s=8bbd3d93aa29c7d6296f38d0f05e273c"
+  },
+  {
+    "name": "Oh, Young-One",
+    "prompt": "Oh, Young-One from Mignon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/519643.jpg?s=e7de60078284b571be6a992bd1d4f185"
+  },
+  {
+    "name": "Coach",
+    "prompt": "Coach from Mignon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/548057.jpg?s=6aae557b8a05a12ce5ab19cf51f7c783"
+  },
+  {
+    "name": "Master Woo",
+    "prompt": "Master Woo from Mignon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/548061.jpg?s=5163cb11a5ce3824f1bcbc3d12bc02fa"
+  },
+  {
+    "name": "Referee",
+    "prompt": "Referee from Mignon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/548082.jpg?s=8111b9543fef605a34971ee111daadab"
+  }
+]

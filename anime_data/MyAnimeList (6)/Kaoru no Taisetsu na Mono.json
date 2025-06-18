@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Kaoru",
+    "prompt": "Kaoru from Kaoru no Taisetsu na Mono",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/467490.jpg?s=551c52aa12d735afdbe30d296acb317a"
+  },
+  {
+    "name": "Mari",
+    "prompt": "Mari from Kaoru no Taisetsu na Mono",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/475104.jpg?s=f5de2530399ba40e575dd25b54c8de1d"
+  },
+  {
+    "name": "Yoshikazu",
+    "prompt": "Yoshikazu from Kaoru no Taisetsu na Mono",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/467494.jpg?s=550b69cffe66433e3b1fe84b48d6484b"
+  },
+  {
+    "name": "Anna",
+    "prompt": "Anna from Kaoru no Taisetsu na Mono",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/467497.jpg?s=0a93aeebe6bba0470a4a0ed6e07b5690"
+  },
+  {
+    "name": "Kanna",
+    "prompt": "Kanna from Kaoru no Taisetsu na Mono",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/467496.jpg?s=b97d4c61bed40b90615e8806abd850ed"
+  },
+  {
+    "name": "Satoru",
+    "prompt": "Satoru from Kaoru no Taisetsu na Mono",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/467495.jpg?s=6504f4c3390f5383fea34f9a25d985c9"
+  }
+]

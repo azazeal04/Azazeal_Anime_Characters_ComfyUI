@@ -1,0 +1,837 @@
+[
+  {
+    "name": "Charlés",
+    "prompt": "Charlés from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/365290.jpg?s=eefd5fe0dca97c356d0d5448f25c7561"
+  },
+  {
+    "name": "Dragneel, Natsu",
+    "prompt": "Dragneel, Natsu from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/594274.jpg?s=f1ff02a766b85bd0623f4ee539c1b7a4"
+  },
+  {
+    "name": "Fullbuster, Gray",
+    "prompt": "Fullbuster, Gray from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/278602.jpg?s=87553874d5dd1b8ffcaeee57b777cd9c"
+  },
+  {
+    "name": "Happy",
+    "prompt": "Happy from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/365287.jpg?s=9bd8f1ed7cf392d689238608f13286a7"
+  },
+  {
+    "name": "Heartfilia, Lucy",
+    "prompt": "Heartfilia, Lucy from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/67774.jpg?s=a5aa66540ec3bb6463bda909781da36a"
+  },
+  {
+    "name": "Marvell, Wendy",
+    "prompt": "Marvell, Wendy from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/196497.jpg?s=dd93974ccb821624cc71eb789025b7cf"
+  },
+  {
+    "name": "Scarlet, Erza",
+    "prompt": "Scarlet, Erza from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/492254.jpg?s=7e17a45b638c2b7f12bf1f699b2b5c82"
+  },
+  {
+    "name": "Acnologia",
+    "prompt": "Acnologia from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/255391.jpg?s=b27f1e7ddeb8bc745a646032edb7468f"
+  },
+  {
+    "name": "Aguria, Yukino",
+    "prompt": "Aguria, Yukino from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/259355.jpg?s=10389c4391d05feeb8b997f43a2db131"
+  },
+  {
+    "name": "Akatsuki, Ren",
+    "prompt": "Akatsuki, Ren from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/106467.jpg?s=b10197d22195dd1e586a7941403d9ad4"
+  },
+  {
+    "name": "Alberona, Cana",
+    "prompt": "Alberona, Cana from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/107176.jpg?s=7b566ce6c7e55ed1beb923de0e07118f"
+  },
+  {
+    "name": "Alors, Max",
+    "prompt": "Alors, Max from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/186861.jpg?s=0ca02e97f0d081855ff4eeb051d53df6"
+  },
+  {
+    "name": "Angel",
+    "prompt": "Angel from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/208601.jpg?s=1af80c27c4fc56172076cfbd53c4d1b4"
+  },
+  {
+    "name": "Aquarius",
+    "prompt": "Aquarius from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/67021.jpg?s=5c37dab4ff3183eae162a036e83b724b"
+  },
+  {
+    "name": "Arcadios",
+    "prompt": "Arcadios from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/188224.jpg?s=fe807029999d8ef69b8eeb792816bf3b"
+  },
+  {
+    "name": "Aries",
+    "prompt": "Aries from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/106807.jpg?s=e2e02c70816b7953b68eb5e058668380"
+  },
+  {
+    "name": "Atlas Flame",
+    "prompt": "Atlas Flame from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/255121.jpg?s=5995260a4b9d3c5eec1175f18dfec9c8"
+  },
+  {
+    "name": "Azuma",
+    "prompt": "Azuma from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/147297.jpg?s=bd29280f8176a6dc25746fd3be1ad983"
+  },
+  {
+    "name": "Babasaama, Ooba",
+    "prompt": "Babasaama, Ooba from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/186121.jpg?s=4ac6954825573638f323ad4d06852e01"
+  },
+  {
+    "name": "Banaboster",
+    "prompt": "Banaboster from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/319481.jpg?s=9697fbc8a92cdf5c3e9d88a25056c200"
+  },
+  {
+    "name": "Belno",
+    "prompt": "Belno from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/184601.jpg?s=1a1361bf7f0f7ecc60e30ba247327d83"
+  },
+  {
+    "name": "Bickslow",
+    "prompt": "Bickslow from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/380012.jpg?s=83ec7d2db1eafebb8c1e0a87f50a2f53"
+  },
+  {
+    "name": "Blendy, Sherry",
+    "prompt": "Blendy, Sherry from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/76041.jpg?s=22042f13684c650154177a641202042c"
+  },
+  {
+    "name": "Blendy, Chelia",
+    "prompt": "Blendy, Chelia from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/197003.jpg?s=c69c54c2af1dc65e52587e394c8b0f9c"
+  },
+  {
+    "name": "Bob",
+    "prompt": "Bob from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/195671.jpg?s=063a6d9805b5cbd0950caa6c59b5c219"
+  },
+  {
+    "name": "Brain",
+    "prompt": "Brain from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/103622.jpg?s=2276ebba489409e167fb26cfc5cdaa42"
+  },
+  {
+    "name": "Cancer",
+    "prompt": "Cancer from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/73903.jpg?s=41a6eb4098cbca59a462478bf5fb652f"
+  },
+  {
+    "name": "Capricorn",
+    "prompt": "Capricorn from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/206953.jpg?s=54e3d63f85efe8c59fe47b1f34a3b358"
+  },
+  {
+    "name": "Celestial Spirit King",
+    "prompt": "Celestial Spirit King from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/90788.jpg?s=4ca5653e4db8abd5933ab4443a708546"
+  },
+  {
+    "name": "Cheney, Rogue",
+    "prompt": "Cheney, Rogue from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/189194.jpg?s=3c851138f149c7bf7b7317cd8b3e9856"
+  },
+  {
+    "name": "Clive, Gildarts",
+    "prompt": "Clive, Gildarts from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/196483.jpg?s=4aa74f40d6ffa2e59da3120996cd7333"
+  },
+  {
+    "name": "Cobra",
+    "prompt": "Cobra from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/106576.jpg?s=07229564640041cd7d2ca941943803ae"
+  },
+  {
+    "name": "Conbolt, Romeo",
+    "prompt": "Conbolt, Romeo from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/82978.jpg?s=b606fe870a5220fab24d795d7ecc8d0f"
+  },
+  {
+    "name": "Conbolt, Macao",
+    "prompt": "Conbolt, Macao from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/82980.jpg?s=9c3ef79d403e24ce2499c95b354c2133"
+  },
+  {
+    "name": "Connell, Alzack",
+    "prompt": "Connell, Alzack from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/83753.jpg?s=6a4169c33fdfb64315ad6f5f550979c5"
+  },
+  {
+    "name": "Connell, Asuka",
+    "prompt": "Connell, Asuka from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/188220.jpg?s=5fd724b248c9dd41ca8dd3d25f9ff33f"
+  },
+  {
+    "name": "Corona, Flare",
+    "prompt": "Corona, Flare from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/187847.jpg?s=7d1cce2eb88304ee44c08ac06a9f9154"
+  },
+  {
+    "name": "Cosmos",
+    "prompt": "Cosmos from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/245043.jpg?s=a4cd19331ed85635b5204e569f41751f"
+  },
+  {
+    "name": "Crux",
+    "prompt": "Crux from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/90791.jpg?s=600450623c8c8139dc693f20778eb62d"
+  },
+  {
+    "name": "Darton",
+    "prompt": "Darton from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/192569.jpg?s=a34ffd2e2b348196e3faf351a524e5be"
+  },
+  {
+    "name": "Deneb",
+    "prompt": "Deneb from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/277532.jpg?s=ec0cfbc81af1ba81bff7fc6e53f26a5f"
+  },
+  {
+    "name": "Dobengal",
+    "prompt": "Dobengal from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/195483.jpg?s=ac9c54efcd5c79c4cb062a2f41622ef9"
+  },
+  {
+    "name": "Doma, Gran",
+    "prompt": "Doma, Gran from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/184591.jpg?s=441a49472fef7c826c790c6ea510ade7"
+  },
+  {
+    "name": "Doranbalt",
+    "prompt": "Doranbalt from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/255133.jpg?s=a3347bd63d9561a32608af984a8fda3e"
+  },
+  {
+    "name": "Doriate",
+    "prompt": "Doriate from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/315091.jpg?s=1cce9873fdfefc8d715f020a00f7254a"
+  },
+  {
+    "name": "Drake",
+    "prompt": "Drake from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/315088.jpg?s=bf8164d27cf0e2863098558c08fb21c3"
+  },
+  {
+    "name": "Dreyar, Laxus",
+    "prompt": "Dreyar, Laxus from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/294797.jpg?s=afdb45936b79508131e16919d50ffb90"
+  },
+  {
+    "name": "Dreyar, Makarov",
+    "prompt": "Dreyar, Makarov from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/72475.jpg?s=7ef0007f53563a9dbf476722d2646b22"
+  },
+  {
+    "name": "Dreyar, Yury",
+    "prompt": "Dreyar, Yury from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/369515.jpg?s=4451ef7d6b878496dcf2ece1b3a0c5ef"
+  },
+  {
+    "name": "Droy",
+    "prompt": "Droy from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/135767.jpg?s=dabaec4eaf096ba0b21c3d4ac867c9e5"
+  },
+  {
+    "name": "Ecor, Vijeeter",
+    "prompt": "Ecor, Vijeeter from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/118325.jpg?s=2e9adeb9a757eb0974d2687a122f6b8e"
+  },
+  {
+    "name": "Eucliffe, Sting",
+    "prompt": "Eucliffe, Sting from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/210003.jpg?s=3b51e4655e35362d741b78e00f2095bb"
+  },
+  {
+    "name": "Evergreen",
+    "prompt": "Evergreen from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/101639.jpg?s=57d4d4cbb67e46b7ba1ebfd00d435258"
+  },
+  {
+    "name": "Ezel",
+    "prompt": "Ezel from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/318682.jpg?s=572780b6a53edf998120426a6629c3a0"
+  },
+  {
+    "name": "Fernandes, Jellal",
+    "prompt": "Fernandes, Jellal from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/80782.jpg?s=3cfa9e107e76c8708736fe90dbecde14"
+  },
+  {
+    "name": "Fiore, Hisui E.",
+    "prompt": "Fiore, Hisui E. from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/243621.jpg?s=4cc1bd49283731c4ecc82b8028b85072"
+  },
+  {
+    "name": "Fiore, Toma E.",
+    "prompt": "Fiore, Toma E. from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/255119.jpg?s=1c0afbef82694099feb7973b1ad548f2"
+  },
+  {
+    "name": "Franmalth",
+    "prompt": "Franmalth from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/318680.jpg?s=ee19fc953b3a591343a5f7493d594305"
+  },
+  {
+    "name": "Frosch",
+    "prompt": "Frosch from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/206939.jpg?s=a0196aa280cc5263f3492f039538abec"
+  },
+  {
+    "name": "Future Rogue",
+    "prompt": "Future Rogue from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/477321.jpg?s=7776ed78c9c3a7a6c3e9362f04dce018"
+  },
+  {
+    "name": "Gaebolg, Precht",
+    "prompt": "Gaebolg, Precht from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/141001.jpg?s=31a872482bfc1f94b4588b1d6d6b3f0c"
+  },
+  {
+    "name": "Gemi",
+    "prompt": "Gemi from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/103565.jpg?s=941a88480dc07447456cfd4f521c6bc8"
+  },
+  {
+    "name": "Geoffrey",
+    "prompt": "Geoffrey from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/369323.jpg?s=ecc5b68a963b1717b65a47712cbfb81a"
+  },
+  {
+    "name": "Goldmine",
+    "prompt": "Goldmine from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/82989.jpg?s=2a5abc16241836d08f7f65b0979007bc"
+  },
+  {
+    "name": "Grandeeney",
+    "prompt": "Grandeeney from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/109453.jpg?s=6ef67c32c938fae28d15be623b8c2c24"
+  },
+  {
+    "name": "Groh, Bacchus",
+    "prompt": "Groh, Bacchus from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/182887.jpg?s=37368c4a3e82dc74407276cd5fed5656"
+  },
+  {
+    "name": "Hiroshi",
+    "prompt": "Hiroshi from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/315089.jpg?s=f7baa534cba256fcfcf1756ad7021bf9"
+  },
+  {
+    "name": "Horhorta, Toby",
+    "prompt": "Horhorta, Toby from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/90801.jpg?s=373e3647797e446d245ddf6c1900ebef"
+  },
+  {
+    "name": "Horologium",
+    "prompt": "Horologium from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/82979.jpg?s=f7ad0aed67ac10b43560088e4bb33f40"
+  },
+  {
+    "name": "Hoteye",
+    "prompt": "Hoteye from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/103620.jpg?s=dd5b5cae032b42ef0b06f468a281ecb1"
+  },
+  {
+    "name": "Igneel",
+    "prompt": "Igneel from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/369326.jpg?s=be5d9cac1eebf1f93c59d73a5c3b49cf"
+  },
+  {
+    "name": "Jackal",
+    "prompt": "Jackal from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/285743.jpg?s=2b45e5923115f9019f2d32567d4667a4"
+  },
+  {
+    "name": "Jason",
+    "prompt": "Jason from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/184767.jpg?s=5c32407e521d54fdb3dcbd908ffd0c7f"
+  },
+  {
+    "name": "Jeself",
+    "prompt": "Jeself from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/369324.jpg?s=a4d1ae5786cae6e49769dde9cc51691f"
+  },
+  {
+    "name": "Jet",
+    "prompt": "Jet from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/82266.jpg?s=7ba43cc5fcd32880b2f0742cc02b19f7"
+  },
+  {
+    "name": "Jiemma",
+    "prompt": "Jiemma from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/192559.jpg?s=bc7b37f40c15631e1679ca36293eeb5d"
+  },
+  {
+    "name": "Jonah, Reedus",
+    "prompt": "Jonah, Reedus from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/82990.jpg?s=9e8b5927b3dbe093e578f6bf7932c4cc"
+  },
+  {
+    "name": "Justine, Freed",
+    "prompt": "Justine, Freed from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/101637.jpg?s=702895262579d380a2daf6e90fb3b43f"
+  },
+  {
+    "name": "Kama",
+    "prompt": "Kama from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/251539.jpg?s=78d76fd14789feaf90b2527e2a5f6ad8"
+  },
+  {
+    "name": "Kamika",
+    "prompt": "Kamika from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/245045.jpg?s=ccfd79760ab3ffc50153b7c8e61da17e"
+  },
+  {
+    "name": "Kemokemo",
+    "prompt": "Kemokemo from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/313308.jpg?s=8c362544362072823f3b71bf3d919943"
+  },
+  {
+    "name": "Keyes",
+    "prompt": "Keyes from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/318679.jpg?s=35d17af646e4f6e953fc0f9b05ac8f2b"
+  },
+  {
+    "name": "Kinana",
+    "prompt": "Kinana from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/247221.jpg?s=d2993d60d1c52c7e429e4572db113fe5"
+  },
+  {
+    "name": "Kyouka",
+    "prompt": "Kyouka from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/303650.jpg?s=803783a6dc2f308a0ed5d95f3b69c41e"
+  },
+  {
+    "name": "Lahar",
+    "prompt": "Lahar from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/110724.jpg?s=a955b8b89bbd81a69865072f289200aa"
+  },
+  {
+    "name": "Lamy",
+    "prompt": "Lamy from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/288564.jpg?s=dee95732f681a07e355affd72db0f19e"
+  },
+  {
+    "name": "Lasaro, Nab",
+    "prompt": "Lasaro, Nab from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/82986.jpg?s=a84341cccb7882745e9aa0c60d0c216b"
+  },
+  {
+    "name": "Law, Risley",
+    "prompt": "Law, Risley from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/183653.jpg?s=153d4e23b4e4b3899d4ced06fe75984f"
+  },
+  {
+    "name": "Laytis, Hibiki",
+    "prompt": "Laytis, Hibiki from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/105858.jpg?s=e2fdec50f205adf5089302abf1a48ef4"
+  },
+  {
+    "name": "Lector",
+    "prompt": "Lector from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/206937.jpg?s=9fe2d0a2d05f62766d613281f5d166e7"
+  },
+  {
+    "name": "Libra",
+    "prompt": "Libra from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/192581.jpg?s=11ed20218d7bd556e9d6ca9e0cd17d57"
+  },
+  {
+    "name": "Lobster, Michelle",
+    "prompt": "Lobster, Michelle from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/173103.jpg?s=a4f9103c02f1853b33d677addc177014"
+  },
+  {
+    "name": "Lockser, Juvia",
+    "prompt": "Lockser, Juvia from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/262225.jpg?s=2c5b0e04b609b523739e948a83632899"
+  },
+  {
+    "name": "Loki",
+    "prompt": "Loki from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/84140.jpg?s=af9c24e54805c7fc20c80140d23437f5"
+  },
+  {
+    "name": "Lola, Chapati",
+    "prompt": "Lola, Chapati from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/187003.jpg?s=664ee66480576a619800d3b864f24341"
+  },
+  {
+    "name": "Lore, Rufus",
+    "prompt": "Lore, Rufus from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/155503.jpg?s=60601f27a80245ecc0bcce51c8aa6d78"
+  },
+  {
+    "name": "Mako",
+    "prompt": "Mako from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/319031.jpg?s=0a56b2d5bd8089441ed6fa0bed834f18"
+  },
+  {
+    "name": "Mard Geer",
+    "prompt": "Mard Geer from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/327864.jpg?s=828f624859e832605dfa130e123b1eda"
+  },
+  {
+    "name": "Mato",
+    "prompt": "Mato from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/188082.jpg?s=228076987c12285cfefd27e60840d340"
+  },
+  {
+    "name": "McGarden, Levy",
+    "prompt": "McGarden, Levy from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/186859.jpg?s=068b6c8dd82cd65706d9d09e2593d232"
+  },
+  {
+    "name": "Meredy",
+    "prompt": "Meredy from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/315499.jpg?s=bae135a677fe82df5daedae4c6441ae2"
+  },
+  {
+    "name": "Metalicana",
+    "prompt": "Metalicana from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/369327.jpg?s=f841c907fc4b35082a1f306fd33abdeb"
+  },
+  {
+    "name": "Michelia",
+    "prompt": "Michelia from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/315911.jpg?s=0be6ae90919cee02c60537b33635f33e"
+  },
+  {
+    "name": "Michello",
+    "prompt": "Michello from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/184595.jpg?s=6b8ffdb55b77e589e5201b593cb86237"
+  },
+  {
+    "name": "Midnight",
+    "prompt": "Midnight from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/259225.jpg?s=d5b93b2b932afc2167188624083526af"
+  },
+  {
+    "name": "Mikazuchi, Kagura",
+    "prompt": "Mikazuchi, Kagura from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/199003.jpg?s=890ceb19ef66158d1ac3ea705b7758b1"
+  },
+  {
+    "name": "Miko",
+    "prompt": "Miko from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/368434.jpg?s=3f6ae32431040f531873595316affb42"
+  },
+  {
+    "name": "Milkovich, Ultear",
+    "prompt": "Milkovich, Ultear from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/189334.jpg?s=b4a7f1e4836871f71cac4b5751c3f77f"
+  },
+  {
+    "name": "Millianna",
+    "prompt": "Millianna from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/278426.jpg?s=39ce08211613263f8d284e2110027cc7"
+  },
+  {
+    "name": "Mine, Wakaba",
+    "prompt": "Mine, Wakaba from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/82985.jpg?s=705251ffffeea52039dbb33a871fb921"
+  },
+  {
+    "name": "Mini",
+    "prompt": "Mini from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/103566.jpg?s=0dd1457ed3f5774a08a2db2dc5089521"
+  },
+  {
+    "name": "Mulan, Bisca",
+    "prompt": "Mulan, Bisca from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/97916.jpg?s=1d16f8bce94ccba5ad5a5e171d7b73bf"
+  },
+  {
+    "name": "Nanagear, Orga",
+    "prompt": "Nanagear, Orga from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/369992.jpg?s=ffaa887d90626cd52d439389c7aea9b1"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/135979.jpg?s=c2221938a6ce7e874e1bf82e548612b5"
+  },
+  {
+    "name": "Nekis, Jura",
+    "prompt": "Nekis, Jura from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/295190.jpg?s=8c3b01cf54c5680c6a0e4fc55d5e253c"
+  },
+  {
+    "name": "Neppa",
+    "prompt": "Neppa from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/251537.jpg?s=0a990c4824cf99a2d1af18492b63410b"
+  },
+  {
+    "name": "Nichiya",
+    "prompt": "Nichiya from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/129115.jpg?s=ef4d18fc26842b90492402380f4ee6d2"
+  },
+  {
+    "name": "Novali",
+    "prompt": "Novali from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/183659.jpg?s=53f26258bf50a889f33450e040daef1d"
+  },
+  {
+    "name": "Olietta, Laki",
+    "prompt": "Olietta, Laki from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/98590.jpg?s=94e32875929dd90798e727befa42cd51"
+  },
+  {
+    "name": "Ophiuchus",
+    "prompt": "Ophiuchus from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/312909.jpg?s=360fa0d8abba6f53dc319a81157b8ed6"
+  },
+  {
+    "name": "Org",
+    "prompt": "Org from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/187033.jpg?s=52d7e9ce72be8ff3c5015cb994204526"
+  },
+  {
+    "name": "Orland, Minerva",
+    "prompt": "Orland, Minerva from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/509792.jpg?s=65986130ed5ade6378e730996e8ec0a7"
+  },
+  {
+    "name": "Pantherlily",
+    "prompt": "Pantherlily from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/130687.jpg?s=b46f64218d1d7d36fed902257d660966"
+  },
+  {
+    "name": "Pisces, Son",
+    "prompt": "Pisces, Son from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/246455.jpg?s=5e0494c479f04d81177bde7df8eaf33d"
+  },
+  {
+    "name": "Pisces, Mother",
+    "prompt": "Pisces, Mother from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/246453.jpg?s=ead48477294d81db95ca1b96034bd486"
+  },
+  {
+    "name": "Plue",
+    "prompt": "Plue from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/44743.jpg?s=212370130fc07caf8fa716094e76e41c"
+  },
+  {
+    "name": "Porlyusica",
+    "prompt": "Porlyusica from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/84211.jpg?s=a02b73fd81f7b6e695c37e29abdaf008"
+  },
+  {
+    "name": "Racer",
+    "prompt": "Racer from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/103619.jpg?s=e3a4e2766c5c1c95caba8488782f280f"
+  },
+  {
+    "name": "Rala",
+    "prompt": "Rala from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/315090.jpg?s=58280201a5eaa18ad8006de4a08bc164"
+  },
+  {
+    "name": "Realight, Jenny",
+    "prompt": "Realight, Jenny from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/192531.jpg?s=0a7eb2646ef811fcce2db58f624eb97f"
+  },
+  {
+    "name": "Redfox, Gajeel",
+    "prompt": "Redfox, Gajeel from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/99350.jpg?s=9d43e35fdbbf7e6f78e877669167a3a9"
+  },
+  {
+    "name": "Rocker",
+    "prompt": "Rocker from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/183647.jpg?s=f2837009cda427ce7fa3130b6feaddd0"
+  },
+  {
+    "name": "Rocko, Warren",
+    "prompt": "Rocko, Warren from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/130703.jpg?s=76904f32963c6e8d92abc7a080e7307a"
+  },
+  {
+    "name": "Rustyrose",
+    "prompt": "Rustyrose from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/206957.jpg?s=f12066ad2d8adb65babbdc0bdbf4ed7a"
+  },
+  {
+    "name": "Sagittarius",
+    "prompt": "Sagittarius from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/369575.jpg?s=32519a7553e868754e5b89cd1db3081a"
+  },
+  {
+    "name": "Scorpio",
+    "prompt": "Scorpio from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/106809.jpg?s=f98b0882f7e207e7ddeb0a473fcbf81a"
+  },
+  {
+    "name": "Seam, Crawford",
+    "prompt": "Seam, Crawford from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/370218.jpg?s=b6fa90bdab583ec599cba3a6d6691db3"
+  },
+  {
+    "name": "Seilah",
+    "prompt": "Seilah from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/291921.jpg?s=c23a61f188fae86dc2036b510750a6c3"
+  },
+  {
+    "name": "Semmes",
+    "prompt": "Semmes from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/187007.jpg?s=55a1f256bfac1b04df45a80bb8205dc8"
+  },
+  {
+    "name": "Sequen, Warrod",
+    "prompt": "Sequen, Warrod from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/369133.jpg?s=17a9045b4b5c97eea07fd52b1541981c"
+  },
+  {
+    "name": "Silver",
+    "prompt": "Silver from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/349830.jpg?s=5158c67da547b0c82018d9d91776e334"
+  },
+  {
+    "name": "Simon",
+    "prompt": "Simon from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/94564.jpg?s=a00ce32741e5deb327af5eb85e6eab4e"
+  },
+  {
+    "name": "Skiadrum",
+    "prompt": "Skiadrum from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/369330.jpg?s=6fe719b46c20306a17cd8e0ad850806a"
+  },
+  {
+    "name": "Strauss, Elfman",
+    "prompt": "Strauss, Elfman from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/150001.jpg?s=73f92c07517683c90cd00a24d0a989b8"
+  },
+  {
+    "name": "Strauss, Mirajane",
+    "prompt": "Strauss, Mirajane from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/196491.jpg?s=58aaaff21992e90d5604a05543709193"
+  },
+  {
+    "name": "Strauss, Lisanna",
+    "prompt": "Strauss, Lisanna from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/196493.jpg?s=ff9bb1426a8349d38c32a8a4082b5827"
+  },
+  {
+    "name": "Suzuki, Yuka",
+    "prompt": "Suzuki, Yuka from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/90800.jpg?s=d818cba041963c33489bf72663f342a9"
+  },
+  {
+    "name": "Taurus",
+    "prompt": "Taurus from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/73221.jpg?s=478e4ed53b5d415a1c2a9ae5b0a9c348"
+  },
+  {
+    "name": "Tempesta",
+    "prompt": "Tempesta from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/318876.jpg?s=33c0c21bb93a29219ce898ac6a33264f"
+  },
+  {
+    "name": "Tilm, Eve",
+    "prompt": "Tilm, Eve from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/192579.jpg?s=4bfb328ff226711732e66442a1e9a72f"
+  },
+  {
+    "name": "Torafuzar",
+    "prompt": "Torafuzar from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/318875.jpg?s=82ada3bd5db81eb25a9ccf9d2c742d49"
+  },
+  {
+    "name": "Ul",
+    "prompt": "Ul from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/75938.jpg?s=70989f34970d7d56a8c4f96b3aa3bc2a"
+  },
+  {
+    "name": "Uosuke",
+    "prompt": "Uosuke from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/246799.jpg?s=210eb5acdf3fb635cefeedbe6e5c36bd"
+  },
+  {
+    "name": "Vandalay Kotobuki, Ichiya",
+    "prompt": "Vandalay Kotobuki, Ichiya from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/103078.jpg?s=4bf24e27f6240103acd232560a639e89"
+  },
+  {
+    "name": "Vanderwood, Beth",
+    "prompt": "Vanderwood, Beth from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/183651.jpg?s=a379f02f836d6c1fe4422020c824d9ad"
+  },
+  {
+    "name": "Vastia, Lyon",
+    "prompt": "Vastia, Lyon from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/77308.jpg?s=fa49b4e6e6d996718d0967f4b2d70997"
+  },
+  {
+    "name": "Vermillion, Mavis",
+    "prompt": "Vermillion, Mavis from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/204797.jpg?s=7965307fc37ad33c9488c90e348689f2"
+  },
+  {
+    "name": "Virgo",
+    "prompt": "Virgo from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/71790.jpg?s=64a3c2fc858470aca3946863e6755568"
+  },
+  {
+    "name": "Warcry",
+    "prompt": "Warcry from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/183649.jpg?s=dc8fbc81cc250be4c642bd57987e8178"
+  },
+  {
+    "name": "Web, Arania",
+    "prompt": "Web, Arania from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/168711.jpg?s=b4f5047bf493154a2a3bd29c1d10455f"
+  },
+  {
+    "name": "Weisslogia",
+    "prompt": "Weisslogia from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/255123.jpg?s=d7b52469447efeee957c0b729baee559"
+  },
+  {
+    "name": "Yajima",
+    "prompt": "Yajima from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/99626.jpg?s=f667e7949f3fa4d83b7f0360ec40ca59"
+  },
+  {
+    "name": "Yeagar",
+    "prompt": "Yeagar from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/187005.jpg?s=b25b44627b2a670cb616c468d673c7a4"
+  },
+  {
+    "name": "Zancrow",
+    "prompt": "Zancrow from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/143417.jpg?s=c3f8cd7222c0308039fa8e31fe293aea"
+  },
+  {
+    "name": "Zera",
+    "prompt": "Zera from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/369321.jpg?s=1c85759b3e1d8edf2d2cf090acaafac0"
+  },
+  {
+    "name": "Zeref",
+    "prompt": "Zeref from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/327914.jpg?s=c9c1cd0a58d71f457abcd7dcda32d567"
+  },
+  {
+    "name": "Zirconis",
+    "prompt": "Zirconis from Fairy Tail (2014)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/369331.jpg?s=77ff8e10de6c3249a3499978f0e2d20e"
+  }
+]

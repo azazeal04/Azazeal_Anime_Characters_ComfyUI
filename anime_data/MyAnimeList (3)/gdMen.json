@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Alpha",
+    "prompt": "Alpha from gdMen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/348979.jpg?s=7dfea60b946d7ce69c5ef402a7650ca2"
+  },
+  {
+    "name": "Light",
+    "prompt": "Light from gdMen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/348977.jpg?s=94bbcaed5c5d618e67585c404b90bf19"
+  },
+  {
+    "name": "Melody",
+    "prompt": "Melody from gdMen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/348980.jpg?s=119112ed488dbc757c3015b479c725aa"
+  },
+  {
+    "name": "Yomi",
+    "prompt": "Yomi from gdMen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/348978.jpg?s=274ab8eccc313b2d25620998fa4e7a22"
+  }
+]

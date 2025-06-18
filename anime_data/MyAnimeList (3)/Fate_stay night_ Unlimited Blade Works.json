@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Archer",
+    "prompt": "Archer from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/502858.jpg?s=e105b81c07d453d8208695b32854d368"
+  },
+  {
+    "name": "Emiya, Shirou",
+    "prompt": "Emiya, Shirou from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/173271.jpg?s=74059f2718fb3dafbc6f487382c2fa6e"
+  },
+  {
+    "name": "Saber",
+    "prompt": "Saber from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/275276.jpg?s=4eba6ea0e7bc9054777e616f944eaec0"
+  },
+  {
+    "name": "Toosaka, Rin",
+    "prompt": "Toosaka, Rin from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/270529.jpg?s=706a118549bd43c8f2e405d2225499a0"
+  },
+  {
+    "name": "Assassin",
+    "prompt": "Assassin from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/268525.jpg?s=a3d57300d15d0ea4cc4b1afad1650218"
+  },
+  {
+    "name": "Berserker",
+    "prompt": "Berserker from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/31626.jpg?s=129db5068397c58911343a81e023abf3"
+  },
+  {
+    "name": "Caster",
+    "prompt": "Caster from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/31608.jpg?s=4530d7711dc0949ac32629345cc1deef"
+  },
+  {
+    "name": "Emiya, Kiritsugu",
+    "prompt": "Emiya, Kiritsugu from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/474826.jpg?s=6852e68ca2080a3868fdf0a35e28c3ca"
+  },
+  {
+    "name": "Fujimura, Taiga",
+    "prompt": "Fujimura, Taiga from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/275651.jpg?s=32fd6ec0fc4e87d08cc6b34c01e7dfeb"
+  },
+  {
+    "name": "Gilgamesh",
+    "prompt": "Gilgamesh from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/338672.jpg?s=371d0ab7f558421873f80899afcd2b67"
+  },
+  {
+    "name": "Gotou, Gai",
+    "prompt": "Gotou, Gai from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/348427.jpg?s=e25999f880d587cb159f8931f3c7efc6"
+  },
+  {
+    "name": "Himuro, Kane",
+    "prompt": "Himuro, Kane from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/263479.jpg?s=92f6bb9ecec77756a79f3243c4c52a00"
+  },
+  {
+    "name": "Kotomine, Kirei",
+    "prompt": "Kotomine, Kirei from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/258487.jpg?s=625b5a2f748dcf042543281d4021e364"
+  },
+  {
+    "name": "Kuzuki, Souichirou",
+    "prompt": "Kuzuki, Souichirou from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/267891.jpg?s=2d762cd0f14343e32e0df515b6b1ac1a"
+  },
+  {
+    "name": "Lancer",
+    "prompt": "Lancer from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/280846.jpg?s=272cc12b325844555dc10f87cc9d7eab"
+  },
+  {
+    "name": "Leysritt",
+    "prompt": "Leysritt from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/280450.jpg?s=a54f30ffb5b5c9482c8e6a9cb66f8741"
+  },
+  {
+    "name": "Makidera, Kaede",
+    "prompt": "Makidera, Kaede from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/263481.jpg?s=c1b0fe9b23067dfa532606131d7d311e"
+  },
+  {
+    "name": "Matou, Shinji",
+    "prompt": "Matou, Shinji from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/296254.jpg?s=4f08483810514846684e43107f190c03"
+  },
+  {
+    "name": "Matou, Sakura",
+    "prompt": "Matou, Sakura from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/294277.jpg?s=68459ba6411dcb45bd908138f664cf0f"
+  },
+  {
+    "name": "Mitsuzuri, Ayako",
+    "prompt": "Mitsuzuri, Ayako from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/261583.jpg?s=bd5c09563afc59f64402abb7e2319e0e"
+  },
+  {
+    "name": "Rider",
+    "prompt": "Rider from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/31612.jpg?s=16258fd2ed204bf12ce611339c2f8841"
+  },
+  {
+    "name": "Ryuudou, Issei",
+    "prompt": "Ryuudou, Issei from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/261585.jpg?s=4d0247f4deb4c841c7d3a73c8dcb73bc"
+  },
+  {
+    "name": "Saegusa, Yukika",
+    "prompt": "Saegusa, Yukika from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/296250.jpg?s=1d2560d0228de358e5533bb1052f70c4"
+  },
+  {
+    "name": "Sella",
+    "prompt": "Sella from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/280451.jpg?s=6336d02c3df5821dee94797dea4584b0"
+  },
+  {
+    "name": "von Einzbern, Illyasviel",
+    "prompt": "von Einzbern, Illyasviel from Fate/stay night: Unlimited Blade Works",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/346384.jpg?s=8751cbf099a4f5c9c90aed8bead068e5"
+  }
+]

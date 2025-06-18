@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Boku",
+    "prompt": "Boku from Kageyama Tamio no Double Fantasy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/463211.jpg?s=0cb373e6273d36951ff1011f817a7fce"
+  },
+  {
+    "name": "Hanezawa",
+    "prompt": "Hanezawa from Kageyama Tamio no Double Fantasy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/463214.jpg?s=0cfd38e32b86e246d69d6403e7a598aa"
+  },
+  {
+    "name": "Yurie",
+    "prompt": "Yurie from Kageyama Tamio no Double Fantasy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/463212.jpg?s=cc3391dc0e8bea24ee6eecd0b371bd2b"
+  },
+  {
+    "name": "Iwame",
+    "prompt": "Iwame from Kageyama Tamio no Double Fantasy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/463213.jpg?s=9bd1f3b460ec98af171f9dda62628513"
+  },
+  {
+    "name": "Yoshino",
+    "prompt": "Yoshino from Kageyama Tamio no Double Fantasy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/463215.jpg?s=834cb8aa0774d35db3d01ccf88757bef"
+  }
+]

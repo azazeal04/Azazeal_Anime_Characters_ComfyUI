@@ -1,0 +1,372 @@
+[
+  {
+    "name": "Nakiri, Erina",
+    "prompt": "Nakiri, Erina from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/563981.jpg?s=e720603c2cb4da80351d0bf2b18a0558"
+  },
+  {
+    "name": "Tadokoro, Megumi",
+    "prompt": "Tadokoro, Megumi from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/339622.jpg?s=d26c93af91e688fc6d9994835a2c480c"
+  },
+  {
+    "name": "Yukihira, Souma",
+    "prompt": "Yukihira, Souma from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/277503.jpg?s=d1be9b0f514c3cd572726f1b1815f6f5"
+  },
+  {
+    "name": "Aldini, Uncle",
+    "prompt": "Aldini, Uncle from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/287805.jpg?s=cf9bb0773b39594bc2c653f4e43e1e37"
+  },
+  {
+    "name": "Aldini, Father",
+    "prompt": "Aldini, Father from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/290611.jpg?s=2def210403d92074aa398a4d1444ba5f"
+  },
+  {
+    "name": "Aldini, Takumi",
+    "prompt": "Aldini, Takumi from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/286588.jpg?s=3647b8ac5c631fbdca5d31ab13598dba"
+  },
+  {
+    "name": "Aldini, Isami",
+    "prompt": "Aldini, Isami from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/290370.jpg?s=0170d8f2193cbac67ecb66f93bd23b88"
+  },
+  {
+    "name": "Andou, Shingo",
+    "prompt": "Andou, Shingo from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/325486.jpg?s=731dac973834ca08a9fbf7ea2ce55846"
+  },
+  {
+    "name": "Aoki, Daigo",
+    "prompt": "Aoki, Daigo from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/282746.jpg?s=1f920a93ca1000532c4703229651a2ca"
+  },
+  {
+    "name": "Arato, Hisako",
+    "prompt": "Arato, Hisako from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/290070.jpg?s=5c86dab5d402145b5354d39f822fa1a6"
+  },
+  {
+    "name": "Bitou, Yoshiki",
+    "prompt": "Bitou, Yoshiki from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/282809.jpg?s=437b289d46adaddcd4cff946d89f12d0"
+  },
+  {
+    "name": "Chapelle, Roland",
+    "prompt": "Chapelle, Roland from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/280368.jpg?s=5137730712c94ff593743fbe9a885cb6"
+  },
+  {
+    "name": "Culinary Researcher",
+    "prompt": "Culinary Researcher from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/587736.jpg?s=18a4159129de46c93a5587035c33ad68"
+  },
+  {
+    "name": "Daimidou, Fumio",
+    "prompt": "Daimidou, Fumio from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/288992.jpg?s=f08c60e06a410c1e3deb8e0803432794"
+  },
+  {
+    "name": "Doujima, Gin",
+    "prompt": "Doujima, Gin from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/280110.jpg?s=13b1df7773be1bb717465f818844cfad"
+  },
+  {
+    "name": "Eizan, Etsuya",
+    "prompt": "Eizan, Etsuya from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/371801.jpg?s=69fcbe618ff0c9f5e25672a0fe0f86aa"
+  },
+  {
+    "name": "Enomoto, Madoka",
+    "prompt": "Enomoto, Madoka from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/325487.jpg?s=76ef21952de056b44d9228adee97e25c"
+  },
+  {
+    "name": "Fisherman",
+    "prompt": "Fisherman from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/558687.jpg?s=8c36e0ff5591e1f52051636dfb6f285d"
+  },
+  {
+    "name": "Gotouda, Donato",
+    "prompt": "Gotouda, Donato from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/286901.jpg?s=f06be9e3aaf2dc5253b1117de529333e"
+  },
+  {
+    "name": "Goudabayashi, Kiyoshi",
+    "prompt": "Goudabayashi, Kiyoshi from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/588350.jpg?s=b2d6e6da7e92fadb038046f250fdcb82"
+  },
+  {
+    "name": "Hayama, Akira",
+    "prompt": "Hayama, Akira from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/265389.jpg?s=d59686451ecd9e82abbf6a9cf019e265"
+  },
+  {
+    "name": "High Priest",
+    "prompt": "High Priest from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/587735.jpg?s=ea38b521803ff0f4e454d77f25e052ba"
+  },
+  {
+    "name": "Houjou, Miyoko",
+    "prompt": "Houjou, Miyoko from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/279330.jpg?s=7bc73761c47c49d02e60df354dd2d3f5"
+  },
+  {
+    "name": "Ibusaki, Shun",
+    "prompt": "Ibusaki, Shun from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/280102.jpg?s=95f010450be705d7cc013dd26f46758a"
+  },
+  {
+    "name": "Inui, Hinako",
+    "prompt": "Inui, Hinako from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/282765.jpg?s=22f3be1c5eda2cc5a1ac4a167ce9fb08"
+  },
+  {
+    "name": "Ishiwatari, Takumi",
+    "prompt": "Ishiwatari, Takumi from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/588351.jpg?s=eb226eb0ceba2f1c9dcd0693b321b451"
+  },
+  {
+    "name": "Isshiki, Satoshi",
+    "prompt": "Isshiki, Satoshi from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/253073.jpg?s=d479c87d6994450bfc2469dbf363a83f"
+  },
+  {
+    "name": "Itamae",
+    "prompt": "Itamae from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/518470.jpg?s=241586747f3721ae577ddb9cde14b5e6"
+  },
+  {
+    "name": "Kawashima, Urara",
+    "prompt": "Kawashima, Urara from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/282509.jpg?s=6d2bf798a7853e03b839c7776192d4d0"
+  },
+  {
+    "name": "Kita, Osaji",
+    "prompt": "Kita, Osaji from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/325488.jpg?s=ebe14ee6565aec45fec20ac39b66e612"
+  },
+  {
+    "name": "Koganei, Aki",
+    "prompt": "Koganei, Aki from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/288990.jpg?s=14e6f71b4d30279d7c1fb775efad5328"
+  },
+  {
+    "name": "Konishi, Kanichi",
+    "prompt": "Konishi, Kanichi from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/233523.jpg?s=d2d4ba99af6d944c832a71b4545923e2"
+  },
+  {
+    "name": "Kou",
+    "prompt": "Kou from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/587730.jpg?s=b67a48efb2a7ec16dd2affd37640090a"
+  },
+  {
+    "name": "Kouda, Shigenoshin",
+    "prompt": "Kouda, Shigenoshin from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/289948.jpg?s=c03b7a07218a67318ede28d803bb478e"
+  },
+  {
+    "name": "Kousuke",
+    "prompt": "Kousuke from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/287799.jpg?s=e81e0452c381509e981e3f37dd224b2c"
+  },
+  {
+    "name": "Kuraki, Shigeno",
+    "prompt": "Kuraki, Shigeno from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/282806.jpg?s=5a4d7bc0279c11b07147b637190a66f3"
+  },
+  {
+    "name": "Kurase, Hiro",
+    "prompt": "Kurase, Hiro from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/587731.jpg?s=5a20102ef56fd8706da6e060a2a4133d"
+  },
+  {
+    "name": "Kurase, Mayumi",
+    "prompt": "Kurase, Mayumi from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/233507.jpg?s=4fe3a3fc5ae1cedbd28fcb071d760215"
+  },
+  {
+    "name": "Kurokiba, Ryou",
+    "prompt": "Kurokiba, Ryou from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/286012.jpg?s=54f15018ce83ad85c216db6dbb3d4074"
+  },
+  {
+    "name": "Kyuusaku",
+    "prompt": "Kyuusaku from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/287798.jpg?s=11c187123f5381189ae7eb8c98913138"
+  },
+  {
+    "name": "Marui, Zenji",
+    "prompt": "Marui, Zenji from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/564641.jpg?s=85e744880b0157486f47455471d5391d"
+  },
+  {
+    "name": "McFly",
+    "prompt": "McFly from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/282815.jpg?s=7a1907f45984277ca616e59730bf9015"
+  },
+  {
+    "name": "Minatozaka, Makito",
+    "prompt": "Minatozaka, Makito from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/289949.jpg?s=36c20443053d55fad169ee2db9919fe0"
+  },
+  {
+    "name": "Minegasaki, Yaeko",
+    "prompt": "Minegasaki, Yaeko from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/287088.jpg?s=bd65e938b48c5f5e16e1e0450156de1d"
+  },
+  {
+    "name": "Mito, Mother",
+    "prompt": "Mito, Mother from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mito, Father",
+    "prompt": "Mito, Father from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mito, Ikumi",
+    "prompt": "Mito, Ikumi from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/550498.jpg?s=b00d3d7718e1dc37b2d1c5208ca1c3de"
+  },
+  {
+    "name": "Miyazato, Takao",
+    "prompt": "Miyazato, Takao from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/289950.jpg?s=a49fbafbd076832fc90889cb3f5245bc"
+  },
+  {
+    "name": "Mizuhara, Fuyumi",
+    "prompt": "Mizuhara, Fuyumi from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/279508.jpg?s=728263e9670859ba0e77c5d125686cbb"
+  },
+  {
+    "name": "Nakamozu, Kinu",
+    "prompt": "Nakamozu, Kinu from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/248879.jpg?s=dc7e3533a073e51cad552245bf256401"
+  },
+  {
+    "name": "Nakiri, Senzaemon",
+    "prompt": "Nakiri, Senzaemon from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/564030.jpg?s=d8a2918e93c96d4a82a56af0493eef38"
+  },
+  {
+    "name": "Nakiri, Alice",
+    "prompt": "Nakiri, Alice from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/285712.jpg?s=d8129bd6b8d2e1c4aa808b05ece91be5"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nikaidou, Yoshiaki",
+    "prompt": "Nikaidou, Yoshiaki from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/282810.jpg?s=582ce5e1f8246352835a53e858c7d715"
+  },
+  {
+    "name": "Okamoto, Katsunori",
+    "prompt": "Okamoto, Katsunori from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/282807.jpg?s=6a99af3ce8df36cddefdf5c7e1ed333f"
+  },
+  {
+    "name": "Sadatsuka, Nao",
+    "prompt": "Sadatsuka, Nao from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/290609.jpg?s=6878f2f30dcd453ab61e1e8499aac124"
+  },
+  {
+    "name": "Sakaki, Ryouko",
+    "prompt": "Sakaki, Ryouko from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/257763.jpg?s=856eab58022bf05a6e7aaff35c1324ff"
+  },
+  {
+    "name": "Sakuma, Tokihiko",
+    "prompt": "Sakuma, Tokihiko from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/287802.jpg?s=8cb4a5b186c8133fe5ae21c00c537846"
+  },
+  {
+    "name": "Sasaki, Yua",
+    "prompt": "Sasaki, Yua from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/291241.jpg?s=b29c70beacb4dd1ff3b31931bc612364"
+  },
+  {
+    "name": "Satou, Shouji",
+    "prompt": "Satou, Shouji from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/282745.jpg?s=8c62ea52b664370ee989cbdebf518f78"
+  },
+  {
+    "name": "Sekimori, Hitoshi",
+    "prompt": "Sekimori, Hitoshi from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/286902.jpg?s=2d31a0a0ed4565ae22bbbc66615eb285"
+  },
+  {
+    "name": "Sena, Hiromi",
+    "prompt": "Sena, Hiromi from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/287801.jpg?s=4ba58da1524a0eebcd9c27fe8356ca2d"
+  },
+  {
+    "name": "Sendawara, Orie",
+    "prompt": "Sendawara, Orie from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/289726.jpg?s=2b4df86f53375061e209d82bd02688c4"
+  },
+  {
+    "name": "Sendawara, Natsume",
+    "prompt": "Sendawara, Natsume from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/564025.jpg?s=5f853d6237b5baa60b8db680cee94f18"
+  },
+  {
+    "name": "Shinomiya, Mother",
+    "prompt": "Shinomiya, Mother from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/287804.jpg?s=f36a2af848c9e67fd47bd33e0d9ad9ca"
+  },
+  {
+    "name": "Shinomiya, Kojirou",
+    "prompt": "Shinomiya, Kojirou from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/209253.jpg?s=dd71d1b63e300872579a6b4be4e66116"
+  },
+  {
+    "name": "Shiomi, Jun",
+    "prompt": "Shiomi, Jun from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/288579.jpg?s=b7cd5e79304346d833f2a9f4416b3eb0"
+  },
+  {
+    "name": "Tadokoro, Mother",
+    "prompt": "Tadokoro, Mother from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/282812.jpg?s=d5517c1accf4fa9b202048f4ce1a60fd"
+  },
+  {
+    "name": "Tadokoro, Grandfather",
+    "prompt": "Tadokoro, Grandfather from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/282813.jpg?s=cb81ed8f7b8642fd1bad3aa7dc6a7081"
+  },
+  {
+    "name": "Tadokoro, Grandmother",
+    "prompt": "Tadokoro, Grandmother from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/282814.jpg?s=109855f7d6776635cec5059c5a6263a1"
+  },
+  {
+    "name": "Tokuzou",
+    "prompt": "Tokuzou from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/287800.jpg?s=8f1f09b14e3d8df9a3ba79154c1e534b"
+  },
+  {
+    "name": "Tomita, Yuuya",
+    "prompt": "Tomita, Yuuya from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/588352.jpg?s=c4dc06f895d906d5eb8c7fd21ac2bdcc"
+  },
+  {
+    "name": "Yoshino, Yuuki",
+    "prompt": "Yoshino, Yuuki from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/257761.jpg?s=d4b67e5819a30e0ec0e7bd0d13536010"
+  },
+  {
+    "name": "Yukihira, Jouichirou",
+    "prompt": "Yukihira, Jouichirou from Shokugeki no Souma",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/279323.jpg?s=5f5edab3ff2d9919a5abec2b760dfe26"
+  }
+]

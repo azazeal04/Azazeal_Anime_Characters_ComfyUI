@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Pichu",
+    "prompt": "Pichu from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/467734.jpg?s=8cb55141a528a6728e076756031f6d11"
+  },
+  {
+    "name": "Pikachu",
+    "prompt": "Pikachu from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/289627.jpg?s=b97db39e3126c4cc184a764059abe0f6"
+  },
+  {
+    "name": "Biriridama",
+    "prompt": "Biriridama from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/484757.jpg?s=aaa6583da447e91cc85aabd05d94cf53"
+  },
+  {
+    "name": "Chikorita",
+    "prompt": "Chikorita from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/528618.jpg?s=00c32ca6835ad3eb5a11f78b730596c5"
+  },
+  {
+    "name": "Diguda",
+    "prompt": "Diguda from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/484756.jpg?s=932bbf90709df207050b91d376212f28"
+  },
+  {
+    "name": "Doble",
+    "prompt": "Doble from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/576058.jpg?s=cacaf86e91d1b0f00bb9cb9e2d51c785"
+  },
+  {
+    "name": "Fushigidane",
+    "prompt": "Fushigidane from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/484349.jpg?s=80dee90bc9f5ffc5a36db98e0f47d065"
+  },
+  {
+    "name": "Gyarados",
+    "prompt": "Gyarados from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/528249.jpg?s=a62ca3c62d1d023218389e1337abb3ec"
+  },
+  {
+    "name": "Hinoarashi",
+    "prompt": "Hinoarashi from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/495308.jpg?s=5dc420d479c62b5975204880f95bb58a"
+  },
+  {
+    "name": "Hitodeman",
+    "prompt": "Hitodeman from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/497608.jpg?s=b9b711e1d756ad2d944a211e97a6d3c0"
+  },
+  {
+    "name": "Ishitsubute",
+    "prompt": "Ishitsubute from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497609.jpg?s=bcdc5d8156655d78fdb5b6684561cc9e"
+  },
+  {
+    "name": "Iwark",
+    "prompt": "Iwark from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/528254.jpg?s=581b599604eb78f7cfc8367c34d672c6"
+  },
+  {
+    "name": "Kabigon",
+    "prompt": "Kabigon from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/497183.jpg?s=4d001fb246af762fcbc30233cfb4c5ba"
+  },
+  {
+    "name": "Karakara",
+    "prompt": "Karakara from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/531399.jpg?s=0507a619ae7e5bb8aece032f524cd864"
+  },
+  {
+    "name": "Kasumi",
+    "prompt": "Kasumi from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/104997.jpg?s=9ec835645bde808be53cddb2c06d33bf"
+  },
+  {
+    "name": "Kimawari",
+    "prompt": "Kimawari from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/576057.jpg?s=c4844aba23d77683f04067d380779fb6"
+  },
+  {
+    "name": "Koduck",
+    "prompt": "Koduck from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497610.jpg?s=32c4d310209acd8b14c3fe390b16ce0c"
+  },
+  {
+    "name": "Koratta",
+    "prompt": "Koratta from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498475.jpg?s=8705af4423acafef2593f11f28f92881"
+  },
+  {
+    "name": "Muchul",
+    "prompt": "Muchul from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/499404.jpg?s=3bcc8c61b1a5695c1c1a4c64861e962e"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/511553.jpg?s=a57d2a41fe40f1e203b06d3d9218f4b5"
+  },
+  {
+    "name": "Nazonokusa",
+    "prompt": "Nazonokusa from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/484759.jpg?s=093b715e2b91ca9b9805f85abe17243e"
+  },
+  {
+    "name": "Nyarth",
+    "prompt": "Nyarth from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/131981.jpg?s=d7734d4cd42e72435749110ba1953798"
+  },
+  {
+    "name": "Nyorozo",
+    "prompt": "Nyorozo from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/498601.jpg?s=445e8e5155ff4232c118100763559764"
+  },
+  {
+    "name": "Pigeon",
+    "prompt": "Pigeon from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/498327.jpg?s=8f4db626d0a8473c97f9868f69e551c4"
+  },
+  {
+    "name": "Poppo",
+    "prompt": "Poppo from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/498326.jpg?s=7195d699709848dc904ab88508b63f75"
+  },
+  {
+    "name": "Rokon",
+    "prompt": "Rokon from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497649.jpg?s=3a9a4ebe42b6033278669b00d1ac6637"
+  },
+  {
+    "name": "Satoshi",
+    "prompt": "Satoshi from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/100701.jpg?s=e0c6afbdb021ec02343675ebb587d488"
+  },
+  {
+    "name": "Takeshi",
+    "prompt": "Takeshi from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/364663.jpg?s=d0df6688560613a126a8a9149d32d8e8"
+  },
+  {
+    "name": "Togepi",
+    "prompt": "Togepi from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/183991.jpg?s=e36ee409c2579368c510b7b6d632bed6"
+  },
+  {
+    "name": "Upah",
+    "prompt": "Upah from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/484755.jpg?s=c9fcc5f37870b668fd26c3fc7a9188be"
+  },
+  {
+    "name": "Waninoko",
+    "prompt": "Waninoko from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/528263.jpg?s=a3b1163350e17da8369d2c9580ec57f6"
+  },
+  {
+    "name": "Yamikarasu",
+    "prompt": "Yamikarasu from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/581092.jpg?s=987f0138d145468a17bfec178881eeca"
+  },
+  {
+    "name": "Yorunozuku",
+    "prompt": "Yorunozuku from Pokemon: Pichu to Pikachu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497652.jpg?s=06526519f89bfeb1f154750625b620d5"
+  }
+]

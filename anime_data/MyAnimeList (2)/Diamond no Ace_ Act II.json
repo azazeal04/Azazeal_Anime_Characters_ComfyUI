@@ -1,0 +1,372 @@
+[
+  {
+    "name": "Furuya, Satoru",
+    "prompt": "Furuya, Satoru from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/225749.jpg?s=e2ae42f7227b4d2804ab68d3ffb17da3"
+  },
+  {
+    "name": "Miyuki, Kazuya",
+    "prompt": "Miyuki, Kazuya from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/225757.jpg?s=e59944dcda5203d1f4867e24d3816be0"
+  },
+  {
+    "name": "Sawamura, Eijun",
+    "prompt": "Sawamura, Eijun from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/235393.jpg?s=60ecdffd9bb2b04e67cb7b03963c5f0f"
+  },
+  {
+    "name": "Akamatsu, Shinji",
+    "prompt": "Akamatsu, Shinji from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/299039.jpg?s=7423992658b88a4032c2b95d830bb2cc"
+  },
+  {
+    "name": "Akashi, Seiya",
+    "prompt": "Akashi, Seiya from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/416624.jpg?s=32738518ce3799cd1b0097505f731abf"
+  },
+  {
+    "name": "Amahisa, Kousei",
+    "prompt": "Amahisa, Kousei from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/288158.jpg?s=bf9592c11629f8a02495130ed8a306e7"
+  },
+  {
+    "name": "Aotsuki, Wakana",
+    "prompt": "Aotsuki, Wakana from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/222799.jpg?s=01c66a9827c866ee0006f15f13acfcca"
+  },
+  {
+    "name": "Asada, Hirofumi",
+    "prompt": "Asada, Hirofumi from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/388397.jpg?s=56459c6f43be2f41c0da64cf2ac0cc6c"
+  },
+  {
+    "name": "Asou, Takeru",
+    "prompt": "Asou, Takeru from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/286769.jpg?s=26320e28eed16f834f1abe70c48071d9"
+  },
+  {
+    "name": "Enjou, Renji",
+    "prompt": "Enjou, Renji from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/388389.jpg?s=33d5fa76460458627989b20a976c6bb3"
+  },
+  {
+    "name": "Fukui, Kento",
+    "prompt": "Fukui, Kento from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/280095.jpg?s=8c0331985ea335ec08d0c9ac57319c8c"
+  },
+  {
+    "name": "Higasa, Shouji",
+    "prompt": "Higasa, Shouji from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/275174.jpg?s=d7bb4cb618f945efc13f4e3a128b4c16"
+  },
+  {
+    "name": "Hongou, Masamune",
+    "prompt": "Hongou, Masamune from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/388381.jpg?s=85676de05e606fdbdb8684ee6a3aa11e"
+  },
+  {
+    "name": "Isashiki, Jun",
+    "prompt": "Isashiki, Jun from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/235381.jpg?s=cb09b305f63c7ab3447a97dfc6a484f0"
+  },
+  {
+    "name": "Kamiya, Carlos Toshiki",
+    "prompt": "Kamiya, Carlos Toshiki from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/275366.jpg?s=bfe0d511c950117931922f1d79184f84"
+  },
+  {
+    "name": "Kanemaru, Shinji",
+    "prompt": "Kanemaru, Shinji from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/235389.jpg?s=c45d41f864fd0961ffa14472b8b52a7a"
+  },
+  {
+    "name": "Kariba, Wataru",
+    "prompt": "Kariba, Wataru from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/299995.jpg?s=23997fc6945efb5e9017b5b7526a72fa"
+  },
+  {
+    "name": "Kataoka, Tesshin",
+    "prompt": "Kataoka, Tesshin from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/224659.jpg?s=ed46fb767f8f0f006dee744e97435803"
+  },
+  {
+    "name": "Kawabata, Masanori",
+    "prompt": "Kawabata, Masanori from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/403856.jpg?s=1024fd9c5b5476594488c06563ef7c74"
+  },
+  {
+    "name": "Kawakami, Norifumi",
+    "prompt": "Kawakami, Norifumi from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/235391.jpg?s=b94438ea49157a33a36c658113209a12"
+  },
+  {
+    "name": "Kengo, Inui",
+    "prompt": "Kengo, Inui from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/280841.jpg?s=c1ac485ef17700ff03ee49c29e6da0a6"
+  },
+  {
+    "name": "Kijima, Rei",
+    "prompt": "Kijima, Rei from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/299045.jpg?s=b5f9b5d5acf1c5b84d8fcbfe81e7637a"
+  },
+  {
+    "name": "Kominato, Haruichi",
+    "prompt": "Kominato, Haruichi from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/225753.jpg?s=9084d888735831d7e6b056e168974a44"
+  },
+  {
+    "name": "Kominato, Ryousuke",
+    "prompt": "Kominato, Ryousuke from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/225755.jpg?s=d74fc2a1c069f6617d67776ab93cf666"
+  },
+  {
+    "name": "Koutari, Yuuto",
+    "prompt": "Koutari, Yuuto from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/388400.jpg?s=c3cc7f652edb7c586ef4431adff8a57e"
+  },
+  {
+    "name": "Koutari, Kazuto",
+    "prompt": "Koutari, Kazuto from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/388401.jpg?s=5734ada98f0bc4092f3d9479da4715b4"
+  },
+  {
+    "name": "Kudou, Yasushi",
+    "prompt": "Kudou, Yasushi from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/283597.jpg?s=c1a7a3808197331a1791892f6627687f"
+  },
+  {
+    "name": "Kuki, Youhei",
+    "prompt": "Kuki, Youhei from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/402554.jpg?s=b3134fcc5a7285d61a6f5a78589ce553"
+  },
+  {
+    "name": "Kunitomo, Hiroshige",
+    "prompt": "Kunitomo, Hiroshige from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/274223.jpg?s=1992ba9fb87523877b0bd0adda2874f2"
+  },
+  {
+    "name": "Kuramochi, Youichi",
+    "prompt": "Kuramochi, Youichi from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/224655.jpg?s=e89deb0f0c0d1db18d01e728eeaead38"
+  },
+  {
+    "name": "Maezono, Kenta",
+    "prompt": "Maezono, Kenta from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/276217.jpg?s=96175d6a907d5900d8e52a615644373a"
+  },
+  {
+    "name": "Matsubara, Nao",
+    "prompt": "Matsubara, Nao from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/284902.jpg?s=bdb504f47c1180bf85cc2f1bef8b3707"
+  },
+  {
+    "name": "Mima, Souichirou",
+    "prompt": "Mima, Souichirou from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/388403.jpg?s=1e1d40246b76333e179b00176245e4ff"
+  },
+  {
+    "name": "Mine, Fujio",
+    "prompt": "Mine, Fujio from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/254721.jpg?s=0b263339a51472f198f5855ff329a4cd"
+  },
+  {
+    "name": "Mogami, Takeshi",
+    "prompt": "Mogami, Takeshi from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/388406.jpg?s=556098e6059a91eed3947e139220e7c6"
+  },
+  {
+    "name": "Mukai, Taiyou",
+    "prompt": "Mukai, Taiyou from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/280843.jpg?s=ce48abc495e37011a5c4d7a67513abb6"
+  },
+  {
+    "name": "Nagata, Shouhei",
+    "prompt": "Nagata, Shouhei from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nakata, Ataru",
+    "prompt": "Nakata, Ataru from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/274779.jpg?s=e1648ebccbf1ecdfd32ba5f092fb506c"
+  },
+  {
+    "name": "Narration",
+    "prompt": "Narration from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Narumiya, Mei",
+    "prompt": "Narumiya, Mei from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/278614.jpg?s=4c7968fa0db1efa2c1be35caa8fc8c1c"
+  },
+  {
+    "name": "Natsukawa, Yui",
+    "prompt": "Natsukawa, Yui from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/300284.jpg?s=d01b6a6c6b3f8a142a80e4002db86eab"
+  },
+  {
+    "name": "Nishino, Risa",
+    "prompt": "Nishino, Risa from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/444195.jpg?s=3ad782fdbd16fa4c3712b57b27ec386d"
+  },
+  {
+    "name": "Nitta, Kouzou",
+    "prompt": "Nitta, Kouzou from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/388405.jpg?s=05447ac1a629c5aa9b81567b923db4aa"
+  },
+  {
+    "name": "Ochiai, Hiromitsu",
+    "prompt": "Ochiai, Hiromitsu from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/276218.jpg?s=dfe274c45d5ffba9bebbe50ddd6c6eff"
+  },
+  {
+    "name": "Oka, Kenichi",
+    "prompt": "Oka, Kenichi from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/388415.jpg?s=a8dbfb6b34947a448a9bc7f9a1c16a77"
+  },
+  {
+    "name": "Okumura, Koushuu",
+    "prompt": "Okumura, Koushuu from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/398626.jpg?s=682e5176182ecd76ac7e010d64567982"
+  },
+  {
+    "name": "Ono, Hiroshi",
+    "prompt": "Ono, Hiroshi from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/274687.jpg?s=e608ba577bbeecd92c0bd8bdb9770b71"
+  },
+  {
+    "name": "Oota, Kazuyoshi",
+    "prompt": "Oota, Kazuyoshi from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/279192.jpg?s=78b11e1ed3a427101f5955884809aff1"
+  },
+  {
+    "name": "Oowada, Akiko",
+    "prompt": "Oowada, Akiko from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/254719.jpg?s=d5e7930b65bc110d5d8d1a8ed12ff254"
+  },
+  {
+    "name": "Sakai, Ichirou",
+    "prompt": "Sakai, Ichirou from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/254647.jpg?s=7db6a0647fe46166ea243267f340e44e"
+  },
+  {
+    "name": "Sakaki, Eijirou",
+    "prompt": "Sakaki, Eijirou from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/293099.jpg?s=5a98464c6a9e54de839a7d591bb0af91"
+  },
+  {
+    "name": "Sanada, Shunpei",
+    "prompt": "Sanada, Shunpei from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/299109.jpg?s=61a90ab8fd07674c9fcedab2d30c8f8f"
+  },
+  {
+    "name": "Seki, Naomichi",
+    "prompt": "Seki, Naomichi from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/275638.jpg?s=ae15fdfc91720107c96b04ed3d59adf7"
+  },
+  {
+    "name": "Seto, Takuma",
+    "prompt": "Seto, Takuma from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/299037.jpg?s=e830e8363bcae442ae666a7e9da79914"
+  },
+  {
+    "name": "Shirasu, Kenjirou",
+    "prompt": "Shirasu, Kenjirou from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/254645.jpg?s=fb1980e86bbdc17635efede8b0d7cf2f"
+  },
+  {
+    "name": "Tadano, Itsuki",
+    "prompt": "Tadano, Itsuki from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/274589.jpg?s=4291fe9f51a464d752ebef2a13af7439"
+  },
+  {
+    "name": "Tahara, Toshihiko",
+    "prompt": "Tahara, Toshihiko from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/279831.jpg?s=e255432d8a84c8a7b331d3b216aa8726"
+  },
+  {
+    "name": "Takashima, Rei",
+    "prompt": "Takashima, Rei from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/222801.jpg?s=79c0e68e4300d1922bcd575a5812c5a3"
+  },
+  {
+    "name": "Takatsu, Hiroomi",
+    "prompt": "Takatsu, Hiroomi from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/388412.jpg?s=5decb50a16096b06b227e567704f6b3b"
+  },
+  {
+    "name": "Takigawa, Chris Yuu",
+    "prompt": "Takigawa, Chris Yuu from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/236201.jpg?s=4a947969d53320996531cd65bb436216"
+  },
+  {
+    "name": "Tanba, Kouichirou",
+    "prompt": "Tanba, Kouichirou from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/224651.jpg?s=ef3a65e590b800c6bd2cada699f770e3"
+  },
+  {
+    "name": "Todoroki, Raichi",
+    "prompt": "Todoroki, Raichi from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/250931.jpg?s=187bf81c8c5df52e538a2a4001159db0"
+  },
+  {
+    "name": "Todoroki, Raizou",
+    "prompt": "Todoroki, Raizou from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/250923.jpg?s=70b578bb25c2ef0c8654a91e7fd50591"
+  },
+  {
+    "name": "Tomobe, Sakito",
+    "prompt": "Tomobe, Sakito from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Toujou, Hideaki",
+    "prompt": "Toujou, Hideaki from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/280844.jpg?s=dee958df103225607f05b62e251569b5"
+  },
+  {
+    "name": "Umemiya, Seiichi",
+    "prompt": "Umemiya, Seiichi from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/284901.jpg?s=c809da18447a9254dc715edf2e2a28ae"
+  },
+  {
+    "name": "Umemoto, Sachiko",
+    "prompt": "Umemoto, Sachiko from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/239793.jpg?s=ee5401e191628adcf27da45fcdfb9c67"
+  },
+  {
+    "name": "Watanabe, Hisashi",
+    "prompt": "Watanabe, Hisashi from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/283576.jpg?s=b9733ec638b01ff69ebe1b0b5fc13794"
+  },
+  {
+    "name": "Yamaguchi, Ken",
+    "prompt": "Yamaguchi, Ken from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/283575.jpg?s=cf4cfbc429f07d28129a87e0780967b9"
+  },
+  {
+    "name": "Yoshikawa, Haruno",
+    "prompt": "Yoshikawa, Haruno from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/224647.jpg?s=99278e9ddcbedcb5891d834236739afd"
+  },
+  {
+    "name": "You, Shunshin",
+    "prompt": "You, Shunshin from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/240175.jpg?s=3109041cf88231d7218b0f160ef74f4f"
+  },
+  {
+    "name": "Yui, Kaoru",
+    "prompt": "Yui, Kaoru from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/388404.jpg?s=d2508fed693b8c22d4162fad0d18039e"
+  },
+  {
+    "name": "Yuuki, Tetsuya",
+    "prompt": "Yuuki, Tetsuya from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/235383.jpg?s=4a47fce3346fc2613678832d65c9a9dc"
+  },
+  {
+    "name": "Yuuki, Masashi",
+    "prompt": "Yuuki, Masashi from Diamond no Ace: Act II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/299067.jpg?s=3e903e031ad6c57c8c3675b894b9a5d8"
+  }
+]

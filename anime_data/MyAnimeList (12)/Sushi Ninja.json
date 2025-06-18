@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ikura",
+    "prompt": "Ikura from Sushi Ninja",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/252773.jpg?s=a0511ae0d30fcb49539f95103ee5be4e"
+  },
+  {
+    "name": "Maguro",
+    "prompt": "Maguro from Sushi Ninja",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/252771.jpg?s=1e108cbf0fcb031828879a8cd451b1d6"
+  },
+  {
+    "name": "Tamago",
+    "prompt": "Tamago from Sushi Ninja",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/252775.jpg?s=34bcf11bebe7d41fa60b842bb2dc7ba8"
+  },
+  {
+    "name": "The Princess",
+    "prompt": "The Princess from Sushi Ninja",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/539186.jpg?s=483b642e5413a96fcde678b7f9614edd"
+  }
+]

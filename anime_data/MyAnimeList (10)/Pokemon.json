@@ -1,0 +1,2387 @@
+[
+  {
+    "name": "Kasumi",
+    "prompt": "Kasumi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/104997.jpg?s=9ec835645bde808be53cddb2c06d33bf"
+  },
+  {
+    "name": "Kenji",
+    "prompt": "Kenji from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/482712.jpg?s=9b37963e99d23b79355ad732da574ab8"
+  },
+  {
+    "name": "Pikachu",
+    "prompt": "Pikachu from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/289627.jpg?s=b97db39e3126c4cc184a764059abe0f6"
+  },
+  {
+    "name": "Satoshi",
+    "prompt": "Satoshi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/100701.jpg?s=e0c6afbdb021ec02343675ebb587d488"
+  },
+  {
+    "name": "Takeshi",
+    "prompt": "Takeshi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/364663.jpg?s=d0df6688560613a126a8a9149d32d8e8"
+  },
+  {
+    "name": "Togepi",
+    "prompt": "Togepi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/183991.jpg?s=e36ee409c2579368c510b7b6d632bed6"
+  },
+  {
+    "name": "Akane",
+    "prompt": "Akane from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/470788.jpg?s=5a32fd94a7920dbfd7583d07a2862fd3"
+  },
+  {
+    "name": "Akio",
+    "prompt": "Akio from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/553810.jpg?s=fb91a0a4d089e2170ebdf56656f20dbe"
+  },
+  {
+    "name": "Akira",
+    "prompt": "Akira from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/453725.jpg?s=783bbe89d944ffd827f9098f604a8311"
+  },
+  {
+    "name": "Akito",
+    "prompt": "Akito from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/554184.jpg?s=963f282521755732f001cce1ad7aff24"
+  },
+  {
+    "name": "Alice",
+    "prompt": "Alice from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/370884.jpg?s=72573a78ef27be94a585d105dc154678"
+  },
+  {
+    "name": "Alligates",
+    "prompt": "Alligates from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/499964.jpg?s=9214a1beb40043658d7a40ba98ef6297"
+  },
+  {
+    "name": "Anju",
+    "prompt": "Anju from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/386678.jpg?s=a99aaf41ccd10d0b296d5cd9cd10a6fd"
+  },
+  {
+    "name": "Anna",
+    "prompt": "Anna from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/553780.jpg?s=8a51bf30e809e7e48a5432e379164e57"
+  },
+  {
+    "name": "Anne",
+    "prompt": "Anne from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/552778.jpg?s=aaff1b526bbfaff3fd08dbb71017d45a"
+  },
+  {
+    "name": "Anoki",
+    "prompt": "Anoki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/453726.jpg?s=a8da4e030d8e8887ddd1bfbfbc920d8b"
+  },
+  {
+    "name": "Arbo",
+    "prompt": "Arbo from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/497721.jpg?s=a91a1fee5fc38234a03daa0de6676de4"
+  },
+  {
+    "name": "Arbok",
+    "prompt": "Arbok from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/499143.jpg?s=45d73098814e473fad10d9927d9a6c87"
+  },
+  {
+    "name": "Atsuko",
+    "prompt": "Atsuko from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/453728.jpg?s=a71a4e9502f63b95b60cd0acc4454324"
+  },
+  {
+    "name": "Atsumi",
+    "prompt": "Atsumi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/453729.jpg?s=52e76871fd23a9265477d79953366836"
+  },
+  {
+    "name": "Atsushi",
+    "prompt": "Atsushi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/551071.jpg?s=d8e8a6423201f8fbfea7078c390ece91"
+  },
+  {
+    "name": "Aya",
+    "prompt": "Aya from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/470798.jpg?s=dc5fc5c0d7de6226f14fac021ed87211"
+  },
+  {
+    "name": "Ayame",
+    "prompt": "Ayame from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/501505.jpg?s=df4e4e826ed8e4939f8eaca398363530"
+  },
+  {
+    "name": "Ayano",
+    "prompt": "Ayano from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/553986.jpg?s=b91ff98bfb54b3b7fcce2129204e41ad"
+  },
+  {
+    "name": "Azusa",
+    "prompt": "Azusa from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/553801.jpg?s=ee414607942731141717e1d08383971c"
+  },
+  {
+    "name": "Balkie",
+    "prompt": "Balkie from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/499985.jpg?s=72c021cb93f1b0bf734239a60e76f6dd"
+  },
+  {
+    "name": "Bangiras",
+    "prompt": "Bangiras from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/540502.jpg?s=ae4cc3a96a74d21b349bbd45a708f6a0"
+  },
+  {
+    "name": "Basquiat, Keith",
+    "prompt": "Basquiat, Keith from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/554127.jpg?s=26e731612af7d98e256db5f50f6258c8"
+  },
+  {
+    "name": "Betbeter",
+    "prompt": "Betbeter from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/498611.jpg?s=e3991e33b9d709396c17e2ba1ea41763"
+  },
+  {
+    "name": "Betbeton",
+    "prompt": "Betbeton from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/498079.jpg?s=394c256329e54b6751d046cc86137735"
+  },
+  {
+    "name": "Biriridama",
+    "prompt": "Biriridama from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/484757.jpg?s=aaa6583da447e91cc85aabd05d94cf53"
+  },
+  {
+    "name": "Blacky",
+    "prompt": "Blacky from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/504427.jpg?s=94e3f93d5a82a5c75baa8b603a8fe990"
+  },
+  {
+    "name": "Botan",
+    "prompt": "Botan from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/516284.jpg?s=ce9fbc5d286aed2c38789a862852156e"
+  },
+  {
+    "name": "Boy",
+    "prompt": "Boy from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/453754.jpg?s=39f2c35ebfe7f670f2ef8e7fe8e9222d"
+  },
+  {
+    "name": "Boyd",
+    "prompt": "Boyd from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/554291.jpg?s=d71135f7d7e952569892c8a397fedfe5"
+  },
+  {
+    "name": "Bruce, Chan",
+    "prompt": "Bruce, Chan from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/553849.jpg?s=af3a31983ca30ae4bd520360566ab96a"
+  },
+  {
+    "name": "Bruce, Rin",
+    "prompt": "Bruce, Rin from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/553850.jpg?s=4b112591e45ece2d81200e8fccebe73c"
+  },
+  {
+    "name": "Bruce, Shan",
+    "prompt": "Bruce, Shan from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/553851.jpg?s=b3a278956865e42ebc2415586bc69e04"
+  },
+  {
+    "name": "Bulu",
+    "prompt": "Bulu from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/499983.jpg?s=7fa07a4a89ebfe291eb559b4d8602760"
+  },
+  {
+    "name": "Burasuke",
+    "prompt": "Burasuke from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/554126.jpg?s=479aed0c655a0d77238bff04f85fd92a"
+  },
+  {
+    "name": "Butterfree",
+    "prompt": "Butterfree from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/498324.jpg?s=66301edd9a08b9f273353b8ebc41aeac"
+  },
+  {
+    "name": "Captain",
+    "prompt": "Captain from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/552793.jpg?s=afa944fa8a45b46d5ccd24b25932fd55"
+  },
+  {
+    "name": "Caterpie",
+    "prompt": "Caterpie from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/503661.jpg?s=8da993ac7bcde374acf69e205f779b05"
+  },
+  {
+    "name": "Cherry",
+    "prompt": "Cherry from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/553778.jpg?s=b292a3b8d95d4c222a6346d66e12c4a7"
+  },
+  {
+    "name": "Chico",
+    "prompt": "Chico from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/553998.jpg?s=9613b90d3b6b4f163aeb157d8db20185"
+  },
+  {
+    "name": "Chie",
+    "prompt": "Chie from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/350943.jpg?s=6ddf7880436467e4feca8f38b4923067"
+  },
+  {
+    "name": "Chigusa",
+    "prompt": "Chigusa from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/287749.jpg?s=2bb59c1c5f245bca6e09a54cbf6dc17a"
+  },
+  {
+    "name": "Chihiro",
+    "prompt": "Chihiro from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/528617.jpg?s=c47685421acadf289cf425640319011a"
+  },
+  {
+    "name": "Chikorita",
+    "prompt": "Chikorita from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/528618.jpg?s=00c32ca6835ad3eb5a11f78b730596c5"
+  },
+  {
+    "name": "Chisato",
+    "prompt": "Chisato from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/553812.jpg?s=daa06983a0c881b5325daf0d79458ac0"
+  },
+  {
+    "name": "Coil",
+    "prompt": "Coil from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498605.jpg?s=21c5d42c79b5cab5eb0eb3159de929c5"
+  },
+  {
+    "name": "Daiki",
+    "prompt": "Daiki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/554050.jpg?s=36bf7d425e40ca0f94d95126ca1265c2"
+  },
+  {
+    "name": "Daisuke",
+    "prompt": "Daisuke from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/203657.jpg?s=acf0038d748ecaa260cc6132c0b79d04"
+  },
+  {
+    "name": "Daizou",
+    "prompt": "Daizou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/554033.jpg?s=2d79828f37ccf20e5914cfc808579d2a"
+  },
+  {
+    "name": "Dan",
+    "prompt": "Dan from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/552805.jpg?s=ca3417cceca42c6ce36cbcc0294d721a"
+  },
+  {
+    "name": "Debo",
+    "prompt": "Debo from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/552792.jpg?s=d5bd95b6f95b49146155d51ab2ab39fd"
+  },
+  {
+    "name": "Delibird",
+    "prompt": "Delibird from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497653.jpg?s=b375033c9f98a1eec6266aa110de63ae"
+  },
+  {
+    "name": "Denjirou",
+    "prompt": "Denjirou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/553740.jpg?s=82cdaf8e43762d7eda5093fc38bc7801"
+  },
+  {
+    "name": "Deputy Mayor of Diglett Village",
+    "prompt": "Deputy Mayor of Diglett Village from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/554285.jpg?s=019012576a5fc0469efdea0c40ee903f"
+  },
+  {
+    "name": "Dick",
+    "prompt": "Dick from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/550938.jpg?s=a68a7a4dae659a4ee3155c32153b54ea"
+  },
+  {
+    "name": "Diguda",
+    "prompt": "Diguda from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/484756.jpg?s=932bbf90709df207050b91d376212f28"
+  },
+  {
+    "name": "Diguda Thief Leader",
+    "prompt": "Diguda Thief Leader from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/554052.jpg?s=e6e7c9da2a71709e2877e9d1dfead7e4"
+  },
+  {
+    "name": "Django",
+    "prompt": "Django from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/553160.jpg?s=571f364f4a00819205b90ef5c9434285"
+  },
+  {
+    "name": "Doble",
+    "prompt": "Doble from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/576058.jpg?s=cacaf86e91d1b0f00bb9cb9e2d51c785"
+  },
+  {
+    "name": "Doctor Akihabara",
+    "prompt": "Doctor Akihabara from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/528779.jpg?s=d9fa04a9d35d73920c7c6a68a15faf11"
+  },
+  {
+    "name": "Doctor Doc",
+    "prompt": "Doctor Doc from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/512544.jpg?s=7fa67f37738351c613d4e234973a854e"
+  },
+  {
+    "name": "Doctor Namba",
+    "prompt": "Doctor Namba from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/528806.jpg?s=ab8ea26e34e7261f9637945e736f5aa1"
+  },
+  {
+    "name": "Doctor Odamaki",
+    "prompt": "Doctor Odamaki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/482324.jpg?s=8f9a55bf1d16c5a30c5e66fed38058be"
+  },
+  {
+    "name": "Doctor Shiranui",
+    "prompt": "Doctor Shiranui from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/97838.jpg?s=73f857327feea6daf3ed93031bc0abf8"
+  },
+  {
+    "name": "Doctor Telesu",
+    "prompt": "Doctor Telesu from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/554192.jpg?s=21766023ced2bb0e76e80fcf1f80f08f"
+  },
+  {
+    "name": "Doctor Uchikido",
+    "prompt": "Doctor Uchikido from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/527311.jpg?s=71f153f00e5c2d571e2127a987c96b65"
+  },
+  {
+    "name": "Dodrio",
+    "prompt": "Dodrio from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/498610.jpg?s=b74edca1637f7feed5971bd023594512"
+  },
+  {
+    "name": "Doduo",
+    "prompt": "Doduo from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/498609.jpg?s=a2f63d9763b30adaf8a034c1f25ec7b5"
+  },
+  {
+    "name": "Dogars",
+    "prompt": "Dogars from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/484898.jpg?s=b6a1b67cad713f8a3c11dd9b575ec365"
+  },
+  {
+    "name": "Dorio",
+    "prompt": "Dorio from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498915.jpg?s=c13fa0a0c0113140bf63679a13af33eb"
+  },
+  {
+    "name": "Ebiwalar's Trainer",
+    "prompt": "Ebiwalar's Trainer from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/553184.jpg?s=098400cf71e76613aba1a67eda48c496"
+  },
+  {
+    "name": "Eievui",
+    "prompt": "Eievui from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/359157.jpg?s=0cbdbf1b3d11a3949cb9aec6d03ba650"
+  },
+  {
+    "name": "Eifie",
+    "prompt": "Eifie from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/504426.jpg?s=07f50dbf80adbacdc001d4aa56c37ccf"
+  },
+  {
+    "name": "Eipam",
+    "prompt": "Eipam from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/498766.jpg?s=51accefc8c98a045e37f7e991f5ceb7d"
+  },
+  {
+    "name": "Electric Company Head of Security",
+    "prompt": "Electric Company Head of Security from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/554054.jpg?s=42ec6af1ffd08608974dc3a49561af06"
+  },
+  {
+    "name": "Elekid",
+    "prompt": "Elekid from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/528245.jpg?s=3309b3002532edcb62d0215a5b452f58"
+  },
+  {
+    "name": "Elle",
+    "prompt": "Elle from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/554154.jpg?s=4d63f1c46e439386b1867b0e2ffb2c94"
+  },
+  {
+    "name": "Ellen",
+    "prompt": "Ellen from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/553782.jpg?s=5121c7d67381298845e0006711f08fd5"
+  },
+  {
+    "name": "Emily",
+    "prompt": "Emily from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/552807.jpg?s=29681de997271e5554eda6a238d4f2d5"
+  },
+  {
+    "name": "Entei",
+    "prompt": "Entei from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/254423.jpg?s=2c7bf7ebfe47cd735429de74d8664114"
+  },
+  {
+    "name": "Erika",
+    "prompt": "Erika from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/453722.jpg?s=ad3756f1a2be16682ec250103435fcdd"
+  },
+  {
+    "name": "Eriko",
+    "prompt": "Eriko from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/554191.jpg?s=0372f1f94543152d8f9927fbd99b6cdb"
+  },
+  {
+    "name": "Farmer",
+    "prompt": "Farmer from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/553750.jpg?s=34068c12139646a639c77a41d09451aa"
+  },
+  {
+    "name": "Fire",
+    "prompt": "Fire from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/453721.jpg?s=2eda7b2c0db3a079c2be9408ce3ee2d4"
+  },
+  {
+    "name": "Foodin",
+    "prompt": "Foodin from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/578815.jpg?s=056a62ffca72e11d9e059ba2c9ef9645"
+  },
+  {
+    "name": "Ford",
+    "prompt": "Ford from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/552809.jpg?s=86a6a100697b3198d1aedfe9583f17ea"
+  },
+  {
+    "name": "Foreman",
+    "prompt": "Foreman from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/550982.jpg?s=a7ee7c77de193b20370e184d0e033fd1"
+  },
+  {
+    "name": "Freezer",
+    "prompt": "Freezer from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/393186.jpg?s=3676f432dd404892d1fb72ce119c7704"
+  },
+  {
+    "name": "Fushigibana",
+    "prompt": "Fushigibana from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/497451.jpg?s=5f7350c8f01d5365fcce698ff715ce52"
+  },
+  {
+    "name": "Fushigidane",
+    "prompt": "Fushigidane from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/484349.jpg?s=80dee90bc9f5ffc5a36db98e0f47d065"
+  },
+  {
+    "name": "Fushigisou",
+    "prompt": "Fushigisou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/497450.jpg?s=cb15aaf8910b161c75e4be96ac1de61c"
+  },
+  {
+    "name": "Gantetsu",
+    "prompt": "Gantetsu from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/528620.jpg?s=f8ea611b91bf97d99ae256f23121fb35"
+  },
+  {
+    "name": "Gardie",
+    "prompt": "Gardie from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497179.jpg?s=190a0d99d19fe1b73e2a5e6b544a4b2f"
+  },
+  {
+    "name": "Gengar",
+    "prompt": "Gengar from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497724.jpg?s=5e6079f80a75912bc0139b8a95dc54fa"
+  },
+  {
+    "name": "Genzou",
+    "prompt": "Genzou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/511915.jpg?s=ca323b2232825d841c62fc5a2b93b737"
+  },
+  {
+    "name": "Ghali",
+    "prompt": "Ghali from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/552925.jpg?s=f790631ddc1543aaa9ebda10e56a587a"
+  },
+  {
+    "name": "Giant Takada",
+    "prompt": "Giant Takada from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/557170.jpg?s=a1b8a43c71847246345571846710fe40"
+  },
+  {
+    "name": "Giovanni",
+    "prompt": "Giovanni from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/553741.jpg?s=e394a932bf2d9c3d690a3d8a7eeaf434"
+  },
+  {
+    "name": "Glue",
+    "prompt": "Glue from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/553997.jpg?s=4c96e72287384d3f83ec8c160c586afb"
+  },
+  {
+    "name": "Golduck",
+    "prompt": "Golduck from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/498480.jpg?s=80f799748fbd6eae6067c176d3dd19b8"
+  },
+  {
+    "name": "Golone",
+    "prompt": "Golone from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498603.jpg?s=4a83582c3498521bd08eb3be6afa6423"
+  },
+  {
+    "name": "Golonya",
+    "prompt": "Golonya from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/498604.jpg?s=168d7ba882896fd68b213d4c65a30c0d"
+  },
+  {
+    "name": "Gomazou",
+    "prompt": "Gomazou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/495497.jpg?s=da91552689ce501e1cf627c856621e72"
+  },
+  {
+    "name": "Goriki",
+    "prompt": "Goriki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/497605.jpg?s=a37679a4a60feb23a4f13033dca0e008"
+  },
+  {
+    "name": "Granbull",
+    "prompt": "Granbull from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/499984.jpg?s=5335715f3edf4d40749c2f1a45694f5a"
+  },
+  {
+    "name": "Gyarados",
+    "prompt": "Gyarados from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/528249.jpg?s=a62ca3c62d1d023218389e1337abb3ec"
+  },
+  {
+    "name": "Gym Leader",
+    "prompt": "Gym Leader from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/554077.jpg?s=2848926049155e359ceb8cb40e4d46ef"
+  },
+  {
+    "name": "Hachirou",
+    "prompt": "Hachirou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/554163.jpg?s=22b12a0f1e7e0d6350bbefaf7409c106"
+  },
+  {
+    "name": "Haircut Brother #1",
+    "prompt": "Haircut Brother #1 from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/553743.jpg?s=7296b0a46769da42264a06f00835eda8"
+  },
+  {
+    "name": "Haircut Brother #2",
+    "prompt": "Haircut Brother #2 from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/553744.jpg?s=bbd786c8330d884d21342badd7a04dd2"
+  },
+  {
+    "name": "Hajime",
+    "prompt": "Hajime from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/553268.jpg?s=8f337c16768089838d0377e96d82fcdd"
+  },
+  {
+    "name": "Hajime's Mother",
+    "prompt": "Hajime's Mother from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/550981.jpg?s=37f8395519fca4642f3cde62a8e10757"
+  },
+  {
+    "name": "Hakuryuu",
+    "prompt": "Hakuryuu from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/498076.jpg?s=1fb53fac19645777282b7694f36549a1"
+  },
+  {
+    "name": "Hampo",
+    "prompt": "Hampo from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/553995.jpg?s=118b1a29dca15e7ee9019d22560a41b4"
+  },
+  {
+    "name": "Hanako",
+    "prompt": "Hanako from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/506992.jpg?s=0229e1b6818ea34136d09d24e8e744f6"
+  },
+  {
+    "name": "Harizou",
+    "prompt": "Harizou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/554097.jpg?s=76b0a53099c1fd4b966e8f0980355730"
+  },
+  {
+    "name": "Haru",
+    "prompt": "Haru from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/554144.jpg?s=98a42408a511f3b0ceb7783f090b30e8"
+  },
+  {
+    "name": "Haruka",
+    "prompt": "Haruka from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/554194.jpg?s=3d2a1d7c7d2b054d3f6d584cc0982f4c"
+  },
+  {
+    "name": "Haruno",
+    "prompt": "Haruno from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/554120.jpg?s=a13609f0dec77b776a04416434cb362f"
+  },
+  {
+    "name": "Hassaku",
+    "prompt": "Hassaku from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/554185.jpg?s=69915707577f75412a759685325cb6df"
+  },
+  {
+    "name": "Hassam",
+    "prompt": "Hassam from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/499968.jpg?s=0237d72ef33cfa6a0945c16aa8be0bee"
+  },
+  {
+    "name": "Hassboh",
+    "prompt": "Hassboh from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/534554.jpg?s=3c8bcf4b92b975cb27f3385bcca1e824"
+  },
+  {
+    "name": "Hayabusa",
+    "prompt": "Hayabusa from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/554296.jpg?s=cad8aeb87f86cc94188288522e8c1801"
+  },
+  {
+    "name": "Hayato",
+    "prompt": "Hayato from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/190298.jpg?s=015eb76a6c561a8c62573a1fe100e998"
+  },
+  {
+    "name": "Hazuki",
+    "prompt": "Hazuki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/528621.jpg?s=6d262e8081afa54f86368f1f4d9cfa3e"
+  },
+  {
+    "name": "Hellgar's Trainer",
+    "prompt": "Hellgar's Trainer from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/554165.jpg?s=d85ca86db05d4fc53ae10ed699c565ea"
+  },
+  {
+    "name": "Heracross",
+    "prompt": "Heracross from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497650.jpg?s=d92b43d4c8edba36914b6c4858eae4ed"
+  },
+  {
+    "name": "Hibari",
+    "prompt": "Hibari from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/554287.jpg?s=5d37ddf708010c9429f5d0b374903290"
+  },
+  {
+    "name": "Hibiki",
+    "prompt": "Hibiki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/554312.jpg?s=5b7112beadee43444837ac14cd5f91da"
+  },
+  {
+    "name": "Hide",
+    "prompt": "Hide from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/553182.jpg?s=d9157a9393ea53f2f9616652dab8037c"
+  },
+  {
+    "name": "Hiiragi",
+    "prompt": "Hiiragi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/553329.jpg?s=fe713ff6bd8d2622c337a59dfa1cd204"
+  },
+  {
+    "name": "Hikaru",
+    "prompt": "Hikaru from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/552791.jpg?s=35136817361dcb348cb7e025f35219cc"
+  },
+  {
+    "name": "Himanuts",
+    "prompt": "Himanuts from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/576056.jpg?s=03d478716b550d4695948747d8feb539"
+  },
+  {
+    "name": "Himeka",
+    "prompt": "Himeka from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/528780.jpg?s=418002e7270b6e2345821b71fdc0b242"
+  },
+  {
+    "name": "Himeka's Father",
+    "prompt": "Himeka's Father from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/554231.jpg?s=1b011b3c8259eb4d35f25a7747184dcd"
+  },
+  {
+    "name": "Hinoarashi",
+    "prompt": "Hinoarashi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/495308.jpg?s=5dc420d479c62b5975204880f95bb58a"
+  },
+  {
+    "name": "Hirata",
+    "prompt": "Hirata from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/551153.jpg?s=c3f25babd1bb52acb731a1d537100b95"
+  },
+  {
+    "name": "Hiroki",
+    "prompt": "Hiroki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/554282.jpg?s=2007933c9c1f1f858ac4190603e1bfd8"
+  },
+  {
+    "name": "Hiroshi",
+    "prompt": "Hiroshi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/493930.jpg?s=496bc86b1c21a8d9b1280a9d1d03ea7b"
+  },
+  {
+    "name": "Hiroto",
+    "prompt": "Hiroto from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/554300.jpg?s=a7b9166cfe6f775188344b148de51fce"
+  },
+  {
+    "name": "Hisashi",
+    "prompt": "Hisashi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/554122.jpg?s=0e6b3c6a53cca1ac9775568cb93a8b6c"
+  },
+  {
+    "name": "Hitodeman",
+    "prompt": "Hitodeman from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/497608.jpg?s=b9b711e1d756ad2d944a211e97a6d3c0"
+  },
+  {
+    "name": "Hitokage",
+    "prompt": "Hitokage from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497725.jpg?s=d7b0e60b71876679b6a20161fc2260d0"
+  },
+  {
+    "name": "Hokuto",
+    "prompt": "Hokuto from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/552810.jpg?s=814c7962ec46aad3fc1482ac2407d616"
+  },
+  {
+    "name": "Houou",
+    "prompt": "Houou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/498325.jpg?s=244b949a48461ccbddf6937c883b5851"
+  },
+  {
+    "name": "Howard",
+    "prompt": "Howard from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/554290.jpg?s=5a02390f67b446a1b21ae8fe90f50193"
+  },
+  {
+    "name": "Ibuki",
+    "prompt": "Ibuki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/470803.jpg?s=f4598a39effe91edcc656e5daee89ba9"
+  },
+  {
+    "name": "Imite",
+    "prompt": "Imite from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/284188.jpg?s=6fe45eb626f9728a95491b9e580008c9"
+  },
+  {
+    "name": "Isami",
+    "prompt": "Isami from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/554167.jpg?s=500d3fa6c923dad7e599794c59687585"
+  },
+  {
+    "name": "Isami's Father",
+    "prompt": "Isami's Father from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/554168.jpg?s=bc50856461523b539dcf2445de6c00cf"
+  },
+  {
+    "name": "Isao",
+    "prompt": "Isao from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/512549.jpg?s=b77cb5792d219a3f92daa76c207af588"
+  },
+  {
+    "name": "Ishitsubute",
+    "prompt": "Ishitsubute from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497609.jpg?s=bcdc5d8156655d78fdb5b6684561cc9e"
+  },
+  {
+    "name": "Iwakaze",
+    "prompt": "Iwakaze from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/553180.jpg?s=61fb84dec86f1bacb7f7745ef4fdeaac"
+  },
+  {
+    "name": "Iwark",
+    "prompt": "Iwark from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/528254.jpg?s=581b599604eb78f7cfc8367c34d672c6"
+  },
+  {
+    "name": "Jan",
+    "prompt": "Jan from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/453807.jpg?s=6be3c8481671ec3d7cb65f32140c39d3"
+  },
+  {
+    "name": "Jigi",
+    "prompt": "Jigi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/528781.jpg?s=d16170e5918336aefdc30554a6a85565"
+  },
+  {
+    "name": "Jinji",
+    "prompt": "Jinji from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/457372.jpg?s=2c47c4b0c8060555be6fd348d6081e0e"
+  },
+  {
+    "name": "Jiro",
+    "prompt": "Jiro from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/109647.jpg?s=fcfdee4aa3f81d24b7f2852551bd6041"
+  },
+  {
+    "name": "Jirou",
+    "prompt": "Jirou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/553811.jpg?s=413476c571c5ffecebbdb7fa368f9df2"
+  },
+  {
+    "name": "John",
+    "prompt": "John from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/553330.jpg?s=610f49b87d1a6d52796f5718e45ccf98"
+  },
+  {
+    "name": "Joy",
+    "prompt": "Joy from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/215001.jpg?s=4709a6ce2788588427805e93172b07e7"
+  },
+  {
+    "name": "Jugon",
+    "prompt": "Jugon from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/504425.jpg?s=0c0d85ff3ea8004f2a6b7e5989ae2d01"
+  },
+  {
+    "name": "Junichi",
+    "prompt": "Junichi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/525134.jpg?s=637b89942f094a68f188ad60004cc698"
+  },
+  {
+    "name": "Junji",
+    "prompt": "Junji from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/552926.jpg?s=c5dabbfa8eac01cb2688fa92bb007cc1"
+  },
+  {
+    "name": "Junsa",
+    "prompt": "Junsa from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/84019.jpg?s=b533f0a782484bfd2d5c1fc40b1a3425"
+  },
+  {
+    "name": "Kabigon",
+    "prompt": "Kabigon from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/497183.jpg?s=4d001fb246af762fcbc30233cfb4c5ba"
+  },
+  {
+    "name": "Kaburagi",
+    "prompt": "Kaburagi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/554133.jpg?s=28ebbd6d88b01370cfd1bbb7ee740f02"
+  },
+  {
+    "name": "Kaidou",
+    "prompt": "Kaidou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/554024.jpg?s=3e7711e1cdcfc04d95d55933adb7789f"
+  },
+  {
+    "name": "Kairiki",
+    "prompt": "Kairiki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/497612.jpg?s=1ba68cd71979517efb37db292d21ba5e"
+  },
+  {
+    "name": "Kairyuu",
+    "prompt": "Kairyuu from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/528913.jpg?s=7e9c8cf303fd1acf883ae73eccd5c633"
+  },
+  {
+    "name": "Kaiser",
+    "prompt": "Kaiser from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/553747.jpg?s=7988f53f3c0fa704640d1b7cd91f398c"
+  },
+  {
+    "name": "Kameil",
+    "prompt": "Kameil from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497565.jpg?s=7a6a70469c07542330e2f1fdf74938d6"
+  },
+  {
+    "name": "Kamex",
+    "prompt": "Kamex from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/497455.jpg?s=be5b72efb98a91b4f2075fd9831c75aa"
+  },
+  {
+    "name": "Kamonegi",
+    "prompt": "Kamonegi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/497611.jpg?s=09b34b0bf0b66ace21f1fac9cfe0e947"
+  },
+  {
+    "name": "Kaneyo",
+    "prompt": "Kaneyo from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/553783.jpg?s=054fefb9ef135698397f6a2fc69f1c4a"
+  },
+  {
+    "name": "Kaneyo's Main Butler",
+    "prompt": "Kaneyo's Main Butler from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/553796.jpg?s=5b9a766f21df52eb7f1d6d24ecdfc314"
+  },
+  {
+    "name": "Kaneyo's Head Chef",
+    "prompt": "Kaneyo's Head Chef from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/553746.jpg?s=2924b3e26686255e5ea6aff5bc58f4d3"
+  },
+  {
+    "name": "Kanna",
+    "prompt": "Kanna from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/530362.jpg?s=5a4b93dccde886a4fb6b599830832218"
+  },
+  {
+    "name": "Kaoruko",
+    "prompt": "Kaoruko from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/250413.jpg?s=2e3a1f54eb9bf01c3f7330b288677275"
+  },
+  {
+    "name": "Kapoerer's Trainer",
+    "prompt": "Kapoerer's Trainer from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/554098.jpg?s=1bebeea2a1a04cbded270ecdd529e187"
+  },
+  {
+    "name": "Karakara",
+    "prompt": "Karakara from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/531399.jpg?s=0507a619ae7e5bb8aece032f524cd864"
+  },
+  {
+    "name": "Karen",
+    "prompt": "Karen from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/528788.jpg?s=add78d9a7d6abac4c91feaa54c7a46dd"
+  },
+  {
+    "name": "Katsuko",
+    "prompt": "Katsuko from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/437567.jpg?s=2d64b0d4291ff6f9c31c95fd29ec0689"
+  },
+  {
+    "name": "Katsura",
+    "prompt": "Katsura from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/138173.jpg?s=ff7114b55b0f54d8ee973c06f4121b1c"
+  },
+  {
+    "name": "Kay",
+    "prompt": "Kay from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/553041.jpg?s=4eef6e8777ca783c4e5dda5b40085d84"
+  },
+  {
+    "name": "Kaz",
+    "prompt": "Kaz from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/551152.jpg?s=40f149ff40ac1a9ff812ce25a22202bb"
+  },
+  {
+    "name": "Keiko",
+    "prompt": "Keiko from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/553748.jpg?s=1d3a9d52a2dbe2607265ed877993f58b"
+  },
+  {
+    "name": "Keita",
+    "prompt": "Keita from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/553046.jpg?s=bc23794a757e84f31cbdab0c856b74e4"
+  },
+  {
+    "name": "Ken",
+    "prompt": "Ken from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/528789.jpg?s=1ea332113b06f919ac983a481da85aeb"
+  },
+  {
+    "name": "Kiichi",
+    "prompt": "Kiichi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/393184.jpg?s=206814ce6d1b59f52fa79b34d2f4024e"
+  },
+  {
+    "name": "Kimawari",
+    "prompt": "Kimawari from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/576057.jpg?s=c4844aba23d77683f04067d380779fb6"
+  },
+  {
+    "name": "Kimie",
+    "prompt": "Kimie from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/554137.jpg?s=d5b3248e4a2c8733045aed3b702bcb2d"
+  },
+  {
+    "name": "Kitao, Brad",
+    "prompt": "Kitao, Brad from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/528791.jpg?s=637d01d7e917f0d03263b2e55c692f07"
+  },
+  {
+    "name": "Kiyomi",
+    "prompt": "Kiyomi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/553049.jpg?s=f8e689b48c10da22e8d2cc5ac167f9e0"
+  },
+  {
+    "name": "Koduck",
+    "prompt": "Koduck from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497610.jpg?s=32c4d310209acd8b14c3fe390b16ce0c"
+  },
+  {
+    "name": "Koiking",
+    "prompt": "Koiking from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/497181.jpg?s=1f9c9acf07db69f74afac5a47c5b0a59"
+  },
+  {
+    "name": "Koiking Salesman",
+    "prompt": "Koiking Salesman from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/147653.jpg?s=d56ff20385336a07ff7d831cf97fe389"
+  },
+  {
+    "name": "Kojirou",
+    "prompt": "Kojirou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/502950.jpg?s=c2fd0729a93d9635e946946b3d49e5b2"
+  },
+  {
+    "name": "Kojirou's Father",
+    "prompt": "Kojirou's Father from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/551157.jpg?s=b81d334768e698ebec5a98f194855b65"
+  },
+  {
+    "name": "Kojirou's Butler",
+    "prompt": "Kojirou's Butler from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/512545.jpg?s=6f361053ff842af65a43831f49ae8216"
+  },
+  {
+    "name": "Kojirou's Mother",
+    "prompt": "Kojirou's Mother from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/551158.jpg?s=4429d06aef916a85288a28d9dec00684"
+  },
+  {
+    "name": "Kom",
+    "prompt": "Kom from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/98866.jpg?s=6c1811872c98487173b08a407ef6ec45"
+  },
+  {
+    "name": "Konami",
+    "prompt": "Konami from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/556414.jpg?s=7377c889a80428a3af81dcd4306cbffa"
+  },
+  {
+    "name": "Konatsu",
+    "prompt": "Konatsu from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/554132.jpg?s=4c20702a28e97f8e94a6c4871e7466f0"
+  },
+  {
+    "name": "Koratta",
+    "prompt": "Koratta from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498475.jpg?s=8705af4423acafef2593f11f28f92881"
+  },
+  {
+    "name": "Kosaburou",
+    "prompt": "Kosaburou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/463509.jpg?s=a2b185cdf1599013a9451e2a8f68dbd1"
+  },
+  {
+    "name": "Kouji",
+    "prompt": "Kouji from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/554160.jpg?s=6a9dc379c428db617f1b55954a6a8f1a"
+  },
+  {
+    "name": "Kouji",
+    "prompt": "Kouji from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/553050.jpg?s=bd66314097dbcda90e513eb768d0c99f"
+  },
+  {
+    "name": "Koume",
+    "prompt": "Koume from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/528798.jpg?s=4c762e34d45d81aabaa4bb7101cb2fbc"
+  },
+  {
+    "name": "Koyuki",
+    "prompt": "Koyuki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/528800.jpg?s=05df54dc94d1b378d057427c321effc4"
+  },
+  {
+    "name": "Kurumi",
+    "prompt": "Kurumi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/111134.jpg?s=022749f9a554d02889ded52e4b33c73d"
+  },
+  {
+    "name": "Kyou",
+    "prompt": "Kyou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/159641.jpg?s=3bb3fed36c9f2086d4bd00be70aa3e6f"
+  },
+  {
+    "name": "Lang",
+    "prompt": "Lang from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/554213.jpg?s=6dfe7da4799b202843ad1553fe3d3c5b"
+  },
+  {
+    "name": "Lang's Father",
+    "prompt": "Lang's Father from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/554214.jpg?s=9cc17ba04e9f6805ca291f1e9082029d"
+  },
+  {
+    "name": "Laplace",
+    "prompt": "Laplace from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/504790.jpg?s=b8ebdbc6f45ccdb2b0022c8b010a1e17"
+  },
+  {
+    "name": "Laramie, Fuko",
+    "prompt": "Laramie, Fuko from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/371676.jpg?s=7d0b61366f7eaa93cdc888a0c3941ce4"
+  },
+  {
+    "name": "Lily",
+    "prompt": "Lily from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/97247.jpg?s=15f5c90d566128f5eb00abe3ee31db67"
+  },
+  {
+    "name": "Lisa",
+    "prompt": "Lisa from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/554155.jpg?s=dddc3ff17e761f35374d10391bbf31a9"
+  },
+  {
+    "name": "Lizardo",
+    "prompt": "Lizardo from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497452.jpg?s=7b3c36f755c70aeba57c1a51696390c1"
+  },
+  {
+    "name": "Lizardon",
+    "prompt": "Lizardon from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497453.jpg?s=4ac403651eb19d691c4dd36ef2848119"
+  },
+  {
+    "name": "Loch",
+    "prompt": "Loch from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/511916.jpg?s=f951dca9fe610764322de90b4d485334"
+  },
+  {
+    "name": "Lucky",
+    "prompt": "Lucky from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/553422.jpg?s=5528201e18f3679114e253f0a0e252a1"
+  },
+  {
+    "name": "Lugia",
+    "prompt": "Lugia from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/394888.jpg?s=42c5de5026403386739b0a3d1615251e"
+  },
+  {
+    "name": "Luka",
+    "prompt": "Luka from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/554140.jpg?s=1305453bd8f12caefe08757383f0ece6"
+  },
+  {
+    "name": "Luka's Great-Grandfather",
+    "prompt": "Luka's Great-Grandfather from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/554141.jpg?s=6a937e6e9d31ab283543eee8c3cdf17b"
+  },
+  {
+    "name": "Magmag",
+    "prompt": "Magmag from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/497584.jpg?s=33015c4bc7e2ad82c4da9a2ac01fc092"
+  },
+  {
+    "name": "Magmarashi",
+    "prompt": "Magmarashi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/517159.jpg?s=fd833f7d8702988daa11fadf64e738b1"
+  },
+  {
+    "name": "Makoto",
+    "prompt": "Makoto from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/512552.jpg?s=6ddfaa081b89d4edc1cc98d20aa29bb3"
+  },
+  {
+    "name": "Manabu",
+    "prompt": "Manabu from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/553355.jpg?s=6451f68b309832cd949044bf7b880939"
+  },
+  {
+    "name": "Manager",
+    "prompt": "Manager from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/553352.jpg?s=acf48a454b7b423b45d569ab5bae8671"
+  },
+  {
+    "name": "Manami",
+    "prompt": "Manami from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/453727.jpg?s=af1b91b07d84357356c7519f788ad39e"
+  },
+  {
+    "name": "Mansion Owner",
+    "prompt": "Mansion Owner from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/554158.jpg?s=f039116108b850d1b3ebe6a81430ee9d"
+  },
+  {
+    "name": "Marcello",
+    "prompt": "Marcello from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/554161.jpg?s=2d47a4dd98cea454ef34eb04e711b55c"
+  },
+  {
+    "name": "Marie",
+    "prompt": "Marie from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/553080.jpg?s=28a9348dcfab957078c1e6cdf851ff3d"
+  },
+  {
+    "name": "Mary",
+    "prompt": "Mary from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/528911.jpg?s=3808f8fa4066f7d2dc57e5a4cdca3c82"
+  },
+  {
+    "name": "Masa",
+    "prompt": "Masa from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/551084.jpg?s=ba12a9d1f1abdefbf7946e4ec470b295"
+  },
+  {
+    "name": "Masami",
+    "prompt": "Masami from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/553143.jpg?s=4c87648896f55dbc4b842f7092244304"
+  },
+  {
+    "name": "Master Shonosuke",
+    "prompt": "Master Shonosuke from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/554212.jpg?s=e96b85b004c904c3a6a1c11d6f89156b"
+  },
+  {
+    "name": "Matadogas",
+    "prompt": "Matadogas from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/499144.jpg?s=4bda67370d1878b3c6427ad31482e7db"
+  },
+  {
+    "name": "Matis",
+    "prompt": "Matis from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/405797.jpg?s=ba42bddc2d1aff3f5cc76a6ef465454c"
+  },
+  {
+    "name": "Matsuba",
+    "prompt": "Matsuba from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/154413.jpg?s=d34434c9c164f08fc78b54fc1e6a804f"
+  },
+  {
+    "name": "Maya",
+    "prompt": "Maya from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/554166.jpg?s=cde04e77f2b86d41a9feab48215987fb"
+  },
+  {
+    "name": "Mayor",
+    "prompt": "Mayor from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/551104.jpg?s=5f384d818365ff6617d13ce50e70b375"
+  },
+  {
+    "name": "Mayor of Big City",
+    "prompt": "Mayor of Big City from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/248095.jpg?s=d5a9813275f6309a0528be2b071635d7"
+  },
+  {
+    "name": "McGee",
+    "prompt": "McGee from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/551150.jpg?s=a5a3804738fad2ca6fcf7ec991c37586"
+  },
+  {
+    "name": "Menokurage",
+    "prompt": "Menokurage from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497606.jpg?s=b9d9bcca4dd4e85bac64dc0c0e11893e"
+  },
+  {
+    "name": "Metamon",
+    "prompt": "Metamon from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/470442.jpg?s=94010b7b906e181f316030be0e5132ec"
+  },
+  {
+    "name": "Mewtwo",
+    "prompt": "Mewtwo from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/196511.jpg?s=081cea019d3f820f5c853c0489551653"
+  },
+  {
+    "name": "Midori",
+    "prompt": "Midori from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/393187.jpg?s=4ec1af682003f60ec6ecbcacf376b9e0"
+  },
+  {
+    "name": "Midorikawa",
+    "prompt": "Midorikawa from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/553326.jpg?s=a685c455ee19ac45db639b96b7ff01ca"
+  },
+  {
+    "name": "Mika",
+    "prompt": "Mika from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/554182.jpg?s=b6856c9e84c30c1ca1651052799822ce"
+  },
+  {
+    "name": "Mika & Ayano's Father",
+    "prompt": "Mika & Ayano's Father from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/554183.jpg?s=b285c740d3ebdc6ded818e5aae1aba57"
+  },
+  {
+    "name": "Mikan",
+    "prompt": "Mikan from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/92496.jpg?s=6d202139206ec198d44ef17dcee56341"
+  },
+  {
+    "name": "Mikeosu",
+    "prompt": "Mikeosu from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/553144.jpg?s=50fc9ae205c11dac6837be09995aaf4e"
+  },
+  {
+    "name": "Miki",
+    "prompt": "Miki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/553804.jpg?s=a049c08675d79fbe173e7423904a35c0"
+  },
+  {
+    "name": "Miki",
+    "prompt": "Miki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/554169.jpg?s=adac7ac8fc74dd61e073d1bb81d5a854"
+  },
+  {
+    "name": "Mikio",
+    "prompt": "Mikio from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/554203.jpg?s=3eddaa4a2445e28152d7e8ee0da65b40"
+  },
+  {
+    "name": "Mikoko",
+    "prompt": "Mikoko from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/554022.jpg?s=15f681121032d29eedd11433f37c4fc6"
+  },
+  {
+    "name": "Milk Delivery Man",
+    "prompt": "Milk Delivery Man from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/554025.jpg?s=d9881f4cd32f11c67bde7a5455968ad7"
+  },
+  {
+    "name": "Minaki",
+    "prompt": "Minaki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/396615.jpg?s=5cc3d771e9f52e58c54cd854007652d5"
+  },
+  {
+    "name": "Minami",
+    "prompt": "Minami from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/556412.jpg?s=df306888fdf8a04eeb671abd33572fef"
+  },
+  {
+    "name": "Minamino, Heat",
+    "prompt": "Minamino, Heat from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/552804.jpg?s=9b0e357b0e14838a4463d066ef56c0de"
+  },
+  {
+    "name": "Miniryuu",
+    "prompt": "Miniryuu from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/498077.jpg?s=5607d7de650cc3646d0b22afdc39f84f"
+  },
+  {
+    "name": "Minoru",
+    "prompt": "Minoru from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/554071.jpg?s=dafa0898f6995674c35b4e9b23592ec8"
+  },
+  {
+    "name": "Minoru's Father",
+    "prompt": "Minoru's Father from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/554074.jpg?s=53f0c5cf05c02fdfb58970b1d9ebddc3"
+  },
+  {
+    "name": "Minoru's Mother",
+    "prompt": "Minoru's Mother from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/554075.jpg?s=6be6bd4b7c67446151ce1bc6d8409fbf"
+  },
+  {
+    "name": "Misa",
+    "prompt": "Misa from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/120431.jpg?s=2a37f7b4594268bff9b5eb79a8de17bc"
+  },
+  {
+    "name": "Miss Sayuri",
+    "prompt": "Miss Sayuri from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/553805.jpg?s=546e8faa5833bb5b162f16b118a785c7"
+  },
+  {
+    "name": "Mitsuji",
+    "prompt": "Mitsuji from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/553784.jpg?s=3f72bb7857ead31932616cc6de620a37"
+  },
+  {
+    "name": "Miyabi",
+    "prompt": "Miyabi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/528803.jpg?s=602a55b9c165c250d0688563d7f97835"
+  },
+  {
+    "name": "Miyuki",
+    "prompt": "Miyuki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/554295.jpg?s=13ebe9927e67913bc440d342a5fb7def"
+  },
+  {
+    "name": "Mizuki",
+    "prompt": "Mizuki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/551070.jpg?s=1accbb684821b369aacb9704ec9fde72"
+  },
+  {
+    "name": "Moe",
+    "prompt": "Moe from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/554152.jpg?s=a260ac2539277442563494643f31f073"
+  },
+  {
+    "name": "Morio",
+    "prompt": "Morio from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/528804.jpg?s=896c604cfbd32696ea82615d0f00da59"
+  },
+  {
+    "name": "Mrs. Kane",
+    "prompt": "Mrs. Kane from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/552951.jpg?s=2765ec9c3b2e1485be3209b14cf9b7d4"
+  },
+  {
+    "name": "Mrs. Suzu",
+    "prompt": "Mrs. Suzu from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/552950.jpg?s=eb4243796f312293a36c3072c3ce27f8"
+  },
+  {
+    "name": "Muchul",
+    "prompt": "Muchul from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/499404.jpg?s=3bcc8c61b1a5695c1c1a4c64861e962e"
+  },
+  {
+    "name": "Muchul's Trainer",
+    "prompt": "Muchul's Trainer from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/554286.jpg?s=d633bea54d16696f248b8dd3b4694049"
+  },
+  {
+    "name": "Muma",
+    "prompt": "Muma from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/562032.jpg?s=b7dbd7cd45133fab454b7ef7ee95bae7"
+  },
+  {
+    "name": "Muno",
+    "prompt": "Muno from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/528805.jpg?s=43742f7cb99ff27cabec3d1d65448756"
+  },
+  {
+    "name": "Muramasa",
+    "prompt": "Muramasa from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/512551.jpg?s=3c363573c1b965ba46b198dcc4f1f25e"
+  },
+  {
+    "name": "Murasame, Lindow",
+    "prompt": "Murasame, Lindow from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/552914.jpg?s=a796d07ef17cee4108622642286029bd"
+  },
+  {
+    "name": "Musashi",
+    "prompt": "Musashi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/278096.jpg?s=051ae458066175cfe4bf0f07bb2df11d"
+  },
+  {
+    "name": "Mutou",
+    "prompt": "Mutou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/554195.jpg?s=4d2442ecfb20210edacbae3b868f8a30"
+  },
+  {
+    "name": "Mysterious Beautiful Girl",
+    "prompt": "Mysterious Beautiful Girl from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/156625.jpg?s=e0dca2c54b474198253a90e4dc44bd9d"
+  },
+  {
+    "name": "Mysterious Thief Golonya",
+    "prompt": "Mysterious Thief Golonya from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/554076.jpg?s=05a119f5b31e2f6ad13441304aed4067"
+  },
+  {
+    "name": "Nabi",
+    "prompt": "Nabi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/554229.jpg?s=14e10b2cddda4d8ac6d0bbea0cb7dc66"
+  },
+  {
+    "name": "Nagai",
+    "prompt": "Nagai from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/553785.jpg?s=c48672a392b40443797552f18efd1daf"
+  },
+  {
+    "name": "Nana",
+    "prompt": "Nana from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/553331.jpg?s=aa6511dd32852cc2a835dbf510b8591a"
+  },
+  {
+    "name": "Nanako",
+    "prompt": "Nanako from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/234413.jpg?s=8f65014177aa347333fac602ce7087ec"
+  },
+  {
+    "name": "Naoto",
+    "prompt": "Naoto from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/553777.jpg?s=24530fcc3a049ac7b31b7934a8802fa5"
+  },
+  {
+    "name": "Naoya",
+    "prompt": "Naoya from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/453759.jpg?s=62fa97ef05792aa868b1c95328a28bbf"
+  },
+  {
+    "name": "Nario",
+    "prompt": "Nario from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/554187.jpg?s=ad22744f79120494499a2ffbaa205227"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/511553.jpg?s=a57d2a41fe40f1e203b06d3d9218f4b5"
+  },
+  {
+    "name": "Narumi",
+    "prompt": "Narumi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/554186.jpg?s=09b0a746c4b1b153bf4fc9ae44d0daeb"
+  },
+  {
+    "name": "Nassy",
+    "prompt": "Nassy from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497613.jpg?s=3dd6b2904a8698834ca020fd4e003d35"
+  },
+  {
+    "name": "Natsuki",
+    "prompt": "Natsuki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/554233.jpg?s=3b0548d0e12672d3a64a5a41db161661"
+  },
+  {
+    "name": "Natsume",
+    "prompt": "Natsume from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/446494.jpg?s=d5df9621d18adab8c46cec00b7e92c3f"
+  },
+  {
+    "name": "Natsume's Mother",
+    "prompt": "Natsume's Mother from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/550949.jpg?s=9f31cb9a023ebeb453f26c08311ab9ca"
+  },
+  {
+    "name": "Natsume's Doll",
+    "prompt": "Natsume's Doll from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/550954.jpg?s=a0d996be92950e43cdbc74d774544e03"
+  },
+  {
+    "name": "Natsume's Father",
+    "prompt": "Natsume's Father from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/103161.jpg?s=6ac118234040e4895888431547c54bce"
+  },
+  {
+    "name": "Nazonokusa",
+    "prompt": "Nazonokusa from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/484759.jpg?s=093b715e2b91ca9b9805f85abe17243e"
+  },
+  {
+    "name": "Nidoking",
+    "prompt": "Nidoking from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/498074.jpg?s=64acc4b996361dfce6597143549a2fca"
+  },
+  {
+    "name": "Nidoqueen",
+    "prompt": "Nidoqueen from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/498479.jpg?s=bc78a4fa00b972288487268097a21da7"
+  },
+  {
+    "name": "Nidoran♀",
+    "prompt": "Nidoran♀ from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/498477.jpg?s=b21147508be30ff8384e65f75e2d3870"
+  },
+  {
+    "name": "Nidoran♂",
+    "prompt": "Nidoran♂ from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/497583.jpg?s=395b7817e466f4d16f3316790e71a791"
+  },
+  {
+    "name": "Nidorina",
+    "prompt": "Nidorina from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/498478.jpg?s=9fb49b7ebf6b73d906da488386fbcda9"
+  },
+  {
+    "name": "Noboru",
+    "prompt": "Noboru from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/553985.jpg?s=68bd43a432d077cf86de0eee74f15300"
+  },
+  {
+    "name": "Nobuhiko",
+    "prompt": "Nobuhiko from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/512548.jpg?s=d73fdb83820c78a9fc1dcd544c9d6bba"
+  },
+  {
+    "name": "Nyarth",
+    "prompt": "Nyarth from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/131981.jpg?s=d7734d4cd42e72435749110ba1953798"
+  },
+  {
+    "name": "Nyorobon",
+    "prompt": "Nyorobon from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/498602.jpg?s=db50904bc00615909f14dc98c33ceae9"
+  },
+  {
+    "name": "Nyoromo",
+    "prompt": "Nyoromo from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/497646.jpg?s=af5553d5f9754084049367299beca227"
+  },
+  {
+    "name": "Nyorotono",
+    "prompt": "Nyorotono from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/578828.jpg?s=40d7a0e3e78bdab7838655771f8818fa"
+  },
+  {
+    "name": "Nyorozo",
+    "prompt": "Nyorozo from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/498601.jpg?s=445e8e5155ff4232c118100763559764"
+  },
+  {
+    "name": "Obaba",
+    "prompt": "Obaba from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/528811.jpg?s=23623741b4735053832b0c84c3b59945"
+  },
+  {
+    "name": "Octane",
+    "prompt": "Octane from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/498767.jpg?s=abf92987c7e36bd666920afe31b071de"
+  },
+  {
+    "name": "Odoshishi",
+    "prompt": "Odoshishi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/497692.jpg?s=9d0ad3e5f5db64a676627fe012571481"
+  },
+  {
+    "name": "Okorizaru",
+    "prompt": "Okorizaru from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/563379.jpg?s=643f86d932ab0beeffbca998f8d29134"
+  },
+  {
+    "name": "Old Man Tsubo",
+    "prompt": "Old Man Tsubo from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/512556.jpg?s=95e847ff081cd6aa8f27c1a43c666235"
+  },
+  {
+    "name": "Old Mayor of Diglett Village",
+    "prompt": "Old Mayor of Diglett Village from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/554284.jpg?s=d77a466d3f66db8f4698fdb04ae5925f"
+  },
+  {
+    "name": "Omnite",
+    "prompt": "Omnite from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/499083.jpg?s=73d93301e57ed03f97928e38861df46b"
+  },
+  {
+    "name": "Omstar",
+    "prompt": "Omstar from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/499084.jpg?s=51e24ca5d8b38284a2fa25865b0dc66b"
+  },
+  {
+    "name": "Onisuzume's Trainer",
+    "prompt": "Onisuzume's Trainer from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/553186.jpg?s=1b98cde17e0ecbfd029ce055993a846d"
+  },
+  {
+    "name": "Ookido, Shigeru",
+    "prompt": "Ookido, Shigeru from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/258075.jpg?s=14562df0f54cb88a5d1c5996ee35b1fb"
+  },
+  {
+    "name": "Ookido, Yukinari",
+    "prompt": "Ookido, Yukinari from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/101947.jpg?s=01478fadc2b8b7238e03d3612a3a731e"
+  },
+  {
+    "name": "Ordile",
+    "prompt": "Ordile from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/504286.jpg?s=bafbb2ec8acb7618dddb0a0ed0c9b231"
+  },
+  {
+    "name": "Osamu",
+    "prompt": "Osamu from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/554188.jpg?s=c8fb34c24a17dc2fe1ae5d65479fca40"
+  },
+  {
+    "name": "Otane",
+    "prompt": "Otane from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/553774.jpg?s=95339261cd8afd588cd54d0c689e2090"
+  },
+  {
+    "name": "Park Warden",
+    "prompt": "Park Warden from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/554189.jpg?s=071dda1707db4bb7ae9ca1afc5700bb9"
+  },
+  {
+    "name": "Parshen",
+    "prompt": "Parshen from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/528817.jpg?s=503327375cc8adce0a7b764386f6da36"
+  },
+  {
+    "name": "Philip",
+    "prompt": "Philip from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550939.jpg?s=b19cdc9d8877325067c19cfa50c6e227"
+  },
+  {
+    "name": "Phony Pokémon Interpreters Boss",
+    "prompt": "Phony Pokémon Interpreters Boss from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/554190.jpg?s=f9a4190255c57b7eb0ac3fa3c4f90299"
+  },
+  {
+    "name": "Pichu",
+    "prompt": "Pichu from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/467734.jpg?s=8cb55141a528a6728e076756031f6d11"
+  },
+  {
+    "name": "Pigeon",
+    "prompt": "Pigeon from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/498327.jpg?s=8f4db626d0a8473c97f9868f69e551c4"
+  },
+  {
+    "name": "Pippi",
+    "prompt": "Pippi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/497392.jpg?s=d255b60c2e02bc41cf7eb6afab5acab4"
+  },
+  {
+    "name": "Pixy",
+    "prompt": "Pixy from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/497380.jpg?s=4d01e937431842549c860849ba41c4dc"
+  },
+  {
+    "name": "Pochiena",
+    "prompt": "Pochiena from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/500158.jpg?s=b36b08861ebfc9b3e600e48cbcf4da5e"
+  },
+  {
+    "name": "Pokemon Zukan",
+    "prompt": "Pokemon Zukan from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/284318.jpg?s=bdc8446c95348fbb93324d4e51edb3de"
+  },
+  {
+    "name": "Pokémon Certification Test Instructor",
+    "prompt": "Pokémon Certification Test Instructor from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/552808.jpg?s=014fb5a569fc108fb20cf715898a46e0"
+  },
+  {
+    "name": "Pokémon Flute Player",
+    "prompt": "Pokémon Flute Player from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/551085.jpg?s=59336edd7fc07e38ffdf1c2f7d8556f0"
+  },
+  {
+    "name": "Poppo",
+    "prompt": "Poppo from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/498326.jpg?s=7195d699709848dc904ab88508b63f75"
+  },
+  {
+    "name": "Porygon",
+    "prompt": "Porygon from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/499074.jpg?s=c917f9f0930cbe89a36e961676f67e57"
+  },
+  {
+    "name": "Presenter",
+    "prompt": "Presenter from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/456474.jpg?s=87fb03e227ad92b34557af51a236a85c"
+  },
+  {
+    "name": "President Tamaranze",
+    "prompt": "President Tamaranze from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/528818.jpg?s=af4f922ac4ceea7564beee45d7e23923"
+  },
+  {
+    "name": "Professor Nishinomori V",
+    "prompt": "Professor Nishinomori V from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/553181.jpg?s=cda6866621c1f08d816d37b22baee534"
+  },
+  {
+    "name": "Professor Utsugi",
+    "prompt": "Professor Utsugi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/252633.jpg?s=d19ad7c469715acbc8e909df53c71cee"
+  },
+  {
+    "name": "Ptera",
+    "prompt": "Ptera from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/528819.jpg?s=ffd21ba50b389008e6430ff61d05d2d3"
+  },
+  {
+    "name": "Pukurin",
+    "prompt": "Pukurin from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/497161.jpg?s=1d0cd3ff5a7a74fe495ff8d292375ac4"
+  },
+  {
+    "name": "Purin",
+    "prompt": "Purin from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/528822.jpg?s=aaad9673df1819b8cb009ffb603b8e7d"
+  },
+  {
+    "name": "Raichu",
+    "prompt": "Raichu from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/508206.jpg?s=b8dc05fbdcfcb5510891c1f6af1006dc"
+  },
+  {
+    "name": "Raiden",
+    "prompt": "Raiden from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/528622.jpg?s=b2dbb3fd29b48a09072462bb553e7ed5"
+  },
+  {
+    "name": "Raikou",
+    "prompt": "Raikou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/101497.jpg?s=313c05226fed67601ebf9357e9a9f3ff"
+  },
+  {
+    "name": "Raizou",
+    "prompt": "Raizou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/550984.jpg?s=382dc0b55998a3e4380a60bee577b726"
+  },
+  {
+    "name": "Ralph",
+    "prompt": "Ralph from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/553327.jpg?s=759644be61de931ac3a4f1d45eeb43a5"
+  },
+  {
+    "name": "Ratta",
+    "prompt": "Ratta from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/498476.jpg?s=2ac15f2d6f786e9fe302a3cdf5acba49"
+  },
+  {
+    "name": "Rei",
+    "prompt": "Rei from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/453720.jpg?s=344d835dd75f44605540d7bee086a4b8"
+  },
+  {
+    "name": "Reiko",
+    "prompt": "Reiko from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/553328.jpg?s=5903f9e5291c44a3770d21285692156c"
+  },
+  {
+    "name": "Reishi",
+    "prompt": "Reishi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/551156.jpg?s=f5b9270e2a49db26e2a0caab7facc4d0"
+  },
+  {
+    "name": "Reporter",
+    "prompt": "Reporter from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/358442.jpg?s=8fe290b0958b82ca8c1df685a582e57f"
+  },
+  {
+    "name": "Rikao",
+    "prompt": "Rikao from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/528623.jpg?s=d3e6f3ec9749396cfea864261af4f45d"
+  },
+  {
+    "name": "Rokoko",
+    "prompt": "Rokoko from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/274283.jpg?s=df54b2b997b7afb625abbf8b97330bac"
+  },
+  {
+    "name": "Rokon",
+    "prompt": "Rokon from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497649.jpg?s=3a9a4ebe42b6033278669b00d1ac6637"
+  },
+  {
+    "name": "Rumika",
+    "prompt": "Rumika from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/528624.jpg?s=edf621d06cac2f31cc32f66461a5d0b8"
+  },
+  {
+    "name": "Ruriko",
+    "prompt": "Ruriko from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/528823.jpg?s=18f4336c69930ef84420bc9272bf8932"
+  },
+  {
+    "name": "Russell",
+    "prompt": "Russell from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/512553.jpg?s=5f70f4a4d34ccaa86cf476d7be3120e0"
+  },
+  {
+    "name": "Ryuji",
+    "prompt": "Ryuji from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/528824.jpg?s=39fcf533b72f27d9562cfa400722f98c"
+  },
+  {
+    "name": "Ryuu",
+    "prompt": "Ryuu from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/553749.jpg?s=35c11c44df6b253914b62b9953556d7f"
+  },
+  {
+    "name": "Saburou",
+    "prompt": "Saburou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/554205.jpg?s=3c6d12394aa871f6707ce762a658decc"
+  },
+  {
+    "name": "Sachiko",
+    "prompt": "Sachiko from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/553987.jpg?s=b8e7294ce801646750f6c394d201f9a7"
+  },
+  {
+    "name": "Saiga",
+    "prompt": "Saiga from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/554228.jpg?s=7a12dabe826d35e3dd90df4df63cc643"
+  },
+  {
+    "name": "Saizou",
+    "prompt": "Saizou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/499916.jpg?s=897f69c4c78475adf1116480b1288638"
+  },
+  {
+    "name": "Sakaki",
+    "prompt": "Sakaki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/222133.jpg?s=b6503c67934b3c802476cc661913c35b"
+  },
+  {
+    "name": "Sakura",
+    "prompt": "Sakura from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/516283.jpg?s=5dbf4d1b7018d19ae6dcc312b7b19530"
+  },
+  {
+    "name": "Sakura",
+    "prompt": "Sakura from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/256077.jpg?s=13b52e445768ddb6c56252d58338f1b5"
+  },
+  {
+    "name": "Samurai",
+    "prompt": "Samurai from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/83714.jpg?s=3ca53988182ed8a01f6ab37025a07101"
+  },
+  {
+    "name": "Sanae",
+    "prompt": "Sanae from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/553806.jpg?s=a3f7e91df3acf589feea558178dbd862"
+  },
+  {
+    "name": "Santa Claus",
+    "prompt": "Santa Claus from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/254121.jpg?s=e473ba6b8e393b29a702cadb43ef5ee0"
+  },
+  {
+    "name": "Sasuke",
+    "prompt": "Sasuke from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/554193.jpg?s=c1bb732b0834d3fecebd463c09a861d2"
+  },
+  {
+    "name": "Satake",
+    "prompt": "Satake from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/553742.jpg?s=c1daffe038bcec17e43ae015817c7080"
+  },
+  {
+    "name": "Satsuki",
+    "prompt": "Satsuki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/412863.jpg?s=a272be1dbeca9ac5cc97ee8f08d27495"
+  },
+  {
+    "name": "Sayuri",
+    "prompt": "Sayuri from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/552779.jpg?s=51079bdcace95af5e12e23a03ec24d00"
+  },
+  {
+    "name": "Seiji",
+    "prompt": "Seiji from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/553150.jpg?s=a66fd8aa42bb1e7633975a8680449e4d"
+  },
+  {
+    "name": "Senichi",
+    "prompt": "Senichi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/554207.jpg?s=aba31e8caf7c1da9838721bf742ecf77"
+  },
+  {
+    "name": "Senin",
+    "prompt": "Senin from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/554023.jpg?s=3bbd4c1e394015d205e79ace66122154"
+  },
+  {
+    "name": "Shiba",
+    "prompt": "Shiba from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/333673.jpg?s=e5c5a0eb60ae413911d8a08f22c660d3"
+  },
+  {
+    "name": "Shijima",
+    "prompt": "Shijima from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/419750.jpg?s=0ee1a61be997a72d4775d278f9a923d8"
+  },
+  {
+    "name": "Shijima's Wife",
+    "prompt": "Shijima's Wife from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/554032.jpg?s=0bad6c80af70206decaf711fa1e11b20"
+  },
+  {
+    "name": "Shima",
+    "prompt": "Shima from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/554210.jpg?s=9757667aae7a1a6fbdd0b19219bfe642"
+  },
+  {
+    "name": "Shimajio",
+    "prompt": "Shimajio from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/553353.jpg?s=e1cda6431f9dc01719732a4d7d6e7aad"
+  },
+  {
+    "name": "Shingo",
+    "prompt": "Shingo from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/512550.jpg?s=4d02907e6f66787ee945ab37414fc5b7"
+  },
+  {
+    "name": "Shintarou",
+    "prompt": "Shintarou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/528844.jpg?s=690754d2e22826d50202a42fb2ea8758"
+  },
+  {
+    "name": "Shirou",
+    "prompt": "Shirou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/512547.jpg?s=532afac9da29fe8900b98994e97e7822"
+  },
+  {
+    "name": "Shirou's Father",
+    "prompt": "Shirou's Father from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/553989.jpg?s=97eb3d99fb9d78f04e2e56e37234beb5"
+  },
+  {
+    "name": "Shou",
+    "prompt": "Shou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/554311.jpg?s=c0ba8374f0de01a21c936345a7410b3f"
+  },
+  {
+    "name": "Sidon",
+    "prompt": "Sidon from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498920.jpg?s=a23393720e15347761ee21645cac23ac"
+  },
+  {
+    "name": "Sieg",
+    "prompt": "Sieg from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/205457.jpg?s=b647ce4ff2f4e4a48dd5a7e1cb7b7304"
+  },
+  {
+    "name": "Solicitor Old Lady",
+    "prompt": "Solicitor Old Lady from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/554196.jpg?s=2bff44d9cac33c241b2816d2ca6f0f85"
+  },
+  {
+    "name": "Sonezaki, Masaki",
+    "prompt": "Sonezaki, Masaki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/261141.jpg?s=a4050c70773357327cb68357e01efc2f"
+  },
+  {
+    "name": "Sonnano",
+    "prompt": "Sonnano from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/528825.jpg?s=3bdae8e2e6d71e4a034bc38ed7def463"
+  },
+  {
+    "name": "Soonansu",
+    "prompt": "Soonansu from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/391861.jpg?s=b56eadae29d5aea53f07fc8aed666ec4"
+  },
+  {
+    "name": "Sophia",
+    "prompt": "Sophia from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/554227.jpg?s=78b376b0a2f5af536a6ba9176bc07fb9"
+  },
+  {
+    "name": "Spear's Trainer",
+    "prompt": "Spear's Trainer from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/553187.jpg?s=31a061f2218f925b583436e38502c51e"
+  },
+  {
+    "name": "Starmie",
+    "prompt": "Starmie from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498075.jpg?s=2dcf8b9ab4cbe48f98eb1f0e7477ffe9"
+  },
+  {
+    "name": "Strike",
+    "prompt": "Strike from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/498921.jpg?s=5509b02c78171719b772217ebc25baef"
+  },
+  {
+    "name": "Sue",
+    "prompt": "Sue from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/453719.jpg?s=d01f2cb211c713b4040277398257addb"
+  },
+  {
+    "name": "Suicune",
+    "prompt": "Suicune from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/471479.jpg?s=1c8c89fad83457a5b4348d69f5a20577"
+  },
+  {
+    "name": "Sumomo",
+    "prompt": "Sumomo from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/528827.jpg?s=fbf93ff4007b75249878e948a161e788"
+  },
+  {
+    "name": "Tadokoro",
+    "prompt": "Tadokoro from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/553354.jpg?s=8537b5716ba379f8b13f139c3ec89c18"
+  },
+  {
+    "name": "Taichi",
+    "prompt": "Taichi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/551083.jpg?s=3e25d6eea0024a36a4e03d62548792ac"
+  },
+  {
+    "name": "Takami",
+    "prompt": "Takami from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/528829.jpg?s=c2c33afa39d8b5e146a2618488bacd1d"
+  },
+  {
+    "name": "Takashi",
+    "prompt": "Takashi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/554048.jpg?s=f5839a0be37ed59ce236031da506d2e5"
+  },
+  {
+    "name": "Takuya",
+    "prompt": "Takuya from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/552913.jpg?s=29d763ffc77d50a4e79dd059b40d56b4"
+  },
+  {
+    "name": "Tamaki",
+    "prompt": "Tamaki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/553779.jpg?s=9c469f5c1b7ed995c2a1ca765d46650e"
+  },
+  {
+    "name": "Tamao",
+    "prompt": "Tamao from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/528831.jpg?s=111b08e33bd22ca606bd839fb9206dea"
+  },
+  {
+    "name": "Tamatama",
+    "prompt": "Tamatama from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/497647.jpg?s=e0b1799bd90e6f43aca176790c06dbb4"
+  },
+  {
+    "name": "Tamazou",
+    "prompt": "Tamazou from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/554211.jpg?s=cc41e33a7d8ca95cc1a573d0dd8741d3"
+  },
+  {
+    "name": "Tarsan",
+    "prompt": "Tarsan from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551072.jpg?s=e87890efa59dcea2c8806e4a5b67d064"
+  },
+  {
+    "name": "Tarsan's Father",
+    "prompt": "Tarsan's Father from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/551073.jpg?s=0cedf0fdb7eb92def15056687e9c2e13"
+  },
+  {
+    "name": "Tarsan's Mother",
+    "prompt": "Tarsan's Mother from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/551082.jpg?s=e120b62c3814f6732672038b80e7fb32"
+  },
+  {
+    "name": "Tatsumi",
+    "prompt": "Tatsumi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/554289.jpg?s=48dce51bb28b43342234a0c04dcfbe74"
+  },
+  {
+    "name": "Tatsuo",
+    "prompt": "Tatsuo from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/554230.jpg?s=54cd2514f18d461981ba7d859b1f7e03"
+  },
+  {
+    "name": "Tenma",
+    "prompt": "Tenma from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/554232.jpg?s=6ba1c5c4e6d797a6f329b07d0a7f763b"
+  },
+  {
+    "name": "Teru",
+    "prompt": "Teru from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/553776.jpg?s=eb8e3a4383b964de1630e955e3a50fcd"
+  },
+  {
+    "name": "Tetsuya",
+    "prompt": "Tetsuya from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/554123.jpg?s=9971716a058770a44d806747be490420"
+  },
+  {
+    "name": "Thunder",
+    "prompt": "Thunder from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/421556.jpg?s=e8cb8deaa2ad148c2d915816a52228a7"
+  },
+  {
+    "name": "Tobio",
+    "prompt": "Tobio from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/489351.jpg?s=93ec89db0500907eba120a5620230ab3"
+  },
+  {
+    "name": "Tobiro",
+    "prompt": "Tobiro from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/554294.jpg?s=7635dbb372c63e0b5ae6984e25b7e5c4"
+  },
+  {
+    "name": "Tokio",
+    "prompt": "Tokio from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/507206.jpg?s=6cd290e0697a20c3a1889973ab88d118"
+  },
+  {
+    "name": "Toku",
+    "prompt": "Toku from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/553775.jpg?s=dff01876b5317f9d0583c4e7576c10d8"
+  },
+  {
+    "name": "Torigai",
+    "prompt": "Torigai from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/553781.jpg?s=cb21a51fbf27ada1eef266bfd0658afb"
+  },
+  {
+    "name": "Toru",
+    "prompt": "Toru from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/528832.jpg?s=3dd26e5ef795021f629a56a58926b4f1"
+  },
+  {
+    "name": "Toshiya",
+    "prompt": "Toshiya from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/453806.jpg?s=6c01f964dc878ea0a840129c0db73f1c"
+  },
+  {
+    "name": "Toukichi",
+    "prompt": "Toukichi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/554283.jpg?s=223a3628772c7f4da1ea7b1794bd3e77"
+  },
+  {
+    "name": "Tsubaki",
+    "prompt": "Tsubaki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/528833.jpg?s=42480b3a35883e03ba86bb1828a62612"
+  },
+  {
+    "name": "Tsubasa",
+    "prompt": "Tsubasa from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/528835.jpg?s=684e01f6941f8cf51f4c411b83fb6b78"
+  },
+  {
+    "name": "Tsukasa",
+    "prompt": "Tsukasa from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/553802.jpg?s=ee7562b71d3b1174c59c1d51d36ae72e"
+  },
+  {
+    "name": "Tsukasa's Grandfather",
+    "prompt": "Tsukasa's Grandfather from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/553803.jpg?s=4fff063385918db0f4f61a179b39cb62"
+  },
+  {
+    "name": "Tsukushi",
+    "prompt": "Tsukushi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/190300.jpg?s=3a63d0c49fd0ec4db3b69bea76b95fc8"
+  },
+  {
+    "name": "Tsunami",
+    "prompt": "Tsunami from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/556413.jpg?s=ce59d52920764bb4a1cecb86160a8651"
+  },
+  {
+    "name": "Tsurio",
+    "prompt": "Tsurio from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/489352.jpg?s=c949ca2c433dcc0619bc33a1f66ca90a"
+  },
+  {
+    "name": "Tsuyoshi",
+    "prompt": "Tsuyoshi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/554124.jpg?s=589b4735e2dc191c3695513fdce18998"
+  },
+  {
+    "name": "Unown",
+    "prompt": "Unown from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/497292.jpg?s=b409f2b3941ff3f5a1a3b5c28e84788e"
+  },
+  {
+    "name": "Upah",
+    "prompt": "Upah from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/484755.jpg?s=c9fcc5f37870b668fd26c3fc7a9188be"
+  },
+  {
+    "name": "Usokki",
+    "prompt": "Usokki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/495295.jpg?s=b6e900e784b56481132e2cb624cde58f"
+  },
+  {
+    "name": "Vincent",
+    "prompt": "Vincent from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/396679.jpg?s=23933ac6e5316966fd7afa554e0c37eb"
+  },
+  {
+    "name": "Waninoko",
+    "prompt": "Waninoko from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/528263.jpg?s=a3b1163350e17da8369d2c9580ec57f6"
+  },
+  {
+    "name": "Wanriki",
+    "prompt": "Wanriki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/560251.jpg?s=909d0cd0f891d7b6fd9cb31f403eee8f"
+  },
+  {
+    "name": "Watari",
+    "prompt": "Watari from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/553800.jpg?s=f4bda03ff99eca7cdab9f171a5c500ec"
+  },
+  {
+    "name": "Wataru",
+    "prompt": "Wataru from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/325053.jpg?s=405aa866a0870f41a5304eefdda0f5ef"
+  },
+  {
+    "name": "Whirlpool Cup Winner",
+    "prompt": "Whirlpool Cup Winner from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/554293.jpg?s=175f1742855a9feb0a2c64d1320a2d03"
+  },
+  {
+    "name": "Windie",
+    "prompt": "Windie from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497293.jpg?s=fe3838d37a43fb15e65edcbcfd068112"
+  },
+  {
+    "name": "Yadoking",
+    "prompt": "Yadoking from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/493832.jpg?s=5c3ce71e0076de82be1dc5d3b15642b6"
+  },
+  {
+    "name": "Yadon",
+    "prompt": "Yadon from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/528842.jpg?s=75e884ab4b8c6b888b4a26cd9142892c"
+  },
+  {
+    "name": "Yahichi",
+    "prompt": "Yahichi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/554298.jpg?s=38596f216f2ebeb08b6a5eba222d2903"
+  },
+  {
+    "name": "Yakeishi",
+    "prompt": "Yakeishi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/554053.jpg?s=c922834a128347f21d2a50cc9eb3a378"
+  },
+  {
+    "name": "Yamato",
+    "prompt": "Yamato from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/463508.jpg?s=d6ba784c08421e1415789b3d07d63c0c"
+  },
+  {
+    "name": "Yamikarasu",
+    "prompt": "Yamikarasu from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/581092.jpg?s=987f0138d145468a17bfec178881eeca"
+  },
+  {
+    "name": "Yanagi",
+    "prompt": "Yanagi from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/190308.jpg?s=b7118d293b567262cded9ac26c0c8894"
+  },
+  {
+    "name": "Yas",
+    "prompt": "Yas from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/551151.jpg?s=0f32325088d7946060d9fe7811eff4ab"
+  },
+  {
+    "name": "Yasuji",
+    "prompt": "Yasuji from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/512546.jpg?s=278a1cae1a71c48c00bf440411d4ffcb"
+  },
+  {
+    "name": "Yorunozuku",
+    "prompt": "Yorunozuku from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497652.jpg?s=06526519f89bfeb1f154750625b620d5"
+  },
+  {
+    "name": "Yosaku",
+    "prompt": "Yosaku from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/554299.jpg?s=3066304e4ed12c47bffe35b1d74e1b2d"
+  },
+  {
+    "name": "Yoshiki",
+    "prompt": "Yoshiki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/528843.jpg?s=88feb511d942da4d300a997b69a8152d"
+  },
+  {
+    "name": "Yuji",
+    "prompt": "Yuji from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/393185.jpg?s=01e05e4f32604c06882f13713d927ded"
+  },
+  {
+    "name": "Yukari",
+    "prompt": "Yukari from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/553799.jpg?s=1b18610027876a93191c220439d2642b"
+  },
+  {
+    "name": "Yuki",
+    "prompt": "Yuki from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/393190.jpg?s=34063a607bbe660284aa973e869886d8"
+  },
+  {
+    "name": "Yuriko",
+    "prompt": "Yuriko from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/553988.jpg?s=39df9bb25cf8b814b1827ab01ac2236b"
+  },
+  {
+    "name": "Yutaka",
+    "prompt": "Yutaka from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/554134.jpg?s=7db359a07fe66e624dc4cf26bfab1a6a"
+  },
+  {
+    "name": "Yuuji",
+    "prompt": "Yuuji from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/553797.jpg?s=27021316d01acf6500ea3020a8d2f838"
+  },
+  {
+    "name": "Yuuka",
+    "prompt": "Yuuka from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/553798.jpg?s=d70b1e15d2329528cb9cdc549d2e7c33"
+  },
+  {
+    "name": "Yuutou, Seiyo",
+    "prompt": "Yuutou, Seiyo from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/84196.jpg?s=035e197f397c639c702d33bd9c8ada00"
+  },
+  {
+    "name": "Zenigame",
+    "prompt": "Zenigame from Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497728.jpg?s=6456634d4f296b5f7d271dee4c867d15"
+  }
+]

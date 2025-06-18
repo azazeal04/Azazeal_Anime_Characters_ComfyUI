@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Yawarakame",
+    "prompt": "Yawarakame from Yawarakame♥",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/85190.jpg?s=285551c98b0a29bb8d7d559894e4a6b8"
+  },
+  {
+    "name": "Assistant",
+    "prompt": "Assistant from Yawarakame♥",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/85191.jpg?s=584a5a68b47b70dd9d1c778c19ac0bf0"
+  },
+  {
+    "name": "Customer",
+    "prompt": "Customer from Yawarakame♥",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/85188.jpg?s=c3d60521ddd2c33839caa22851421c12"
+  },
+  {
+    "name": "Manager",
+    "prompt": "Manager from Yawarakame♥",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/85189.jpg?s=e2dd9ac31ba17d63cf66cc3528211902"
+  }
+]

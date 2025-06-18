@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Kedamono",
+    "prompt": "Kedamono from Popee the Performer",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/392557.jpg?s=000f965fee8c17144a9c0835831c8ddc"
+  },
+  {
+    "name": "Papi",
+    "prompt": "Papi from Popee the Performer",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/392559.jpg?s=ebec10bea1243f906cc437dbf5302fe7"
+  },
+  {
+    "name": "Popee",
+    "prompt": "Popee from Popee the Performer",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/392558.jpg?s=bb34962ef0892850e34f8d45ddf863a2"
+  },
+  {
+    "name": "Alien",
+    "prompt": "Alien from Popee the Performer",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/392560.jpg?s=7b51764f3256873322d65e98b0adf0cb"
+  },
+  {
+    "name": "Eepop",
+    "prompt": "Eepop from Popee the Performer",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/399582.jpg?s=c56e23e13270408a456a25e10e012b06"
+  },
+  {
+    "name": "Frog",
+    "prompt": "Frog from Popee the Performer",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/399418.jpg?s=0e326321c248a869e4a9199f69159bb7"
+  },
+  {
+    "name": "Onomadek",
+    "prompt": "Onomadek from Popee the Performer",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/399583.jpg?s=2d8b6d842c84350e0f473c4dd743e7df"
+  },
+  {
+    "name": "Paola",
+    "prompt": "Paola from Popee the Performer",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/392556.jpg?s=35467300d4329fefe7df3d6adcc0ddab"
+  }
+]

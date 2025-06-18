@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Musume",
+    "prompt": "Musume from Ryoutei no Aji",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/276850.jpg?s=321a03ebe07b63b3563e506baa1d5a8b"
+  },
+  {
+    "name": "Otou-san",
+    "prompt": "Otou-san from Ryoutei no Aji",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/276849.jpg?s=2a97b1058c652ab54325206b6cd3be8e"
+  },
+  {
+    "name": "Papa",
+    "prompt": "Papa from Ryoutei no Aji",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/276847.jpg?s=b9fb117ffa287f9840dd5a1d4134f80c"
+  },
+  {
+    "name": "Kaasan",
+    "prompt": "Kaasan from Ryoutei no Aji",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/276848.jpg?s=ff667cd0fe867dbafbe8120fda4d70b1"
+  }
+]

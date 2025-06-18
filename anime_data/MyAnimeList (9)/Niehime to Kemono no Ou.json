@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Leonhart",
+    "prompt": "Leonhart from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/485483.jpg?s=7356bf77adc5b012b48fce26771cf23d"
+  },
+  {
+    "name": "Sariphi",
+    "prompt": "Sariphi from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/485484.jpg?s=8c8d7e4d7d49142bc065274c063a4301"
+  },
+  {
+    "name": "Amit",
+    "prompt": "Amit from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/493957.jpg?s=2c762742baa0efb619a0aec61cff06db"
+  },
+  {
+    "name": "Amit's Sister",
+    "prompt": "Amit's Sister from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Anastasia",
+    "prompt": "Anastasia from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/521538.jpg?s=0eedf92acbaac6086f12561f9220bc9a"
+  },
+  {
+    "name": "Anubis",
+    "prompt": "Anubis from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/493959.jpg?s=ce525ff9c801939c2d6e7ce1638737ee"
+  },
+  {
+    "name": "Assassin",
+    "prompt": "Assassin from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/515426.jpg?s=44cc36c329378233a2d135d0e90ea9db"
+  },
+  {
+    "name": "Assassin A",
+    "prompt": "Assassin A from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/515551.jpg?s=301ff7adee9742cbc015dcaef5a121c5"
+  },
+  {
+    "name": "Assassin B",
+    "prompt": "Assassin B from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/515482.jpg?s=49fbbffd26153294f35d6be1902cf6d0"
+  },
+  {
+    "name": "Bear Tribe Woman",
+    "prompt": "Bear Tribe Woman from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/515642.jpg?s=9cca38966f6338e990b322221b2a25ab"
+  },
+  {
+    "name": "Bennu",
+    "prompt": "Bennu from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/493962.jpg?s=5889ae1f95404e0be5813076919df05f"
+  },
+  {
+    "name": "Bolas",
+    "prompt": "Bolas from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/515643.jpg?s=c42e7411b7936715047339e9265ae9c9"
+  },
+  {
+    "name": "Bolas's Mother",
+    "prompt": "Bolas's Mother from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/515757.jpg?s=62b110234d989b6b79d947921146732b"
+  },
+  {
+    "name": "Breuse, Braun",
+    "prompt": "Breuse, Braun from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/516986.jpg?s=20bac285a4ae04631fdb4544e3dcca17"
+  },
+  {
+    "name": "Calcara",
+    "prompt": "Calcara from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/519663.jpg?s=6fb69c185bedf7c8f5fb69621dde1697"
+  },
+  {
+    "name": "Calra's Father",
+    "prompt": "Calra's Father from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/516973.jpg?s=024ccb551aeccde3c280b9555da43dee"
+  },
+  {
+    "name": "Capel",
+    "prompt": "Capel from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/524915.jpg?s=ad884b75a2b9d01053449c71d12297ba"
+  },
+  {
+    "name": "Carla",
+    "prompt": "Carla from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/519664.jpg?s=9c55e17199f9fcb6c5e7ceeb94df19eb"
+  },
+  {
+    "name": "Chameleon Tribe A",
+    "prompt": "Chameleon Tribe A from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/515758.jpg?s=be4066f8e14fd4b7cc2455250a415659"
+  },
+  {
+    "name": "Chef A",
+    "prompt": "Chef A from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/515760.jpg?s=390f19e1299571b303efecc4700cafb9"
+  },
+  {
+    "name": "Chef B",
+    "prompt": "Chef B from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/515761.jpg?s=aaab3511ac9ba92f7e062dfb65469d63"
+  },
+  {
+    "name": "Clops",
+    "prompt": "Clops from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/493960.jpg?s=1d490ba1665f1a0181da9e3b11f47fd9"
+  },
+  {
+    "name": "Cy",
+    "prompt": "Cy from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/493958.jpg?s=4e0ae9477a83c2de295d4a77fc8ddb1c"
+  },
+  {
+    "name": "Demon Soldier #1",
+    "prompt": "Demon Soldier #1 from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/515644.jpg?s=96b321c35bfb0fe876e0231d69b04f7d"
+  },
+  {
+    "name": "Demon Soldier #2",
+    "prompt": "Demon Soldier #2 from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/515650.jpg?s=ed51731e41dd7d6da009f8c2201fc8df"
+  },
+  {
+    "name": "Dyed Goods Seller",
+    "prompt": "Dyed Goods Seller from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/516173.jpg?s=eda677610b167ae8d37ce1701e30c457"
+  },
+  {
+    "name": "El",
+    "prompt": "El from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/516174.jpg?s=0f807f0d63812384d0cbc026a595e14b"
+  },
+  {
+    "name": "Fenrir",
+    "prompt": "Fenrir from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/503094.jpg?s=36f1033421f43b65f7fec0dc0f140707"
+  },
+  {
+    "name": "Galois",
+    "prompt": "Galois from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/519667.jpg?s=f1d709811bc09329800890da06271fe5"
+  },
+  {
+    "name": "Gleipnir",
+    "prompt": "Gleipnir from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/503097.jpg?s=a967182df043f156e7af4025f58c853e"
+  },
+  {
+    "name": "Government Official",
+    "prompt": "Government Official from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/515427.jpg?s=900bb9d1fe865891cddf0ce15ca5cd05"
+  },
+  {
+    "name": "Gwiber",
+    "prompt": "Gwiber from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/516179.jpg?s=92dc849b1500ebe5e4d7ebc46de98b30"
+  },
+  {
+    "name": "Horse Tribe A",
+    "prompt": "Horse Tribe A from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/516180.jpg?s=44cafa15d817bbba6322f8668858087e"
+  },
+  {
+    "name": "Horse Tribe B",
+    "prompt": "Horse Tribe B from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/516181.jpg?s=be58df5c542d8c2ff80267a7ca41f9d1"
+  },
+  {
+    "name": "Hyena Tribe A",
+    "prompt": "Hyena Tribe A from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/519824.jpg?s=6e2946277987419df146713bc7953450"
+  },
+  {
+    "name": "Ilya",
+    "prompt": "Ilya from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/513618.jpg?s=6513ba4f92bbac51f743b02d100137ef"
+  },
+  {
+    "name": "Ilya's Mother",
+    "prompt": "Ilya's Mother from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/516987.jpg?s=ed2a26976735e70432a0318f0baeb5dd"
+  },
+  {
+    "name": "Jormungand",
+    "prompt": "Jormungand from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/493961.jpg?s=858b5e3cdbac19436eb1cfc096ca980a"
+  },
+  {
+    "name": "Joz",
+    "prompt": "Joz from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/515035.jpg?s=1f0efd6a1b8d7f68a107040629c69da6"
+  },
+  {
+    "name": "King of Maskviana",
+    "prompt": "King of Maskviana from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/521749.jpg?s=4bc299f49bf3e7aaf5fd2d7e994e52cd"
+  },
+  {
+    "name": "Lanteveldt",
+    "prompt": "Lanteveldt from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/503093.jpg?s=8b1f313318ac2418f0a875363804ccde"
+  },
+  {
+    "name": "Lanteveldt's Mother",
+    "prompt": "Lanteveldt's Mother from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/517376.jpg?s=f4a7da45b481426145fa15a1d10e9edf"
+  },
+  {
+    "name": "Leonhart's Mother",
+    "prompt": "Leonhart's Mother from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/525238.jpg?s=2b01f0c3720a69370d19acba4575eade"
+  },
+  {
+    "name": "Maalo",
+    "prompt": "Maalo from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/518326.jpg?s=8960fe8ca0d406f11284c0ced9ff1c0d"
+  },
+  {
+    "name": "Maria",
+    "prompt": "Maria from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/515459.jpg?s=baf03c8b0eb3f3c9460b2994a2c294a1"
+  },
+  {
+    "name": "Maru",
+    "prompt": "Maru from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/516178.jpg?s=12238bb14310a0c701fce92846aa79d6"
+  },
+  {
+    "name": "Misha",
+    "prompt": "Misha from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/413917.jpg?s=0ad77976f7adb904084325921f2dd5a5"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ocelot",
+    "prompt": "Ocelot from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/521748.jpg?s=1f7171c547db3af0091cd4bea057bbbf"
+  },
+  {
+    "name": "Official",
+    "prompt": "Official from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/595806.jpg?s=666c6a25b1b948275f089186c1d48519"
+  },
+  {
+    "name": "Previous Anubis",
+    "prompt": "Previous Anubis from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/516172.jpg?s=bb4b19b9057fd9a7653ff40069b2487f"
+  },
+  {
+    "name": "Previous King",
+    "prompt": "Previous King from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/524932.jpg?s=18572483b8ec5078a8e0aca37eff3c16"
+  },
+  {
+    "name": "Princess Alba",
+    "prompt": "Princess Alba from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/516988.jpg?s=114feb72eb08e05e927dc7040659d149"
+  },
+  {
+    "name": "Princess Kora",
+    "prompt": "Princess Kora from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/516989.jpg?s=ae52d3ad3218ccbf696c20338e9241b3"
+  },
+  {
+    "name": "Reptile Tribe A",
+    "prompt": "Reptile Tribe A from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/517087.jpg?s=a1030218e5435bd184ae1a0eb4957fdf"
+  },
+  {
+    "name": "Retainer",
+    "prompt": "Retainer from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/595805.jpg?s=25a4f4dbc902bda4057e95be890cfef0"
+  },
+  {
+    "name": "Richard",
+    "prompt": "Richard from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/523324.jpg?s=9cbf609c62c9166cc823d1476cbbde83"
+  },
+  {
+    "name": "Roche",
+    "prompt": "Roche from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/517830.jpg?s=84c1f69bc4f279d552b0777c5a8c5195"
+  },
+  {
+    "name": "Rog",
+    "prompt": "Rog from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/516175.jpg?s=fb5e34c4fb06661524c5541388297f92"
+  },
+  {
+    "name": "Sariphi's Father",
+    "prompt": "Sariphi's Father from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/515455.jpg?s=57a239d161aaf852f8d6400f881a96ca"
+  },
+  {
+    "name": "Sariphi's Mother",
+    "prompt": "Sariphi's Mother from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/515457.jpg?s=5660285d18fa7ef90a40f39cb29864a5"
+  },
+  {
+    "name": "Senate Speaker A",
+    "prompt": "Senate Speaker A from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/515461.jpg?s=264e319986e1b678fe62a723e08e728c"
+  },
+  {
+    "name": "Senate Speaker B",
+    "prompt": "Senate Speaker B from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/515462.jpg?s=7ad82f4bf40f80520dbd4fed7ed69469"
+  },
+  {
+    "name": "Set",
+    "prompt": "Set from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/515034.jpg?s=cbc35bf3673f7022dce3d5ef1817db5d"
+  },
+  {
+    "name": "Set's Mother",
+    "prompt": "Set's Mother from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/524816.jpg?s=cf0b7f4d7e7da3238f1876e317095078"
+  },
+  {
+    "name": "Teiryn",
+    "prompt": "Teiryn from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/516972.jpg?s=c32665236796a615a791444e9af35f52"
+  },
+  {
+    "name": "Tet VII",
+    "prompt": "Tet VII from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/519665.jpg?s=d32baf9d69db8ad5e58a5d941ced9bb4"
+  },
+  {
+    "name": "Tetra",
+    "prompt": "Tetra from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/519666.jpg?s=3d1e5d93502be4b2e314898e62ade5b7"
+  },
+  {
+    "name": "Todd",
+    "prompt": "Todd from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/516990.jpg?s=e40d5ba16776b7f3784f74f820118d89"
+  },
+  {
+    "name": "Town Doctor",
+    "prompt": "Town Doctor from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/516177.jpg?s=413e10d4334957250714124fac34e253"
+  },
+  {
+    "name": "Town Doctor's Wife",
+    "prompt": "Town Doctor's Wife from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/516176.jpg?s=5d8aba7e685dfd56e677921f4d714fb1"
+  },
+  {
+    "name": "Vivian",
+    "prompt": "Vivian from Niehime to Kemono no Ou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/517167.jpg?s=42a60a6fb8baf545277a086a2d3067ee"
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Lum",
+    "prompt": "Lum from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498938.jpg?s=c7f9df1cf99bdd63df896e1b0b6bbaeb"
+  },
+  {
+    "name": "Mendou, Shuutarou",
+    "prompt": "Mendou, Shuutarou from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/474083.jpg?s=a3c18306602610eaf019e09ef53f0021"
+  },
+  {
+    "name": "Miyake, Shinobu",
+    "prompt": "Miyake, Shinobu from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/474085.jpg?s=a862be4f78d5272b503f18f95a010fbf"
+  },
+  {
+    "name": "Moroboshi, Ataru",
+    "prompt": "Moroboshi, Ataru from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/461388.jpg?s=b6f173c46d0055ba8984a1b1b8aa9e24"
+  },
+  {
+    "name": "Adam",
+    "prompt": "Adam from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/374316.jpg?s=db318765fa3601f289919d319f486c4f"
+  },
+  {
+    "name": "Akira",
+    "prompt": "Akira from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/114470.jpg?s=2c43a00bb336f8f8022ddc2ae5253448"
+  },
+  {
+    "name": "Amamori, Tsuyuko",
+    "prompt": "Amamori, Tsuyuko from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/374317.jpg?s=c7f29e28c28648f7d7c1ff4d8b14b84f"
+  },
+  {
+    "name": "Amaterasu",
+    "prompt": "Amaterasu from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/367365.jpg?s=0a36676ffea5bb10561d20082e23ef0f"
+  },
+  {
+    "name": "Amefurashi",
+    "prompt": "Amefurashi from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/374318.jpg?s=decae44d6b9db8877a21408b463ac758"
+  },
+  {
+    "name": "Anzu",
+    "prompt": "Anzu from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/374319.jpg?s=24b8a935bbc2a9d012a7ea0b174c5c58"
+  },
+  {
+    "name": "Art Teacher",
+    "prompt": "Art Teacher from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/374321.jpg?s=339f2c445cd505362f6e6e70a3f4a8a0"
+  },
+  {
+    "name": "Asano, Yumi",
+    "prompt": "Asano, Yumi from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/374322.jpg?s=49ed5a65ec84631b1e9c5091843717fc"
+  },
+  {
+    "name": "Ataru's Father",
+    "prompt": "Ataru's Father from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/374359.jpg?s=7f08c41ab5eb981f0886d1212c373ea2"
+  },
+  {
+    "name": "Ataru's Mother",
+    "prompt": "Ataru's Mother from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/163339.jpg?s=a121c12071a28682d71e2973971199e2"
+  },
+  {
+    "name": "B-Bo",
+    "prompt": "B-Bo from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/540686.jpg?s=debb20220c2a17e8417d320b7fbb8cda"
+  },
+  {
+    "name": "Benten",
+    "prompt": "Benten from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/498946.jpg?s=a34a90107e82ef9914103932e90a9ac8"
+  },
+  {
+    "name": "Boss of Butsumetsu High School",
+    "prompt": "Boss of Butsumetsu High School from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/522657.jpg?s=edf09bdcba4f66b127fc4fb009a65c62"
+  },
+  {
+    "name": "CAO-2",
+    "prompt": "CAO-2 from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/374324.jpg?s=92c6caeae901cb625ab6ada495254aa9"
+  },
+  {
+    "name": "Count Dracula",
+    "prompt": "Count Dracula from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/374325.jpg?s=117388a0b9bf31474d9c0b461c67add6"
+  },
+  {
+    "name": "Eve",
+    "prompt": "Eve from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/374326.jpg?s=8e25eba357418dfbbf8d43f57d17b6a5"
+  },
+  {
+    "name": "Flower Shop Girl",
+    "prompt": "Flower Shop Girl from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/374328.jpg?s=2d6053e7ff9bf2e8a292d277fe8f535c"
+  },
+  {
+    "name": "Fujinami, Ryuunosuke",
+    "prompt": "Fujinami, Ryuunosuke from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498935.jpg?s=d6321a9eb936d9a132d73f7fb6347a86"
+  },
+  {
+    "name": "Ginger",
+    "prompt": "Ginger from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/504578.jpg?s=a9d2e79e0596ea4fe7b7892ab6b4305d"
+  },
+  {
+    "name": "Hanawa-sensei",
+    "prompt": "Hanawa-sensei from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/374330.jpg?s=af944d6316a225ab71def87f69b28608"
+  },
+  {
+    "name": "Her Majesty the Queen",
+    "prompt": "Her Majesty the Queen from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/374331.jpg?s=a3e925644217f5bff514e7b8848710af"
+  },
+  {
+    "name": "Hiroyuki",
+    "prompt": "Hiroyuki from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/341963.jpg?s=8d71fff82c7ae4cf033639eae2ec93f3"
+  },
+  {
+    "name": "Hokuto",
+    "prompt": "Hokuto from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/456608.jpg?s=3109defcfd351b138a61350476685a87"
+  },
+  {
+    "name": "Invader",
+    "prompt": "Invader from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/374332.jpg?s=b23a35d9bd974f782efc2536430aecd7"
+  },
+  {
+    "name": "Izumi",
+    "prompt": "Izumi from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/374333.jpg?s=fcb3e8cc71c41169fd093574dc6ea4fe"
+  },
+  {
+    "name": "Kaede",
+    "prompt": "Kaede from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/374335.jpg?s=2779d344112fda56b48c676d2b1c8666"
+  },
+  {
+    "name": "Karasutengu Blue",
+    "prompt": "Karasutengu Blue from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/555951.jpg?s=4945f19618541404181ed8171b500612"
+  },
+  {
+    "name": "Karasutengu Elder",
+    "prompt": "Karasutengu Elder from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/553671.jpg?s=bf432b6cd334663a7405f83a369a64d0"
+  },
+  {
+    "name": "Karasutengu Green",
+    "prompt": "Karasutengu Green from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/555954.jpg?s=6fde97f99455d523c600a17f420a54d8"
+  },
+  {
+    "name": "Karasutengu Orange",
+    "prompt": "Karasutengu Orange from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/555953.jpg?s=2a67eeaa605272cc2866b38db096b86c"
+  },
+  {
+    "name": "Karasutengu Yellow",
+    "prompt": "Karasutengu Yellow from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/555952.jpg?s=8834bc9678b2c6ff3098340c47e29fc9"
+  },
+  {
+    "name": "Katsuragi, Anna",
+    "prompt": "Katsuragi, Anna from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/340497.jpg?s=51d560cc4f00cd74946156fd61f8a71f"
+  },
+  {
+    "name": "Kikyo, Reika",
+    "prompt": "Kikyo, Reika from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/374338.jpg?s=61ee83a8b47f0f00fd70aec10dd84691"
+  },
+  {
+    "name": "Kintaro",
+    "prompt": "Kintaro from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/374339.jpg?s=61fd1b7e5937b50c7eee26da31b0f337"
+  },
+  {
+    "name": "Kitsune",
+    "prompt": "Kitsune from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/374340.jpg?s=9974348bf522f056dc41439a8f1ba79c"
+  },
+  {
+    "name": "Komori",
+    "prompt": "Komori from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/561671.jpg?s=ab8774c5672bedf19d08195a9641fbe8"
+  },
+  {
+    "name": "Kotatsu-neko",
+    "prompt": "Kotatsu-neko from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/341973.jpg?s=d51746cbefb87121ac53fe2c3aaac60f"
+  },
+  {
+    "name": "Kotori",
+    "prompt": "Kotori from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/374341.jpg?s=b2dc9bae40a3a4407090e44f1cb6c26f"
+  },
+  {
+    "name": "Kurama",
+    "prompt": "Kurama from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/492984.jpg?s=0da234eb0df79318ce5248f75a581fde"
+  },
+  {
+    "name": "Kuribayashi, Sanjuro",
+    "prompt": "Kuribayashi, Sanjuro from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/374342.jpg?s=6a31d3b1d91630d651011fc6595328e4"
+  },
+  {
+    "name": "Lum's Father",
+    "prompt": "Lum's Father from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/338012.jpg?s=cc62e8b3c087ef271efef4d995ffe8eb"
+  },
+  {
+    "name": "Lum's Mother",
+    "prompt": "Lum's Mother from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/374344.jpg?s=ff4088ecdc06d7906a9d3e8162cb0b7c"
+  },
+  {
+    "name": "Mendou, Ryouko",
+    "prompt": "Mendou, Ryouko from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/508594.jpg?s=95382ee2f2bc28338147267fb9483eb0"
+  },
+  {
+    "name": "Mendou's Grandfather",
+    "prompt": "Mendou's Grandfather from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/495013.jpg?s=38ff221edb851a6a0bef74b56eeefb1b"
+  },
+  {
+    "name": "Mendou's Father",
+    "prompt": "Mendou's Father from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/374347.jpg?s=1b2691a927b58368e49552620e47e00e"
+  },
+  {
+    "name": "Mendou's Mother",
+    "prompt": "Mendou's Mother from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/374346.jpg?s=976869d41f732ba23ebb1c6cce88b65c"
+  },
+  {
+    "name": "Miki",
+    "prompt": "Miki from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/374348.jpg?s=add5337b0d91afe72268f02050f77619"
+  },
+  {
+    "name": "Misuzu",
+    "prompt": "Misuzu from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/374350.jpg?s=a4a13ecadd9d9f011b5b6140ba11e14c"
+  },
+  {
+    "name": "Mizunokoji, Mother",
+    "prompt": "Mizunokoji, Mother from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/374355.jpg?s=a5280e3ee4f0f089f55894e661e10904"
+  },
+  {
+    "name": "Mizunokoji, Father",
+    "prompt": "Mizunokoji, Father from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/374354.jpg?s=9e8b29b077e9a1818838274bb5d4efb7"
+  },
+  {
+    "name": "Mizunokoji, Asuka",
+    "prompt": "Mizunokoji, Asuka from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/341971.jpg?s=eb54686d766d0e4f727fe6d5c300068e"
+  },
+  {
+    "name": "Mizunokouji, Tobimaro",
+    "prompt": "Mizunokouji, Tobimaro from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/500626.jpg?s=52c7b7d9f507f1df630f6f3884e33698"
+  },
+  {
+    "name": "Moroboshi, Kokeru",
+    "prompt": "Moroboshi, Kokeru from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/374360.jpg?s=5f1debb00a704a2af4f9fee0ea9f9d65"
+  },
+  {
+    "name": "Mujaki",
+    "prompt": "Mujaki from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/368187.jpg?s=4cfd152f5d66ff0313f7180b314b87aa"
+  },
+  {
+    "name": "Nakamine, Chiyoko",
+    "prompt": "Nakamine, Chiyoko from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/374362.jpg?s=882418f3e4de1cc04098f8c35ce45405"
+  },
+  {
+    "name": "Nozomi",
+    "prompt": "Nozomi from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/374364.jpg?s=433279ed99e545c5eb85055924a084e5"
+  },
+  {
+    "name": "Ogin",
+    "prompt": "Ogin from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/374366.jpg?s=19039b0f0a1119f629aab017ef840c1f"
+  },
+  {
+    "name": "Onsen-Mark",
+    "prompt": "Onsen-Mark from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498947.jpg?s=60eaaa201f8eae964561f6bdc47493c6"
+  },
+  {
+    "name": "Oshima",
+    "prompt": "Oshima from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/374369.jpg?s=09ed9d07884362658e05d890f2368e46"
+  },
+  {
+    "name": "Otama",
+    "prompt": "Otama from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/374373.jpg?s=70ef896bfa110d3889686ab37a1e6ace"
+  },
+  {
+    "name": "Oyuki",
+    "prompt": "Oyuki from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/498945.jpg?s=7f0a50f53774264bd7bcc76cb308ed7e"
+  },
+  {
+    "name": "Ozuno, Tsubame",
+    "prompt": "Ozuno, Tsubame from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/498948.jpg?s=ae4ffd9ad5963a1a774aff47ddaa86f5"
+  },
+  {
+    "name": "Pepper",
+    "prompt": "Pepper from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/504579.jpg?s=fd3a74c1ca22c26e1aa0eef0ea71a67b"
+  },
+  {
+    "name": "Perm",
+    "prompt": "Perm from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/341964.jpg?s=fa5d2be482078848ed4fe1ceb8478c84"
+  },
+  {
+    "name": "Pool Youkai",
+    "prompt": "Pool Youkai from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/506890.jpg?s=f36e56d8fed3458b94f826de87d8e665"
+  },
+  {
+    "name": "Principal",
+    "prompt": "Principal from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/374376.jpg?s=7c66c717ff3fa6daaffeba5d46679b89"
+  },
+  {
+    "name": "Ran",
+    "prompt": "Ran from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/483386.jpg?s=ced87f5ff74ca90ca9a9c4647adece7b"
+  },
+  {
+    "name": "Ran's Mother",
+    "prompt": "Ran's Mother from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/374379.jpg?s=65038d282725703ecd611a5178bdf9f1"
+  },
+  {
+    "name": "Rei",
+    "prompt": "Rei from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/498944.jpg?s=c7217e53739e7bfc8a37e3133e53a1b7"
+  },
+  {
+    "name": "Ryuunosuke's Father",
+    "prompt": "Ryuunosuke's Father from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/341518.jpg?s=4e556dabeda5035f06ca59fd6f9b4346"
+  },
+  {
+    "name": "Saizou",
+    "prompt": "Saizou from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/560683.jpg?s=cf7a8932ee143fa10a1b42d6ef3e184f"
+  },
+  {
+    "name": "Sakura",
+    "prompt": "Sakura from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/474086.jpg?s=5ffa6f10c7dbb98923ee94736558ca80"
+  },
+  {
+    "name": "Sakura's Mother",
+    "prompt": "Sakura's Mother from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/541003.jpg?s=1d8d9de37326414fd59294223299633c"
+  },
+  {
+    "name": "Sakuranbou",
+    "prompt": "Sakuranbou from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/474088.jpg?s=5d5a299ef8f023f9ff83cf00dd8f5196"
+  },
+  {
+    "name": "Satoshi",
+    "prompt": "Satoshi from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/500393.jpg?s=8f7a0a6ca2cc00501e831121826bffd9"
+  },
+  {
+    "name": "Shingo",
+    "prompt": "Shingo from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/374387.jpg?s=bf490a6aae59aa8b23a7202fd062e876"
+  },
+  {
+    "name": "Shinobu's Mother",
+    "prompt": "Shinobu's Mother from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/500906.jpg?s=82ebc43ce33651bf5a0e4ea7cfe4f317"
+  },
+  {
+    "name": "Shirai, Kousuke",
+    "prompt": "Shirai, Kousuke from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/437797.jpg?s=6a394e8e6f3a5ee6704e98ded2f1ec7c"
+  },
+  {
+    "name": "Shunmin",
+    "prompt": "Shunmin from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/374388.jpg?s=a1d94dad2545dda6ba560303c47bd860"
+  },
+  {
+    "name": "Space Taxi Driver",
+    "prompt": "Space Taxi Driver from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/538372.jpg?s=8f70dd17dfcd5f1d034960f07c0d1e33"
+  },
+  {
+    "name": "Sugar",
+    "prompt": "Sugar from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/504580.jpg?s=0a182febe275c54d3990c43ba169d794"
+  },
+  {
+    "name": "Super Delicious Planet Golden Special Reserve Gorg",
+    "prompt": "Super Delicious Planet Golden Special Reserve Gorg from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/374390.jpg?s=acfffc23b1775e12b1c30bdb27f0ac8b"
+  },
+  {
+    "name": "Ten",
+    "prompt": "Ten from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/498940.jpg?s=c3985dad4a47da4250458eb402866556"
+  },
+  {
+    "name": "Ten's Mother",
+    "prompt": "Ten's Mother from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/374391.jpg?s=26ed5ab2e63c62e9964d895fb990751a"
+  },
+  {
+    "name": "Torajima",
+    "prompt": "Torajima from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/374393.jpg?s=af5750d54245fcd93da0d5b79b892f91"
+  },
+  {
+    "name": "Toshi-chan",
+    "prompt": "Toshi-chan from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/374394.jpg?s=971ddedb261985b373e01b03a98a5f55"
+  },
+  {
+    "name": "Wendy",
+    "prompt": "Wendy from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/374397.jpg?s=d85c39e89bba1f693decd520ec15602c"
+  },
+  {
+    "name": "Winter Fairy",
+    "prompt": "Winter Fairy from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/374399.jpg?s=6314b9146480e9744ad0dd1fe24e480f"
+  },
+  {
+    "name": "Wishing Star",
+    "prompt": "Wishing Star from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/522565.jpg?s=abc9a4186104b01009a8c5cd4de4c8b3"
+  },
+  {
+    "name": "Yatsude",
+    "prompt": "Yatsude from Urusei Yatsura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/374403.jpg?s=b464f11c4ef74c7b79e63ca87a62578b"
+  }
+]

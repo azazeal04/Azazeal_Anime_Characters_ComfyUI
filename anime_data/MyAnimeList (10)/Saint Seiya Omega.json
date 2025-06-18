@@ -1,0 +1,537 @@
+[
+  {
+    "name": "Aquila, Yuna",
+    "prompt": "Aquila, Yuna from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/204673.jpg?s=d41863c5c9ae6bd4d51e4be3e6556960"
+  },
+  {
+    "name": "Dragon, Ryuuhou",
+    "prompt": "Dragon, Ryuuhou from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/166565.jpg?s=2713610a537ab9d6c0569dab06d4964c"
+  },
+  {
+    "name": "Equuleus, Subaru",
+    "prompt": "Equuleus, Subaru from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/224595.jpg?s=caaacb27f54bc85f611a83ec73e40089"
+  },
+  {
+    "name": "Lionet, Souma",
+    "prompt": "Lionet, Souma from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/158345.jpg?s=cb1f72bcd0bcb9605ac7b133ba190550"
+  },
+  {
+    "name": "Orion, Eden",
+    "prompt": "Orion, Eden from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/254099.jpg?s=ae302154ee86c57af08804dd205e23c6"
+  },
+  {
+    "name": "Pegasus, Kouga",
+    "prompt": "Pegasus, Kouga from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/204677.jpg?s=38a22260597c7771752dea59058d4e3e"
+  },
+  {
+    "name": "Wolf, Haruto",
+    "prompt": "Wolf, Haruto from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/225513.jpg?s=d278b78e8047361e3272db6949553b65"
+  },
+  {
+    "name": "Abzu",
+    "prompt": "Abzu from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/226927.jpg?s=63a153fc09b82fa9b532e99768a0ad0a"
+  },
+  {
+    "name": "Alchemy Glove, Mira",
+    "prompt": "Alchemy Glove, Mira from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/294888.jpg?s=128550730e8597bffb28d8c627a747ee"
+  },
+  {
+    "name": "Andromeda, Shun",
+    "prompt": "Andromeda, Shun from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/74120.jpg?s=b3bd29653ac48b9102f847ac35ef403e"
+  },
+  {
+    "name": "Ann",
+    "prompt": "Ann from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/291670.jpg?s=c7b1f8569d3d1497253a6e8df11c4c49"
+  },
+  {
+    "name": "Ant, Radzinsky",
+    "prompt": "Ant, Radzinsky from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/291671.jpg?s=5d78333b6ba462a7fcdcfd92409ac046"
+  },
+  {
+    "name": "Appendix, Raki",
+    "prompt": "Appendix, Raki from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/237917.jpg?s=3bf5458f25c2e7461a46a4773bd67ebf"
+  },
+  {
+    "name": "Aquarius, Tokisada",
+    "prompt": "Aquarius, Tokisada from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/225141.jpg?s=dac6464bd37730e5561f97ed46526fab"
+  },
+  {
+    "name": "Aria",
+    "prompt": "Aria from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/212065.jpg?s=6112a593def61d72dc46704e05981546"
+  },
+  {
+    "name": "Aries, Kiki",
+    "prompt": "Aries, Kiki from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/290865.jpg?s=7f5b2191072c21f96ec09d638067a0b7"
+  },
+  {
+    "name": "Asamori, Dr.",
+    "prompt": "Asamori, Dr. from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/290912.jpg?s=f57b40129aabac605f58f0456c98c765"
+  },
+  {
+    "name": "Auriga, Almaaz",
+    "prompt": "Auriga, Almaaz from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/291672.jpg?s=bb689fc53771af74a3776d1483b62dee"
+  },
+  {
+    "name": "Bacchus",
+    "prompt": "Bacchus from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/291673.jpg?s=465b8cbd910a0f1dfecd4b23ae46819f"
+  },
+  {
+    "name": "Bear, Geki",
+    "prompt": "Bear, Geki from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/101507.jpg?s=ac2f26c60d393a5165881bfe7cf03655"
+  },
+  {
+    "name": "Boötes, Bayer",
+    "prompt": "Boötes, Bayer from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/291898.jpg?s=3471d3bfe7d716e7985686b668ca7917"
+  },
+  {
+    "name": "Caelum, Michelangelo",
+    "prompt": "Caelum, Michelangelo from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/291681.jpg?s=98ef827cdfbd0143bb7d35ea14dbad0d"
+  },
+  {
+    "name": "Camelopardalis, Bartsch",
+    "prompt": "Camelopardalis, Bartsch from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/291817.jpg?s=e6db437c171876d7309ea04aabf2a6c9"
+  },
+  {
+    "name": "Cancer, Schiller",
+    "prompt": "Cancer, Schiller from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/225109.jpg?s=30a1a982611bda0dfe26f717dedf362c"
+  },
+  {
+    "name": "Capricorn, Ionia",
+    "prompt": "Capricorn, Ionia from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/224429.jpg?s=30727dcf4ee8709ab916e737aa977dd6"
+  },
+  {
+    "name": "Cerberus, Dorer",
+    "prompt": "Cerberus, Dorer from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/291682.jpg?s=68ff3bae0bbc67d3f11d865cf416bb70"
+  },
+  {
+    "name": "Chakram, Europa",
+    "prompt": "Chakram, Europa from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/243811.jpg?s=e4250749e82185f10f8df1c59729c991"
+  },
+  {
+    "name": "Claw, Methone",
+    "prompt": "Claw, Methone from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/294642.jpg?s=704db99fcf0be8cf0a40a9f68d04d515"
+  },
+  {
+    "name": "Claw, Ymir",
+    "prompt": "Claw, Ymir from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/577671.jpg?s=f2059c53fda92ac5392b399fd9028841"
+  },
+  {
+    "name": "Columba, Gray",
+    "prompt": "Columba, Gray from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/572564.jpg?s=14ef1092766dcff158ee70ace6617a36"
+  },
+  {
+    "name": "Compass, Hooke",
+    "prompt": "Compass, Hooke from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/291683.jpg?s=3f0fa50a8e3943e3a2dc03bbb11066f5"
+  },
+  {
+    "name": "Crane, Komachi",
+    "prompt": "Crane, Komachi from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/296813.jpg?s=01537b32416a7272ff1b3ac3d22a33b5"
+  },
+  {
+    "name": "Crow, Johann",
+    "prompt": "Crow, Johann from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/291684.jpg?s=0f37719aa6aebe438c11fe8c751cd29c"
+  },
+  {
+    "name": "Cygnus, Hyouga",
+    "prompt": "Cygnus, Hyouga from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/73686.jpg?s=e1d353fed2a4d2820407b872e458ed8b"
+  },
+  {
+    "name": "Daggers, Hati",
+    "prompt": "Daggers, Hati from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/291897.jpg?s=c75a827c07fe5848eae1e49c4a111ba7"
+  },
+  {
+    "name": "Daichi",
+    "prompt": "Daichi from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/127427.jpg?s=d22e8eb41b87b7f03f788bc903daf35a"
+  },
+  {
+    "name": "Death Scythe, Cyllene",
+    "prompt": "Death Scythe, Cyllene from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/291685.jpg?s=bea3e7d8e3368022c76cb71f8413adfe"
+  },
+  {
+    "name": "Death Scythe, Greip",
+    "prompt": "Death Scythe, Greip from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/291818.jpg?s=e98ccc860be883424a9703902db5c3fb"
+  },
+  {
+    "name": "Delphinus, Güney",
+    "prompt": "Delphinus, Güney from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/291686.jpg?s=4414b569ee60399b638846f32822e7ef"
+  },
+  {
+    "name": "Diana",
+    "prompt": "Diana from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/291687.jpg?s=d5496c55e4147ecebe4f984d0928e65d"
+  },
+  {
+    "name": "Dorado, Spear",
+    "prompt": "Dorado, Spear from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/572565.jpg?s=29a4caa821b9fe8849611576e87a3efb"
+  },
+  {
+    "name": "Dragon, Shiryuu",
+    "prompt": "Dragon, Shiryuu from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/73690.jpg?s=340f46ce20e67f987dec73d7402802b1"
+  },
+  {
+    "name": "Emma",
+    "prompt": "Emma from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/275246.jpg?s=77d40df4885da879b605e9cc3f6f1c0f"
+  },
+  {
+    "name": "Equuleus, Celeris",
+    "prompt": "Equuleus, Celeris from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/291814.jpg?s=58f5b2d545e4b58bedca3fb132ccf496"
+  },
+  {
+    "name": "Equuleus, Kitalpha",
+    "prompt": "Equuleus, Kitalpha from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/291815.jpg?s=c42e42f4ee6ff83f41d74ee8d94acf69"
+  },
+  {
+    "name": "Erna",
+    "prompt": "Erna from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/291813.jpg?s=1bf42a9c4ca2eb64294e739135d682be"
+  },
+  {
+    "name": "Gae Bolg, Rhea",
+    "prompt": "Gae Bolg, Rhea from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/295163.jpg?s=65ae953be62919fdfdc83ce78c62e340"
+  },
+  {
+    "name": "Gauntlet, Aegir",
+    "prompt": "Gauntlet, Aegir from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/290927.jpg?s=8bbc7f03dc8ecddc735e274639867a8c"
+  },
+  {
+    "name": "Gemini, Paradox",
+    "prompt": "Gemini, Paradox from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/198347.jpg?s=2156628a43a009a168deb30a2da5419c"
+  },
+  {
+    "name": "Gemini, Integra",
+    "prompt": "Gemini, Integra from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/225297.jpg?s=a9905a23ab618e868a484d9b6e1d5dc3"
+  },
+  {
+    "name": "Georges",
+    "prompt": "Georges from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/291816.jpg?s=9901306b230afbc868e78463aa3c4976"
+  },
+  {
+    "name": "Great Sword Tenjinsoseiken, Titan",
+    "prompt": "Great Sword Tenjinsoseiken, Titan from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/225151.jpg?s=9036cdb5c889fef8d73533810f3e406c"
+  },
+  {
+    "name": "Hammer Demon Impact, Thebe",
+    "prompt": "Hammer Demon Impact, Thebe from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/296810.jpg?s=87460fa4465d640740ab532eb77ff302"
+  },
+  {
+    "name": "Holy Sword Bushinkorinken, Gallia",
+    "prompt": "Holy Sword Bushinkorinken, Gallia from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/290924.jpg?s=5ad5f053fd26f29ceeebb3c7d5b9d69f"
+  },
+  {
+    "name": "Holy Sword Jubakuraizanba, Aegaeon",
+    "prompt": "Holy Sword Jubakuraizanba, Aegaeon from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/290923.jpg?s=a5d1abcd97c3a2c1a39142bfe4c67322"
+  },
+  {
+    "name": "Holy Sword Tenchihometsuzan, Hyperion",
+    "prompt": "Holy Sword Tenchihometsuzan, Hyperion from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/225389.jpg?s=fc066cf492226cb1da80426fea0f54cd"
+  },
+  {
+    "name": "Hound, Miguel",
+    "prompt": "Hound, Miguel from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/291899.jpg?s=83659adba3841793b127a87c926dcaa7"
+  },
+  {
+    "name": "Hydra, Ichi",
+    "prompt": "Hydra, Ichi from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/102449.jpg?s=83a0e9f8a0f957435fd7d25b496b3aa8"
+  },
+  {
+    "name": "Kelly",
+    "prompt": "Kelly from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/291900.jpg?s=cbf60ec60e8f8ef7712cf4162c1ef396"
+  },
+  {
+    "name": "Kido, Saori",
+    "prompt": "Kido, Saori from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/291537.jpg?s=04f1019d512c2c668ffd9d057c5c07ec"
+  },
+  {
+    "name": "Leo, Mycene",
+    "prompt": "Leo, Mycene from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/224745.jpg?s=bdece4b6294759a5e35e5be50ae16fc9"
+  },
+  {
+    "name": "Lepus , Arne",
+    "prompt": "Lepus , Arne from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/296860.jpg?s=3ab16a4b48d57dbc90b9456cd57a22e4"
+  },
+  {
+    "name": "Libra, Douko",
+    "prompt": "Libra, Douko from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/120339.jpg?s=83bc56f4c7d0c3d850cc1914494c6130"
+  },
+  {
+    "name": "Libra, Genbu",
+    "prompt": "Libra, Genbu from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/228671.jpg?s=c950c14ce28f8d0e0311243f7714d7bd"
+  },
+  {
+    "name": "Lionet, Ban",
+    "prompt": "Lionet, Ban from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/101508.jpg?s=a8a498202b7c3956a08cc676d21cd69f"
+  },
+  {
+    "name": "Lynx , Mirapolos",
+    "prompt": "Lynx , Mirapolos from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/293956.jpg?s=882ecbfcc5ac48e1e28b42b2ae88b7d7"
+  },
+  {
+    "name": "Mantis , Ordykia",
+    "prompt": "Mantis , Ordykia from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/293957.jpg?s=3ba5b95b3a70fe28400953d8dcbef313"
+  },
+  {
+    "name": "Mars",
+    "prompt": "Mars from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/160687.jpg?s=f302bf18852e05e8baf0f9ddb0250cd2"
+  },
+  {
+    "name": "Medea",
+    "prompt": "Medea from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/225143.jpg?s=b97e6da9f4dcfa44492ebbf116652ce4"
+  },
+  {
+    "name": "Mirfak, Perseus",
+    "prompt": "Mirfak, Perseus from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/295138.jpg?s=17a054d6c3232561769bc84f82791b1a"
+  },
+  {
+    "name": "Misha",
+    "prompt": "Misha from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/294889.jpg?s=084a5937ebce74283dc992f9b9603018"
+  },
+  {
+    "name": "Morning Star Star Crusher, Tarvos",
+    "prompt": "Morning Star Star Crusher, Tarvos from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/296809.jpg?s=ab020b11d65f319b2afddadfc89ec665"
+  },
+  {
+    "name": "Musca, Fly",
+    "prompt": "Musca, Fly from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/294890.jpg?s=ec063889874ac91ba7f1cb2c9b97f968"
+  },
+  {
+    "name": "Mystic Stone, Surt",
+    "prompt": "Mystic Stone, Surt from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/296808.jpg?s=306bc76ce7ca016f63445185b2fafceb"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/242675.jpg?s=88742ee8c19f76432714b5b99010b113"
+  },
+  {
+    "name": "Ophiuchus, Shaina",
+    "prompt": "Ophiuchus, Shaina from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/371480.jpg?s=16b909b9292dffc5841b8646b4dbcf0d"
+  },
+  {
+    "name": "Pallas",
+    "prompt": "Pallas from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/225781.jpg?s=17682e4f245045a6df144d00ba1a79be"
+  },
+  {
+    "name": "Paul",
+    "prompt": "Paul from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/295137.jpg?s=787f2ea872982e78edde25994ca52f55"
+  },
+  {
+    "name": "Peacock, Pavlin",
+    "prompt": "Peacock, Pavlin from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/236977.jpg?s=8df1bbe13ae6a59ea2d3084da4702c69"
+  },
+  {
+    "name": "Pegasus, Seiya",
+    "prompt": "Pegasus, Seiya from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/209321.jpg?s=33121e32e1fb32edd94f94053ffa7ed3"
+  },
+  {
+    "name": "Phillip",
+    "prompt": "Phillip from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/295139.jpg?s=987bf58ccda81a01065055203a57aaad"
+  },
+  {
+    "name": "Phoenix, Ikki",
+    "prompt": "Phoenix, Ikki from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/253759.jpg?s=df9a69ff03365fc0e2cdfbd09d5bf986"
+  },
+  {
+    "name": "Pisces, Amor",
+    "prompt": "Pisces, Amor from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/226447.jpg?s=3657d878562cc73f47a826793bb5d4b1"
+  },
+  {
+    "name": "Rei",
+    "prompt": "Rei from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/295140.jpg?s=03d89dd5e703cc99467cc8510d1d4bc8"
+  },
+  {
+    "name": "Reticulum, Balazo",
+    "prompt": "Reticulum, Balazo from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/295141.jpg?s=8c5369f15ad7384b6a8130bf6b33966f"
+  },
+  {
+    "name": "Rine",
+    "prompt": "Rine from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/296642.jpg?s=68db49fc7abbd95571c2fbbc33d0df37"
+  },
+  {
+    "name": "Romulus",
+    "prompt": "Romulus from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/295164.jpg?s=2dfd89365c142fa0cc3a60814fcb01a9"
+  },
+  {
+    "name": "Sagitta, Sham",
+    "prompt": "Sagitta, Sham from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/295165.jpg?s=0352eec359c198beb594b0eb29624c7a"
+  },
+  {
+    "name": "Scorpio, Sonia",
+    "prompt": "Scorpio, Sonia from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/433195.jpg?s=eae036d6d6c1014a5306662c40df68b2"
+  },
+  {
+    "name": "Scutum, Ennead",
+    "prompt": "Scutum, Ennead from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/295166.jpg?s=e889bf68bc25c10a6305b62d5144daa2"
+  },
+  {
+    "name": "Selene",
+    "prompt": "Selene from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/295167.jpg?s=5e07ba082d057eabe78bc8c5fe2e7027"
+  },
+  {
+    "name": "Sho",
+    "prompt": "Sho from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/127431.jpg?s=2b314f6c4761520117e9cbe1970e0b81"
+  },
+  {
+    "name": "Shunrei",
+    "prompt": "Shunrei from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/290955.jpg?s=46238f951f6065b6329609a430c95349"
+  },
+  {
+    "name": "Southern Cross, Kazuma",
+    "prompt": "Southern Cross, Kazuma from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/290926.jpg?s=390c369fa973493f6a8a7c248a354365"
+  },
+  {
+    "name": "Spear Brionac, Loge",
+    "prompt": "Spear Brionac, Loge from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/291905.jpg?s=7fb78ab5e08654e5a276c15b9a4b3aec"
+  },
+  {
+    "name": "Tatsumi, Tokumaru",
+    "prompt": "Tatsumi, Tokumaru from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/290931.jpg?s=9895a95db93a37d636424b1a845e8c69"
+  },
+  {
+    "name": "Taurus, Harbinger",
+    "prompt": "Taurus, Harbinger from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/185109.jpg?s=5c44e4e09c06021c661b45d8832f6e95"
+  },
+  {
+    "name": "Triple Rod, Halimede",
+    "prompt": "Triple Rod, Halimede from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/291896.jpg?s=5c85a7c25b16b407e60a46309eca0a5b"
+  },
+  {
+    "name": "Unicorn, Jabu",
+    "prompt": "Unicorn, Jabu from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/125153.jpg?s=546c94ade981c71a4d810badb2a5a22b"
+  },
+  {
+    "name": "Ushio",
+    "prompt": "Ushio from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/127429.jpg?s=bf520a99a23840a2b38136ad99c1c783"
+  },
+  {
+    "name": "Virgo, Fudou",
+    "prompt": "Virgo, Fudou from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/195913.jpg?s=f2e0573b7a3cc80a67b5aebc36a6bcf1"
+  },
+  {
+    "name": "Volans, Argo",
+    "prompt": "Volans, Argo from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/245837.jpg?s=79727a0402a5fabd61fe5a48023d4133"
+  },
+  {
+    "name": "Vulcanus",
+    "prompt": "Vulcanus from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/296811.jpg?s=afbca9b86c94f464616cc2d55cbf3f2f"
+  },
+  {
+    "name": "Whip Snake Plasma, Dione",
+    "prompt": "Whip Snake Plasma, Dione from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/291688.jpg?s=13234ca782ec5a5c0557843edcc84936"
+  },
+  {
+    "name": "Wolf, Nachi",
+    "prompt": "Wolf, Nachi from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/290864.jpg?s=f6d708c02292e02b3990de4b7beed102"
+  },
+  {
+    "name": "Wolf, Yoshitomi",
+    "prompt": "Wolf, Yoshitomi from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/296812.jpg?s=749500852263f8b12a6ed82b417964fa"
+  },
+  {
+    "name": "Zenzo Morigakure, Masataka",
+    "prompt": "Zenzo Morigakure, Masataka from Saint Seiya Omega",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/294638.jpg?s=f12a86cf3236eceb439b1c20682c635e"
+  }
+]

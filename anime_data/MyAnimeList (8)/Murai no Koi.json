@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Murai",
+    "prompt": "Murai from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/538429.jpg?s=64002a4e7879af671860fe27563355ed"
+  },
+  {
+    "name": "Tanaka, Ayano",
+    "prompt": "Tanaka, Ayano from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/538427.jpg?s=a1f9793260108ab606e5437077b5dd12"
+  },
+  {
+    "name": "Disciple",
+    "prompt": "Disciple from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/585357.jpg?s=f7c1e1148ce1a63ed49f7e3a50897806"
+  },
+  {
+    "name": "Fukunaga, Yayoi",
+    "prompt": "Fukunaga, Yayoi from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/558521.jpg?s=3c4c0af45066f1534a3ab16b484fbb6e"
+  },
+  {
+    "name": "Fukunaga, Rei",
+    "prompt": "Fukunaga, Rei from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/585353.jpg?s=ad82bed8a7a3d2821ab127f409e1a0e8"
+  },
+  {
+    "name": "Furuya, Yuki",
+    "prompt": "Furuya, Yuki from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/585350.jpg?s=477c4063569e9bad99c5867a609de065"
+  },
+  {
+    "name": "Heart",
+    "prompt": "Heart from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/585361.jpg?s=41cadb1d010ee7e477adcd35aebcdcb6"
+  },
+  {
+    "name": "Hirai, Midori",
+    "prompt": "Hirai, Midori from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/585355.jpg?s=19754bb523431ad8587bea0f392bf5f1"
+  },
+  {
+    "name": "Hirai, Father",
+    "prompt": "Hirai, Father from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/585343.jpg?s=e2aca7af2769cde85fa3ba6ef8ddc933"
+  },
+  {
+    "name": "Hirai, Nozomu",
+    "prompt": "Hirai, Nozomu from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/585356.jpg?s=062fdc5159c1912a43f3191b96ae79bb"
+  },
+  {
+    "name": "Hirai",
+    "prompt": "Hirai from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/553771.jpg?s=267d0617de0bb3445ee662aa8f156c60"
+  },
+  {
+    "name": "Hitotose",
+    "prompt": "Hitotose from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/538428.jpg?s=490bef330d3571dc49b002cd82ff8302"
+  },
+  {
+    "name": "Kidney",
+    "prompt": "Kidney from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/585362.jpg?s=7e511063569421ecaa75d3321dfd6e9f"
+  },
+  {
+    "name": "Kiriyama, Naoko",
+    "prompt": "Kiriyama, Naoko from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/585354.jpg?s=004d90fd539e42401686f99d0538a6ed"
+  },
+  {
+    "name": "Kiriyama, Takafumi",
+    "prompt": "Kiriyama, Takafumi from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/585347.jpg?s=8ea43bdb9c1e7a4be15e7455e2d5c62d"
+  },
+  {
+    "name": "Kiriyama",
+    "prompt": "Kiriyama from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/553773.jpg?s=439f221a7878713adc44223e7b6b2221"
+  },
+  {
+    "name": "Liver",
+    "prompt": "Liver from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/585363.jpg?s=675d4e592d728519c0e4021c004964aa"
+  },
+  {
+    "name": "Lung",
+    "prompt": "Lung from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/585364.jpg?s=483ba4d2181d7171ce518418b0a5a05f"
+  },
+  {
+    "name": "Mizokami, Hiroshi",
+    "prompt": "Mizokami, Hiroshi from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/585344.jpg?s=464d5b6f3e5198d91db0212b30d4be02"
+  },
+  {
+    "name": "Murai, Yasutoshi",
+    "prompt": "Murai, Yasutoshi from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/585349.jpg?s=e71ac1172a6fad6f6a56f073b26dcda7"
+  },
+  {
+    "name": "Nakajima, Takaomi",
+    "prompt": "Nakajima, Takaomi from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/585348.jpg?s=cffde9da1b4d75da166bb5d88ff97752"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nishifuji, Hitomi",
+    "prompt": "Nishifuji, Hitomi from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/558520.jpg?s=4a054db807567543f9c56eb88d4d72a6"
+  },
+  {
+    "name": "Nishifuji, Yuka",
+    "prompt": "Nishifuji, Yuka from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/558519.jpg?s=05c1e6718cbb8216bb59b10cdbd44e7d"
+  },
+  {
+    "name": "Oosumi",
+    "prompt": "Oosumi from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/565037.jpg?s=73b82ed358385ff12c8e16c5f2713684"
+  },
+  {
+    "name": "Principal",
+    "prompt": "Principal from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/585360.jpg?s=eb0b9b28571564d11a43ece1b09c02aa"
+  },
+  {
+    "name": "Spleen",
+    "prompt": "Spleen from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/585365.jpg?s=b22df3ab048d1b3ca4d54b9ccf9187d1"
+  },
+  {
+    "name": "Tanaka, Mao",
+    "prompt": "Tanaka, Mao from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/585335.jpg?s=8fa405578dd3676725d99fdbec0acf69"
+  },
+  {
+    "name": "Tomioka, Seishiro",
+    "prompt": "Tomioka, Seishiro from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/585366.jpg?s=fc77d2c825d1884ea0dc1939b8e8e47b"
+  },
+  {
+    "name": "Tsutsumi, Kohei",
+    "prompt": "Tsutsumi, Kohei from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/585346.jpg?s=665daac4b9c48897d50f26c52ab92c93"
+  },
+  {
+    "name": "Vice Principal",
+    "prompt": "Vice Principal from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/585359.jpg?s=1c96b9d86f6b34186229cb40c5698ce7"
+  },
+  {
+    "name": "Yamada",
+    "prompt": "Yamada from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/585358.jpg?s=baa4462b44a8811f97a9cd442a6266fb"
+  },
+  {
+    "name": "Yamakado",
+    "prompt": "Yamakado from Murai no Koi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/553772.jpg?s=d37d260b6df3592ec812622cd4523539"
+  }
+]

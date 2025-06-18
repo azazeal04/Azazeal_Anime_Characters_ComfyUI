@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Aoki, Reika",
+    "prompt": "Aoki, Reika from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/155469.jpg?s=b66809d4c788031781f6f3dcce5e7923"
+  },
+  {
+    "name": "Candy",
+    "prompt": "Candy from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/203333.jpg?s=56e3ee2a29c57368405733753a6a3ba7"
+  },
+  {
+    "name": "Hino, Akane",
+    "prompt": "Hino, Akane from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/219331.jpg?s=88d81c3e51021347d18d7bd27d524a30"
+  },
+  {
+    "name": "Hoshizora, Miyuki",
+    "prompt": "Hoshizora, Miyuki from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/148429.jpg?s=d75fbc4ac0eaab6415c232c2e6b6fd1f"
+  },
+  {
+    "name": "Kise, Yayoi",
+    "prompt": "Kise, Yayoi from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/171851.jpg?s=1a8d08b5f2fa99557c0dddf8f7ec9cdb"
+  },
+  {
+    "name": "Midorikawa, Nao",
+    "prompt": "Midorikawa, Nao from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/254811.jpg?s=e2c36cd7b5cead793e4057e71104f277"
+  },
+  {
+    "name": "Akae, Tamao",
+    "prompt": "Akae, Tamao from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/235923.jpg?s=7bf5327c8315f4e965fb8d714b967b67"
+  },
+  {
+    "name": "Akanbes",
+    "prompt": "Akanbes from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/176853.jpg?s=51cd73ffc52070d0a924b4d47f46587b"
+  },
+  {
+    "name": "Akaoni",
+    "prompt": "Akaoni from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/158315.jpg?s=e032369b06a810424b5ddb68d3ef3b45"
+  },
+  {
+    "name": "Aoki, Shizuko",
+    "prompt": "Aoki, Shizuko from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/237695.jpg?s=7592e7e55db5387804eb9bc46c613a2a"
+  },
+  {
+    "name": "Aoki, Sotaro",
+    "prompt": "Aoki, Sotaro from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/237693.jpg?s=21508a166428bc56693f9c46cd02be74"
+  },
+  {
+    "name": "Aoki, Junnosuke",
+    "prompt": "Aoki, Junnosuke from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/237697.jpg?s=f27df387661d6585e917fdaefc44272f"
+  },
+  {
+    "name": "Bad End Beauty",
+    "prompt": "Bad End Beauty from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/237649.jpg?s=fd4212ea541a94a6c168316bdee0b1bd"
+  },
+  {
+    "name": "Bad End Happy",
+    "prompt": "Bad End Happy from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/237655.jpg?s=815af768261f3c9bb00b60468e083d61"
+  },
+  {
+    "name": "Bad End March",
+    "prompt": "Bad End March from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/237651.jpg?s=f81a444bcde875c69806f7fe0eda3297"
+  },
+  {
+    "name": "Bad End Peace",
+    "prompt": "Bad End Peace from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/237657.jpg?s=f0f6f622ff669557a8f9103509ba78e7"
+  },
+  {
+    "name": "Bad End Sunny",
+    "prompt": "Bad End Sunny from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/237647.jpg?s=ca886b16cabfdd3d83044acd76123a5b"
+  },
+  {
+    "name": "Director Fukazawa",
+    "prompt": "Director Fukazawa from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/237741.jpg?s=f65a5038be3de6abfb9f26238ce9c6db"
+  },
+  {
+    "name": "Emperor Pierrot",
+    "prompt": "Emperor Pierrot from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/237671.jpg?s=fcdcd119621a02684e8cb364d5817e4c"
+  },
+  {
+    "name": "Fujikawa, Ami",
+    "prompt": "Fujikawa, Ami from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/237699.jpg?s=6f1f094a660ac5a711a55db2694d93e9"
+  },
+  {
+    "name": "Hino, Masako",
+    "prompt": "Hino, Masako from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/237687.jpg?s=60ded6e1763503d6c252ec406124b6c6"
+  },
+  {
+    "name": "Hino, Daigo",
+    "prompt": "Hino, Daigo from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/237685.jpg?s=5e8208cc5e25fd99483559a98cb0a8fa"
+  },
+  {
+    "name": "Hino, Genki",
+    "prompt": "Hino, Genki from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/190950.jpg?s=3548f0a62987e828c337ffbbf387df1a"
+  },
+  {
+    "name": "Honda, Aya",
+    "prompt": "Honda, Aya from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/237701.jpg?s=491b1d453ca8674bcaec4d1f843cd4a6"
+  },
+  {
+    "name": "Horike-sensei",
+    "prompt": "Horike-sensei from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/237729.jpg?s=076eb22e06e7503e2b5d7b65d6ce588a"
+  },
+  {
+    "name": "Hoshizora, Hiroshi",
+    "prompt": "Hoshizora, Hiroshi from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/237681.jpg?s=a8bd83d5254799d2a30915a172c05cca"
+  },
+  {
+    "name": "Hoshizora, Ikuyo",
+    "prompt": "Hoshizora, Ikuyo from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/213013.jpg?s=b9b09f4154b3eff0af33322d12a6b9bb"
+  },
+  {
+    "name": "Hoshizora, Tae",
+    "prompt": "Hoshizora, Tae from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/237683.jpg?s=4f49c175d9762473454019d4d1ce31b5"
+  },
+  {
+    "name": "Inoue, Seiji",
+    "prompt": "Inoue, Seiji from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/237713.jpg?s=880e41ea36b4e37b41d25a0de4e4ef78"
+  },
+  {
+    "name": "Irie",
+    "prompt": "Irie from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/237731.jpg?s=e3ecf4454357b8ce3994f5713bfa7f48"
+  },
+  {
+    "name": "Joker",
+    "prompt": "Joker from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/158319.jpg?s=7b1c4b3ca62831542158da777953548e"
+  },
+  {
+    "name": "Kanemoto, Hiroko",
+    "prompt": "Kanemoto, Hiroko from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/237723.jpg?s=9647ed7333d4699538fecf023526ec74"
+  },
+  {
+    "name": "Kashimoto, Mayuka",
+    "prompt": "Kashimoto, Mayuka from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/237721.jpg?s=f1b7235f7778d47cc37e6f079352417a"
+  },
+  {
+    "name": "Kimura, Satoshi",
+    "prompt": "Kimura, Satoshi from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/237711.jpg?s=82b0b7625a23e60414052eaee597af15"
+  },
+  {
+    "name": "Kise, Chiharu",
+    "prompt": "Kise, Chiharu from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/237691.jpg?s=1e54591aa8a00d19eef5057d55a8131a"
+  },
+  {
+    "name": "Kise, Yuuichi",
+    "prompt": "Kise, Yuuichi from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/237689.jpg?s=5baa702c44ac7435965b9a613cb184af"
+  },
+  {
+    "name": "Kisumi, Mayumi",
+    "prompt": "Kisumi, Mayumi from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/237725.jpg?s=d61c0e2058c760a4b02558d1b651d11a"
+  },
+  {
+    "name": "Kitahara, Tomofumi",
+    "prompt": "Kitahara, Tomofumi from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/237715.jpg?s=6996892ab3c548ae3093ffd9b3a545dc"
+  },
+  {
+    "name": "Kurata",
+    "prompt": "Kurata from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/477961.jpg?s=4736aef4aeb1fafb5b9690d1caef96d3"
+  },
+  {
+    "name": "Majorina",
+    "prompt": "Majorina from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/158317.jpg?s=1ec2795288aef8a287471e69bc8a5092"
+  },
+  {
+    "name": "Midorikawa, Hina",
+    "prompt": "Midorikawa, Hina from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/190940.jpg?s=b04722a86e3f2a301c7de30dc7c3563b"
+  },
+  {
+    "name": "Midorikawa, Yuuta",
+    "prompt": "Midorikawa, Yuuta from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/190942.jpg?s=554081147ce3f4e3bb373836d8106423"
+  },
+  {
+    "name": "Midorikawa, Genji",
+    "prompt": "Midorikawa, Genji from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/237677.jpg?s=d3e9cb53d7dc856071fe78452954d4bd"
+  },
+  {
+    "name": "Midorikawa, Haru",
+    "prompt": "Midorikawa, Haru from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/190944.jpg?s=6299531e6e45aa41cfbbba9c4cd831d5"
+  },
+  {
+    "name": "Midorikawa, Keita",
+    "prompt": "Midorikawa, Keita from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/190946.jpg?s=92f3cff190e50bf2817836c6a43caa3e"
+  },
+  {
+    "name": "Midorikawa, Tomoko",
+    "prompt": "Midorikawa, Tomoko from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/237679.jpg?s=04cbe55d3e1015a30e74e0c6ef8c8564"
+  },
+  {
+    "name": "Midorikawa, Kouta",
+    "prompt": "Midorikawa, Kouta from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/190948.jpg?s=1586284a688ce9b643f9a117c51af540"
+  },
+  {
+    "name": "Munemoto, Shinya",
+    "prompt": "Munemoto, Shinya from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/237709.jpg?s=c6ba9367046efa033b356df2f1629a39"
+  },
+  {
+    "name": "Nogawa, Kenji",
+    "prompt": "Nogawa, Kenji from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/237707.jpg?s=e68be1f4468ca57db0f852d1424b9679"
+  },
+  {
+    "name": "Okada, Mayu",
+    "prompt": "Okada, Mayu from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/237717.jpg?s=6f56aaddfe9a44a7c9ef70079f8ab3a9"
+  },
+  {
+    "name": "Onoshiro, Kiyomi",
+    "prompt": "Onoshiro, Kiyomi from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/237719.jpg?s=d6ab8e1edba2f14546fec53e44756b10"
+  },
+  {
+    "name": "Policeman",
+    "prompt": "Policeman from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/288293.jpg?s=72bae080f165582ff117ade2f47205be"
+  },
+  {
+    "name": "Pop",
+    "prompt": "Pop from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/157533.jpg?s=3dd2a6503e595006d0b79a911cc7e04f"
+  },
+  {
+    "name": "Puss in Boots Fairy",
+    "prompt": "Puss in Boots Fairy from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/237739.jpg?s=a1f59f5049d2b231fab000bf8751aef0"
+  },
+  {
+    "name": "Royal Queen",
+    "prompt": "Royal Queen from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/237665.jpg?s=63c3845c9c680734f0dc60577ca565de"
+  },
+  {
+    "name": "Sasaki, Namie",
+    "prompt": "Sasaki, Namie from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/237923.jpg?s=3f165791b6817c02cd5a35f03c20ef72"
+  },
+  {
+    "name": "Smile-chan",
+    "prompt": "Smile-chan from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/237627.jpg?s=30f8e9d4fa48f0f5b10d05ec01d15d76"
+  },
+  {
+    "name": "Taylor, Brian",
+    "prompt": "Taylor, Brian from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/185361.jpg?s=3f019c55bb74704278fcd772c8ac75b5"
+  },
+  {
+    "name": "Terada, Runa",
+    "prompt": "Terada, Runa from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/237733.jpg?s=4dd18cd8c1134f161e4458e7e1fb4ff8"
+  },
+  {
+    "name": "Toyoshima, Hidekazu",
+    "prompt": "Toyoshima, Hidekazu from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/237779.jpg?s=6bd3d8bbd604293270b070b9d15b8ceb"
+  },
+  {
+    "name": "Waki, Daisuke",
+    "prompt": "Waki, Daisuke from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/237703.jpg?s=92338ff2351b611f4fd621e1f8fb64f1"
+  },
+  {
+    "name": "Wolfrun",
+    "prompt": "Wolfrun from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/158313.jpg?s=0ad7d5480428461018dd94fc1eee2b91"
+  },
+  {
+    "name": "Yura",
+    "prompt": "Yura from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/237735.jpg?s=6004ed3742e81b5c6cbcf6e5f3335624"
+  },
+  {
+    "name": "Yura's Mother",
+    "prompt": "Yura's Mother from Smile Precure!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/237737.jpg?s=81d663245afa213d1df1240e0e105202"
+  }
+]

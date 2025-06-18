@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Mimiko",
+    "prompt": "Mimiko from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/491571.jpg?s=66cd7304ee1d688865c50558fb1bf584"
+  },
+  {
+    "name": "Pan-chan",
+    "prompt": "Pan-chan from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/294923.jpg?s=53cc1e615eaff13c8779c38374e785ac"
+  },
+  {
+    "name": "Papanda",
+    "prompt": "Papanda from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/171227.jpg?s=2955dcd892636b29df1e1033ef956a13"
+  },
+  {
+    "name": "Assistant",
+    "prompt": "Assistant from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Circus Arranger",
+    "prompt": "Circus Arranger from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/294917.jpg?s=8501655d3434a83336f07ba3e03819f7"
+  },
+  {
+    "name": "Food Vendor",
+    "prompt": "Food Vendor from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/294907.jpg?s=369ee26a01c94c4f9cf901c3dbf1dccc"
+  },
+  {
+    "name": "Friend A",
+    "prompt": "Friend A from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/294915.jpg?s=b09a6afc28e65a4fcf5aa5b78735cb3a"
+  },
+  {
+    "name": "Friend B",
+    "prompt": "Friend B from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/294916.jpg?s=633d76a3556a4644d8a94719feaa2117"
+  },
+  {
+    "name": "Lackey",
+    "prompt": "Lackey from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/294913.jpg?s=04f6f7ee77edf3c38d6821c2587b5ffc"
+  },
+  {
+    "name": "Mimiko's Grandmother",
+    "prompt": "Mimiko's Grandmother from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/294905.jpg?s=fee73351de8d42ccbc3bfd28bf720aeb"
+  },
+  {
+    "name": "Policeman",
+    "prompt": "Policeman from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/294909.jpg?s=156ccd0e83ae1a9039ade29bdc2291f2"
+  },
+  {
+    "name": "Ringmaster",
+    "prompt": "Ringmaster from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/294912.jpg?s=23eb5bf49b56e2ea5a75fe4a1c66f420"
+  },
+  {
+    "name": "Store Clerk",
+    "prompt": "Store Clerk from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/294908.jpg?s=a0dd6f25971bb0c2307a17b4561e1f0c"
+  },
+  {
+    "name": "Teacher",
+    "prompt": "Teacher from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/294910.jpg?s=1e5e582111430b354b9ee917f91027b7"
+  },
+  {
+    "name": "Tiny",
+    "prompt": "Tiny from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/294914.jpg?s=a29d97e32d781ccc5aa9406bf4a19216"
+  },
+  {
+    "name": "Train Conductor",
+    "prompt": "Train Conductor from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/294906.jpg?s=be899784354519ad3015c1142d4fb9ec"
+  },
+  {
+    "name": "Worker 1",
+    "prompt": "Worker 1 from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Zookeeper",
+    "prompt": "Zookeeper from Panda Kopanda",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/294911.jpg?s=8c92b86cf4bc8347985d8b95bd1f70ac"
+  }
+]

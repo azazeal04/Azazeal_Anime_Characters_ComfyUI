@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Asakura",
+    "prompt": "Asakura from Ishida to Asakura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/191714.jpg?s=936500e604165a97d4041b91d490afca"
+  },
+  {
+    "name": "Ishida",
+    "prompt": "Ishida from Ishida to Asakura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/191712.jpg?s=9f1c9ecd4b7985d3cc45d1a4285cae7a"
+  },
+  {
+    "name": "Kinoshita",
+    "prompt": "Kinoshita from Ishida to Asakura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/191706.jpg?s=bcce6a039f4865a0b4f3dd51c7320c31"
+  },
+  {
+    "name": "Kinoshita, Nanako",
+    "prompt": "Kinoshita, Nanako from Ishida to Asakura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/193417.jpg?s=6bc6972cd8b340747182701e0619d963"
+  },
+  {
+    "name": "Oppai-seijin",
+    "prompt": "Oppai-seijin from Ishida to Asakura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/200149.jpg?s=74f8eacf51f8c1790d0068096ee77797"
+  },
+  {
+    "name": "Satou",
+    "prompt": "Satou from Ishida to Asakura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/192821.jpg?s=70961821cf25788290fea3e766fc1204"
+  },
+  {
+    "name": "Tenchou",
+    "prompt": "Tenchou from Ishida to Asakura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/199329.jpg?s=a730e4b8ef696198edc1499c593e1b67"
+  },
+  {
+    "name": "Yamada",
+    "prompt": "Yamada from Ishida to Asakura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/191708.jpg?s=579dbc5d1d49c8df159a30ad1a5ca1dc"
+  },
+  {
+    "name": "Yamada, Sister",
+    "prompt": "Yamada, Sister from Ishida to Asakura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/199281.jpg?s=11f4275eb5521adbe564e0d45f6fd74c"
+  },
+  {
+    "name": "Yamaguchi",
+    "prompt": "Yamaguchi from Ishida to Asakura",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/195093.jpg?s=66277fb6d6633ef4761f5c0832c4fd0a"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Fana",
+    "prompt": "Fana from Gdleen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/147211.jpg?s=dee9823f6bed3513c10dd75b4533ef95"
+  },
+  {
+    "name": "Ryu",
+    "prompt": "Ryu from Gdleen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/147207.jpg?s=ab35762741f713dc565f52776514869d"
+  },
+  {
+    "name": "Catherine",
+    "prompt": "Catherine from Gdleen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/147219.jpg?s=25ca715fe555d82c9d48a3d71ebf95b9"
+  },
+  {
+    "name": "Doran",
+    "prompt": "Doran from Gdleen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/147215.jpg?s=a9448a910bc626f0a9ce30846a463151"
+  },
+  {
+    "name": "Governor",
+    "prompt": "Governor from Gdleen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/220985.jpg?s=0f3f3232836d5cc57c6e57e6d37d9641"
+  },
+  {
+    "name": "Karon",
+    "prompt": "Karon from Gdleen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/147213.jpg?s=4969f3bef22c54f50a74ded222d3338f"
+  },
+  {
+    "name": "MOS",
+    "prompt": "MOS from Gdleen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/147209.jpg?s=ada02ef9f5003d87785ee178b17c19de"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Gdleen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/147217.jpg?s=64d59339e6ec5b78b54e5326898e29f3"
+  }
+]

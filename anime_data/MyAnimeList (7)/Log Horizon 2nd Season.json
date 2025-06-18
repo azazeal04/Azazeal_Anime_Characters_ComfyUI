@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Akatsuki",
+    "prompt": "Akatsuki from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/200453.jpg?s=450b1d28dbc28685cc12d6286e186655"
+  },
+  {
+    "name": "Naotsugu",
+    "prompt": "Naotsugu from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/200455.jpg?s=3e158f9f8c9bc299c1a3857532a100b9"
+  },
+  {
+    "name": "Shiroe",
+    "prompt": "Shiroe from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/200451.jpg?s=5eba3ac55d8e773912e86c5266e3d889"
+  },
+  {
+    "name": "Akaneya, Ichimonjinosuke",
+    "prompt": "Akaneya, Ichimonjinosuke from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/292600.jpg?s=e65d29fee1f52d93f215ce0efbad57ab"
+  },
+  {
+    "name": "Aomori",
+    "prompt": "Aomori from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/566388.jpg?s=9a24f92bfb76eaa424ab62183531203c"
+  },
+  {
+    "name": "Arumi",
+    "prompt": "Arumi from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/293149.jpg?s=a673aa99cc68927e959e5e8717462c29"
+  },
+  {
+    "name": "Asuka",
+    "prompt": "Asuka from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/292597.jpg?s=07f0fdc08b1d8e15e6aea259c15b9407"
+  },
+  {
+    "name": "Azalea",
+    "prompt": "Azalea from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/293198.jpg?s=75c7cd83d47d39986e2007c90e7ce8c8"
+  },
+  {
+    "name": "Azuki-ko",
+    "prompt": "Azuki-ko from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/293101.jpg?s=0cecd8097a619ab1d77555731120917c"
+  },
+  {
+    "name": "Boss Bolognese",
+    "prompt": "Boss Bolognese from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/293108.jpg?s=a0b95dbd3d0bc118719809f7241e0e2c"
+  },
+  {
+    "name": "Camaysar",
+    "prompt": "Camaysar from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/293263.jpg?s=19ab390ab45f2994ad7bbe74929daa30"
+  },
+  {
+    "name": "Chika",
+    "prompt": "Chika from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/293126.jpg?s=287ff6c177a12041f7671de8f4738a14"
+  },
+  {
+    "name": "Chun-Lu",
+    "prompt": "Chun-Lu from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/293139.jpg?s=3ce78ffe1c024a1613fbbf2a241b5440"
+  },
+  {
+    "name": "Coppelia",
+    "prompt": "Coppelia from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/293244.jpg?s=4ed05aab1756da31a6a8f7fe04f4f0d8"
+  },
+  {
+    "name": "Corwen, Rayneshia El-Arte",
+    "prompt": "Corwen, Rayneshia El-Arte from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/241773.jpg?s=92239b2eb6de6f4088fae80c37291ef8"
+  },
+  {
+    "name": "Corwen, Serjiad",
+    "prompt": "Corwen, Serjiad from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/292586.jpg?s=27bfe6f7c06f37caab366b3bf9045e5c"
+  },
+  {
+    "name": "Corwen, Icelus El-Arde",
+    "prompt": "Corwen, Icelus El-Arde from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/292673.jpg?s=2369c2963b0b7cbf2425f087d939344c"
+  },
+  {
+    "name": "Daimonji",
+    "prompt": "Daimonji from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/293148.jpg?s=663f7690f7401d518063bb067a68e0a3"
+  },
+  {
+    "name": "Dariella",
+    "prompt": "Dariella from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/293246.jpg?s=3fc7bda5b751e93d503c77b554acaee5"
+  },
+  {
+    "name": "Dawn, Roreil",
+    "prompt": "Dawn, Roreil from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/293250.jpg?s=565b75f448e0101848d545aeb8987a14"
+  },
+  {
+    "name": "Demiqas",
+    "prompt": "Demiqas from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/292583.jpg?s=974383fed8c8871478f8fa67313cf452"
+  },
+  {
+    "name": "Dinkuron",
+    "prompt": "Dinkuron from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/293109.jpg?s=e63978679295d5ce2064b360ae7951f5"
+  },
+  {
+    "name": "Dolce",
+    "prompt": "Dolce from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/292581.jpg?s=dca675dcd1e194f8fae55160c41f38cd"
+  },
+  {
+    "name": "Eijiro",
+    "prompt": "Eijiro from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/293147.jpg?s=6a0ee4eed1d087f01d897fc00f791c7f"
+  },
+  {
+    "name": "Eins",
+    "prompt": "Eins from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/292580.jpg?s=9f16a97860eb0590f71b30d3be557472"
+  },
+  {
+    "name": "Elissa",
+    "prompt": "Elissa from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/293152.jpg?s=11f238d51cc851884840a3807eed7ac0"
+  },
+  {
+    "name": "Eltendiska",
+    "prompt": "Eltendiska from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/293110.jpg?s=893c5defe66656a01361b36b0cd4bfda"
+  },
+  {
+    "name": "Enkaatanto",
+    "prompt": "Enkaatanto from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/293111.jpg?s=0c53396527ac02662235a913c3c65992"
+  },
+  {
+    "name": "Federico",
+    "prompt": "Federico from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/293112.jpg?s=f3e470d9fe291b5c7b64940985fb3eb7"
+  },
+  {
+    "name": "Gan, Jered",
+    "prompt": "Gan, Jered from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/293145.jpg?s=077c9c3fc7dcbe795d08a986be2e0014"
+  },
+  {
+    "name": "Hackblade, Elias",
+    "prompt": "Hackblade, Elias from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/292676.jpg?s=c9a23cf69db600098f1f0f288a633953"
+  },
+  {
+    "name": "Haruharu",
+    "prompt": "Haruharu from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/549996.jpg?s=5b9a35b11ca391ab804fa07d5f0216ea"
+  },
+  {
+    "name": "Henrietta",
+    "prompt": "Henrietta from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/292573.jpg?s=03f2a447aa63202d39fce6cb78ccbfa4"
+  },
+  {
+    "name": "Hien",
+    "prompt": "Hien from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/225515.jpg?s=d35e608bd9829358902165fe0c96503b"
+  },
+  {
+    "name": "HighlandSky",
+    "prompt": "HighlandSky from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/293210.jpg?s=fcaa27ee73250a6a64cba4fcd776fe40"
+  },
+  {
+    "name": "Hisako",
+    "prompt": "Hisako from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/293127.jpg?s=a4f410d4559e16d984a3bc3adbb59547"
+  },
+  {
+    "name": "Indicus",
+    "prompt": "Indicus from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/292679.jpg?s=cda0742b8ce70f9ca1ae6c1480e66e69"
+  },
+  {
+    "name": "Isaac",
+    "prompt": "Isaac from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/292571.jpg?s=99c8e24a904a311bd5b73c05dcad630c"
+  },
+  {
+    "name": "Isami",
+    "prompt": "Isami from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/352697.jpg?s=27cfe1b1224941347b88c4570ab0b0f9"
+  },
+  {
+    "name": "Isuzu",
+    "prompt": "Isuzu from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/292690.jpg?s=33b8ad6b6c0d3d17cc982d52ab20e128"
+  },
+  {
+    "name": "Junzou",
+    "prompt": "Junzou from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/293114.jpg?s=4a446044dc2561261109a55ba9b22706"
+  },
+  {
+    "name": "Kanami",
+    "prompt": "Kanami from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/292794.jpg?s=531154af60eee1de915075c79de68331"
+  },
+  {
+    "name": "Karashin",
+    "prompt": "Karashin from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/292692.jpg?s=9b4ff6aebbb44c18ddcdfc61437a5183"
+  },
+  {
+    "name": "Katsuomaru",
+    "prompt": "Katsuomaru from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/293134.jpg?s=8a1ddc720df54957e10665841e00f3ca"
+  },
+  {
+    "name": "Kawara",
+    "prompt": "Kawara from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/352696.jpg?s=8539707926f3fdd763dd84e15c52dade"
+  },
+  {
+    "name": "Kazuhiko",
+    "prompt": "Kazuhiko from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/292681.jpg?s=50694643dd29840fec1a9ee4c91f34f4"
+  },
+  {
+    "name": "Kinjou",
+    "prompt": "Kinjou from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/292684.jpg?s=7582d9415220b1fb3c6ddf338c9c4b12"
+  },
+  {
+    "name": "Kitsunezaru",
+    "prompt": "Kitsunezaru from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/292662.jpg?s=33b978a97640ad9a11f78ba6762a4033"
+  },
+  {
+    "name": "Kode, Rundellhous",
+    "prompt": "Kode, Rundellhous from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/236651.jpg?s=ce84850f1f8f77bc66055c67dbe0dce3"
+  },
+  {
+    "name": "KR",
+    "prompt": "KR from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/292664.jpg?s=3e30aac006a87c42c3398dc54ede1b3a"
+  },
+  {
+    "name": "Krusty",
+    "prompt": "Krusty from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/292701.jpg?s=eccf685365b533fb045c619c76ce65d9"
+  },
+  {
+    "name": "Kurinon",
+    "prompt": "Kurinon from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/292665.jpg?s=ce417fc8f2819898373b56c6c1cdf09a"
+  },
+  {
+    "name": "Kyouko",
+    "prompt": "Kyouko from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/292669.jpg?s=1110e76fba777b23e7d0ed2b11a94d68"
+  },
+  {
+    "name": "Lasphere",
+    "prompt": "Lasphere from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/293160.jpg?s=bae19eec9563d5fb42f8f801cf83ecbe"
+  },
+  {
+    "name": "Leonardo",
+    "prompt": "Leonardo from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/292643.jpg?s=d345cf2d3b431e36ab33803acc6b7f9a"
+  },
+  {
+    "name": "Londark",
+    "prompt": "Londark from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/292795.jpg?s=17187bbc79a011ef35c55bc95c29f2af"
+  },
+  {
+    "name": "Lycopene",
+    "prompt": "Lycopene from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/293328.jpg?s=bc9c134da35a1bb90e5daf6ae10bdbe0"
+  },
+  {
+    "name": "Marielle",
+    "prompt": "Marielle from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/221845.jpg?s=193fcb1d8e94c49639a7f255c8181d19"
+  },
+  {
+    "name": "Massachusetts, William",
+    "prompt": "Massachusetts, William from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/226835.jpg?s=31e27cda7c3f4fc344587afbca09a3d8"
+  },
+  {
+    "name": "Michitaka",
+    "prompt": "Michitaka from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/292711.jpg?s=5be96a32071ea3a06665761bdbc97c2c"
+  },
+  {
+    "name": "Mikakage",
+    "prompt": "Mikakage from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/292645.jpg?s=c30eb0be3a4f95dff8e756e172572917"
+  },
+  {
+    "name": "Minori",
+    "prompt": "Minori from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/292713.jpg?s=efb8459975bd5f4c31e789400135de89"
+  },
+  {
+    "name": "Nakai, Kawatarou",
+    "prompt": "Nakai, Kawatarou from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/293115.jpg?s=2e71707b31d06c2f3725b330388fc5b3"
+  },
+  {
+    "name": "Nakarunado",
+    "prompt": "Nakarunado from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/293142.jpg?s=7b46d06097e3ef662b23ccf98e3abbba"
+  },
+  {
+    "name": "Nantakei@Akiba",
+    "prompt": "Nantakei@Akiba from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/293433.jpg?s=6ecac12394789930c01dc0876f61ff50"
+  },
+  {
+    "name": "Nazuna",
+    "prompt": "Nazuna from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/352681.jpg?s=382494483273904a4f55483da93ededc"
+  },
+  {
+    "name": "Nelreth, Enheart",
+    "prompt": "Nelreth, Enheart from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/293243.jpg?s=f1a9ccf672e609940d79a0105dc8fb03"
+  },
+  {
+    "name": "Nemimi",
+    "prompt": "Nemimi from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/293157.jpg?s=b11cec8a0e07a19b247b961ed825b0a2"
+  },
+  {
+    "name": "Nureha",
+    "prompt": "Nureha from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/292718.jpg?s=461824a987617096f5308f0b4f09a9dc"
+  },
+  {
+    "name": "Nyanta",
+    "prompt": "Nyanta from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/224103.jpg?s=63dcc7313b49aa23f8643baedf050896"
+  },
+  {
+    "name": "Odiso",
+    "prompt": "Odiso from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/293117.jpg?s=adfa513f74929ab61e68be8789a99a10"
+  },
+  {
+    "name": "Olive, Fragrant",
+    "prompt": "Olive, Fragrant from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/292648.jpg?s=9575f6143cd88e757721dd974a326140"
+  },
+  {
+    "name": "Papus",
+    "prompt": "Papus from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/293161.jpg?s=52aa2edbb0176b1f0cc647c41436dbae"
+  },
+  {
+    "name": "Pianississimo",
+    "prompt": "Pianississimo from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/293217.jpg?s=489dc6f2445138517e0bd4a961f9a449"
+  },
+  {
+    "name": "Pororoca",
+    "prompt": "Pororoca from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/293274.jpg?s=b820f0cfa8024b121f721fe755d95b93"
+  },
+  {
+    "name": "Prometheus",
+    "prompt": "Prometheus from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/293219.jpg?s=7367ad61210b21ad96020edb97d57d15"
+  },
+  {
+    "name": "Quon",
+    "prompt": "Quon from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/293143.jpg?s=76476735f8307e166b527f668f0d4e29"
+  },
+  {
+    "name": "Ragoumaru",
+    "prompt": "Ragoumaru from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/293220.jpg?s=6d553bac4ce3d2d846c84c46a03a2aa3"
+  },
+  {
+    "name": "Regan",
+    "prompt": "Regan from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/292721.jpg?s=dd19fe02be7d98bad43aa579313bd52c"
+  },
+  {
+    "name": "Rezarick",
+    "prompt": "Rezarick from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/292722.jpg?s=8397b8a02cecfe0e16602d515715bfea"
+  },
+  {
+    "name": "Richou",
+    "prompt": "Richou from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/292640.jpg?s=bf068a85345ac6592c59986380030025"
+  },
+  {
+    "name": "Rieze",
+    "prompt": "Rieze from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/292638.jpg?s=e285d7b5cf73f78e0ef79fa96ba7c0fd"
+  },
+  {
+    "name": "Roderick",
+    "prompt": "Roderick from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/232103.jpg?s=32ba8d9f9d8ae3b9afb95ea194afc271"
+  },
+  {
+    "name": "Roe2",
+    "prompt": "Roe2 from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/278221.jpg?s=cdba904ed852690a441f9b138fc7f60f"
+  },
+  {
+    "name": "Sandy",
+    "prompt": "Sandy from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/293128.jpg?s=957a5fb7dea0f1f8a786b85e6f54a51e"
+  },
+  {
+    "name": "Sasameyuki",
+    "prompt": "Sasameyuki from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/293222.jpg?s=6759f32fbe02c029133949ec45431d6d"
+  },
+  {
+    "name": "Seine",
+    "prompt": "Seine from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/293135.jpg?s=4ce41d4a056f0d0814d89cc227d7bd5c"
+  },
+  {
+    "name": "Serara",
+    "prompt": "Serara from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/292926.jpg?s=af6699e494750d4e097d2645c1b0db64"
+  },
+  {
+    "name": "Seta, Soujirou",
+    "prompt": "Seta, Soujirou from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/352685.jpg?s=74d2e6aae0c2c00f830054466dc5250c"
+  },
+  {
+    "name": "Shironiji",
+    "prompt": "Shironiji from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/293136.jpg?s=dfd34c1509332183fe195d0eab8da403"
+  },
+  {
+    "name": "Shouryuu",
+    "prompt": "Shouryuu from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/225539.jpg?s=e9bff0605e990c6af7ce526fc9080abb"
+  },
+  {
+    "name": "Shunichi",
+    "prompt": "Shunichi from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/549995.jpg?s=1b4609bdc00dd9577ca64b8534321a57"
+  },
+  {
+    "name": "Smash",
+    "prompt": "Smash from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/230359.jpg?s=9219f292cfd6b554ef40ca82f772946e"
+  },
+  {
+    "name": "Stroganopp",
+    "prompt": "Stroganopp from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/293133.jpg?s=7010857303c3c2a81375c883cd47304a"
+  },
+  {
+    "name": "Takayama, Misa",
+    "prompt": "Takayama, Misa from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/292733.jpg?s=e34234ac2e4af7d6169fb9999fcf7d9d"
+  },
+  {
+    "name": "Taliktan",
+    "prompt": "Taliktan from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/292650.jpg?s=5c425eebe7be663860d88e5ed75bf0c8"
+  },
+  {
+    "name": "Tatara",
+    "prompt": "Tatara from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/292652.jpg?s=58bd982155a0f5f739c60bb158c044d1"
+  },
+  {
+    "name": "Tetora",
+    "prompt": "Tetora from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/278216.jpg?s=ad9a3ca890ab1add673a7f98e2b26725"
+  },
+  {
+    "name": "Toshi",
+    "prompt": "Toshi from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/549997.jpg?s=edb9d68ab1fc21c94e282a4af5714f2e"
+  },
+  {
+    "name": "Touko",
+    "prompt": "Touko from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/293224.jpg?s=dca7d9cdb4cf06c809f0c6192edfb19f"
+  },
+  {
+    "name": "Touya",
+    "prompt": "Touya from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/292784.jpg?s=5bf4641988fce8991004d14513f9720e"
+  },
+  {
+    "name": "Towa",
+    "prompt": "Towa from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/293103.jpg?s=6fb17c8ddca97d52e5d4fecd7240a8c7"
+  },
+  {
+    "name": "Trude, Mizufa",
+    "prompt": "Trude, Mizufa from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/293144.jpg?s=7c3865b2ca70571a9fd6c736f7668251"
+  },
+  {
+    "name": "Ukiyo",
+    "prompt": "Ukiyo from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/293124.jpg?s=1011ad6dce06272e3d375f42da303c7d"
+  },
+  {
+    "name": "Upashi",
+    "prompt": "Upashi from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/292660.jpg?s=ab0ec2a9c6dbe82b198a6622fd44d71f"
+  },
+  {
+    "name": "Vuorinen",
+    "prompt": "Vuorinen from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/293125.jpg?s=7fbbfeabbef9d322ed437d72d338288e"
+  },
+  {
+    "name": "W, Woodstock",
+    "prompt": "W, Woodstock from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/292671.jpg?s=d61dd61aec013bcf75e082d3819c30c5"
+  },
+  {
+    "name": "Yaezakura",
+    "prompt": "Yaezakura from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/293104.jpg?s=62d5d71522e559ea15f4469b1b6c1778"
+  },
+  {
+    "name": "Yatama, Kushi",
+    "prompt": "Yatama, Kushi from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/293194.jpg?s=a3db91b0c37bf211294a88c65cf98136"
+  },
+  {
+    "name": "Yuta",
+    "prompt": "Yuta from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/293105.jpg?s=eeacde191451946fa59ff53b5256e2a3"
+  },
+  {
+    "name": "Yuzuko",
+    "prompt": "Yuzuko from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/293432.jpg?s=2546a5659bbfbe83950dae6f93f11094"
+  },
+  {
+    "name": "Zeldys",
+    "prompt": "Zeldys from Log Horizon 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/293141.jpg?s=373226d6aa392416a3d8279a44ebc954"
+  }
+]

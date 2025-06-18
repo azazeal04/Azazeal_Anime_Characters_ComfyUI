@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Keaton, Taichi",
+    "prompt": "Keaton, Taichi from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/118284.jpg?s=be9df009a24957eb05b9396e74814eff"
+  },
+  {
+    "name": "Akemi",
+    "prompt": "Akemi from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/590657.jpg?s=b02d524b68fc8ae326e024e93b81e449"
+  },
+  {
+    "name": "Alan",
+    "prompt": "Alan from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/590636.jpg?s=93fb8ce9146c5946bedf33466808a801"
+  },
+  {
+    "name": "Andy",
+    "prompt": "Andy from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/590790.jpg?s=3e5f86a488adf5a4018f99abf6531eac"
+  },
+  {
+    "name": "Anna's Mother",
+    "prompt": "Anna's Mother from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/590650.jpg?s=f43f8cd4866fa6e9a81de1037f5dd513"
+  },
+  {
+    "name": "Atkins",
+    "prompt": "Atkins from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/590793.jpg?s=200388cf6d33e61641bf89077f0e54a6"
+  },
+  {
+    "name": "Bayer, Ox",
+    "prompt": "Bayer, Ox from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/590639.jpg?s=b5cf05f76baad505f8ce23b90b453a6a"
+  },
+  {
+    "name": "Belnine, Flora",
+    "prompt": "Belnine, Flora from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/288722.jpg?s=c1849d6d61ff56911bc35efe94bdcbe5"
+  },
+  {
+    "name": "Belnine, Anna",
+    "prompt": "Belnine, Anna from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/590646.jpg?s=23be01e43f983c63e64fb9b665418a40"
+  },
+  {
+    "name": "Burnham, Jerry",
+    "prompt": "Burnham, Jerry from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/590689.jpg?s=5f752ed4cf55adf6d926a24d4c56d0f8"
+  },
+  {
+    "name": "Carmichael, Angus T.",
+    "prompt": "Carmichael, Angus T. from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/590826.jpg?s=d788e317eec532c83b8a59719db8f496"
+  },
+  {
+    "name": "Carol, Jack",
+    "prompt": "Carol, Jack from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/590672.jpg?s=9bd6861ad77eafa2a404ef4ba1cff1c4"
+  },
+  {
+    "name": "Chairwoman",
+    "prompt": "Chairwoman from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/590652.jpg?s=c921a619c91c4eb8e761b504d6348e95"
+  },
+  {
+    "name": "Chanbonne, Victor",
+    "prompt": "Chanbonne, Victor from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/590825.jpg?s=c6ef68eccfda952a89bfcfcfd40bc352"
+  },
+  {
+    "name": "Chapman, Charlie",
+    "prompt": "Chapman, Charlie from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/258141.jpg?s=488d4603a3b40092234be5ce6b0f2fb7"
+  },
+  {
+    "name": "Charlie's Mother",
+    "prompt": "Charlie's Mother from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/590679.jpg?s=600c11d3cd1d4849d49a957c3947f2ff"
+  },
+  {
+    "name": "Chen, Son-Rei",
+    "prompt": "Chen, Son-Rei from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/590694.jpg?s=4d14fbe48988d699764b76f57b7f8267"
+  },
+  {
+    "name": "Chen, Huk-Shu",
+    "prompt": "Chen, Huk-Shu from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/590693.jpg?s=92960d8a31f76b6ef7e6da12084b0b70"
+  },
+  {
+    "name": "Clara",
+    "prompt": "Clara from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/590711.jpg?s=0f1b682365192b6779cc5cd26bbcc094"
+  },
+  {
+    "name": "Connelly, Richard",
+    "prompt": "Connelly, Richard from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/590714.jpg?s=864c883af50b02740ca48a6615c2f5fd"
+  },
+  {
+    "name": "Costner",
+    "prompt": "Costner from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/590663.jpg?s=0da67d86056597f8694fdfaeb23094fb"
+  },
+  {
+    "name": "Davis",
+    "prompt": "Davis from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/590792.jpg?s=0cfdb12449b2e6fa1978fd30d620c9d0"
+  },
+  {
+    "name": "Donovan, Gerald",
+    "prompt": "Donovan, Gerald from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/590829.jpg?s=45813deb153e96107ddebe2cef3dcf4f"
+  },
+  {
+    "name": "Douglas",
+    "prompt": "Douglas from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/590662.jpg?s=449d4bc4f204ece4925721dcd2bab376"
+  },
+  {
+    "name": "Elmer, Kevin",
+    "prompt": "Elmer, Kevin from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/590715.jpg?s=e6e2078ddc516a8de7fe54f0dcff117c"
+  },
+  {
+    "name": "Eric",
+    "prompt": "Eric from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/590797.jpg?s=3785f48bfee6a7a2ac670500edbfdba5"
+  },
+  {
+    "name": "Fenders, Robert",
+    "prompt": "Fenders, Robert from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/590828.jpg?s=be28b0664390c229e144fd9ed689f4e0"
+  },
+  {
+    "name": "Fenders",
+    "prompt": "Fenders from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/590706.jpg?s=127fe5645e784bf4a374a37ea9d9e3aa"
+  },
+  {
+    "name": "Foster",
+    "prompt": "Foster from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/590806.jpg?s=061a073dbc0949486a4fbe6af3f80d33"
+  },
+  {
+    "name": "Franco",
+    "prompt": "Franco from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/590644.jpg?s=c9bc2d3177a22f06a4f2100eca9d5eff"
+  },
+  {
+    "name": "Funase, Shinsuke",
+    "prompt": "Funase, Shinsuke from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/339707.jpg?s=9659ebfe2463c13ac4aa08cde70716b5"
+  },
+  {
+    "name": "Galade",
+    "prompt": "Galade from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/590808.jpg?s=309780ea499b01eb691fa27389905c6d"
+  },
+  {
+    "name": "Garner",
+    "prompt": "Garner from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/590688.jpg?s=a4926829e2cb6e6622a6c31391940841"
+  },
+  {
+    "name": "Goldman, Doris",
+    "prompt": "Goldman, Doris from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/590695.jpg?s=c4f12283a91e60e2dcd469ff61a8a27b"
+  },
+  {
+    "name": "Goldman, Walter",
+    "prompt": "Goldman, Walter from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/590691.jpg?s=9a011c9cc34aa7a5ad800e3ba5b38bd6"
+  },
+  {
+    "name": "Gotrope",
+    "prompt": "Gotrope from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/590703.jpg?s=baa8923cd89881c2ec43a2202bbb6aad"
+  },
+  {
+    "name": "Greenpark",
+    "prompt": "Greenpark from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/590705.jpg?s=9ef111e2efe42c17de4c32e04fb617ba"
+  },
+  {
+    "name": "Hanna",
+    "prompt": "Hanna from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/590716.jpg?s=06d63b47889ad98b9e1fbcd3efde1ae6"
+  },
+  {
+    "name": "Heinrich",
+    "prompt": "Heinrich from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/590658.jpg?s=e87fa232534b9fb131c9f0c9ea6a452d"
+  },
+  {
+    "name": "Helen",
+    "prompt": "Helen from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/590804.jpg?s=03692451ab8b6367e561f1656315028e"
+  },
+  {
+    "name": "Helmina",
+    "prompt": "Helmina from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/590659.jpg?s=60603334b78988fcbba17af2a318e6f6"
+  },
+  {
+    "name": "Hermann",
+    "prompt": "Hermann from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/590803.jpg?s=81b9d75d814b7830368f0b78266f74aa"
+  },
+  {
+    "name": "Hiraga, Yuriko",
+    "prompt": "Hiraga, Yuriko from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/109049.jpg?s=a722ca5e4645c3460461f26d021baf16"
+  },
+  {
+    "name": "Hiraga, Taihei",
+    "prompt": "Hiraga, Taihei from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/255969.jpg?s=b16212a420d5b8e70e6f3aa803b4fdb2"
+  },
+  {
+    "name": "Hisayama, Fumio",
+    "prompt": "Hisayama, Fumio from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/590676.jpg?s=e26e52a18f7031e292e55b6467f59d1b"
+  },
+  {
+    "name": "Hunter",
+    "prompt": "Hunter from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/590713.jpg?s=839da5d025f43a637b6553b1ec9a5dbb"
+  },
+  {
+    "name": "John",
+    "prompt": "John from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/590643.jpg?s=56d4af056c00d6f6d7288dec174338d6"
+  },
+  {
+    "name": "Jonathan",
+    "prompt": "Jonathan from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/590799.jpg?s=c0df0fc64da853a8ae98d53603930b06"
+  },
+  {
+    "name": "Karl",
+    "prompt": "Karl from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/590802.jpg?s=2b5d4fda6c3ad61882cc7e77cb2e44ae"
+  },
+  {
+    "name": "Keaton, Patricia",
+    "prompt": "Keaton, Patricia from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/590666.jpg?s=cbe0f0d0128a13df35e9753a04b8dcce"
+  },
+  {
+    "name": "Kendall, Bruce",
+    "prompt": "Kendall, Bruce from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/590816.jpg?s=6e16c11bd43ac07bce15466246892402"
+  },
+  {
+    "name": "Klause",
+    "prompt": "Klause from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/590815.jpg?s=48c9d4c53c8ef877f0b847b5481d3070"
+  },
+  {
+    "name": "Kohl",
+    "prompt": "Kohl from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/590814.jpg?s=d6e8bb3145b64d488f3488b4497d7bda"
+  },
+  {
+    "name": "Lady Langley",
+    "prompt": "Lady Langley from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/590647.jpg?s=8a5cee2a6ceeb73a9e3fd666c9f52892"
+  },
+  {
+    "name": "Langley, Edward",
+    "prompt": "Langley, Edward from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/590653.jpg?s=69c841e1d7fb6e83856d19e1a02832a0"
+  },
+  {
+    "name": "Libero",
+    "prompt": "Libero from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/590795.jpg?s=4f8fb60c432d0df8a24324e0ed7ba986"
+  },
+  {
+    "name": "Lyman, Flora",
+    "prompt": "Lyman, Flora from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/291735.jpg?s=5b3a6737af6ffedb29e6f1c140a88b75"
+  },
+  {
+    "name": "MacRae, Ann",
+    "prompt": "MacRae, Ann from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/590824.jpg?s=b33b3031af012eee57dc36ffd69a73d5"
+  },
+  {
+    "name": "Malone",
+    "prompt": "Malone from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/590707.jpg?s=8fe85e430b20de78cb79285355c02209"
+  },
+  {
+    "name": "Marguerite",
+    "prompt": "Marguerite from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/590796.jpg?s=0799fd4674e8e546c6b4fe1899b23ce4"
+  },
+  {
+    "name": "Markus, David",
+    "prompt": "Markus, David from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/590637.jpg?s=7c75070081439a36008ef05d997694ca"
+  },
+  {
+    "name": "McBain",
+    "prompt": "McBain from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/590677.jpg?s=c79efe8d4aabb021a3205aebabf9e580"
+  },
+  {
+    "name": "Mikami",
+    "prompt": "Mikami from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/590788.jpg?s=675af86e6eb1414fc4e321cb971a36e6"
+  },
+  {
+    "name": "Moreau",
+    "prompt": "Moreau from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/590651.jpg?s=829a548beffe250dee6a7a86de58cc62"
+  },
+  {
+    "name": "Mr. Shinjou",
+    "prompt": "Mr. Shinjou from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/590660.jpg?s=88b2626e05a292ed6914ded0707be461"
+  },
+  {
+    "name": "Mrs. Belnine",
+    "prompt": "Mrs. Belnine from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/590645.jpg?s=996351e307cf1bacf375ba363a992045"
+  },
+  {
+    "name": "Mrs. Murata",
+    "prompt": "Mrs. Murata from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/485061.jpg?s=83dd734ba997854f6cee94103bfa65e1"
+  },
+  {
+    "name": "Mrs. Shinjou",
+    "prompt": "Mrs. Shinjou from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/590661.jpg?s=56abedd20410658ed228a48488760fdb"
+  },
+  {
+    "name": "Mrs. Takita",
+    "prompt": "Mrs. Takita from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/590664.jpg?s=bcefe143a349bb2a6745c1d7aabdbbb5"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "O'Connell, Daniel",
+    "prompt": "O'Connell, Daniel from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/436693.jpg?s=a2aad8f2f46d6bfbb9c104283fc9367b"
+  },
+  {
+    "name": "Otto",
+    "prompt": "Otto from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/590805.jpg?s=1c23a41ce97890b9f745616a8863ed63"
+  },
+  {
+    "name": "Papas, Leon",
+    "prompt": "Papas, Leon from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/590638.jpg?s=2abbb846cddd3e86a25758fe202e9c3f"
+  },
+  {
+    "name": "Pitock, Stuart",
+    "prompt": "Pitock, Stuart from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/590640.jpg?s=ccbdae483be63342fb7a5eeaed5b951f"
+  },
+  {
+    "name": "Plummer, Anna",
+    "prompt": "Plummer, Anna from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/515207.jpg?s=315bfac5de5cd2a9439f0d059a2d7833"
+  },
+  {
+    "name": "Powell",
+    "prompt": "Powell from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/590791.jpg?s=0cfef75e349d6b7d15bde7e1face336e"
+  },
+  {
+    "name": "Professor Amada",
+    "prompt": "Professor Amada from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/590794.jpg?s=fcd92adb49e4178a2c3404708ec26c3c"
+  },
+  {
+    "name": "Professor Benington",
+    "prompt": "Professor Benington from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/590810.jpg?s=6ad714d658cd360790946c119d991467"
+  },
+  {
+    "name": "Professor Stevens",
+    "prompt": "Professor Stevens from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/590787.jpg?s=accd27c25095a7e800a7b05f80616aa3"
+  },
+  {
+    "name": "Robert, Michael",
+    "prompt": "Robert, Michael from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/590827.jpg?s=06f0914c7467c3680409fe2503a8bd3c"
+  },
+  {
+    "name": "Roddy",
+    "prompt": "Roddy from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/590685.jpg?s=6a8d0536fc40a093944f322265d11b04"
+  },
+  {
+    "name": "Rosie",
+    "prompt": "Rosie from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/590708.jpg?s=22a9f117f4da1ff487a7ca6936df20e5"
+  },
+  {
+    "name": "Rupert",
+    "prompt": "Rupert from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/590798.jpg?s=1e2dad0bfff5f44d2f3ec920f4061e00"
+  },
+  {
+    "name": "Scott, Yuri",
+    "prompt": "Scott, Yuri from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/590655.jpg?s=fbfcc5d6b91821e64868817a5d6fca13"
+  },
+  {
+    "name": "Semionov, Andrei",
+    "prompt": "Semionov, Andrei from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/590654.jpg?s=f3bd0bbfcb8e4ffd878d5f752b4651a3"
+  },
+  {
+    "name": "Shinsuke's Father",
+    "prompt": "Shinsuke's Father from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/590811.jpg?s=20d6d0ca18c078dcb5ca6fe5173fd62d"
+  },
+  {
+    "name": "Shinsuke's Mother",
+    "prompt": "Shinsuke's Mother from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/590813.jpg?s=d2791430a48554e6fb7cddc4ff9265b5"
+  },
+  {
+    "name": "Shou",
+    "prompt": "Shou from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/590683.jpg?s=c41332e24981edee7adc822e8b46c9b0"
+  },
+  {
+    "name": "Shreider",
+    "prompt": "Shreider from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/590712.jpg?s=42d4a0e6a95a6c923b4aac1f4db2f3c9"
+  },
+  {
+    "name": "Sofia",
+    "prompt": "Sofia from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/224279.jpg?s=9cf65237a42e67cfae0ba9ed26bf9b93"
+  },
+  {
+    "name": "Stephane, William",
+    "prompt": "Stephane, William from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/590817.jpg?s=8b020eb341fe152861ea7246804a3e9f"
+  },
+  {
+    "name": "Takita, Shuuji",
+    "prompt": "Takita, Shuuji from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/590673.jpg?s=a51815ca2adcfcae949c7978c2ace9a7"
+  },
+  {
+    "name": "Takita, Kouzou",
+    "prompt": "Takita, Kouzou from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/590675.jpg?s=1869cc5608d3b41480ccef20e4c74eb5"
+  },
+  {
+    "name": "Teresa",
+    "prompt": "Teresa from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/590709.jpg?s=7e2782c63bcfd71aaca69d8458ab4cc5"
+  },
+  {
+    "name": "Thomas",
+    "prompt": "Thomas from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/590801.jpg?s=e278375a7b86927c61ddc8cb5c90fc31"
+  },
+  {
+    "name": "Tonio",
+    "prompt": "Tonio from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/590642.jpg?s=b379c8419d826a592df8d147970b703a"
+  },
+  {
+    "name": "Travis",
+    "prompt": "Travis from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/590809.jpg?s=4caf38eb609acf7f99924ba26802e7ff"
+  },
+  {
+    "name": "Walter",
+    "prompt": "Walter from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/590641.jpg?s=c09da4bcb95a164e0042f3eaffb0064d"
+  },
+  {
+    "name": "Webb",
+    "prompt": "Webb from Master Keaton",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/590807.jpg?s=d162f3d2d6e145ba0a1922cd7b38a0bf"
+  }
+]

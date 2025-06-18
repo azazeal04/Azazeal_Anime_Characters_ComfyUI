@@ -1,0 +1,597 @@
+[
+  {
+    "name": "Botan",
+    "prompt": "Botan from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/501624.jpg?s=5c27a3419155f8ebc9b40bae8d743611"
+  },
+  {
+    "name": "Hiei",
+    "prompt": "Hiei from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/76077.jpg?s=4940e2cbdbd28baf38f9b2276df9d461"
+  },
+  {
+    "name": "Kurama",
+    "prompt": "Kurama from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/58629.jpg?s=9b0f617d75c3e95e0aab8c526d284e88"
+  },
+  {
+    "name": "Kuwabara, Kazuma",
+    "prompt": "Kuwabara, Kazuma from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/96678.jpg?s=a08b6944802139344c249e9b1e476903"
+  },
+  {
+    "name": "Urameshi, Yuusuke",
+    "prompt": "Urameshi, Yuusuke from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/130535.jpg?s=a3f75c2216466ba2b59d77b1ddf3ddfe"
+  },
+  {
+    "name": "Akarenja",
+    "prompt": "Akarenja from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/469676.jpg?s=7c923f000e8f8f93dde47f01473cf9b6"
+  },
+  {
+    "name": "Akashi",
+    "prompt": "Akashi from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/76169.jpg?s=cabfdba37b3ad0e94768c316510f995d"
+  },
+  {
+    "name": "Amanuma, Tsukihito",
+    "prompt": "Amanuma, Tsukihito from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/94206.jpg?s=5fee90b721a68c1a66ef17623f99eb42"
+  },
+  {
+    "name": "Aorenja",
+    "prompt": "Aorenja from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/562806.jpg?s=46e098ee55a1a81a26a679173ae0fac3"
+  },
+  {
+    "name": "Ayame",
+    "prompt": "Ayame from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/222503.jpg?s=031ed059b839bbbbc3b109722400be53"
+  },
+  {
+    "name": "Bakken",
+    "prompt": "Bakken from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/76813.jpg?s=23608ad5ba1999e4e8b21165bfe8c9e4"
+  },
+  {
+    "name": "Baldok",
+    "prompt": "Baldok from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/76178.jpg?s=97fb5619e93ff75848dc38be2bfcd677"
+  },
+  {
+    "name": "Bui",
+    "prompt": "Bui from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/77347.jpg?s=23523a1530c995bea6a13dc630453009"
+  },
+  {
+    "name": "Butajiri",
+    "prompt": "Butajiri from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/76772.jpg?s=8b8979ea2f42c114c93f19bdfe5d6e69"
+  },
+  {
+    "name": "Byakko",
+    "prompt": "Byakko from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/76190.jpg?s=3abf0daed008c4c1a2f44453f95e6453"
+  },
+  {
+    "name": "Captain",
+    "prompt": "Captain from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/76045.jpg?s=77f7f6bbd3b25e1cc55fb891b8980a1c"
+  },
+  {
+    "name": "Chuu",
+    "prompt": "Chuu from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/44567.jpg?s=8b96cee4e93cacf99de35ee324cc673f"
+  },
+  {
+    "name": "Dr. Ichigaki",
+    "prompt": "Dr. Ichigaki from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/76228.jpg?s=956cb20f6836d35aaefabe643df6c5da"
+  },
+  {
+    "name": "Enki",
+    "prompt": "Enki from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/107326.jpg?s=936c22e7276d98067a9718924978c863"
+  },
+  {
+    "name": "Enma",
+    "prompt": "Enma from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/96887.jpg?s=a6cc79006cc5788ce54eb271f97ff23f"
+  },
+  {
+    "name": "Gama",
+    "prompt": "Gama from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/76812.jpg?s=1837e752ae7de70df972946340f2fc8d"
+  },
+  {
+    "name": "Genbu",
+    "prompt": "Genbu from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/76187.jpg?s=ed96e1f9910dd5eeb335d68d23611436"
+  },
+  {
+    "name": "Genkai",
+    "prompt": "Genkai from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/93626.jpg?s=4ea8afd4c82c9e5b175a4f1ec0b19846"
+  },
+  {
+    "name": "Gokumonki",
+    "prompt": "Gokumonki from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/76193.jpg?s=a39ab86361f695f1d1df8f9af4619900"
+  },
+  {
+    "name": "Gondawara, Sukezo",
+    "prompt": "Gondawara, Sukezo from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/79968.jpg?s=4ebde2bacf6f1ee321f8e3dafc838bba"
+  },
+  {
+    "name": "Gouki",
+    "prompt": "Gouki from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/76176.jpg?s=873a927069f3c7441e0d35dca0c5e26d"
+  },
+  {
+    "name": "Hagiri, Kaname",
+    "prompt": "Hagiri, Kaname from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/94213.jpg?s=48c176db05a60f9b3dfd70f995dcc83d"
+  },
+  {
+    "name": "Hatanaka, Shuichi",
+    "prompt": "Hatanaka, Shuichi from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/107316.jpg?s=d8680f15fe9683607b53a28ef327e7c1"
+  },
+  {
+    "name": "Hina",
+    "prompt": "Hina from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/107310.jpg?s=74cd15a10d83bc0163f5ea6aaa97cdd0"
+  },
+  {
+    "name": "Hokushin",
+    "prompt": "Hokushin from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/107296.jpg?s=a66243a9cc5ed9225e36734eecbedaeb"
+  },
+  {
+    "name": "Ice Maiden Elder",
+    "prompt": "Ice Maiden Elder from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/107309.jpg?s=9ce1c80897b7b99beea8dec7a940d474"
+  },
+  {
+    "name": "Inmaki",
+    "prompt": "Inmaki from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/76194.jpg?s=c5212c58af064a3f3d1704c5415e35a2"
+  },
+  {
+    "name": "Itsuki",
+    "prompt": "Itsuki from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/94143.jpg?s=475d4484c4a1ed7ee745ea9e662578fb"
+  },
+  {
+    "name": "Iwamoto",
+    "prompt": "Iwamoto from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/69828.jpg?s=0836ad2329c1d7c5b4c70c8eb7ba35f7"
+  },
+  {
+    "name": "Jin",
+    "prompt": "Jin from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/44568.jpg?s=c96cdc6c8b26556da99e0f35ec92f60c"
+  },
+  {
+    "name": "Juri",
+    "prompt": "Juri from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/76900.jpg?s=6122aa5296bbfde80cf9fd950f31cfbd"
+  },
+  {
+    "name": "Kaitou, Yuu",
+    "prompt": "Kaitou, Yuu from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/93641.jpg?s=e67e9f9f5329a492c500da5b2e198c70"
+  },
+  {
+    "name": "Kamiya, Minoru",
+    "prompt": "Kamiya, Minoru from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/93716.jpg?s=c849e063f9e932ad83ec6b08c32f4c6b"
+  },
+  {
+    "name": "Kara",
+    "prompt": "Kara from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/107318.jpg?s=d97eb7ba10ab3a3c4caf423dc81f333a"
+  },
+  {
+    "name": "Karasu",
+    "prompt": "Karasu from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/76901.jpg?s=6f1ae5ea871127ec686b6fd25d42f9d9"
+  },
+  {
+    "name": "Kazemaru",
+    "prompt": "Kazemaru from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/76179.jpg?s=bf5ef76bc141d1afb21da1b8d30c2adb"
+  },
+  {
+    "name": "Kibano",
+    "prompt": "Kibano from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/76180.jpg?s=8a6c970b8f265319168d20c706a35410"
+  },
+  {
+    "name": "Kido, Asato",
+    "prompt": "Kido, Asato from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/93637.jpg?s=0bf8f1dcc9e1590fda4fd2b4e474d1d5"
+  },
+  {
+    "name": "Kirenja",
+    "prompt": "Kirenja from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/304825.jpg?s=30a24a0472e85dafeaee0efc93456120"
+  },
+  {
+    "name": "Kirin",
+    "prompt": "Kirin from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/107308.jpg?s=3241594895e3b5d90befe8025658371a"
+  },
+  {
+    "name": "Kirishima",
+    "prompt": "Kirishima from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/76043.jpg?s=c9208e2fac8656d0e900c28258e4f7f5"
+  },
+  {
+    "name": "Koenma",
+    "prompt": "Koenma from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/81535.jpg?s=0312b8c592a18b169a251dabdfe05712"
+  },
+  {
+    "name": "Kokou",
+    "prompt": "Kokou from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/107329.jpg?s=79291dd109f8632c19f5986c91a4d877"
+  },
+  {
+    "name": "Koto",
+    "prompt": "Koto from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/76049.jpg?s=5de5212e9c2fa102d13280088122a044"
+  },
+  {
+    "name": "Kujou",
+    "prompt": "Kujou from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/107348.jpg?s=a12a265b4bc43e3a12d111bf1327524c"
+  },
+  {
+    "name": "Kuroda",
+    "prompt": "Kuroda from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/562884.jpg?s=f8523a5ccaa0470baed053ce81df5547"
+  },
+  {
+    "name": "Kuromomotarou",
+    "prompt": "Kuromomotarou from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/76888.jpg?s=d860519ed1c2ee3514c4b384df983780"
+  },
+  {
+    "name": "Kuwabara, Shizuru",
+    "prompt": "Kuwabara, Shizuru from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/94147.jpg?s=bb2d871e5950f6f263e4079dbfdd8f36"
+  },
+  {
+    "name": "M1",
+    "prompt": "M1 from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/76230.jpg?s=81137501149f9efc06621f56ec74299a"
+  },
+  {
+    "name": "M2",
+    "prompt": "M2 from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/76231.jpg?s=89f5fcaaf79bd98504ace99b2c7e6cdf"
+  },
+  {
+    "name": "M3",
+    "prompt": "M3 from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/76232.jpg?s=a59701bdd10c8c35ad6da72dc57a32eb"
+  },
+  {
+    "name": "Makihara, Sadao",
+    "prompt": "Makihara, Sadao from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/94145.jpg?s=85365ba5ef0fc830caa8085b549fce17"
+  },
+  {
+    "name": "Makintarou",
+    "prompt": "Makintarou from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/76889.jpg?s=b6e88b8e7d40950e32ebc5cc335baa95"
+  },
+  {
+    "name": "Midorenja",
+    "prompt": "Midorenja from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/562805.jpg?s=0b4941f6db8da8c61118f055666966db"
+  },
+  {
+    "name": "Minamino, Shiori",
+    "prompt": "Minamino, Shiori from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/76174.jpg?s=0eb8b07437b51fd0039bb4674b1bddf5"
+  },
+  {
+    "name": "Mitamura",
+    "prompt": "Mitamura from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/76233.jpg?s=8fc0741d6daf907964995b6ed8c1fc59"
+  },
+  {
+    "name": "Mitarai, Kiyoshi",
+    "prompt": "Mitarai, Kiyoshi from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/94210.jpg?s=f3bd290ad07e56f5ef2146e942c3593b"
+  },
+  {
+    "name": "Miyuki",
+    "prompt": "Miyuki from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/76192.jpg?s=2f373ec26621919033219dc2adb6763c"
+  },
+  {
+    "name": "Momorenja",
+    "prompt": "Momorenja from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/469677.jpg?s=3124d09686c69068d76ba2550a0d1e34"
+  },
+  {
+    "name": "Mukuro",
+    "prompt": "Mukuro from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/107344.jpg?s=0b0f3fc90384cdf5f89d3210c65ed6c3"
+  },
+  {
+    "name": "Murota, Shigeru",
+    "prompt": "Murota, Shigeru from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/93709.jpg?s=bada8328ecda74891a5709e72b5b1d76"
+  },
+  {
+    "name": "Murugu",
+    "prompt": "Murugu from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/76189.jpg?s=e4d1bdf765360c51e5fbc4932c0ea2a0"
+  },
+  {
+    "name": "Musashi",
+    "prompt": "Musashi from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/76181.jpg?s=fe094f094502c76f89c95f9dab3c2f58"
+  },
+  {
+    "name": "Nankai",
+    "prompt": "Nankai from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/107315.jpg?s=ddfca554723247374873ee3cd84d6591"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Natsume",
+    "prompt": "Natsume from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/107328.jpg?s=80acfd5de73325f6953cb097fa0c33a0"
+  },
+  {
+    "name": "Okubo",
+    "prompt": "Okubo from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/94137.jpg?s=0285f8703ec213da25828931590cbe80"
+  },
+  {
+    "name": "Puu",
+    "prompt": "Puu from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/93256.jpg?s=ab3b6874c0a5bf1fecd5b5882b3725fd"
+  },
+  {
+    "name": "Raizen",
+    "prompt": "Raizen from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/107313.jpg?s=3df268a2ec6597fa9b20516794e377bc"
+  },
+  {
+    "name": "Rando",
+    "prompt": "Rando from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/76182.jpg?s=5fac2dd5232c468a542ec8371af6d759"
+  },
+  {
+    "name": "Rinku",
+    "prompt": "Rinku from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/76051.jpg?s=7b6bae3ad9f4594fe643a28fe4afa5ca"
+  },
+  {
+    "name": "Risho",
+    "prompt": "Risho from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/93859.jpg?s=f28aacc7471d86e4d4ad5060a0e00da1"
+  },
+  {
+    "name": "Roto",
+    "prompt": "Roto from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/76058.jpg?s=7c68a2673d227024573ff95558b5d89d"
+  },
+  {
+    "name": "Rui",
+    "prompt": "Rui from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/107311.jpg?s=b44f6f34e7478786861beb7c9999105a"
+  },
+  {
+    "name": "Ruka",
+    "prompt": "Ruka from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/76818.jpg?s=857527342b68486067968feaff6415b1"
+  },
+  {
+    "name": "Sakamoto",
+    "prompt": "Sakamoto from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/76172.jpg?s=58f06f59b30dfb83797e79626973d14f"
+  },
+  {
+    "name": "Sakashita",
+    "prompt": "Sakashita from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/469405.jpg?s=7245fe8a65e50f8ff90f54e3c0b8ae9d"
+  },
+  {
+    "name": "Sakyou",
+    "prompt": "Sakyou from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/76773.jpg?s=efea6cc2ee26eec3ea292937348e99e7"
+  },
+  {
+    "name": "Saotome, Jorge",
+    "prompt": "Saotome, Jorge from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/76046.jpg?s=4b38ed7ba0714bdd6344f85b701ccddd"
+  },
+  {
+    "name": "Sasuga",
+    "prompt": "Sasuga from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/107345.jpg?s=2c2263130a1f9e7effd5427657864bb5"
+  },
+  {
+    "name": "Satou, Kaisei",
+    "prompt": "Satou, Kaisei from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/107300.jpg?s=3e5e6584900cce118cf69a89b5d2070a"
+  },
+  {
+    "name": "Satou, Kuroko",
+    "prompt": "Satou, Kuroko from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/107301.jpg?s=048d625b1586c3a515a55cabfa8f22f9"
+  },
+  {
+    "name": "Satou, Shougo",
+    "prompt": "Satou, Shougo from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/107298.jpg?s=3ee2e41d5cbffdd86c6bccf1670c5a15"
+  },
+  {
+    "name": "Satou, Fubuki",
+    "prompt": "Satou, Fubuki from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/107299.jpg?s=cfb422c3d3d1bd3c3225a6fe6eb30d84"
+  },
+  {
+    "name": "Sawamura",
+    "prompt": "Sawamura from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/76171.jpg?s=ca114deeb21e58d6d5e0b6d67a515d80"
+  },
+  {
+    "name": "Sayaka",
+    "prompt": "Sayaka from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/76168.jpg?s=832300ebedbc8b3e289b47fa74fd1876"
+  },
+  {
+    "name": "Seiryuu",
+    "prompt": "Seiryuu from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/76188.jpg?s=cc1a4a5935d26fec827c109856ef8668"
+  },
+  {
+    "name": "Seitei",
+    "prompt": "Seitei from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/107294.jpg?s=8aebfae3e4bd6ce00aa7728fec91b194"
+  },
+  {
+    "name": "Sensui, Shinobu",
+    "prompt": "Sensui, Shinobu from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/96946.jpg?s=5f93e2918beb8f8df635cc3115419f89"
+  },
+  {
+    "name": "Shachi",
+    "prompt": "Shachi from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/107320.jpg?s=5dfa08b5ecc98087f07298a72d359482"
+  },
+  {
+    "name": "Shigure",
+    "prompt": "Shigure from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/107331.jpg?s=d510d0372bc33c39c9ae06bc26ac62ca"
+  },
+  {
+    "name": "Shishiwakamaru",
+    "prompt": "Shishiwakamaru from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/76896.jpg?s=56c99001dd604893a24bf94daa373250"
+  },
+  {
+    "name": "Shu",
+    "prompt": "Shu from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/107346.jpg?s=9ad9a9afa290528574671fcd3709a5f4"
+  },
+  {
+    "name": "Shura",
+    "prompt": "Shura from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/107340.jpg?s=62b90e6fc926f17b6a2c7a7873dcbce1"
+  },
+  {
+    "name": "Souketsu",
+    "prompt": "Souketsu from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/107347.jpg?s=4c3123eb4631882136ae13874459f553"
+  },
+  {
+    "name": "Sports Goblin",
+    "prompt": "Sports Goblin from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Suzaku",
+    "prompt": "Suzaku from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/76191.jpg?s=15b46b2681fa4f498d3077a10bc2965c"
+  },
+  {
+    "name": "Suzuki",
+    "prompt": "Suzuki from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/77352.jpg?s=1918704e2bd723cc8f27c916e723e799"
+  },
+  {
+    "name": "Takenaka",
+    "prompt": "Takenaka from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/69829.jpg?s=2f3927084c31c7d01f2c97e690045c4e"
+  },
+  {
+    "name": "Tarukane, Gonzou",
+    "prompt": "Tarukane, Gonzou from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/76196.jpg?s=b6f758d20b23b872176fda85e7e2f1d1"
+  },
+  {
+    "name": "Toguro, Younger",
+    "prompt": "Toguro, Younger from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/76897.jpg?s=3905ef4bca846fe4322fac196ba0dc4c"
+  },
+  {
+    "name": "Toguro, Elder",
+    "prompt": "Toguro, Elder from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/93258.jpg?s=59f146b987a96acb8516e8b796193f85"
+  },
+  {
+    "name": "Touou",
+    "prompt": "Touou from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/107295.jpg?s=2f952a2870c52f61e9047797ea9b6fd5"
+  },
+  {
+    "name": "Touya",
+    "prompt": "Touya from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/76815.jpg?s=7c5b88e9d442cd44ab3226ba16c9edb7"
+  },
+  {
+    "name": "Urameshi, Atsuko",
+    "prompt": "Urameshi, Atsuko from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/69831.jpg?s=7e085b775dbd43558e7e20bf1d7ebc3c"
+  },
+  {
+    "name": "Uraurashima",
+    "prompt": "Uraurashima from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/76890.jpg?s=e289583e7e0132cb6c5bacbbec955407"
+  },
+  {
+    "name": "Woman",
+    "prompt": "Woman from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/107319.jpg?s=4ed7da97c7b3456a05428af42427aa03"
+  },
+  {
+    "name": "Yanagisawa, Mitsunari",
+    "prompt": "Yanagisawa, Mitsunari from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/93635.jpg?s=ccea0c49b32c99075ecf540f9b252443"
+  },
+  {
+    "name": "Yoda",
+    "prompt": "Yoda from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/107317.jpg?s=64f1095ba559f8b134558a02ef3596a4"
+  },
+  {
+    "name": "Yomi",
+    "prompt": "Yomi from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/107335.jpg?s=735231ee4586e54ae2927b39676ff39b"
+  },
+  {
+    "name": "Yukimura, Keiko",
+    "prompt": "Yukimura, Keiko from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/81437.jpg?s=a3c9ea0def56dcbeb406031099fb0558"
+  },
+  {
+    "name": "Yukimura, Father",
+    "prompt": "Yukimura, Father from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/107297.jpg?s=0d1ed172d9baa0c41c146081a890ce65"
+  },
+  {
+    "name": "Yukina",
+    "prompt": "Yukina from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/78418.jpg?s=f1b45d7d6dfabe06d99453ec659182ee"
+  },
+  {
+    "name": "Zeru",
+    "prompt": "Zeru from Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/76047.jpg?s=71427b43bb8d68ee8c758611b3a28a01"
+  }
+]

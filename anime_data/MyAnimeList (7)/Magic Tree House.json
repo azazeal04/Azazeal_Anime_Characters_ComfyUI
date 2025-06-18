@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Annie",
+    "prompt": "Annie from Magic Tree House",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/192813.jpg?s=b54430c717ff840d8f00b09f313a818d"
+  },
+  {
+    "name": "Jack",
+    "prompt": "Jack from Magic Tree House",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/192817.jpg?s=64d18907e0d247db9c1e5d85226a77cc"
+  },
+  {
+    "name": "Kathleen",
+    "prompt": "Kathleen from Magic Tree House",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Le Fay, Morgan",
+    "prompt": "Le Fay, Morgan from Magic Tree House",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/192819.jpg?s=457a4c4e8810a9b456ffacab67e70e66"
+  },
+  {
+    "name": "Mother",
+    "prompt": "Mother from Magic Tree House",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tracy",
+    "prompt": "Tracy from Magic Tree House",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/192815.jpg?s=00526ceba02a28fb6b395857876ded94"
+  }
+]

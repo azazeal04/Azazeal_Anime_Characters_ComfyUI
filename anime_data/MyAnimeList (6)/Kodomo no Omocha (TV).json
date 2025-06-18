@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Hayama, Akito",
+    "prompt": "Hayama, Akito from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/66705.jpg?s=e93fe479d8e04d149f8458d07621c0d9"
+  },
+  {
+    "name": "Kurata, Sana",
+    "prompt": "Kurata, Sana from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/42624.jpg?s=9482f2dbca6a4a4f07008d9631fde3df"
+  },
+  {
+    "name": "Kurata, Misako",
+    "prompt": "Kurata, Misako from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/214705.jpg?s=be3f45f7abb83c3d4c9bca0cb4a88691"
+  },
+  {
+    "name": "Ohki, Tsuyoshi",
+    "prompt": "Ohki, Tsuyoshi from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/214711.jpg?s=63e26501d4dd9de97f1724240f328700"
+  },
+  {
+    "name": "Sagami, Rei",
+    "prompt": "Sagami, Rei from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/214713.jpg?s=e8d0085f14460a56f34f823dfa88dcb3"
+  },
+  {
+    "name": "Akudo, Izou",
+    "prompt": "Akudo, Izou from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/230401.jpg?s=86f8d74845eb0bc4ea42781b6655a1c0"
+  },
+  {
+    "name": "Ando, Sumirei",
+    "prompt": "Ando, Sumirei from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/214721.jpg?s=e0ea5173a05ab85abc802de697d3a14b"
+  },
+  {
+    "name": "Ayanohanamarukouji, Tomomi",
+    "prompt": "Ayanohanamarukouji, Tomomi from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/229905.jpg?s=26b0233018a01f5409315e1465a69e08"
+  },
+  {
+    "name": "Ayumi",
+    "prompt": "Ayumi from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/128279.jpg?s=7603f7c0ccd02eaf32418655f8f2cbb1"
+  },
+  {
+    "name": "Babbit",
+    "prompt": "Babbit from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/42617.jpg?s=0eced858b9132d493d5ccd7aa2c82f89"
+  },
+  {
+    "name": "Bernadette",
+    "prompt": "Bernadette from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/229533.jpg?s=c58e3e755e78ef63856f290ae7c651e0"
+  },
+  {
+    "name": "Brad",
+    "prompt": "Brad from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/229903.jpg?s=7d53eee921dbdc5e8fdbccb213d43970"
+  },
+  {
+    "name": "Daichi, Shiori",
+    "prompt": "Daichi, Shiori from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/229121.jpg?s=df85f55f58b7622f052ee932a1e9df7e"
+  },
+  {
+    "name": "Gojo, Takeshi",
+    "prompt": "Gojo, Takeshi from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/228887.jpg?s=4e59c5218e64243ed000bc21f802afa9"
+  },
+  {
+    "name": "Gomi, Mother",
+    "prompt": "Gomi, Mother from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/229115.jpg?s=6e33cd949e469dfe880d29c566e1e887"
+  },
+  {
+    "name": "Gomi, Father",
+    "prompt": "Gomi, Father from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/230397.jpg?s=28a5cf011cd50d46675721b0cdea11b1"
+  },
+  {
+    "name": "Gomi, Shinichi",
+    "prompt": "Gomi, Shinichi from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/214723.jpg?s=27fb8064da9ee0c613dec76e26ffc425"
+  },
+  {
+    "name": "Hamilton, Michelle",
+    "prompt": "Hamilton, Michelle from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/229315.jpg?s=63da14fff0d1d96d4f569661b80ccd2e"
+  },
+  {
+    "name": "Hamilton, Sicil",
+    "prompt": "Hamilton, Sicil from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/229601.jpg?s=18a850d4b491ed30bd3d7e1c70f56a69"
+  },
+  {
+    "name": "Hamilton, Gary",
+    "prompt": "Hamilton, Gary from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/229411.jpg?s=226118b136e24f6205788a9f1958364e"
+  },
+  {
+    "name": "Hayama, Fuyuki",
+    "prompt": "Hayama, Fuyuki from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/214727.jpg?s=f727c823d6105275d0b079a93ebea84d"
+  },
+  {
+    "name": "Hayama, Koharu",
+    "prompt": "Hayama, Koharu from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/214751.jpg?s=0ec3d38ed63d595025190fc5c1cc8222"
+  },
+  {
+    "name": "Hayama, Natsumi",
+    "prompt": "Hayama, Natsumi from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/214725.jpg?s=4cd768e8faaa5644b6c0bbaba308bae2"
+  },
+  {
+    "name": "Ishida",
+    "prompt": "Ishida from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/229419.jpg?s=fd6167a10acb741a01f8f3fd0ceb415b"
+  },
+  {
+    "name": "Kamayai, Hisae",
+    "prompt": "Kamayai, Hisae from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/229911.jpg?s=4ef404ae9271676a84557f907a55c58a"
+  },
+  {
+    "name": "Kamura, Naozumi",
+    "prompt": "Kamura, Naozumi from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/214729.jpg?s=bdb7dbc446941cceece5be2bc10d5aa5"
+  },
+  {
+    "name": "Kashima, Ryousuke",
+    "prompt": "Kashima, Ryousuke from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/214731.jpg?s=0e8d681f53df09113ec5258025a7542e"
+  },
+  {
+    "name": "Katagiri, Sanzou",
+    "prompt": "Katagiri, Sanzou from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/229097.jpg?s=6f1094f019574d212d4b71d99f00dbf9"
+  },
+  {
+    "name": "Kimuchi, Takuya",
+    "prompt": "Kimuchi, Takuya from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/228715.jpg?s=a972aa36d05437cc522f1a1ea817da86"
+  },
+  {
+    "name": "Kisaragi, Chris",
+    "prompt": "Kisaragi, Chris from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/230345.jpg?s=63549e1f738d5cd307c0d3df9beabb7b"
+  },
+  {
+    "name": "Kobayakawa",
+    "prompt": "Kobayakawa from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/230099.jpg?s=2da380d0502dbda75eab9790c19e889b"
+  },
+  {
+    "name": "Koichi",
+    "prompt": "Koichi from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/230225.jpg?s=0c13d802e3f1a561ed8e5cffd552ad0a"
+  },
+  {
+    "name": "Kouji",
+    "prompt": "Kouji from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/229215.jpg?s=1bfb3165d8683181f7526e6e866d905f"
+  },
+  {
+    "name": "Kurata, Grandpa",
+    "prompt": "Kurata, Grandpa from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/214735.jpg?s=69a510f77f54d180e489072f8030372b"
+  },
+  {
+    "name": "Kurata, Shizuka",
+    "prompt": "Kurata, Shizuka from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/214733.jpg?s=fc9b90725dd55c164b7e9a27c3af5ad0"
+  },
+  {
+    "name": "Kurosaki, Toshizou",
+    "prompt": "Kurosaki, Toshizou from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/229101.jpg?s=bdb7d9466814ae0b632d4f07c906152a"
+  },
+  {
+    "name": "Kurosaki, Shouko",
+    "prompt": "Kurosaki, Shouko from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/229107.jpg?s=fd77dd8c8062dd17ba790d9d8411ba03"
+  },
+  {
+    "name": "Kurosaki, Tatsuya",
+    "prompt": "Kurosaki, Tatsuya from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/229109.jpg?s=e56f423b121e6123b61850aba6288d39"
+  },
+  {
+    "name": "Kurumi, Asako",
+    "prompt": "Kurumi, Asako from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/214737.jpg?s=8bc9db5f862d2f97938d89bd357b842c"
+  },
+  {
+    "name": "Makoto",
+    "prompt": "Makoto from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/230227.jpg?s=1e8b3bbace0ec2ad7b0ca04de19eb482"
+  },
+  {
+    "name": "Matsui, Father",
+    "prompt": "Matsui, Father from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/229745.jpg?s=1871590623310cb75c316fbc47115d4f"
+  },
+  {
+    "name": "Matsui, Mother",
+    "prompt": "Matsui, Mother from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/229747.jpg?s=da87fa2c27b5c76545682cc45954bb7a"
+  },
+  {
+    "name": "Matsui, Fuuka",
+    "prompt": "Matsui, Fuuka from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/108349.jpg?s=671f6a665a1fa30ce72eef1054eaa8e6"
+  },
+  {
+    "name": "Mika",
+    "prompt": "Mika from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/474355.jpg?s=d2d1fc81c58198551f09608c2921004f"
+  },
+  {
+    "name": "Mitsuya-sensei",
+    "prompt": "Mitsuya-sensei from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/228877.jpg?s=47c901223d58807bf2a1174b9211ab4f"
+  },
+  {
+    "name": "Miyoko",
+    "prompt": "Miyoko from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/230229.jpg?s=f93ba7132879d341cc19d17003b4c9f5"
+  },
+  {
+    "name": "Mizoguchi",
+    "prompt": "Mizoguchi from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/230097.jpg?s=95213eab4a2fefd2196b7c5e7a11b74e"
+  },
+  {
+    "name": "Mizuguchi, Yuuko",
+    "prompt": "Mizuguchi, Yuuko from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/229529.jpg?s=6b45e7f28cdbc37522870ce124db0a80"
+  },
+  {
+    "name": "Mr. Onda",
+    "prompt": "Mr. Onda from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/214719.jpg?s=cf5f0168cc32fd396090e8ef69ef700b"
+  },
+  {
+    "name": "Mr. Sengoku",
+    "prompt": "Mr. Sengoku from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/229915.jpg?s=2d5b8edb8ded1d17d5f3b70435d3d6a7"
+  },
+  {
+    "name": "Mr. Tanaka",
+    "prompt": "Mr. Tanaka from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/229909.jpg?s=fe816e393af966c25b62a57a6b7da739"
+  },
+  {
+    "name": "Nakao, Shota",
+    "prompt": "Nakao, Shota from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/229907.jpg?s=06cc8406d7c3af4770b464e7b529b900"
+  },
+  {
+    "name": "Naru Naru",
+    "prompt": "Naru Naru from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/214717.jpg?s=6a8012028ac2c7ff3b65ee632889616b"
+  },
+  {
+    "name": "Nishikawa",
+    "prompt": "Nishikawa from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/230221.jpg?s=2a15e4a8d943a412ac94ca53c9b9a681"
+  },
+  {
+    "name": "Obana, Miho",
+    "prompt": "Obana, Miho from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/228881.jpg?s=b944a7232d6a0b3c3515c74a86cf4275"
+  },
+  {
+    "name": "Ohki, Aono",
+    "prompt": "Ohki, Aono from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/228717.jpg?s=7cca1414d31dea856e5c8157d3400da7"
+  },
+  {
+    "name": "Ookouchi",
+    "prompt": "Ookouchi from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/230399.jpg?s=2141f499f38c05a2c32883e567729f4b"
+  },
+  {
+    "name": "Ozaki, Riho",
+    "prompt": "Ozaki, Riho from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/229743.jpg?s=6ebed3d4893fa89fd18c50f628698003"
+  },
+  {
+    "name": "Ramsay",
+    "prompt": "Ramsay from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/230341.jpg?s=9bfc5fe31505bdd3d495ad40d6054389"
+  },
+  {
+    "name": "Rick",
+    "prompt": "Rick from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/229531.jpg?s=bde79d5c0becc67c45026125fe946a2a"
+  },
+  {
+    "name": "Rumiko",
+    "prompt": "Rumiko from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/229217.jpg?s=b433ee318c53e4f02ac54228cbbee6af"
+  },
+  {
+    "name": "Sakai, Mariko",
+    "prompt": "Sakai, Mariko from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/214741.jpg?s=528d7def87cd7cda6e77c57b54fdd4f2"
+  },
+  {
+    "name": "Sakai, Keiko",
+    "prompt": "Sakai, Keiko from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/214743.jpg?s=3f0b2ff03637c6fcb93201b6864103c6"
+  },
+  {
+    "name": "Shimura, Chiyo",
+    "prompt": "Shimura, Chiyo from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/229095.jpg?s=6755aa261e741c5869fd935439351c36"
+  },
+  {
+    "name": "Shingo",
+    "prompt": "Shingo from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/230223.jpg?s=2bb30435ea15b7a985022ac666599b64"
+  },
+  {
+    "name": "Shizu",
+    "prompt": "Shizu from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sugita, Aya",
+    "prompt": "Sugita, Aya from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/214745.jpg?s=5876095f2aa3f304cb204596e5cd80f6"
+  },
+  {
+    "name": "Suzuki, Mami",
+    "prompt": "Suzuki, Mami from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/214747.jpg?s=7ba9986a15f2175bbd12d6f5a85a910e"
+  },
+  {
+    "name": "Takaishi, Yuta",
+    "prompt": "Takaishi, Yuta from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/229913.jpg?s=451111582479f97ba9bd6520e4e5674b"
+  },
+  {
+    "name": "Tobita, Mayu",
+    "prompt": "Tobita, Mayu from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/228885.jpg?s=be5d4f64c60fa94cc4c53a8b2340ef4d"
+  },
+  {
+    "name": "Tobita, Mama",
+    "prompt": "Tobita, Mama from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/230403.jpg?s=e9f165a962a2a721ac835e36daf5d082"
+  },
+  {
+    "name": "Toriyama, Noboru",
+    "prompt": "Toriyama, Noboru from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/230405.jpg?s=0abd63d69763b3cad4eaced482cce4b1"
+  },
+  {
+    "name": "Uchiyamada, Hiroshi",
+    "prompt": "Uchiyamada, Hiroshi from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/229099.jpg?s=71d35e37253713216a23d6db12edc845"
+  },
+  {
+    "name": "Yui",
+    "prompt": "Yui from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/474356.jpg?s=87b8bdd9e497afb64c53f7ceb191bd79"
+  },
+  {
+    "name": "Zenjiro",
+    "prompt": "Zenjiro from Kodomo no Omocha (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/214715.jpg?s=57938308d21121727d9381ffc0cbf892"
+  }
+]

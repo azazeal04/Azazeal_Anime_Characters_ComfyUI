@@ -1,0 +1,247 @@
+[
+  {
+    "name": "Akagi",
+    "prompt": "Akagi from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/240533.jpg?s=d48c26e5dc93a01bb4beba32b37f68b8"
+  },
+  {
+    "name": "Fubuki",
+    "prompt": "Fubuki from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/276470.jpg?s=976c049f6f915d014bb61fcece307c7d"
+  },
+  {
+    "name": "Kaga",
+    "prompt": "Kaga from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/240535.jpg?s=f28b1d1dac894439fef65cf805e71e7d"
+  },
+  {
+    "name": "Kongou",
+    "prompt": "Kongou from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/255091.jpg?s=3281390e6c5e223551030a9bdff4f0b5"
+  },
+  {
+    "name": "Mutsuki",
+    "prompt": "Mutsuki from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/262019.jpg?s=1e4bbd2f05713348d2caac6a61c8a1e4"
+  },
+  {
+    "name": "Yuudachi",
+    "prompt": "Yuudachi from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/255487.jpg?s=fc64559b82ed01e29dcdfdf09f485110"
+  },
+  {
+    "name": "Akatsuki",
+    "prompt": "Akatsuki from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/260403.jpg?s=12805e79cca6270b5cd6d2a5e9974afd"
+  },
+  {
+    "name": "Ashigara",
+    "prompt": "Ashigara from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/491282.jpg?s=a9ac30022b7e41391378c265aaeadf89"
+  },
+  {
+    "name": "Atago",
+    "prompt": "Atago from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/547403.jpg?s=96bce4f5020d7dcb7696abd1f062bcf3"
+  },
+  {
+    "name": "Chikuma",
+    "prompt": "Chikuma from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/279609.jpg?s=31decaf6651908fef4d37ffbcda58836"
+  },
+  {
+    "name": "Haguro",
+    "prompt": "Haguro from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/333813.jpg?s=135c412c24bc87e830513936ccea4c8f"
+  },
+  {
+    "name": "Haruna",
+    "prompt": "Haruna from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/276027.jpg?s=c5c3927e86cf2efd525866b80de6a561"
+  },
+  {
+    "name": "Hibiki",
+    "prompt": "Hibiki from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/259363.jpg?s=2f55bfecc261fdd50636ca10d5c96a14"
+  },
+  {
+    "name": "Hiei",
+    "prompt": "Hiei from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/264493.jpg?s=70dfe0bc74edef079435c688938c5854"
+  },
+  {
+    "name": "Hiryuu",
+    "prompt": "Hiryuu from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/338809.jpg?s=ad5d6d16f090e7741a746f1a1c13e1cf"
+  },
+  {
+    "name": "Houshou",
+    "prompt": "Houshou from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/277711.jpg?s=109d13f564d5e0905f6b1d1353bfa17e"
+  },
+  {
+    "name": "Ikazuchi",
+    "prompt": "Ikazuchi from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/262013.jpg?s=1e85186f02cae384c7b18ae4d5445361"
+  },
+  {
+    "name": "Inazuma",
+    "prompt": "Inazuma from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/262015.jpg?s=29a9e05c095df908fc91e6be4fec3df5"
+  },
+  {
+    "name": "Jintsuu",
+    "prompt": "Jintsuu from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/257479.jpg?s=4fb38007a088f6412e75d32e6b204d09"
+  },
+  {
+    "name": "Kirishima",
+    "prompt": "Kirishima from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/279603.jpg?s=28b15704e9c6325e4a56cc466e6d2b51"
+  },
+  {
+    "name": "Kisaragi",
+    "prompt": "Kisaragi from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/338740.jpg?s=17165794b369b2109123c2a84984f3e9"
+  },
+  {
+    "name": "Kitakami",
+    "prompt": "Kitakami from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/264495.jpg?s=fb3f2649a70ae7715d529133119c2cae"
+  },
+  {
+    "name": "Kuma",
+    "prompt": "Kuma from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/345484.jpg?s=c8142066382f628e4e08a32c60113d31"
+  },
+  {
+    "name": "Kuubo, Wo-Kyuu",
+    "prompt": "Kuubo, Wo-Kyuu from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/260389.jpg?s=d3e33b7ef1e051016be614d84d4cafff"
+  },
+  {
+    "name": "Mamiya",
+    "prompt": "Mamiya from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/338744.jpg?s=b69453cd0a44da0589ba8830896f46b8"
+  },
+  {
+    "name": "Mochizuki",
+    "prompt": "Mochizuki from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/333811.jpg?s=8c5bf165e22a044a50efeb30062ed345"
+  },
+  {
+    "name": "Mogami",
+    "prompt": "Mogami from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/491489.jpg?s=b8ec146b1124d35e49b288e5587b4384"
+  },
+  {
+    "name": "Murasame",
+    "prompt": "Murasame from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/338749.jpg?s=36e4ce3a084a5833ea58379c9b2b2ffb"
+  },
+  {
+    "name": "Mutsu",
+    "prompt": "Mutsu from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/259455.jpg?s=9a663336924ac78ec06be6e799248579"
+  },
+  {
+    "name": "Nachi",
+    "prompt": "Nachi from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/491281.jpg?s=62ed08c9fdfcab81cbe2596e3750734e"
+  },
+  {
+    "name": "Nagato",
+    "prompt": "Nagato from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/338803.jpg?s=410ed691ccd881818ba3bac9945eee08"
+  },
+  {
+    "name": "Naka",
+    "prompt": "Naka from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/257475.jpg?s=25f13ff8575395a9406c7b16f89329db"
+  },
+  {
+    "name": "Ooi",
+    "prompt": "Ooi from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/264497.jpg?s=15a9da9f19e7e4cd0c8b917cebe7a601"
+  },
+  {
+    "name": "Ooyodo",
+    "prompt": "Ooyodo from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/338804.jpg?s=69fd1416b385bb612395200351e1b02b"
+  },
+  {
+    "name": "Princess, Airfield",
+    "prompt": "Princess, Airfield from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/357594.jpg?s=3d9569d1ac836cada7923dd5972b5440"
+  },
+  {
+    "name": "Sendai",
+    "prompt": "Sendai from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/257473.jpg?s=1018217dc7f11706e3d3ebc643b39cac"
+  },
+  {
+    "name": "Shigure",
+    "prompt": "Shigure from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/491831.jpg?s=ace67630b47470b72ab833402abadfc5"
+  },
+  {
+    "name": "Shimakaze",
+    "prompt": "Shimakaze from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/255087.jpg?s=565e286043100a86a619a9adc7a69994"
+  },
+  {
+    "name": "Shiratsuyu",
+    "prompt": "Shiratsuyu from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/277709.jpg?s=68e712fae4344af2029467427e1aea14"
+  },
+  {
+    "name": "Shoukaku",
+    "prompt": "Shoukaku from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/290742.jpg?s=b74727e5387fd2857d362243e30175b0"
+  },
+  {
+    "name": "Souryuu",
+    "prompt": "Souryuu from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/338799.jpg?s=809fc56bf2a98c65d719147a74863ba7"
+  },
+  {
+    "name": "Taihou",
+    "prompt": "Taihou from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/279615.jpg?s=3a91657cd4436704332c6b57c93b3e61"
+  },
+  {
+    "name": "Takao",
+    "prompt": "Takao from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/279611.jpg?s=b6c6e720a80f4aa8362ee9724b1d745b"
+  },
+  {
+    "name": "Tama",
+    "prompt": "Tama from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/273223.jpg?s=85ff5c250892dddb1a5b0a91b7a7c811"
+  },
+  {
+    "name": "Tone",
+    "prompt": "Tone from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/277531.jpg?s=41a54a0b5a221a06981cbb262da75bf6"
+  },
+  {
+    "name": "Yamato",
+    "prompt": "Yamato from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/493256.jpg?s=5ed52e869df7fadc87a9ef09df0c1ab8"
+  },
+  {
+    "name": "Yayoi",
+    "prompt": "Yayoi from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/279613.jpg?s=fe8ffbfb933ceecfee3af1b86abf6b9f"
+  },
+  {
+    "name": "Yuubari",
+    "prompt": "Yuubari from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/279608.jpg?s=ccac565885e7ba6d36c97704af3a8cd7"
+  },
+  {
+    "name": "Zuikaku",
+    "prompt": "Zuikaku from Kantai Collection: KanColle",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/279614.jpg?s=081480dfb7d3ddbc3e1111d694b6e33f"
+  }
+]

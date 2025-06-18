@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Harukawa, Kahori",
+    "prompt": "Harukawa, Kahori from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/183695.jpg?s=9d5d8a7c113492131903deed27ce5039"
+  },
+  {
+    "name": "Kyougoku, Ryouichi",
+    "prompt": "Kyougoku, Ryouichi from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/229853.jpg?s=083b6684820b4fa5cbcea9eda9a26207"
+  },
+  {
+    "name": "Seki, Kenji",
+    "prompt": "Seki, Kenji from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/183693.jpg?s=1418db86894d87c594e6b777842664ac"
+  },
+  {
+    "name": "Suzuura, Natsuki",
+    "prompt": "Suzuura, Natsuki from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/214533.jpg?s=1c9e5f719d5ff9598ce0730a5d93d1d7"
+  },
+  {
+    "name": "Amano, Daito",
+    "prompt": "Amano, Daito from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/214511.jpg?s=7ce1e1f6c84927cd5c042b41d2637d4c"
+  },
+  {
+    "name": "Endou, Saori",
+    "prompt": "Endou, Saori from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/214519.jpg?s=93b60e445e0047e296cbb2f3ee9b3c35"
+  },
+  {
+    "name": "Esper",
+    "prompt": "Esper from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/238693.jpg?s=4f73b5bb3d2fa9016608f661691d64a8"
+  },
+  {
+    "name": "Ishikawa, Akari",
+    "prompt": "Ishikawa, Akari from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Jinno, Yuu",
+    "prompt": "Jinno, Yuu from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/214513.jpg?s=eb1de5b142fa8d42f73eabfd67ca50e9"
+  },
+  {
+    "name": "Kondou, Yukari",
+    "prompt": "Kondou, Yukari from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/214535.jpg?s=9bc92a4a1230423292352f31bdffee4b"
+  },
+  {
+    "name": "Kyougoku, Familiar",
+    "prompt": "Kyougoku, Familiar from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/211213.jpg?s=f7decf1963fc4d58c5b37c816f93425a"
+  },
+  {
+    "name": "Momose, Satoshi",
+    "prompt": "Momose, Satoshi from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nakajima, Jou",
+    "prompt": "Nakajima, Jou from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nonomura, Shouta",
+    "prompt": "Nonomura, Shouta from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Psychic",
+    "prompt": "Psychic from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Saitou",
+    "prompt": "Saitou from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/214515.jpg?s=13eaf605fd6e064a4d94f176f3b12fc8"
+  },
+  {
+    "name": "Seki, Mother",
+    "prompt": "Seki, Mother from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Seki, Kouji",
+    "prompt": "Seki, Kouji from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/214539.jpg?s=5a02c838af2bf2c3d9155f0c106042cf"
+  },
+  {
+    "name": "Shimizu, Arisa",
+    "prompt": "Shimizu, Arisa from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Soga, Haruka",
+    "prompt": "Soga, Haruka from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/214537.jpg?s=8e498def09fa6f30be976b91a6ba0224"
+  },
+  {
+    "name": "Suzuura, Father",
+    "prompt": "Suzuura, Father from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Suzuura, Mother",
+    "prompt": "Suzuura, Mother from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tooyama, Riku",
+    "prompt": "Tooyama, Riku from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Vice Principal",
+    "prompt": "Vice Principal from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Yamagiwa, Yuriko",
+    "prompt": "Yamagiwa, Yuriko from Nerawareta Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/214517.jpg?s=7a5e46f280c52def598155f32bd56282"
+  }
+]

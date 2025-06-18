@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Aizawa, Miyabi",
+    "prompt": "Aizawa, Miyabi from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/373372.jpg?s=19bfe1a8ce5f1a61b640f9c82d1b5ad4"
+  },
+  {
+    "name": "Fuyutsuki, Azusa",
+    "prompt": "Fuyutsuki, Azusa from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/142017.jpg?s=0290f72db813f182479a5d7c8a320b59"
+  },
+  {
+    "name": "Kanzaki, Urumi",
+    "prompt": "Kanzaki, Urumi from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/113918.jpg?s=115c8f0edf71c34be6ea66c608e4f1bb"
+  },
+  {
+    "name": "Kikuchi, Yoshito",
+    "prompt": "Kikuchi, Yoshito from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/75377.jpg?s=420d3c54646495da0be5fa8b464c77b1"
+  },
+  {
+    "name": "Murai, Kunio",
+    "prompt": "Murai, Kunio from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/75376.jpg?s=893f7ed90d79b4615d6b6b46e027fb49"
+  },
+  {
+    "name": "Nomura, Tomoko",
+    "prompt": "Nomura, Tomoko from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/51229.jpg?s=5db71170d53299c36166080b914a63e9"
+  },
+  {
+    "name": "Onizuka, Eikichi",
+    "prompt": "Onizuka, Eikichi from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/241475.jpg?s=02e918dbd394d15ab3ed693e0253fca6"
+  },
+  {
+    "name": "Uchiyamada, Hiroshi",
+    "prompt": "Uchiyamada, Hiroshi from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/51230.jpg?s=acfe5a624e48a7671c93a9e85942b038"
+  },
+  {
+    "name": "Yoshikawa, Noboru",
+    "prompt": "Yoshikawa, Noboru from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/15499.jpg?s=f1a87936e507cc6ab9b7ef0f6624332d"
+  },
+  {
+    "name": "Aizawa, Masayo",
+    "prompt": "Aizawa, Masayo from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/92344.jpg?s=b5a7f592f9394d7e4220cdf948232ad3"
+  },
+  {
+    "name": "Aizawa, Kotaro",
+    "prompt": "Aizawa, Kotaro from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/92342.jpg?s=97a610332fd05bc941dcbbcb508f5988"
+  },
+  {
+    "name": "Announcer #1",
+    "prompt": "Announcer #1 from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/92271.jpg?s=4697cd0ddc68c4a3a1228f6258b3b517"
+  },
+  {
+    "name": "Announcer #2",
+    "prompt": "Announcer #2 from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/92324.jpg?s=ac31c8a59adbf8d9207a71d401d56185"
+  },
+  {
+    "name": "Asakura, Megumi",
+    "prompt": "Asakura, Megumi from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/92578.jpg?s=f1dd3de60d394e999b3625073f4d9132"
+  },
+  {
+    "name": "Asano, Mayuko",
+    "prompt": "Asano, Mayuko from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/91908.jpg?s=bbbb4c2b6ad4c37a9d18bceda847a2ec"
+  },
+  {
+    "name": "Ashida",
+    "prompt": "Ashida from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/92327.jpg?s=218c7836153da078931aa53bf5396036"
+  },
+  {
+    "name": "Bride's Father",
+    "prompt": "Bride's Father from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/92541.jpg?s=a427c0f085d22e5c06d1b6d9cb8e7656"
+  },
+  {
+    "name": "Bride's Mother",
+    "prompt": "Bride's Mother from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/92542.jpg?s=606a7be7b9905cdb3c728375a1ec5829"
+  },
+  {
+    "name": "Burger Shop Manager",
+    "prompt": "Burger Shop Manager from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/92339.jpg?s=a9e3434f560cba61b31b16da0db9ca76"
+  },
+  {
+    "name": "Business Man",
+    "prompt": "Business Man from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/91924.jpg?s=c26499893b4e7ff3c35cd6fcb6b199f5"
+  },
+  {
+    "name": "Cameraman",
+    "prompt": "Cameraman from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/92686.jpg?s=9e54fd640cace69c7a3510015170f788"
+  },
+  {
+    "name": "Danma, Ryuuji",
+    "prompt": "Danma, Ryuuji from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/203715.jpg?s=894ade24f95c0df75184889ef079b6f5"
+  },
+  {
+    "name": "Director",
+    "prompt": "Director from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/92328.jpg?s=b82386b89b450cdcb971649a91d11aff"
+  },
+  {
+    "name": "Director Shirosawa",
+    "prompt": "Director Shirosawa from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/92241.jpg?s=516c38e49558c5ebfe200bddbf0dbdec"
+  },
+  {
+    "name": "Doctor",
+    "prompt": "Doctor from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/92687.jpg?s=eb07d1353f1dcc3f37765b66d98b5cea"
+  },
+  {
+    "name": "Ebisawa",
+    "prompt": "Ebisawa from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/91894.jpg?s=6932d845b11a58c9a201d73f7a8664ea"
+  },
+  {
+    "name": "Field Supervisor",
+    "prompt": "Field Supervisor from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/92591.jpg?s=cbc4ad1cd9f0cd46c6c1b459f5f2179c"
+  },
+  {
+    "name": "Floor Person",
+    "prompt": "Floor Person from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/92544.jpg?s=3230a20702dcfa836fa659b49ebec9e2"
+  },
+  {
+    "name": "Fujimori",
+    "prompt": "Fujimori from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/92103.jpg?s=e72e7a50911376227406e7e1486fd704"
+  },
+  {
+    "name": "Fujita, Akane",
+    "prompt": "Fujita, Akane from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/92209.jpg?s=20da18ceedafcf1474aa8c285a4d8546"
+  },
+  {
+    "name": "Fujiyoshi, Kouji",
+    "prompt": "Fujiyoshi, Kouji from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/15479.jpg?s=0043da14a318b0d3d247e391f5bf4057"
+  },
+  {
+    "name": "Fujiyoshi, Mother",
+    "prompt": "Fujiyoshi, Mother from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/92337.jpg?s=7088da28ea2dd74dbfa9b03dad3afd54"
+  },
+  {
+    "name": "Fukada, Kumiko",
+    "prompt": "Fukada, Kumiko from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/92613.jpg?s=bae5cf47acc55c51e13fb0380312100a"
+  },
+  {
+    "name": "Fukuroda, Hajime",
+    "prompt": "Fukuroda, Hajime from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/15481.jpg?s=7f830d5635bcfca6a10b9f5b491cd1b1"
+  },
+  {
+    "name": "Futogaki",
+    "prompt": "Futogaki from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/381940.jpg?s=b7b498ef3db117fa52f20fcda484ef92"
+  },
+  {
+    "name": "Girl",
+    "prompt": "Girl from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/92688.jpg?s=bce397fe688f77e9f1ebd40b11943b98"
+  },
+  {
+    "name": "Heroine",
+    "prompt": "Heroine from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/92330.jpg?s=308f5460192923510fd1dad08249c2c8"
+  },
+  {
+    "name": "Hideo",
+    "prompt": "Hideo from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/83534.jpg?s=0c0b89fa3ebe2a3d19b9410dafb7a52f"
+  },
+  {
+    "name": "Hiramatsu",
+    "prompt": "Hiramatsu from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/92347.jpg?s=4c6d7b2fa9def4f47e8dbe44b460a83f"
+  },
+  {
+    "name": "Homeroom teacher",
+    "prompt": "Homeroom teacher from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/92649.jpg?s=56e086cd9dd28ccbc97f747dc024b316"
+  },
+  {
+    "name": "Hoshino, Megumi",
+    "prompt": "Hoshino, Megumi from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/92331.jpg?s=e307a492625f3a0a7564f2037b1f1781"
+  },
+  {
+    "name": "Igarashi, Kouichi",
+    "prompt": "Igarashi, Kouichi from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/92582.jpg?s=3e8ad57ef4735fb8a015e462a3eeae8f"
+  },
+  {
+    "name": "Iijima, Saeko",
+    "prompt": "Iijima, Saeko from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/92606.jpg?s=f4d9a7b1f48e6edfc089298564d1b822"
+  },
+  {
+    "name": "Izumi, Naoko",
+    "prompt": "Izumi, Naoko from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/226621.jpg?s=7861ca702a15e55bc2834da33f7bc158"
+  },
+  {
+    "name": "Janitor",
+    "prompt": "Janitor from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/92689.jpg?s=5069718487062afe1b1b9c6f8e15d780"
+  },
+  {
+    "name": "Kadena, Nao",
+    "prompt": "Kadena, Nao from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/51231.jpg?s=458887003675d8f11492ac5e5d55527a"
+  },
+  {
+    "name": "Kadena, Takashi",
+    "prompt": "Kadena, Takashi from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/92322.jpg?s=1b2a958e3733cf3bc8b2198759a0ab16"
+  },
+  {
+    "name": "Kamioka",
+    "prompt": "Kamioka from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/91928.jpg?s=16761b374eee5bfaf74797b7f6adca31"
+  },
+  {
+    "name": "Katsuyama",
+    "prompt": "Katsuyama from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/92340.jpg?s=51dc8433014a8fe6d48f4aa76643d826"
+  },
+  {
+    "name": "Kibayashi",
+    "prompt": "Kibayashi from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/92325.jpg?s=b71a4a793195436403bf33b429082f21"
+  },
+  {
+    "name": "Kinoshita, Itagaki",
+    "prompt": "Kinoshita, Itagaki from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/91925.jpg?s=98e07c5c77cfef672ec5c832095fb458"
+  },
+  {
+    "name": "Kizaki",
+    "prompt": "Kizaki from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/92211.jpg?s=61d96d4406cbd58bc4e9d38193c6a41c"
+  },
+  {
+    "name": "Kizaki, Hitomi",
+    "prompt": "Kizaki, Hitomi from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/92210.jpg?s=714c1ff3a4e391049afbb90a064a788e"
+  },
+  {
+    "name": "Kochatani, Hiroshi",
+    "prompt": "Kochatani, Hiroshi from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/15483.jpg?s=d9e22880e0dba54ec1395ab5d9bcc58d"
+  },
+  {
+    "name": "Kujirakawa, Fuyumi",
+    "prompt": "Kujirakawa, Fuyumi from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/15485.jpg?s=e6b20fab0831c5ccba9ab41ab9e12c3b"
+  },
+  {
+    "name": "Kusano, Tadaaki",
+    "prompt": "Kusano, Tadaaki from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/15486.jpg?s=c39166c502e3be6830efcc8493ca038a"
+  },
+  {
+    "name": "Male student",
+    "prompt": "Male student from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Megumi's Manager",
+    "prompt": "Megumi's Manager from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/92332.jpg?s=6165f2bb78d15f4c94dc7be05cf26b0e"
+  },
+  {
+    "name": "Mikan",
+    "prompt": "Mikan from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/91830.jpg?s=297267efa12264aa754f012c2d252df9"
+  },
+  {
+    "name": "Miss Sagara",
+    "prompt": "Miss Sagara from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/92215.jpg?s=156e6a3775c71faedb446aaf163e7c7a"
+  },
+  {
+    "name": "Miyazaki",
+    "prompt": "Miyazaki from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/91929.jpg?s=66d79feba8be9d66a2dd441cbb7ee4e9"
+  },
+  {
+    "name": "Mizuki, Mother",
+    "prompt": "Mizuki, Mother from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/91827.jpg?s=c8797d6431056fa2d7fffcfe3c9fdcf7"
+  },
+  {
+    "name": "Mizuki, Nanako",
+    "prompt": "Mizuki, Nanako from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/120913.jpg?s=650ca8990759d4819fd230053929b499"
+  },
+  {
+    "name": "Mizuki, Father",
+    "prompt": "Mizuki, Father from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/91826.jpg?s=d8c5b0ec15fd256ec7459c75657104c9"
+  },
+  {
+    "name": "Mizushima",
+    "prompt": "Mizushima from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/92540.jpg?s=10484f927e6c2ff9151c85c9cb07ade9"
+  },
+  {
+    "name": "Momoi",
+    "prompt": "Momoi from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/91828.jpg?s=aabcad96eb3a42cfa328c37fa5b4ba22"
+  },
+  {
+    "name": "Murai, Julia",
+    "prompt": "Murai, Julia from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/165511.jpg?s=6220e7b32a5f1abf4e90d8cc697b2a89"
+  },
+  {
+    "name": "Mutou",
+    "prompt": "Mutou from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/92323.jpg?s=1227a2df9d6b8ba57b4532365b40bd3b"
+  },
+  {
+    "name": "Nagase, Nagisa",
+    "prompt": "Nagase, Nagisa from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/111906.jpg?s=0e17629d16d9409b7476cc47b03e3182"
+  },
+  {
+    "name": "Nomura, Father",
+    "prompt": "Nomura, Father from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/92001.jpg?s=e482ba75e4ad33546c59509ce5cea0f9"
+  },
+  {
+    "name": "Nurse",
+    "prompt": "Nurse from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/91923.jpg?s=8772259b00bc29f7546a089ed4f49e6d"
+  },
+  {
+    "name": "Nurse",
+    "prompt": "Nurse from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/92576.jpg?s=7b8f165d2c7803270f285e60e4035921"
+  },
+  {
+    "name": "Ohashi, Motoko",
+    "prompt": "Ohashi, Motoko from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/92008.jpg?s=370fa948c4087459d3cd6f903f85cf09"
+  },
+  {
+    "name": "Ohsawa, Hidero",
+    "prompt": "Ohsawa, Hidero from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/26868.jpg?s=f098d17ce692bc3276f1ef3b62a54d95"
+  },
+  {
+    "name": "Okinoshima, Ichiro",
+    "prompt": "Okinoshima, Ichiro from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/44427.jpg?s=9e429428d81feae8ce8c9a2db78944ea"
+  },
+  {
+    "name": "Oota, Tooru",
+    "prompt": "Oota, Tooru from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/92092.jpg?s=0bef8b2eed7ea4957190e953c46e42f6"
+  },
+  {
+    "name": "Oota, Chizuru",
+    "prompt": "Oota, Chizuru from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/92023.jpg?s=a1020c5e3312860049ac729e0b181e26"
+  },
+  {
+    "name": "Oota, Hidemi",
+    "prompt": "Oota, Hidemi from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/120912.jpg?s=a0adc059b60d32b5a7f1bfba688a0d8a"
+  },
+  {
+    "name": "Pageant Host",
+    "prompt": "Pageant Host from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/92007.jpg?s=09328a4940767eaa67dfa97e512fcb6d"
+  },
+  {
+    "name": "Radio announcer",
+    "prompt": "Radio announcer from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/92545.jpg?s=43be78fb3aab17db34fb63f50c9ffbaa"
+  },
+  {
+    "name": "Reporter",
+    "prompt": "Reporter from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/296641.jpg?s=b5ad15eec54396a82f5b4b3dc9438c22"
+  },
+  {
+    "name": "Saejima, Toshiyuki",
+    "prompt": "Saejima, Toshiyuki from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/345882.jpg?s=7b16a8ab96397c70a4aa03a479ba37de"
+  },
+  {
+    "name": "Saito, Noboru",
+    "prompt": "Saito, Noboru from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/92580.jpg?s=7d3bd69a233e086e6f2ceffa84e54b62"
+  },
+  {
+    "name": "Sakurai, Ryouko",
+    "prompt": "Sakurai, Ryouko from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/202797.jpg?s=9f2da0e9d67d796374742c0ecc1aae2c"
+  },
+  {
+    "name": "Sakurai, Tadashi",
+    "prompt": "Sakurai, Tadashi from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/15492.jpg?s=929061ac654efbae746254bb882a09f1"
+  },
+  {
+    "name": "Salesclerk",
+    "prompt": "Salesclerk from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/92691.jpg?s=8fe2855285605196557ee6947c96f757"
+  },
+  {
+    "name": "Sanomaru, Koji",
+    "prompt": "Sanomaru, Koji from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/91914.jpg?s=b1fc7918e8aba96a06d96abddc65e1a2"
+  },
+  {
+    "name": "Sasaki, Kyoko",
+    "prompt": "Sasaki, Kyoko from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/92334.jpg?s=e0feb6f9bd11a4a157d428f7033e19be"
+  },
+  {
+    "name": "Sato, Yoko",
+    "prompt": "Sato, Yoko from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/92346.jpg?s=82f8b634583a0ea0301f19ce359cc6dd"
+  },
+  {
+    "name": "Shiozaki",
+    "prompt": "Shiozaki from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/92341.jpg?s=1f8b2774ba14b17d958c89b0552c75b2"
+  },
+  {
+    "name": "Shirai, Mokuba",
+    "prompt": "Shirai, Mokuba from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/92579.jpg?s=e87c38c7fdb8c315689b9d7b7643f8b0"
+  },
+  {
+    "name": "Shirai, Chikako",
+    "prompt": "Shirai, Chikako from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/92458.jpg?s=51474cf48800783d78dd64b1f0008bf4"
+  },
+  {
+    "name": "Shrine Maiden",
+    "prompt": "Shrine Maiden from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/92692.jpg?s=13ba5b7ae8724419d267ed6578dbddfd"
+  },
+  {
+    "name": "Superintendent",
+    "prompt": "Superintendent from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/92539.jpg?s=c532c0e2eccea69763d4cc3c8cad68a6"
+  },
+  {
+    "name": "Takahama",
+    "prompt": "Takahama from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/91829.jpg?s=950c1fc36481e25b8d15db8cbc02ad25"
+  },
+  {
+    "name": "Teacher",
+    "prompt": "Teacher from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/92021.jpg?s=dd89b605caddb0040eeaffa1b895084c"
+  },
+  {
+    "name": "Teshigawara, Suguru",
+    "prompt": "Teshigawara, Suguru from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/15493.jpg?s=45ebe256849ac96a5d9eec4b0fba851e"
+  },
+  {
+    "name": "Truck Driver",
+    "prompt": "Truck Driver from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/91892.jpg?s=b419aac449dad50deb552cf67d0359de"
+  },
+  {
+    "name": "Uchiyamada, Ryoko",
+    "prompt": "Uchiyamada, Ryoko from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/91909.jpg?s=14080407ea900e7a191ab3feedf72d8c"
+  },
+  {
+    "name": "Uchiyamada, Yoshiko",
+    "prompt": "Uchiyamada, Yoshiko from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/15497.jpg?s=ffa141266b98d4d018877e413742e25a"
+  },
+  {
+    "name": "Uehara, Father",
+    "prompt": "Uehara, Father from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/92577.jpg?s=ac9ecdec12777cf525e8a538525dee88"
+  },
+  {
+    "name": "Uehara, Anko",
+    "prompt": "Uehara, Anko from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/75375.jpg?s=82c4c1d14c8982788f98b5061738c7d3"
+  },
+  {
+    "name": "Uehara, Mother",
+    "prompt": "Uehara, Mother from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/91926.jpg?s=e7c1ffab85bc0ebd9b6687c2858f7ca8"
+  },
+  {
+    "name": "Waiter",
+    "prompt": "Waiter from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/92104.jpg?s=837a971828baf0ef56ad4034d459a303"
+  },
+  {
+    "name": "Wakamatsu, Miki",
+    "prompt": "Wakamatsu, Miki from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/92336.jpg?s=d54d08683152a65c1533345768073cdb"
+  },
+  {
+    "name": "Window cleaner",
+    "prompt": "Window cleaner from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/92693.jpg?s=9eebad7e02de900ae135828d3eb018b0"
+  },
+  {
+    "name": "Yokoyama, Mizuki",
+    "prompt": "Yokoyama, Mizuki from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/92581.jpg?s=1c15eb680438cb02c4d3bc66d864e318"
+  },
+  {
+    "name": "Young man",
+    "prompt": "Young man from Great Teacher Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/92694.jpg?s=41bac3cf6f6fe05c5f7daa6cd1c55044"
+  }
+]

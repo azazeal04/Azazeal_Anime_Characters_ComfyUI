@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Dent",
+    "prompt": "Dent from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/102325.jpg?s=00d320c31ffb50faa79bf2d75cbc7614"
+  },
+  {
+    "name": "Iris",
+    "prompt": "Iris from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/442059.jpg?s=242500cdb747f0b8a2b0ba80fa7b532b"
+  },
+  {
+    "name": "Meloetta",
+    "prompt": "Meloetta from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/197139.jpg?s=04531cb7b508b46c1b886bd51534e1e6"
+  },
+  {
+    "name": "Pikachu",
+    "prompt": "Pikachu from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/289627.jpg?s=b97db39e3126c4cc184a764059abe0f6"
+  },
+  {
+    "name": "Satoshi",
+    "prompt": "Satoshi from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/100701.jpg?s=e0c6afbdb021ec02343675ebb587d488"
+  },
+  {
+    "name": "Adeku",
+    "prompt": "Adeku from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/116314.jpg?s=fa606f5169814668e8374923d1a1c7c5"
+  },
+  {
+    "name": "Akihiro",
+    "prompt": "Akihiro from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/246211.jpg?s=2403e0bf23369dd280208111526d1896"
+  },
+  {
+    "name": "Aloe",
+    "prompt": "Aloe from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/106962.jpg?s=dd9bb7f8dea5fcd075d8106013018cb7"
+  },
+  {
+    "name": "Araragi, Professor",
+    "prompt": "Araragi, Professor from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/99904.jpg?s=5bf6214b89b4fbd7517369b85df93fcd"
+  },
+  {
+    "name": "Arti",
+    "prompt": "Arti from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/116236.jpg?s=6d3614f0c06767fe66ddb8f7c544f4db"
+  },
+  {
+    "name": "Bel",
+    "prompt": "Bel from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/106600.jpg?s=070a9424eba68af3e39ea017f3e717b4"
+  },
+  {
+    "name": "Blacky",
+    "prompt": "Blacky from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/504427.jpg?s=94e3f93d5a82a5c75baa8b603a8fe990"
+  },
+  {
+    "name": "Cabernet",
+    "prompt": "Cabernet from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/110916.jpg?s=9ed520216ac9a593cf63ee52740bd325"
+  },
+  {
+    "name": "Cattleya",
+    "prompt": "Cattleya from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/209317.jpg?s=633de5b31ccecf3bab369424bf703563"
+  },
+  {
+    "name": "Chandelure",
+    "prompt": "Chandelure from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/564400.jpg?s=18f482177f2f38265d3188b75c9a5570"
+  },
+  {
+    "name": "Chaoboo",
+    "prompt": "Chaoboo from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/504276.jpg?s=dd8bda7cf96aecd3b0a4bee837429fb0"
+  },
+  {
+    "name": "Chihaya",
+    "prompt": "Chihaya from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/559808.jpg?s=dd4e4cad4d45dc7fcf855bf54486e4c0"
+  },
+  {
+    "name": "Chris",
+    "prompt": "Chris from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/246205.jpg?s=725865a71db76eef46554fea710a541e"
+  },
+  {
+    "name": "Coil",
+    "prompt": "Coil from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498605.jpg?s=21c5d42c79b5cab5eb0eb3159de929c5"
+  },
+  {
+    "name": "Corn",
+    "prompt": "Corn from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/101948.jpg?s=3bdae4d16932811ddf60d82be7d44294"
+  },
+  {
+    "name": "Crimgan",
+    "prompt": "Crimgan from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/497193.jpg?s=e5ce5529e475630a7db4724395b083e8"
+  },
+  {
+    "name": "Davey",
+    "prompt": "Davey from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/246295.jpg?s=ddc965ed60a20fa6690448946008c8d9"
+  },
+  {
+    "name": "Dr. Seger",
+    "prompt": "Dr. Seger from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/155141.jpg?s=a4ff226cbd02058f460714cde3aecac2"
+  },
+  {
+    "name": "Eievui",
+    "prompt": "Eievui from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/359157.jpg?s=0cbdbf1b3d11a3949cb9aec6d03ba650"
+  },
+  {
+    "name": "Eifie",
+    "prompt": "Eifie from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/504426.jpg?s=07f50dbf80adbacdc001d4aa56c37ccf"
+  },
+  {
+    "name": "Emonga",
+    "prompt": "Emonga from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/504431.jpg?s=131c3879610241a97419c8465573f4cd"
+  },
+  {
+    "name": "Enbuou",
+    "prompt": "Enbuou from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/504277.jpg?s=054b838448fb8433b5e9f61a0b24a570"
+  },
+  {
+    "name": "Eneko",
+    "prompt": "Eneko from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/517163.jpg?s=bdc3cda13c0f7709f43cc570f09aee7b"
+  },
+  {
+    "name": "Fuuro",
+    "prompt": "Fuuro from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/160767.jpg?s=0b36ac6d54a8f542242f76b41d66f3c9"
+  },
+  {
+    "name": "Gaburiasu",
+    "prompt": "Gaburiasu from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/498081.jpg?s=b09110d6c311d7500faf00434534c453"
+  },
+  {
+    "name": "Gardie",
+    "prompt": "Gardie from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497179.jpg?s=190a0d99d19fe1b73e2a5e6b544a4b2f"
+  },
+  {
+    "name": "Golonya",
+    "prompt": "Golonya from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/498604.jpg?s=168d7ba882896fd68b213d4c65a30c0d"
+  },
+  {
+    "name": "Gothiruselle",
+    "prompt": "Gothiruselle from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/591797.jpg?s=567b684989f204574c5fa7abe8d83042"
+  },
+  {
+    "name": "Hachiku",
+    "prompt": "Hachiku from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/167455.jpg?s=d67ef4c0dc576e9b94d6ca7e0ded1a09"
+  },
+  {
+    "name": "Hikari",
+    "prompt": "Hikari from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/110073.jpg?s=9b0c3fe671617f02124a7d18d35eac8c"
+  },
+  {
+    "name": "Hirokazu",
+    "prompt": "Hirokazu from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/246213.jpg?s=8306d471b2d092ca5b5a07d6dc3b481e"
+  },
+  {
+    "name": "Hitodeman",
+    "prompt": "Hitodeman from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/497608.jpg?s=b9b711e1d756ad2d944a211e97a6d3c0"
+  },
+  {
+    "name": "Homika",
+    "prompt": "Homika from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/278525.jpg?s=ed8ab4414145029287fb1283ad1a5f55"
+  },
+  {
+    "name": "Imotaro",
+    "prompt": "Imotaro from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/246297.jpg?s=f229da022992531a741c12efbfc9829a"
+  },
+  {
+    "name": "Iwark",
+    "prompt": "Iwark from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/528254.jpg?s=581b599604eb78f7cfc8367c34d672c6"
+  },
+  {
+    "name": "Jalorda",
+    "prompt": "Jalorda from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/504274.jpg?s=b0d2801e37b93a50ed826415b0c19b7b"
+  },
+  {
+    "name": "Janovy",
+    "prompt": "Janovy from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/504273.jpg?s=d1234f2513c9b829159e3e1dcd541baa"
+  },
+  {
+    "name": "Jeff",
+    "prompt": "Jeff from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/246293.jpg?s=b66a709867a41178eb19459ef86062ed"
+  },
+  {
+    "name": "Jeremy",
+    "prompt": "Jeremy from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/246203.jpg?s=24a7413d259e2becdf4ac2e570335615"
+  },
+  {
+    "name": "Joy",
+    "prompt": "Joy from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/215001.jpg?s=4709a6ce2788588427805e93172b07e7"
+  },
+  {
+    "name": "Junsa",
+    "prompt": "Junsa from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/84019.jpg?s=b533f0a782484bfd2d5c1fc40b1a3425"
+  },
+  {
+    "name": "Kairyuu",
+    "prompt": "Kairyuu from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/528913.jpg?s=7e9c8cf303fd1acf883ae73eccd5c633"
+  },
+  {
+    "name": "Kamitsure",
+    "prompt": "Kamitsure from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/149501.jpg?s=aad640dc6a87832acfb90a084551dd92"
+  },
+  {
+    "name": "Keno",
+    "prompt": "Keno from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/246305.jpg?s=91c52200186b151ab3c8911f1f2e2d8e"
+  },
+  {
+    "name": "Kenyan",
+    "prompt": "Kenyan from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/246311.jpg?s=c014c6a9aa0e827ec3aad98c6bc8c3fb"
+  },
+  {
+    "name": "Kibago",
+    "prompt": "Kibago from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/504279.jpg?s=1a22f0df4e8560469fc9841f6ffcefcd"
+  },
+  {
+    "name": "Koaruhie",
+    "prompt": "Koaruhie from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/565078.jpg?s=4b28a4300f5bf4c3e96c2f68321dd690"
+  },
+  {
+    "name": "Kojirou",
+    "prompt": "Kojirou from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/502950.jpg?s=c2fd0729a93d9635e946946b3d49e5b2"
+  },
+  {
+    "name": "Koratta",
+    "prompt": "Koratta from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498475.jpg?s=8705af4423acafef2593f11f28f92881"
+  },
+  {
+    "name": "Kotetsu",
+    "prompt": "Kotetsu from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/246309.jpg?s=942e452e6112a685be9962ef18ac144c"
+  },
+  {
+    "name": "Kudari",
+    "prompt": "Kudari from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/140467.jpg?s=0692f2a370b31adfa9537b01f5be455d"
+  },
+  {
+    "name": "Langley",
+    "prompt": "Langley from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/149355.jpg?s=97ef9a417165c20bec203dd19594c40b"
+  },
+  {
+    "name": "Larry",
+    "prompt": "Larry from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/246219.jpg?s=da6867fb4e21994eaf22c486b9ec1cde"
+  },
+  {
+    "name": "Layla",
+    "prompt": "Layla from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/246217.jpg?s=01cf132171dd86759be06a1a1f18ba56"
+  },
+  {
+    "name": "Lucario",
+    "prompt": "Lucario from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/472877.jpg?s=212f1dd46cb5945a1671db3bc2fc32f8"
+  },
+  {
+    "name": "Magmarashi",
+    "prompt": "Magmarashi from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/517159.jpg?s=fd833f7d8702988daa11fadf64e738b1"
+  },
+  {
+    "name": "Martha",
+    "prompt": "Martha from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/246291.jpg?s=591699588ea39ca69c8b4fbff23fbe6c"
+  },
+  {
+    "name": "Marufuji",
+    "prompt": "Marufuji from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/246207.jpg?s=7078531eff3110b6880cd10212765478"
+  },
+  {
+    "name": "Matriarch",
+    "prompt": "Matriarch from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/155837.jpg?s=5186bc900a11fcfee291d09d939ab21d"
+  },
+  {
+    "name": "Maya",
+    "prompt": "Maya from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/246313.jpg?s=92cc7507e8d078d9dcadee529c53feb2"
+  },
+  {
+    "name": "Mijumaru",
+    "prompt": "Mijumaru from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/498764.jpg?s=b565811ee8d234328532ade4d51df8d1"
+  },
+  {
+    "name": "Mikael",
+    "prompt": "Mikael from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/246301.jpg?s=f68d79c10b5e762b70abf2810c8fc537"
+  },
+  {
+    "name": "Mikuri",
+    "prompt": "Mikuri from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/469817.jpg?s=3f53d0ce2b29cfb8503ace1c3e17a1bf"
+  },
+  {
+    "name": "Milokaross",
+    "prompt": "Milokaross from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/578826.jpg?s=1be97b4ef3775079802cb31a5f1e25c3"
+  },
+  {
+    "name": "Mizuki",
+    "prompt": "Mizuki from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/246283.jpg?s=5313abdcd452ffe2f55b42c90b15a765"
+  },
+  {
+    "name": "Musashi",
+    "prompt": "Musashi from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/278096.jpg?s=051ae458066175cfe4bf0f07bb2df11d"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/511553.jpg?s=a57d2a41fe40f1e203b06d3d9218f4b5"
+  },
+  {
+    "name": "Nidoking",
+    "prompt": "Nidoking from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/498074.jpg?s=64acc4b996361dfce6597143549a2fca"
+  },
+  {
+    "name": "Nobori",
+    "prompt": "Nobori from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/140469.jpg?s=9af5223cfeb631198348507858aef7a6"
+  },
+  {
+    "name": "Nyarth",
+    "prompt": "Nyarth from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/131981.jpg?s=d7734d4cd42e72435749110ba1953798"
+  },
+  {
+    "name": "Pachirisu",
+    "prompt": "Pachirisu from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/569095.jpg?s=989930b6f8bb43c54e4e125176f8e5fa"
+  },
+  {
+    "name": "Pochama",
+    "prompt": "Pochama from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/449497.jpg?s=c2298c5226083be5dcf2738c78036bb8"
+  },
+  {
+    "name": "Pod",
+    "prompt": "Pod from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/101949.jpg?s=e3d599fc071e0e521fe8e8e0094a7793"
+  },
+  {
+    "name": "Pokabu",
+    "prompt": "Pokabu from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/504275.jpg?s=4aa268d0ccdf742730cf333a3fbbf2d0"
+  },
+  {
+    "name": "Pokemon Zukan",
+    "prompt": "Pokemon Zukan from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/284318.jpg?s=bdc8446c95348fbb93324d4e51edb3de"
+  },
+  {
+    "name": "Raul",
+    "prompt": "Raul from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/246439.jpg?s=1e0af87693232bd8632f93aecac0da21"
+  },
+  {
+    "name": "Riku",
+    "prompt": "Riku from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/246289.jpg?s=14acff0f05f8bffc51f06b0e0c6f740a"
+  },
+  {
+    "name": "Riolu",
+    "prompt": "Riolu from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/523722.jpg?s=b72ebe22e56241dac1aba9aa2bf7ce35"
+  },
+  {
+    "name": "Sakaki",
+    "prompt": "Sakaki from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/222133.jpg?s=b6503c67934b3c802476cc661913c35b"
+  },
+  {
+    "name": "Shaga",
+    "prompt": "Shaga from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/450859.jpg?s=ccf5112dc879dbc9c332cc1b8b1885b8"
+  },
+  {
+    "name": "Shion",
+    "prompt": "Shion from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/246285.jpg?s=818cc3026bcb7b3dd76c57a986709f6e"
+  },
+  {
+    "name": "Shirona",
+    "prompt": "Shirona from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/464007.jpg?s=de9beb0eafad0f93186190e0554219ff"
+  },
+  {
+    "name": "Shizui",
+    "prompt": "Shizui from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/246215.jpg?s=aa924abecd8fdb0e093c8dd2a2dc0ac4"
+  },
+  {
+    "name": "Shooti",
+    "prompt": "Shooti from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/116631.jpg?s=5449a373e469ef74ffa84494254e306e"
+  },
+  {
+    "name": "Shoubu",
+    "prompt": "Shoubu from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/185653.jpg?s=d632b0b408be5405d8ce95a0a484958d"
+  },
+  {
+    "name": "Sidon",
+    "prompt": "Sidon from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498920.jpg?s=a23393720e15347761ee21645cac23ac"
+  },
+  {
+    "name": "Soran",
+    "prompt": "Soran from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/246287.jpg?s=8234f8f1a5fc1f29bdd01b7253e5d395"
+  },
+  {
+    "name": "Sugiura",
+    "prompt": "Sugiura from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/246209.jpg?s=d7c897edbaad9b62cf93f1c34abcd564"
+  },
+  {
+    "name": "Takemitsu",
+    "prompt": "Takemitsu from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/156189.jpg?s=42a94f54e0e221b30ebeebaa8b0c03ff"
+  },
+  {
+    "name": "Tsutarja",
+    "prompt": "Tsutarja from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/504272.jpg?s=ac4cad0bc9029103e495de4c7808b5a3"
+  },
+  {
+    "name": "Ultimo",
+    "prompt": "Ultimo from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/246303.jpg?s=8db712636b40d5922aa1877a62a961d3"
+  },
+  {
+    "name": "Virgil",
+    "prompt": "Virgil from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/186941.jpg?s=f33858b4b8cc0a5c6da9f9449805fa52"
+  },
+  {
+    "name": "Yabukuron",
+    "prompt": "Yabukuron from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/576092.jpg?s=b8e43e911836e1393112bce00d4f4229"
+  },
+  {
+    "name": "Yacon",
+    "prompt": "Yacon from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/156209.jpg?s=d3a1d6873f82ff12019bcc335d6bfd19"
+  },
+  {
+    "name": "Yanappu",
+    "prompt": "Yanappu from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/521892.jpg?s=95e38a6fb6dd70afcc87ee235b553d2e"
+  },
+  {
+    "name": "Zorua",
+    "prompt": "Zorua from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/112735.jpg?s=1bc20bae622229475b731e2acf5a203b"
+  },
+  {
+    "name": "Zuruggu",
+    "prompt": "Zuruggu from Pokemon Best Wishes! Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/470443.jpg?s=9bad4a169257b4f7947d9d88ca8360bf"
+  }
+]

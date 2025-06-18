@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Kaneki, Ken",
+    "prompt": "Kaneki, Ken from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/307255.jpg?s=a3b352a4950d3231677668626b1a95f4"
+  },
+  {
+    "name": "Mutsuki, Tooru",
+    "prompt": "Mutsuki, Tooru from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/484468.jpg?s=0fe13a20aa34bc236bc5a5535e9a9024"
+  },
+  {
+    "name": "Sasaki, Haise",
+    "prompt": "Sasaki, Haise from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/484466.jpg?s=f34eb23d5a1d387a9109460279051cdf"
+  },
+  {
+    "name": "Shirazu, Ginshi",
+    "prompt": "Shirazu, Ginshi from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/370180.jpg?s=42aae3593f25dfe70c91ff1f5b9e83c8"
+  },
+  {
+    "name": "Urie, Kuki",
+    "prompt": "Urie, Kuki from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/484467.jpg?s=226da64fe25dc12ca2eda304ce53ebce"
+  },
+  {
+    "name": "Yonebayashi, Saiko",
+    "prompt": "Yonebayashi, Saiko from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/362131.jpg?s=adcc75f4505e3634bc4876ca76cfba0a"
+  },
+  {
+    "name": "Abe, Maiko",
+    "prompt": "Abe, Maiko from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/259779.jpg?s=67ed4d2dfb07359d050eb3a0ec91ca8d"
+  },
+  {
+    "name": "Akai, Tomonori",
+    "prompt": "Akai, Tomonori from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/357620.jpg?s=769a56bd13fc45116d61f1a052d27693"
+  },
+  {
+    "name": "Aliza",
+    "prompt": "Aliza from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/358793.jpg?s=d5e09b0f8c518243bd2c210e9a45de11"
+  },
+  {
+    "name": "Amon, Koutarou",
+    "prompt": "Amon, Koutarou from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/251453.jpg?s=cf7bdc7cb409357d69720b0aee488ff6"
+  },
+  {
+    "name": "Arima, Kishou",
+    "prompt": "Arima, Kishou from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/257935.jpg?s=774409608456392dcaca31f53234bb53"
+  },
+  {
+    "name": "Asachi, Waka",
+    "prompt": "Asachi, Waka from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/360020.jpg?s=5d7c53e1909fcbd964ea1ed31bb92c47"
+  },
+  {
+    "name": "Asada, Jirou",
+    "prompt": "Asada, Jirou from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/361273.jpg?s=91916125a74bf5eb9d26208abf86d4f3"
+  },
+  {
+    "name": "Atou, Daisuke",
+    "prompt": "Atou, Daisuke from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/357615.jpg?s=bde62b4ad88472bfb78c5f7d91576734"
+  },
+  {
+    "name": "Big Madam",
+    "prompt": "Big Madam from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/443704.jpg?s=e18a5805166c98fc153513750f118569"
+  },
+  {
+    "name": "Chigyou, Kouitsu",
+    "prompt": "Chigyou, Kouitsu from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/361223.jpg?s=6e0aa2e736399c30fde8d39b541909d0"
+  },
+  {
+    "name": "Eto",
+    "prompt": "Eto from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/276501.jpg?s=6bd3d1eda8082217b36d0e2ff2d8775f"
+  },
+  {
+    "name": "Fueguchi, Hinami",
+    "prompt": "Fueguchi, Hinami from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/263269.jpg?s=847a2a380804cf8e0c70b2dc2d5e2f17"
+  },
+  {
+    "name": "Fura, Taishi",
+    "prompt": "Fura, Taishi from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/293712.jpg?s=fc5cf682dd484a249a3eeea286b2f981"
+  },
+  {
+    "name": "Furuta, Nimura",
+    "prompt": "Furuta, Nimura from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/359236.jpg?s=db935be926dfef1a7553deba629ef295"
+  },
+  {
+    "name": "Ganbo",
+    "prompt": "Ganbo from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/357869.jpg?s=2eb47052664364d4a46b29418de4fbe1"
+  },
+  {
+    "name": "Hanbee, Abara",
+    "prompt": "Hanbee, Abara from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/357866.jpg?s=a132a025461f06854224d42f968ef4c9"
+  },
+  {
+    "name": "Hayashimura, Naoto",
+    "prompt": "Hayashimura, Naoto from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/361262.jpg?s=87d33e9b052397fe2826cfb494c6240a"
+  },
+  {
+    "name": "Hirako, Take",
+    "prompt": "Hirako, Take from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/356024.jpg?s=ad15601aa4f81a12c46a380b0650a533"
+  },
+  {
+    "name": "Hoito, Roma",
+    "prompt": "Hoito, Roma from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/320517.jpg?s=d7104803cfaad1999eb1b76a3f1cf209"
+  },
+  {
+    "name": "Hooguro",
+    "prompt": "Hooguro from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/361264.jpg?s=60b50a1cea032e76d5d86b990e8faae9"
+  },
+  {
+    "name": "Hori, Chie",
+    "prompt": "Hori, Chie from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/297386.jpg?s=eb0b9e059a10733b023b5db7d254a94e"
+  },
+  {
+    "name": "Houji, Kousuke",
+    "prompt": "Houji, Kousuke from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/276349.jpg?s=2a5681ed8c678474ecb20cc2861f7ace"
+  },
+  {
+    "name": "Idera, Shousei",
+    "prompt": "Idera, Shousei from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/368393.jpg?s=d45ebba606e9f3d039226ed33d66685a"
+  },
+  {
+    "name": "Ihei, Hairu",
+    "prompt": "Ihei, Hairu from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/361256.jpg?s=99b040f9ed01955873aa7d147da3d46d"
+  },
+  {
+    "name": "Itou, Kuramoto",
+    "prompt": "Itou, Kuramoto from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/356022.jpg?s=5150dd33d4ed418f42717900eb3a1705"
+  },
+  {
+    "name": "Johannes, Tycho",
+    "prompt": "Johannes, Tycho from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/361272.jpg?s=c0b2587b5df55b12c03abca4e7b565f9"
+  },
+  {
+    "name": "Kaneki, Mother",
+    "prompt": "Kaneki, Mother from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/259937.jpg?s=6388d86412fd4eb82d7c912bccad0083"
+  },
+  {
+    "name": "Kanou, Akihiro",
+    "prompt": "Kanou, Akihiro from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/339852.jpg?s=bedd8a6492bed4f6cbfe97d57118015d"
+  },
+  {
+    "name": "Kijima, Shiki",
+    "prompt": "Kijima, Shiki from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/300409.jpg?s=f337bad65375de363157d7f95a35f0c6"
+  },
+  {
+    "name": "Kirishima, Ayato",
+    "prompt": "Kirishima, Ayato from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/258501.jpg?s=c45a7939e0741dcc583be3cf50b1adca"
+  },
+  {
+    "name": "Kirishima, Touka",
+    "prompt": "Kirishima, Touka from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/234699.jpg?s=10ef474344779135236911013b0925fc"
+  },
+  {
+    "name": "Kobayashi, Akashi",
+    "prompt": "Kobayashi, Akashi from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/356021.jpg?s=dd1e5d5c287c6c07c66df17bdf2ade0c"
+  },
+  {
+    "name": "Kosaka, Yoriko",
+    "prompt": "Kosaka, Yoriko from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/276507.jpg?s=71015b87471a1864b314696690b9394b"
+  },
+  {
+    "name": "Kurei",
+    "prompt": "Kurei from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/361270.jpg?s=9b4c35c55a6e9c7c2fbe3f3f8319900f"
+  },
+  {
+    "name": "Kuroiwa, Iwao",
+    "prompt": "Kuroiwa, Iwao from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/276505.jpg?s=bd76793fff97527213f6f19962346b45"
+  },
+  {
+    "name": "Kuroiwa, Takeomi",
+    "prompt": "Kuroiwa, Takeomi from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/356017.jpg?s=9b9bdfc07065da7ce6b4e9eb15fee35b"
+  },
+  {
+    "name": "Kusakari, Miza",
+    "prompt": "Kusakari, Miza from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/357625.jpg?s=c13f98cc6151e675b0313920c59a0bfa"
+  },
+  {
+    "name": "Mado, Akira",
+    "prompt": "Mado, Akira from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/276517.jpg?s=dc071c84b523361357f4faa0a605a517"
+  },
+  {
+    "name": "Mairo",
+    "prompt": "Mairo from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/359237.jpg?s=ff1325266d6cc71a7b181049f00c8dcc"
+  },
+  {
+    "name": "Marude, Itsuki",
+    "prompt": "Marude, Itsuki from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/298436.jpg?s=f15b4596245c5c8928051606446a69fc"
+  },
+  {
+    "name": "Matsumae",
+    "prompt": "Matsumae from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/298432.jpg?s=2c50764739213170de3b4696d3f40a9d"
+  },
+  {
+    "name": "Mayu",
+    "prompt": "Mayu from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/357868.jpg?s=3190425558b93cc2fdb9e8dd292bb18a"
+  },
+  {
+    "name": "Michibata, Shinji",
+    "prompt": "Michibata, Shinji from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/360173.jpg?s=425672edf4a15103f66b3f5ab7799854"
+  },
+  {
+    "name": "Mikage, Miyuki",
+    "prompt": "Mikage, Miyuki from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/359238.jpg?s=6e7e9eb5a7a35a6952da1a1c2cc1805b"
+  },
+  {
+    "name": "Mura, Sakino",
+    "prompt": "Mura, Sakino from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nakarai, Keijin",
+    "prompt": "Nakarai, Keijin from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/359235.jpg?s=9a4eb7d0605e42176f9d48084052cde2"
+  },
+  {
+    "name": "Naki",
+    "prompt": "Naki from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/276500.jpg?s=ee8c251ccf6e0a50a63fcc0b992eb3e2"
+  },
+  {
+    "name": "Nezu, Yasuhito",
+    "prompt": "Nezu, Yasuhito from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/361271.jpg?s=d64fb98821a6b24de1548ea6b8be5279"
+  },
+  {
+    "name": "Nico",
+    "prompt": "Nico from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/258485.jpg?s=298f3d4b5cbfaf39c52c2c9ff18363b2"
+  },
+  {
+    "name": "Nishio, Nishiki",
+    "prompt": "Nishio, Nishiki from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/259333.jpg?s=1b62f45068a28795c3cb331463e75e49"
+  },
+  {
+    "name": "Noro",
+    "prompt": "Noro from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/276497.jpg?s=a93adc3b019080c3b9c90563c626d8f6"
+  },
+  {
+    "name": "Okahira",
+    "prompt": "Okahira from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/369804.jpg?s=f478b0c01de83b00f743c3dd0c54dfb2"
+  },
+  {
+    "name": "Ooshiba, Ryouta",
+    "prompt": "Ooshiba, Ryouta from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/357622.jpg?s=ea80d1d5a989e3af74996129b9c0d6a5"
+  },
+  {
+    "name": "Porpora, Donato",
+    "prompt": "Porpora, Donato from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/276502.jpg?s=391f798ce4acba05c370ebf368d000ce"
+  },
+  {
+    "name": "Saeki, Karao",
+    "prompt": "Saeki, Karao from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/356019.jpg?s=c9e5a03e7b8645420c2ff24c0999bb35"
+  },
+  {
+    "name": "Satomi, Shion",
+    "prompt": "Satomi, Shion from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/358528.jpg?s=fbb183f454f545676e73ea6343b1ec2a"
+  },
+  {
+    "name": "Sawaike, Ryuuta",
+    "prompt": "Sawaike, Ryuuta from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/361063.jpg?s=e37312fc8ffac3db2a740a5b1bd2a6a5"
+  },
+  {
+    "name": "Shiba, Ryoutarou",
+    "prompt": "Shiba, Ryoutarou from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/356016.jpg?s=b14f949a7778616ea9e20cd5cc2bdf91"
+  },
+  {
+    "name": "Shibashi, Shunichi",
+    "prompt": "Shibashi, Shunichi from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/357619.jpg?s=08c74ce581a7b7c015439ad2413afab0"
+  },
+  {
+    "name": "Shikorae",
+    "prompt": "Shikorae from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/359813.jpg?s=0151241dbb4f33ab5289ef48ea0be3c1"
+  },
+  {
+    "name": "Shimoguchi, Nobu",
+    "prompt": "Shimoguchi, Nobu from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/356014.jpg?s=46b2c0a7c23adac63461941d423505b8"
+  },
+  {
+    "name": "Suzuya, Juuzou",
+    "prompt": "Suzuya, Juuzou from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/275843.jpg?s=a56227409808edb48f5e9cb3c85211b0"
+  },
+  {
+    "name": "Takatsuki, Sen",
+    "prompt": "Takatsuki, Sen from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/285247.jpg?s=8b5ca78f31b4fe51140ae50a27f10ed4"
+  },
+  {
+    "name": "Takizawa, Seidou",
+    "prompt": "Takizawa, Seidou from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/276528.jpg?s=430409ced1eda2ccb54d17b27abf3784"
+  },
+  {
+    "name": "Tamaki, Mizurou",
+    "prompt": "Tamaki, Mizurou from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/362888.jpg?s=4f13832c6caa88e505014dcbf1ad3537"
+  },
+  {
+    "name": "Tatara",
+    "prompt": "Tatara from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/258515.jpg?s=c408ee12eaea890a301e2d4512367175"
+  },
+  {
+    "name": "Toga, Miho",
+    "prompt": "Toga, Miho from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/358527.jpg?s=8bf472a55d9dab2312a55a5b41b45d4c"
+  },
+  {
+    "name": "Tokage, Goumasa",
+    "prompt": "Tokage, Goumasa from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/358529.jpg?s=430625c8159223e14b44149463ebea18"
+  },
+  {
+    "name": "Tomoe, Yumitsu",
+    "prompt": "Tomoe, Yumitsu from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/400811.jpg?s=82a4f475fad411f8a97b2cdb74b44a8c"
+  },
+  {
+    "name": "Tougi, Hina",
+    "prompt": "Tougi, Hina from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/357621.jpg?s=071424de976592052a6f648996d04ea9"
+  },
+  {
+    "name": "Tsukiyama, Shuu",
+    "prompt": "Tsukiyama, Shuu from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/296873.jpg?s=775d67102b007899c75d8d76490bd0c7"
+  },
+  {
+    "name": "Tsukiyama, Mirumo",
+    "prompt": "Tsukiyama, Mirumo from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/365057.jpg?s=43274e9fb78282b27257944d4b72cd67"
+  },
+  {
+    "name": "Ui, Koori",
+    "prompt": "Ui, Koori from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/298447.jpg?s=fb51fcfab3e9cba5dd14bd7624989956"
+  },
+  {
+    "name": "Umeno, Masami",
+    "prompt": "Umeno, Masami from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/360174.jpg?s=3d45228173acc55ac23901d057d9ceeb"
+  },
+  {
+    "name": "Uta",
+    "prompt": "Uta from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/259327.jpg?s=aa8d9d2ead39a6add9b0c2cc36bb69b5"
+  },
+  {
+    "name": "von Rosewald, Kanae",
+    "prompt": "von Rosewald, Kanae from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/358792.jpg?s=d50d468c3cc3cfdd28a24f824fc93d26"
+  },
+  {
+    "name": "Washuu, Yoshitoki",
+    "prompt": "Washuu, Yoshitoki from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/306142.jpg?s=fe371512a054dcba8dd1507785452327"
+  },
+  {
+    "name": "Washuu, Matsuri",
+    "prompt": "Washuu, Matsuri from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/358217.jpg?s=ee94c00bab8b88fd9a6e3a4755db25b1"
+  },
+  {
+    "name": "Washuu, Tsuneyoshi",
+    "prompt": "Washuu, Tsuneyoshi from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/359152.jpg?s=5f40d3581f38358f1e5dcf38ae66e917"
+  },
+  {
+    "name": "Yomo, Renji",
+    "prompt": "Yomo, Renji from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/259329.jpg?s=2529443c4b9622dfdf093b260cfd68ca"
+  },
+  {
+    "name": "Yoshimura",
+    "prompt": "Yoshimura from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/256459.jpg?s=b6027f0b98c937a088762554edaec4f5"
+  },
+  {
+    "name": "Yuuma",
+    "prompt": "Yuuma from Tokyo Ghoul:re",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/361268.jpg?s=34229764f5206d5e233924563ea2c673"
+  }
+]

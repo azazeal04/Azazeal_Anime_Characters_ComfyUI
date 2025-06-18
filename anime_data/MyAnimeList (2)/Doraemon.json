@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Doraemon",
+    "prompt": "Doraemon from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/279905.jpg?s=41ad5388ff6ffcb811bd83d3701ecaad"
+  },
+  {
+    "name": "Gouda, Takeshi",
+    "prompt": "Gouda, Takeshi from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/93606.jpg?s=05b0a65b5930e42a9229006e5805ddcf"
+  },
+  {
+    "name": "Honekawa, Suneo",
+    "prompt": "Honekawa, Suneo from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/95993.jpg?s=2b68358e0fdcc5f11144010a1d562eee"
+  },
+  {
+    "name": "Minamoto, Shizuka",
+    "prompt": "Minamoto, Shizuka from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/570490.jpg?s=0530e3da5ba6ef53b68d46030b3316f7"
+  },
+  {
+    "name": "Nobi, Nobita",
+    "prompt": "Nobi, Nobita from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/93721.jpg?s=9b5d23b9ac02dbd5dfc59c1af00e9b14"
+  },
+  {
+    "name": "Black Feudal Lord",
+    "prompt": "Black Feudal Lord from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/570897.jpg?s=e90169228dceacffa4f9086864f3face"
+  },
+  {
+    "name": "Botako",
+    "prompt": "Botako from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/497303.jpg?s=e2f36476d6d9052fea5beb6e40293444"
+  },
+  {
+    "name": "Gouda, Sasuke",
+    "prompt": "Gouda, Sasuke from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/496873.jpg?s=4c0cce612d6d2cee3f5df89363a90c7b"
+  },
+  {
+    "name": "Honekawa, Mother",
+    "prompt": "Honekawa, Mother from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/357223.jpg?s=ca2085c748761e6ffe87c73509ed3e6b"
+  },
+  {
+    "name": "Honekawa, Sunemaru",
+    "prompt": "Honekawa, Sunemaru from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/570895.jpg?s=19e96f79ed8216679ebc792df0d26931"
+  },
+  {
+    "name": "Honekawa's Father",
+    "prompt": "Honekawa's Father from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/496974.jpg?s=1e50e00ced82209d7b827d59e4f7b8cf"
+  },
+  {
+    "name": "Minamoto, Michiko",
+    "prompt": "Minamoto, Michiko from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/571279.jpg?s=ef4c18fc427daad3cb608f3ea7011280"
+  },
+  {
+    "name": "Nobi, Nobisuke",
+    "prompt": "Nobi, Nobisuke from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/282047.jpg?s=4c0f8c4875628e966c468267d2811443"
+  },
+  {
+    "name": "Nobi, Nobisaku",
+    "prompt": "Nobi, Nobisaku from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/496861.jpg?s=668bf0695273ac1a62c73aa111d9ac59"
+  },
+  {
+    "name": "Nobi, Tamako",
+    "prompt": "Nobi, Tamako from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/220269.jpg?s=e1e14fd35a6bde7b1c348c71c007b57f"
+  },
+  {
+    "name": "Nobi, Sewashi",
+    "prompt": "Nobi, Sewashi from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/340002.jpg?s=b0f8ad9092ea8ae8e073a3a9f30376f1"
+  },
+  {
+    "name": "Nobita's Grandmother",
+    "prompt": "Nobita's Grandmother from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/496858.jpg?s=0098e80dabb4316de0375f62df84e94c"
+  },
+  {
+    "name": "Red Feudal Lord",
+    "prompt": "Red Feudal Lord from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/570902.jpg?s=61c99910ea1d5bb4fe48be5a0a3c3b02"
+  },
+  {
+    "name": "Roboko",
+    "prompt": "Roboko from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/571063.jpg?s=e9bf4bbf9efcf9a1c4ba37be8eaf9e15"
+  },
+  {
+    "name": "Sensei",
+    "prompt": "Sensei from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/570687.jpg?s=48449eaee9d5c6dc3ea3edfd5e3a5f89"
+  },
+  {
+    "name": "Stray Cat Kuro",
+    "prompt": "Stray Cat Kuro from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497307.jpg?s=72d164aba80a76bb05d1d06ce276a9fc"
+  },
+  {
+    "name": "Sunemaru's Father",
+    "prompt": "Sunemaru's Father from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/570906.jpg?s=98bdc65e306db929addc3f59d38e2386"
+  },
+  {
+    "name": "Tadashi",
+    "prompt": "Tadashi from Doraemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/497149.jpg?s=3b655d51f3c339c0aa9ede44b2ab13ec"
+  }
+]

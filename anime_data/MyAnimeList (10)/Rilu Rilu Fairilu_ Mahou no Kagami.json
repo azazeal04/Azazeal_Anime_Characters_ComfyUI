@@ -1,0 +1,732 @@
+[
+  {
+    "name": "Himawari",
+    "prompt": "Himawari from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/324199.jpg?s=1d86658b2e27e3cfc3db7f1eb3fead9c"
+  },
+  {
+    "name": "Lip",
+    "prompt": "Lip from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/324196.jpg?s=77f9e10d8b80265b08aa1a5413730f6d"
+  },
+  {
+    "name": "Rose",
+    "prompt": "Rose from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/324197.jpg?s=35d57ac87fcd61c88973cff9e0d1539d"
+  },
+  {
+    "name": "Sumire",
+    "prompt": "Sumire from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/324198.jpg?s=6a71023522caf983c41cd2492c3ef0ca"
+  },
+  {
+    "name": "Ageha",
+    "prompt": "Ageha from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/547218.jpg?s=afd7428897a222ee2217d09e97ca5e81"
+  },
+  {
+    "name": "Ajisai",
+    "prompt": "Ajisai from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/547127.jpg?s=859e7fb263df716013057882b3bddda6"
+  },
+  {
+    "name": "Akiakane",
+    "prompt": "Akiakane from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/547001.jpg?s=6a10d4f7c659ca40df7488c758fc739f"
+  },
+  {
+    "name": "Akoya",
+    "prompt": "Akoya from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/547002.jpg?s=825d999c35cf2a9ffae3fc961bf2955d"
+  },
+  {
+    "name": "Amemi",
+    "prompt": "Amemi from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/547116.jpg?s=e72f0e4b0721dddf3b2d5e5debfbdeda"
+  },
+  {
+    "name": "Anchusa",
+    "prompt": "Anchusa from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/547151.jpg?s=eccf4d2b1804b93444ad74cf32ef9c74"
+  },
+  {
+    "name": "Angela",
+    "prompt": "Angela from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/284440.jpg?s=514432c71a975ca4b55fcc168592ea71"
+  },
+  {
+    "name": "Arti",
+    "prompt": "Arti from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/547123.jpg?s=f534166783e7ed8d3f637c5318781353"
+  },
+  {
+    "name": "Aru-sensei",
+    "prompt": "Aru-sensei from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/547281.jpg?s=4bc595abe4c09511bc9b4a81c81224e1"
+  },
+  {
+    "name": "Aurora",
+    "prompt": "Aurora from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/547124.jpg?s=6cabac3eada75ccb164f8140d5390ba1"
+  },
+  {
+    "name": "Azami",
+    "prompt": "Azami from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/547150.jpg?s=6bd934b2f2dd6ceb3bba4067232885fd"
+  },
+  {
+    "name": "Benitengu",
+    "prompt": "Benitengu from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/547000.jpg?s=64bc67936876feef2e0eae34acf3e52c"
+  },
+  {
+    "name": "Blueberry",
+    "prompt": "Blueberry from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/547270.jpg?s=01f0c046e8266a39148c9661f59ccbaa"
+  },
+  {
+    "name": "Bokkuri-sensei",
+    "prompt": "Bokkuri-sensei from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/546909.jpg?s=5907a1ed665349b2c55b52b176388d28"
+  },
+  {
+    "name": "Broco",
+    "prompt": "Broco from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/547226.jpg?s=8f2ba476e90a6bf91c236cf7ee4c1eba"
+  },
+  {
+    "name": "Bunta",
+    "prompt": "Bunta from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/547216.jpg?s=fa83999ed3c78dbc7fbb7266399765c7"
+  },
+  {
+    "name": "Cabbage",
+    "prompt": "Cabbage from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/547131.jpg?s=2a47ddc97d97c6f1fb0e9902ba956601"
+  },
+  {
+    "name": "Carrot",
+    "prompt": "Carrot from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/547105.jpg?s=023d50124f4a63654be68bf926b731a6"
+  },
+  {
+    "name": "Caulico",
+    "prompt": "Caulico from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/547227.jpg?s=e7d3f2f538cd894b58ae97f00acde1f3"
+  },
+  {
+    "name": "Celery",
+    "prompt": "Celery from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/547257.jpg?s=504a2593fce1b720b71d71c2cf04bf6c"
+  },
+  {
+    "name": "Chipu",
+    "prompt": "Chipu from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/547295.jpg?s=83a8561933d6b28f266c17f45fbcb0a4"
+  },
+  {
+    "name": "Corn",
+    "prompt": "Corn from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/547130.jpg?s=415c7882ae1fda4f8d500d974944acf2"
+  },
+  {
+    "name": "Dake",
+    "prompt": "Dake from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/546999.jpg?s=9d15432ae84235339c34901489df040b"
+  },
+  {
+    "name": "Danshaku",
+    "prompt": "Danshaku from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/547128.jpg?s=2bfefc47e062fed07e4f08e5c214965c"
+  },
+  {
+    "name": "Dante",
+    "prompt": "Dante from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/546995.jpg?s=fbd392bd432bcc51823b7bd3ab4753f8"
+  },
+  {
+    "name": "Don",
+    "prompt": "Don from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/547283.jpg?s=b73944a3618e5a4e85c67d55566df34b"
+  },
+  {
+    "name": "Dora-sensei",
+    "prompt": "Dora-sensei from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/547289.jpg?s=869897910ca5b38809c78fe7bfb66601"
+  },
+  {
+    "name": "Dot",
+    "prompt": "Dot from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/546998.jpg?s=3e16f3fd9b47b065a8b1cbcb10534b64"
+  },
+  {
+    "name": "Duke Ufu",
+    "prompt": "Duke Ufu from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/547290.jpg?s=b34bdb11c7ee2aa6fefb204034b3837a"
+  },
+  {
+    "name": "Durian",
+    "prompt": "Durian from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/547208.jpg?s=8482ca5d949cba4b550e78906f0542c2"
+  },
+  {
+    "name": "Eri",
+    "prompt": "Eri from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/547209.jpg?s=e84d95b486ab48a94bee077fc7670ab4"
+  },
+  {
+    "name": "Fairilu Gole",
+    "prompt": "Fairilu Gole from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/546896.jpg?s=90204bc2ab210b5e53b512b291ec1753"
+  },
+  {
+    "name": "Fairilu Marje",
+    "prompt": "Fairilu Marje from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/546898.jpg?s=1b1072cac1927bdf039b1838a8959228"
+  },
+  {
+    "name": "Fish",
+    "prompt": "Fish from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/546985.jpg?s=f2fc410c83c7ab700f3c2ade09f62411"
+  },
+  {
+    "name": "Gardenia",
+    "prompt": "Gardenia from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/547292.jpg?s=051fc41292932afcaff1edd0a5ac2520"
+  },
+  {
+    "name": "Garnet",
+    "prompt": "Garnet from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/91203.jpg?s=0ba43de6ac512126b694cb4c4fcc8252"
+  },
+  {
+    "name": "Gecko",
+    "prompt": "Gecko from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/547316.jpg?s=94162ae6f950af2ef1baf209b9eb0020"
+  },
+  {
+    "name": "Gerbera",
+    "prompt": "Gerbera from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/547158.jpg?s=5baadbbb516216ed889c17b9c338b8c6"
+  },
+  {
+    "name": "Goemon",
+    "prompt": "Goemon from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/547213.jpg?s=94306553441e276f66c1832470d26263"
+  },
+  {
+    "name": "Haetori",
+    "prompt": "Haetori from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/546989.jpg?s=01e3312aa5b3e0c7f3033e7932cba96e"
+  },
+  {
+    "name": "Hamu-sensei",
+    "prompt": "Hamu-sensei from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/547291.jpg?s=7b29a37ca0b849c1d8cb844d64475626"
+  },
+  {
+    "name": "Hanamura, Lilas",
+    "prompt": "Hanamura, Lilas from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/547114.jpg?s=155d59a21c5fd629f929b3a42addfd2e"
+  },
+  {
+    "name": "Hanamura, Karen",
+    "prompt": "Hanamura, Karen from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/547241.jpg?s=4430120217692762e587c131fc54f279"
+  },
+  {
+    "name": "Hanamura, Nozomu",
+    "prompt": "Hanamura, Nozomu from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/353274.jpg?s=6ff7fb618597f70763a566a8508516cd"
+  },
+  {
+    "name": "Higan",
+    "prompt": "Higan from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/547046.jpg?s=0afe2ca5deffb38eeebe3576752850d5"
+  },
+  {
+    "name": "Hii",
+    "prompt": "Hii from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/547253.jpg?s=9bdab8b9df0f7441aba084e741aa743e"
+  },
+  {
+    "name": "Himepu",
+    "prompt": "Himepu from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/547296.jpg?s=854bfdc2cefd116e77151de463b0ae29"
+  },
+  {
+    "name": "Hopper",
+    "prompt": "Hopper from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/547118.jpg?s=7c5512ced78ae6840196888a0ee00ee5"
+  },
+  {
+    "name": "Hotaru",
+    "prompt": "Hotaru from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/547050.jpg?s=f350d2a88c14d214dd5c68fbafc60237"
+  },
+  {
+    "name": "Houshi",
+    "prompt": "Houshi from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/547203.jpg?s=368f2f577d93407332be9d048da02ade"
+  },
+  {
+    "name": "Jasmine",
+    "prompt": "Jasmine from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/547120.jpg?s=a26fbdbfecf2aa9570527f3ccea062ee"
+  },
+  {
+    "name": "Jonmeke",
+    "prompt": "Jonmeke from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/547259.jpg?s=8b38ae4011af6341612f53e918fd8ce7"
+  },
+  {
+    "name": "Kabuto",
+    "prompt": "Kabuto from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/547003.jpg?s=490a16976eb3427197dfb59421cf4d37"
+  },
+  {
+    "name": "Kaidou, Ruko",
+    "prompt": "Kaidou, Ruko from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/547247.jpg?s=7fe2bf9af73138f242618e5240cd6cd6"
+  },
+  {
+    "name": "Kaiko-chan",
+    "prompt": "Kaiko-chan from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/547222.jpg?s=42bca42797b7677200be44e0e26ce411"
+  },
+  {
+    "name": "Kamakiri",
+    "prompt": "Kamakiri from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/547107.jpg?s=0fc2686a44e3923c332821d21573f960"
+  },
+  {
+    "name": "Kanaria-sensei",
+    "prompt": "Kanaria-sensei from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/547225.jpg?s=f78e074e868c26ec87fbe1f48c29b5f1"
+  },
+  {
+    "name": "Kasumi",
+    "prompt": "Kasumi from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/547421.jpg?s=14db5ec254fbd7426c79938e9d2134fa"
+  },
+  {
+    "name": "Kazama, Yuuto",
+    "prompt": "Kazama, Yuuto from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/547155.jpg?s=b261cf76eacc2ebdfa9bfa64bfd05ec8"
+  },
+  {
+    "name": "Kingyo-sensei",
+    "prompt": "Kingyo-sensei from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/546910.jpg?s=8ae7365f7731c26a8bf82e60ae8ba761"
+  },
+  {
+    "name": "Kinshi",
+    "prompt": "Kinshi from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/547202.jpg?s=fb726289e39fe6f6fe325cec88014fea"
+  },
+  {
+    "name": "Kintarou",
+    "prompt": "Kintarou from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/547214.jpg?s=55648aaf5951e65bc8a965c75ebd7f84"
+  },
+  {
+    "name": "Kirara",
+    "prompt": "Kirara from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/546901.jpg?s=ebb1cf25a62643e14c1925f26cf196ad"
+  },
+  {
+    "name": "Kirigiri",
+    "prompt": "Kirigiri from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/547220.jpg?s=489ec6660e982add12629b5d4de90dad"
+  },
+  {
+    "name": "Kumomo",
+    "prompt": "Kumomo from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/547201.jpg?s=e2c0f2f6ac13bfed76f02d9693f4139c"
+  },
+  {
+    "name": "Kurara",
+    "prompt": "Kurara from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/547313.jpg?s=af82db86e7434d0a18c774d6914e40ee"
+  },
+  {
+    "name": "Kuri",
+    "prompt": "Kuri from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/547284.jpg?s=50b9d2d856a1da35e03978a274ca81bb"
+  },
+  {
+    "name": "Kusunoki, Haruto",
+    "prompt": "Kusunoki, Haruto from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/547245.jpg?s=59e0244ae8f47ce3fcf7c81a197c4e2f"
+  },
+  {
+    "name": "Kuwa",
+    "prompt": "Kuwa from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/546986.jpg?s=3f8352a89e2a2f1e0d684cacea85a73c"
+  },
+  {
+    "name": "Kuzumaki",
+    "prompt": "Kuzumaki from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/547300.jpg?s=db720671e6512218b3ebff311754d589"
+  },
+  {
+    "name": "Labra",
+    "prompt": "Labra from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/291454.jpg?s=5b22b9632483218263eae0101f2c320f"
+  },
+  {
+    "name": "Lemon",
+    "prompt": "Lemon from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/547269.jpg?s=c25d761d38b078edf00c863e31e55582"
+  },
+  {
+    "name": "Leon-sensei",
+    "prompt": "Leon-sensei from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/546913.jpg?s=79199d88ee76e48cad4d363d8e966404"
+  },
+  {
+    "name": "Lizard-sensei",
+    "prompt": "Lizard-sensei from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/547293.jpg?s=53f1826a5e8d8f85b3a1f9835fb28e17"
+  },
+  {
+    "name": "Luca",
+    "prompt": "Luca from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/547121.jpg?s=0fab539d9647b9b7ed0846145eeddedb"
+  },
+  {
+    "name": "Mesh",
+    "prompt": "Mesh from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/546984.jpg?s=290aa37e54caf9209cca235895c526f9"
+  },
+  {
+    "name": "Miruru",
+    "prompt": "Miruru from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/547047.jpg?s=9fe5fae910ee9ed1d3ac9ae630e0c659"
+  },
+  {
+    "name": "Misty",
+    "prompt": "Misty from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/547109.jpg?s=0b648a7fffd668da8e55665e94e630b0"
+  },
+  {
+    "name": "Momo",
+    "prompt": "Momo from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/547266.jpg?s=c995f2af23be3830831341caeb652128"
+  },
+  {
+    "name": "Morino, Shimeji",
+    "prompt": "Morino, Shimeji from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/547262.jpg?s=bfb947604114c3aea9067575f4f2339f"
+  },
+  {
+    "name": "Mr. Mimic",
+    "prompt": "Mr. Mimic from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/547277.jpg?s=8e9459b56c9d5e69f226e58e37d154fe"
+  },
+  {
+    "name": "Mrs. Neko",
+    "prompt": "Mrs. Neko from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/546911.jpg?s=99109e0af9db78824052d28d971f8d56"
+  },
+  {
+    "name": "Mrs. Serpent",
+    "prompt": "Mrs. Serpent from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/547278.jpg?s=2b2d097bd4f11463f623d4ad09cf8dfa"
+  },
+  {
+    "name": "Nameko",
+    "prompt": "Nameko from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/547146.jpg?s=636d06df7e5483c9c40d45b98ac45912"
+  },
+  {
+    "name": "Noko",
+    "prompt": "Noko from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/546997.jpg?s=7f86d2e32b604ed80e95a58c3ff12d65"
+  },
+  {
+    "name": "Noumu",
+    "prompt": "Noumu from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/547126.jpg?s=f911471452df0c9c8ff402537f9d5194"
+  },
+  {
+    "name": "Ojigisou",
+    "prompt": "Ojigisou from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Okamo",
+    "prompt": "Okamo from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/547279.jpg?s=1cd56c35295286139c1faca7eb8068e0"
+  },
+  {
+    "name": "Olive",
+    "prompt": "Olive from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/546996.jpg?s=c236f26abe2ef31ee8f6e22ab86c6a24"
+  },
+  {
+    "name": "Omatsu",
+    "prompt": "Omatsu from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/546912.jpg?s=8b772f380d2054da7e50c2ab37dd2fdd"
+  },
+  {
+    "name": "Otama",
+    "prompt": "Otama from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/547221.jpg?s=378f24ca48133e82d207db09268464fe"
+  },
+  {
+    "name": "Oyuki",
+    "prompt": "Oyuki from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/547125.jpg?s=d0c7df2c849870f523580b441d594b8c"
+  },
+  {
+    "name": "Peacock-sensei",
+    "prompt": "Peacock-sensei from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/547285.jpg?s=db131c9a7e27db5d7fc59cc42393de04"
+  },
+  {
+    "name": "Peas",
+    "prompt": "Peas from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/547243.jpg?s=dc3960ef96b0a11569ffd47e56a2f497"
+  },
+  {
+    "name": "Pen",
+    "prompt": "Pen from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/547223.jpg?s=f42e672af9e097f372a9b010f009d1de"
+  },
+  {
+    "name": "Pine",
+    "prompt": "Pine from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/547272.jpg?s=0bd76bf87fdbb5c9f4a18a4c4883a961"
+  },
+  {
+    "name": "Powalisa",
+    "prompt": "Powalisa from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/547049.jpg?s=3fd615085b60d5ba59b117e61e35f2af"
+  },
+  {
+    "name": "Powawa",
+    "prompt": "Powawa from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/546907.jpg?s=26f9779d60b8497218b942085c4b52eb"
+  },
+  {
+    "name": "Professor Mush",
+    "prompt": "Professor Mush from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/547280.jpg?s=0f1653a9bde075af4a045c72e2bef133"
+  },
+  {
+    "name": "Raffle",
+    "prompt": "Raffle from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/546988.jpg?s=96b9192d8aa6f8004afda2168ed45e75"
+  },
+  {
+    "name": "Ragi",
+    "prompt": "Ragi from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/547254.jpg?s=e3e62001a1c662f57f3a5e42a89a6d1d"
+  },
+  {
+    "name": "Rainbow",
+    "prompt": "Rainbow from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/547115.jpg?s=b0cb19de9d836bd0fb60ab66230f5940"
+  },
+  {
+    "name": "Ran",
+    "prompt": "Ran from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/546994.jpg?s=44e79cf54e5d4376e6ea198ad67eae5d"
+  },
+  {
+    "name": "Ranbo",
+    "prompt": "Ranbo from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/547276.jpg?s=dbd980b5c2a0d85c2327eb311d1cdccb"
+  },
+  {
+    "name": "Rin",
+    "prompt": "Rin from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/547152.jpg?s=402410954d26e848e39c77cae3ef7d80"
+  },
+  {
+    "name": "Rina",
+    "prompt": "Rina from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/547217.jpg?s=9dd2b569ed5bdc816139aa2d25a438fd"
+  },
+  {
+    "name": "Ringo",
+    "prompt": "Ringo from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/547265.jpg?s=8950121873ca3464d4fd5f8e0b09b0a4"
+  },
+  {
+    "name": "Ruby",
+    "prompt": "Ruby from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/279029.jpg?s=04fb58c31325336cac7b527fadd0838a"
+  },
+  {
+    "name": "Ruko's mother",
+    "prompt": "Ruko's mother from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/547321.jpg?s=e2429698f8550ba3a52dc88bea4dcfc2"
+  },
+  {
+    "name": "Sabobon",
+    "prompt": "Sabobon from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/546992.jpg?s=bd04238e03e241a115de2870be580606"
+  },
+  {
+    "name": "Sakku",
+    "prompt": "Sakku from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/547275.jpg?s=f229266479ddf51f93581f9775cb5c54"
+  },
+  {
+    "name": "Sakura",
+    "prompt": "Sakura from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/547103.jpg?s=d23949d154f317616eb8de96c1eabde2"
+  },
+  {
+    "name": "Sakuraba, Kano",
+    "prompt": "Sakuraba, Kano from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/547246.jpg?s=5e3d411f0dbefcf9aa54ba8cc86a1ca2"
+  },
+  {
+    "name": "Sango",
+    "prompt": "Sango from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/546914.jpg?s=5f45584f2a22a2f4f274d636a3fc7eb1"
+  },
+  {
+    "name": "Santa",
+    "prompt": "Santa from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/547255.jpg?s=e574017fb73775552fbd0db24c115a08"
+  },
+  {
+    "name": "Sapphie",
+    "prompt": "Sapphie from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/193003.jpg?s=6b16ef60d528b0574b5a257705fbda5e"
+  },
+  {
+    "name": "Sheep-sensei",
+    "prompt": "Sheep-sensei from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/547282.jpg?s=a077e5f96b49f0f447fc3945295caa2c"
+  },
+  {
+    "name": "Shippo",
+    "prompt": "Shippo from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/547315.jpg?s=0782caa7856ac071a99e9f06ac202105"
+  },
+  {
+    "name": "Shiro",
+    "prompt": "Shiro from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/547212.jpg?s=75e877b7f460257e1ed4b44e61eff2cf"
+  },
+  {
+    "name": "Spica",
+    "prompt": "Spica from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/547249.jpg?s=6e3d2e3e875b4b79742b8b7396830253"
+  },
+  {
+    "name": "Spider",
+    "prompt": "Spider from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/547048.jpg?s=11434c7b134d6b86d0527496b5654392"
+  },
+  {
+    "name": "Star",
+    "prompt": "Star from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/547200.jpg?s=1cad06a53ca2b028466e3612936331b1"
+  },
+  {
+    "name": "Statice",
+    "prompt": "Statice from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/547297.jpg?s=0b4e7a47baf64e9850a9e2dd43c99143"
+  },
+  {
+    "name": "Strawberry",
+    "prompt": "Strawberry from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/547271.jpg?s=3360386ddb4bff8a59766ea0fb9213a8"
+  },
+  {
+    "name": "Sui",
+    "prompt": "Sui from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Suzu",
+    "prompt": "Suzu from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/546993.jpg?s=0f8084e4c0f80d5ab446a35698ed47aa"
+  },
+  {
+    "name": "Sweetie",
+    "prompt": "Sweetie from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/547274.jpg?s=ec09a555374c30f554da73db3f2753cb"
+  },
+  {
+    "name": "Tama-chan",
+    "prompt": "Tama-chan from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/547129.jpg?s=3bd8e69a5b28affa100c1635309c0fc5"
+  },
+  {
+    "name": "Teacher Megane",
+    "prompt": "Teacher Megane from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/547286.jpg?s=d56142639577bd02163913e2a020a0cb"
+  },
+  {
+    "name": "Thunder",
+    "prompt": "Thunder from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/547122.jpg?s=73165c98f48e68e0251b507ed6eb89c5"
+  },
+  {
+    "name": "Tomato",
+    "prompt": "Tomato from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/547104.jpg?s=3a47490d07549ab768fd4c37949a2dfc"
+  },
+  {
+    "name": "Tora",
+    "prompt": "Tora from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/546987.jpg?s=4a371609ae93baebdc7d1a2c4a8b8c89"
+  },
+  {
+    "name": "Utsubon",
+    "prompt": "Utsubon from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/546991.jpg?s=1ec8794f4a9cdf59e34b35157c0d0101"
+  },
+  {
+    "name": "Van-sensei",
+    "prompt": "Van-sensei from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/547287.jpg?s=d99aaf82d90070920bd10fe5c35feb7d"
+  },
+  {
+    "name": "Vega",
+    "prompt": "Vega from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/547248.jpg?s=3ed4b91763f7bd53bdf21cf7fe80b405"
+  },
+  {
+    "name": "Wakame",
+    "prompt": "Wakame from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/547045.jpg?s=39f89785dd5860de0a40cc826b057739"
+  },
+  {
+    "name": "Wind",
+    "prompt": "Wind from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/547258.jpg?s=7dc70b9ec7b78d853b1a74d616860e19"
+  },
+  {
+    "name": "Yabushita",
+    "prompt": "Yabushita from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/547261.jpg?s=3383d89a7d77bf5e2e8a8dfa3838feb1"
+  },
+  {
+    "name": "Yakou",
+    "prompt": "Yakou from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/547102.jpg?s=cb307329f7561bb1a6471f5c0a45ff4b"
+  },
+  {
+    "name": "Yurara",
+    "prompt": "Yurara from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/546903.jpg?s=e7afdf707cbfa41d7cdf89d5dce9355d"
+  },
+  {
+    "name": "Zakuro",
+    "prompt": "Zakuro from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/547273.jpg?s=6a58441bd4018022aa1eadaec22267fe"
+  },
+  {
+    "name": "Zemi",
+    "prompt": "Zemi from Rilu Rilu Fairilu: Mahou no Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/547219.jpg?s=63b8aa2c068d7739ca06e36becc69a33"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Link",
+    "prompt": "Link from Hikari no Megami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/345935.jpg?s=5693f2f688be4ec565c6c994aa7c4bf0"
+  },
+  {
+    "name": "Palutena",
+    "prompt": "Palutena from Hikari no Megami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/530348.jpg?s=433838a2919b09a69bbd30979572267f"
+  },
+  {
+    "name": "Pit",
+    "prompt": "Pit from Hikari no Megami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/530350.jpg?s=cc8a0f7c56e56a337f6e8d4b9a6efc03"
+  },
+  {
+    "name": "Black Pit",
+    "prompt": "Black Pit from Hikari no Megami",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/530356.jpg?s=503217dcb61afa9e685c0f9a868d07fd"
+  }
+]

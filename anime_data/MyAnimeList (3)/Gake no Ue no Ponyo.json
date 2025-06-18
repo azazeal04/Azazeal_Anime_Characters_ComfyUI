@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Ponyo",
+    "prompt": "Ponyo from Gake no Ue no Ponyo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/68893.jpg?s=089ac0243b2adba6e4080fa2c63ddcc0"
+  },
+  {
+    "name": "Sousuke",
+    "prompt": "Sousuke from Gake no Ue no Ponyo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/456876.jpg?s=7c95578fcc956d8e92ec2438bbaa3336"
+  },
+  {
+    "name": "Fujimoto",
+    "prompt": "Fujimoto from Gake no Ue no Ponyo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/86566.jpg?s=bcb4e635439d1b6f37545895b9b903e8"
+  },
+  {
+    "name": "Granmammare",
+    "prompt": "Granmammare from Gake no Ue no Ponyo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/485259.jpg?s=8d138b3dca94bf8e28bc79b0bc0c7f3a"
+  },
+  {
+    "name": "Koichi",
+    "prompt": "Koichi from Gake no Ue no Ponyo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/354293.jpg?s=0f7971cf34bb7e6755b676ff07984c24"
+  },
+  {
+    "name": "Kumiko",
+    "prompt": "Kumiko from Gake no Ue no Ponyo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/354295.jpg?s=3acc7c5656363b3860531e336e47ef6c"
+  },
+  {
+    "name": "Lisa",
+    "prompt": "Lisa from Gake no Ue no Ponyo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/354294.jpg?s=459225abb865f896da7460132d3876c1"
+  },
+  {
+    "name": "Toki",
+    "prompt": "Toki from Gake no Ue no Ponyo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/432867.jpg?s=3bd5ccff83be29a54d1a11ebcc1edf4a"
+  },
+  {
+    "name": "Yoshie",
+    "prompt": "Yoshie from Gake no Ue no Ponyo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/354296.jpg?s=fe2312b75a00c511534de57106a1704c"
+  }
+]

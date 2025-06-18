@@ -1,0 +1,347 @@
+[
+  {
+    "name": "Jookiba, Jumba",
+    "prompt": "Jookiba, Jumba from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/68790.jpg?s=ba48144b428068befb4f26e0ca761465"
+  },
+  {
+    "name": "Pleakley",
+    "prompt": "Pleakley from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/68791.jpg?s=1e53cb6692c5fb8949c2ee7f26c8decd"
+  },
+  {
+    "name": "Stitch",
+    "prompt": "Stitch from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/391025.jpg?s=13978d212a069f872949b5237c29dd77"
+  },
+  {
+    "name": "Yuuna",
+    "prompt": "Yuuna from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/91342.jpg?s=c2fbdb642ed1ef82046f0180dfbb7f5f"
+  },
+  {
+    "name": "Angel",
+    "prompt": "Angel from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/67512.jpg?s=af3cfebdd16b61ee1513e4ca677e6ad3"
+  },
+  {
+    "name": "Another World Experiment 626",
+    "prompt": "Another World Experiment 626 from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Another World Gantu",
+    "prompt": "Another World Gantu from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Another World Jumba",
+    "prompt": "Another World Jumba from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Another World Pleakley",
+    "prompt": "Another World Pleakley from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Baker",
+    "prompt": "Baker from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Bonnie",
+    "prompt": "Bonnie from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "BooGoo",
+    "prompt": "BooGoo from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/582667.jpg?s=90023626cf596fa277a5a872d0359cf8"
+  },
+  {
+    "name": "Captain Khan",
+    "prompt": "Captain Khan from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Chief",
+    "prompt": "Chief from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Clyde",
+    "prompt": "Clyde from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Dorifu",
+    "prompt": "Dorifu from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Experiment 627",
+    "prompt": "Experiment 627 from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Franken",
+    "prompt": "Franken from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Frenchfry",
+    "prompt": "Frenchfry from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Gantu",
+    "prompt": "Gantu from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/514991.jpg?s=3c1595e8fd6d57477d9fecd7c8e9e12f"
+  },
+  {
+    "name": "Goodman",
+    "prompt": "Goodman from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Grand Councilwoman",
+    "prompt": "Grand Councilwoman from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Grocery Store Lady",
+    "prompt": "Grocery Store Lady from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hamsterviel, Jacques von",
+    "prompt": "Hamsterviel, Jacques von from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/68792.jpg?s=92eba31ec325f22cd0a8b8d440dd60d9"
+  },
+  {
+    "name": "Hans",
+    "prompt": "Hans from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hans' Mother",
+    "prompt": "Hans' Mother from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Honehone Dragon",
+    "prompt": "Honehone Dragon from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Jailer",
+    "prompt": "Jailer from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Jun",
+    "prompt": "Jun from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kijimuna",
+    "prompt": "Kijimuna from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kixx",
+    "prompt": "Kixx from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Koji",
+    "prompt": "Koji from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mabuitokkae",
+    "prompt": "Mabuitokkae from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Masa",
+    "prompt": "Masa from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mr. Honda",
+    "prompt": "Mr. Honda from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mr. Stenchy",
+    "prompt": "Mr. Stenchy from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mr. Suzuki",
+    "prompt": "Mr. Suzuki from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ms. Kawasaki",
+    "prompt": "Ms. Kawasaki from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nosy",
+    "prompt": "Nosy from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Number Zero",
+    "prompt": "Number Zero from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Obaa",
+    "prompt": "Obaa from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/132437.jpg?s=5b4a8b9cb7a1de43648d2ff1199a0fc6"
+  },
+  {
+    "name": "Orie",
+    "prompt": "Orie from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Peter",
+    "prompt": "Peter from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Piko",
+    "prompt": "Piko from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Piko's Father",
+    "prompt": "Piko's Father from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Piko's Mother",
+    "prompt": "Piko's Mother from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Pleakley's Dad",
+    "prompt": "Pleakley's Dad from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Pleakley's Mom",
+    "prompt": "Pleakley's Mom from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ploot",
+    "prompt": "Ploot from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Pokopon",
+    "prompt": "Pokopon from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Remy",
+    "prompt": "Remy from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Reuben",
+    "prompt": "Reuben from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Rock",
+    "prompt": "Rock from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Rock's Henchman #1",
+    "prompt": "Rock's Henchman #1 from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Rock's Henchman #2",
+    "prompt": "Rock's Henchman #2 from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sae",
+    "prompt": "Sae from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sand",
+    "prompt": "Sand from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sasuga, Zuruko",
+    "prompt": "Sasuga, Zuruko from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/525613.jpg?s=cb3b318bd270f0cd019f6924a44c6932"
+  },
+  {
+    "name": "Sawai",
+    "prompt": "Sawai from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Taka",
+    "prompt": "Taka from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tarou",
+    "prompt": "Tarou from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "The Prince",
+    "prompt": "The Prince from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Thunders",
+    "prompt": "Thunders from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Vampire Junior",
+    "prompt": "Vampire Junior from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Werewolf",
+    "prompt": "Werewolf from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Wormhole",
+    "prompt": "Wormhole from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Yamada",
+    "prompt": "Yamada from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Yuna's Father",
+    "prompt": "Yuna's Father from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Yuuna-like Girl",
+    "prompt": "Yuuna-like Girl from Stitch! Itazura Alien no Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

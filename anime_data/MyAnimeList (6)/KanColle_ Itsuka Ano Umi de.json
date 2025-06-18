@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Fusou",
+    "prompt": "Fusou from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/491488.jpg?s=945592ca3c94e10780d704f34fb1ab38"
+  },
+  {
+    "name": "Mogami",
+    "prompt": "Mogami from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/491489.jpg?s=b8ec146b1124d35e49b288e5587b4384"
+  },
+  {
+    "name": "Shigure",
+    "prompt": "Shigure from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/491831.jpg?s=ace67630b47470b72ab833402abadfc5"
+  },
+  {
+    "name": "Yamashiro",
+    "prompt": "Yamashiro from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/491487.jpg?s=2c493462ab6771d72f5dfcf37422c1fb"
+  },
+  {
+    "name": "Abukuma",
+    "prompt": "Abukuma from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/491127.jpg?s=a230367d6ea563466f583ed3d089a990"
+  },
+  {
+    "name": "Admiral",
+    "prompt": "Admiral from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/496866.jpg?s=dd5303c6b8f04a4ac39b37d6c89dfa34"
+  },
+  {
+    "name": "Akebono",
+    "prompt": "Akebono from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/491784.jpg?s=3160b20df66f9a7b2c1da6680fc3be65"
+  },
+  {
+    "name": "Aoba",
+    "prompt": "Aoba from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/338741.jpg?s=f387677c12e823a51a9df69e8dd434ec"
+  },
+  {
+    "name": "Asagumo",
+    "prompt": "Asagumo from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/492350.jpg?s=603788a9a34f71f2fea17413afbcdcb8"
+  },
+  {
+    "name": "Asashimo",
+    "prompt": "Asashimo from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/314938.jpg?s=0eee40ba9297fa32db87fd7c08073115"
+  },
+  {
+    "name": "Ashigara",
+    "prompt": "Ashigara from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/491282.jpg?s=a9ac30022b7e41391378c265aaeadf89"
+  },
+  {
+    "name": "Fuyutsuki",
+    "prompt": "Fuyutsuki from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/498201.jpg?s=0d663d33714b5718802a89b059ef943e"
+  },
+  {
+    "name": "Hamakaze",
+    "prompt": "Hamakaze from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/492432.jpg?s=7adfeaa8ce832796f2119477e9308b6a"
+  },
+  {
+    "name": "Haruna",
+    "prompt": "Haruna from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/276027.jpg?s=c5c3927e86cf2efd525866b80de6a561"
+  },
+  {
+    "name": "Hatsushimo",
+    "prompt": "Hatsushimo from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497147.jpg?s=020a57b252a56ace6bac618ffee903fc"
+  },
+  {
+    "name": "Hibiki",
+    "prompt": "Hibiki from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/259363.jpg?s=2f55bfecc261fdd50636ca10d5c96a14"
+  },
+  {
+    "name": "Houshou",
+    "prompt": "Houshou from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/277711.jpg?s=109d13f564d5e0905f6b1d1353bfa17e"
+  },
+  {
+    "name": "Hyuuga",
+    "prompt": "Hyuuga from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/270743.jpg?s=eff1663335ff9c3a74ed99fb41d8f095"
+  },
+  {
+    "name": "I-203",
+    "prompt": "I-203 from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/507709.jpg?s=1b7d4a30825a8980e275cfcad19bf21c"
+  },
+  {
+    "name": "Iowa",
+    "prompt": "Iowa from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/546629.jpg?s=86cdfa24bc48efeced225d8e3a3c3b91"
+  },
+  {
+    "name": "Ise",
+    "prompt": "Ise from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/260399.jpg?s=c9049a03a3027a0004c880c122c00952"
+  },
+  {
+    "name": "Isokaze",
+    "prompt": "Isokaze from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/313212.jpg?s=f93906dbaa8b54684c388bb981ea0aff"
+  },
+  {
+    "name": "Jingei",
+    "prompt": "Jingei from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/507710.jpg?s=4785b4ddffc66a8bbcd07297fb70a5d7"
+  },
+  {
+    "name": "Kaiboukan No.30",
+    "prompt": "Kaiboukan No.30 from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/500793.jpg?s=fb632ae2a84c60f9c30543b78dedabea"
+  },
+  {
+    "name": "Kasumi",
+    "prompt": "Kasumi from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/314962.jpg?s=41c25dd1ffcfaa8b274c99ee10df9696"
+  },
+  {
+    "name": "Kitakami",
+    "prompt": "Kitakami from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/264495.jpg?s=fb3f2649a70ae7715d529133119c2cae"
+  },
+  {
+    "name": "Kiyoshimo",
+    "prompt": "Kiyoshimo from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/313759.jpg?s=0e4bd2fab5f901986c5329f5231293fe"
+  },
+  {
+    "name": "Kongou",
+    "prompt": "Kongou from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/255091.jpg?s=3281390e6c5e223551030a9bdff4f0b5"
+  },
+  {
+    "name": "Kurahashi",
+    "prompt": "Kurahashi from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/500791.jpg?s=8adc8bf7b54c9973b35ad21aba2fade5"
+  },
+  {
+    "name": "Michishio",
+    "prompt": "Michishio from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/313708.jpg?s=62ce91b88c2625b5e15f366c5777ce89"
+  },
+  {
+    "name": "Mikura",
+    "prompt": "Mikura from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/500790.jpg?s=5dc0d7a3d06f132f399dbe7d221282a9"
+  },
+  {
+    "name": "Nachi",
+    "prompt": "Nachi from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/491281.jpg?s=62ed08c9fdfcab81cbe2596e3750734e"
+  },
+  {
+    "name": "Noshiro",
+    "prompt": "Noshiro from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/313617.jpg?s=170b17bd33ff3b11ea7743b9d7f5b9e8"
+  },
+  {
+    "name": "Oboro",
+    "prompt": "Oboro from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/314952.jpg?s=25b6f1fcc6027391a3e9e020f7034002"
+  },
+  {
+    "name": "Ooyodo",
+    "prompt": "Ooyodo from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/338804.jpg?s=69fd1416b385bb612395200351e1b02b"
+  },
+  {
+    "name": "Ryuuhou",
+    "prompt": "Ryuuhou from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/491126.jpg?s=c9ccc355870f5a6d98731e5d0dfe6495"
+  },
+  {
+    "name": "Sakawa",
+    "prompt": "Sakawa from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/313613.jpg?s=13f4e0bbeab2c53dc872cf2aa3bafac0"
+  },
+  {
+    "name": "Sazanami",
+    "prompt": "Sazanami from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/314731.jpg?s=f568006b313b77509b70820f2df652ba"
+  },
+  {
+    "name": "Shiratsuyu",
+    "prompt": "Shiratsuyu from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/277709.jpg?s=68e712fae4344af2029467427e1aea14"
+  },
+  {
+    "name": "South Dakota",
+    "prompt": "South Dakota from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/507708.jpg?s=c585cc46385d5e33145791aec3ac32d5"
+  },
+  {
+    "name": "Suzutsuki",
+    "prompt": "Suzutsuki from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/377426.jpg?s=7e5f9ffa3905b376e3ef0ff9cb948560"
+  },
+  {
+    "name": "Tone",
+    "prompt": "Tone from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/277531.jpg?s=41a54a0b5a221a06981cbb262da75bf6"
+  },
+  {
+    "name": "Ushio",
+    "prompt": "Ushio from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/491785.jpg?s=d7016199e2d91f53e400036fddc29fdb"
+  },
+  {
+    "name": "Warspite",
+    "prompt": "Warspite from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/507705.jpg?s=efe25764e65bab47d53862b85e9a9fe5"
+  },
+  {
+    "name": "Washington",
+    "prompt": "Washington from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/507706.jpg?s=4c4ef218e96e29f5fb3e48d67b164189"
+  },
+  {
+    "name": "Yahagi",
+    "prompt": "Yahagi from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/491490.jpg?s=26fe3f1a5f91173048798a18835bb572"
+  },
+  {
+    "name": "Yamagumo",
+    "prompt": "Yamagumo from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/313705.jpg?s=9709ff6474d90cc9562e49d26c2b6c35"
+  },
+  {
+    "name": "Yamato",
+    "prompt": "Yamato from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/493256.jpg?s=5ed52e869df7fadc87a9ef09df0c1ab8"
+  },
+  {
+    "name": "Yashiro",
+    "prompt": "Yashiro from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/500792.jpg?s=6b42f9b671c9bb1524cf5179c6d738f4"
+  },
+  {
+    "name": "Yukikaze",
+    "prompt": "Yukikaze from KanColle: Itsuka Ano Umi de",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/313735.jpg?s=8745c7875a2a86719648078a252dc076"
+  }
+]

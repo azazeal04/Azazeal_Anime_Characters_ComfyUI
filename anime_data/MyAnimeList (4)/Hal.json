@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Hal",
+    "prompt": "Hal from Hal",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/195353.jpg?s=00074faee52963e9b680ec6d3185da6c"
+  },
+  {
+    "name": "Kurumi",
+    "prompt": "Kurumi from Hal",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/195355.jpg?s=3bc810bc5d91202bc0501046302c23d7"
+  },
+  {
+    "name": "Aranami",
+    "prompt": "Aranami from Hal",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/323346.jpg?s=9abf64de376bfac9d0f3c0841b304f3c"
+  },
+  {
+    "name": "Ryuu",
+    "prompt": "Ryuu from Hal",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/229631.jpg?s=c7d084de7431f8afef59b7469b35693e"
+  },
+  {
+    "name": "Sadao",
+    "prompt": "Sadao from Hal",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/323345.jpg?s=5b73e18f7546bbaedfdcf583eea76729"
+  },
+  {
+    "name": "Tokio",
+    "prompt": "Tokio from Hal",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/323347.jpg?s=384ca3df2e54d202260484f462acdaa4"
+  },
+  {
+    "name": "Tsukiko",
+    "prompt": "Tsukiko from Hal",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/324725.jpg?s=13d5b92ca4ddfd6b60f076272105a2fc"
+  }
+]

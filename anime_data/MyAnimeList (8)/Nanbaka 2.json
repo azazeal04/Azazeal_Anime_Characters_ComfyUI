@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Juugo",
+    "prompt": "Juugo from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/321274.jpg?s=60500289ec43e07f1f64e571c1e455f9"
+  },
+  {
+    "name": "Nico",
+    "prompt": "Nico from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/320781.jpg?s=3f9debd2257b642292dddd552e0b57c8"
+  },
+  {
+    "name": "Rock",
+    "prompt": "Rock from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/315095.jpg?s=8dafaa8b7790dbedf75164396973b646"
+  },
+  {
+    "name": "Sugoroku, Hajime",
+    "prompt": "Sugoroku, Hajime from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/315094.jpg?s=7a0057d362a01bbca98d862b097307cc"
+  },
+  {
+    "name": "Uno",
+    "prompt": "Uno from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/320784.jpg?s=7e66eaec5816700419a7462463ccba66"
+  },
+  {
+    "name": "Damian",
+    "prompt": "Damian from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/321012.jpg?s=8dec5c5444d2abb936bc25a6708eb50d"
+  },
+  {
+    "name": "Elf",
+    "prompt": "Elf from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/319588.jpg?s=045f660ff553118a2fcf4f7090864649"
+  },
+  {
+    "name": "Godai, Yamato",
+    "prompt": "Godai, Yamato from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/321344.jpg?s=1a288b0b4e4fb07db0308c5774423b5e"
+  },
+  {
+    "name": "Gojou, Ruka",
+    "prompt": "Gojou, Ruka from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/322041.jpg?s=6769631ed1f31349aabfb62935d2f7ed"
+  },
+  {
+    "name": "Gokuu, Enki",
+    "prompt": "Gokuu, Enki from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/306450.jpg?s=f4910f80d17b01ebcc1adeeb772e5b69"
+  },
+  {
+    "name": "Gokuu, Samon",
+    "prompt": "Gokuu, Samon from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/321346.jpg?s=157dcc4610607b765aa3b64540600283"
+  },
+  {
+    "name": "Hachiman",
+    "prompt": "Hachiman from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/322465.jpg?s=baad8966183154e9f2261a2a3fb33b31"
+  },
+  {
+    "name": "Hakkai, Inori",
+    "prompt": "Hakkai, Inori from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/321164.jpg?s=626b05d19ec8800880667964c2a9f134"
+  },
+  {
+    "name": "Hitokoe, Mitsuru",
+    "prompt": "Hitokoe, Mitsuru from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/297140.jpg?s=defe02b9b30fc0b502a0130dba11ceea"
+  },
+  {
+    "name": "Honey",
+    "prompt": "Honey from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/319773.jpg?s=f57e4050dcd4b2b875365e3c40c86bdc"
+  },
+  {
+    "name": "Hyakushiki, Momoko",
+    "prompt": "Hyakushiki, Momoko from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/314715.jpg?s=c08611617deb7fcd81130b5a3a6ebab5"
+  },
+  {
+    "name": "Ichijou, Tomato",
+    "prompt": "Ichijou, Tomato from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/321014.jpg?s=463f43847676f261e1099346c3396078"
+  },
+  {
+    "name": "KAGU-8",
+    "prompt": "KAGU-8 from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/321190.jpg?s=4f5120203311bfc3e368d2ff1f661b86"
+  },
+  {
+    "name": "Kokoriki, Daisen",
+    "prompt": "Kokoriki, Daisen from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/297155.jpg?s=34a3865dd80dfacb093721b495733000"
+  },
+  {
+    "name": "Liang",
+    "prompt": "Liang from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/320890.jpg?s=dd2ae455a575192edd6c4f57fd2c4af5"
+  },
+  {
+    "name": "Liang's Master",
+    "prompt": "Liang's Master from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mitsuba, Kiji",
+    "prompt": "Mitsuba, Kiji from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/323488.jpg?s=6c376ade0b2a314f589fa47543cdc042"
+  },
+  {
+    "name": "Musashi",
+    "prompt": "Musashi from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/320782.jpg?s=af4c057ba4bf7b6a121c469844362dd6"
+  },
+  {
+    "name": "Nanairo, Nijimasu",
+    "prompt": "Nanairo, Nijimasu from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/297142.jpg?s=47953a8687b7ba4c3eb3619565b6bee9"
+  },
+  {
+    "name": "Nimaijita, Mao",
+    "prompt": "Nimaijita, Mao from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/321021.jpg?s=833f5ac06920710c24b709f309daaf6c"
+  },
+  {
+    "name": "Otogi, Kazari",
+    "prompt": "Otogi, Kazari from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/321396.jpg?s=9197ee23897deb57f93ca02a09d47411"
+  },
+  {
+    "name": "Otogi, Okina",
+    "prompt": "Otogi, Okina from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/320359.jpg?s=224ae42e0c43b1d4352ab33aae5f85bd"
+  },
+  {
+    "name": "Qi",
+    "prompt": "Qi from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/319707.jpg?s=8cf0bd2455b0625448ec7224b1db0707"
+  },
+  {
+    "name": "Rokuriki, Daisen",
+    "prompt": "Rokuriki, Daisen from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/301597.jpg?s=4a6b268eb0f216244575e93c91cdf10b"
+  },
+  {
+    "name": "Sanzou, Noriko",
+    "prompt": "Sanzou, Noriko from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/320849.jpg?s=b299eab7ffb68b3bda750c6a29a84245"
+  },
+  {
+    "name": "Sanzou, Houzuki",
+    "prompt": "Sanzou, Houzuki from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/320850.jpg?s=acfeeef4ecb7d838f6d423ee4aee05ea"
+  },
+  {
+    "name": "Sugoroku, Hitoshi",
+    "prompt": "Sugoroku, Hitoshi from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/322970.jpg?s=d69e9ddb95bb25d4f09df7e84ab5c9e7"
+  },
+  {
+    "name": "Tanabata, Seitarou",
+    "prompt": "Tanabata, Seitarou from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/321291.jpg?s=ada8be03e46f381eb84353b07884f47f"
+  },
+  {
+    "name": "Trois",
+    "prompt": "Trois from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/470987.jpg?s=8d53c5ea760c9308128190e7458e5462"
+  },
+  {
+    "name": "Tsukumo",
+    "prompt": "Tsukumo from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/321293.jpg?s=b1328efe77c995690612a814e5b8908f"
+  },
+  {
+    "name": "Upa",
+    "prompt": "Upa from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/321196.jpg?s=81a760fca6ef16a12858bfc4780f9ad5"
+  },
+  {
+    "name": "Youriki, Daisen",
+    "prompt": "Youriki, Daisen from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/301595.jpg?s=ad3d578b879e1d9595da2c61e63bc481"
+  },
+  {
+    "name": "Yozakura, Kenshirou",
+    "prompt": "Yozakura, Kenshirou from Nanbaka 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/320785.jpg?s=01da0f36bbc1d12c3afcc3062b4ca21f"
+  }
+]

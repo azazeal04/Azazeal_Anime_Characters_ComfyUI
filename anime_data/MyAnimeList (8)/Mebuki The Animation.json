@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ai",
+    "prompt": "Ai from Mebuki The Animation",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/568363.jpg?s=63a52b71af982564878b00312aec4b56"
+  },
+  {
+    "name": "Kaito",
+    "prompt": "Kaito from Mebuki The Animation",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/582424.jpg?s=b1a4e58ceb31659ef7c7a1aeb5a8336e"
+  },
+  {
+    "name": "Otoko",
+    "prompt": "Otoko from Mebuki The Animation",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/582425.jpg?s=a8e13544982d74dea17155dad0b7f988"
+  },
+  {
+    "name": "Mii-chan",
+    "prompt": "Mii-chan from Mebuki The Animation",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/582426.jpg?s=5df0df9f0e0539fd62dfaa25962a6164"
+  }
+]

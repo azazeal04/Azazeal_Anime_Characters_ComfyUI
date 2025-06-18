@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Aceburn",
+    "prompt": "Aceburn from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/521898.jpg?s=4014133250c7af234f1c0269db7511b4"
+  },
+  {
+    "name": "Gou",
+    "prompt": "Gou from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/436168.jpg?s=540f0a3d63678b77f7b54137adab6fc9"
+  },
+  {
+    "name": "Hibanny",
+    "prompt": "Hibanny from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/412568.jpg?s=009c6f6575bfc588be9920bfa9fd7981"
+  },
+  {
+    "name": "Pikachu",
+    "prompt": "Pikachu from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/289627.jpg?s=b97db39e3126c4cc184a764059abe0f6"
+  },
+  {
+    "name": "Rabbifuto",
+    "prompt": "Rabbifuto from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/521897.jpg?s=27a0dbcb49913ac556fe60b2c64fb7f0"
+  },
+  {
+    "name": "Satoshi",
+    "prompt": "Satoshi from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/100701.jpg?s=e0c6afbdb021ec02343675ebb587d488"
+  },
+  {
+    "name": "Absol",
+    "prompt": "Absol from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/453814.jpg?s=6bb190ca08273c1bfa7e3008d0e62724"
+  },
+  {
+    "name": "Arbo",
+    "prompt": "Arbo from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/497721.jpg?s=a91a1fee5fc38234a03daa0de6676de4"
+  },
+  {
+    "name": "Asahi",
+    "prompt": "Asahi from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/495492.jpg?s=01b936cacf8dd8fbc4c5ba1ed26fb448"
+  },
+  {
+    "name": "Betbeter",
+    "prompt": "Betbeter from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/498611.jpg?s=e3991e33b9d709396c17e2ba1ea41763"
+  },
+  {
+    "name": "Betbeton",
+    "prompt": "Betbeton from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/498079.jpg?s=394c256329e54b6751d046cc86137735"
+  },
+  {
+    "name": "Blacky",
+    "prompt": "Blacky from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/504427.jpg?s=94e3f93d5a82a5c75baa8b603a8fe990"
+  },
+  {
+    "name": "Butterfree",
+    "prompt": "Butterfree from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/498324.jpg?s=66301edd9a08b9f273353b8ebc41aeac"
+  },
+  {
+    "name": "Caterpie",
+    "prompt": "Caterpie from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/503661.jpg?s=8da993ac7bcde374acf69e205f779b05"
+  },
+  {
+    "name": "Coil",
+    "prompt": "Coil from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498605.jpg?s=21c5d42c79b5cab5eb0eb3159de929c5"
+  },
+  {
+    "name": "Corni",
+    "prompt": "Corni from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/350934.jpg?s=b9e5f42376c64dc76f0a455e2b10a1c2"
+  },
+  {
+    "name": "Dande",
+    "prompt": "Dande from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/465968.jpg?s=dfea14017e5cc566aee4ed0fb6174437"
+  },
+  {
+    "name": "Darkrai",
+    "prompt": "Darkrai from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/120772.jpg?s=9773798c2c28d205b8ecf442d11bca53"
+  },
+  {
+    "name": "Diguda",
+    "prompt": "Diguda from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/484756.jpg?s=932bbf90709df207050b91d376212f28"
+  },
+  {
+    "name": "Dr. Hodaka",
+    "prompt": "Dr. Hodaka from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/447437.jpg?s=45513a288dde12ba24105398cb31b2b4"
+  },
+  {
+    "name": "Eievui",
+    "prompt": "Eievui from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/359157.jpg?s=0cbdbf1b3d11a3949cb9aec6d03ba650"
+  },
+  {
+    "name": "Eifie",
+    "prompt": "Eifie from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/504426.jpg?s=07f50dbf80adbacdc001d4aa56c37ccf"
+  },
+  {
+    "name": "Fire",
+    "prompt": "Fire from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/453721.jpg?s=2eda7b2c0db3a079c2be9408ce3ee2d4"
+  },
+  {
+    "name": "Fushigidane",
+    "prompt": "Fushigidane from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/484349.jpg?s=80dee90bc9f5ffc5a36db98e0f47d065"
+  },
+  {
+    "name": "Gampi",
+    "prompt": "Gampi from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/432722.jpg?s=7c98ccd426957cc94ba2665a6ac73f0d"
+  },
+  {
+    "name": "Gengar",
+    "prompt": "Gengar from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497724.jpg?s=5e6079f80a75912bc0139b8a95dc54fa"
+  },
+  {
+    "name": "Gomazou",
+    "prompt": "Gomazou from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/495497.jpg?s=da91552689ce501e1cf627c856621e72"
+  },
+  {
+    "name": "Hassam",
+    "prompt": "Hassam from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/499968.jpg?s=0237d72ef33cfa6a0945c16aa8be0bee"
+  },
+  {
+    "name": "Heracross",
+    "prompt": "Heracross from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497650.jpg?s=d92b43d4c8edba36914b6c4858eae4ed"
+  },
+  {
+    "name": "Hikari",
+    "prompt": "Hikari from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/110073.jpg?s=9b0c3fe671617f02124a7d18d35eac8c"
+  },
+  {
+    "name": "Hitokage",
+    "prompt": "Hitokage from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497725.jpg?s=d7b0e60b71876679b6a20161fc2260d0"
+  },
+  {
+    "name": "Horubee",
+    "prompt": "Horubee from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/576093.jpg?s=c4dd0904b76f04e394d0f6e808767475"
+  },
+  {
+    "name": "Iris",
+    "prompt": "Iris from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/442059.jpg?s=242500cdb747f0b8a2b0ba80fa7b532b"
+  },
+  {
+    "name": "Ishitsubute",
+    "prompt": "Ishitsubute from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497609.jpg?s=bcdc5d8156655d78fdb5b6684561cc9e"
+  },
+  {
+    "name": "Jugon",
+    "prompt": "Jugon from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/504425.jpg?s=0c0d85ff3ea8004f2a6b7e5989ae2d01"
+  },
+  {
+    "name": "Kairi",
+    "prompt": "Kairi from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/450857.jpg?s=4b50a8816a66fafc703de7cf98213607"
+  },
+  {
+    "name": "Kairyuu",
+    "prompt": "Kairyuu from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/528913.jpg?s=7e9c8cf303fd1acf883ae73eccd5c633"
+  },
+  {
+    "name": "Kamex",
+    "prompt": "Kamex from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/497455.jpg?s=be5b72efb98a91b4f2075fd9831c75aa"
+  },
+  {
+    "name": "Kamonegi",
+    "prompt": "Kamonegi from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/497611.jpg?s=09b34b0bf0b66ace21f1fac9cfe0e947"
+  },
+  {
+    "name": "Karakara",
+    "prompt": "Karakara from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/531399.jpg?s=0507a619ae7e5bb8aece032f524cd864"
+  },
+  {
+    "name": "Kibago",
+    "prompt": "Kibago from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/504279.jpg?s=1a22f0df4e8560469fc9841f6ffcefcd"
+  },
+  {
+    "name": "Kibana",
+    "prompt": "Kibana from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/455243.jpg?s=c309ed3997b75ecd7c59a14f9c86ae2b"
+  },
+  {
+    "name": "Kikuna",
+    "prompt": "Kikuna from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/452991.jpg?s=9f7f1b2fe97c984cbf8d0e66a72bc85d"
+  },
+  {
+    "name": "Koduck",
+    "prompt": "Koduck from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497610.jpg?s=32c4d310209acd8b14c3fe390b16ce0c"
+  },
+  {
+    "name": "Koiking",
+    "prompt": "Koiking from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/497181.jpg?s=1f9c9acf07db69f74afac5a47c5b0a59"
+  },
+  {
+    "name": "Kojirou",
+    "prompt": "Kojirou from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/502950.jpg?s=c2fd0729a93d9635e946946b3d49e5b2"
+  },
+  {
+    "name": "Koratta",
+    "prompt": "Koratta from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498475.jpg?s=8705af4423acafef2593f11f28f92881"
+  },
+  {
+    "name": "Korippo",
+    "prompt": "Korippo from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/576094.jpg?s=4581b3692943a3a3f21479b4befb1154"
+  },
+  {
+    "name": "Lucario",
+    "prompt": "Lucario from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/472877.jpg?s=212f1dd46cb5945a1671db3bc2fc32f8"
+  },
+  {
+    "name": "Lugarugan",
+    "prompt": "Lugarugan from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/504282.jpg?s=c05babafaa6a9ecafa062b0aae84e4ed"
+  },
+  {
+    "name": "Manene",
+    "prompt": "Manene from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/576082.jpg?s=375265d7901679b77d245cbab214e1a9"
+  },
+  {
+    "name": "Melmetal",
+    "prompt": "Melmetal from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/554364.jpg?s=bf72ff631eba9a8c42217590214cfd0c"
+  },
+  {
+    "name": "Menokurage",
+    "prompt": "Menokurage from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497606.jpg?s=b9d9bcca4dd4e85bac64dc0c0e11893e"
+  },
+  {
+    "name": "Metamon",
+    "prompt": "Metamon from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/470442.jpg?s=94010b7b906e181f316030be0e5132ec"
+  },
+  {
+    "name": "Mew",
+    "prompt": "Mew from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/100986.jpg?s=fb05612288e26621730ef0b50671aaab"
+  },
+  {
+    "name": "Mokurou",
+    "prompt": "Mokurou from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/465741.jpg?s=dd6dbe12b37f8cdc8b6f50868f07343a"
+  },
+  {
+    "name": "Muma",
+    "prompt": "Muma from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/562032.jpg?s=b7dbd7cd45133fab454b7ef7ee95bae7"
+  },
+  {
+    "name": "Musashi",
+    "prompt": "Musashi from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/278096.jpg?s=051ae458066175cfe4bf0f07bb2df11d"
+  },
+  {
+    "name": "Namakobushi",
+    "prompt": "Namakobushi from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/497607.jpg?s=edb7d48f63d12cefdcb53f92728cc7e3"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/511553.jpg?s=a57d2a41fe40f1e203b06d3d9218f4b5"
+  },
+  {
+    "name": "Negigaknight",
+    "prompt": "Negigaknight from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/498770.jpg?s=ee2aa09259eaf786ffe7ac1a51cfb7eb"
+  },
+  {
+    "name": "Nidoran♀",
+    "prompt": "Nidoran♀ from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/498477.jpg?s=b21147508be30ff8384e65f75e2d3870"
+  },
+  {
+    "name": "Nidoran♂",
+    "prompt": "Nidoran♂ from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/497583.jpg?s=395b7817e466f4d16f3316790e71a791"
+  },
+  {
+    "name": "Nyarth",
+    "prompt": "Nyarth from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/131981.jpg?s=d7734d4cd42e72435749110ba1953798"
+  },
+  {
+    "name": "Nyoromo",
+    "prompt": "Nyoromo from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/497646.jpg?s=af5553d5f9754084049367299beca227"
+  },
+  {
+    "name": "Odoshishi",
+    "prompt": "Odoshishi from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/497692.jpg?s=9d0ad3e5f5db64a676627fe012571481"
+  },
+  {
+    "name": "Ookido, Shigeru",
+    "prompt": "Ookido, Shigeru from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/258075.jpg?s=14562df0f54cb88a5d1c5996ee35b1fb"
+  },
+  {
+    "name": "Pochama",
+    "prompt": "Pochama from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/449497.jpg?s=c2298c5226083be5dcf2738c78036bb8"
+  },
+  {
+    "name": "Poppo",
+    "prompt": "Poppo from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/498326.jpg?s=7195d699709848dc904ab88508b63f75"
+  },
+  {
+    "name": "Raichu",
+    "prompt": "Raichu from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/508206.jpg?s=b8dc05fbdcfcb5510891c1f6af1006dc"
+  },
+  {
+    "name": "Renji",
+    "prompt": "Renji from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/411239.jpg?s=905d77ea7ba8a8da6aaebdc65023e7bc"
+  },
+  {
+    "name": "Riolu",
+    "prompt": "Riolu from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/523722.jpg?s=b72ebe22e56241dac1aba9aa2bf7ce35"
+  },
+  {
+    "name": "Sakuragi, Koharu",
+    "prompt": "Sakuragi, Koharu from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/432697.jpg?s=d7dcd16a14cc85508c97be060ff24808"
+  },
+  {
+    "name": "Sakuragi, Professor",
+    "prompt": "Sakuragi, Professor from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/421670.jpg?s=77078e2c786aa5be353dc257b53cf6ca"
+  },
+  {
+    "name": "Sarunori",
+    "prompt": "Sarunori from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/521896.jpg?s=3fd102f41c5a9e76b1d7696d169ea5fb"
+  },
+  {
+    "name": "Soonansu",
+    "prompt": "Soonansu from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/391861.jpg?s=b56eadae29d5aea53f07fc8aed666ec4"
+  },
+  {
+    "name": "Strike",
+    "prompt": "Strike from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/498921.jpg?s=5509b02c78171719b772217ebc25baef"
+  },
+  {
+    "name": "Suicune",
+    "prompt": "Suicune from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/471479.jpg?s=1c8c89fad83457a5b4348d69f5a20577"
+  },
+  {
+    "name": "Thunder",
+    "prompt": "Thunder from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/421556.jpg?s=e8cb8deaa2ad148c2d915816a52228a7"
+  },
+  {
+    "name": "Tsurugi",
+    "prompt": "Tsurugi from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/453548.jpg?s=a9103f200a622f55b9743a01be0afb12"
+  },
+  {
+    "name": "Uonoragon",
+    "prompt": "Uonoragon from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/580834.jpg?s=9056e0e7b718cf9381a8a7ef774af708"
+  },
+  {
+    "name": "Wanpachi",
+    "prompt": "Wanpachi from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/484758.jpg?s=218b199228df04e1003b4e925f449d7a"
+  },
+  {
+    "name": "Yadoking",
+    "prompt": "Yadoking from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/493832.jpg?s=5c3ce71e0076de82be1dc5d3b15642b6"
+  },
+  {
+    "name": "Yamikarasu",
+    "prompt": "Yamikarasu from Pokemon (2019): Natsuyasumi Chokuzen 1-jikan Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/581092.jpg?s=987f0138d145468a17bfec178881eeca"
+  }
+]

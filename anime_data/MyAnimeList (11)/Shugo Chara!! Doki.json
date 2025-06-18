@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Fujisaki, Nagihiko",
+    "prompt": "Fujisaki, Nagihiko from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/33165.jpg?s=9d93f69b015edeb6e1faa99a9684ce11"
+  },
+  {
+    "name": "Hinamori, Amu",
+    "prompt": "Hinamori, Amu from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/562863.jpg?s=8987abd8d6b7ba582101171ed626c9a9"
+  },
+  {
+    "name": "Hoshina, Utau",
+    "prompt": "Hoshina, Utau from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/66327.jpg?s=b3cb5d1dab497b693634be90399cbc97"
+  },
+  {
+    "name": "Hotori, Tadase",
+    "prompt": "Hotori, Tadase from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/31243.jpg?s=c1bea7f32a217b88d84f173dc6fee665"
+  },
+  {
+    "name": "Mashiro, Rima",
+    "prompt": "Mashiro, Rima from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/564169.jpg?s=0cf95cbaa3367175e0d675fbed10511d"
+  },
+  {
+    "name": "Miki",
+    "prompt": "Miki from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/37940.jpg?s=588700fefe9f379c2f3d9800166ac39d"
+  },
+  {
+    "name": "Ran",
+    "prompt": "Ran from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/37941.jpg?s=aa6f8184122e8a45dfb8308b6e3d9200"
+  },
+  {
+    "name": "Suu",
+    "prompt": "Suu from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/37942.jpg?s=d24245444cb172843ca8aa52566d6af1"
+  },
+  {
+    "name": "Tsukiyomi, Ikuto",
+    "prompt": "Tsukiyomi, Ikuto from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/581468.jpg?s=7803f71cbeffc896863d95f5ca71ff0e"
+  },
+  {
+    "name": "Yuiki, Yaya",
+    "prompt": "Yuiki, Yaya from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/61543.jpg?s=7f0fc425310fca6cf7e759f92383a3a3"
+  },
+  {
+    "name": "Amakawa, Tsukasa",
+    "prompt": "Amakawa, Tsukasa from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/562865.jpg?s=1e224b8180c0b4daaca6a1dbd3233dbb"
+  },
+  {
+    "name": "Cecil",
+    "prompt": "Cecil from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/217903.jpg?s=85dc135e2b5964693d3e0076ecba994c"
+  },
+  {
+    "name": "Chichimaru, Amanda",
+    "prompt": "Chichimaru, Amanda from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/109196.jpg?s=abcefdf41e9ca0910d4412df208e824c"
+  },
+  {
+    "name": "Daichi",
+    "prompt": "Daichi from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/58561.jpg?s=449b08112ac7ae9ca6e08414bdaf162b"
+  },
+  {
+    "name": "de Morcerf, Lulu",
+    "prompt": "de Morcerf, Lulu from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/562844.jpg?s=e9732bb33ba1fc159ac0c463c736ea5c"
+  },
+  {
+    "name": "de Morcerf, Noriko",
+    "prompt": "de Morcerf, Noriko from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/563287.jpg?s=10817185c345a7a4090c88aa8a2dbfc5"
+  },
+  {
+    "name": "Diamond",
+    "prompt": "Diamond from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/225055.jpg?s=1b480241df9366d696d958401b5bfdd1"
+  },
+  {
+    "name": "Eru",
+    "prompt": "Eru from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/37945.jpg?s=8c966459c73fe9b856824e6491a0ed18"
+  },
+  {
+    "name": "Hinamori, Midori",
+    "prompt": "Hinamori, Midori from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/563082.jpg?s=f065c109b6ee6ad48a58a0a2e0028b35"
+  },
+  {
+    "name": "Hinamori, Ami",
+    "prompt": "Hinamori, Ami from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/58586.jpg?s=b71614cce1143b96fccd60145e921e9f"
+  },
+  {
+    "name": "Hinamori, Tsumugu",
+    "prompt": "Hinamori, Tsumugu from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/109199.jpg?s=08cd94a419c19a4727400a7a8f538091"
+  },
+  {
+    "name": "Hirano, Koyomi",
+    "prompt": "Hirano, Koyomi from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/563088.jpg?s=a80206f62c8f50b8a53cfd4554036bd1"
+  },
+  {
+    "name": "Hoshina, Kazuomi",
+    "prompt": "Hoshina, Kazuomi from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/563290.jpg?s=5610502729c69c73856c2168a4864209"
+  },
+  {
+    "name": "Hoshina, Souko",
+    "prompt": "Hoshina, Souko from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/109179.jpg?s=5c8960b3c5d365ad1f043a897c433b5f"
+  },
+  {
+    "name": "Ichinomiya, Hikaru",
+    "prompt": "Ichinomiya, Hikaru from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/65022.jpg?s=28c1c09dae39b496a037558d6efff1a5"
+  },
+  {
+    "name": "Iru",
+    "prompt": "Iru from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/37944.jpg?s=ad501a0c84ea1036d1504c62b6fc00ce"
+  },
+  {
+    "name": "Kiran",
+    "prompt": "Kiran from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/217909.jpg?s=fc7678ab7f612b06dca8b4ee45b38af2"
+  },
+  {
+    "name": "Kirishima, Fuyuki",
+    "prompt": "Kirishima, Fuyuki from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/563087.jpg?s=8d36183b35aa75e1cd9d133a6562bf0a"
+  },
+  {
+    "name": "Kiseki",
+    "prompt": "Kiseki from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/228611.jpg?s=6e44c7fddc6b1071379691dfbd261831"
+  },
+  {
+    "name": "Kogure, Yukina",
+    "prompt": "Kogure, Yukina from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/563092.jpg?s=5add6a33d10fc6289c631992e6e59fc9"
+  },
+  {
+    "name": "Kusanagi, Nayuta",
+    "prompt": "Kusanagi, Nayuta from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/563089.jpg?s=6e6d56d34d727f98bb23a3bfdcdf73d5"
+  },
+  {
+    "name": "Kusu Kusu",
+    "prompt": "Kusu Kusu from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/58560.jpg?s=aa49b0ad68d0ad94beed1ad460598ef5"
+  },
+  {
+    "name": "Lulu's Father",
+    "prompt": "Lulu's Father from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/563288.jpg?s=8b4f7ec00413f753473491a514062c5e"
+  },
+  {
+    "name": "Lulu's Grandmother",
+    "prompt": "Lulu's Grandmother from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/563289.jpg?s=73c2ac8ac9705d7e7b33de581735ba7f"
+  },
+  {
+    "name": "Manami",
+    "prompt": "Manami from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/217885.jpg?s=0330ebef83fb76d3141b0c5415ac8bf0"
+  },
+  {
+    "name": "Manta",
+    "prompt": "Manta from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/109184.jpg?s=7fa8b4b27b493eafac030cdba427c0d4"
+  },
+  {
+    "name": "Maruyama, Haruki",
+    "prompt": "Maruyama, Haruki from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/563286.jpg?s=b1bef008abd4c1d19ca312df3f4c6dd9"
+  },
+  {
+    "name": "Mizuno, Mamoru",
+    "prompt": "Mizuno, Mamoru from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/60333.jpg?s=79b520319a328a781636acf4722699fe"
+  },
+  {
+    "name": "Mizutani, Hinako",
+    "prompt": "Mizutani, Hinako from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/562978.jpg?s=4f6a835fe4558399f567e1d353b23e76"
+  },
+  {
+    "name": "Morino, Mimori",
+    "prompt": "Morino, Mimori from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/563090.jpg?s=bcc4fc1087b5140fe96f897fb3a08c15"
+  },
+  {
+    "name": "Mrs. Fujisaki",
+    "prompt": "Mrs. Fujisaki from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/566855.jpg?s=9fcac61b93daf4d3a4f6574505fcdabf"
+  },
+  {
+    "name": "Musashi",
+    "prompt": "Musashi from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/58559.jpg?s=47384746cec477f77ac1f3ec21f42e73"
+  },
+  {
+    "name": "Nakayama, Chiyoko",
+    "prompt": "Nakayama, Chiyoko from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/563091.jpg?s=a44d43096a1fb684a06e302e8e203ab9"
+  },
+  {
+    "name": "Nami",
+    "prompt": "Nami from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/563292.jpg?s=2ff9425bf02f11d8f3c968652efb8696"
+  },
+  {
+    "name": "Nana",
+    "prompt": "Nana from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/562830.jpg?s=a26a4a378886379128005d633106f070"
+  },
+  {
+    "name": "Nemi",
+    "prompt": "Nemi from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/564181.jpg?s=243ace42319c8baa65bb8bed56f99e20"
+  },
+  {
+    "name": "Nikaidou, Yuu",
+    "prompt": "Nikaidou, Yuu from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/32665.jpg?s=fd33c285786de23610802f044461ceba"
+  },
+  {
+    "name": "Ninagawa, Hitomi",
+    "prompt": "Ninagawa, Hitomi from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/562851.jpg?s=5002b80bafd76dcdcae56dc682cac794"
+  },
+  {
+    "name": "Nishino, Natsuko",
+    "prompt": "Nishino, Natsuko from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/566837.jpg?s=f7bf52f9371250a9feb4bc8dcaad1f3f"
+  },
+  {
+    "name": "Pepe",
+    "prompt": "Pepe from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/60365.jpg?s=962ea3249c0886bf60cae1e4a3c60eee"
+  },
+  {
+    "name": "Rhythm",
+    "prompt": "Rhythm from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/60370.jpg?s=9ff49fdb8649c4d8f1dd09bb502500ad"
+  },
+  {
+    "name": "Saeki, Nobuko",
+    "prompt": "Saeki, Nobuko from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/109203.jpg?s=57924ee12c159c5906abb4d144e19eb5"
+  },
+  {
+    "name": "Sakurai, Yua",
+    "prompt": "Sakurai, Yua from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/566848.jpg?s=2f8e7bbdec45009a3ae8021a14a6becb"
+  },
+  {
+    "name": "Sanjou, Yukari",
+    "prompt": "Sanjou, Yukari from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/562866.jpg?s=33f0c644dcad0d34b00696d9258ebeb0"
+  },
+  {
+    "name": "Sanjou, Kairi",
+    "prompt": "Sanjou, Kairi from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/93249.jpg?s=5704792a852764a1f25849e92a725ba8"
+  },
+  {
+    "name": "Souma, Shuusui",
+    "prompt": "Souma, Shuusui from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/566851.jpg?s=5efc990a63a4380e73bccd9610ca244d"
+  },
+  {
+    "name": "Souma, Unkai",
+    "prompt": "Souma, Unkai from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/566852.jpg?s=3094c4f36283b74df5ca85ef73949959"
+  },
+  {
+    "name": "Souma, Rento",
+    "prompt": "Souma, Rento from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/566853.jpg?s=5a094917b781481bd7ae400f352f06c9"
+  },
+  {
+    "name": "Souma, Kuukai",
+    "prompt": "Souma, Kuukai from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/562848.jpg?s=26486b578599bdfef1c2e07094a4fbb9"
+  },
+  {
+    "name": "Souma, Kaidou",
+    "prompt": "Souma, Kaidou from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/566850.jpg?s=74a1eab70e249b5e82452e8ab03272ab"
+  },
+  {
+    "name": "Suzuki, Seiichirou",
+    "prompt": "Suzuki, Seiichirou from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/109205.jpg?s=1bf3cc230f6cdbbe9aee4b05ed511e6d"
+  },
+  {
+    "name": "Temari",
+    "prompt": "Temari from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/58563.jpg?s=08525eb687ea6b0dcea649fe26a66772"
+  },
+  {
+    "name": "Tsukumo",
+    "prompt": "Tsukumo from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/109183.jpg?s=d0b6ae23a3098bc7df3279d78bcc7d1d"
+  },
+  {
+    "name": "Wakana",
+    "prompt": "Wakana from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/562846.jpg?s=79dffbe4e27bac3072cc8327fa978777"
+  },
+  {
+    "name": "Yamabuki, Saaya",
+    "prompt": "Yamabuki, Saaya from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/109207.jpg?s=79a8e28016df59bb145c0038446acce8"
+  },
+  {
+    "name": "Yoru",
+    "prompt": "Yoru from Shugo Chara!! Doki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/50519.jpg?s=0477368b12f2ea5c6026b119e3dd4d8f"
+  }
+]

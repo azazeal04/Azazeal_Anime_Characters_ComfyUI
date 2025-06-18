@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Azuki",
+    "prompt": "Azuki from Mameneko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/582251.jpg?s=78fdf917753fd20cd72c05fed09a1e6b"
+  },
+  {
+    "name": "Daizu",
+    "prompt": "Daizu from Mameneko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/582250.jpg?s=b0fd7d9f94133a08c00cc0f0bda74c4b"
+  },
+  {
+    "name": "Hadairo",
+    "prompt": "Hadairo from Mameneko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/357936.jpg?s=c50f46cf6b7cbc44c528e134128f755d"
+  },
+  {
+    "name": "Kainushi-san",
+    "prompt": "Kainushi-san from Mameneko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/357937.jpg?s=484adbae5a2c9cdc8e766137869bb713"
+  },
+  {
+    "name": "Mamenosuke",
+    "prompt": "Mamenosuke from Mameneko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/582249.jpg?s=d9b2d0de3efdbe082b76b78678cc47f7"
+  },
+  {
+    "name": "Megane",
+    "prompt": "Megane from Mameneko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/357941.jpg?s=8430bba963949701ba4acbe735309c58"
+  },
+  {
+    "name": "Moja",
+    "prompt": "Moja from Mameneko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/357939.jpg?s=246d1473dd08ce154b8a72f3840d7ae1"
+  },
+  {
+    "name": "Zashiki, Oyaji",
+    "prompt": "Zashiki, Oyaji from Mameneko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/357940.jpg?s=f307f8d39030700419362ea60e6f35fe"
+  }
+]

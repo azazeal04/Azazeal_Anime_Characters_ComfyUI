@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kaba",
+    "prompt": "Kaba from Kabatotto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/547641.jpg?s=a17b62c7cdbe54c76c254bf9d53b76fb"
+  },
+  {
+    "name": "Totto",
+    "prompt": "Totto from Kabatotto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/547640.jpg?s=6c04a63ce5368afad7e51684349c9f07"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Kabatotto",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

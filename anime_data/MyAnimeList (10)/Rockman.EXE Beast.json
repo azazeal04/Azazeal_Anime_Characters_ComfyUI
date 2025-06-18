@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Hikari, Netto",
+    "prompt": "Hikari, Netto from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/199245.jpg?s=15a627701ee52b90021954722344afe0"
+  },
+  {
+    "name": "Ijuuin, Enzan",
+    "prompt": "Ijuuin, Enzan from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/199247.jpg?s=1105614e382c05348518042ef073875e"
+  },
+  {
+    "name": "Iris",
+    "prompt": "Iris from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/517748.jpg?s=6172777509f2579dcd65da89a864ca3e"
+  },
+  {
+    "name": "Rockman.EXE",
+    "prompt": "Rockman.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/199239.jpg?s=9295c2b3c43899de2dfce8537051d461"
+  },
+  {
+    "name": "Roll.EXE",
+    "prompt": "Roll.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/199237.jpg?s=0347f23718075054d26cf9c1dbead0b3"
+  },
+  {
+    "name": "Sakurai, Meiru",
+    "prompt": "Sakurai, Meiru from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/199253.jpg?s=0532eb090cfcd0ad5dea8c3b1aadd766"
+  },
+  {
+    "name": "Trill.EXE",
+    "prompt": "Trill.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/192595.jpg?s=c2d11c5d6aaa019d4f3f216862e3a93b"
+  },
+  {
+    "name": "Airster, Charlie",
+    "prompt": "Airster, Charlie from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/527779.jpg?s=2314a1eb3a1ea4d3739f5c0e8ad4ca4b"
+  },
+  {
+    "name": "Aoki, Makoto",
+    "prompt": "Aoki, Makoto from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/527794.jpg?s=d1aff720bb5878e4a7fdbf40d85340e9"
+  },
+  {
+    "name": "AquaMan.EXE",
+    "prompt": "AquaMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/64660.jpg?s=b5c7eeec7491b75ca4cfcc1ecf9f94bd"
+  },
+  {
+    "name": "Aragaki, Kojiro",
+    "prompt": "Aragaki, Kojiro from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/527800.jpg?s=83e8ab4e072c54448863cc47bbd72f76"
+  },
+  {
+    "name": "Ayanokouji, Yaito",
+    "prompt": "Ayanokouji, Yaito from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/199257.jpg?s=e01457b13db723b1bb4a0ac1818452a1"
+  },
+  {
+    "name": "Barrel",
+    "prompt": "Barrel from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/517752.jpg?s=3942704d4c43b2e1af925ef119ae3adc"
+  },
+  {
+    "name": "Blues.EXE",
+    "prompt": "Blues.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/199235.jpg?s=9798989d75b9e72dfcd4947fcca8473b"
+  },
+  {
+    "name": "BubbleMan.EXE",
+    "prompt": "BubbleMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/517753.jpg?s=3e3521cd31c5c83eeb688f88202fee29"
+  },
+  {
+    "name": "ChargeMan.EXE",
+    "prompt": "ChargeMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/527796.jpg?s=3cd86b7682028570342fdb952fbc17a8"
+  },
+  {
+    "name": "Chirol",
+    "prompt": "Chirol from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/527786.jpg?s=2e454a3d294a6f7683b5098d573bea39"
+  },
+  {
+    "name": "CircusMan.EXE",
+    "prompt": "CircusMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/527787.jpg?s=493319ac16a174f682fb20f596c2ecd7"
+  },
+  {
+    "name": "Colonel.EXE",
+    "prompt": "Colonel.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/81980.jpg?s=d1bdb15cdb3eaa813ddf7b5480dec3df"
+  },
+  {
+    "name": "Dark, Kirisaki",
+    "prompt": "Dark, Kirisaki from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/464339.jpg?s=a6433d3b768387c6efdecac419d0bc45"
+  },
+  {
+    "name": "Dingo",
+    "prompt": "Dingo from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/580942.jpg?s=b647dd2fe427edf9cf214e893470ac1b"
+  },
+  {
+    "name": "Director",
+    "prompt": "Director from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/528447.jpg?s=c5d1207f415150fa96d52a1bda6c612b"
+  },
+  {
+    "name": "DiveMan.EXE",
+    "prompt": "DiveMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/527785.jpg?s=8d2b828af01b5821ca997c8c129f005f"
+  },
+  {
+    "name": "Dr. Wily",
+    "prompt": "Dr. Wily from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/459802.jpg?s=515c33cb918dd208e4a3d0ec0760b39a"
+  },
+  {
+    "name": "DustMan.EXE",
+    "prompt": "DustMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/527808.jpg?s=ce23d1d7fe9a38ebd1c83c3708b640b7"
+  },
+  {
+    "name": "Eguchi, Meijin",
+    "prompt": "Eguchi, Meijin from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/517708.jpg?s=34c0b27ad38e87f17a58eede702a1545"
+  },
+  {
+    "name": "Faran, Paxy",
+    "prompt": "Faran, Paxy from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/527798.jpg?s=8c134cb25e0df76c7eaee4c6a4746b9b"
+  },
+  {
+    "name": "Glide.EXE",
+    "prompt": "Glide.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/199259.jpg?s=99d38e1fc6ff53b28c8fcac2742c2aba"
+  },
+  {
+    "name": "Granny",
+    "prompt": "Granny from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/528350.jpg?s=18e8c8f042a259be174774606da916d3"
+  },
+  {
+    "name": "GroundMan.EXE",
+    "prompt": "GroundMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/527804.jpg?s=7e79ab4effcabcaeedf234967eea521b"
+  },
+  {
+    "name": "GutsMan.EXE",
+    "prompt": "GutsMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/229335.jpg?s=bd7c7bc6bb5aac09ffcd89f04b4648cb"
+  },
+  {
+    "name": "GyroMan.EXE",
+    "prompt": "GyroMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/527780.jpg?s=ab66e699d1e0db4e73c670d12b4ea30c"
+  },
+  {
+    "name": "Higure, Yamitaro",
+    "prompt": "Higure, Yamitaro from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/517710.jpg?s=b2badd53fcb8d1edacbd3ce20696b59a"
+  },
+  {
+    "name": "Hikari, Tadashi",
+    "prompt": "Hikari, Tadashi from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/527793.jpg?s=29c02be0b9023d3f32b57b6cc6f88907"
+  },
+  {
+    "name": "Hikari, Haruka",
+    "prompt": "Hikari, Haruka from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/580931.jpg?s=01ae1ffc4e82ce277d4d8cbaf57be8d9"
+  },
+  {
+    "name": "Hikari, Yuuichirou",
+    "prompt": "Hikari, Yuuichirou from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/580932.jpg?s=58016fcdd75d796e8c0e9eb49a0151c0"
+  },
+  {
+    "name": "Hikawa, Tooru",
+    "prompt": "Hikawa, Tooru from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/580946.jpg?s=d5c457661fac3ba817dd04f9a9aea3b0"
+  },
+  {
+    "name": "Horisugi, Dotarou",
+    "prompt": "Horisugi, Dotarou from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/527803.jpg?s=fde2d928ce612d38d6549ebf7c60ab9f"
+  },
+  {
+    "name": "IceMan.EXE",
+    "prompt": "IceMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/199241.jpg?s=8f1a5ee985ca7bceec2455967f771446"
+  },
+  {
+    "name": "Jasmine",
+    "prompt": "Jasmine from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/52420.jpg?s=af955d625dd05c6d482b782cb80ae98d"
+  },
+  {
+    "name": "Kido, Shuuko",
+    "prompt": "Kido, Shuuko from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/79936.jpg?s=95568c8481add177e8c3f2597ef69709"
+  },
+  {
+    "name": "Kifune, Seishin",
+    "prompt": "Kifune, Seishin from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/527767.jpg?s=d5dd4af7353a37b95fa044b86fd10b63"
+  },
+  {
+    "name": "KillerMan.EXE",
+    "prompt": "KillerMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/527812.jpg?s=7bd6e15594f65d963f90e80c8eab9369"
+  },
+  {
+    "name": "KnightMan.EXE",
+    "prompt": "KnightMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/517721.jpg?s=b6efda218319addeb5f8e3964aa624d7"
+  },
+  {
+    "name": "Kurogane, Kunio",
+    "prompt": "Kurogane, Kunio from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/527795.jpg?s=dc9f00f50e2a0cb01f2be0c763646ae4"
+  },
+  {
+    "name": "Kurohige, Captain",
+    "prompt": "Kurohige, Captain from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/527784.jpg?s=dbae7375e7c474843b378c9f8bd3d6b6"
+  },
+  {
+    "name": "Laika",
+    "prompt": "Laika from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/199255.jpg?s=39223a9b93913ecae25f8182e7756cee"
+  },
+  {
+    "name": "Magnets, Tesla",
+    "prompt": "Magnets, Tesla from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/464340.jpg?s=ae75936ff2c8498c482411544290ec66"
+  },
+  {
+    "name": "Manabe, Rin",
+    "prompt": "Manabe, Rin from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/527769.jpg?s=3f890f52a0e839baae5eb7520d7a3798"
+  },
+  {
+    "name": "Masa",
+    "prompt": "Masa from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/64505.jpg?s=d6cb7123515fdeec64151df96ac0b75d"
+  },
+  {
+    "name": "Medi.EXE",
+    "prompt": "Medi.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/64670.jpg?s=943466fef9b663e38c0fc66da484d12b"
+  },
+  {
+    "name": "Miyabi, Dark",
+    "prompt": "Miyabi, Dark from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/527770.jpg?s=0aac6b5eb6b6493a2ed0fe0568c1103b"
+  },
+  {
+    "name": "Miyata",
+    "prompt": "Miyata from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/527797.jpg?s=773efba1b0074e53becc28c46705b273"
+  },
+  {
+    "name": "Mr. Press",
+    "prompt": "Mr. Press from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/527805.jpg?s=fa3a48844a8b44447aff21a33ddad917"
+  },
+  {
+    "name": "NapalmMan.EXE",
+    "prompt": "NapalmMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/527782.jpg?s=45b0067eedd7ec2aa6dca8c58b026d1a"
+  },
+  {
+    "name": "Narcy, Hide",
+    "prompt": "Narcy, Hide from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/107385.jpg?s=d46f21203028c5403e4c669072f3e747"
+  },
+  {
+    "name": "NeedleMan.EXE",
+    "prompt": "NeedleMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/528021.jpg?s=5fd4e95a871dd55adf0619ad85341ae4"
+  },
+  {
+    "name": "NumberMan.EXE",
+    "prompt": "NumberMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/528029.jpg?s=f951a4bbc4d8769f9eda66ccea3ba096"
+  },
+  {
+    "name": "Obihiro, Shun",
+    "prompt": "Obihiro, Shun from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/64808.jpg?s=e7f95db4f2315fa9ab9f0d12d69045fb"
+  },
+  {
+    "name": "Oyama, Dekao",
+    "prompt": "Oyama, Dekao from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/517724.jpg?s=f2f4ae55ee880ed1888d66936bbf1c9b"
+  },
+  {
+    "name": "Oyama, Chisao",
+    "prompt": "Oyama, Chisao from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/580949.jpg?s=ecfdd7bae63c4f912e45396da1b81556"
+  },
+  {
+    "name": "Ozono, Mariko",
+    "prompt": "Ozono, Mariko from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/199251.jpg?s=1f9f60b389115bc9d1272fd54a4ef9b9"
+  },
+  {
+    "name": "Ozono, Yuriko",
+    "prompt": "Ozono, Yuriko from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/205365.jpg?s=3b62366f0f816e8e81e6477da85bc8b2"
+  },
+  {
+    "name": "Princess Pride",
+    "prompt": "Princess Pride from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/517725.jpg?s=709718e598e72638a7f02347ba2f04cc"
+  },
+  {
+    "name": "Raoul",
+    "prompt": "Raoul from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/517728.jpg?s=3b0f97ae3c6aba6fd65fffed520d2cd5"
+  },
+  {
+    "name": "Rokushakudama, Nenji",
+    "prompt": "Rokushakudama, Nenji from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/527781.jpg?s=51c08616bb3f7a98d2290a2ea95e2591"
+  },
+  {
+    "name": "Roshi, Futen",
+    "prompt": "Roshi, Futen from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/527801.jpg?s=4dea865e36d565f7ce7c4c19bc6c5597"
+  },
+  {
+    "name": "Rush.EXE",
+    "prompt": "Rush.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/580951.jpg?s=1003c8232d6db09c24c65bce1f94e315"
+  },
+  {
+    "name": "Saroma",
+    "prompt": "Saroma from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/199243.jpg?s=79a73d44db39062f35c626cb81dd6716"
+  },
+  {
+    "name": "SearchMan.EXE",
+    "prompt": "SearchMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/64662.jpg?s=4c642607d2c4c731de90a8f0ae459b41"
+  },
+  {
+    "name": "SharkMan.EXE",
+    "prompt": "SharkMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/580952.jpg?s=1cd3b0a23a6c4c1a0a17dab5ecfc3d80"
+  },
+  {
+    "name": "SherbetMan.EXE",
+    "prompt": "SherbetMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/527815.jpg?s=2e307beef8920fd76db100146cb4119c"
+  },
+  {
+    "name": "SlashMan.EXE",
+    "prompt": "SlashMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/527799.jpg?s=0be036c2b797889a5c212b59e7ec7241"
+  },
+  {
+    "name": "Sonjo",
+    "prompt": "Sonjo from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/528337.jpg?s=6a211afb28f674576e29b2b8acfaf965"
+  },
+  {
+    "name": "TenguMan.EXE",
+    "prompt": "TenguMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/527802.jpg?s=ea022dd3aee23d09564bb7bc35800966"
+  },
+  {
+    "name": "TomahawkMan.EXE",
+    "prompt": "TomahawkMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/533309.jpg?s=325c9b0eeb5b4b8d637420468a82f7b6"
+  },
+  {
+    "name": "VideoMan.EXE",
+    "prompt": "VideoMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/528206.jpg?s=fcc0a558ad9676314fd828d882035c16"
+  },
+  {
+    "name": "WoodMan.EXE",
+    "prompt": "WoodMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/517734.jpg?s=a1cc62d5d18d9f5a2a640844ccdae806"
+  },
+  {
+    "name": "YetiMan.EXE",
+    "prompt": "YetiMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/527814.jpg?s=53ca15806d39b27ffdfa57f8b145f3b9"
+  },
+  {
+    "name": "Zoano CloudMan.EXE",
+    "prompt": "Zoano CloudMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/517754.jpg?s=434135a79e3b99f9beefe7dabc33d1cd"
+  },
+  {
+    "name": "Zoano Colonel.EXE",
+    "prompt": "Zoano Colonel.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/517755.jpg?s=fba30aafabf6a8c9bd27f82a845b5da0"
+  },
+  {
+    "name": "Zoano DarkMan.EXE",
+    "prompt": "Zoano DarkMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/517756.jpg?s=6c0dbf650e4b74c524acb570b0ae2db2"
+  },
+  {
+    "name": "Zoano FlameMan.EXE",
+    "prompt": "Zoano FlameMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/517757.jpg?s=2592423d5a27210396d01c04092bb972"
+  },
+  {
+    "name": "Zoano FreezeMan.EXE",
+    "prompt": "Zoano FreezeMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/517758.jpg?s=d204d9a8c75aabfc611555ac14b558ee"
+  },
+  {
+    "name": "Zoano GateMan.EXE",
+    "prompt": "Zoano GateMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/517759.jpg?s=df0aa9098a6f6884f3f9698aa127fbf3"
+  },
+  {
+    "name": "Zoano GutsMan.EXE",
+    "prompt": "Zoano GutsMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/517760.jpg?s=ab0c3d2f69ea7896e63a3a33c893788b"
+  },
+  {
+    "name": "Zoano JunkMan.EXE",
+    "prompt": "Zoano JunkMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/517761.jpg?s=339818ff0b22d9033b0680af8313d941"
+  },
+  {
+    "name": "Zoano NumberMan.EXE",
+    "prompt": "Zoano NumberMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/517762.jpg?s=c5cd43b08097a5157ecd2dfa8b4d4c76"
+  },
+  {
+    "name": "Zoano PharaohMan.EXE",
+    "prompt": "Zoano PharaohMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/517763.jpg?s=0bab8e09e5f062b31a1bde796a351bb9"
+  },
+  {
+    "name": "Zoano PlantMan.EXE",
+    "prompt": "Zoano PlantMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/517764.jpg?s=78eafc96bea297868eb7ecd5f5141e86"
+  },
+  {
+    "name": "Zoano Punk.EXE",
+    "prompt": "Zoano Punk.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/517765.jpg?s=6b69d10738ebcd4d35ae8e74435928bc"
+  },
+  {
+    "name": "Zoano QuickMan.EXE",
+    "prompt": "Zoano QuickMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/517766.jpg?s=d2e4931225cc3a816cb332da79f7ad01"
+  },
+  {
+    "name": "Zoano SnakeMan.EXE",
+    "prompt": "Zoano SnakeMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/517767.jpg?s=9be54ce7709ae14910b03f430a4b58d0"
+  },
+  {
+    "name": "Zoano SparkMan.EXE",
+    "prompt": "Zoano SparkMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/471846.jpg?s=71e73b562bc4191d4815db8e0177b355"
+  },
+  {
+    "name": "Zoano StoneMan.EXE",
+    "prompt": "Zoano StoneMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/517768.jpg?s=9f72847e5ecf9df4a07991e50924d9d6"
+  },
+  {
+    "name": "Zoano SwallowMan.EXE",
+    "prompt": "Zoano SwallowMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/517769.jpg?s=55449b396b3b6d020739456f7de24810"
+  },
+  {
+    "name": "Zoano WhaleMan.EXE",
+    "prompt": "Zoano WhaleMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/517770.jpg?s=e73ac36d7657e7d7251c2c03dff4d8d4"
+  },
+  {
+    "name": "Zoano YamatoMan.EXE",
+    "prompt": "Zoano YamatoMan.EXE from Rockman.EXE Beast",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/517771.jpg?s=e6446ae17f54dba49d6e48363d67fa0a"
+  }
+]

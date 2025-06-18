@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Amari",
+    "prompt": "Amari from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/305336.jpg?s=3cb820f939b8e9f149a764f0e428c5b1"
+  },
+  {
+    "name": "Fukumoto",
+    "prompt": "Fukumoto from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/305337.jpg?s=391c56602cfba297cff34a4b9ae28c03"
+  },
+  {
+    "name": "Gamou, Jirou",
+    "prompt": "Gamou, Jirou from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/305323.jpg?s=da343b03ea4420e2af96b7a7b2964085"
+  },
+  {
+    "name": "Hatano",
+    "prompt": "Hatano from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/305338.jpg?s=a183a2c14cb21149500e598dc62509df"
+  },
+  {
+    "name": "Jitsui",
+    "prompt": "Jitsui from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/305339.jpg?s=1f21552948cb7cb3cfc25d0525ba6e38"
+  },
+  {
+    "name": "Kaminaga",
+    "prompt": "Kaminaga from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/305340.jpg?s=48617193bd0fceea069e681659fabdb4"
+  },
+  {
+    "name": "Miyoshi",
+    "prompt": "Miyoshi from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/305345.jpg?s=8fefe4ba29b7b455e85c77a886e7e022"
+  },
+  {
+    "name": "Odagiri",
+    "prompt": "Odagiri from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/305341.jpg?s=947171f9b0bc433f6cf035aecf720423"
+  },
+  {
+    "name": "Sakuma",
+    "prompt": "Sakuma from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/305342.jpg?s=86f2ecc18eac1c74aae7f23bf2f1eb0a"
+  },
+  {
+    "name": "Tazaki",
+    "prompt": "Tazaki from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/305335.jpg?s=520f5bcaf37b7a97af85c7937a683e52"
+  },
+  {
+    "name": "Yuuki",
+    "prompt": "Yuuki from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/305343.jpg?s=47afdd0128969f11040d9e66f31c391b"
+  },
+  {
+    "name": "Akutsu, Yasumasa",
+    "prompt": "Akutsu, Yasumasa from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/305322.jpg?s=5fbbeabc71c020d62d7a027e13746e72"
+  },
+  {
+    "name": "Arisaki, Akira",
+    "prompt": "Arisaki, Akira from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/307274.jpg?s=28b0f059e2ffb9882d7006f28b9196ee"
+  },
+  {
+    "name": "Arisaki, Naochika",
+    "prompt": "Arisaki, Naochika from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Bauer, Johann",
+    "prompt": "Bauer, Johann from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/307106.jpg?s=bb93a1c506d5fb27d78c36e00179050c"
+  },
+  {
+    "name": "Elena",
+    "prompt": "Elena from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Frank, Otto",
+    "prompt": "Frank, Otto from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Gordon, John",
+    "prompt": "Gordon, John from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/305344.jpg?s=570b20e84e0622efbe2d677aeda69798"
+  },
+  {
+    "name": "Graham, Ernest",
+    "prompt": "Graham, Ernest from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/305329.jpg?s=bd6a3a483873cb3624d70dbe6f166f81"
+  },
+  {
+    "name": "Graham, Jane",
+    "prompt": "Graham, Jane from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/305328.jpg?s=eaf32bf84a0109ae3fddb357450cf645"
+  },
+  {
+    "name": "Grane, Synthia",
+    "prompt": "Grane, Synthia from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/305790.jpg?s=3f0e0dde0e71474807a878112065abb1"
+  },
+  {
+    "name": "Grane, Emma",
+    "prompt": "Grane, Emma from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/305758.jpg?s=d5e6a46c30a0ac4d807d2c76c10e2914"
+  },
+  {
+    "name": "Grane, Raymond",
+    "prompt": "Grane, Raymond from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hanabishi no Juugyouin",
+    "prompt": "Hanabishi no Juugyouin from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/535640.jpg?s=7af042b4dfb2dcae287630993f8383bc"
+  },
+  {
+    "name": "Honma, Eiji",
+    "prompt": "Honma, Eiji from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/305346.jpg?s=6e997dc478274bf6a225340858a3b3fc"
+  },
+  {
+    "name": "James",
+    "prompt": "James from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/304334.jpg?s=8e88eaac72916b27a36caf187b0a10b5"
+  },
+  {
+    "name": "Kazato, Akimasa",
+    "prompt": "Kazato, Akimasa from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/305327.jpg?s=49b6ef59883c692b45c90ba9ad07a36c"
+  },
+  {
+    "name": "Kites, Gunter",
+    "prompt": "Kites, Gunter from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Lernier, Alain",
+    "prompt": "Lernier, Alain from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/305347.jpg?s=2a209ebe09fcd350f15d4fc4700d55b3"
+  },
+  {
+    "name": "Marks, Howard",
+    "prompt": "Marks, Howard from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/305334.jpg?s=9ad366b6e569834e4ff2bb961878343a"
+  },
+  {
+    "name": "Miyata, Nobuteru",
+    "prompt": "Miyata, Nobuteru from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Morgan, Jeffery",
+    "prompt": "Morgan, Jeffery from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/305330.jpg?s=14a4d4b81b4dc8e9ebffd154fb72829c"
+  },
+  {
+    "name": "Morozoff, Anton",
+    "prompt": "Morozoff, Anton from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mutou",
+    "prompt": "Mutou from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/305321.jpg?s=bba58eaae79404aef86c289851372859"
+  },
+  {
+    "name": "Nogami, Yuriko",
+    "prompt": "Nogami, Yuriko from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/307103.jpg?s=1d23b5705f1f4d29dc782d4680b966e2"
+  },
+  {
+    "name": "Oikawa, Masayuki",
+    "prompt": "Oikawa, Masayuki from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/305348.jpg?s=0140cc7578dbccfeddc19b50b05fb145"
+  },
+  {
+    "name": "Price, Aaron",
+    "prompt": "Price, Aaron from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Price, Ellen",
+    "prompt": "Price, Ellen from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Satomura",
+    "prompt": "Satomura from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Shirahata, Kiichirou",
+    "prompt": "Shirahata, Kiichirou from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sotomura, Hitoshi",
+    "prompt": "Sotomura, Hitoshi from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Torres, Marie",
+    "prompt": "Torres, Marie from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/305349.jpg?s=fe2acc67ff0e0de0174712eda85e9c0b"
+  },
+  {
+    "name": "Victoire, Jean",
+    "prompt": "Victoire, Jean from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/305350.jpg?s=a84724de9a05160c52dc3e95d26c7ba5"
+  },
+  {
+    "name": "Wolff, Hermann",
+    "prompt": "Wolff, Hermann from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/307105.jpg?s=6038bf19ea4f21f938c88f2930a122e4"
+  },
+  {
+    "name": "Yasuhara, Miyoko",
+    "prompt": "Yasuhara, Miyoko from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/307104.jpg?s=e066dc9d3b0319bd8da329a574c2ca32"
+  },
+  {
+    "name": "Yoshino, Yutaka",
+    "prompt": "Yoshino, Yutaka from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/304340.jpg?s=f603cc748f9cb354ee851f6f0d5d8cf7"
+  },
+  {
+    "name": "Yuasa",
+    "prompt": "Yuasa from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Zhang, Dai Ming",
+    "prompt": "Zhang, Dai Ming from Joker Game",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/305326.jpg?s=e9544c4f7fa674ea1d5a3570251c77ec"
+  }
+]

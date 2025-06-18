@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Tsumugi",
+    "prompt": "Tsumugi from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/550144.jpg?s=4a1e892a62d95e54ddcaae991e69ec43"
+  },
+  {
+    "name": "Yatsuse, Hiiragi",
+    "prompt": "Yatsuse, Hiiragi from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/550145.jpg?s=815999e66af8341b703212be4eed6dfa"
+  },
+  {
+    "name": "Aoi",
+    "prompt": "Aoi from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/560990.jpg?s=8411a33b9981a9f8000b3889aa290bb7"
+  },
+  {
+    "name": "Aoi Oni",
+    "prompt": "Aoi Oni from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/560989.jpg?s=2acd1f0f290d0f0a95ba011a13d91057"
+  },
+  {
+    "name": "Arata",
+    "prompt": "Arata from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/560998.jpg?s=395ea9bac7ce7f75bf1564ccce9234d7"
+  },
+  {
+    "name": "Art Teacher",
+    "prompt": "Art Teacher from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/561000.jpg?s=3cfef9ca83f6329fc5f4edd0a05e5e96"
+  },
+  {
+    "name": "Asahi",
+    "prompt": "Asahi from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/560997.jpg?s=551812f825fa62322baf69ffbb9463e2"
+  },
+  {
+    "name": "Bus Driver",
+    "prompt": "Bus Driver from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/561001.jpg?s=12d60f7b73a069080fa7d342e1747e0c"
+  },
+  {
+    "name": "Gozen",
+    "prompt": "Gozen from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550236.jpg?s=3a2c559df671b14a8a62fd4261c3cb4e"
+  },
+  {
+    "name": "Isami",
+    "prompt": "Isami from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/560986.jpg?s=78f03dd6c65462cb739393ce8552f93b"
+  },
+  {
+    "name": "Izuru",
+    "prompt": "Izuru from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/550225.jpg?s=5de33d480f154dde32ad8484a09e30af"
+  },
+  {
+    "name": "Mashima",
+    "prompt": "Mashima from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/560984.jpg?s=7024f96c6c2ffe77528ce1c71e430bfb"
+  },
+  {
+    "name": "Mei",
+    "prompt": "Mei from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/560983.jpg?s=2409d9c2ef55fcd56770491a1ecc8406"
+  },
+  {
+    "name": "Satoshi",
+    "prompt": "Satoshi from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/560992.jpg?s=651ec46b90ea08468f28c7f7c35ad15a"
+  },
+  {
+    "name": "Shion",
+    "prompt": "Shion from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550228.jpg?s=5a2b4a4aa5cf37d768b59d9c73cc9733"
+  },
+  {
+    "name": "Shiori",
+    "prompt": "Shiori from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/560967.jpg?s=8721bd44e1f88e7b2c34f5684edd61d1"
+  },
+  {
+    "name": "Takahashi, Mio",
+    "prompt": "Takahashi, Mio from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/550231.jpg?s=6bccbb930a7b47e7b65f60cd2ac27fc7"
+  },
+  {
+    "name": "Takahashi, Ryuuji",
+    "prompt": "Takahashi, Ryuuji from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/550230.jpg?s=198ddee41f923aef8420258a52936c05"
+  },
+  {
+    "name": "Tanimoto, Haruto",
+    "prompt": "Tanimoto, Haruto from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/560988.jpg?s=9b246cecc608bf54221ada5f1351248b"
+  },
+  {
+    "name": "Tanimoto, Youichi",
+    "prompt": "Tanimoto, Youichi from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/550237.jpg?s=f4ce1a16a666ccec2f568e31799499e7"
+  },
+  {
+    "name": "Tanimoto, Hinata",
+    "prompt": "Tanimoto, Hinata from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/560987.jpg?s=043e4b096c85d442e601528731dd1d56"
+  },
+  {
+    "name": "Tazawa, Ai",
+    "prompt": "Tazawa, Ai from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/560991.jpg?s=9cccb198f87b997d6aecdd74f30ed20a"
+  },
+  {
+    "name": "Touko",
+    "prompt": "Touko from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/560993.jpg?s=596a68542f8511bd4fd0b5f29a2b3c3e"
+  },
+  {
+    "name": "Yamashita, Naoya",
+    "prompt": "Yamashita, Naoya from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/550234.jpg?s=8f4abf219c1453f05d5c5af99ee7b005"
+  },
+  {
+    "name": "Yamashita, Shimako",
+    "prompt": "Yamashita, Shimako from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/550232.jpg?s=d1a16de6b09d1624a58ca1a029ea3912"
+  },
+  {
+    "name": "Yatsuse, Mikio",
+    "prompt": "Yatsuse, Mikio from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550222.jpg?s=4de5738ce0579becd292b340dc3acfa4"
+  },
+  {
+    "name": "Yatsuse, Mikuri",
+    "prompt": "Yatsuse, Mikuri from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/550223.jpg?s=daa7427201551b0b0fa01d2a7a5103cd"
+  },
+  {
+    "name": "Yatsuse, Kaede",
+    "prompt": "Yatsuse, Kaede from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550224.jpg?s=70e2cd80f3cd35627cc2f8ae5624cc08"
+  },
+  {
+    "name": "Yoshino",
+    "prompt": "Yoshino from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/560999.jpg?s=a5cd4d12265ff72e18a1db04a85d1340"
+  },
+  {
+    "name": "Yukimura",
+    "prompt": "Yukimura from Suki demo Kirai na Amanojaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/560996.jpg?s=e68c07a03b7a94ce907e329aac854ef6"
+  }
+]

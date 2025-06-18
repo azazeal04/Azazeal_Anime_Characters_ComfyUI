@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Hei",
+    "prompt": "Hei from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/78781.jpg?s=7ae3d4ec2ab3a30355c3642f4c783b42"
+  },
+  {
+    "name": "Huang",
+    "prompt": "Huang from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/31804.jpg?s=d589fc99d9761d2dbcf32b052a9ceedb"
+  },
+  {
+    "name": "Kirihara, Misaki",
+    "prompt": "Kirihara, Misaki from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/92128.jpg?s=c0d732150f5e78cc12ea81ccea90806f"
+  },
+  {
+    "name": "Mao",
+    "prompt": "Mao from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/62934.jpg?s=efa17755268c0da60e9a96da7b15e11d"
+  },
+  {
+    "name": "Yin",
+    "prompt": "Yin from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/80129.jpg?s=4374e7f16b4685d83dfa413f19120921"
+  },
+  {
+    "name": "Alain",
+    "prompt": "Alain from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/305029.jpg?s=ab602099ac54c68219a6d2407da1a3a6"
+  },
+  {
+    "name": "Alma",
+    "prompt": "Alma from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/68304.jpg?s=f19d7ef4607351f20eef67529e1503d9"
+  },
+  {
+    "name": "Amagiri",
+    "prompt": "Amagiri from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/81531.jpg?s=8112efbedee5fa8727d4ed879a173f73"
+  },
+  {
+    "name": "Amber",
+    "prompt": "Amber from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/70554.jpg?s=1b48221e6753f0e3361d3f3017615939"
+  },
+  {
+    "name": "Anni",
+    "prompt": "Anni from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/305032.jpg?s=8df4f6a35c6109b6b6a0e1b3717bbe0c"
+  },
+  {
+    "name": "April",
+    "prompt": "April from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/75399.jpg?s=71350bab0bcf40f6eecc4a05d1752c57"
+  },
+  {
+    "name": "Babo",
+    "prompt": "Babo from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/305033.jpg?s=982e40236af5bb9f61630ac5f289c157"
+  },
+  {
+    "name": "Bai",
+    "prompt": "Bai from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/70456.jpg?s=5d5cc5a16c1dea9b8f7a5d3387475ed2"
+  },
+  {
+    "name": "Barnum, Harris",
+    "prompt": "Barnum, Harris from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/302861.jpg?s=c0e8049a49ac2669deed86c94248762c"
+  },
+  {
+    "name": "Bertha",
+    "prompt": "Bertha from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/61995.jpg?s=ec661710eaa324774be34f2484058172"
+  },
+  {
+    "name": "Brita",
+    "prompt": "Brita from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/137815.jpg?s=5d895c64ea152dc374abc8ebc80e9e63"
+  },
+  {
+    "name": "Corrina, Moku",
+    "prompt": "Corrina, Moku from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/250561.jpg?s=d530953700ca57e4cab0d261c346c5aa"
+  },
+  {
+    "name": "Decade",
+    "prompt": "Decade from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/199069.jpg?s=066cab18025df65bddaa0a5051e9195d"
+  },
+  {
+    "name": "Erika",
+    "prompt": "Erika from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/250153.jpg?s=377fbeaa28592346711a0cd289c77d56"
+  },
+  {
+    "name": "Havoc",
+    "prompt": "Havoc from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/54029.jpg?s=c3cd5b6a0d42c7a98fbe192d0bfa1876"
+  },
+  {
+    "name": "Hillman, Nick",
+    "prompt": "Hillman, Nick from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/57645.jpg?s=aef1a101a679b166f04871188e8c344d"
+  },
+  {
+    "name": "Hitotsubashi, Masashi",
+    "prompt": "Hitotsubashi, Masashi from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/68513.jpg?s=0d4a47f89d787c5a1a8858bf8dfa00f8"
+  },
+  {
+    "name": "Hourai, Yoshimitsu",
+    "prompt": "Hourai, Yoshimitsu from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/100768.jpg?s=9b21a18fec2b31a6089274b6470453a7"
+  },
+  {
+    "name": "Irene",
+    "prompt": "Irene from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/305034.jpg?s=f6a8c0e9219c49f9ca361d581bb38581"
+  },
+  {
+    "name": "Ishizaki, Kanami",
+    "prompt": "Ishizaki, Kanami from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/125349.jpg?s=8126edb1f2992e28652d3baf186b1063"
+  },
+  {
+    "name": "Isozaki, Souichi",
+    "prompt": "Isozaki, Souichi from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/472381.jpg?s=a7769cbfff5b3e4e243bd4bbf2ac3bba"
+  },
+  {
+    "name": "Isozaki, Shizuka",
+    "prompt": "Isozaki, Shizuka from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/373959.jpg?s=9d78c47cba1a25a1453a32f5bbadd9ea"
+  },
+  {
+    "name": "Jean",
+    "prompt": "Jean from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/74722.jpg?s=5fe974e41e148ca149ece712d8f454df"
+  },
+  {
+    "name": "Joshua",
+    "prompt": "Joshua from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/305037.jpg?s=8a92564075c5c9587a158a4d1708ba16"
+  },
+  {
+    "name": "July",
+    "prompt": "July from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/101898.jpg?s=de6e1799e672c5acc73bd7bf19575b12"
+  },
+  {
+    "name": "Kandaswamy, Meena",
+    "prompt": "Kandaswamy, Meena from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/446465.jpg?s=ead9c3ec38cb6d5b84f16e561fbd1ff3"
+  },
+  {
+    "name": "Kapoor, Amitabh",
+    "prompt": "Kapoor, Amitabh from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kashiwagi, Mai",
+    "prompt": "Kashiwagi, Mai from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/54380.jpg?s=517ac9c8c64d6498784976f272374225"
+  },
+  {
+    "name": "Kastinen, Eelis",
+    "prompt": "Kastinen, Eelis from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/62000.jpg?s=614688fdf4308102a3bd7f9c11338c73"
+  },
+  {
+    "name": "Katsuragi, Toshiko",
+    "prompt": "Katsuragi, Toshiko from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/250173.jpg?s=00a1af792834f2ef45e22d3c48c32393"
+  },
+  {
+    "name": "Kayanuma, Kiko",
+    "prompt": "Kayanuma, Kiko from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/54092.jpg?s=61834aaccdb31fd0a69273fb03a5dcb1"
+  },
+  {
+    "name": "Kenneth",
+    "prompt": "Kenneth from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/305041.jpg?s=2d6fe95ec8441f2ecaad84a38fbfce29"
+  },
+  {
+    "name": "Kikuchi, Reiji",
+    "prompt": "Kikuchi, Reiji from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/305045.jpg?s=34c0b90983f14109cdc65fb8fb8f2968"
+  },
+  {
+    "name": "Kirihara, Naoyasu",
+    "prompt": "Kirihara, Naoyasu from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/250333.jpg?s=afc9c452c94b71c8cdce6612914ad9d3"
+  },
+  {
+    "name": "Kishida, Shihoko",
+    "prompt": "Kishida, Shihoko from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/60211.jpg?s=50d0490616b7082b01578ca7fca96c5d"
+  },
+  {
+    "name": "Kouno, Yutaka",
+    "prompt": "Kouno, Yutaka from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/54012.jpg?s=7fb370351f62ca95f4a9a900798363ee"
+  },
+  {
+    "name": "Kurasawa, Gai",
+    "prompt": "Kurasawa, Gai from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/72881.jpg?s=15bb0e33289cc364bd2651d42f37a670"
+  },
+  {
+    "name": "Lau, Richard",
+    "prompt": "Lau, Richard from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/250305.jpg?s=53810036e75bd1c8a84195214cf5d380"
+  },
+  {
+    "name": "Lewis",
+    "prompt": "Lewis from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/305038.jpg?s=b1a331ae442de68c34b09fe02a164920"
+  },
+  {
+    "name": "Lindsay, Kirk",
+    "prompt": "Lindsay, Kirk from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/379906.jpg?s=0cfd50509728923528022253b08596e8"
+  },
+  {
+    "name": "Louis",
+    "prompt": "Louis from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/105818.jpg?s=b36f08527e3abf5108a2b1f6f82ada08"
+  },
+  {
+    "name": "Luc",
+    "prompt": "Luc from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/249983.jpg?s=120a6f669370a59a60da65a6e8f732e7"
+  },
+  {
+    "name": "Maki",
+    "prompt": "Maki from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/54724.jpg?s=f4e85cbc8bd70d5ef855a9e78277727d"
+  },
+  {
+    "name": "Matsumoto, Kunio",
+    "prompt": "Matsumoto, Kunio from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/150679.jpg?s=78fe51741d46fba053741846529213ed"
+  },
+  {
+    "name": "Mayuko",
+    "prompt": "Mayuko from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/305039.jpg?s=c6c7438d99477bedbdd3fb77dd20575e"
+  },
+  {
+    "name": "Nishijima, Eric",
+    "prompt": "Nishijima, Eric from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/68512.jpg?s=cbd0db3647b836c8731a1ef2a7497bd9"
+  },
+  {
+    "name": "November 11",
+    "prompt": "November 11 from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/39611.jpg?s=9242d161caf92e99cfed4e438a92fce6"
+  },
+  {
+    "name": "Ooyama, Misuzu",
+    "prompt": "Ooyama, Misuzu from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/276551.jpg?s=b65ba3aa4c6fb736f0d1b1fd4b85ec39"
+  },
+  {
+    "name": "Ooyama, Toshirou",
+    "prompt": "Ooyama, Toshirou from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/305040.jpg?s=ad1975f6e00eafce46f161b2ccb8e88e"
+  },
+  {
+    "name": "Otsuka, Mayu",
+    "prompt": "Otsuka, Mayu from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/61998.jpg?s=4530614ebd24bf5cfc79a56be3949ee1"
+  },
+  {
+    "name": "Ou, Yasuaki",
+    "prompt": "Ou, Yasuaki from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/305043.jpg?s=847ecde3085da81be30630eae256a429"
+  },
+  {
+    "name": "Paul",
+    "prompt": "Paul from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/305030.jpg?s=435bcde1fa34193f70d1425a05fe5df8"
+  },
+  {
+    "name": "Saito, Yusuke",
+    "prompt": "Saito, Yusuke from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/54013.jpg?s=720f104eeb18759a94f1b85f3d2184b6"
+  },
+  {
+    "name": "Sakurai, Kenji",
+    "prompt": "Sakurai, Kenji from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/61999.jpg?s=6ba89eec8d38790fb951e6e0c489ad56"
+  },
+  {
+    "name": "Sakutarou, Yuzuki",
+    "prompt": "Sakutarou, Yuzuki from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/250155.jpg?s=7bfa8a1610c5555184d0b5cc1f236124"
+  },
+  {
+    "name": "Schroeder, Robert",
+    "prompt": "Schroeder, Robert from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/254365.jpg?s=1aab6e053fccc1582acb5a69f33c5354"
+  },
+  {
+    "name": "Shinoda, Chiaki",
+    "prompt": "Shinoda, Chiaki from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/54340.jpg?s=76590a5e3c62b087ce5baaab2c0abc94"
+  },
+  {
+    "name": "Stargazer, Madam",
+    "prompt": "Stargazer, Madam from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/448153.jpg?s=07d67effb5b71b9ce6fdd3e22fde2701"
+  },
+  {
+    "name": "Tahara, Kouzou",
+    "prompt": "Tahara, Kouzou from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/358133.jpg?s=076d1944a58fca04b1784b540db334cb"
+  },
+  {
+    "name": "Ukiyama, Norio",
+    "prompt": "Ukiyama, Norio from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/373648.jpg?s=ae4db894b66be5b8ac47947f1eb7d72e"
+  },
+  {
+    "name": "Viktorov, Sergei",
+    "prompt": "Viktorov, Sergei from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/250563.jpg?s=a80fdcaa3c1a016cb6caa83b777dc2f9"
+  },
+  {
+    "name": "Wang, Shao Tang",
+    "prompt": "Wang, Shao Tang from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/250337.jpg?s=9431ed46025b30628226391ef50b6cf4"
+  },
+  {
+    "name": "Wang, Alice",
+    "prompt": "Wang, Alice from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/137817.jpg?s=bedcfeaaf90351a66ae0d54399eae6ff"
+  },
+  {
+    "name": "Wei, Zhijun",
+    "prompt": "Wei, Zhijun from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/79054.jpg?s=7788e94d09a6e82432698728a701cc8a"
+  },
+  {
+    "name": "Yuka",
+    "prompt": "Yuka from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/249895.jpg?s=38b2eca4084a796abb353740fe928132"
+  },
+  {
+    "name": "Yuzuki, Arisa",
+    "prompt": "Yuzuki, Arisa from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/305031.jpg?s=ecc4c713f024b8210f3398935448f328"
+  },
+  {
+    "name": "Yzak",
+    "prompt": "Yzak from Darker than Black: Kuro no Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/61996.jpg?s=078ed81594a78ddd91163ceae2e3cfc0"
+  }
+]

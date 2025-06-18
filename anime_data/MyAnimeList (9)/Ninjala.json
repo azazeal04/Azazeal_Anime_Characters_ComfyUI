@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Emma",
+    "prompt": "Emma from Ninjala",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/537945.jpg?s=04827b86ced719c3f5b92a0cd3bf2170"
+  },
+  {
+    "name": "Gumchi",
+    "prompt": "Gumchi from Ninjala",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/537948.jpg?s=d20f67c1acfb3a56b3f80bb2fdac934c"
+  },
+  {
+    "name": "Jane",
+    "prompt": "Jane from Ninjala",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/537946.jpg?s=16732aa1027bb49ad833af99b06de396"
+  },
+  {
+    "name": "Kappei",
+    "prompt": "Kappei from Ninjala",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/537943.jpg?s=317d8d539c36c6040022d6dab7c5f3ab"
+  },
+  {
+    "name": "Lucy",
+    "prompt": "Lucy from Ninjala",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/537944.jpg?s=e57f4d120543b7a15031782a954cae60"
+  },
+  {
+    "name": "Ron",
+    "prompt": "Ron from Ninjala",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/537947.jpg?s=b565d79f3e7aa594aff182d4746398aa"
+  },
+  {
+    "name": "Van",
+    "prompt": "Van from Ninjala",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/537942.jpg?s=8c42436e4897f37434a6ba53e184b874"
+  }
+]

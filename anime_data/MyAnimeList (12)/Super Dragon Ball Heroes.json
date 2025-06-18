@@ -1,0 +1,732 @@
+[
+  {
+    "name": "Son, Gokuu",
+    "prompt": "Son, Gokuu from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/72546.jpg?s=c434a442d8ad1212885a8d02dbcbbee0"
+  },
+  {
+    "name": "Vegeta",
+    "prompt": "Vegeta from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/86185.jpg?s=145f25d852734f70db55a92cab54b27b"
+  },
+  {
+    "name": "Aios",
+    "prompt": "Aios from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/486912.jpg?s=29e00708ba69d56fc5b4dcd5dd71e669"
+  },
+  {
+    "name": "Annin",
+    "prompt": "Annin from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/238743.jpg?s=09baa5c41ad32b26df63a01969bab77e"
+  },
+  {
+    "name": "Arack",
+    "prompt": "Arack from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/357388.jpg?s=bf6ff7edca3f6fb36f94eea464a57656"
+  },
+  {
+    "name": "Baby",
+    "prompt": "Baby from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/127721.jpg?s=23cdaa59bf78894387161571cea3e33a"
+  },
+  {
+    "name": "Bardock",
+    "prompt": "Bardock from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/103847.jpg?s=c38c133a809e886e0b01fec8e6bb13ee"
+  },
+  {
+    "name": "Basil",
+    "prompt": "Basil from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/358946.jpg?s=efe79d5ceb831008afd7d0a61faac0d5"
+  },
+  {
+    "name": "Beats",
+    "prompt": "Beats from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/423388.jpg?s=4db5596b68741d805422264bfde6e824"
+  },
+  {
+    "name": "Beerus",
+    "prompt": "Beerus from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/348954.jpg?s=5c7dbf7b62688a6bb8aea54b8596ad12"
+  },
+  {
+    "name": "Bergamo",
+    "prompt": "Bergamo from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/358945.jpg?s=e66f7b0bb7245a25dc9bec4d6933b6a0"
+  },
+  {
+    "name": "Bidou",
+    "prompt": "Bidou from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/111347.jpg?s=ff588bf84da8743c90e689bee1f63588"
+  },
+  {
+    "name": "Bojack",
+    "prompt": "Bojack from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/409246.jpg?s=338aa5d34f5b1b3c62dcd0465b8990d4"
+  },
+  {
+    "name": "Botamo",
+    "prompt": "Botamo from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/298389.jpg?s=e8758cda4b1656746b9f5889e5fde979"
+  },
+  {
+    "name": "Broly",
+    "prompt": "Broly from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/275050.jpg?s=afa9e1e85155ebcfeb3fe1c03d9183f7"
+  },
+  {
+    "name": "Bujin",
+    "prompt": "Bujin from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/111346.jpg?s=c849f03fdfa83f6836e889d30ee80492"
+  },
+  {
+    "name": "Bulma",
+    "prompt": "Bulma from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/280893.jpg?s=2b0fdc4d608cdb9f6ca28d6192cb9251"
+  },
+  {
+    "name": "Burter",
+    "prompt": "Burter from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/65047.jpg?s=997b89a158f98d70672e844d4a79f25d"
+  },
+  {
+    "name": "Cabba",
+    "prompt": "Cabba from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/358999.jpg?s=a5815fd02c1bdbf8bec2764fc5341533"
+  },
+  {
+    "name": "Caser",
+    "prompt": "Caser from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/423393.jpg?s=162f22445caf8f1f3cb41695cbe6730b"
+  },
+  {
+    "name": "Caulifla",
+    "prompt": "Caulifla from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/358997.jpg?s=ad53b1930a7c24074b0a29676345c55c"
+  },
+  {
+    "name": "Cell",
+    "prompt": "Cell from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/108594.jpg?s=11c75ff4c82ecb2c957dfebede7ab260"
+  },
+  {
+    "name": "Champa",
+    "prompt": "Champa from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/302850.jpg?s=d4b88b96a4101748e57a8a4e6da902c1"
+  },
+  {
+    "name": "Chi-Chi",
+    "prompt": "Chi-Chi from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/247963.jpg?s=f4b64bc7b901fd59d3d9fd6b42afcf1c"
+  },
+  {
+    "name": "Chilled",
+    "prompt": "Chilled from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/147807.jpg?s=9d1fe5430496299c20fa50943a09ccaa"
+  },
+  {
+    "name": "Cooler",
+    "prompt": "Cooler from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/331236.jpg?s=f69d94e7ed9b7117284677cc91e80d01"
+  },
+  {
+    "name": "Cui",
+    "prompt": "Cui from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/117014.jpg?s=3ff03ace448a9bf9bcdce6fbc727d9e5"
+  },
+  {
+    "name": "Dabura",
+    "prompt": "Dabura from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/273659.jpg?s=f8257b7ca972acd4445bc49b8d995d4f"
+  },
+  {
+    "name": "Daishinkan",
+    "prompt": "Daishinkan from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/340119.jpg?s=b0536e16ad61f4b2503785ab10d800da"
+  },
+  {
+    "name": "Demigra",
+    "prompt": "Demigra from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/401323.jpg?s=eb1b2ba3958e13199fe61b7169a9d2bf"
+  },
+  {
+    "name": "Dercori",
+    "prompt": "Dercori from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/357645.jpg?s=a5dd1e0405f28a2a54a231a6312604bf"
+  },
+  {
+    "name": "Dodoria",
+    "prompt": "Dodoria from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/45236.jpg?s=3436c7ce069895be30c3d4e47c6ef962"
+  },
+  {
+    "name": "Dogidogi",
+    "prompt": "Dogidogi from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/535680.jpg?s=37d2b3df877def5d8351dd087f3f1fbd"
+  },
+  {
+    "name": "Dr. Uirou",
+    "prompt": "Dr. Uirou from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/525641.jpg?s=f91729453c6b25f34cf2f340822566b8"
+  },
+  {
+    "name": "Fin",
+    "prompt": "Fin from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/536510.jpg?s=fe270f337dad73d9853822598128f460"
+  },
+  {
+    "name": "Freeza",
+    "prompt": "Freeza from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/359258.jpg?s=9283da1c6156a10c96ca75d71522d62d"
+  },
+  {
+    "name": "Frost",
+    "prompt": "Frost from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/298388.jpg?s=7cc4456b2484c7c2d8a48afd11aa98b1"
+  },
+  {
+    "name": "Fu",
+    "prompt": "Fu from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/364677.jpg?s=8ccd257139644ea9c2e1a12873c77ffa"
+  },
+  {
+    "name": "Future Mai",
+    "prompt": "Future Mai from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/364659.jpg?s=f0712fbebff2d6a6843d83d145d2fd25"
+  },
+  {
+    "name": "Future Trunks",
+    "prompt": "Future Trunks from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/375125.jpg?s=dfee723daa759ba6480fa09fe6903b00"
+  },
+  {
+    "name": "Fuwa",
+    "prompt": "Fuwa from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/361037.jpg?s=82ac06c6b49427c6b59d1f275a7ca078"
+  },
+  {
+    "name": "Gattai Zamasu",
+    "prompt": "Gattai Zamasu from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/380621.jpg?s=7ed25ae5823eea3aae527029f951261d"
+  },
+  {
+    "name": "Geene",
+    "prompt": "Geene from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/357384.jpg?s=5e809a63589de2b4cafc32470f464532"
+  },
+  {
+    "name": "Ginyu",
+    "prompt": "Ginyu from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/371639.jpg?s=cf06dfc35af8089b78e0148b97e18fee"
+  },
+  {
+    "name": "Gogeta",
+    "prompt": "Gogeta from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/400009.jpg?s=6ccccaa0ec400524baad62e10bc5cd02"
+  },
+  {
+    "name": "Gogeta: Xeno",
+    "prompt": "Gogeta: Xeno from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/486065.jpg?s=ea044a3c01aebdcf5c96627077e1a7a9"
+  },
+  {
+    "name": "Gokua",
+    "prompt": "Gokua from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/111345.jpg?s=21f606a597560b386d3fcaaa0dc2ffcd"
+  },
+  {
+    "name": "Gokuu Black",
+    "prompt": "Gokuu Black from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/306940.jpg?s=41a4322326a0fdcb17de3338978814ae"
+  },
+  {
+    "name": "Gravy",
+    "prompt": "Gravy from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/536511.jpg?s=9bec723b33adcb7c8d1dc8ce67eb5a01"
+  },
+  {
+    "name": "Guldo",
+    "prompt": "Guldo from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/45224.jpg?s=1643e57ce7884f467042c59ea99d27d2"
+  },
+  {
+    "name": "Hatchiyack",
+    "prompt": "Hatchiyack from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/111297.jpg?s=a7cc2667ff48b9b0de5376f4291dac78"
+  },
+  {
+    "name": "Hearts",
+    "prompt": "Hearts from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/454008.jpg?s=649c18aa8cc257cc61d432befba47548"
+  },
+  {
+    "name": "Helles",
+    "prompt": "Helles from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/325434.jpg?s=6b001290d97b8f50c163036e239034bd"
+  },
+  {
+    "name": "Higashi no Kaioshin",
+    "prompt": "Higashi no Kaioshin from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/32340.jpg?s=eca0a0e023cdfc81f2866ab1e473240a"
+  },
+  {
+    "name": "Hildegarn",
+    "prompt": "Hildegarn from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/306993.jpg?s=b53fff30dffb9e0fff6ee8f7e67da79e"
+  },
+  {
+    "name": "Hit",
+    "prompt": "Hit from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/302698.jpg?s=9e941747e46e2618cf33e7f6e394cc08"
+  },
+  {
+    "name": "Iwne",
+    "prompt": "Iwne from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/359092.jpg?s=f0cee7f6cfa2cd1cb04e9ac1e1f3b0e0"
+  },
+  {
+    "name": "Janemba",
+    "prompt": "Janemba from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/113188.jpg?s=9eed8158bfc29ffb9f448e9df9344395"
+  },
+  {
+    "name": "Jeice",
+    "prompt": "Jeice from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/65046.jpg?s=8f788f50e92c613398513aca839133dd"
+  },
+  {
+    "name": "Jinzouningen 13-gou",
+    "prompt": "Jinzouningen 13-gou from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/72785.jpg?s=c45df2dcd20343e4c35b2eabe6de8284"
+  },
+  {
+    "name": "Jinzouningen 14-gou",
+    "prompt": "Jinzouningen 14-gou from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/72784.jpg?s=03abf58cf052a33c70eb676dfe10aef6"
+  },
+  {
+    "name": "Jinzouningen 15-gou",
+    "prompt": "Jinzouningen 15-gou from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/72783.jpg?s=cd238c24e39ebd12360097aa4f34abc3"
+  },
+  {
+    "name": "Jinzouningen 16-gou",
+    "prompt": "Jinzouningen 16-gou from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/52825.jpg?s=9983dc67104333321fa2632aba09a5cb"
+  },
+  {
+    "name": "Jinzouningen 17-gou",
+    "prompt": "Jinzouningen 17-gou from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/48582.jpg?s=79dd6757c70b3dc78cc4e1739affe6d4"
+  },
+  {
+    "name": "Jinzouningen 18-gou",
+    "prompt": "Jinzouningen 18-gou from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/357828.jpg?s=f07a58b451c4312cece1db2aa84ebdf8"
+  },
+  {
+    "name": "Jinzouningen 19-gou",
+    "prompt": "Jinzouningen 19-gou from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/65048.jpg?s=e587de47fc2f10a7db9b511841d8b78a"
+  },
+  {
+    "name": "Jiren",
+    "prompt": "Jiren from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/465444.jpg?s=d0f2cc9c28632a50eb30a3cf5d44005a"
+  },
+  {
+    "name": "Kale",
+    "prompt": "Kale from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/359025.jpg?s=8e74451e18ae4b619daf5187e49035fe"
+  },
+  {
+    "name": "Kamin",
+    "prompt": "Kamin from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/380634.jpg?s=773b6ce1c08af800127ec63ff7153c12"
+  },
+  {
+    "name": "Kamioren",
+    "prompt": "Kamioren from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/380622.jpg?s=db0e9fb321e9828ea8ecb521b24938d3"
+  },
+  {
+    "name": "Kanba",
+    "prompt": "Kanba from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/364359.jpg?s=d79d6ace9a4e6e991777fbc09c5acd7e"
+  },
+  {
+    "name": "Kefla",
+    "prompt": "Kefla from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/400410.jpg?s=ca7fe693a6024ae923016dd7b0d6c94d"
+  },
+  {
+    "name": "Kibito",
+    "prompt": "Kibito from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/111834.jpg?s=ea56abfe1d0227736eb124a12f2b0c03"
+  },
+  {
+    "name": "King Cold",
+    "prompt": "King Cold from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/111486.jpg?s=c50fb4801b217394a94976fa0cda98e7"
+  },
+  {
+    "name": "King Vegeta",
+    "prompt": "King Vegeta from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/73079.jpg?s=049e14cf371c4d151da946a2066b5627"
+  },
+  {
+    "name": "Kokui no Senshi",
+    "prompt": "Kokui no Senshi from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/478992.jpg?s=841264c299a7e6b399c5b2400dd0e9a6"
+  },
+  {
+    "name": "Kuririn",
+    "prompt": "Kuririn from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=19014a6433cd36c32f3661b21b38dad3"
+  },
+  {
+    "name": "Lagss",
+    "prompt": "Lagss from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/380626.jpg?s=b5a917da7dbca03b5278d1518943627d"
+  },
+  {
+    "name": "Lakasei",
+    "prompt": "Lakasei from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/463084.jpg?s=af5845f06513801743cc53407212004a"
+  },
+  {
+    "name": "Liquiir",
+    "prompt": "Liquiir from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/359278.jpg?s=e8518deda5fcdc9616c298149ff5f5f9"
+  },
+  {
+    "name": "Lunch",
+    "prompt": "Lunch from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/126159.jpg?s=b21968d18bc1346f2a00968d741ab3d5"
+  },
+  {
+    "name": "Magetta",
+    "prompt": "Magetta from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/298390.jpg?s=fe93624e3e0c42f361e9be732c5b2d82"
+  },
+  {
+    "name": "Majin Buu",
+    "prompt": "Majin Buu from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/94545.jpg?s=e94f09be98d06f74ce14862c58394224"
+  },
+  {
+    "name": "Majin Ozotto",
+    "prompt": "Majin Ozotto from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/536513.jpg?s=72c0284c7414b4204de9ad5adcdf74d6"
+  },
+  {
+    "name": "Mechikabura",
+    "prompt": "Mechikabura from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/401322.jpg?s=f275007cbea8e3d814ea76612c37215e"
+  },
+  {
+    "name": "Mira",
+    "prompt": "Mira from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/421760.jpg?s=7d455c863735c6b4ecbe427c8002330d"
+  },
+  {
+    "name": "Mirai no Kokui no Senshi",
+    "prompt": "Mirai no Kokui no Senshi from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/478993.jpg?s=1de5b6bd4874018c2147f5482c9489d6"
+  },
+  {
+    "name": "Mosco",
+    "prompt": "Mosco from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/357381.jpg?s=5ced7a7ae823e80e4dea1079d2ddc150"
+  },
+  {
+    "name": "Murichim",
+    "prompt": "Murichim from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/359005.jpg?s=a293a78447797dc3de02558ed76a78e5"
+  },
+  {
+    "name": "Muten-Roushi",
+    "prompt": "Muten-Roushi from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/359001.jpg?s=b0f6c285cdf733f32738264f42ebdd2f"
+  },
+  {
+    "name": "Nail",
+    "prompt": "Nail from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/52433.jpg?s=c866f3e706b9978d24ec19320ad657bb"
+  },
+  {
+    "name": "Namekku Kokui no Senshi",
+    "prompt": "Namekku Kokui no Senshi from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/478994.jpg?s=b267c58143aa3326db8c2d4820ff09b1"
+  },
+  {
+    "name": "Note",
+    "prompt": "Note from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/423389.jpg?s=bdc7edb0a662f6b5eadd2383dea3204f"
+  },
+  {
+    "name": "Olibu",
+    "prompt": "Olibu from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/274559.jpg?s=7e1af6b6e16012233832cf6d7c70c544"
+  },
+  {
+    "name": "Oren",
+    "prompt": "Oren from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/380635.jpg?s=612812f88dfc9ac9db2bd628076fbc15"
+  },
+  {
+    "name": "Paikuhan",
+    "prompt": "Paikuhan from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/45231.jpg?s=5d111515d13e570e1618861bb4b2dec5"
+  },
+  {
+    "name": "Pan: Xeno",
+    "prompt": "Pan: Xeno from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/402626.jpg?s=e4cae590a66d1593487084aba2501ed9"
+  },
+  {
+    "name": "Piccolo",
+    "prompt": "Piccolo from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/45628.jpg?s=7f3263916ca42434072fb20a7590c277"
+  },
+  {
+    "name": "Putine",
+    "prompt": "Putine from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/536512.jpg?s=f5a7d855537b9dea51e1dd0ba4d695fe"
+  },
+  {
+    "name": "Quitela",
+    "prompt": "Quitela from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/359027.jpg?s=946fc9a462e6f2f455f36f465f246d6a"
+  },
+  {
+    "name": "Raditz",
+    "prompt": "Raditz from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/103846.jpg?s=031f7682e10063bb6cbc7e739a1b95ca"
+  },
+  {
+    "name": "Rasin",
+    "prompt": "Rasin from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/463083.jpg?s=fc569318886283d4bf0dddffaf4bcf04"
+  },
+  {
+    "name": "Recoome",
+    "prompt": "Recoome from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/52868.jpg?s=59c230b7e9cd92cb389df76e871bffa4"
+  },
+  {
+    "name": "Robelu",
+    "prompt": "Robelu from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/496432.jpg?s=6b08d746786f3a02cb699add4b588ad9"
+  },
+  {
+    "name": "Rou Kaioshin",
+    "prompt": "Rou Kaioshin from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/366264.jpg?s=fa4556a93da9d6373d2edb8b93e60590"
+  },
+  {
+    "name": "Rumsshi",
+    "prompt": "Rumsshi from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/359004.jpg?s=bf36829bf8a656b4298db584770812d6"
+  },
+  {
+    "name": "Salsa",
+    "prompt": "Salsa from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/431063.jpg?s=def6af0c9c80cebf5177f49b2c63140e"
+  },
+  {
+    "name": "Saria",
+    "prompt": "Saria from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/423391.jpg?s=c3c68590cda69b8cf88aa7c518054280"
+  },
+  {
+    "name": "Shandy",
+    "prompt": "Shandy from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/423390.jpg?s=6d730f4419af6af68024a142bd55bb38"
+  },
+  {
+    "name": "Shisami",
+    "prompt": "Shisami from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/357840.jpg?s=842c133856562825395dfc6fa5b8794a"
+  },
+  {
+    "name": "Shroom",
+    "prompt": "Shroom from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/486066.jpg?s=cc141e9b68b238f1ef70da96ed8375c1"
+  },
+  {
+    "name": "Sidra",
+    "prompt": "Sidra from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/359059.jpg?s=5543bc34f624ea96500f7075e808ee3b"
+  },
+  {
+    "name": "Slug",
+    "prompt": "Slug from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/331238.jpg?s=ece6af2ab8c65c7557ac83df968225f0"
+  },
+  {
+    "name": "Son, Gohan",
+    "prompt": "Son, Gohan from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/110722.jpg?s=c5e2fe0a3cd616e8ed016fca54806054"
+  },
+  {
+    "name": "Son, Gohan",
+    "prompt": "Son, Gohan from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/72715.jpg?s=886561eebbd32941685b470ff9ed78a2"
+  },
+  {
+    "name": "Son, Goten: Xeno",
+    "prompt": "Son, Goten: Xeno from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/446315.jpg?s=aebe0eafeca207665704e55f68ce3531"
+  },
+  {
+    "name": "Son, Goten",
+    "prompt": "Son, Goten from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/46985.jpg?s=f7d24b418acbd197dc78cddd3e49a593"
+  },
+  {
+    "name": "Son, Gokuu: Xeno",
+    "prompt": "Son, Gokuu: Xeno from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/361222.jpg?s=a91b1b5b2d804084d3e6db17e209434b"
+  },
+  {
+    "name": "Son, Gohan: Xeno",
+    "prompt": "Son, Gohan: Xeno from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/446314.jpg?s=b3e4b3e77dc2ec9f0cbe4dc9c2c98257"
+  },
+  {
+    "name": "Sorbet",
+    "prompt": "Sorbet from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/285570.jpg?s=8a4d8c9bc8a59f5915c2b644c46d422a"
+  },
+  {
+    "name": "Super 17-gou",
+    "prompt": "Super 17-gou from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/380616.jpg?s=5455939cfafbe27bcdcbcdc60c8a3b9d"
+  },
+  {
+    "name": "Super Shen Long",
+    "prompt": "Super Shen Long from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/358436.jpg?s=4de1e1a134dc35affa231f917153cbe1"
+  },
+  {
+    "name": "Tagoma",
+    "prompt": "Tagoma from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/357858.jpg?s=d8e87933df6d1bb2a37389e483bef6d2"
+  },
+  {
+    "name": "Tapion",
+    "prompt": "Tapion from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/465438.jpg?s=e8491f8653aa02de35665ed38be5de85"
+  },
+  {
+    "name": "Tenshinhan",
+    "prompt": "Tenshinhan from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/102021.jpg?s=c059016ec2069e3d78f6be30454d863d"
+  },
+  {
+    "name": "Toki no Kaioshin",
+    "prompt": "Toki no Kaioshin from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/491526.jpg?s=e348acbd1e6fa774c9f3d15bb51f2367"
+  },
+  {
+    "name": "Tokitoki",
+    "prompt": "Tokitoki from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/460999.jpg?s=006a2371294a6227edff7944fb659bfa"
+  },
+  {
+    "name": "Toppo",
+    "prompt": "Toppo from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/358958.jpg?s=0667c413e8416d370a69557177974a49"
+  },
+  {
+    "name": "Towa",
+    "prompt": "Towa from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/420052.jpg?s=f01f4898ee53b2329881766e17c221fb"
+  },
+  {
+    "name": "Trunks",
+    "prompt": "Trunks from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/312402.jpg?s=efbeab2505cea4065c04d7cb9c313e31"
+  },
+  {
+    "name": "Trunks: Xeno",
+    "prompt": "Trunks: Xeno from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/486071.jpg?s=3a7a1749570409574b01782d4925a90a"
+  },
+  {
+    "name": "Turles",
+    "prompt": "Turles from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/331237.jpg?s=92ffdc540d24d0efbc143977fc8b2129"
+  },
+  {
+    "name": "Uub",
+    "prompt": "Uub from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/112730.jpg?s=813087f11356500636ecf3bdcc08c29e"
+  },
+  {
+    "name": "Vados",
+    "prompt": "Vados from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/295131.jpg?s=8bd588405230248d3b34a00958613e74"
+  },
+  {
+    "name": "Vegeta: Xeno",
+    "prompt": "Vegeta: Xeno from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/401876.jpg?s=7bf64b78615392f50daa537dbfca709c"
+  },
+  {
+    "name": "Vegetto",
+    "prompt": "Vegetto from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/498109.jpg?s=db2622b315bcfa64f768a31e26308d50"
+  },
+  {
+    "name": "Vegetto: Xeno",
+    "prompt": "Vegetto: Xeno from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/402098.jpg?s=15b8c898506a4d0a99593a9f3575b010"
+  },
+  {
+    "name": "Vermoud",
+    "prompt": "Vermoud from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/327666.jpg?s=3b1ebccf191c5633a5d9729aca280f02"
+  },
+  {
+    "name": "Videl",
+    "prompt": "Videl from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/357962.jpg?s=0655f3f041c046b45e5df8fa6599a09e"
+  },
+  {
+    "name": "Vidro",
+    "prompt": "Vidro from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/478998.jpg?s=f1aa6d9d441f1967f018b0c38b8f7193"
+  },
+  {
+    "name": "Whis",
+    "prompt": "Whis from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/496535.jpg?s=b231f5bc1cdd00b91ee2fea142ee5844"
+  },
+  {
+    "name": "Yamcha",
+    "prompt": "Yamcha from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/126147.jpg?s=c6b311761d167c90d6717a7555efc3ae"
+  },
+  {
+    "name": "Yi Xing Long",
+    "prompt": "Yi Xing Long from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/454006.jpg?s=ccd1561a0486cf29e934e365b11863bb"
+  },
+  {
+    "name": "Zangya",
+    "prompt": "Zangya from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/73088.jpg?s=24a020cd4f9dacbd7827a72d5c1f4d26"
+  },
+  {
+    "name": "Zarbon",
+    "prompt": "Zarbon from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/45220.jpg?s=984c1745bfe41aa2c0044445890f8f69"
+  },
+  {
+    "name": "Zenou",
+    "prompt": "Zenou from Super Dragon Ball Heroes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/307928.jpg?s=1749faa17e24c374f5f2b4d8f5302134"
+  }
+]

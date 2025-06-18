@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Aon",
+    "prompt": "Aon from TO",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/74655.jpg?s=a778dbb258af1492f70cf9fef0fb3f4b"
+  },
+  {
+    "name": "Dan",
+    "prompt": "Dan from TO",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/74656.jpg?s=6e16884063e6bfcab6b071d9b13b79a2"
+  },
+  {
+    "name": "Elena",
+    "prompt": "Elena from TO",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/74654.jpg?s=32cc7cccbe9f2c877fa9bbb847a504c7"
+  },
+  {
+    "name": "Maria",
+    "prompt": "Maria from TO",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/74657.jpg?s=9275a5f800809776d5fa13ec29c211e3"
+  },
+  {
+    "name": "Rick",
+    "prompt": "Rick from TO",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Space Pirate Leader",
+    "prompt": "Space Pirate Leader from TO",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/274487.jpg?s=fc7b9fcb7ee0af21cf74104d23ca7c63"
+  },
+  {
+    "name": "Tod",
+    "prompt": "Tod from TO",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tokio",
+    "prompt": "Tokio from TO",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

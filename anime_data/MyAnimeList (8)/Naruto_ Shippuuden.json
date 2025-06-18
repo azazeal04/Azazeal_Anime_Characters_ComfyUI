@@ -1,0 +1,2177 @@
+[
+  {
+    "name": "Haruno, Sakura",
+    "prompt": "Haruno, Sakura from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/69275.jpg?s=36c4ad9f4440d77918c34c49870e719c"
+  },
+  {
+    "name": "Hatake, Kakashi",
+    "prompt": "Hatake, Kakashi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/284129.jpg?s=b0a6b941fd427cbfd85657f316c0e309"
+  },
+  {
+    "name": "Uchiha, Sasuke",
+    "prompt": "Uchiha, Sasuke from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e"
+  },
+  {
+    "name": "Uzumaki, Naruto",
+    "prompt": "Uzumaki, Naruto from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/61330.jpg?s=ee8fc22475454609f72ae66112f6cf87"
+  },
+  {
+    "name": "A",
+    "prompt": "A from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/112222.jpg?s=f80f0afc66a8f019bede3e5cdf1e53c1"
+  },
+  {
+    "name": "A (First Raikage)",
+    "prompt": "A (First Raikage) from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/369496.jpg?s=5c12f2a1bbb9cfa09ab1c61302335df2"
+  },
+  {
+    "name": "A (Second Raikage)",
+    "prompt": "A (Second Raikage) from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/223263.jpg?s=8d8e859b9f7e741fdee5386b6f06f667"
+  },
+  {
+    "name": "A (Third Raikage)",
+    "prompt": "A (Third Raikage) from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/171137.jpg?s=c18c6363bc752d4ba0e94757fd882b83"
+  },
+  {
+    "name": "Aburame, Shibi",
+    "prompt": "Aburame, Shibi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/103841.jpg?s=c555bc6a75c48a6ab191b9dc75b46805"
+  },
+  {
+    "name": "Aburame, Tatsuma",
+    "prompt": "Aburame, Tatsuma from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/405011.jpg?s=7c36183706aff186e274c50fbe7866f4"
+  },
+  {
+    "name": "Aburame, Muta",
+    "prompt": "Aburame, Muta from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/130511.jpg?s=5d97a09ff7422f5aa744b26981be45ef"
+  },
+  {
+    "name": "Aburame, Shino",
+    "prompt": "Aburame, Shino from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/292449.jpg?s=f7b8f2084a65d22cd9381f25a55f8b2f"
+  },
+  {
+    "name": "Aburame, Torune",
+    "prompt": "Aburame, Torune from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/292433.jpg?s=117f7f8bbdf29c16af3ceed323d727ba"
+  },
+  {
+    "name": "Agara",
+    "prompt": "Agara from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/405013.jpg?s=1566ec37bb3681d51719e9f8d16e1c94"
+  },
+  {
+    "name": "Aino",
+    "prompt": "Aino from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/393493.jpg?s=adb94dde2b12112cf9cc29410a1edeaf"
+  },
+  {
+    "name": "Ajisai",
+    "prompt": "Ajisai from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/289573.jpg?s=3092a411ff64aacfbc9e4934e3ddb86a"
+  },
+  {
+    "name": "Akaboshi",
+    "prompt": "Akaboshi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/79429.jpg?s=0089919cf8e0dcfb9e31a52de4e7a3d2"
+  },
+  {
+    "name": "Akado, Yoroi",
+    "prompt": "Akado, Yoroi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/104668.jpg?s=13e483e534221000f378d246d704204e"
+  },
+  {
+    "name": "Akamaru",
+    "prompt": "Akamaru from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/58197.jpg?s=72fb82b5f99c06ba07d67f7e0c845aec"
+  },
+  {
+    "name": "Akane",
+    "prompt": "Akane from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/66541.jpg?s=db17d05fabd4c56ab0954e201e2b7d40"
+  },
+  {
+    "name": "Akatsuchi",
+    "prompt": "Akatsuchi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/87030.jpg?s=53fdba7223d0299e9af6202242c4acae"
+  },
+  {
+    "name": "Akebino, Jinin",
+    "prompt": "Akebino, Jinin from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/225373.jpg?s=494dbe3aea8614cec6235b3169e77270"
+  },
+  {
+    "name": "Akimichi, Mother",
+    "prompt": "Akimichi, Mother from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/194069.jpg?s=6bc0cba6119651f8bc041ab3e77ba960"
+  },
+  {
+    "name": "Akimichi, Chouza",
+    "prompt": "Akimichi, Chouza from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/103839.jpg?s=9bbeca695c99940d76131a1f9c78611b"
+  },
+  {
+    "name": "Akimichi, Chouji",
+    "prompt": "Akimichi, Chouji from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/105421.jpg?s=bbb2f94a4f15470a215358085358bc37"
+  },
+  {
+    "name": "Amai",
+    "prompt": "Amai from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/225345.jpg?s=2270b5c180850e34fc9a0f48e56ab94e"
+  },
+  {
+    "name": "Ameno",
+    "prompt": "Ameno from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/279852.jpg?s=258a2fdc985d2c068048bff51820e32b"
+  },
+  {
+    "name": "Ao",
+    "prompt": "Ao from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/292897.jpg?s=a2ea7c3edff333068fbb6665ffff7aba"
+  },
+  {
+    "name": "Aoda",
+    "prompt": "Aoda from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/296114.jpg?s=1108c2c2fd633e5d1cd1dbf43421f0e5"
+  },
+  {
+    "name": "Atsui",
+    "prompt": "Atsui from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/173493.jpg?s=842f104793273a763db3793edda991d8"
+  },
+  {
+    "name": "Ayame",
+    "prompt": "Ayame from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/130515.jpg?s=e47667162694ef2dd32847cebb0b2a21"
+  },
+  {
+    "name": "Azami",
+    "prompt": "Azami from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/232223.jpg?s=61d862d1b54695d2b7892501c8528487"
+  },
+  {
+    "name": "Baji",
+    "prompt": "Baji from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/112271.jpg?s=5fb91c2275226375d61ca20de02fb902"
+  },
+  {
+    "name": "Baki",
+    "prompt": "Baki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/103833.jpg?s=55731fecf3505c870eb10480c5a08587"
+  },
+  {
+    "name": "Baku",
+    "prompt": "Baku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/130509.jpg?s=bab5c08194d4077db28b0681c9627d8e"
+  },
+  {
+    "name": "Banna",
+    "prompt": "Banna from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/142307.jpg?s=fe4638e3976e5d2bc8d81d619c3d2296"
+  },
+  {
+    "name": "Bansai",
+    "prompt": "Bansai from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/62770.jpg?s=4dda62e7ab3c8ad51e272f285d17bb21"
+  },
+  {
+    "name": "Benten",
+    "prompt": "Benten from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/79428.jpg?s=24b715adfc40c4f914b5dad2b17f6550"
+  },
+  {
+    "name": "Bisuke",
+    "prompt": "Bisuke from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/92486.jpg?s=dcbad5dc292d32c538c7480252826248"
+  },
+  {
+    "name": "Biwa, Juuzou",
+    "prompt": "Biwa, Juuzou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/304012.jpg?s=af4360ae96ad6f68febaff895c3c73ad"
+  },
+  {
+    "name": "Blue B",
+    "prompt": "Blue B from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/194071.jpg?s=d8e15a2c5547e274c71ac4b6e45df6b7"
+  },
+  {
+    "name": "Bunpuku",
+    "prompt": "Bunpuku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/484286.jpg?s=1161a3ef5bd3773fcb97368a1bf5f953"
+  },
+  {
+    "name": "Byakuren",
+    "prompt": "Byakuren from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/369497.jpg?s=b9e4734ccc4a8029de31b17d9896ab37"
+  },
+  {
+    "name": "Chen",
+    "prompt": "Chen from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/232221.jpg?s=94d1d8420125e6ca9ffbab2067f3bdc8"
+  },
+  {
+    "name": "Chino",
+    "prompt": "Chino from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/393494.jpg?s=2984a4889b48c536ed336efb8431acc8"
+  },
+  {
+    "name": "Chiriku",
+    "prompt": "Chiriku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/103960.jpg?s=0df5d63fcc6d09defb1fc2d48e5c3969"
+  },
+  {
+    "name": "Chiyo",
+    "prompt": "Chiyo from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/232219.jpg?s=ec0c301958e90d3ea8a0d7b3060041fc"
+  },
+  {
+    "name": "Chiyo",
+    "prompt": "Chiyo from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/69008.jpg?s=1ed5bc770dea71c8dac13e9acf427407"
+  },
+  {
+    "name": "Choujuurou",
+    "prompt": "Choujuurou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/232239.jpg?s=365a287b1eff38c301511d94f6abd268"
+  },
+  {
+    "name": "Choumei",
+    "prompt": "Choumei from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/293376.jpg?s=729ab8dea6786a4cfe2a5a2f58dc86e8"
+  },
+  {
+    "name": "Chuukaku",
+    "prompt": "Chuukaku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/251543.jpg?s=bf0efe4919308bae2db7bba0e6c4b9c1"
+  },
+  {
+    "name": "Chuukichi",
+    "prompt": "Chuukichi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/166515.jpg?s=653c86086640824913d593d15ecd8f4b"
+  },
+  {
+    "name": "Chuusin",
+    "prompt": "Chuusin from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/79427.jpg?s=89cf9a15b1de56fc688041ba4a863381"
+  },
+  {
+    "name": "Condor",
+    "prompt": "Condor from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/181615.jpg?s=640430f065bcca885d66a9dddac2a91e"
+  },
+  {
+    "name": "Daibutsu",
+    "prompt": "Daibutsu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/235003.jpg?s=e63d19d919a24a6b23a6b10e1f7ca77f"
+  },
+  {
+    "name": "Daimaru",
+    "prompt": "Daimaru from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/251541.jpg?s=5ea87c159e566fdd2339675695a76524"
+  },
+  {
+    "name": "Darui",
+    "prompt": "Darui from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/293381.jpg?s=c007249ae2da00233ee2b2bf561323a8"
+  },
+  {
+    "name": "Deidara",
+    "prompt": "Deidara from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/131319.jpg?s=02bd30a045b2aaabf13e22a0149845e2"
+  },
+  {
+    "name": "Denka",
+    "prompt": "Denka from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/92558.jpg?s=1501f673d5da8085c77f4e282ae48398"
+  },
+  {
+    "name": "Disonas",
+    "prompt": "Disonas from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/225701.jpg?s=703711480de0e8f497f48d231b77c4c2"
+  },
+  {
+    "name": "Dock",
+    "prompt": "Dock from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/225717.jpg?s=95cc70fcaa016ccc8688560f45e1ade3"
+  },
+  {
+    "name": "Dodai",
+    "prompt": "Dodai from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/232211.jpg?s=8828d36943766a8b12de55853a179948"
+  },
+  {
+    "name": "Ebisu",
+    "prompt": "Ebisu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/104660.jpg?s=ded9ad1ef8ed616f3cfba2974f822f7f"
+  },
+  {
+    "name": "Ebizou",
+    "prompt": "Ebizou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/103944.jpg?s=60a2e835bac563579ba6a67e11daa536"
+  },
+  {
+    "name": "Eff",
+    "prompt": "Eff from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/225773.jpg?s=d40a0d7205693f6dcca07ec1ad6eb07b"
+  },
+  {
+    "name": "En no Gyouja",
+    "prompt": "En no Gyouja from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/79424.jpg?s=97df36c3cb5c07db76d0c39d090786cd"
+  },
+  {
+    "name": "Enma",
+    "prompt": "Enma from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/158745.jpg?s=273fc4a8efd0a327b4694531e85ee9e0"
+  },
+  {
+    "name": "Fudou",
+    "prompt": "Fudou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/91084.jpg?s=d9700706da57d9734aa9c786e281aa75"
+  },
+  {
+    "name": "Fuen",
+    "prompt": "Fuen from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/91085.jpg?s=06c059b80f10b4029d94c06fd5fe5492"
+  },
+  {
+    "name": "Fukasaku",
+    "prompt": "Fukasaku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/65266.jpg?s=fc174f5bdfd0f465e8b4fbc578094215"
+  },
+  {
+    "name": "Funeno, Daikoku",
+    "prompt": "Funeno, Daikoku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/584649.jpg?s=d7ca5b566b8e888ddfa191f47a686dbe"
+  },
+  {
+    "name": "Furido",
+    "prompt": "Furido from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/57651.jpg?s=b6c680891a8808c07328fff306b69e8d"
+  },
+  {
+    "name": "Furofoki",
+    "prompt": "Furofoki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/105993.jpg?s=fb141a0eca007a7263e3c7606d4948f1"
+  },
+  {
+    "name": "Fusou",
+    "prompt": "Fusou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/167511.jpg?s=1e055a9f64f862979bb4d2f1b5bb4bca"
+  },
+  {
+    "name": "Futami",
+    "prompt": "Futami from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/591103.jpg?s=266a3bcaf7b76ba16b604a1f59281210"
+  },
+  {
+    "name": "Fuu",
+    "prompt": "Fuu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/292434.jpg?s=6c55679f2f805078600b65f37b8748cf"
+  },
+  {
+    "name": "Fuuka",
+    "prompt": "Fuuka from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/66060.jpg?s=c5eec1213fdfab9379cdffde6f5bb7fa"
+  },
+  {
+    "name": "Fuyou",
+    "prompt": "Fuyou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/278319.jpg?s=dce4bb6ac72347dde6981494ff3b4719"
+  },
+  {
+    "name": "Fuzz",
+    "prompt": "Fuzz from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/225703.jpg?s=e665eac16cdcd99cacf5c82d1c1bf5fb"
+  },
+  {
+    "name": "Gaara",
+    "prompt": "Gaara from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/293375.jpg?s=ceeb8ed1578737104c8e347ab7a52101"
+  },
+  {
+    "name": "Gamabunta",
+    "prompt": "Gamabunta from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/70846.jpg?s=6516b681e86fa72587edc431286fdcc2"
+  },
+  {
+    "name": "Gamahiro",
+    "prompt": "Gamahiro from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/194473.jpg?s=3d3ed99c0f8b862ffd2223943b9dd508"
+  },
+  {
+    "name": "Gamaken",
+    "prompt": "Gamaken from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/70879.jpg?s=66437acf70000b4d324e4bba7fd58af9"
+  },
+  {
+    "name": "Gamakichi",
+    "prompt": "Gamakichi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/54034.jpg?s=a1d0d1302e022358635f63c07e8429ce"
+  },
+  {
+    "name": "Gamamaru",
+    "prompt": "Gamamaru from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/82358.jpg?s=83698018263bdf7c0f491fb852fcbeae"
+  },
+  {
+    "name": "Gamatatsu",
+    "prompt": "Gamatatsu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/62776.jpg?s=b739ffebbce00c375e4788c5215c974e"
+  },
+  {
+    "name": "Gameru",
+    "prompt": "Gameru from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/105483.jpg?s=783659e4fc8764f52e52045701fcb305"
+  },
+  {
+    "name": "Ganryuu",
+    "prompt": "Ganryuu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/166513.jpg?s=ca89041857c239a58598955b7655b510"
+  },
+  {
+    "name": "Gari",
+    "prompt": "Gari from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/225375.jpg?s=7b2709309f4ba7d930c35318e46fc6f3"
+  },
+  {
+    "name": "Gataro",
+    "prompt": "Gataro from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/138867.jpg?s=8a9b37a08cd6c4142a2c0eae9fe9c045"
+  },
+  {
+    "name": "Gatou",
+    "prompt": "Gatou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/168503.jpg?s=5bcc36585ee1fa95c4942a0ee03c9700"
+  },
+  {
+    "name": "Gekkou, Hayate",
+    "prompt": "Gekkou, Hayate from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/104665.jpg?s=07831eec08dd78aadb983fbd90a0aaf3"
+  },
+  {
+    "name": "Gengo",
+    "prompt": "Gengo from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/393495.jpg?s=d89b3bbca23efce00e7e5a3d1cfe6f64"
+  },
+  {
+    "name": "Gerotora",
+    "prompt": "Gerotora from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/134079.jpg?s=47dab17e111b0a6369a37dd20c7b3a80"
+  },
+  {
+    "name": "Ginkaku",
+    "prompt": "Ginkaku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/171129.jpg?s=778983af8b515fd2d3548591ae53d134"
+  },
+  {
+    "name": "Gozu",
+    "prompt": "Gozu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/91694.jpg?s=ffec2f2555c78bddd4439210d40dcbdc"
+  },
+  {
+    "name": "Guren",
+    "prompt": "Guren from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/59211.jpg?s=4e7d8e69351af47702fe30325f6341c3"
+  },
+  {
+    "name": "Guruko",
+    "prompt": "Guruko from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/66154.jpg?s=db0077d29c1d90928be7d23d75c2a86a"
+  },
+  {
+    "name": "Gyuuki",
+    "prompt": "Gyuuki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/293374.jpg?s=bfb638d2d6e7ba4d897049e327e28abc"
+  },
+  {
+    "name": "Hagane, Kotetsu",
+    "prompt": "Hagane, Kotetsu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/104662.jpg?s=c689d1dd76d9921dd6598fd4e9658232"
+  },
+  {
+    "name": "Haku",
+    "prompt": "Haku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/103707.jpg?s=6f30c87be8eabac48a20071677fd972c"
+  },
+  {
+    "name": "Han",
+    "prompt": "Han from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/68519.jpg?s=fe12ce0ae2f4acf904b7cbebd81c2ef5"
+  },
+  {
+    "name": "Hanare",
+    "prompt": "Hanare from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/110925.jpg?s=83c21771e84f401bf1caf77310d0e3d4"
+  },
+  {
+    "name": "Hanzou",
+    "prompt": "Hanzou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/177251.jpg?s=58cfe9bc1f7c16e6f132792b93cfa779"
+  },
+  {
+    "name": "Haruno, Mebuki",
+    "prompt": "Haruno, Mebuki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/175237.jpg?s=bcc49be06c3b43c9c54c29b0dd18235a"
+  },
+  {
+    "name": "Haruno, Kizashi",
+    "prompt": "Haruno, Kizashi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/175239.jpg?s=052a1c5b84e2932fc0a983d4cd317360"
+  },
+  {
+    "name": "Harusame",
+    "prompt": "Harusame from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/83276.jpg?s=967209e79a5cf7b9501435b1d8f1089c"
+  },
+  {
+    "name": "Hatake, Sakumo",
+    "prompt": "Hatake, Sakumo from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/103896.jpg?s=68e7637b1c759e7b971040c09fc1f684"
+  },
+  {
+    "name": "Heiji",
+    "prompt": "Heiji from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/251547.jpg?s=1b9f8184e4d2adef9da263380f2c170f"
+  },
+  {
+    "name": "Hibachi",
+    "prompt": "Hibachi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/138883.jpg?s=bb0799eefb97cc2f7f858b1b73ef0424"
+  },
+  {
+    "name": "Hidan",
+    "prompt": "Hidan from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/103578.jpg?s=389d90926039f796c2095de3c61a8d62"
+  },
+  {
+    "name": "Himushi",
+    "prompt": "Himushi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/225351.jpg?s=3e50867a30b6b79fdd411e952ddd0440"
+  },
+  {
+    "name": "Hina",
+    "prompt": "Hina from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/92559.jpg?s=6618f3dd0105c4deff183d8aa9341384"
+  },
+  {
+    "name": "Hinoe",
+    "prompt": "Hinoe from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/409992.jpg?s=9b03f0e56588cdd4bd828a43f8a3d8b7"
+  },
+  {
+    "name": "Hinoko",
+    "prompt": "Hinoko from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/393496.jpg?s=90871333876f2bf49a3f7ebc322f2272"
+  },
+  {
+    "name": "Hinoto",
+    "prompt": "Hinoto from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/240595.jpg?s=1556b54faadf33368e6a185e4313a8b1"
+  },
+  {
+    "name": "Hiruko",
+    "prompt": "Hiruko from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/69007.jpg?s=34b5207972f609166676b20094607f3f"
+  },
+  {
+    "name": "Hishaku",
+    "prompt": "Hishaku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/138453.jpg?s=e9ebe7b63998fe27e9bca1f9ea3abd0b"
+  },
+  {
+    "name": "Honoka",
+    "prompt": "Honoka from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/138881.jpg?s=a4fa0091b7c82b1cb68c2c6478f1358b"
+  },
+  {
+    "name": "Hoozuki, Suigetsu",
+    "prompt": "Hoozuki, Suigetsu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/73652.jpg?s=bf1051ba4b667b69a36dea46d29a1804"
+  },
+  {
+    "name": "Hoozuki, Gengetsu",
+    "prompt": "Hoozuki, Gengetsu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/292443.jpg?s=db145fa18691bcb00abace95d8e33447"
+  },
+  {
+    "name": "Hoozuki, Mangetsu",
+    "prompt": "Hoozuki, Mangetsu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/169625.jpg?s=7d6981076d1f2ecaefa638aeccf9d809"
+  },
+  {
+    "name": "Hoshigaki, Kisame",
+    "prompt": "Hoshigaki, Kisame from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/433351.jpg?s=46d6b63938f0ab6572f96798dd4fba85"
+  },
+  {
+    "name": "Hotaru",
+    "prompt": "Hotaru from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/79099.jpg?s=8f3e7b9dfff18aca0891b335530145c4"
+  },
+  {
+    "name": "Hyou",
+    "prompt": "Hyou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/62781.jpg?s=271efcb251884b66a4aa2d0581e2b1df"
+  },
+  {
+    "name": "Hyuuga, Tokuma",
+    "prompt": "Hyuuga, Tokuma from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/160973.jpg?s=b555eb8322148838a7cf394583df7586"
+  },
+  {
+    "name": "Hyuuga, Hoheto",
+    "prompt": "Hyuuga, Hoheto from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/166497.jpg?s=5febc787b882404c92d93b71034aacd1"
+  },
+  {
+    "name": "Hyuuga, Natsu",
+    "prompt": "Hyuuga, Natsu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/270001.jpg?s=f9371ce980c30b892554de5e51204f8b"
+  },
+  {
+    "name": "Hyuuga, Kou",
+    "prompt": "Hyuuga, Kou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/142261.jpg?s=0dcb7a4d3debc2bb8faf28bf16bcfcfb"
+  },
+  {
+    "name": "Hyuuga, Hinata",
+    "prompt": "Hyuuga, Hinata from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/278736.jpg?s=efc87a537d323edc47900cb08e1722c9"
+  },
+  {
+    "name": "Hyuuga, Hiashi",
+    "prompt": "Hyuuga, Hiashi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/103836.jpg?s=ee29dfbb0ceaba845e7baf1d2973405a"
+  },
+  {
+    "name": "Hyuuga, Neji",
+    "prompt": "Hyuuga, Neji from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/105538.jpg?s=7603e3986722997b66259d9fea83a3b2"
+  },
+  {
+    "name": "Hyuuga, Hanabi",
+    "prompt": "Hyuuga, Hanabi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/292518.jpg?s=c860f8ad1834beb701c7da96b5bcc699"
+  },
+  {
+    "name": "Hyuuga, Hizashi",
+    "prompt": "Hyuuga, Hizashi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/103835.jpg?s=c9429dec280f793007cf80f8caba7746"
+  },
+  {
+    "name": "Ibara",
+    "prompt": "Ibara from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/325681.jpg?s=51916a8d70c90f84e843c5e658036c28"
+  },
+  {
+    "name": "Igii",
+    "prompt": "Igii from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/142305.jpg?s=3fb61258c6891bd4f8779b7408af1ac6"
+  },
+  {
+    "name": "Inaho",
+    "prompt": "Inaho from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/320902.jpg?s=38fbc78aca2287dd4c41cf21e2c9419a"
+  },
+  {
+    "name": "Inari",
+    "prompt": "Inari from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/66542.jpg?s=ae90ead66827caee405654169c1d62df"
+  },
+  {
+    "name": "Inari, Shinko",
+    "prompt": "Inari, Shinko from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/315476.jpg?s=0a37105e07f27e034fad6df4b08b4e92"
+  },
+  {
+    "name": "Inuzuka, Tsume",
+    "prompt": "Inuzuka, Tsume from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/103831.jpg?s=2a8ca532d72a28e03103f3ca4da854ed"
+  },
+  {
+    "name": "Inuzuka, Hana",
+    "prompt": "Inuzuka, Hana from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/166499.jpg?s=d444af94f64ccedaf8bace8f103cf3b4"
+  },
+  {
+    "name": "Inuzuka, Kiba",
+    "prompt": "Inuzuka, Kiba from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/131217.jpg?s=d3bc94609e7a552ec522daf99834c21a"
+  },
+  {
+    "name": "Iou",
+    "prompt": "Iou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/105484.jpg?s=4b31d8643a3e61a55fc2a106fa636186"
+  },
+  {
+    "name": "Iou",
+    "prompt": "Iou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/232195.jpg?s=02f612ff484061d40f303f03f1cacd73"
+  },
+  {
+    "name": "Ise, Udon",
+    "prompt": "Ise, Udon from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/91366.jpg?s=d65c9ef3d5d16b21a7328b217bc9f6e4"
+  },
+  {
+    "name": "Ise",
+    "prompt": "Ise from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/167513.jpg?s=ae982461e82464cce0b5f62da4675db5"
+  },
+  {
+    "name": "Ishikawa",
+    "prompt": "Ishikawa from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/223259.jpg?s=9b2e982002ec64381c4c381d6e4b6ee6"
+  },
+  {
+    "name": "Isobu",
+    "prompt": "Isobu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/292516.jpg?s=cbc6c0088b4352fbdd3d5f01fac43da7"
+  },
+  {
+    "name": "Isono",
+    "prompt": "Isono from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/232199.jpg?s=fbff8e05618e4f188d8cbe704b05333e"
+  },
+  {
+    "name": "Ittan",
+    "prompt": "Ittan from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/166511.jpg?s=3c5ebd1aed0e6d1a695e5fe52ee75470"
+  },
+  {
+    "name": "Ittetsu",
+    "prompt": "Ittetsu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/84753.jpg?s=b4c43d0b74092077a70182dcff0b5ebb"
+  },
+  {
+    "name": "Iwa Kunoichi",
+    "prompt": "Iwa Kunoichi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/168811.jpg?s=f32f7d0f16a01131884d99ecdd5c80dd"
+  },
+  {
+    "name": "Izumo, Tenma",
+    "prompt": "Izumo, Tenma from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/478270.jpg?s=90a5d40ed5474e82e8e02e9dfb96a9a2"
+  },
+  {
+    "name": "Jako",
+    "prompt": "Jako from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/112272.jpg?s=83a2c5e4b018f1690d91e502778196f6"
+  },
+  {
+    "name": "Jei",
+    "prompt": "Jei from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/86316.jpg?s=093e43b538195ea5d360562abd9e3225"
+  },
+  {
+    "name": "Jiraiya",
+    "prompt": "Jiraiya from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/68618.jpg?s=ec35c8f49aa4cd7389bfc36d30cda3d7"
+  },
+  {
+    "name": "Jiroubou",
+    "prompt": "Jiroubou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/103579.jpg?s=bca26508367efa8f841f1a1b2aa6a6ea"
+  },
+  {
+    "name": "Jouseki",
+    "prompt": "Jouseki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/559338.jpg?s=010b9c00af92f36282707d885e79f2b6"
+  },
+  {
+    "name": "Juugo",
+    "prompt": "Juugo from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/293373.jpg?s=4e1dac7b55f9935ef1f2a4cd8e92654a"
+  },
+  {
+    "name": "Kaiza",
+    "prompt": "Kaiza from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/66536.jpg?s=ac7e300d879023a08bf3a644c8357218"
+  },
+  {
+    "name": "Kakkou",
+    "prompt": "Kakkou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/62791.jpg?s=a84e111d882ac8dd0ae9bc3354ba4383"
+  },
+  {
+    "name": "Kakuzu",
+    "prompt": "Kakuzu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/255727.jpg?s=5c401401ec96dc333b18486cef42c242"
+  },
+  {
+    "name": "Kamizuki, Izumo",
+    "prompt": "Kamizuki, Izumo from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/104663.jpg?s=2ae515dad36ebe3e30c9f36155fb5e56"
+  },
+  {
+    "name": "Kanabun",
+    "prompt": "Kanabun from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/105490.jpg?s=ea892116e6dcdd8ad279c1094f77d68f"
+  },
+  {
+    "name": "Kandachi",
+    "prompt": "Kandachi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/107912.jpg?s=217ed2b0f32600a013fb03490bcd1ed3"
+  },
+  {
+    "name": "Kanden, Tekuno",
+    "prompt": "Kanden, Tekuno from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/108065.jpg?s=017b1bee6a3780709a0b30ed85b43f8b"
+  },
+  {
+    "name": "Kankurou",
+    "prompt": "Kankurou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/68615.jpg?s=6f6d40205ea049c4a579e6a2d756daa0"
+  },
+  {
+    "name": "Karai",
+    "prompt": "Karai from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/225347.jpg?s=70faee1fd43d78e3fe91e13bb93638bf"
+  },
+  {
+    "name": "Karin",
+    "prompt": "Karin from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/72752.jpg?s=8cb2b21da8df8b1678c6a398aa44af52"
+  },
+  {
+    "name": "Karin's Mother",
+    "prompt": "Karin's Mother from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/292114.jpg?s=054910cfcdd59d1f895d9867e3ee887a"
+  },
+  {
+    "name": "Karui",
+    "prompt": "Karui from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/85736.jpg?s=54487c14ac41858333e052f8e08c5340"
+  },
+  {
+    "name": "Karura",
+    "prompt": "Karura from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/225775.jpg?s=adf38059e2bf7cb4c12b62d00c548575"
+  },
+  {
+    "name": "Katazu",
+    "prompt": "Katazu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/105489.jpg?s=3464d1ece2a72bfa81f575d5f788d2ff"
+  },
+  {
+    "name": "Katou, Dan",
+    "prompt": "Katou, Dan from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/103946.jpg?s=1daafb671133a56961180019179944cd"
+  },
+  {
+    "name": "Katsuyu",
+    "prompt": "Katsuyu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/103624.jpg?s=6eb7e5dd0cc10240d5bd21f031727df6"
+  },
+  {
+    "name": "Kayui",
+    "prompt": "Kayui from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/225355.jpg?s=ec4b1dacfd998221758c11f8bd575582"
+  },
+  {
+    "name": "Kazamatsuri, Moegi",
+    "prompt": "Kazamatsuri, Moegi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/110944.jpg?s=5f8e5adbf660bbf2b12cf7f18589b8e9"
+  },
+  {
+    "name": "Kazami",
+    "prompt": "Kazami from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/369431.jpg?s=06a9aff3254f822f7abe754479dbc249"
+  },
+  {
+    "name": "Kidoumaru",
+    "prompt": "Kidoumaru from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/103588.jpg?s=7824034e576090bc3629b0a15199374e"
+  },
+  {
+    "name": "Kigiri",
+    "prompt": "Kigiri from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/239597.jpg?s=c57936bc3fe9a9d4a6c208500ea57135"
+  },
+  {
+    "name": "Kihou",
+    "prompt": "Kihou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/91693.jpg?s=3fabf617ba48fa29f1968ff35736ec03"
+  },
+  {
+    "name": "Killer Bee",
+    "prompt": "Killer Bee from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/128072.jpg?s=0253bf1db4c6aa0f46b3765350c530a2"
+  },
+  {
+    "name": "Kimimaro",
+    "prompt": "Kimimaro from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/103598.jpg?s=08ed0fcffe945f96b93afd9f48bd18b5"
+  },
+  {
+    "name": "Kinkaku",
+    "prompt": "Kinkaku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/171131.jpg?s=d3f0e5c2a133bf4be11673980acbd9e4"
+  },
+  {
+    "name": "Kinuta, Dosu",
+    "prompt": "Kinuta, Dosu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/36354.jpg?s=0332b5441c2938506646832a2075fc32"
+  },
+  {
+    "name": "Kiri",
+    "prompt": "Kiri from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/166509.jpg?s=cad24435333fb36d3af86a512e901de6"
+  },
+  {
+    "name": "Kitane",
+    "prompt": "Kitane from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/62803.jpg?s=2a90501deb3c7811a3b400d8b3d9ddea"
+  },
+  {
+    "name": "Kitsuchi",
+    "prompt": "Kitsuchi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/166507.jpg?s=a66f4cd309e658f4665a2cf291ee67d7"
+  },
+  {
+    "name": "Kokuou",
+    "prompt": "Kokuou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/293369.jpg?s=baf8c21b52c8844d5eb8024ec66521c1"
+  },
+  {
+    "name": "Kokuyou",
+    "prompt": "Kokuyou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/145663.jpg?s=64c1afc420508c9c95c9498d90c91eba"
+  },
+  {
+    "name": "Komushi",
+    "prompt": "Komushi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/214083.jpg?s=80b6637934833d0968bb9443811c81d8"
+  },
+  {
+    "name": "Konan",
+    "prompt": "Konan from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/158755.jpg?s=511521e3840779df9fba75ea5a4b9b52"
+  },
+  {
+    "name": "Korobi",
+    "prompt": "Korobi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/105488.jpg?s=b07fa60169d676303f7b0fea1c6e94d4"
+  },
+  {
+    "name": "Kousuke",
+    "prompt": "Kousuke from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/92698.jpg?s=0f00100d51b922cf9901bae0652a5fdc"
+  },
+  {
+    "name": "Kurama",
+    "prompt": "Kurama from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/232183.jpg?s=4ab26e80928ae4a0a667ea3f21f72492"
+  },
+  {
+    "name": "Kuriarare, Kushimaru",
+    "prompt": "Kuriarare, Kushimaru from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/225369.jpg?s=39c2c5bca139c8d8d6fb33e11254acff"
+  },
+  {
+    "name": "Kuromaru",
+    "prompt": "Kuromaru from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/103834.jpg?s=b08a041e79fff1608b77c721ad09e1da"
+  },
+  {
+    "name": "Kurotsuchi",
+    "prompt": "Kurotsuchi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/110597.jpg?s=5443cb7be0337b24a7a3f42313250526"
+  },
+  {
+    "name": "Kusune",
+    "prompt": "Kusune from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/105485.jpg?s=402cf300cc3ba656f8e5bc8ca8518cdf"
+  },
+  {
+    "name": "Kyuusuke",
+    "prompt": "Kyuusuke from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/235005.jpg?s=62a30cb42a478990284ddfc9840f4f94"
+  },
+  {
+    "name": "Land",
+    "prompt": "Land from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/225705.jpg?s=9d45fa92ea1f54d0acbc8f1710cbecb5"
+  },
+  {
+    "name": "Land of Earth Daimyo",
+    "prompt": "Land of Earth Daimyo from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/173527.jpg?s=457a1eceb5335f469f30bec99ae1162b"
+  },
+  {
+    "name": "Land of Fire Daimyo",
+    "prompt": "Land of Fire Daimyo from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/134077.jpg?s=2bc158f23642170d4c8b227ee8b04bb3"
+  },
+  {
+    "name": "Land of Frost Daimyo",
+    "prompt": "Land of Frost Daimyo from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/173529.jpg?s=21e855ca0aadfc19e4cf893a0f842f8f"
+  },
+  {
+    "name": "Land of Lightning Daimyo",
+    "prompt": "Land of Lightning Daimyo from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/175233.jpg?s=c654cfbdb7d8c4cf73a5cc0090a04b11"
+  },
+  {
+    "name": "Land of This Daimyo",
+    "prompt": "Land of This Daimyo from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/232187.jpg?s=c5e79c62c19592a1f1b526b1c5a44b1f"
+  },
+  {
+    "name": "Land of Water Daimyo",
+    "prompt": "Land of Water Daimyo from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/175235.jpg?s=444d7922abdf01067bc88b67309c33cd"
+  },
+  {
+    "name": "Land of Wind Daimyo",
+    "prompt": "Land of Wind Daimyo from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/173521.jpg?s=9395136dff1f2a15099e751e2472cafc"
+  },
+  {
+    "name": "Lee, Rock",
+    "prompt": "Lee, Rock from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/433353.jpg?s=c2099a6532ecf14f4cf233c4cbd6532f"
+  },
+  {
+    "name": "Leo",
+    "prompt": "Leo from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/225709.jpg?s=0420073f66f17f505d61460ff32b2ae0"
+  },
+  {
+    "name": "Maboroshi, Kisuke",
+    "prompt": "Maboroshi, Kisuke from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/112273.jpg?s=333b68d2e4cf5754d98503775af72742"
+  },
+  {
+    "name": "Mabui",
+    "prompt": "Mabui from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/91529.jpg?s=bb53f1808410ae04cc9c42a4f7a15fa9"
+  },
+  {
+    "name": "Madam Shijimi",
+    "prompt": "Madam Shijimi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/564585.jpg?s=c3404d895c871a6d8ad1ef9df041396e"
+  },
+  {
+    "name": "Maki",
+    "prompt": "Maki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/225367.jpg?s=7e2356e5cb50bb7f7ed1adca3b2f377a"
+  },
+  {
+    "name": "Manda",
+    "prompt": "Manda from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/103617.jpg?s=6483a9be515b926ec009cd9ebeba850e"
+  },
+  {
+    "name": "Maruboshi, Kosuke",
+    "prompt": "Maruboshi, Kosuke from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/108063.jpg?s=8683cd007bd24d257385b73265f9053c"
+  },
+  {
+    "name": "Matatabi",
+    "prompt": "Matatabi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/293368.jpg?s=b4adce34d16b3ec4a6d15adeb077a771"
+  },
+  {
+    "name": "Matsuri",
+    "prompt": "Matsuri from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/57963.jpg?s=c8baf4f131a55b3a668382efff780e04"
+  },
+  {
+    "name": "Mifune",
+    "prompt": "Mifune from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/292442.jpg?s=4746ec654b8841ced71441a84c2d9b3a"
+  },
+  {
+    "name": "Might, Guy",
+    "prompt": "Might, Guy from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/103576.jpg?s=5da52d3d6d0b921506ffe65a8ff3288f"
+  },
+  {
+    "name": "Might, Dai",
+    "prompt": "Might, Dai from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/295201.jpg?s=8aee07febb91348bad0b63eb3eef0a0c"
+  },
+  {
+    "name": "Miina",
+    "prompt": "Miina from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/225711.jpg?s=2c2e626c680ea1c31a90999c99d356f6"
+  },
+  {
+    "name": "Minazuki, Yuuki",
+    "prompt": "Minazuki, Yuuki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/493304.jpg?s=4ea1b9edea1c1659af25e80f335cf3f1"
+  },
+  {
+    "name": "Miru",
+    "prompt": "Miru from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/348582.jpg?s=ea764cd5c44bc01312dda82038f18df2"
+  },
+  {
+    "name": "Mitarashi, Anko",
+    "prompt": "Mitarashi, Anko from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/66177.jpg?s=dd1055043101c23d89c332873170f962"
+  },
+  {
+    "name": "Mitokado, Homura",
+    "prompt": "Mitokado, Homura from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/103955.jpg?s=7d8dd18334e6a3ea858ef83f2143f40a"
+  },
+  {
+    "name": "Momochi, Zabuza",
+    "prompt": "Momochi, Zabuza from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/103706.jpg?s=4550a5e0c0af5a9f355a000386954d38"
+  },
+  {
+    "name": "Monga",
+    "prompt": "Monga from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/225341.jpg?s=b53bc1539e8b4898abfb35edab08fef8"
+  },
+  {
+    "name": "Morino, Ibiki",
+    "prompt": "Morino, Ibiki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/104672.jpg?s=b8200c863a19fe5d963b21e954efc948"
+  },
+  {
+    "name": "Motoi",
+    "prompt": "Motoi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/149573.jpg?s=5304fee13b554bbbb9f6c51d625064bc"
+  },
+  {
+    "name": "Mozuku",
+    "prompt": "Mozuku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/561139.jpg?s=62787f1d0c78d31aab2b2e0c96a2cfa0"
+  },
+  {
+    "name": "Mukade",
+    "prompt": "Mukade from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/62813.jpg?s=e7578c5de37ec0f4d9e4377a74bc89f9"
+  },
+  {
+    "name": "Munashi, Jinpachi",
+    "prompt": "Munashi, Jinpachi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/225371.jpg?s=22004bceac5da1b3088a83f83052df61"
+  },
+  {
+    "name": "Musai",
+    "prompt": "Musai from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/225771.jpg?s=a411a070201a948e99ee9727fc304240"
+  },
+  {
+    "name": "Muu",
+    "prompt": "Muu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/292896.jpg?s=b384bf25a1fd9236251912c50d349774"
+  },
+  {
+    "name": "Muyami",
+    "prompt": "Muyami from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/277623.jpg?s=1674e65d0f6dfae28122a81a6f974c09"
+  },
+  {
+    "name": "Nadeshiko Previous Leader",
+    "prompt": "Nadeshiko Previous Leader from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/146295.jpg?s=4016f88f5854311c0e434bc21c6191b0"
+  },
+  {
+    "name": "Naho",
+    "prompt": "Naho from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/112274.jpg?s=9ac15cc1a5d61264c61c3b67bcac3205"
+  },
+  {
+    "name": "Namiashi, Raidou",
+    "prompt": "Namiashi, Raidou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/61075.jpg?s=a289ddfea01612615bd12f09ca4d27f3"
+  },
+  {
+    "name": "Namikaze, Minato",
+    "prompt": "Namikaze, Minato from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/128074.jpg?s=3c25d6b03a654401141036f32b6e9b8b"
+  },
+  {
+    "name": "Namikaze, Menma",
+    "prompt": "Namikaze, Menma from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/493307.jpg?s=f6b96bf80176fc24e6b30cce5f4df30a"
+  },
+  {
+    "name": "Nangou",
+    "prompt": "Nangou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/79426.jpg?s=d8c41d964c9ec2aac0b0572fa6c6b2e9"
+  },
+  {
+    "name": "Nara, Shikamaru",
+    "prompt": "Nara, Shikamaru from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/131315.jpg?s=a800fe970f638eae38b1e50d3471121d"
+  },
+  {
+    "name": "Nara, Shikaku",
+    "prompt": "Nara, Shikaku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/100214.jpg?s=23ba0304e5dd735219998bdbdf9e21da"
+  },
+  {
+    "name": "Nara, Yoshino",
+    "prompt": "Nara, Yoshino from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/62786.jpg?s=ba1af85295f42df175be9d8b4abba9ad"
+  },
+  {
+    "name": "Nara, Ensui",
+    "prompt": "Nara, Ensui from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/169633.jpg?s=16f0a39b02c372053216e7df0115026f"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Natsu",
+    "prompt": "Natsu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/232207.jpg?s=0604d1fdf26e66ff288383e69e3e2964"
+  },
+  {
+    "name": "Nawaki",
+    "prompt": "Nawaki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/103950.jpg?s=c4a20a1dde848f0a7c4b12c3d022bdc3"
+  },
+  {
+    "name": "Nekobaa",
+    "prompt": "Nekobaa from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/63446.jpg?s=7ca4f71fc90ee3eea613bc9a8aeef7a5"
+  },
+  {
+    "name": "Nekomata",
+    "prompt": "Nekomata from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/111251.jpg?s=f193f4ca715a310ce5cf66459c6771ca"
+  },
+  {
+    "name": "Nigai",
+    "prompt": "Nigai from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/225349.jpg?s=c01b3c11788b2e156260363552c48420"
+  },
+  {
+    "name": "Nii, Yugito",
+    "prompt": "Nii, Yugito from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/292440.jpg?s=ed560dd1ef6bc40235933936a5525026"
+  },
+  {
+    "name": "Nohara, Rin",
+    "prompt": "Nohara, Rin from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/103709.jpg?s=77d70d168fe93e719f265536874e75c2"
+  },
+  {
+    "name": "Nonota",
+    "prompt": "Nonota from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/225769.jpg?s=020a7ab250a57dd0d249f273d729218f"
+  },
+  {
+    "name": "Nurari",
+    "prompt": "Nurari from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/91696.jpg?s=54311729011a633015d4112983e99e24"
+  },
+  {
+    "name": "Nurui",
+    "prompt": "Nurui from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/225353.jpg?s=956df05db5c7bb663776d16014baae57"
+  },
+  {
+    "name": "Oboro",
+    "prompt": "Oboro from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/62795.jpg?s=8273560ec7513d3e0f6284f8dc7dd2c3"
+  },
+  {
+    "name": "Okisuke",
+    "prompt": "Okisuke from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/175241.jpg?s=4345bef2f6e423fa542d29a6940ec420"
+  },
+  {
+    "name": "Omoi",
+    "prompt": "Omoi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/86313.jpg?s=a6738b06904a0a2d4e3d2d8cd812b519"
+  },
+  {
+    "name": "Oonoki",
+    "prompt": "Oonoki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/292445.jpg?s=60a46bc5b67b793307c75bab4394d362"
+  },
+  {
+    "name": "Ootsutsuki, Hagoromo",
+    "prompt": "Ootsutsuki, Hagoromo from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/254419.jpg?s=58eddae1d8f49e99274fc7d4bbd2ba3d"
+  },
+  {
+    "name": "Ootsutsuki, Kaguya",
+    "prompt": "Ootsutsuki, Kaguya from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/292976.jpg?s=74ba21ce020fb5785779ecf83841fb37"
+  },
+  {
+    "name": "Ootsutsuki, Ashura",
+    "prompt": "Ootsutsuki, Ashura from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/299875.jpg?s=50b34824d3628af6708595a72ccf9989"
+  },
+  {
+    "name": "Ootsutsuki, Indra",
+    "prompt": "Ootsutsuki, Indra from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/294553.jpg?s=e225bfe116d1e6b9de14b657f9e08b19"
+  },
+  {
+    "name": "Ootsutsuki, Hamura",
+    "prompt": "Ootsutsuki, Hamura from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/287407.jpg?s=182a101792989d0f6a5650c468f2ff17"
+  },
+  {
+    "name": "Orochimaru",
+    "prompt": "Orochimaru from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/162089.jpg?s=77b65c6a4dfa133ef211d805af39d986"
+  },
+  {
+    "name": "Osoi",
+    "prompt": "Osoi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/251545.jpg?s=92fe5c8e4cd2cfb5860c174d6f5f1b36"
+  },
+  {
+    "name": "Oyashiro, En",
+    "prompt": "Oyashiro, En from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/462030.jpg?s=72c183aed690e208a46938dee58ec102"
+  },
+  {
+    "name": "Pain",
+    "prompt": "Pain from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/73473.jpg?s=5c41288db6aa7a2339a4ff90ea211d49"
+  },
+  {
+    "name": "Pakkun",
+    "prompt": "Pakkun from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/54922.jpg?s=d5ad8c7e353fd173d020ef72fbadd3f3"
+  },
+  {
+    "name": "Pakura",
+    "prompt": "Pakura from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/168501.jpg?s=8e56953542b9aa3af9d1185a0251c6b5"
+  },
+  {
+    "name": "Ran",
+    "prompt": "Ran from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/225381.jpg?s=2be325c71c288d2595a5d68fdc710edc"
+  },
+  {
+    "name": "Ranka",
+    "prompt": "Ranka from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/160971.jpg?s=d03b487e9a13d1b032f1e0881ac22649"
+  },
+  {
+    "name": "Rasa",
+    "prompt": "Rasa from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/103604.jpg?s=b98324630fedff5c437acbaa45832db5"
+  },
+  {
+    "name": "Reto",
+    "prompt": "Reto from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/369491.jpg?s=dff24f6b382be11b298c0caa57b384ce"
+  },
+  {
+    "name": "Ringo, Ameyuri",
+    "prompt": "Ringo, Ameyuri from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/225361.jpg?s=dcc5a02405a656554dc52aacaa17e2f3"
+  },
+  {
+    "name": "Rinji",
+    "prompt": "Rinji from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/52669.jpg?s=d3850310e6e287c54e0e7d421515bc75"
+  },
+  {
+    "name": "Roushi",
+    "prompt": "Roushi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/66153.jpg?s=e424c4f9e1f7b288b5fa50ff80ff6a22"
+  },
+  {
+    "name": "Ruka",
+    "prompt": "Ruka from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/225343.jpg?s=db6314c340894764d548e58f8bb99eca"
+  },
+  {
+    "name": "Sabiru",
+    "prompt": "Sabiru from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/112275.jpg?s=a4be1f1da90cd1032e8542761f122e61"
+  },
+  {
+    "name": "Sabu",
+    "prompt": "Sabu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/503376.jpg?s=796d22a59f9529ba375326d090311d9a"
+  },
+  {
+    "name": "Sadai",
+    "prompt": "Sadai from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/112276.jpg?s=488e6691a36f77019d3b6753f00bdfc3"
+  },
+  {
+    "name": "Sagan",
+    "prompt": "Sagan from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/232203.jpg?s=e056e70d1bb25a0a464aa2f6fd583562"
+  },
+  {
+    "name": "Sagiri",
+    "prompt": "Sagiri from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/535649.jpg?s=382bb6656dcb62c2d738054e12c3a9d9"
+  },
+  {
+    "name": "Sai",
+    "prompt": "Sai from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/36032.jpg?s=3b8e83c47efda2c5b93843f9a0c09fc3"
+  },
+  {
+    "name": "Saiken",
+    "prompt": "Saiken from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/160681.jpg?s=34aa1912d64257ead4cbee4f61f0384e"
+  },
+  {
+    "name": "Sajou",
+    "prompt": "Sajou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/564586.jpg?s=680356e45b8f60d72a33526e610317e8"
+  },
+  {
+    "name": "Sakon",
+    "prompt": "Sakon from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/105422.jpg?s=b0a8ccc9170d441273e13aab667e7423"
+  },
+  {
+    "name": "Samui",
+    "prompt": "Samui from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/525869.jpg?s=5c8f47f59442c9d5f452383b1cf67b7f"
+  },
+  {
+    "name": "Sandaime Kazekage",
+    "prompt": "Sandaime Kazekage from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/69004.jpg?s=eb9a1c8986d9dcbb51e761cd5f9bea60"
+  },
+  {
+    "name": "Sari",
+    "prompt": "Sari from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/84755.jpg?s=023594f4b261a6404346a70f41d1601b"
+  },
+  {
+    "name": "Sarutobi, Mirai",
+    "prompt": "Sarutobi, Mirai from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/352646.jpg?s=1a203d5bd7e4d349b03f1e3888ee344c"
+  },
+  {
+    "name": "Sarutobi, Asuma",
+    "prompt": "Sarutobi, Asuma from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/82538.jpg?s=5196f696350f23474767acdf6efc6b8f"
+  },
+  {
+    "name": "Sarutobi, Biwako",
+    "prompt": "Sarutobi, Biwako from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/158741.jpg?s=e2c91c07f5ed95c536ada65077d8f91f"
+  },
+  {
+    "name": "Sarutobi, Hiruzen",
+    "prompt": "Sarutobi, Hiruzen from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/68520.jpg?s=7d6e5e92c4a665933686d4ece2cbdbe1"
+  },
+  {
+    "name": "Sarutobi, Konohamaru",
+    "prompt": "Sarutobi, Konohamaru from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/109419.jpg?s=818d5a433ba71a276feb67578ccf711a"
+  },
+  {
+    "name": "Sasori",
+    "prompt": "Sasori from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/128070.jpg?s=20a9f30ac209ed9d58260b0903eb9056"
+  },
+  {
+    "name": "Sen",
+    "prompt": "Sen from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/369434.jpg?s=6dba6aa290fe1a142a06ee2f5c096651"
+  },
+  {
+    "name": "Senju, Hashirama",
+    "prompt": "Senju, Hashirama from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/34809.jpg?s=9a7605792e5daa2cd71b4f4695017b21"
+  },
+  {
+    "name": "Senju, Tobirama",
+    "prompt": "Senju, Tobirama from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/293367.jpg?s=368e32b777d1652b75597ceb0808fd05"
+  },
+  {
+    "name": "Senju, Touka",
+    "prompt": "Senju, Touka from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/103957.jpg?s=4b289b48efc30f04562469a7e6474419"
+  },
+  {
+    "name": "Senju, Itama",
+    "prompt": "Senju, Itama from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/292355.jpg?s=f342a11824e7de6d179fc97426b5450f"
+  },
+  {
+    "name": "Senju, Butsuma",
+    "prompt": "Senju, Butsuma from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/292403.jpg?s=07c3c71b23c7ac82252cd21b6d8aaafe"
+  },
+  {
+    "name": "Senjuu, Kawarama",
+    "prompt": "Senjuu, Kawarama from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/292812.jpg?s=cb97ea82b650a6f7ae6ee874b14cb648"
+  },
+  {
+    "name": "Shamon",
+    "prompt": "Shamon from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/369492.jpg?s=e8eebbbd3d1464cf2366c81cd021a789"
+  },
+  {
+    "name": "Shibire",
+    "prompt": "Shibire from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/66501.jpg?s=cbee9c8d03d4bc2084639e707819fd01"
+  },
+  {
+    "name": "Shibuki",
+    "prompt": "Shibuki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/274003.jpg?s=babbbc356bee94b06af449bb315bf498"
+  },
+  {
+    "name": "Shiho",
+    "prompt": "Shiho from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/86312.jpg?s=015b1afe2421d7c0078df1b907b36985"
+  },
+  {
+    "name": "Shii",
+    "prompt": "Shii from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/292439.jpg?s=48ebdddbd68c15e356f9e3ab5b196803"
+  },
+  {
+    "name": "Shima",
+    "prompt": "Shima from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/65265.jpg?s=74d2b64fd33bdadb146d3ce9071eb34e"
+  },
+  {
+    "name": "Shimura, Danzou",
+    "prompt": "Shimura, Danzou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/292451.jpg?s=d047e4fbaac544b15f60c7672c52e564"
+  },
+  {
+    "name": "Shin",
+    "prompt": "Shin from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/62811.jpg?s=ff82fb839d0512c51fd2d322ae17f163"
+  },
+  {
+    "name": "Ship's Captain",
+    "prompt": "Ship's Captain from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/138455.jpg?s=a933e5141757465884afdba15570f1f4"
+  },
+  {
+    "name": "Shira",
+    "prompt": "Shira from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/275472.jpg?s=7a399ab077c5c5b33487b5922ece0d3b"
+  },
+  {
+    "name": "Shirakumo, Hayama",
+    "prompt": "Shirakumo, Hayama from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/108064.jpg?s=5cad7c9ccf2a8bcf759412b384463600"
+  },
+  {
+    "name": "Shiranami",
+    "prompt": "Shiranami from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/80492.jpg?s=f758014c68e423cf65e16fdc5df3b7cc"
+  },
+  {
+    "name": "Shiranui, Genma",
+    "prompt": "Shiranui, Genma from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/104664.jpg?s=c798fbee0f73d81fe48f11306ce056bc"
+  },
+  {
+    "name": "Shiseru",
+    "prompt": "Shiseru from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/225719.jpg?s=61a0c50a0993aa9049b2edaa4ac19b58"
+  },
+  {
+    "name": "Shizuka",
+    "prompt": "Shizuka from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/142365.jpg?s=0a981548c3faefc4689a324d89cb38d1"
+  },
+  {
+    "name": "Shizune",
+    "prompt": "Shizune from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/103794.jpg?s=34f7e533eadf02840c039b3bc4f40f06"
+  },
+  {
+    "name": "Shouseki",
+    "prompt": "Shouseki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/105486.jpg?s=a772f0d803b0664b194107eb2080dd2c"
+  },
+  {
+    "name": "Shukaku",
+    "prompt": "Shukaku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/62812.jpg?s=c16d67dab7ccd31a6b0c639a504fc2b6"
+  },
+  {
+    "name": "Shun",
+    "prompt": "Shun from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/232205.jpg?s=51a77b64f204819af4b6b4b9fe1c3177"
+  },
+  {
+    "name": "Shuu",
+    "prompt": "Shuu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/232197.jpg?s=d3d16760e44abbe4f63936c048018a99"
+  },
+  {
+    "name": "Son Gokuu",
+    "prompt": "Son Gokuu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/160679.jpg?s=15b5ee20088e35e9b0bfc019a04cb30a"
+  },
+  {
+    "name": "Sora",
+    "prompt": "Sora from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/225707.jpg?s=7337bb33c612621d09affe2ff1eb934a"
+  },
+  {
+    "name": "Sora",
+    "prompt": "Sora from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/66269.jpg?s=d75575e0fb2005e0787ac36e7f18fcd3"
+  },
+  {
+    "name": "Stone carver's assistant",
+    "prompt": "Stone carver's assistant from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/418455.jpg?s=de9e3efe400f1e7f7189e521a4293286"
+  },
+  {
+    "name": "Suguro",
+    "prompt": "Suguro from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/112277.jpg?s=9cf962162cf624dc3f26dc519972a091"
+  },
+  {
+    "name": "Suika",
+    "prompt": "Suika from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/142367.jpg?s=94cb9fe20d40759652d559416a313e5a"
+  },
+  {
+    "name": "Suikazan, Fuguki",
+    "prompt": "Suikazan, Fuguki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/158747.jpg?s=57361314a0a8a16f18f9dcbb83a7cc22"
+  },
+  {
+    "name": "Suiren",
+    "prompt": "Suiren from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/168813.jpg?s=16176bd60b7bbd79ddaa19ae45c3ac24"
+  },
+  {
+    "name": "Sukea",
+    "prompt": "Sukea from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/348459.jpg?s=a6c067c24acbb6aabe19e6bc59d2b3f7"
+  },
+  {
+    "name": "Sukui",
+    "prompt": "Sukui from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/232225.jpg?s=e2d4dfbcc61b24ce7b5ce992f36ca75f"
+  },
+  {
+    "name": "Sukune",
+    "prompt": "Sukune from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/107913.jpg?s=60dcd183069fc584b01c9d8330a3ca94"
+  },
+  {
+    "name": "Suzume",
+    "prompt": "Suzume from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/104661.jpg?s=9f95512015f34152c03918aec3664188"
+  },
+  {
+    "name": "Taiseki",
+    "prompt": "Taiseki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/66152.jpg?s=af671d341c961453847f03c762357133"
+  },
+  {
+    "name": "Taji",
+    "prompt": "Taji from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/158767.jpg?s=ce2acecb8cd5ab40b173e6131faae275"
+  },
+  {
+    "name": "Tamaki",
+    "prompt": "Tamaki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/62800.jpg?s=f81e25b76c0929dbfe2e5d149e1dd13b"
+  },
+  {
+    "name": "Tamao",
+    "prompt": "Tamao from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/232201.jpg?s=0b673ecf0d74711a49205c9d7d64c226"
+  },
+  {
+    "name": "Tango",
+    "prompt": "Tango from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/166505.jpg?s=2826322c8ccc5f346906b0f765455f59"
+  },
+  {
+    "name": "Tanishi",
+    "prompt": "Tanishi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/107914.jpg?s=83be30674a371717a69fffed41d9c429"
+  },
+  {
+    "name": "Tanzou",
+    "prompt": "Tanzou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/66173.jpg?s=06542938caae29fda9b7fb04184a60a3"
+  },
+  {
+    "name": "Tatami, Iwashi",
+    "prompt": "Tatami, Iwashi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/66507.jpg?s=dc52c84ff068a1edfe16db6111b1b849"
+  },
+  {
+    "name": "Tatewaki",
+    "prompt": "Tatewaki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/232217.jpg?s=94c47a1201035bfe747c64e5404f2260"
+  },
+  {
+    "name": "Tayuya",
+    "prompt": "Tayuya from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/295205.jpg?s=cfb4d415aa30d426753c0aa1c14cbc2e"
+  },
+  {
+    "name": "Tazuna",
+    "prompt": "Tazuna from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/53360.jpg?s=cf1c21af6209f5bb9d82f5c4892a83dc"
+  },
+  {
+    "name": "Temari",
+    "prompt": "Temari from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/292452.jpg?s=81c9799689a262a4df639b3dd5c48bc3"
+  },
+  {
+    "name": "Tenga",
+    "prompt": "Tenga from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/160969.jpg?s=7cb4f1a449907ebd835a904853549e68"
+  },
+  {
+    "name": "Tenji",
+    "prompt": "Tenji from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/319992.jpg?s=3f8314a964a487c418f57f83f8ed8dad"
+  },
+  {
+    "name": "Tenten",
+    "prompt": "Tenten from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/110946.jpg?s=babf65fba5bfda45c8c6dc400669b6cb"
+  },
+  {
+    "name": "Terumi, Mei",
+    "prompt": "Terumi, Mei from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/292453.jpg?s=2ce42c351431e849f4b25dac2ba4ec31"
+  },
+  {
+    "name": "Teuchi",
+    "prompt": "Teuchi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/62801.jpg?s=f109b4042f55fcf076099cea211591b6"
+  },
+  {
+    "name": "Tobi",
+    "prompt": "Tobi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/73577.jpg?s=0164b66264c8b73a65e81f9c6035f1ec"
+  },
+  {
+    "name": "Tobio",
+    "prompt": "Tobio from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/66500.jpg?s=b36f1ad66e3a60c1ebbb49533436352e"
+  },
+  {
+    "name": "Tobitake, Tonbo",
+    "prompt": "Tobitake, Tonbo from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/86803.jpg?s=d6d21b045da1b9425532adec1075b810"
+  },
+  {
+    "name": "Tokiwa",
+    "prompt": "Tokiwa from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/142361.jpg?s=e2f776f9395b98cad759e6f9a23996ab"
+  },
+  {
+    "name": "Tonbei",
+    "prompt": "Tonbei from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/79425.jpg?s=c90bbf559c6dfe00895d6e1f6ef487a5"
+  },
+  {
+    "name": "Tonika Village Head",
+    "prompt": "Tonika Village Head from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/225699.jpg?s=0e8f295e4a62f2f8ac1f3e40ebffad8d"
+  },
+  {
+    "name": "Tonton",
+    "prompt": "Tonton from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/218401.jpg?s=4be1fcf1e0e1f944237aa973bad9493d"
+  },
+  {
+    "name": "Tora",
+    "prompt": "Tora from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/103603.jpg?s=b98f685e42136720e4ab2c39277a3bb2"
+  },
+  {
+    "name": "Toroi",
+    "prompt": "Toroi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/225767.jpg?s=0ad44024b0593ef137b5e4c115e6d78e"
+  },
+  {
+    "name": "Toufu",
+    "prompt": "Toufu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/112278.jpg?s=18e8bba97f0261decea8817b68876def"
+  },
+  {
+    "name": "Touji, Mizuki",
+    "prompt": "Touji, Mizuki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/57467.jpg?s=e4645af4f58901ab747cb4265e914015"
+  },
+  {
+    "name": "Tsubaki",
+    "prompt": "Tsubaki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/325682.jpg?s=53ac207d2c654556cc8227ab7c5dfa5a"
+  },
+  {
+    "name": "Tsukado",
+    "prompt": "Tsukado from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/105491.jpg?s=520ff802505b97d23e58eb443acc23b2"
+  },
+  {
+    "name": "Tsunade",
+    "prompt": "Tsunade from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/523646.jpg?s=6e76b1e4adef34cd1698c91947542cc5"
+  },
+  {
+    "name": "Tsunami",
+    "prompt": "Tsunami from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/58401.jpg?s=507d1849662bf29561659f2b42f801bc"
+  },
+  {
+    "name": "Tsurugi",
+    "prompt": "Tsurugi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/83277.jpg?s=435a369f68b8d9d1b81d25bd9262198e"
+  },
+  {
+    "name": "Uchiha, Mikoto",
+    "prompt": "Uchiha, Mikoto from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/103949.jpg?s=67135a760c60ac7cbc7709090b21c17b"
+  },
+  {
+    "name": "Uchiha, Izumi",
+    "prompt": "Uchiha, Izumi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/303100.jpg?s=5031cb76a31af00168ac5fa50bbd21e3"
+  },
+  {
+    "name": "Uchiha, Yakumi",
+    "prompt": "Uchiha, Yakumi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/54882.jpg?s=ae61ebfb70190d30ef626845627fa057"
+  },
+  {
+    "name": "Uchiha, Inabi",
+    "prompt": "Uchiha, Inabi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/66477.jpg?s=fbe797efefdeb68d9ee2cdf73ee70cc9"
+  },
+  {
+    "name": "Uchiha, Yashiro",
+    "prompt": "Uchiha, Yashiro from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/63710.jpg?s=499ad3c7790fa36cf5c8791e8e113dbe"
+  },
+  {
+    "name": "Uchiha, Shisui",
+    "prompt": "Uchiha, Shisui from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/292332.jpg?s=dc0ecb10593988b603f0badd1d9d06e5"
+  },
+  {
+    "name": "Uchiha, Tajima",
+    "prompt": "Uchiha, Tajima from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/292263.jpg?s=f6d20f93c50f53dca89d48b866c9d1f9"
+  },
+  {
+    "name": "Uchiha, Tekka",
+    "prompt": "Uchiha, Tekka from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/86796.jpg?s=fc107ccdf55729162c9f693a22075db1"
+  },
+  {
+    "name": "Uchiha, Izuna",
+    "prompt": "Uchiha, Izuna from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/71732.jpg?s=94e67bd1474206a254a1e12494eea0a9"
+  },
+  {
+    "name": "Uchiha, Obito",
+    "prompt": "Uchiha, Obito from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/70596.jpg?s=162bc6d766d44ef6d12cff4779b8a5cd"
+  },
+  {
+    "name": "Uchiha, Kagami",
+    "prompt": "Uchiha, Kagami from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/167489.jpg?s=44102806a0ea9cc5998d0df1ce9d7f74"
+  },
+  {
+    "name": "Uchiha, Naka",
+    "prompt": "Uchiha, Naka from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/225265.jpg?s=20ae318ce4ab1429d875325e33bbd469"
+  },
+  {
+    "name": "Uchiha, Naori",
+    "prompt": "Uchiha, Naori from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/292264.jpg?s=6813d4dfd234ae6c1188b560e6dff969"
+  },
+  {
+    "name": "Uchiha, Baru",
+    "prompt": "Uchiha, Baru from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/232191.jpg?s=ec1c622c781766a6d42dec1a39703489"
+  },
+  {
+    "name": "Uchiha, Madara",
+    "prompt": "Uchiha, Madara from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/450359.jpg?s=40bd9ba9baf6061b3f394b6c4b9978bc"
+  },
+  {
+    "name": "Uchiha, Itachi",
+    "prompt": "Uchiha, Itachi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/284122.jpg?s=11eac9672b208175831a0da62f188622"
+  },
+  {
+    "name": "Uchiha, Fugaku",
+    "prompt": "Uchiha, Fugaku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/103948.jpg?s=1bd273d4b4fcc2373f19d2d9ac299f3d"
+  },
+  {
+    "name": "Uchiha, Rai",
+    "prompt": "Uchiha, Rai from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/232189.jpg?s=a2e8740c6a873667835eb95eccf7375a"
+  },
+  {
+    "name": "Ukon",
+    "prompt": "Ukon from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/112579.jpg?s=034c67cf8ab22788a8e7c0535252c0ff"
+  },
+  {
+    "name": "Umino, Iruka",
+    "prompt": "Umino, Iruka from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/100216.jpg?s=8ce41c2857b1d19260f46e114cc9d158"
+  },
+  {
+    "name": "Umino, Ikkaku",
+    "prompt": "Umino, Ikkaku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/158749.jpg?s=ce577d0be807d7e9d25e318a95ac84a9"
+  },
+  {
+    "name": "Umino, Kohari",
+    "prompt": "Umino, Kohari from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/158751.jpg?s=e8c4c1e2c03a04eb4514465b3ae7271e"
+  },
+  {
+    "name": "Urakaku",
+    "prompt": "Urakaku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/194075.jpg?s=432e228d9892314018aca56c34652300"
+  },
+  {
+    "name": "Urushi",
+    "prompt": "Urushi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/228269.jpg?s=536e6de2022bc080afb09357d1603f45"
+  },
+  {
+    "name": "Ushi",
+    "prompt": "Ushi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/103602.jpg?s=23dd0d822ec803e707c2f727da89a5c8"
+  },
+  {
+    "name": "Utakata",
+    "prompt": "Utakata from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/232231.jpg?s=8caea4099e32b92c3fee06837b709d7d"
+  },
+  {
+    "name": "Utatane, Koharu",
+    "prompt": "Utatane, Koharu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/103956.jpg?s=e23b167bd6014bdeeee43d0db4fe2b1d"
+  },
+  {
+    "name": "Uzuki, Yugao",
+    "prompt": "Uzuki, Yugao from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/232233.jpg?s=c9e3a2d3deea5b8ca06b92593410bc71"
+  },
+  {
+    "name": "Uzumaki, Kushina",
+    "prompt": "Uzumaki, Kushina from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/158761.jpg?s=7c9158f9d2642b8410a30077f219b807"
+  },
+  {
+    "name": "Uzumaki, Mito",
+    "prompt": "Uzumaki, Mito from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/225733.jpg?s=dbc6cdf4367a5a951e6041d9597fd6a4"
+  },
+  {
+    "name": "Waraji",
+    "prompt": "Waraji from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/66174.jpg?s=91d2ed7c480213b896aa1f762ca59078"
+  },
+  {
+    "name": "Watase",
+    "prompt": "Watase from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/194131.jpg?s=5ed8f6ec7105bfbc2cc9ba8f5ddd2cd8"
+  },
+  {
+    "name": "Yagura",
+    "prompt": "Yagura from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/292436.jpg?s=1e58c6e3cc8e76fe98c8e4cb95732f6e"
+  },
+  {
+    "name": "Yahiko",
+    "prompt": "Yahiko from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/98447.jpg?s=bbeceb9cc6aee219302599a5829c50ce"
+  },
+  {
+    "name": "Yakku",
+    "prompt": "Yakku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/84754.jpg?s=65362aaf94f9d5802eabf53642ea08e1"
+  },
+  {
+    "name": "Yakushi, Nonou",
+    "prompt": "Yakushi, Nonou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/223675.jpg?s=811ca845be42e164532abf5ed0e0c585"
+  },
+  {
+    "name": "Yakushi, Kabuto",
+    "prompt": "Yakushi, Kabuto from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/82459.jpg?s=81d3435c2ca60c6acbea9da7bc7ba6c4"
+  },
+  {
+    "name": "Yamanaka, Santa",
+    "prompt": "Yamanaka, Santa from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/169627.jpg?s=822a3591086ecde15a2ca76a7a03352d"
+  },
+  {
+    "name": "Yamanaka, Inoichi",
+    "prompt": "Yamanaka, Inoichi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/103837.jpg?s=b2e6470593966071b495ca22130eeb0f"
+  },
+  {
+    "name": "Yamanaka, Mother",
+    "prompt": "Yamanaka, Mother from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/194073.jpg?s=f748bf711b16af4ad34d52c7c273c4b0"
+  },
+  {
+    "name": "Yamanaka, Ino",
+    "prompt": "Yamanaka, Ino from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/60062.jpg?s=bd8ff387569eebde9eb9af3d2a7feefc"
+  },
+  {
+    "name": "Yamanaka, Fuu",
+    "prompt": "Yamanaka, Fuu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/292435.jpg?s=a00176d73725ec776bce4761beed98db"
+  },
+  {
+    "name": "Yamashiro, Aoba",
+    "prompt": "Yamashiro, Aoba from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/158739.jpg?s=3b4ee6aa8529967c6768e6baf08f97b6"
+  },
+  {
+    "name": "Yamato",
+    "prompt": "Yamato from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/128096.jpg?s=51e99871c3ce211263109dcc2fe7814a"
+  },
+  {
+    "name": "Yaoki",
+    "prompt": "Yaoki from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/105487.jpg?s=ac3cc0125e7c146dea816efcfac87c0c"
+  },
+  {
+    "name": "Yashamaru",
+    "prompt": "Yashamaru from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/103943.jpg?s=6d629e23e1ee454ea6ac6d780629d450"
+  },
+  {
+    "name": "Yokaze",
+    "prompt": "Yokaze from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/232193.jpg?s=7710fee89e65ba23c50d13b53259273c"
+  },
+  {
+    "name": "Yome",
+    "prompt": "Yome from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/369432.jpg?s=4b93135ee2e281142ed608d623abf556"
+  },
+  {
+    "name": "Yone",
+    "prompt": "Yone from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/107915.jpg?s=48c139ba5d358ac9d33b845c6359bfa2"
+  },
+  {
+    "name": "Yota",
+    "prompt": "Yota from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/207091.jpg?s=6a191446df39d5e7c68d01241a9e7547"
+  },
+  {
+    "name": "Yukai",
+    "prompt": "Yukai from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/238617.jpg?s=b6b355d0dda47edeca3e6f40d69e0382"
+  },
+  {
+    "name": "Yukata",
+    "prompt": "Yukata from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/166503.jpg?s=929db9786122c2c9521f364ebded683b"
+  },
+  {
+    "name": "Yukimaru",
+    "prompt": "Yukimaru from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/82864.jpg?s=d65735128345f0907995656b15f39c2b"
+  },
+  {
+    "name": "Yukimi",
+    "prompt": "Yukimi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/238179.jpg?s=159c40eda20a754a5face07bcc20cf51"
+  },
+  {
+    "name": "Yurito",
+    "prompt": "Yurito from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/388421.jpg?s=cac17b24e3ce1671c6187e7ee425da17"
+  },
+  {
+    "name": "Yurui",
+    "prompt": "Yurui from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/225357.jpg?s=cf3cbfdcd77f62df123b5bf6a905d75b"
+  },
+  {
+    "name": "Yuudachi",
+    "prompt": "Yuudachi from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/173519.jpg?s=bc26b987d9e5548060590953bd82586b"
+  },
+  {
+    "name": "Yuuhi, Kurenai",
+    "prompt": "Yuuhi, Kurenai from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/103797.jpg?s=01189fc7f8a526c4fd60ecb124f7065f"
+  },
+  {
+    "name": "Yuuhi, Shinku",
+    "prompt": "Yuuhi, Shinku from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/158757.jpg?s=19183d3c9592c2f103c4eed818b6c5bd"
+  },
+  {
+    "name": "Yuura",
+    "prompt": "Yuura from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/84735.jpg?s=2f68604acfba6d01acb437d3b8fe0234"
+  },
+  {
+    "name": "Yuusuke",
+    "prompt": "Yuusuke from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/136343.jpg?s=c28c44b05a9393ef9dbab77beb33b78c"
+  },
+  {
+    "name": "Zaji",
+    "prompt": "Zaji from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/166501.jpg?s=abaaa1f934a072fa9344a215f4234c72"
+  },
+  {
+    "name": "Zetsu",
+    "prompt": "Zetsu from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/76260.jpg?s=f677ce2557f67393a92943f4b21270ab"
+  },
+  {
+    "name": "Zou",
+    "prompt": "Zou from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/409993.jpg?s=12454380839a8e7eb5ddb90a1862a22b"
+  },
+  {
+    "name": "Zouri",
+    "prompt": "Zouri from Naruto: Shippuuden",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/62818.jpg?s=09c9ae4257eb68383403a95ba8566814"
+  }
+]

@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Jin",
+    "prompt": "Jin from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/62969.jpg?s=9b045929a15e898cfa0d5250fdc37c41"
+  },
+  {
+    "name": "Kasumi, Fuu",
+    "prompt": "Kasumi, Fuu from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/74061.jpg?s=35d46e0285643d0547e69d7b08fea220"
+  },
+  {
+    "name": "Mugen",
+    "prompt": "Mugen from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/51569.jpg?s=94d24126f87b77dfb7fd9591c99d7ecd"
+  },
+  {
+    "name": "Akame",
+    "prompt": "Akame from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/379903.jpg?s=ecd5564790c4415a866c55aeaf4f8aeb"
+  },
+  {
+    "name": "Aohabu",
+    "prompt": "Aohabu from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/288381.jpg?s=04934db0e649c2f027ab3c9df606827f"
+  },
+  {
+    "name": "Bantou",
+    "prompt": "Bantou from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/288385.jpg?s=907a39983e2e46156d6233cc93ad4355"
+  },
+  {
+    "name": "Benitokage",
+    "prompt": "Benitokage from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/288380.jpg?s=0bdda436b3bf0e11041b8a80228023e7"
+  },
+  {
+    "name": "Budoukiba",
+    "prompt": "Budoukiba from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/53517.jpg?s=cb914087b6d776cf233e1cd966d2b339"
+  },
+  {
+    "name": "Bundai",
+    "prompt": "Bundai from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/171723.jpg?s=70bb83b693c581d50076b21d4c6c78bc"
+  },
+  {
+    "name": "Cartwright, Alexander Joy",
+    "prompt": "Cartwright, Alexander Joy from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/288403.jpg?s=6900820fd9bd15a5d54960c3a7162149"
+  },
+  {
+    "name": "Daigorou",
+    "prompt": "Daigorou from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/53522.jpg?s=a5042e06256dc1a415082fe9adc161de"
+  },
+  {
+    "name": "de Xavier III, Francisco",
+    "prompt": "de Xavier III, Francisco from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/53509.jpg?s=c76639882c9d060710e3d10610213341"
+  },
+  {
+    "name": "Denkibo",
+    "prompt": "Denkibo from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/171715.jpg?s=e8fe6c29446196acd9e597ce1a1760cd"
+  },
+  {
+    "name": "Doubleday, Abner",
+    "prompt": "Doubleday, Abner from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/288404.jpg?s=f36e9bf589f122110a7a58bf0f180b2e"
+  },
+  {
+    "name": "Fuupa",
+    "prompt": "Fuupa from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/288401.jpg?s=e972d14003f28b9c22a2639264c5436f"
+  },
+  {
+    "name": "Hanjiro",
+    "prompt": "Hanjiro from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/288422.jpg?s=d97f20b4942cab3b631da0e54abb4f82"
+  },
+  {
+    "name": "Hankichi, Otawa",
+    "prompt": "Hankichi, Otawa from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/171725.jpg?s=722606102091c19815896fe9fd8538f1"
+  },
+  {
+    "name": "Heike, Shige",
+    "prompt": "Heike, Shige from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/53508.jpg?s=4c466c2530d4ceea8a3e1e4c9238a9eb"
+  },
+  {
+    "name": "Hikoichi",
+    "prompt": "Hikoichi from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/288377.jpg?s=7b7d903027b0e4405f7fc8bbdadd9bb8"
+  },
+  {
+    "name": "Hishikawa, Moronobu",
+    "prompt": "Hishikawa, Moronobu from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/53507.jpg?s=58e907feb1764d2ddd469af0f43e7aea"
+  },
+  {
+    "name": "Hotaru",
+    "prompt": "Hotaru from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/53495.jpg?s=9885527d52359886ae2cbed676ad212d"
+  },
+  {
+    "name": "Ikitsuki Islander",
+    "prompt": "Ikitsuki Islander from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/288409.jpg?s=834bb6b7ecd2b6c8cd80624eea528db7"
+  },
+  {
+    "name": "Imano, Yatsuha",
+    "prompt": "Imano, Yatsuha from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/47215.jpg?s=1dcf068a82460792430d8503ccf520c8"
+  },
+  {
+    "name": "Inuyama",
+    "prompt": "Inuyama from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/90246.jpg?s=30f9bcc656ae0e810aa3da2a0d2b66ab"
+  },
+  {
+    "name": "Ishimatsu",
+    "prompt": "Ishimatsu from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/53520.jpg?s=19e47fcdbef2c86eb1c75bfe4f103bd3"
+  },
+  {
+    "name": "Kagemaru",
+    "prompt": "Kagemaru from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/288423.jpg?s=626a5d439c7ce325cbc7349adf4add34"
+  },
+  {
+    "name": "Kaikizou",
+    "prompt": "Kaikizou from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/288391.jpg?s=149b0effe3418841beeccde391aa1ef5"
+  },
+  {
+    "name": "Kariya, Kagetoki",
+    "prompt": "Kariya, Kagetoki from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/171719.jpg?s=f0ba2bc388fa1b4f3870f77319e845fb"
+  },
+  {
+    "name": "Kasumi, Seizou",
+    "prompt": "Kasumi, Seizou from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/53506.jpg?s=6c054fb713b097953a9d0b55b8e7fad4"
+  },
+  {
+    "name": "Kasumi-san",
+    "prompt": "Kasumi-san from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/288408.jpg?s=6c18696f7ad3a03273e0d5e083823cf1"
+  },
+  {
+    "name": "Kawara, Heitarou",
+    "prompt": "Kawara, Heitarou from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/53504.jpg?s=465d203e69be305ec2e696d49f24f56b"
+  },
+  {
+    "name": "Kawara, Sousuke",
+    "prompt": "Kawara, Sousuke from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/53505.jpg?s=c7d95a2a5cd08a855fcb2c9709e74b8f"
+  },
+  {
+    "name": "Ken",
+    "prompt": "Ken from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/288389.jpg?s=faa4f50876ee7cebe0894b326704d31b"
+  },
+  {
+    "name": "Kikumaru",
+    "prompt": "Kikumaru from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/288394.jpg?s=63f8ddacd1a545d7d109e7070d9f75c5"
+  },
+  {
+    "name": "Kikuzou",
+    "prompt": "Kikuzou from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/288368.jpg?s=f122431440ee84799d86c0a6585bffaa"
+  },
+  {
+    "name": "Kinogasa",
+    "prompt": "Kinogasa from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/288379.jpg?s=c53402bc373e45c279f8f5764310268b"
+  },
+  {
+    "name": "Kitching, Isaac",
+    "prompt": "Kitching, Isaac from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/53503.jpg?s=cc710866a560349501ae6a0546ac41e9"
+  },
+  {
+    "name": "Kogoro",
+    "prompt": "Kogoro from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/288376.jpg?s=cad73f38136242043bf71594b350d5fd"
+  },
+  {
+    "name": "Koza",
+    "prompt": "Koza from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/53515.jpg?s=a279795c380265223395804b301a68e1"
+  },
+  {
+    "name": "Kuroihara",
+    "prompt": "Kuroihara from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/288396.jpg?s=a515cad441d9b407ecf13e4a41d49e13"
+  },
+  {
+    "name": "Machidoshiyori",
+    "prompt": "Machidoshiyori from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/288405.jpg?s=59f727d2ad68002eea4f4e9d5a33827a"
+  },
+  {
+    "name": "Mariya, Enshirou",
+    "prompt": "Mariya, Enshirou from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/53502.jpg?s=107652222434b24b93b04d5df8ca2920"
+  },
+  {
+    "name": "Matagi",
+    "prompt": "Matagi from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/288399.jpg?s=d835f2b767ff05a2cb54802fed0d884f"
+  },
+  {
+    "name": "Momochi, Ginsa",
+    "prompt": "Momochi, Ginsa from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/170465.jpg?s=baf1389a1815eddb0850c6bbae698d57"
+  },
+  {
+    "name": "Momoi, Seishirou",
+    "prompt": "Momoi, Seishirou from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/288383.jpg?s=3bdc31c6a6811648fc5e4c514f65331f"
+  },
+  {
+    "name": "Mukuro",
+    "prompt": "Mukuro from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/288420.jpg?s=53ec14fc0ce537b8846b339683acc669"
+  },
+  {
+    "name": "Munetada, Tajima",
+    "prompt": "Munetada, Tajima from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/288382.jpg?s=7ff8419c2bdd93d26d2d06666547ebfe"
+  },
+  {
+    "name": "Nagatomi, Rikiei",
+    "prompt": "Nagatomi, Rikiei from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/53501.jpg?s=f7861057c54a61099fd3a0b17966ef92"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Niwa, Kazunosuke",
+    "prompt": "Niwa, Kazunosuke from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/288421.jpg?s=643e996dd2b86f666deda0641032fe75"
+  },
+  {
+    "name": "Niwa, Tatsunoshin",
+    "prompt": "Niwa, Tatsunoshin from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/286067.jpg?s=af3310a48ce459f4487d22237bd11620"
+  },
+  {
+    "name": "Niwa, Juunosuke",
+    "prompt": "Niwa, Juunosuke from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/288393.jpg?s=5802062d63947de10fd884bf13d1b98e"
+  },
+  {
+    "name": "Nobu",
+    "prompt": "Nobu from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/288387.jpg?s=40cd19b80a77013c75753223b3549370"
+  },
+  {
+    "name": "O-Hatsu",
+    "prompt": "O-Hatsu from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/288378.jpg?s=44f4f1caf77b34a68cfabdfea81ba707"
+  },
+  {
+    "name": "Ogin",
+    "prompt": "Ogin from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/288367.jpg?s=3b4999acab2016c66669a18798019d94"
+  },
+  {
+    "name": "Ogura, Bunta",
+    "prompt": "Ogura, Bunta from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/53500.jpg?s=6f9e394639038eff6e0c79695f2cc984"
+  },
+  {
+    "name": "Okuru",
+    "prompt": "Okuru from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/53514.jpg?s=3ff836ff361fac9c58b8def6ae76281d"
+  },
+  {
+    "name": "Oniwakamaru",
+    "prompt": "Oniwakamaru from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/53510.jpg?s=d65f03f14a6ffdd24175995f3967aec6"
+  },
+  {
+    "name": "Oryuu",
+    "prompt": "Oryuu from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/288369.jpg?s=a08a4bfe362eba786ffa1d6a52650c85"
+  },
+  {
+    "name": "Oshaberi, Ichiemon",
+    "prompt": "Oshaberi, Ichiemon from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/53511.jpg?s=e38e76b2059e7c689467efc7a76334ac"
+  },
+  {
+    "name": "Oshou, Ingen",
+    "prompt": "Oshou, Ingen from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/288373.jpg?s=f0212aba2bf95cedf3fbcf25c34435c0"
+  },
+  {
+    "name": "Oshou",
+    "prompt": "Oshou from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/171721.jpg?s=0597cb8be49adaa903e29ddacc75ba1f"
+  },
+  {
+    "name": "Osuzu",
+    "prompt": "Osuzu from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/53521.jpg?s=d0e289482a6eb8b3f9a418d6aa015cac"
+  },
+  {
+    "name": "Penta",
+    "prompt": "Penta from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/288402.jpg?s=d9a39e07a47de2c2e117a46f7f79c67d"
+  },
+  {
+    "name": "Roujyu",
+    "prompt": "Roujyu from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/288406.jpg?s=74c176c5a7889c49f4529c14f0827eab"
+  },
+  {
+    "name": "Roukishi",
+    "prompt": "Roukishi from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/288370.jpg?s=079c086e3c0d96f279e82b5bd3c6d044"
+  },
+  {
+    "name": "Ryuu",
+    "prompt": "Ryuu from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/288388.jpg?s=1769eaf79f97069825358fa5a88ab9d1"
+  },
+  {
+    "name": "Sabini",
+    "prompt": "Sabini from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/288400.jpg?s=fa7041fb801d1bfb88d80e449feb8703"
+  },
+  {
+    "name": "Sakami, Manzou",
+    "prompt": "Sakami, Manzou from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/53499.jpg?s=c9415709c20ab8e8566e0197f64b8956"
+  },
+  {
+    "name": "Sakonshougen, Nagamitsu",
+    "prompt": "Sakonshougen, Nagamitsu from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/53530.jpg?s=98aea2582b5ec80f58bf98f536293272"
+  },
+  {
+    "name": "Sara",
+    "prompt": "Sara from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/171551.jpg?s=159fb5d827d62ebf5be1fbf1a3a51716"
+  },
+  {
+    "name": "Sasaki, Ryujiro",
+    "prompt": "Sasaki, Ryujiro from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/53498.jpg?s=733f827eac46d73acc0453d470b2772f"
+  },
+  {
+    "name": "Satsuma Official",
+    "prompt": "Satsuma Official from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/288386.jpg?s=7438d7999209dfbe56c17866f2c80b90"
+  },
+  {
+    "name": "Sawa",
+    "prompt": "Sawa from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/288371.jpg?s=1f99c759322ac6fb7464075e09eeef72"
+  },
+  {
+    "name": "Shibui, Matsunosuke",
+    "prompt": "Shibui, Matsunosuke from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/53497.jpg?s=e5722d0b925432326dbaff40d1605e36"
+  },
+  {
+    "name": "Shibui, Tomonoshin",
+    "prompt": "Shibui, Tomonoshin from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/53496.jpg?s=2591bf2ce8509cd19073c3e8f867de6c"
+  },
+  {
+    "name": "Shino",
+    "prompt": "Shino from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/53512.jpg?s=f443bacfe789862d53b5b6308ea061ba"
+  },
+  {
+    "name": "Shinpachi",
+    "prompt": "Shinpachi from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/284812.jpg?s=a02abdedcac81cd3c9f29769fa454305"
+  },
+  {
+    "name": "Shinsuke",
+    "prompt": "Shinsuke from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/53519.jpg?s=92d6d0fcfbb8d5f43d13e026945a7f73"
+  },
+  {
+    "name": "Shiren",
+    "prompt": "Shiren from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/170463.jpg?s=7dbd1a25f4c1f1e46d2ba779b5ff1b56"
+  },
+  {
+    "name": "Shoryu",
+    "prompt": "Shoryu from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/90249.jpg?s=b300100a7282374b3854a441a772106f"
+  },
+  {
+    "name": "Sukeemon, Tanaka",
+    "prompt": "Sukeemon, Tanaka from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/288375.jpg?s=34114186b13da424702fbfa383779f70"
+  },
+  {
+    "name": "Suzukichi",
+    "prompt": "Suzukichi from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/288395.jpg?s=28f0c761bb2c887346f7fb125d0c95eb"
+  },
+  {
+    "name": "Tamoto",
+    "prompt": "Tamoto from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/288392.jpg?s=c8460466071d01d345472eff26100d7d"
+  },
+  {
+    "name": "Uhori",
+    "prompt": "Uhori from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/286065.jpg?s=7d33853d92d5712e618f7de32f37fee7"
+  },
+  {
+    "name": "Umanosuke",
+    "prompt": "Umanosuke from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/171717.jpg?s=0d47e30932ec372597f70600fa321f8a"
+  },
+  {
+    "name": "Yamane",
+    "prompt": "Yamane from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/171553.jpg?s=271aaa83621e7ec8cc1d30fccfd1a048"
+  },
+  {
+    "name": "Yoshijiro",
+    "prompt": "Yoshijiro from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/288397.jpg?s=039ef92dc4c151a2b5aa4d33bc7cf914"
+  },
+  {
+    "name": "Yoshikichi",
+    "prompt": "Yoshikichi from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/288407.jpg?s=bd321042dbb7c3c7bb1c4fc8e0e2c971"
+  },
+  {
+    "name": "Yukimaru",
+    "prompt": "Yukimaru from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/291847.jpg?s=2aa8e7b35254d58fa663631874808b04"
+  },
+  {
+    "name": "Yuri",
+    "prompt": "Yuri from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/171549.jpg?s=48454a443f9f848597f0894e1bd0c9ca"
+  },
+  {
+    "name": "Zuikou",
+    "prompt": "Zuikou from Samurai Champloo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/288384.jpg?s=d6eb84e84fef2c206e8cefe853c0ecbb"
+  }
+]

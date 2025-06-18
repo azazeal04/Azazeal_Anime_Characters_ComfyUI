@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Date, Masamune",
+    "prompt": "Date, Masamune from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/561608.jpg?s=5a6623258d3df17d94b5cad4254662db"
+  },
+  {
+    "name": "Oda, Nobunaga",
+    "prompt": "Oda, Nobunaga from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/561611.jpg?s=b155dd70f97df4a6d286b9f5de5854fe"
+  },
+  {
+    "name": "Sanada, Yukimura",
+    "prompt": "Sanada, Yukimura from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/561610.jpg?s=b722192e8d896587c466297755a98c28"
+  },
+  {
+    "name": "Takeda, Shingen",
+    "prompt": "Takeda, Shingen from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/561609.jpg?s=3d7a35dc61e231fb0d265c63a29b2e4c"
+  },
+  {
+    "name": "Toyotomi, Hideyoshi",
+    "prompt": "Toyotomi, Hideyoshi from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/561607.jpg?s=198e966f563a5049621c241ac4b59615"
+  },
+  {
+    "name": "Uesugi, Kenshin",
+    "prompt": "Uesugi, Kenshin from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/561606.jpg?s=8ee99941a4ecc0917a04304bf71d2af0"
+  },
+  {
+    "name": "Yuzuki",
+    "prompt": "Yuzuki from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/341267.jpg?s=d9faadefd89817a02c73c8624d17a7ce"
+  },
+  {
+    "name": "Akechi, Mitsuhide",
+    "prompt": "Akechi, Mitsuhide from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/341245.jpg?s=7d91f622c0f4b12a70c15bb179c6f3c9"
+  },
+  {
+    "name": "Amakasu, Kagemochi",
+    "prompt": "Amakasu, Kagemochi from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/341250.jpg?s=adb59d2591bfff8682af20ac6ea6f5ee"
+  },
+  {
+    "name": "Baba, Nobuhara",
+    "prompt": "Baba, Nobuhara from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/341257.jpg?s=54d14a2a2790d9104d75885d4055049c"
+  },
+  {
+    "name": "Date, Shigezane",
+    "prompt": "Date, Shigezane from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/341265.jpg?s=a4d519420df2d43f69f1fd5c6aa87d9f"
+  },
+  {
+    "name": "Imari",
+    "prompt": "Imari from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/341268.jpg?s=58047ae9e3de681e647baef594200a08"
+  },
+  {
+    "name": "Ishida, Mitsunari",
+    "prompt": "Ishida, Mitsunari from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/341238.jpg?s=dfa1ef3ad482de22bb97797bf15a28c4"
+  },
+  {
+    "name": "Kakizaki, Kageie",
+    "prompt": "Kakizaki, Kageie from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/341249.jpg?s=4f668d1789e43e476445cd5d2cb0d015"
+  },
+  {
+    "name": "Katakura, Kojuurou",
+    "prompt": "Katakura, Kojuurou from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/341266.jpg?s=b151901fbaf269acf00cb7bc6c1be77b"
+  },
+  {
+    "name": "Kirigakure, Saizou",
+    "prompt": "Kirigakure, Saizou from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/341261.jpg?s=e1ef2c4756af9404b090c712f9ca13aa"
+  },
+  {
+    "name": "Kousaka, Masanobu",
+    "prompt": "Kousaka, Masanobu from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/341255.jpg?s=a58d8e947c506423cca35c3d2ec36315"
+  },
+  {
+    "name": "Kuroda, Kanbee",
+    "prompt": "Kuroda, Kanbee from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/341239.jpg?s=c96b14b4a1322e25f653771f0dc43b1a"
+  },
+  {
+    "name": "Maeda, Toshiie",
+    "prompt": "Maeda, Toshiie from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/341241.jpg?s=3d1fd8e8a72799fd46ee9d7ff72f6452"
+  },
+  {
+    "name": "Mori, Ranmaru",
+    "prompt": "Mori, Ranmaru from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/341244.jpg?s=26a0748bdfbd1ea7e925e7609046f3af"
+  },
+  {
+    "name": "Naitou, Masatoyo",
+    "prompt": "Naitou, Masatoyo from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/341256.jpg?s=30d4c92f3a690839978cbdf98d35f26e"
+  },
+  {
+    "name": "Naoe, Kanetsugu",
+    "prompt": "Naoe, Kanetsugu from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/341252.jpg?s=dad9f3c612a2c6bf65012f7ce4051b9a"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Niwa, Nagahide",
+    "prompt": "Niwa, Nagahide from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/341247.jpg?s=b454b3d4171a140da904ece8757d2ea6"
+  },
+  {
+    "name": "Sanada, Nobuyuki",
+    "prompt": "Sanada, Nobuyuki from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/341259.jpg?s=05b97a934da0760f75a9dfbf49fe8ab1"
+  },
+  {
+    "name": "Sarutobi, Sasuke",
+    "prompt": "Sarutobi, Sasuke from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/341260.jpg?s=5d29efc0eba634835ab55bc46275f095"
+  },
+  {
+    "name": "Shibata, Katsuie",
+    "prompt": "Shibata, Katsuie from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/341246.jpg?s=73c5d9afd15075066569947b0867c936"
+  },
+  {
+    "name": "Takenaka, Hanbee",
+    "prompt": "Takenaka, Hanbee from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/341240.jpg?s=182ce815f4c9e5f50ef3b919856335c8"
+  },
+  {
+    "name": "Uesugi, Kagekatsu",
+    "prompt": "Uesugi, Kagekatsu from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/341251.jpg?s=4d6d431b6551a4b4b1b7e56ffbc77c89"
+  },
+  {
+    "name": "Yamagata, Masakage",
+    "prompt": "Yamagata, Masakage from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/341254.jpg?s=31871915992f87bd2114a37ba247fd43"
+  },
+  {
+    "name": "Yuri, Kamanosuke",
+    "prompt": "Yuri, Kamanosuke from Sengoku Night Blood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/341262.jpg?s=f63050d5216d8b84d23ccb92e69111ff"
+  }
+]

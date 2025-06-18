@@ -1,0 +1,567 @@
+[
+  {
+    "name": "Dokuro, Chrome",
+    "prompt": "Dokuro, Chrome from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/47170.jpg?s=882cfd7a1b47a2408115deda01e94b9f"
+  },
+  {
+    "name": "Gokudera, Hayato",
+    "prompt": "Gokudera, Hayato from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/61975.jpg?s=10a4c8ae8fa28202442219e7432d59ac"
+  },
+  {
+    "name": "Hibari, Kyouya",
+    "prompt": "Hibari, Kyouya from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/107841.jpg?s=3b6b31dd9811be8865a84757391bb271"
+  },
+  {
+    "name": "Lambo",
+    "prompt": "Lambo from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/103074.jpg?s=d7f1b2e77aea8f59ca327757a1d066f1"
+  },
+  {
+    "name": "Reborn",
+    "prompt": "Reborn from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/64542.jpg?s=f1d50bff5048eeae97105f9a6a4ec395"
+  },
+  {
+    "name": "Rokudou, Mukuro",
+    "prompt": "Rokudou, Mukuro from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/47183.jpg?s=2bfdad6bebe8cc4f7ee2c2ab25830ac9"
+  },
+  {
+    "name": "Sasagawa, Ryouhei",
+    "prompt": "Sasagawa, Ryouhei from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/107843.jpg?s=35c67df54602bb70a8f821506b0c8539"
+  },
+  {
+    "name": "Sawada, Tsunayoshi",
+    "prompt": "Sawada, Tsunayoshi from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/76730.jpg?s=6b0ecda7b36f2ed422be4f64303b8563"
+  },
+  {
+    "name": "Yamamoto, Takeshi",
+    "prompt": "Yamamoto, Takeshi from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/161411.jpg?s=4c6334ccfb5ba07aa1ce792ee38b4e3d"
+  },
+  {
+    "name": "Abe, Osamu",
+    "prompt": "Abe, Osamu from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/61950.jpg?s=9294819503cd6401d1837d80201f540e"
+  },
+  {
+    "name": "Alaude",
+    "prompt": "Alaude from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/131387.jpg?s=f4ef21cb7bcdce8965c23eb0cd42c7b6"
+  },
+  {
+    "name": "Arachide, Brothers",
+    "prompt": "Arachide, Brothers from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/511040.jpg?s=fe39ea06d98a8f878d82b0d2c3da9afc"
+  },
+  {
+    "name": "Aria",
+    "prompt": "Aria from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/104216.jpg?s=6b13a64c61f98ac87d9b9166c486d327"
+  },
+  {
+    "name": "Asari, Ugetsu",
+    "prompt": "Asari, Ugetsu from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/84532.jpg?s=b132d8e1851fb98c5c505e302e758df1"
+  },
+  {
+    "name": "Baishana",
+    "prompt": "Baishana from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/43551.jpg?s=f859c69a53fac7b62e3b706afbc3cc5b"
+  },
+  {
+    "name": "Basil",
+    "prompt": "Basil from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/32882.jpg?s=b55b4cf7cac634c3feb1ff62be0a1f2e"
+  },
+  {
+    "name": "Beankabul, Nigella",
+    "prompt": "Beankabul, Nigella from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/47873.jpg?s=e3b3088fbfffe66d8e15adc8abf845cd"
+  },
+  {
+    "name": "Belphegor",
+    "prompt": "Belphegor from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/32888.jpg?s=28a80db1db65c547ecca4ded67014ea1"
+  },
+  {
+    "name": "Bester",
+    "prompt": "Bester from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/86102.jpg?s=ab98d0e0e2c690df227bb60e6b364041"
+  },
+  {
+    "name": "Bianchi",
+    "prompt": "Bianchi from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/32881.jpg?s=60d1c411222e5e046b3d6cf71e66fdd0"
+  },
+  {
+    "name": "Birds",
+    "prompt": "Birds from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/56072.jpg?s=afcd61016e66c098dd9ec4250e276ec0"
+  },
+  {
+    "name": "Bluebell",
+    "prompt": "Bluebell from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/114205.jpg?s=50ca19d970b26c1237b9a6ec8df281c5"
+  },
+  {
+    "name": "Bono",
+    "prompt": "Bono from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/38509.jpg?s=6cceca1a6ac7c1cd3c01270b99d95e46"
+  },
+  {
+    "name": "Byakuran",
+    "prompt": "Byakuran from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/90548.jpg?s=bd945083f1491c202bbe1b838351dd7b"
+  },
+  {
+    "name": "Cavallone, Dino",
+    "prompt": "Cavallone, Dino from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/43367.jpg?s=6c9d42bdacb7d766bdc2c316e1bf2590"
+  },
+  {
+    "name": "Cervello",
+    "prompt": "Cervello from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/130067.jpg?s=594b6a4dbc74408dfc7ae8816b704127"
+  },
+  {
+    "name": "Coach Enomoto",
+    "prompt": "Coach Enomoto from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/61943.jpg?s=b67b6990677ff2ffdfa9541ec5b1532e"
+  },
+  {
+    "name": "Colonnello",
+    "prompt": "Colonnello from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/59258.jpg?s=5b2927ce9a6d671767d39e29c6549f03"
+  },
+  {
+    "name": "Daisy",
+    "prompt": "Daisy from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/147277.jpg?s=b7b8d86564d34a4879fcce47c6f6eabf"
+  },
+  {
+    "name": "Daniela",
+    "prompt": "Daniela from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/43352.jpg?s=ecd9ff493a89c6fcaa2a910e8d33b729"
+  },
+  {
+    "name": "de la Stella, Fuuta",
+    "prompt": "de la Stella, Fuuta from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/43356.jpg?s=105ecd97c1d92fcbdfa4f0d1811f0418"
+  },
+  {
+    "name": "Dr. Shamal",
+    "prompt": "Dr. Shamal from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/43335.jpg?s=80405602811dcf20fe9a55855be2c169"
+  },
+  {
+    "name": "Due",
+    "prompt": "Due from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/61944.jpg?s=7767fcd2930ebd68f8ec766e444dbbc4"
+  },
+  {
+    "name": "Enzo",
+    "prompt": "Enzo from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/43546.jpg?s=7b021f0aeaf496ea9fd64fa9f2b2a9c4"
+  },
+  {
+    "name": "Enzo",
+    "prompt": "Enzo from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/55997.jpg?s=cef9a1efdb0e44a656ccbd434147a39c"
+  },
+  {
+    "name": "Fabio",
+    "prompt": "Fabio from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/43351.jpg?s=f573deeb125320f6c31543f5528cc7cd"
+  },
+  {
+    "name": "Fon",
+    "prompt": "Fon from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/96132.jpg?s=3c379f6b96c6d0a0adbaa8d2527f3aff"
+  },
+  {
+    "name": "Fran",
+    "prompt": "Fran from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/118828.jpg?s=b8b6d25bcb4c0e862f00c5cdf9f50d68"
+  },
+  {
+    "name": "G.",
+    "prompt": "G. from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/155091.jpg?s=2594054e2a411fd6e8be855278939f70"
+  },
+  {
+    "name": "Gamma",
+    "prompt": "Gamma from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/93838.jpg?s=8dc6491073df9e24d85ef6672436740a"
+  },
+  {
+    "name": "Genkishi",
+    "prompt": "Genkishi from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/107040.jpg?s=673c1f82361c1e6e230406b881988eb7"
+  },
+  {
+    "name": "Ghost",
+    "prompt": "Ghost from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/114180.jpg?s=3953842c05e824cd33a8d3349767bf17"
+  },
+  {
+    "name": "Giannichi",
+    "prompt": "Giannichi from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/61945.jpg?s=3f72b06f57ba3b4ee80b77d66afb6582"
+  },
+  {
+    "name": "Giannini",
+    "prompt": "Giannini from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/75470.jpg?s=6ff3023d543178ddf605ae151d6c0f5a"
+  },
+  {
+    "name": "Ginger Bread",
+    "prompt": "Ginger Bread from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/96474.jpg?s=07c10b3e22b351fd34a57a86dd80287a"
+  },
+  {
+    "name": "Giotto",
+    "prompt": "Giotto from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/102477.jpg?s=c36abc317fc6f4fa52352829b5d991f7"
+  },
+  {
+    "name": "Gyuudon",
+    "prompt": "Gyuudon from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/99432.jpg?s=05136de4d3bf813a0db4c6e94041231d"
+  },
+  {
+    "name": "Hepburn, Iris",
+    "prompt": "Hepburn, Iris from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/62503.jpg?s=1404d4e215c132438cee8c6a6426c80a"
+  },
+  {
+    "name": "Hibird",
+    "prompt": "Hibird from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/97515.jpg?s=4051002abb4eda7126f0a636013f364c"
+  },
+  {
+    "name": "I-Pin",
+    "prompt": "I-Pin from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/81851.jpg?s=e270fc946cd5a4541d021161b13b1ba6"
+  },
+  {
+    "name": "Irie, Shouichi",
+    "prompt": "Irie, Shouichi from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/38359.jpg?s=b0d68f01bdfe04c0a85215bcf8d9f84a"
+  },
+  {
+    "name": "Ivan",
+    "prompt": "Ivan from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/48838.jpg?s=8e09c4178226e52d879ab12a9449a836"
+  },
+  {
+    "name": "Jirou",
+    "prompt": "Jirou from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/99930.jpg?s=11121387e00edd83e5cef2d5377adda5"
+  },
+  {
+    "name": "Joshima, Ken",
+    "prompt": "Joshima, Ken from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/79508.jpg?s=d5b6a271730b22086b4786bace50e64d"
+  },
+  {
+    "name": "Kakimoto, Chikusa",
+    "prompt": "Kakimoto, Chikusa from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/43326.jpg?s=187255220020ba28c5d225ec3715fe95"
+  },
+  {
+    "name": "Kawahira, Uncle",
+    "prompt": "Kawahira, Uncle from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/93410.jpg?s=60fd677148cedbf9f992e7379ae8de1a"
+  },
+  {
+    "name": "Kikyou",
+    "prompt": "Kikyou from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/114206.jpg?s=341b14b75213082e565f0ac23b895828"
+  },
+  {
+    "name": "Knuckle",
+    "prompt": "Knuckle from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/102824.jpg?s=440a12ec2c6379dbd61a5d0f72cf6b6e"
+  },
+  {
+    "name": "Kojirou",
+    "prompt": "Kojirou from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/99932.jpg?s=45907742269d257ca967fc2bdeaf9422"
+  },
+  {
+    "name": "Kurokawa, Hana",
+    "prompt": "Kurokawa, Hana from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/43329.jpg?s=73b6a7021fc9944962f1fcd4c4905330"
+  },
+  {
+    "name": "Kusakabe, Tetsuya",
+    "prompt": "Kusakabe, Tetsuya from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/96471.jpg?s=f46fdda5364aa7bbe35d7b16c4f8b499"
+  },
+  {
+    "name": "Lampo",
+    "prompt": "Lampo from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/102842.jpg?s=c7dfda656f2bd59352360c4e05dfd029"
+  },
+  {
+    "name": "Lancia",
+    "prompt": "Lancia from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/43336.jpg?s=0814dd323629f8d60abac00ac2831f5a"
+  },
+  {
+    "name": "Lavina",
+    "prompt": "Lavina from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/158149.jpg?s=908e18298b706b1836a4df97d3047660"
+  },
+  {
+    "name": "Leon",
+    "prompt": "Leon from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/89835.jpg?s=3c012709171ec390262cd2f627746891"
+  },
+  {
+    "name": "Leviathan",
+    "prompt": "Leviathan from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/75456.jpg?s=fb827158900a5d3784ece02ee7256e0e"
+  },
+  {
+    "name": "Lippi, Leonardo",
+    "prompt": "Lippi, Leonardo from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/47874.jpg?s=26d49e8f10d8477cb81f7e5f559eb833"
+  },
+  {
+    "name": "Luce",
+    "prompt": "Luce from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/72027.jpg?s=f7210e3be461d18a35e79157de6da453"
+  },
+  {
+    "name": "Lussuria",
+    "prompt": "Lussuria from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/32884.jpg?s=cfda833d2e20d79bfedc311c4b71dc66"
+  },
+  {
+    "name": "M.M.",
+    "prompt": "M.M. from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/75338.jpg?s=fe2f71c39962457b4878e0747da740d8"
+  },
+  {
+    "name": "Mammon",
+    "prompt": "Mammon from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/82770.jpg?s=06b3268c8677ea1d8a8398add08fc556"
+  },
+  {
+    "name": "Mink",
+    "prompt": "Mink from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/104481.jpg?s=81dffb69e9c0ab5e9763c6090f67e39a"
+  },
+  {
+    "name": "Mirch, Lal",
+    "prompt": "Mirch, Lal from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/57519.jpg?s=8e182def3478da98a6ef5af9ed7065b3"
+  },
+  {
+    "name": "Miura, Haru",
+    "prompt": "Miura, Haru from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/78764.jpg?s=e9b09f67cbd92a865d218ac57d57e859"
+  },
+  {
+    "name": "Mochida, Kensuke",
+    "prompt": "Mochida, Kensuke from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/48272.jpg?s=c859b8a0e5ed39a31a86d9ca4bfb0131"
+  },
+  {
+    "name": "Moretti",
+    "prompt": "Moretti from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/57057.jpg?s=17e50b0e04c8578a6e9753b557d2ce40"
+  },
+  {
+    "name": "Mosca, Gola",
+    "prompt": "Mosca, Gola from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/61947.jpg?s=3cfdf63218dfa763432d97bf9dfd828d"
+  },
+  {
+    "name": "Natsu",
+    "prompt": "Natsu from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/85119.jpg?s=adf2d7f8b5a14ad48dc06a3c735eb447"
+  },
+  {
+    "name": "Nosaru",
+    "prompt": "Nosaru from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/43333.jpg?s=566fd9d14e6211c46832ad885c8c3440"
+  },
+  {
+    "name": "Oregano",
+    "prompt": "Oregano from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/61949.jpg?s=e4b67de682f7070e1dc0c6f52788ac92"
+  },
+  {
+    "name": "Paulo",
+    "prompt": "Paulo from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/55995.jpg?s=f53a308b4fc2fbf9189afd226fd14bcb"
+  },
+  {
+    "name": "Rasiel",
+    "prompt": "Rasiel from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/75904.jpg?s=099b5743d9f6ff8c2790862f6d98c52c"
+  },
+  {
+    "name": "Ricardo",
+    "prompt": "Ricardo from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/43346.jpg?s=26041431ce6e21fd8fa14a7ad17595b3"
+  },
+  {
+    "name": "Roll",
+    "prompt": "Roll from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/102840.jpg?s=6144b30624a9b0ecf4a4f64e857eeef1"
+  },
+  {
+    "name": "Romario",
+    "prompt": "Romario from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/60007.jpg?s=74245c23f3ab245e2df650b70287365a"
+  },
+  {
+    "name": "Romeo",
+    "prompt": "Romeo from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/60009.jpg?s=b1473a9b0d8d89abf04bf42c3ecfe90b"
+  },
+  {
+    "name": "Rossie",
+    "prompt": "Rossie from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/55996.jpg?s=1521a086a539b601a5909bd5b571fae7"
+  },
+  {
+    "name": "Sasagawa, Kyouko",
+    "prompt": "Sasagawa, Kyouko from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/137461.jpg?s=88cf256186f27c8e285c62e2feb29225"
+  },
+  {
+    "name": "Sawada, Iemitsu",
+    "prompt": "Sawada, Iemitsu from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/43330.jpg?s=02d085d4a27b44eecddebd79f80cdc69"
+  },
+  {
+    "name": "Sawada, Nana",
+    "prompt": "Sawada, Nana from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/97115.jpg?s=68f3748cacf645fec885323587d8532e"
+  },
+  {
+    "name": "Simora",
+    "prompt": "Simora from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/43350.jpg?s=ad2250c97485cab244f0ee128277cd74"
+  },
+  {
+    "name": "Skull",
+    "prompt": "Skull from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/57119.jpg?s=3f0ce0d3d8abb43fc3f37ac87e52a3f2"
+  },
+  {
+    "name": "Spade, Daemon",
+    "prompt": "Spade, Daemon from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/131385.jpg?s=433b63fda236aa68ffeb5a414799fbe9"
+  },
+  {
+    "name": "Spanner",
+    "prompt": "Spanner from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/57544.jpg?s=3377ac34370dd697cca90f5b40aeadf0"
+  },
+  {
+    "name": "Squalo, Superbi",
+    "prompt": "Squalo, Superbi from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/75694.jpg?s=8626be889d45c8de71507e6a90fb2a77"
+  },
+  {
+    "name": "Tazaru",
+    "prompt": "Tazaru from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/43334.jpg?s=3882f2313ea7e9b49046e1c8c6bfdda1"
+  },
+  {
+    "name": "Timoteo",
+    "prompt": "Timoteo from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/43353.jpg?s=30c69780edf75821438281ea78a554fe"
+  },
+  {
+    "name": "Toras",
+    "prompt": "Toras from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/61951.jpg?s=53dec60fe2302fec6a991549b9f6cfce"
+  },
+  {
+    "name": "Torikabuto",
+    "prompt": "Torikabuto from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/114182.jpg?s=d4541fdaff2995b3a390be42e2133ac1"
+  },
+  {
+    "name": "Tre",
+    "prompt": "Tre from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/61953.jpg?s=c680ccac9b657027263bbc7c7cfd9eef"
+  },
+  {
+    "name": "Turmeric",
+    "prompt": "Turmeric from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/61954.jpg?s=b17de1ba32b1212c3baac4482abdb5cf"
+  },
+  {
+    "name": "Uni",
+    "prompt": "Uni from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/59484.jpg?s=2e65efb43975dd356bfa883124f82b2f"
+  },
+  {
+    "name": "Uno",
+    "prompt": "Uno from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/61955.jpg?s=af88b0001b0be360394b020a20821387"
+  },
+  {
+    "name": "Uri",
+    "prompt": "Uri from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/43542.jpg?s=501877e9b13cd4f34e18662256a9e0dc"
+  },
+  {
+    "name": "Valensa",
+    "prompt": "Valensa from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/61952.jpg?s=b2f7ca7977ce3bf041884cbcfa4efa39"
+  },
+  {
+    "name": "Verde",
+    "prompt": "Verde from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/66835.jpg?s=0b3fcc24153ace7f614b989c12382d2f"
+  },
+  {
+    "name": "Vongola III",
+    "prompt": "Vongola III from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/43347.jpg?s=81d592df3b9d48dd9e8d59838a457469"
+  },
+  {
+    "name": "Vongola IV",
+    "prompt": "Vongola IV from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/43348.jpg?s=581815b04402cc34036e619bad0662b2"
+  },
+  {
+    "name": "Vongola V",
+    "prompt": "Vongola V from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/43349.jpg?s=978adc41a8847ca617dbf60cdaf84615"
+  },
+  {
+    "name": "Xanxus",
+    "prompt": "Xanxus from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/146401.jpg?s=358c505eaa3dc916e040dd4a7f6c81de"
+  },
+  {
+    "name": "Xinia, Glo",
+    "prompt": "Xinia, Glo from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/78816.jpg?s=4af27fc7b19ac2df2c458a651f9d0325"
+  },
+  {
+    "name": "Yamamoto, Tsuyoshi",
+    "prompt": "Yamamoto, Tsuyoshi from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/61948.jpg?s=e3575a6aee682e569333e00c6fcb959f"
+  },
+  {
+    "name": "Zakuro",
+    "prompt": "Zakuro from Katekyou Hitman Reborn!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/114184.jpg?s=552ea3a6c0b6f6b6afd176b0b6ad243a"
+  }
+]

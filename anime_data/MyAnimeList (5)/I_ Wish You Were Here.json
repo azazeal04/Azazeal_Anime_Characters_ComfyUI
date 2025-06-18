@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Ai",
+    "prompt": "Ai from I: Wish You Were Here",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/158531.jpg?s=7ec1bad50c1ddda978d0e6bb684e5507"
+  },
+  {
+    "name": "Diva",
+    "prompt": "Diva from I: Wish You Were Here",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/109285.jpg?s=2c5f2edf014737d00f787ff6cf5057a8"
+  },
+  {
+    "name": "Tamiya, Yuuji",
+    "prompt": "Tamiya, Yuuji from I: Wish You Were Here",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/109286.jpg?s=b9a2e8661fc92a760dbb250ab32adb3b"
+  },
+  {
+    "name": "Changpuek",
+    "prompt": "Changpuek from I: Wish You Were Here",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Domeki",
+    "prompt": "Domeki from I: Wish You Were Here",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kaneshiro, Hiroyuki",
+    "prompt": "Kaneshiro, Hiroyuki from I: Wish You Were Here",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kudou, Hajime",
+    "prompt": "Kudou, Hajime from I: Wish You Were Here",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/109287.jpg?s=304b13b8e80cc4ab2c85615747c14362"
+  },
+  {
+    "name": "Kurosawa, Naoki",
+    "prompt": "Kurosawa, Naoki from I: Wish You Were Here",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mitsuishi, Misao",
+    "prompt": "Mitsuishi, Misao from I: Wish You Were Here",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/109288.jpg?s=1b9a684a6e1b95f0ff0e97f44b397851"
+  },
+  {
+    "name": "Satake, Mitsuo",
+    "prompt": "Satake, Mitsuo from I: Wish You Were Here",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tao",
+    "prompt": "Tao from I: Wish You Were Here",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tatsumi, Shinji",
+    "prompt": "Tatsumi, Shinji from I: Wish You Were Here",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

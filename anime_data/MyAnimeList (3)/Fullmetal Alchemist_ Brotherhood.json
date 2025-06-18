@@ -1,0 +1,582 @@
+[
+  {
+    "name": "Elric, Alphonse",
+    "prompt": "Elric, Alphonse from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/54265.jpg?s=65c1a674adae3d7c5740d5711517285a"
+  },
+  {
+    "name": "Elric, Edward",
+    "prompt": "Elric, Edward from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/72533.jpg?s=d38cf4e2e5cbb46ddaf2b23345a03eae"
+  },
+  {
+    "name": "Armstrong, Mother",
+    "prompt": "Armstrong, Mother from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/544379.jpg?s=6c43517644a0f6bd1deda0426df12dfd"
+  },
+  {
+    "name": "Armstrong, Olivier Mira",
+    "prompt": "Armstrong, Olivier Mira from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/83953.jpg?s=616c3cbf0f0a02068ac4f9bf7e52c746"
+  },
+  {
+    "name": "Armstrong, Alex Louis",
+    "prompt": "Armstrong, Alex Louis from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/71066.jpg?s=c20e0eaade03719e6637e381a63c8154"
+  },
+  {
+    "name": "Armstrong, Philip Gargantos",
+    "prompt": "Armstrong, Philip Gargantos from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/177627.jpg?s=5e7c3f6ed6d1a87c3d327a9fde6bdb68"
+  },
+  {
+    "name": "Armstrong, Kathleen Elle",
+    "prompt": "Armstrong, Kathleen Elle from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/80951.jpg?s=3aa6cce3cb9f8c3080771bc4960eabbf"
+  },
+  {
+    "name": "Barry the Chopper",
+    "prompt": "Barry the Chopper from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/52723.jpg?s=ae88023ff5b97c95f191e228f6543e3c"
+  },
+  {
+    "name": "Bido",
+    "prompt": "Bido from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/56215.jpg?s=b5a4372968023b6dec7cd7ae283563cc"
+  },
+  {
+    "name": "Black Hayate",
+    "prompt": "Black Hayate from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/81547.jpg?s=fc3b02fa7a612d9197588646c078cbd7"
+  },
+  {
+    "name": "Bobby",
+    "prompt": "Bobby from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/473873.jpg?s=b1eb0b078de7156c08601714498d009b"
+  },
+  {
+    "name": "Bradley, King",
+    "prompt": "Bradley, King from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/62053.jpg?s=181ba72d4c6ba5605bbfb63f1812f876"
+  },
+  {
+    "name": "Bradley, Mrs.",
+    "prompt": "Bradley, Mrs. from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/94407.jpg?s=5922f75f64fa7f051cce6010ad84e217"
+  },
+  {
+    "name": "Bradley, Selim",
+    "prompt": "Bradley, Selim from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/71041.jpg?s=8a07302c357dca92f5aa20b76cba70e7"
+  },
+  {
+    "name": "Breda, Heymans",
+    "prompt": "Breda, Heymans from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/59486.jpg?s=3503b220a08366acc20c611d2ba9d6eb"
+  },
+  {
+    "name": "Briggs Doctor",
+    "prompt": "Briggs Doctor from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/572984.jpg?s=09f95f4c9dc17595fa91ad9aab2c43ce"
+  },
+  {
+    "name": "Brosh, Denny",
+    "prompt": "Brosh, Denny from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/56211.jpg?s=78276f2cedaad6a24096800649869f38"
+  },
+  {
+    "name": "Buccaneer",
+    "prompt": "Buccaneer from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/71767.jpg?s=91b1c244d76146f776e956d293379ea5"
+  },
+  {
+    "name": "Catalina, Rebecca",
+    "prompt": "Catalina, Rebecca from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/92192.jpg?s=c7f8432e54deeb2611994a893dccac0a"
+  },
+  {
+    "name": "Chang, Mei",
+    "prompt": "Chang, Mei from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/80248.jpg?s=0e6976dff1fa9de9242c0842a375c815"
+  },
+  {
+    "name": "Charlie",
+    "prompt": "Charlie from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/177589.jpg?s=e29a9ec0ed5e8a90eaeb6b8f42b96d59"
+  },
+  {
+    "name": "Clemin",
+    "prompt": "Clemin from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/572644.jpg?s=ccf89d0a7c17f5c27fcbd4283040754a"
+  },
+  {
+    "name": "Comanche, Giolio",
+    "prompt": "Comanche, Giolio from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/467571.jpg?s=0892865268247155e87f1c784bf15dbc"
+  },
+  {
+    "name": "Cornello",
+    "prompt": "Cornello from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/57099.jpg?s=1171e6b466639bbfb82662be000fdaa9"
+  },
+  {
+    "name": "Cray",
+    "prompt": "Cray from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/62117.jpg?s=cdd99f5dd5abaad989b734eb548f0249"
+  },
+  {
+    "name": "Curtis, Izumi",
+    "prompt": "Curtis, Izumi from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/85257.jpg?s=5e70b5c47afc7e05e9e5398bc8d2ea50"
+  },
+  {
+    "name": "Curtis, Sig",
+    "prompt": "Curtis, Sig from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/55433.jpg?s=c3a9b7b30287a53710c47c99763e9b59"
+  },
+  {
+    "name": "Damiano",
+    "prompt": "Damiano from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/303010.jpg?s=4da33da204e7acd42b9df451bdfe07ca"
+  },
+  {
+    "name": "Darius",
+    "prompt": "Darius from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/79965.jpg?s=6d1aa74e323b235579ec8a7c8b4e9470"
+  },
+  {
+    "name": "Dolcetto",
+    "prompt": "Dolcetto from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/81606.jpg?s=9f0dc9a3eafa34ff56e787fbc199a5dd"
+  },
+  {
+    "name": "Douglas, Henry",
+    "prompt": "Douglas, Henry from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/571621.jpg?s=92763413bfd7e083c91c76389578e293"
+  },
+  {
+    "name": "Dr. Knox",
+    "prompt": "Dr. Knox from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/69691.jpg?s=12d0831163c602813fd366daf0f8bd9b"
+  },
+  {
+    "name": "Edison",
+    "prompt": "Edison from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/572770.jpg?s=37ad33ea6c33934f1142e534a9144db8"
+  },
+  {
+    "name": "Elric, Trisha",
+    "prompt": "Elric, Trisha from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/59741.jpg?s=df3cb44032001d440f9211ba829092c3"
+  },
+  {
+    "name": "Envy",
+    "prompt": "Envy from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/79027.jpg?s=4bcce514aa7b51d229ffd84a0a4976d5"
+  },
+  {
+    "name": "Falman, Vato",
+    "prompt": "Falman, Vato from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/78857.jpg?s=6f336972167620562a1c38cfae5dd646"
+  },
+  {
+    "name": "Fessler",
+    "prompt": "Fessler from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/572827.jpg?s=c233133823a3181f3600e7e9b8a172b8"
+  },
+  {
+    "name": "Fokker",
+    "prompt": "Fokker from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/222877.jpg?s=8a6d4aabd549ab6b25100928aea3fbc6"
+  },
+  {
+    "name": "Fox",
+    "prompt": "Fox from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/572820.jpg?s=f0d55af00157bf65deb941cb31c675a8"
+  },
+  {
+    "name": "Fu",
+    "prompt": "Fu from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/70274.jpg?s=6ff0886f4ca3ad32641d41bd00ce7f29"
+  },
+  {
+    "name": "Fuery, Kain",
+    "prompt": "Fuery, Kain from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/70276.jpg?s=24c93f1bf437f46a99a542ff4c355518"
+  },
+  {
+    "name": "Gärtner",
+    "prompt": "Gärtner from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/572833.jpg?s=5b92b94a57c2a2e20cc3141bf0e489ee"
+  },
+  {
+    "name": "Gamelan",
+    "prompt": "Gamelan from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/572834.jpg?s=9c56d50aa49668852963d0b23d42cd51"
+  },
+  {
+    "name": "Gardner",
+    "prompt": "Gardner from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/572821.jpg?s=9918d74e56a3cea993bd0e0db2a5e19d"
+  },
+  {
+    "name": "Garfiel",
+    "prompt": "Garfiel from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/95776.jpg?s=4bd100cf304bf6ac9abad08a5b59d858"
+  },
+  {
+    "name": "Gluttony",
+    "prompt": "Gluttony from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/74580.jpg?s=11c714a7cdd5e1f93eb63b797e49f1fd"
+  },
+  {
+    "name": "Gold-Toothed Doctor",
+    "prompt": "Gold-Toothed Doctor from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/572832.jpg?s=77aa0e05f3560dd7b644644665aafa1e"
+  },
+  {
+    "name": "Grand, Basque",
+    "prompt": "Grand, Basque from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/72500.jpg?s=fc85646ad59de0229da2db22bcb6c5e7"
+  },
+  {
+    "name": "Greed",
+    "prompt": "Greed from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/78721.jpg?s=b19bb6258904972030cb3f41917f8a60"
+  },
+  {
+    "name": "Grumman",
+    "prompt": "Grumman from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/81604.jpg?s=0ffaf98f7e3a3310ed9bb1f7d1fa55fd"
+  },
+  {
+    "name": "Hakuro",
+    "prompt": "Hakuro from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/63994.jpg?s=9fc777bc26368e8927637ed9e697d6b0"
+  },
+  {
+    "name": "Halling, Kyle",
+    "prompt": "Halling, Kyle from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/573007.jpg?s=c5aa352982b3cb967e9e9a28e2f49237"
+  },
+  {
+    "name": "Harris",
+    "prompt": "Harris from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/243921.jpg?s=5b5f04da8b72e1c7f1f16ca639db5333"
+  },
+  {
+    "name": "Havoc, Jean",
+    "prompt": "Havoc, Jean from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/76640.jpg?s=5e8ee16c7a24338ca4db42068f9527e2"
+  },
+  {
+    "name": "Hawkeye, Riza",
+    "prompt": "Hawkeye, Riza from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/451785.jpg?s=11bc1988772e66c4fce2ff3dee08b8da"
+  },
+  {
+    "name": "Hawkeye, Berthold",
+    "prompt": "Hawkeye, Berthold from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/402739.jpg?s=36289636a1fea78169d8708c306b8458"
+  },
+  {
+    "name": "Heinkel",
+    "prompt": "Heinkel from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/80244.jpg?s=47f1905820610adc4ccf0c36ebe3485f"
+  },
+  {
+    "name": "Henschel",
+    "prompt": "Henschel from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/572841.jpg?s=9671bc4991c6022d82d30319131d8d67"
+  },
+  {
+    "name": "Hohenheim, Van",
+    "prompt": "Hohenheim, Van from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/80676.jpg?s=9ea1723c8b75fa22716cabfd858d2497"
+  },
+  {
+    "name": "Hohenheim's Master",
+    "prompt": "Hohenheim's Master from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/573010.jpg?s=afb15cf832e719705e58c76c543dcf2c"
+  },
+  {
+    "name": "Homunculus",
+    "prompt": "Homunculus from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/80675.jpg?s=d88162ea44efd5b1b9e6e3ac4ef61158"
+  },
+  {
+    "name": "Hughes, Gracia",
+    "prompt": "Hughes, Gracia from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/59485.jpg?s=a9cb900b97e486aceb626e055967d18b"
+  },
+  {
+    "name": "Hughes, Maes",
+    "prompt": "Hughes, Maes from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/73469.jpg?s=049daccbf5014073c0c8933c5388258a"
+  },
+  {
+    "name": "Hughes, Elicia",
+    "prompt": "Hughes, Elicia from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/53527.jpg?s=fc4d6429738c2e4f65cc7b25fae26f32"
+  },
+  {
+    "name": "Jerso",
+    "prompt": "Jerso from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/303011.jpg?s=07b06a1c0a94023f589e7701d0ff25cf"
+  },
+  {
+    "name": "Karley",
+    "prompt": "Karley from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/303012.jpg?s=49f3e40a903093a3fb99b2e2e613fa12"
+  },
+  {
+    "name": "Kimblee, Solf J.",
+    "prompt": "Kimblee, Solf J. from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/73900.jpg?s=4e06a2216ff671ee62226717168af70e"
+  },
+  {
+    "name": "King of Xerxes",
+    "prompt": "King of Xerxes from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/572856.jpg?s=3a142e0d38b9a2148ceb7cf30ed0121a"
+  },
+  {
+    "name": "Knox's Son",
+    "prompt": "Knox's Son from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/348682.jpg?s=cc8889dcae81bf0b2126aa36ffb96441"
+  },
+  {
+    "name": "Lan Fan",
+    "prompt": "Lan Fan from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/59557.jpg?s=72be2a69e1284b0e0bf092deb460e3f8"
+  },
+  {
+    "name": "LeCoulte, Satella",
+    "prompt": "LeCoulte, Satella from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/303014.jpg?s=a57b680e91a517e5354da7c415f0b927"
+  },
+  {
+    "name": "LeCoulte, Dominic",
+    "prompt": "LeCoulte, Dominic from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/303013.jpg?s=dc1e1937e819e4fadcfb7d4ad69006f2"
+  },
+  {
+    "name": "LeCoulte, Ridel",
+    "prompt": "LeCoulte, Ridel from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/571940.jpg?s=85719e4b1e3ff2bea413727513a7e536"
+  },
+  {
+    "name": "Lust",
+    "prompt": "Lust from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/81112.jpg?s=6d83fc7c4b8426d92bd5ab0779ff263d"
+  },
+  {
+    "name": "Madame Christmas",
+    "prompt": "Madame Christmas from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/77665.jpg?s=8d0292e14e22ebc530c56c8310b3e156"
+  },
+  {
+    "name": "Madame Shan",
+    "prompt": "Madame Shan from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/120052.jpg?s=06d723e5a0af825ce358680f7f4f3aae"
+  },
+  {
+    "name": "Marcoh, Tim",
+    "prompt": "Marcoh, Tim from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/63841.jpg?s=022bf606df12476b3bfe2f6c19775b74"
+  },
+  {
+    "name": "Martel",
+    "prompt": "Martel from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/56216.jpg?s=1796f023fda483443ea026f82372634d"
+  },
+  {
+    "name": "Mason",
+    "prompt": "Mason from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/63844.jpg?s=6f74852ce6a508485d997222a60af395"
+  },
+  {
+    "name": "May, Shao",
+    "prompt": "May, Shao from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/58046.jpg?s=73d921330c5a2cf2fb84625bc3f14cd9"
+  },
+  {
+    "name": "McDougal, Isaac",
+    "prompt": "McDougal, Isaac from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/80247.jpg?s=9288cf10ec74c3ff3d250d30d18b9639"
+  },
+  {
+    "name": "Miles",
+    "prompt": "Miles from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/72473.jpg?s=fdc69990cef02da2101532ca1d81a055"
+  },
+  {
+    "name": "Mr. Halling",
+    "prompt": "Mr. Halling from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/573008.jpg?s=c63b69f753472c990b8ec963147bece1"
+  },
+  {
+    "name": "Mr. Han",
+    "prompt": "Mr. Han from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/572988.jpg?s=3f03fb2e583d3d21928aee710ab4de1b"
+  },
+  {
+    "name": "Murray, Mick",
+    "prompt": "Murray, Mick from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/572855.jpg?s=9bcae20a70552eb3c928a445488eb75a"
+  },
+  {
+    "name": "Mustang, Roy",
+    "prompt": "Mustang, Roy from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/510227.jpg?s=a9880198a26475fa0555f4690bab8cd3"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Neil",
+    "prompt": "Neil from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/112283.jpg?s=86589f2484e9cdf00fb4aee2630d1f31"
+  },
+  {
+    "name": "Old Man",
+    "prompt": "Old Man from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/26773.jpg?s=8c24333dc91068649ffdec63832ce743"
+  },
+  {
+    "name": "Paninya",
+    "prompt": "Paninya from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/55106.jpg?s=e1a63b23efd96580335cbc39e0de0122"
+  },
+  {
+    "name": "Raven",
+    "prompt": "Raven from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/120053.jpg?s=0f9aba606f404092681adc0ae1c5dc87"
+  },
+  {
+    "name": "Rick",
+    "prompt": "Rick from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/63846.jpg?s=08c916f5b649cabd3587109e602522c4"
+  },
+  {
+    "name": "Roa",
+    "prompt": "Roa from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/56214.jpg?s=4cc22efb8f2cabb166d3dff53cbfb630"
+  },
+  {
+    "name": "Roach, Liam",
+    "prompt": "Roach, Liam from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/572854.jpg?s=52a46dae8b3175d9e820cd4bff4689c8"
+  },
+  {
+    "name": "Rockbell, Sarah",
+    "prompt": "Rockbell, Sarah from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/571619.jpg?s=93b8de84f9af18ba8f585dfd60c29803"
+  },
+  {
+    "name": "Rockbell, Den",
+    "prompt": "Rockbell, Den from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/76638.jpg?s=77b8cab89d5a96433abc273a93aae576"
+  },
+  {
+    "name": "Rockbell, Yuriy",
+    "prompt": "Rockbell, Yuriy from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/571620.jpg?s=92a59e586e60d3cc23a8da1e7fb7647d"
+  },
+  {
+    "name": "Rockbell, Winry",
+    "prompt": "Rockbell, Winry from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/84336.jpg?s=b176965399deaee17a8c6304240a18f8"
+  },
+  {
+    "name": "Rockbell, Pinako",
+    "prompt": "Rockbell, Pinako from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/81200.jpg?s=9f7679b78d37411e66a48e4f97b11670"
+  },
+  {
+    "name": "Ross, Maria",
+    "prompt": "Ross, Maria from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/84105.jpg?s=f8ba5a22c98a98f1e99e45f001646000"
+  },
+  {
+    "name": "Scar",
+    "prompt": "Scar from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/31591.jpg?s=0f4cfb335f3a86eede76abc630a3fe9e"
+  },
+  {
+    "name": "Scar's Brother",
+    "prompt": "Scar's Brother from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/65642.jpg?s=89f90ed2d2a7eb00614a259671564668"
+  },
+  {
+    "name": "Scar's Master",
+    "prompt": "Scar's Master from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/81201.jpg?s=a2e352247ff391ad8f5cfac5276a060b"
+  },
+  {
+    "name": "Sheska",
+    "prompt": "Sheska from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/54925.jpg?s=206a610ce7f7b58e35525513ca6e9d8c"
+  },
+  {
+    "name": "Slicer Brothers",
+    "prompt": "Slicer Brothers from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/54388.jpg?s=8b645199492f2c596ddf839eb416ddae"
+  },
+  {
+    "name": "Sloth",
+    "prompt": "Sloth from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/72474.jpg?s=afa4b186ea4db5df1948fbf9419f6f26"
+  },
+  {
+    "name": "Storch",
+    "prompt": "Storch from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/572828.jpg?s=16cea5fa5e92d1291496cf3795b0762a"
+  },
+  {
+    "name": "Tetsu",
+    "prompt": "Tetsu from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/573009.jpg?s=13241d3cbc55122d939b0304e0b590a6"
+  },
+  {
+    "name": "Tomas, Rosé",
+    "prompt": "Tomas, Rosé from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/78727.jpg?s=292abd1f8ac15b8db541dd4574e98f29"
+  },
+  {
+    "name": "Truth",
+    "prompt": "Truth from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/93929.jpg?s=f97f764d9149f3718cccaff787c36869"
+  },
+  {
+    "name": "Tucker, Nina",
+    "prompt": "Tucker, Nina from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/35396.jpg?s=bfe784f50bbe9eee1fc38e5cbaf7de53"
+  },
+  {
+    "name": "Tucker, Shou",
+    "prompt": "Tucker, Shou from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/52232.jpg?s=e7266752f9c1853d8977fae6d1270f20"
+  },
+  {
+    "name": "Yakovlev",
+    "prompt": "Yakovlev from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/572829.jpg?s=bfc3bbc6051894a1d9a4362daf59bd1f"
+  },
+  {
+    "name": "Yao, Ling",
+    "prompt": "Yao, Ling from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/62602.jpg?s=c1c34cb6b91640be0fc8a4c4aadc14a1"
+  },
+  {
+    "name": "Yoki",
+    "prompt": "Yoki from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/58047.jpg?s=ac7067e3a45242fae7ab01a5c0607fe3"
+  },
+  {
+    "name": "Zampano",
+    "prompt": "Zampano from Fullmetal Alchemist: Brotherhood",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/75701.jpg?s=9660c44c799998ee0422030718f3fc53"
+  }
+]

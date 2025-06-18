@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Kujira no Chouyaku",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Old Man",
+    "prompt": "Old Man from Kujira no Chouyaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/527416.jpg?s=a6253a989b88b412a8b11ceddf09a143"
+  },
+  {
+    "name": "Artist R",
+    "prompt": "Artist R from Kujira no Chouyaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/527417.jpg?s=5e670af422e41de1c4015d2fa034fc4d"
+  }
+]

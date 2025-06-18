@@ -1,0 +1,207 @@
+[
+  {
+    "name": "Chichiri",
+    "prompt": "Chichiri from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/89953.jpg?s=96ba038582adc20bcf777b6c483d4ce7"
+  },
+  {
+    "name": "Chiriko",
+    "prompt": "Chiriko from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/90145.jpg?s=3cc3598249698743449337382b690329"
+  },
+  {
+    "name": "Hongo, Yui",
+    "prompt": "Hongo, Yui from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/89965.jpg?s=aa7658796af87781a641484e01ba2590"
+  },
+  {
+    "name": "Hotohori",
+    "prompt": "Hotohori from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/89914.jpg?s=84303fd91ce254a4bdbeb0ff4c1933db"
+  },
+  {
+    "name": "Mitsukake",
+    "prompt": "Mitsukake from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/90178.jpg?s=f2f5e3b44b86fbd08dfb2530f9e636e9"
+  },
+  {
+    "name": "Nakago",
+    "prompt": "Nakago from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/89932.jpg?s=cec4641095e368460a1c1d9b343e5115"
+  },
+  {
+    "name": "Nuriko",
+    "prompt": "Nuriko from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/89889.jpg?s=c756871a6cb260519a567a2ea1ef9720"
+  },
+  {
+    "name": "Tamahome",
+    "prompt": "Tamahome from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/89905.jpg?s=1d44274862693b11ccb801ee891e36b1"
+  },
+  {
+    "name": "Tasuki",
+    "prompt": "Tasuki from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/90073.jpg?s=3cabe9f9e1baf0f6b44147de4fce1608"
+  },
+  {
+    "name": "Yuuki, Miaka",
+    "prompt": "Yuuki, Miaka from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/89886.jpg?s=1c8fce45fbddae45165cea0f1e771e4a"
+  },
+  {
+    "name": "Amiboshi",
+    "prompt": "Amiboshi from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/93300.jpg?s=6784161ccf5fdc067ca6fc52b571ac58"
+  },
+  {
+    "name": "Amiboshi's Father",
+    "prompt": "Amiboshi's Father from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/533632.jpg?s=072212e7edda32f4a342ae71ef9627b6"
+  },
+  {
+    "name": "Amiboshi's Mother",
+    "prompt": "Amiboshi's Mother from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/533651.jpg?s=1bf317219fdd05c2ce630f3c319e0ef7"
+  },
+  {
+    "name": "Aono, Tomo",
+    "prompt": "Aono, Tomo from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/54941.jpg?s=0358698db56934f052212ca3c18b3747"
+  },
+  {
+    "name": "Ashitare",
+    "prompt": "Ashitare from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/93551.jpg?s=8a3e2139b37d7b75cb59fbb6d25e7c95"
+  },
+  {
+    "name": "Chen, Emthatt",
+    "prompt": "Chen, Emthatt from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/207279.jpg?s=48da23492f186ee16ea9bca995d0fa3c"
+  },
+  {
+    "name": "Kajiwara, Tetsuya",
+    "prompt": "Kajiwara, Tetsuya from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/57748.jpg?s=5149283a83bbd25bae28b4994969e27a"
+  },
+  {
+    "name": "Kouji",
+    "prompt": "Kouji from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/90158.jpg?s=cef0d503143951fa6cca3751b500514e"
+  },
+  {
+    "name": "Miboshi",
+    "prompt": "Miboshi from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/93552.jpg?s=2d615d747cf3345fe4276391c4f6f580"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nyan-Nyan",
+    "prompt": "Nyan-Nyan from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/103849.jpg?s=51c1ac542ff53c4242f0548e7fadfbef"
+  },
+  {
+    "name": "Okuda, Einosuke",
+    "prompt": "Okuda, Einosuke from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/179315.jpg?s=7eabbfc3eb1fab0ba59e15d3819cc523"
+  },
+  {
+    "name": "Oosugi, Suzuno",
+    "prompt": "Oosugi, Suzuno from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/206699.jpg?s=02496d2e46ea839a3df56582c8f7a774"
+  },
+  {
+    "name": "Oosugi, Toki",
+    "prompt": "Oosugi, Toki from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/536668.jpg?s=4e34b140e32c9ab6d3d992b555a6ec3f"
+  },
+  {
+    "name": "Seiryuu",
+    "prompt": "Seiryuu from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/90077.jpg?s=0bcd314c708eba58e619a70d2c9c3c74"
+  },
+  {
+    "name": "Shouka",
+    "prompt": "Shouka from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/68997.jpg?s=23abab57a7ad0af36831082b80fe1a4a"
+  },
+  {
+    "name": "Soi",
+    "prompt": "Soi from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/93294.jpg?s=70a1b132f9e092ab90f55d9b19103713"
+  },
+  {
+    "name": "Sou, Gyokuren",
+    "prompt": "Sou, Gyokuren from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/536558.jpg?s=57350000ef4551872309470e200c5999"
+  },
+  {
+    "name": "Sou, Shunkei",
+    "prompt": "Sou, Shunkei from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/536559.jpg?s=c1269e7e15f7009093c6e1d1b8fe8455"
+  },
+  {
+    "name": "Sou, Yuiren",
+    "prompt": "Sou, Yuiren from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/215103.jpg?s=f57b3ea7f2d9e84a768c2125554e37cc"
+  },
+  {
+    "name": "Sou, Chuei",
+    "prompt": "Sou, Chuei from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/533631.jpg?s=5ecd82ecf32bd67a7bcaca0b55605a1e"
+  },
+  {
+    "name": "Subaru",
+    "prompt": "Subaru from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/53966.jpg?s=fd56ccedf7ff00957b2caf7a7632a8aa"
+  },
+  {
+    "name": "Suboshi",
+    "prompt": "Suboshi from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/93304.jpg?s=1d3e1f643b2511f3effb8d0d4385be37"
+  },
+  {
+    "name": "Suzaku",
+    "prompt": "Suzaku from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/90071.jpg?s=5ebf00d66e16bcb609d522df99eb0c9f"
+  },
+  {
+    "name": "Taiitsukun",
+    "prompt": "Taiitsukun from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/102953.jpg?s=a658283a1955cfe738f01af8e3de868b"
+  },
+  {
+    "name": "Tama",
+    "prompt": "Tama from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/67932.jpg?s=5ca8cef132d41bdcd981ea9a1af96f43"
+  },
+  {
+    "name": "Tamahome's Father",
+    "prompt": "Tamahome's Father from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/536560.jpg?s=fd4ae476e9fd5889fe94fb25c94c41ca"
+  },
+  {
+    "name": "Tan, Chamka",
+    "prompt": "Tan, Chamka from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/205675.jpg?s=3e717205a6ba3d517b210795e293bfaa"
+  },
+  {
+    "name": "Tatara",
+    "prompt": "Tatara from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/51697.jpg?s=cee9ad705c996a474fd6550dfa5e7577"
+  },
+  {
+    "name": "Tokaki",
+    "prompt": "Tokaki from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/47209.jpg?s=998724a38444dc20e69c15c1383fcd56"
+  },
+  {
+    "name": "Yuuki, Keisuke",
+    "prompt": "Yuuki, Keisuke from Fushigi Yuugi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/92927.jpg?s=499a0409a9145442c531e748a29ae915"
+  }
+]

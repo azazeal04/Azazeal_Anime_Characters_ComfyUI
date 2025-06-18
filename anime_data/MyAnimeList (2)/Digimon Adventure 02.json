@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Armadimon",
+    "prompt": "Armadimon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/295259.jpg?s=74d18eaf4e9ffdbfc03414e6fe528e62"
+  },
+  {
+    "name": "Hawkmon",
+    "prompt": "Hawkmon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/295260.jpg?s=a282a214116a1a89dabeb793932d3a53"
+  },
+  {
+    "name": "Hida, Iori",
+    "prompt": "Hida, Iori from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/86730.jpg?s=a03e790a6177d507fd4956d6368191ac"
+  },
+  {
+    "name": "Ichijouji, Ken",
+    "prompt": "Ichijouji, Ken from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/103081.jpg?s=b542ee128f6e35c22e7a449e452e6b42"
+  },
+  {
+    "name": "Inoue, Miyako",
+    "prompt": "Inoue, Miyako from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/170253.jpg?s=b7a288c98d794e9d6ca476e871bc21b1"
+  },
+  {
+    "name": "Motomiya, Daisuke",
+    "prompt": "Motomiya, Daisuke from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/86751.jpg?s=30e3ce4a880ddc81d37748cc11ad1925"
+  },
+  {
+    "name": "Paildramon",
+    "prompt": "Paildramon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/538028.jpg?s=0ca477bdd5adbbfb197039a6cbf0d73f"
+  },
+  {
+    "name": "Patamon",
+    "prompt": "Patamon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/520661.jpg?s=53a3eff57925c8ee2ebfa389e5624cc9"
+  },
+  {
+    "name": "Tailmon",
+    "prompt": "Tailmon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/105205.jpg?s=a6887213ef1ba3f064e9a8a416f2a31b"
+  },
+  {
+    "name": "Takaishi, Takeru",
+    "prompt": "Takaishi, Takeru from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/170069.jpg?s=312454b7daf9227c56db2634051847ee"
+  },
+  {
+    "name": "V-mon",
+    "prompt": "V-mon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/295258.jpg?s=d51994d7f79da43a60446ad4fac02cfe"
+  },
+  {
+    "name": "Wormmon",
+    "prompt": "Wormmon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/295257.jpg?s=74b382910a7be5eafe6bc29922cc9d9f"
+  },
+  {
+    "name": "Yagami, Hikari",
+    "prompt": "Yagami, Hikari from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/298899.jpg?s=138f5bba451bf5111739d07040ec259e"
+  },
+  {
+    "name": "Agumon",
+    "prompt": "Agumon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/519220.jpg?s=920f3b58ef64bc3c751f6a4b0c902ed6"
+  },
+  {
+    "name": "Airdramon",
+    "prompt": "Airdramon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/485597.jpg?s=94983f42c8eadbd57e73654f94a53d1a"
+  },
+  {
+    "name": "Akiyama, Ryou",
+    "prompt": "Akiyama, Ryou from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/86811.jpg?s=f882c625c7ec37608a3f328e0d7aa202"
+  },
+  {
+    "name": "Andromon",
+    "prompt": "Andromon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/496522.jpg?s=28891efc801a29265351f3f1f5c24e8e"
+  },
+  {
+    "name": "Anna",
+    "prompt": "Anna from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Archnemon",
+    "prompt": "Archnemon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/467216.jpg?s=9f21a4aa6a6e1c0cff08d7e87ac8463e"
+  },
+  {
+    "name": "Barton Jr., Michael",
+    "prompt": "Barton Jr., Michael from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/233465.jpg?s=0c4f54c29355778dc74c29756560c1f4"
+  },
+  {
+    "name": "BlackWarGreymon",
+    "prompt": "BlackWarGreymon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/23295.jpg?s=419641db8bcbb163b041050f2463e629"
+  },
+  {
+    "name": "Chichos",
+    "prompt": "Chichos from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Chichos's Father",
+    "prompt": "Chichos's Father from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/352838.jpg?s=779bba3722b31089d28d3b725dccccdb"
+  },
+  {
+    "name": "Dagomon",
+    "prompt": "Dagomon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Deneuve, Catherine",
+    "prompt": "Deneuve, Catherine from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/218057.jpg?s=8da9e7b1e2094165bedc2707711e9a0f"
+  },
+  {
+    "name": "Devimon",
+    "prompt": "Devimon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/169953.jpg?s=1ce44bb042747a31425dddfd8c2156f2"
+  },
+  {
+    "name": "Digitamamon",
+    "prompt": "Digitamamon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/496431.jpg?s=5629859f79c1bcf0b074b50b0a4e2971"
+  },
+  {
+    "name": "Dingo",
+    "prompt": "Dingo from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Gabumon",
+    "prompt": "Gabumon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/519228.jpg?s=d94a8f8b906a5660a01d80ce688325df"
+  },
+  {
+    "name": "Gennai",
+    "prompt": "Gennai from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/315358.jpg?s=d41475dd888cf0bec603e17686552ca1"
+  },
+  {
+    "name": "Gomamon",
+    "prompt": "Gomamon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/520650.jpg?s=d6cdad87a06110529ccf0ac38333d4c7"
+  },
+  {
+    "name": "Gotsumon",
+    "prompt": "Gotsumon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/248573.jpg?s=9a7728221807f3f60d22766a30a59367"
+  },
+  {
+    "name": "Guardromon",
+    "prompt": "Guardromon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/520227.jpg?s=b82e8db95a89f952fe6941b25a17f729"
+  },
+  {
+    "name": "Hida, Chikara",
+    "prompt": "Hida, Chikara from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hida, Tomiko",
+    "prompt": "Hida, Tomiko from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ichijouji, Osamu",
+    "prompt": "Ichijouji, Osamu from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Inoue, Momoe",
+    "prompt": "Inoue, Momoe from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Inoue, Mantarou",
+    "prompt": "Inoue, Mantarou from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Inoue, Chizuru",
+    "prompt": "Inoue, Chizuru from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ishida, Yamato",
+    "prompt": "Ishida, Yamato from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/68967.jpg?s=012767b0ec4cb4e7328a73b328e431c6"
+  },
+  {
+    "name": "Ishida, Hiroaki",
+    "prompt": "Ishida, Hiroaki from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/218383.jpg?s=b6b0f0b1a0423827eb9061dfdc914e50"
+  },
+  {
+    "name": "Izumi, Masami",
+    "prompt": "Izumi, Masami from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/218375.jpg?s=fb648b91f30a780d23b6794314e5d794"
+  },
+  {
+    "name": "Izumi, Koushirou",
+    "prompt": "Izumi, Koushirou from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/257315.jpg?s=9ca9028d914b177c9a16bd1a56dcd76e"
+  },
+  {
+    "name": "Izumi, Yoshie",
+    "prompt": "Izumi, Yoshie from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/218373.jpg?s=9bf8eddf00fab0e832726ddc46d25b46"
+  },
+  {
+    "name": "Jioka",
+    "prompt": "Jioka from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kawata, Noriko",
+    "prompt": "Kawata, Noriko from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kido, Shuu",
+    "prompt": "Kido, Shuu from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kido, Jou",
+    "prompt": "Kido, Jou from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/170067.jpg?s=f4007d9bba8e0bbc8233b3e073f26e16"
+  },
+  {
+    "name": "Kurata, Keiko",
+    "prompt": "Kurata, Keiko from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "LadyDevimon",
+    "prompt": "LadyDevimon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/295252.jpg?s=7cccd20688001d8e2a9aaedf6971b75a"
+  },
+  {
+    "name": "Laura",
+    "prompt": "Laura from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Lou",
+    "prompt": "Lou from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Maria",
+    "prompt": "Maria from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "MegaSeadramon",
+    "prompt": "MegaSeadramon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/23078.jpg?s=e85823fd5f1ba6047639834317e5f957"
+  },
+  {
+    "name": "Michel",
+    "prompt": "Michel from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Middle Hoi Brother",
+    "prompt": "Middle Hoi Brother from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mina",
+    "prompt": "Mina from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/127369.jpg?s=8904795240230c2c35bc7caf3a323ed1"
+  },
+  {
+    "name": "Motomiya, Jun",
+    "prompt": "Motomiya, Jun from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/246041.jpg?s=6d247027b61f3f9ea9dee0f26627ca7b"
+  },
+  {
+    "name": "Mr. Fujiyama",
+    "prompt": "Mr. Fujiyama from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mr. Ichijouji",
+    "prompt": "Mr. Ichijouji from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mr. Inoue",
+    "prompt": "Mr. Inoue from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mr. Motomiya",
+    "prompt": "Mr. Motomiya from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mrs. Ichijouji",
+    "prompt": "Mrs. Ichijouji from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mrs. Inoue",
+    "prompt": "Mrs. Inoue from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mrs. Motomiya",
+    "prompt": "Mrs. Motomiya from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mummymon",
+    "prompt": "Mummymon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/481302.jpg?s=704875a5f954536621e5b83b215c6acc"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/218379.jpg?s=96754bb1029f3b35651c76bdd853fd03"
+  },
+  {
+    "name": "Oikawa, Yukio",
+    "prompt": "Oikawa, Yukio from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/369378.jpg?s=15ef415281a4254fb0f8309d359c11c0"
+  },
+  {
+    "name": "Oldest Hoi Brother",
+    "prompt": "Oldest Hoi Brother from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Pagumon",
+    "prompt": "Pagumon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/513480.jpg?s=902b86439f2901e0a939934cdad198e7"
+  },
+  {
+    "name": "Palmon",
+    "prompt": "Palmon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/519930.jpg?s=ef5ba63584e31da0c21c51f1e34c2f0f"
+  },
+  {
+    "name": "Piyomon",
+    "prompt": "Piyomon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/520654.jpg?s=8246e19f2d8ac8bf50064b1a9a7593d2"
+  },
+  {
+    "name": "Sakurada",
+    "prompt": "Sakurada from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sam",
+    "prompt": "Sam from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Shakkoumon",
+    "prompt": "Shakkoumon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/538030.jpg?s=b982a220491af917f3d159a31eb750be"
+  },
+  {
+    "name": "Shibata, Hiroshi",
+    "prompt": "Shibata, Hiroshi from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Silphymon",
+    "prompt": "Silphymon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/538029.jpg?s=e8a9b0596c837ba92baf7fd437c0ef6a"
+  },
+  {
+    "name": "Steve",
+    "prompt": "Steve from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tachikawa, Keisuke",
+    "prompt": "Tachikawa, Keisuke from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/218653.jpg?s=daaed9b64bf47a294113c89d452eb161"
+  },
+  {
+    "name": "Tachikawa, Mimi",
+    "prompt": "Tachikawa, Mimi from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/282063.jpg?s=be717e358d3ee5ec88b926b6c2d29d16"
+  },
+  {
+    "name": "Tachikawa, Satoe",
+    "prompt": "Tachikawa, Satoe from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/218655.jpg?s=e2e741a81845e0c6b7fff1bc38dba35a"
+  },
+  {
+    "name": "Takaishi, Natsuko",
+    "prompt": "Takaishi, Natsuko from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/218381.jpg?s=44073c29b20556632030589e9a05980f"
+  },
+  {
+    "name": "Takenouchi, Sora",
+    "prompt": "Takenouchi, Sora from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/86723.jpg?s=9fab5b5755a6024879ae6b728515c240"
+  },
+  {
+    "name": "Takenouchi, Haruhiko",
+    "prompt": "Takenouchi, Haruhiko from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tatum",
+    "prompt": "Tatum from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tentomon",
+    "prompt": "Tentomon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/519515.jpg?s=bf4358afe60608ba262557881367d410"
+  },
+  {
+    "name": "TonosamaGekomon",
+    "prompt": "TonosamaGekomon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/500059.jpg?s=a3e7601d87a5f58576bff27632fef345"
+  },
+  {
+    "name": "Vamdemon",
+    "prompt": "Vamdemon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/486020.jpg?s=7ee5f83d61cd451a9b863ee596e35a18"
+  },
+  {
+    "name": "WaruMonzaemon",
+    "prompt": "WaruMonzaemon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/496433.jpg?s=75592ffcd14a5ab9de33e681b88aff3b"
+  },
+  {
+    "name": "Wizarmon",
+    "prompt": "Wizarmon from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/169957.jpg?s=bdab9c18a8ca242ca5a0d6c386951eb8"
+  },
+  {
+    "name": "Yagami, Yuuko",
+    "prompt": "Yagami, Yuuko from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/218325.jpg?s=0b899f4576c52904c05837b53a10f6ef"
+  },
+  {
+    "name": "Yagami, Taichi",
+    "prompt": "Yagami, Taichi from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/116622.jpg?s=000cfbea30c0946f7ccc04aafc825a5d"
+  },
+  {
+    "name": "Yoshizawa, Takashi",
+    "prompt": "Yoshizawa, Takashi from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Youngest Hoi Brother",
+    "prompt": "Youngest Hoi Brother from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Yue Hong",
+    "prompt": "Yue Hong from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Yuri",
+    "prompt": "Yuri from Digimon Adventure 02",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

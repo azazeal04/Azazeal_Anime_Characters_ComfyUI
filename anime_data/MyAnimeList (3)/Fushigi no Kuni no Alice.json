@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Alice",
+    "prompt": "Alice from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/410318.jpg?s=06f068456c7844996af4218da3088054"
+  },
+  {
+    "name": "Benny Bunny",
+    "prompt": "Benny Bunny from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/410319.jpg?s=99b355b8c9fc6bb4b420fdfc275daed5"
+  },
+  {
+    "name": "Alice's Father",
+    "prompt": "Alice's Father from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/410360.jpg?s=0dd46e3b569e67fc22f33c90eb6e6893"
+  },
+  {
+    "name": "Alice's Mother",
+    "prompt": "Alice's Mother from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/410361.jpg?s=95c5fc27b9bd75360696feddd99f1bd5"
+  },
+  {
+    "name": "Caterpillar",
+    "prompt": "Caterpillar from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/410325.jpg?s=64b44bac2412ebe607162a6234f1697a"
+  },
+  {
+    "name": "Celia",
+    "prompt": "Celia from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/410353.jpg?s=99284d0c1c6ee483cd58746a3837b190"
+  },
+  {
+    "name": "Cheshire Cat",
+    "prompt": "Cheshire Cat from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/410321.jpg?s=b252eaa283c0b8124e4ec094f5c3d881"
+  },
+  {
+    "name": "Clock",
+    "prompt": "Clock from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/410357.jpg?s=950d1d2f6cea1abc550ce7e544680a66"
+  },
+  {
+    "name": "Dinah",
+    "prompt": "Dinah from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/410363.jpg?s=56842649754fe480a4a5db0f12a99fdc"
+  },
+  {
+    "name": "Dodo",
+    "prompt": "Dodo from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/410344.jpg?s=7ec0c00f08b88a462409794513cb69d3"
+  },
+  {
+    "name": "Dormouse",
+    "prompt": "Dormouse from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/410343.jpg?s=95a8ce314aabccbf117ed510628707e5"
+  },
+  {
+    "name": "Duchess",
+    "prompt": "Duchess from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/548100.jpg?s=2be2f36a3b21f3235740fd9bfec30f06"
+  },
+  {
+    "name": "Duchess's Maid",
+    "prompt": "Duchess's Maid from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/375693.jpg?s=1fa8842e30bced5778d25932366860e9"
+  },
+  {
+    "name": "Eaglet",
+    "prompt": "Eaglet from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/410349.jpg?s=74cd04c416b04dc163857aba23bf32b7"
+  },
+  {
+    "name": "Hare, March",
+    "prompt": "Hare, March from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/410342.jpg?s=5aa03f0969def928b0e19f42bd168a9d"
+  },
+  {
+    "name": "Hatter, Mad",
+    "prompt": "Hatter, Mad from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/410340.jpg?s=33fe599b79809d9d90c5df16c45bbc22"
+  },
+  {
+    "name": "Humpty Dumpty",
+    "prompt": "Humpty Dumpty from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/410333.jpg?s=c93bcdbad19725b6fcf4341f0ae46f18"
+  },
+  {
+    "name": "Jabberwocky",
+    "prompt": "Jabberwocky from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/410324.jpg?s=7557917162e4719b0b8158e66931028b"
+  },
+  {
+    "name": "Joker",
+    "prompt": "Joker from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/548130.jpg?s=f7a79c9118471373fd23e215658fb3af"
+  },
+  {
+    "name": "King of Hearts",
+    "prompt": "King of Hearts from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/410323.jpg?s=f5b8ab1ccbff9b190ba763bf36da459d"
+  },
+  {
+    "name": "Maid",
+    "prompt": "Maid from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/410362.jpg?s=ce6972345977f6ee3708759548374468"
+  },
+  {
+    "name": "Mock Turtle",
+    "prompt": "Mock Turtle from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/410346.jpg?s=c331f829c084cc8cad2e4fbf2ad966c9"
+  },
+  {
+    "name": "Queen of Hearts",
+    "prompt": "Queen of Hearts from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/410322.jpg?s=364448cc56ada5c4b04cfe122decc02e"
+  },
+  {
+    "name": "Rubbish Bug",
+    "prompt": "Rubbish Bug from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/548716.jpg?s=a9ca967dffea5fba4b8c37997c6b7ed2"
+  },
+  {
+    "name": "Tweedle Dee",
+    "prompt": "Tweedle Dee from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/548099.jpg?s=4dfaa89ef6110574df7ab2a6fa8a81a7"
+  },
+  {
+    "name": "Tweedle Dum",
+    "prompt": "Tweedle Dum from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/410328.jpg?s=243c2e0086bb0bd19bcfa8462e5a315b"
+  },
+  {
+    "name": "Walrus",
+    "prompt": "Walrus from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/410330.jpg?s=525f23d0fe5c37710f62beb2b4907693"
+  },
+  {
+    "name": "White King",
+    "prompt": "White King from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/410326.jpg?s=302490c19b3903ede12eb77ef2c0502d"
+  },
+  {
+    "name": "White Queen",
+    "prompt": "White Queen from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/410327.jpg?s=bdf6e3ec36e99c0879a4923661800240"
+  },
+  {
+    "name": "White Rabbit",
+    "prompt": "White Rabbit from Fushigi no Kuni no Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/410320.jpg?s=6d7a558a16ca54cc670c0016a0f5f919"
+  }
+]

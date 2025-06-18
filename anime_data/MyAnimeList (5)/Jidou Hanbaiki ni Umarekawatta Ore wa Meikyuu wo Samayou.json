@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Boxxo",
+    "prompt": "Boxxo from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/505028.jpg?s=7d1e52af487e02f8f4e0727c14867679"
+  },
+  {
+    "name": "Lammis",
+    "prompt": "Lammis from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/505030.jpg?s=c9ee7ca4a76589d4cfac63a2d766deee"
+  },
+  {
+    "name": "Acowi",
+    "prompt": "Acowi from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/517379.jpg?s=560b3b6d351ced1342bab28d887ead52"
+  },
+  {
+    "name": "Aka",
+    "prompt": "Aka from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/512376.jpg?s=2d3956e2f457c58198b4ef282ecc1ada"
+  },
+  {
+    "name": "Bounty Hunter",
+    "prompt": "Bounty Hunter from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/544170.jpg?s=e8a11f22f025f901f1bd339b82e83d5c"
+  },
+  {
+    "name": "Director Bear",
+    "prompt": "Director Bear from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/512378.jpg?s=bdac4a667fa4e158239ad3bc5cb9c292"
+  },
+  {
+    "name": "Filmina",
+    "prompt": "Filmina from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/512371.jpg?s=28a0f0045ca445b829c60bede2607e08"
+  },
+  {
+    "name": "Goggai",
+    "prompt": "Goggai from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/517380.jpg?s=e54ca9c39353de108dd6916f9ba06628"
+  },
+  {
+    "name": "Gorth",
+    "prompt": "Gorth from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/516407.jpg?s=f7b84da551587365200582d0ccd225a0"
+  },
+  {
+    "name": "Gugoyle",
+    "prompt": "Gugoyle from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/517381.jpg?s=6847dcd6f5a9e2bc5d1ad5c139a421f5"
+  },
+  {
+    "name": "Hulemy",
+    "prompt": "Hulemy from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/512377.jpg?s=89ad8f010b682913218b92d4437d3cdf"
+  },
+  {
+    "name": "Kanashi",
+    "prompt": "Kanashi from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/518445.jpg?s=05ef34f89dcca43a92dda89c1e566608"
+  },
+  {
+    "name": "Karios",
+    "prompt": "Karios from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/516408.jpg?s=f6e8a8cdbc2f3e13717ff8b93b405285"
+  },
+  {
+    "name": "Kerioil",
+    "prompt": "Kerioil from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/512373.jpg?s=a16e216a02aeaffe0b5f585b0735e3f8"
+  },
+  {
+    "name": "Kesha",
+    "prompt": "Kesha from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/521131.jpg?s=116f2e1009d71f2890b2ff6ee57fe4b1"
+  },
+  {
+    "name": "May",
+    "prompt": "May from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/517378.jpg?s=72ef080f93433d54c94a2f9238974ef1"
+  },
+  {
+    "name": "Meifu no Ou",
+    "prompt": "Meifu no Ou from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/522724.jpg?s=7ff5afff435deb1ba609ae5f5ff4c066"
+  },
+  {
+    "name": "Michelle",
+    "prompt": "Michelle from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/512374.jpg?s=815123e2e98b1e2f0eacad17975f4a91"
+  },
+  {
+    "name": "Mikenne",
+    "prompt": "Mikenne from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/519654.jpg?s=dbd932d9ae5dbe069bb0bcb4181c46e5"
+  },
+  {
+    "name": "Munami",
+    "prompt": "Munami from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/516405.jpg?s=06dcdbaf5987f4105cb7496ec42f1f9d"
+  },
+  {
+    "name": "Okami-san",
+    "prompt": "Okami-san from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/516404.jpg?s=4ca04be672aedd5b823687f6a027f1c0"
+  },
+  {
+    "name": "Pell",
+    "prompt": "Pell from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/519656.jpg?s=b42b9bdd7d3ef251c5d6fdb2c2fa9810"
+  },
+  {
+    "name": "Shimerai",
+    "prompt": "Shimerai from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/517382.jpg?s=b84dc8fd18bc3eeeb0275e0dc658c712"
+  },
+  {
+    "name": "Shirley",
+    "prompt": "Shirley from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/517377.jpg?s=dfff498c6fce68e14fcc8f1e736bbcf3"
+  },
+  {
+    "name": "Shiro",
+    "prompt": "Shiro from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/512375.jpg?s=6865c68a5e962d9cc28178c9acd02a58"
+  },
+  {
+    "name": "Shiryou Ou",
+    "prompt": "Shiryou Ou from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/522723.jpg?s=9e4d32d32616170a6015fca0be0596a3"
+  },
+  {
+    "name": "Short",
+    "prompt": "Short from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/519657.jpg?s=b3767afa8a758fe924284f632aa297ae"
+  },
+  {
+    "name": "Shui",
+    "prompt": "Shui from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/512372.jpg?s=bce5af75a4ac092a2f94bb9c4ea79878"
+  },
+  {
+    "name": "Suco",
+    "prompt": "Suco from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/519655.jpg?s=e289bba38e738b7060f83f438c61d429"
+  },
+  {
+    "name": "Suori",
+    "prompt": "Suori from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/518444.jpg?s=fb2028e0d2ca8feed80ec9e0c873bc40"
+  },
+  {
+    "name": "Yumite",
+    "prompt": "Yumite from Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/517383.jpg?s=a215e2fe7811165efbdf848b82f087f3"
+  }
+]

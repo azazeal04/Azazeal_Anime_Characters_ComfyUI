@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Crimvael",
+    "prompt": "Crimvael from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/398667.jpg?s=6e7afb9ec8359ab24e8167e15def4caa"
+  },
+  {
+    "name": "Stunk",
+    "prompt": "Stunk from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/397955.jpg?s=339ae771e3834ffed84f56c1172d6eac"
+  },
+  {
+    "name": "Zel",
+    "prompt": "Zel from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/397956.jpg?s=83695b7f1ce47cd4bdc706c806af8a8a"
+  },
+  {
+    "name": "Aisha",
+    "prompt": "Aisha from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/400346.jpg?s=4cd63941f5f76f080eb477d44e08931e"
+  },
+  {
+    "name": "Aloe",
+    "prompt": "Aloe from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/398466.jpg?s=4af8b066bd01dc091c27f6b74e70de38"
+  },
+  {
+    "name": "Asatent",
+    "prompt": "Asatent from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/402153.jpg?s=56633132685e691f416c595cf5624e12"
+  },
+  {
+    "name": "Bi Bananan",
+    "prompt": "Bi Bananan from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/402789.jpg?s=aaab6211b63a09b76ee0e013cd6733b9"
+  },
+  {
+    "name": "Boy",
+    "prompt": "Boy from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/400344.jpg?s=43f1bb835667c0aafa84526599e4e1cd"
+  },
+  {
+    "name": "Brooz",
+    "prompt": "Brooz from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/400405.jpg?s=60857628604d543b4765ceaaef92b76e"
+  },
+  {
+    "name": "Bubulala",
+    "prompt": "Bubulala from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/398460.jpg?s=f27bf9544ce8efdc0d86dffc968d7ff0"
+  },
+  {
+    "name": "Candela",
+    "prompt": "Candela from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/401421.jpg?s=1e68caaca4de0f3358caaf1ee7d3af94"
+  },
+  {
+    "name": "Croc",
+    "prompt": "Croc from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/401931.jpg?s=cea4f426ff2d43d22c3b9fa556123404"
+  },
+  {
+    "name": "Data",
+    "prompt": "Data from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/399676.jpg?s=800ee120cb6839e12fb3ec4bf24f9715"
+  },
+  {
+    "name": "Death Abyss",
+    "prompt": "Death Abyss from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/398463.jpg?s=1795970a56688ae47b8b2a598df7cf68"
+  },
+  {
+    "name": "Delivel, Count",
+    "prompt": "Delivel, Count from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/402793.jpg?s=b94f6b3b45c2f103c727bf03d1297e75"
+  },
+  {
+    "name": "Demia",
+    "prompt": "Demia from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/403229.jpg?s=f8880e15436bd618051d08ddfa3b88a5"
+  },
+  {
+    "name": "Demon Hole Receptionist",
+    "prompt": "Demon Hole Receptionist from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/404337.jpg?s=94914fffad9512f73844eea0c3a21eda"
+  },
+  {
+    "name": "Demon Two",
+    "prompt": "Demon Two from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/398465.jpg?s=9b85e2de62d4940e0e168ee664840609"
+  },
+  {
+    "name": "Doron",
+    "prompt": "Doron from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/402791.jpg?s=68c374db123a91d11377f6fb08741a64"
+  },
+  {
+    "name": "Eldley",
+    "prompt": "Eldley from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/398674.jpg?s=9e90baba98aebc983d1b57a1889916c0"
+  },
+  {
+    "name": "Elma",
+    "prompt": "Elma from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/398318.jpg?s=1bdab2254617a80f03c79e5a9c440f59"
+  },
+  {
+    "name": "Elza",
+    "prompt": "Elza from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/398675.jpg?s=7eee6a910362a0161e082f5b57530e76"
+  },
+  {
+    "name": "Ersha",
+    "prompt": "Ersha from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/402150.jpg?s=4793a0f9223c797d6707f775b622128b"
+  },
+  {
+    "name": "Flamper",
+    "prompt": "Flamper from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/402790.jpg?s=f02bdbc054b32ff9a1ba864029ad54ea"
+  },
+  {
+    "name": "Ginny",
+    "prompt": "Ginny from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/484566.jpg?s=e38f4d6dd07926395a2693b3729ce8c7"
+  },
+  {
+    "name": "Honemi",
+    "prompt": "Honemi from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/402794.jpg?s=b308e45ecef47a3dfd9c1ab2d0281182"
+  },
+  {
+    "name": "Hoshii",
+    "prompt": "Hoshii from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/400341.jpg?s=9737fba0efe933dee7101ce2910b964a"
+  },
+  {
+    "name": "Human Moon",
+    "prompt": "Human Moon from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/403231.jpg?s=e75b8a820948b90fb56f92425daee420"
+  },
+  {
+    "name": "Ice",
+    "prompt": "Ice from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/402797.jpg?s=dd032d51ef331b96e6e4b7d580914477"
+  },
+  {
+    "name": "Incubus",
+    "prompt": "Incubus from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/403230.jpg?s=cd78664d59037fbc8502e40a6ddb5ef2"
+  },
+  {
+    "name": "Jimii",
+    "prompt": "Jimii from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/400349.jpg?s=bcd2cb7a8c749ade2bfa2ceeb90ad6e2"
+  },
+  {
+    "name": "Kanchal",
+    "prompt": "Kanchal from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/401299.jpg?s=fed45b94bb39e48a50f17d3f9c8950f7"
+  },
+  {
+    "name": "Kijo",
+    "prompt": "Kijo from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/404339.jpg?s=d193f9460d19127f3d94cba3f4826d8d"
+  },
+  {
+    "name": "Komoku",
+    "prompt": "Komoku from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/400347.jpg?s=f731c5225441f4518b24cc655bf9190e"
+  },
+  {
+    "name": "Lambert",
+    "prompt": "Lambert from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/401419.jpg?s=0c201ed46aa0b7b295828f180595bb3b"
+  },
+  {
+    "name": "Lorna",
+    "prompt": "Lorna from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/398937.jpg?s=c104c0d063c1d359d478e4171cc56bea"
+  },
+  {
+    "name": "Love Net",
+    "prompt": "Love Net from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/401411.jpg?s=2e9e0b4a9131fdf85af9a56462359e62"
+  },
+  {
+    "name": "Low-grade Devil A",
+    "prompt": "Low-grade Devil A from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Low-grade Devil B",
+    "prompt": "Low-grade Devil B from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Low-grade Devil C",
+    "prompt": "Low-grade Devil C from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Lulou",
+    "prompt": "Lulou from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/400340.jpg?s=2542c2d677442752d73a528f3d85be75"
+  },
+  {
+    "name": "Lumen",
+    "prompt": "Lumen from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/401418.jpg?s=16e9268152ef49e0071df2f5afaf9e33"
+  },
+  {
+    "name": "Lux",
+    "prompt": "Lux from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/401415.jpg?s=4ded64bee21787325ed9d48dfa3150ba"
+  },
+  {
+    "name": "Lymee",
+    "prompt": "Lymee from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/398938.jpg?s=49eef599f36090727ed92d5995c49baa"
+  },
+  {
+    "name": "Mayospell",
+    "prompt": "Mayospell from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/402154.jpg?s=5c87e09d4dabebb19861251a8b393570"
+  },
+  {
+    "name": "Megalo",
+    "prompt": "Megalo from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/400345.jpg?s=adb3c1fecfc9aacf11f811b7eddd57b1"
+  },
+  {
+    "name": "Meidri",
+    "prompt": "Meidri from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/398934.jpg?s=48f7b7affca427f43bfc54dfd0c0bd66"
+  },
+  {
+    "name": "Menmen",
+    "prompt": "Menmen from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/402792.jpg?s=dd7dbae00a1fc0f8eb2f2a2272df304b"
+  },
+  {
+    "name": "Migu",
+    "prompt": "Migu from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/402149.jpg?s=e022d9702e8e9f35198a3e9590ce9cea"
+  },
+  {
+    "name": "Mii",
+    "prompt": "Mii from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/398317.jpg?s=de2f49de2875cdb504e95a069cf28ad1"
+  },
+  {
+    "name": "Milky",
+    "prompt": "Milky from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/484570.jpg?s=09a2a4f4d19b2a8abb20fd3be7443b28"
+  },
+  {
+    "name": "Mimiro",
+    "prompt": "Mimiro from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/401928.jpg?s=46a0305e6d5d914d86a059604a902349"
+  },
+  {
+    "name": "Mitsue",
+    "prompt": "Mitsue from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/439133.jpg?s=765e8083c7fa54daac6b2960269b5593"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Narugami",
+    "prompt": "Narugami from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/399673.jpg?s=ac53e978bd27b0093303329fdb527c25"
+  },
+  {
+    "name": "Nito",
+    "prompt": "Nito from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/401420.jpg?s=b8723fe61146ab9c769fb0415b7450a2"
+  },
+  {
+    "name": "Nyuu",
+    "prompt": "Nyuu from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/400352.jpg?s=537f71900f459c900833523fd547d791"
+  },
+  {
+    "name": "Okami",
+    "prompt": "Okami from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/399671.jpg?s=dc25c35fca45b8b577ffe20fdc1c9d75"
+  },
+  {
+    "name": "Okpa",
+    "prompt": "Okpa from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/398672.jpg?s=bfb421a9e83205107f9ec5a32d5116a9"
+  },
+  {
+    "name": "Piltia",
+    "prompt": "Piltia from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/398933.jpg?s=47b737ff7cfef4855f22691aec8c4d4c"
+  },
+  {
+    "name": "Pretz",
+    "prompt": "Pretz from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/402151.jpg?s=6e194efbd1a2cd34741ffc2350a4eaec"
+  },
+  {
+    "name": "Professor Ookina",
+    "prompt": "Professor Ookina from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/398458.jpg?s=d073ad82147fafb64bb3570ce22f75fa"
+  },
+  {
+    "name": "Regular Mob A",
+    "prompt": "Regular Mob A from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/399124.jpg?s=b9db57d55877145cfdce515e41428e39"
+  },
+  {
+    "name": "Regular Mob B",
+    "prompt": "Regular Mob B from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/399126.jpg?s=4ab09b46ddc2c5c7d5d5a3fed44cfd0a"
+  },
+  {
+    "name": "Regular Mob C",
+    "prompt": "Regular Mob C from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/399125.jpg?s=9270af03eb9f650b01c8bd517eedcc32"
+  },
+  {
+    "name": "Regular Mob DT",
+    "prompt": "Regular Mob DT from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/399123.jpg?s=9c62013b9ac188daa9e80c9e5ffba216"
+  },
+  {
+    "name": "Reiko",
+    "prompt": "Reiko from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/402795.jpg?s=efb7ae9be53d05aaf0145fdd68b8e0e6"
+  },
+  {
+    "name": "Reishi",
+    "prompt": "Reishi from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/400343.jpg?s=100f85040daee7f1fcdd25fe76b5b7dc"
+  },
+  {
+    "name": "Samturn",
+    "prompt": "Samturn from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/398459.jpg?s=db636a8aa080c93acee1f8c4ee15422d"
+  },
+  {
+    "name": "Sill",
+    "prompt": "Sill from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/400350.jpg?s=3beefe29012279b00898d871604adad9"
+  },
+  {
+    "name": "Sofu",
+    "prompt": "Sofu from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/402796.jpg?s=d1e6b68d0b7ee1a9647da24062b40fc0"
+  },
+  {
+    "name": "Tamatehime",
+    "prompt": "Tamatehime from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/401929.jpg?s=b9653892ed8bda2a0a878186ff9f7e13"
+  },
+  {
+    "name": "Thies",
+    "prompt": "Thies from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/398939.jpg?s=9f277360f363819c91f68642eb0693a1"
+  },
+  {
+    "name": "Tiaplate",
+    "prompt": "Tiaplate from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/399677.jpg?s=36ccc418f7a9935155527814d7caa5c0"
+  },
+  {
+    "name": "Togue",
+    "prompt": "Togue from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/402144.jpg?s=c10df84b1c63860eaad1d1a72871aabe"
+  },
+  {
+    "name": "Urigo",
+    "prompt": "Urigo from Ishuzoku Reviewers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/402145.jpg?s=faa8d0940386573fcba077af8b4d6c7f"
+  }
+]

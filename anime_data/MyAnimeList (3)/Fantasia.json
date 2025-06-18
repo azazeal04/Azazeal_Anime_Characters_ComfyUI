@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Akihiro",
+    "prompt": "Akihiro from Fantasia",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/63253.jpg?s=c7bdac7231672ffa4e72cb103c1452d1"
+  },
+  {
+    "name": "Maron",
+    "prompt": "Maron from Fantasia",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/63252.jpg?s=44654033d52770078ac486aa70a4d8cf"
+  },
+  {
+    "name": "Roll",
+    "prompt": "Roll from Fantasia",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/63254.jpg?s=19d6108b4cc968e8e67e970c3bc23606"
+  },
+  {
+    "name": "Short",
+    "prompt": "Short from Fantasia",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

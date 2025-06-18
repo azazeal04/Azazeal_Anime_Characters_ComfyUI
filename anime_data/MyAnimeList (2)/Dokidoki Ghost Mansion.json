@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Mimikyu",
+    "prompt": "Mimikyu from Dokidoki Ghost Mansion",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/481522.jpg?s=9e81a131d4e744a34c9d7ab64075ff9c"
+  },
+  {
+    "name": "Chandelure",
+    "prompt": "Chandelure from Dokidoki Ghost Mansion",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/564400.jpg?s=18f482177f2f38265d3188b75c9a5570"
+  },
+  {
+    "name": "Gengar",
+    "prompt": "Gengar from Dokidoki Ghost Mansion",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497724.jpg?s=5e6079f80a75912bc0139b8a95dc54fa"
+  },
+  {
+    "name": "Muma",
+    "prompt": "Muma from Dokidoki Ghost Mansion",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/562032.jpg?s=b7dbd7cd45133fab454b7ef7ee95bae7"
+  },
+  {
+    "name": "Yomawaru",
+    "prompt": "Yomawaru from Dokidoki Ghost Mansion",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/495496.jpg?s=60cec769b1b22633b4d904d97bce35c2"
+  }
+]

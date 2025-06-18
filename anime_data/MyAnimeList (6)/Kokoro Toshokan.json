@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Aruto",
+    "prompt": "Aruto from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/311322.jpg?s=b8fe74ceed9799a4b623338004ea1e2b"
+  },
+  {
+    "name": "Iina",
+    "prompt": "Iina from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/77931.jpg?s=e23d2d255edcf8e0b33f870ce43a15b4"
+  },
+  {
+    "name": "Kokoro",
+    "prompt": "Kokoro from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/89655.jpg?s=c6fcae1e2373c459ae5fb4797d4144b8"
+  },
+  {
+    "name": "Aigame, Kameyan",
+    "prompt": "Aigame, Kameyan from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Asakura, Hibiki",
+    "prompt": "Asakura, Hibiki from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Fukami, Misato",
+    "prompt": "Fukami, Misato from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Gang Leader",
+    "prompt": "Gang Leader from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hoshino, Kaede",
+    "prompt": "Hoshino, Kaede from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/391921.jpg?s=4716750d7f9c086d61ce8c72931d2272"
+  },
+  {
+    "name": "Inoue, Hikari",
+    "prompt": "Inoue, Hikari from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Inoue, Akari",
+    "prompt": "Inoue, Akari from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "July",
+    "prompt": "July from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "June",
+    "prompt": "June from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kajihara, Inspector",
+    "prompt": "Kajihara, Inspector from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Momochi, Marie",
+    "prompt": "Momochi, Marie from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Momochi, Sergeant",
+    "prompt": "Momochi, Sergeant from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Okajima, Midori",
+    "prompt": "Okajima, Midori from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Okajima, Akaha",
+    "prompt": "Okajima, Akaha from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Saeki, Sarara",
+    "prompt": "Saeki, Sarara from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "San, Jordi",
+    "prompt": "San, Jordi from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Shindou, Kokoro",
+    "prompt": "Shindou, Kokoro from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "The Farmer",
+    "prompt": "The Farmer from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Uezawa",
+    "prompt": "Uezawa from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Uezawa, Jun",
+    "prompt": "Uezawa, Jun from Kokoro Toshokan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

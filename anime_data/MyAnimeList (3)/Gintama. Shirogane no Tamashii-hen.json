@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Kagura",
+    "prompt": "Kagura from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/505912.jpg?s=a0988dd3478129e2fecb8d077a5b5959"
+  },
+  {
+    "name": "Sakata, Gintoki",
+    "prompt": "Sakata, Gintoki from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/241479.jpg?s=cec74d9d5f4f68fae78ef00ac0b2b40f"
+  },
+  {
+    "name": "Shimura, Shinpachi",
+    "prompt": "Shimura, Shinpachi from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/114081.jpg?s=10fb5c6057e3bcfe48553c3fb5b1d08d"
+  },
+  {
+    "name": "Agonoske, Azumi",
+    "prompt": "Agonoske, Azumi from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/115638.jpg?s=f066bd3dc25e284b10e7e2fe6d87f472"
+  },
+  {
+    "name": "Catherine",
+    "prompt": "Catherine from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/120277.jpg?s=2b264b498a20122107eed7bff0b4fa93"
+  },
+  {
+    "name": "Doromizu, Pirako",
+    "prompt": "Doromizu, Pirako from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/139485.jpg?s=4292911fe4b4ef43eb177b6754af921a"
+  },
+  {
+    "name": "Doromizu, Jirochou",
+    "prompt": "Doromizu, Jirochou from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/210835.jpg?s=5f227e6b20342b8b59bf695d65a0c516"
+  },
+  {
+    "name": "Elizabeth",
+    "prompt": "Elizabeth from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/43474.jpg?s=616543fe7fd82ce059e63e21f214048e"
+  },
+  {
+    "name": "Enshou",
+    "prompt": "Enshou from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/349158.jpg?s=39df81ab15fdd588c0ee13de84c56ccb"
+  },
+  {
+    "name": "Gedoumaru",
+    "prompt": "Gedoumaru from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/113366.jpg?s=a1c4bea29017eb8f3b124aeaae9d44d4"
+  },
+  {
+    "name": "Haji",
+    "prompt": "Haji from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/128713.jpg?s=f4431b7d987805c71ea7dd72e40360cf"
+  },
+  {
+    "name": "Hanako",
+    "prompt": "Hanako from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/86251.jpg?s=2ba19b91e27f8fbcd9921252ab49c2b8"
+  },
+  {
+    "name": "Hasegawa, Taizou",
+    "prompt": "Hasegawa, Taizou from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/115541.jpg?s=b4bb76e5d6d68fa576b958df8ab51833"
+  },
+  {
+    "name": "Hattori, Zenzou",
+    "prompt": "Hattori, Zenzou from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/120274.jpg?s=9fb96d4a93025a9225bf7897b7d9a2f1"
+  },
+  {
+    "name": "Hedoro",
+    "prompt": "Hedoro from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/115556.jpg?s=addbc8c59d0851d339448cf135b55504"
+  },
+  {
+    "name": "Hijikata, Toushirou",
+    "prompt": "Hijikata, Toushirou from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/73155.jpg?s=76fb40e660285ad835479f7f2b5b0026"
+  },
+  {
+    "name": "Hinowa",
+    "prompt": "Hinowa from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/288516.jpg?s=65a2e910f144a7cde3d75b34b4fc7c55"
+  },
+  {
+    "name": "Hiraga, Gengai",
+    "prompt": "Hiraga, Gengai from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/120276.jpg?s=d4e89ae9b987974278a067fe12b17b2b"
+  },
+  {
+    "name": "Hiraga, Saburou",
+    "prompt": "Hiraga, Saburou from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hitotsubashi, Nobunobu",
+    "prompt": "Hitotsubashi, Nobunobu from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/287497.jpg?s=c0d076150827bea52393fc0a7e28c46d"
+  },
+  {
+    "name": "Honjou, Kyoushirou",
+    "prompt": "Honjou, Kyoushirou from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/85739.jpg?s=53ac100bd59e6e339e5113cbe6b85f19"
+  },
+  {
+    "name": "Imai, Nobume",
+    "prompt": "Imai, Nobume from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/321324.jpg?s=7fd14b7a58aeeff142d04b65fd0ccba4"
+  },
+  {
+    "name": "Jii",
+    "prompt": "Jii from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/86042.jpg?s=22086f803d9f4c71c260180a7b5199c9"
+  },
+  {
+    "name": "Katsura, Kotarou",
+    "prompt": "Katsura, Kotarou from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/30271.jpg?s=56aa6025d8ba114ee5be1d24f42c87fe"
+  },
+  {
+    "name": "Ketsuno, Seimei",
+    "prompt": "Ketsuno, Seimei from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/113365.jpg?s=6d55fee09c52097d7110af9b94f402c7"
+  },
+  {
+    "name": "Ketsuno, Christel",
+    "prompt": "Ketsuno, Christel from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/113367.jpg?s=31c1a3d079334ff2c45c866d86b2936d"
+  },
+  {
+    "name": "Kitaooji, Itsuki",
+    "prompt": "Kitaooji, Itsuki from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/127313.jpg?s=f6fecc9ffcac9c4f2ee982afe50dd049"
+  },
+  {
+    "name": "Kondou, Isao",
+    "prompt": "Kondou, Isao from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/303226.jpg?s=736cb1e1c7a4c40f6008eb3525d5ac77"
+  },
+  {
+    "name": "Kozenigata, Heiji",
+    "prompt": "Kozenigata, Heiji from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/120273.jpg?s=6aac480c7dbb8ff9b4d705aeb0e39779"
+  },
+  {
+    "name": "Kurogoma, Katsuo",
+    "prompt": "Kurogoma, Katsuo from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/126839.jpg?s=9ab7d0ff7a0861034ebd83ab46ca8272"
+  },
+  {
+    "name": "Matsudaira, Katakuriko",
+    "prompt": "Matsudaira, Katakuriko from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/31008.jpg?s=e7c825d3f0aab576fa5d5b916515b38e"
+  },
+  {
+    "name": "Minamito, Sui",
+    "prompt": "Minamito, Sui from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/127309.jpg?s=996bf540f2edf31381ddb610ced1a303"
+  },
+  {
+    "name": "Momochi, Rappa",
+    "prompt": "Momochi, Rappa from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/298741.jpg?s=abe3fe31f146a7bb9b79c030a2cba3a2"
+  },
+  {
+    "name": "Murata, Tetsuko",
+    "prompt": "Murata, Tetsuko from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/120270.jpg?s=90c38f1b7b1a041fc71f045dba2d290c"
+  },
+  {
+    "name": "Mutsu",
+    "prompt": "Mutsu from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/322310.jpg?s=2ea8bb847762028aad0c1a5ce8017e6b"
+  },
+  {
+    "name": "Nishino, Tsukamu",
+    "prompt": "Nishino, Tsukamu from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/88333.jpg?s=96551331750f14618e4cb743ad11701b"
+  },
+  {
+    "name": "Okita, Sougo",
+    "prompt": "Okita, Sougo from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/112926.jpg?s=07942695a6a04cc5ab1a3147d6521a65"
+  },
+  {
+    "name": "Otose",
+    "prompt": "Otose from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/148723.jpg?s=e32839b332e5ca15bdeeeb323e052804"
+  },
+  {
+    "name": "Ougai",
+    "prompt": "Ougai from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/474284.jpg?s=da889d25e653b9251461fd5a925d9614"
+  },
+  {
+    "name": "Pandemonium",
+    "prompt": "Pandemonium from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/81205.jpg?s=0ed7baf9dd03b7b8dcd3cc5d93e7d8fc"
+  },
+  {
+    "name": "Prince Hata",
+    "prompt": "Prince Hata from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/115537.jpg?s=3abe675f00d37304cfb82749c9f2a518"
+  },
+  {
+    "name": "Sadaharu",
+    "prompt": "Sadaharu from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/43475.jpg?s=c515768ace48c9d87ff2f594d53fc7bb"
+  },
+  {
+    "name": "Saigou, Tokumori",
+    "prompt": "Saigou, Tokumori from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/115538.jpg?s=a49f340b71752c03ea3609da68bb109c"
+  },
+  {
+    "name": "Saitou, Shimaru",
+    "prompt": "Saitou, Shimaru from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/293788.jpg?s=a73b9a2f9a0686e62cc27bd705e9238a"
+  },
+  {
+    "name": "Sakamoto, Tatsuma",
+    "prompt": "Sakamoto, Tatsuma from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/112383.jpg?s=5b603d25abaa376ac02ec8f328df882a"
+  },
+  {
+    "name": "Sakata, Kintoki",
+    "prompt": "Sakata, Kintoki from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/182647.jpg?s=36f611e5f861eaacc40189cbebfd0476"
+  },
+  {
+    "name": "Sarutobi, Ayame",
+    "prompt": "Sarutobi, Ayame from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/113709.jpg?s=f9639b2a6156ac901e3245a52a6cca81"
+  },
+  {
+    "name": "Sasaki, Tetsunosuke",
+    "prompt": "Sasaki, Tetsunosuke from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/158283.jpg?s=3d266b6a2677c513f5ecce42d97ccd42"
+  },
+  {
+    "name": "Seita",
+    "prompt": "Seita from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/288515.jpg?s=b6c77ce6be88371f7599e2cc0bc07989"
+  },
+  {
+    "name": "Shijaku",
+    "prompt": "Shijaku from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/349157.jpg?s=5ec746debfd7040c1a396bf07ff488d9"
+  },
+  {
+    "name": "Shimura, Tae",
+    "prompt": "Shimura, Tae from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/115884.jpg?s=62bd626611f24fce5128c240859f86b5"
+  },
+  {
+    "name": "Shirino, Doman",
+    "prompt": "Shirino, Doman from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/124783.jpg?s=7f703a9aca939abc3c21c16dd0a10732"
+  },
+  {
+    "name": "Soutatsu",
+    "prompt": "Soutatsu from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/474285.jpg?s=0dce2eae2b4637feb2d6770134006844"
+  },
+  {
+    "name": "Takasugi, Shinsuke",
+    "prompt": "Takasugi, Shinsuke from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/303201.jpg?s=51381faad1fe7ff7c47fd4bd25186eb2"
+  },
+  {
+    "name": "Tama",
+    "prompt": "Tama from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/114865.jpg?s=65b94a820fa1e24d9b14c84589975b7e"
+  },
+  {
+    "name": "Terada, Tatsugorou",
+    "prompt": "Terada, Tatsugorou from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/120119.jpg?s=8f296c8f1c297cd096556cd47cc37171"
+  },
+  {
+    "name": "Tokugawa, Soyo",
+    "prompt": "Tokugawa, Soyo from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/202435.jpg?s=0e6a96e387ccd729e547f559bdfb42f9"
+  },
+  {
+    "name": "Toujou, Ayumu",
+    "prompt": "Toujou, Ayumu from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/31005.jpg?s=231efe907b051d9765dd77e06985f9da"
+  },
+  {
+    "name": "Tsukuyo",
+    "prompt": "Tsukuyo from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/115534.jpg?s=6553abe3795596d23f174495cd6c4e73"
+  },
+  {
+    "name": "Utsuro",
+    "prompt": "Utsuro from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/529872.jpg?s=106884b89f28543aa736713f652ec850"
+  },
+  {
+    "name": "Yagyu, Binbokusai",
+    "prompt": "Yagyu, Binbokusai from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/43476.jpg?s=5d6ccea01416b9b1454a4d346f2de18a"
+  },
+  {
+    "name": "Yagyuu, Kyuubei",
+    "prompt": "Yagyuu, Kyuubei from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/47988.jpg?s=f73ebc8b9f5aca14ca581356cc8d54d1"
+  },
+  {
+    "name": "Yamazaki, Sagaru",
+    "prompt": "Yamazaki, Sagaru from Gintama. Shirogane no Tamashii-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/303204.jpg?s=d013cb7ec9be0d4f39ef106ffc2ef399"
+  }
+]

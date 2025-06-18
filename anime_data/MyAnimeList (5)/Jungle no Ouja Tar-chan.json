@@ -1,0 +1,397 @@
+[
+  {
+    "name": "Jane",
+    "prompt": "Jane from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/224911.jpg?s=4bc70c9f38c0e22afd00524dcf6f36da"
+  },
+  {
+    "name": "Tar-chan",
+    "prompt": "Tar-chan from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/221219.jpg?s=c6ef94305f04c5356c64656adc4e6907"
+  },
+  {
+    "name": "Alan",
+    "prompt": "Alan from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549877.jpg?s=5a45f2511706c8600ca20cb4f4bac05c"
+  },
+  {
+    "name": "Alexander's Secretary",
+    "prompt": "Alexander's Secretary from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/549844.jpg?s=b131365a8eed9b096a6f629c7f4a8b28"
+  },
+  {
+    "name": "Allen",
+    "prompt": "Allen from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Anabebe",
+    "prompt": "Anabebe from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/224829.jpg?s=1f0ff98372f313acf7fe3b3ece247793"
+  },
+  {
+    "name": "Apollonia Mask",
+    "prompt": "Apollonia Mask from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/549848.jpg?s=25d6e9cfd092eca11edbf50937d616f2"
+  },
+  {
+    "name": "Appapa, Wyatt",
+    "prompt": "Appapa, Wyatt from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/549755.jpg?s=ddc854a0f7e4a0d6fbbb87e89ce0e1f8"
+  },
+  {
+    "name": "Argo",
+    "prompt": "Argo from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/549878.jpg?s=2012e551864608b299b994cd9f57df83"
+  },
+  {
+    "name": "Bates",
+    "prompt": "Bates from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/549895.jpg?s=9f2c49d9fec6459a39739e662f720bfd"
+  },
+  {
+    "name": "Byakuren Kamen",
+    "prompt": "Byakuren Kamen from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/549901.jpg?s=0bb07ca7d9b29b1753c12ef602891b22"
+  },
+  {
+    "name": "China Tournament Referee",
+    "prompt": "China Tournament Referee from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549767.jpg?s=3da4dec3398cd60d03b5778dbc1bf014"
+  },
+  {
+    "name": "Christian",
+    "prompt": "Christian from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/549896.jpg?s=746e0cfeb392273abf4b18da1d8df272"
+  },
+  {
+    "name": "Daitendon",
+    "prompt": "Daitendon from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/549752.jpg?s=327ca53c1f1bd35fe1057c3ea301a711"
+  },
+  {
+    "name": "Damara",
+    "prompt": "Damara from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/549875.jpg?s=43f1ad8423af9db6012f80f860bf77f0"
+  },
+  {
+    "name": "Dorothy",
+    "prompt": "Dorothy from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/549904.jpg?s=be4953b560024cf89555278d499b382c"
+  },
+  {
+    "name": "Douglas",
+    "prompt": "Douglas from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549893.jpg?s=528801aaee5272954ce2c6830624f24e"
+  },
+  {
+    "name": "Edgar",
+    "prompt": "Edgar from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/549887.jpg?s=063f3d39f9a0ec234d25fd5bf2e6e93f"
+  },
+  {
+    "name": "Etekichi",
+    "prompt": "Etekichi from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/224827.jpg?s=34eb392afb49d8fd5ab5ff03c31cbcca"
+  },
+  {
+    "name": "Galasky",
+    "prompt": "Galasky from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/549759.jpg?s=3104b06f2af9b6c770d51352ba705690"
+  },
+  {
+    "name": "Golden Eagle Mask",
+    "prompt": "Golden Eagle Mask from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/549902.jpg?s=3358f43419acae0cb13dbbada3b7a889"
+  },
+  {
+    "name": "Gouriki",
+    "prompt": "Gouriki from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Greg",
+    "prompt": "Greg from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hunter with a Scar",
+    "prompt": "Hunter with a Scar from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/549907.jpg?s=815a2fc5c82642a7fc0732e3f814a81d"
+  },
+  {
+    "name": "Hunter with Kansai Dialect",
+    "prompt": "Hunter with Kansai Dialect from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549906.jpg?s=71b5adbf44d5e0529951950edb5157c5"
+  },
+  {
+    "name": "Iron Mask",
+    "prompt": "Iron Mask from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/549897.jpg?s=99c3a0018bdcceeb2070ed47c1cfb903"
+  },
+  {
+    "name": "Jewelry",
+    "prompt": "Jewelry from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/549761.jpg?s=d5353238ef1580b3137bc25e24067ae6"
+  },
+  {
+    "name": "Kakei",
+    "prompt": "Kakei from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/549774.jpg?s=85aa8c50aa28fac020f88804d4be94e7"
+  },
+  {
+    "name": "Karamazov",
+    "prompt": "Karamazov from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/549879.jpg?s=d68900e4610acc92e72336350588c202"
+  },
+  {
+    "name": "Kazmaier, Pedro",
+    "prompt": "Kazmaier, Pedro from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/224831.jpg?s=80f1be7efbe7d2a5a46fd58780d711fb"
+  },
+  {
+    "name": "Kobun-Roushi",
+    "prompt": "Kobun-Roushi from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549777.jpg?s=a3f8183f989400cb71fe60b07f503596"
+  },
+  {
+    "name": "Kogan, Matt",
+    "prompt": "Kogan, Matt from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549796.jpg?s=95be435a7525e4e59718761ee3582787"
+  },
+  {
+    "name": "Kogan, Lisa",
+    "prompt": "Kogan, Lisa from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/549751.jpg?s=02f494381dd3ee133ff558d763a734c4"
+  },
+  {
+    "name": "Kogan, Alexander",
+    "prompt": "Kogan, Alexander from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/549793.jpg?s=c11b747c2761162037472700a8028c14"
+  },
+  {
+    "name": "Kogan, Michael",
+    "prompt": "Kogan, Michael from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/549795.jpg?s=927b471d438833726e645a4f8e20b1ea"
+  },
+  {
+    "name": "Lama, Bhutan",
+    "prompt": "Lama, Bhutan from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549847.jpg?s=1e6cabd705e0d5dcabffa2bb5286e7fc"
+  },
+  {
+    "name": "Lo",
+    "prompt": "Lo from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/549790.jpg?s=c26b384d46af3e7f9ba929a897c5da7c"
+  },
+  {
+    "name": "Maiden, Peter",
+    "prompt": "Maiden, Peter from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549898.jpg?s=7ef924b2bf416dfe8d830ce03c4798ed"
+  },
+  {
+    "name": "Mangano, Garcia",
+    "prompt": "Mangano, Garcia from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/549900.jpg?s=dfa0e1b97906c6a0b7090bdaafe840c7"
+  },
+  {
+    "name": "Mani",
+    "prompt": "Mani from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/549883.jpg?s=a43dfdf4c62365b638d80c378a945c25"
+  },
+  {
+    "name": "Marceau, Leah",
+    "prompt": "Marceau, Leah from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/549880.jpg?s=ac913ad1c672f10307d860e3a948393e"
+  },
+  {
+    "name": "Marceau, Dan",
+    "prompt": "Marceau, Dan from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/549881.jpg?s=ade158d42d58b7fd1aaf43574b833f36"
+  },
+  {
+    "name": "Marceau, Cima",
+    "prompt": "Marceau, Cima from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/549876.jpg?s=77a4d173d9bb8a534ad724f7b48d5041"
+  },
+  {
+    "name": "Matthews",
+    "prompt": "Matthews from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/549956.jpg?s=c17b55390298164a1b3ec7bb4ebe9b69"
+  },
+  {
+    "name": "Metal Kit",
+    "prompt": "Metal Kit from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/549903.jpg?s=549c97ce21b5b6378f2ab56d4f213124"
+  },
+  {
+    "name": "Mid-level Purple Fist",
+    "prompt": "Mid-level Purple Fist from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/549773.jpg?s=2bfd6fd56cfd19fe3a6334afc6b484d5"
+  },
+  {
+    "name": "Milano, Alisa",
+    "prompt": "Milano, Alisa from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/549888.jpg?s=244e3c24c2c556e343a840b11fa513fc"
+  },
+  {
+    "name": "Mr. Q",
+    "prompt": "Mr. Q from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549801.jpg?s=cf946d3312eb4a7892b6c6ae77978291"
+  },
+  {
+    "name": "Mr. R",
+    "prompt": "Mr. R from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/549873.jpg?s=8e864dd6dafe5aa813f8b698cdb33db5"
+  },
+  {
+    "name": "Mr. Robinson",
+    "prompt": "Mr. Robinson from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/549894.jpg?s=15b2cb477f5cc06fe01eb127990ed5b5"
+  },
+  {
+    "name": "Mrs. Choucroute",
+    "prompt": "Mrs. Choucroute from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/549905.jpg?s=820ba74071ee9a51dcc3ba73cda823b0"
+  },
+  {
+    "name": "Muscle Power, Violence",
+    "prompt": "Muscle Power, Violence from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/549758.jpg?s=8eb20daaac5d9be8352033d0f908232d"
+  },
+  {
+    "name": "Mysterious Man",
+    "prompt": "Mysterious Man from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/549776.jpg?s=c62381f67fdb244ddbfae31a8167ab4d"
+  },
+  {
+    "name": "Nikkola, Jack",
+    "prompt": "Nikkola, Jack from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/549792.jpg?s=89326918528be21a0705fcd9f0ea5c33"
+  },
+  {
+    "name": "Noguchi, Helen",
+    "prompt": "Noguchi, Helen from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/549756.jpg?s=3e3a0d77fc19a677f0803b977c1f3f3b"
+  },
+  {
+    "name": "Nose",
+    "prompt": "Nose from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/549753.jpg?s=91a19021e62d0f9d2b46e51d71864658"
+  },
+  {
+    "name": "Old Man at the Bar",
+    "prompt": "Old Man at the Bar from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/549757.jpg?s=6541883ac6726f6959fb019a7147c898"
+  },
+  {
+    "name": "Ouki",
+    "prompt": "Ouki from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/549788.jpg?s=6d1809c09ba21433408d0b4e37deaedb"
+  },
+  {
+    "name": "Pamela",
+    "prompt": "Pamela from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/549791.jpg?s=c66f9e53bf54615a828388fd38eaed3d"
+  },
+  {
+    "name": "Photographer",
+    "prompt": "Photographer from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/549760.jpg?s=ce140360842ae7a9bfadbab65f58991a"
+  },
+  {
+    "name": "Purple Fist with Five-section Whip",
+    "prompt": "Purple Fist with Five-section Whip from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/549770.jpg?s=d4909abddd3dc996a0fbaea15d300ad7"
+  },
+  {
+    "name": "Purple Fist with Sword",
+    "prompt": "Purple Fist with Sword from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/549772.jpg?s=a2c5d0a2522b8171dd28495a33ce7bc0"
+  },
+  {
+    "name": "Queen",
+    "prompt": "Queen from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/549794.jpg?s=12aa323075b37700f3b77cbfbe5be4f4"
+  },
+  {
+    "name": "Red Arhat Fist",
+    "prompt": "Red Arhat Fist from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/549775.jpg?s=2be9c01d01354b6049e7497a9fe05553"
+  },
+  {
+    "name": "Renhou",
+    "prompt": "Renhou from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/549764.jpg?s=f2f9498fc6f9ffa2cd56e30705c69e7d"
+  },
+  {
+    "name": "Rick",
+    "prompt": "Rick from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/549874.jpg?s=742a1fdc3182f0d4296541bc7fe950ad"
+  },
+  {
+    "name": "Rikou",
+    "prompt": "Rikou from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/549778.jpg?s=810fa8b9ca258e704ffd574dfdfa3a16"
+  },
+  {
+    "name": "Rin, Yuu",
+    "prompt": "Rin, Yuu from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/549908.jpg?s=e9c259c3db56c16750ec890a3a5ab827"
+  },
+  {
+    "name": "Rinrin",
+    "prompt": "Rinrin from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/549955.jpg?s=b0470e6f3ec474ebc97ccc92dc4d144d"
+  },
+  {
+    "name": "Rosalyn",
+    "prompt": "Rosalyn from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/549899.jpg?s=1d1072e71beed74a1e946779177e1c60"
+  },
+  {
+    "name": "Ryou",
+    "prompt": "Ryou from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/224833.jpg?s=a459953b1c197fc842d846c7ee94a49b"
+  },
+  {
+    "name": "Ryuuen",
+    "prompt": "Ryuuen from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/549789.jpg?s=89cb76fa6cc05763d561c9cdfab30003"
+  },
+  {
+    "name": "Ryuuhou",
+    "prompt": "Ryuuhou from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/549779.jpg?s=fa593cf00973c901f5e6f9e1f13f4bc6"
+  },
+  {
+    "name": "Samransak",
+    "prompt": "Samransak from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/549885.jpg?s=a08ee92b5f06b830eba55e06ccdef8eb"
+  },
+  {
+    "name": "Sergio",
+    "prompt": "Sergio from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549884.jpg?s=8f18cb468fbc9afb9be74a532fe204b8"
+  },
+  {
+    "name": "Shou",
+    "prompt": "Shou from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/549762.jpg?s=feefec82a54f3da7ffde90698d0de11e"
+  },
+  {
+    "name": "Sodom, Rhod",
+    "prompt": "Sodom, Rhod from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549845.jpg?s=161e7813cf4ad8287cc1ba6537194f48"
+  },
+  {
+    "name": "Takobouzu",
+    "prompt": "Takobouzu from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/549763.jpg?s=51a97026849a6934ac3568d3ad7d9e3a"
+  },
+  {
+    "name": "Tepes, Vlat",
+    "prompt": "Tepes, Vlat from Jungle no Ouja Tar-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/549882.jpg?s=0f82fff90811022bdddf9f6e8b9e32f9"
+  }
+]

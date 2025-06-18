@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Pingu",
+    "prompt": "Pingu from Pingu in the City",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/341111.jpg?s=7632360d95253f3bb0013bfc2fea0795"
+  },
+  {
+    "name": "Pikuru",
+    "prompt": "Pikuru from Pingu in the City",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/394652.jpg?s=43649ef968f18065b3d8ec7870c04dcb"
+  },
+  {
+    "name": "Pinga",
+    "prompt": "Pinga from Pingu in the City",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/421848.jpg?s=e863cb940656f0cc6bafd2c17aa9a1a4"
+  },
+  {
+    "name": "Robby",
+    "prompt": "Robby from Pingu in the City",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/421651.jpg?s=f5536fbd0a8b8a518bff657761ff7627"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Mikazuchi",
+    "prompt": "Mikazuchi from Yamato Takeru",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/166317.jpg?s=da73870936c96c93a4a8c26ae5e511ec"
+  },
+  {
+    "name": "Roka",
+    "prompt": "Roka from Yamato Takeru",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/166313.jpg?s=098e0ccf6471eaf3b6967c7d8941d8b0"
+  },
+  {
+    "name": "Tachibana, Oto",
+    "prompt": "Tachibana, Oto from Yamato Takeru",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/166315.jpg?s=baa26a5ef08ae0aba1332778532b5af6"
+  },
+  {
+    "name": "Takeru, Yamato",
+    "prompt": "Takeru, Yamato from Yamato Takeru",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/166271.jpg?s=47ff837928176b5640a1ca2f0e9ef2ba"
+  },
+  {
+    "name": "Amatsumi",
+    "prompt": "Amatsumi from Yamato Takeru",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/307962.jpg?s=5a2674d974f96532f05f4176f81ef2cd"
+  },
+  {
+    "name": "Kiryuu",
+    "prompt": "Kiryuu from Yamato Takeru",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/307964.jpg?s=f8c3dfa14091a5431e65271fde4bcedd"
+  },
+  {
+    "name": "Kushinada",
+    "prompt": "Kushinada from Yamato Takeru",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/307963.jpg?s=98ec529f6dbc3cc0ee59d8c52eebf8bb"
+  }
+]

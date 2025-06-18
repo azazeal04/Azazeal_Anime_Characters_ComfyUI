@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Hayato",
+    "prompt": "Hayato from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/304559.jpg?s=12061c0b39db85a719e6862aefccf32e"
+  },
+  {
+    "name": "Koharun",
+    "prompt": "Koharun from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/304551.jpg?s=c06ab73611fdcbdbee5ffe9d9cb03e2f"
+  },
+  {
+    "name": "Masaki",
+    "prompt": "Masaki from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/304241.jpg?s=70528329a89abfedb0a39de6985e3f89"
+  },
+  {
+    "name": "Sakai, Mitsumune",
+    "prompt": "Sakai, Mitsumune from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/304550.jpg?s=8e002cff207241e191fa52d0fea969a4"
+  },
+  {
+    "name": "Dahara",
+    "prompt": "Dahara from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/304552.jpg?s=92d9f91240fccaeffb82a0ccc8762b34"
+  },
+  {
+    "name": "Dozaemon",
+    "prompt": "Dozaemon from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/304554.jpg?s=1bc5f82c711b2fa92f12aa2f8906fff9"
+  },
+  {
+    "name": "Hyouketsu no Judgness",
+    "prompt": "Hyouketsu no Judgness from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/304553.jpg?s=cae26a70ca854c637956c931c00681c7"
+  },
+  {
+    "name": "Jack",
+    "prompt": "Jack from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/305167.jpg?s=86a11be11217ef9c442c740b25d24ef6"
+  },
+  {
+    "name": "Jigoku no Gouka",
+    "prompt": "Jigoku no Gouka from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/304555.jpg?s=631a580d48e45fab5e291d431ba0047a"
+  },
+  {
+    "name": "Kamiyama, Haruomi",
+    "prompt": "Kamiyama, Haruomi from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Lion",
+    "prompt": "Lion from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/302092.jpg?s=da3006740c0e4715a74c3bd06b44072a"
+  },
+  {
+    "name": "Love-pon",
+    "prompt": "Love-pon from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/304556.jpg?s=94bd5a5bec566081847c9a58678c6ff1"
+  },
+  {
+    "name": "Maimai",
+    "prompt": "Maimai from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/304557.jpg?s=5b92176babdf1c693640daaaec226efd"
+  },
+  {
+    "name": "Manbe",
+    "prompt": "Manbe from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/303081.jpg?s=53f886ba3773b497a244f4fa48524638"
+  },
+  {
+    "name": "Mikage, Yura",
+    "prompt": "Mikage, Yura from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/304558.jpg?s=5f24e7ec4c5fcd7d1ee72769562b063a"
+  },
+  {
+    "name": "Misato",
+    "prompt": "Misato from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Naana",
+    "prompt": "Naana from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/302241.jpg?s=c030c993e1c7782a578ac3f2d2abaace"
+  },
+  {
+    "name": "Nanko",
+    "prompt": "Nanko from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/304560.jpg?s=0fd73360fa593eb4f8a769fd34165c78"
+  },
+  {
+    "name": "Nettaiya",
+    "prompt": "Nettaiya from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/304561.jpg?s=e71d2847852cec808d3f62c5b685c5ef"
+  },
+  {
+    "name": "Nyanta",
+    "prompt": "Nyanta from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/305163.jpg?s=a99d925f2fb5481136187a1e1489d706"
+  },
+  {
+    "name": "Pii-tan",
+    "prompt": "Pii-tan from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/303082.jpg?s=453cee2129d7f2553c2886ecc9492ab8"
+  },
+  {
+    "name": "Puuko",
+    "prompt": "Puuko from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/305165.jpg?s=984205298c01c5e58c61fea9e27435b4"
+  },
+  {
+    "name": "Reiji",
+    "prompt": "Reiji from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/334233.jpg?s=d1d1528b51a49be377df76e6a13d8904"
+  },
+  {
+    "name": "Sakai, Mitsuko",
+    "prompt": "Sakai, Mitsuko from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sakai, Kimiko",
+    "prompt": "Sakai, Kimiko from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sakai, Hidetoshi",
+    "prompt": "Sakai, Hidetoshi from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Soy Latte",
+    "prompt": "Soy Latte from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/304564.jpg?s=9b89f401e0acfc8cdd2b2b325135a06b"
+  },
+  {
+    "name": "Tokimune",
+    "prompt": "Tokimune from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/308755.jpg?s=75912324d625d64477ddcf11ad4f59d7"
+  },
+  {
+    "name": "Toriyasu",
+    "prompt": "Toriyasu from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/305162.jpg?s=16da09ac0178ed64064c2eba97e0bcaf"
+  },
+  {
+    "name": "Toshi Boy",
+    "prompt": "Toshi Boy from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/305161.jpg?s=ab162afe5b4c7dd512e240db451d2e49"
+  },
+  {
+    "name": "Untensha",
+    "prompt": "Untensha from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/303095.jpg?s=01684b8a0153b2853cc7bb6cd5e6c874"
+  },
+  {
+    "name": "Valkana",
+    "prompt": "Valkana from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/304562.jpg?s=aef36589ac33aa0703a64cd8da45ad20"
+  },
+  {
+    "name": "Wanko",
+    "prompt": "Wanko from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/303086.jpg?s=c7b2e4f9d24d51ed95a2f2adc654e644"
+  },
+  {
+    "name": "Yamauchi",
+    "prompt": "Yamauchi from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/304565.jpg?s=4d62cf466e98f7f544f6090b4d552bb6"
+  },
+  {
+    "name": "Yottsun",
+    "prompt": "Yottsun from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/305164.jpg?s=dd0ed763154db4bd2c10ec2d23e17fca"
+  },
+  {
+    "name": "Yuuna",
+    "prompt": "Yuuna from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/303088.jpg?s=ec1247f89b52b6e954d63fcb7421afe4"
+  },
+  {
+    "name": "Yuune",
+    "prompt": "Yuune from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/306316.jpg?s=74d0f5f19041f7e5229bdd2fab6aab0d"
+  },
+  {
+    "name": "Yuuno",
+    "prompt": "Yuuno from Mayoiga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/304563.jpg?s=1724816119ececc274beb3ac614f092c"
+  }
+]

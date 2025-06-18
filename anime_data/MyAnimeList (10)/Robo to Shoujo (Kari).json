@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Robo-kun",
+    "prompt": "Robo-kun from Robo to Shoujo (Kari)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/250339.jpg?s=93be6cecba4552e08660b09a2d78c640"
+  },
+  {
+    "name": "Shoujo-chan",
+    "prompt": "Shoujo-chan from Robo to Shoujo (Kari)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/250341.jpg?s=da38ae802708cf5fb950a585c1960f6b"
+  },
+  {
+    "name": "Evil Boss",
+    "prompt": "Evil Boss from Robo to Shoujo (Kari)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/250347.jpg?s=6332e2e8979c3068b9f611bbacbe645a"
+  },
+  {
+    "name": "Evil Robo",
+    "prompt": "Evil Robo from Robo to Shoujo (Kari)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/250345.jpg?s=0d563f5f117c0e11bb17c72ffa2f710e"
+  },
+  {
+    "name": "Oyakata",
+    "prompt": "Oyakata from Robo to Shoujo (Kari)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/250343.jpg?s=180d02abbbee8eeaff7f0ea7d0a8ec1d"
+  }
+]

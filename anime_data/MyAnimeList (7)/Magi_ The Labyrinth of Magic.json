@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Aladdin",
+    "prompt": "Aladdin from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/186851.jpg?s=88895b2f148024f010f213d4713b57ec"
+  },
+  {
+    "name": "Morgiana",
+    "prompt": "Morgiana from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/173513.jpg?s=c458adf90e37d959bad33aa4ce762606"
+  },
+  {
+    "name": "Saluja, Alibaba",
+    "prompt": "Saluja, Alibaba from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/171933.jpg?s=ce39258392271204c925b59edc687ec3"
+  },
+  {
+    "name": "Amon",
+    "prompt": "Amon from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/218721.jpg?s=3a6808921885ab7bf08ffda7cd5ada54"
+  },
+  {
+    "name": "Amun-Ra, Sharrkan",
+    "prompt": "Amun-Ra, Sharrkan from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/197407.jpg?s=a0a5c357cb4a04cc076f63a81727b298"
+  },
+  {
+    "name": "Anise",
+    "prompt": "Anise from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/187051.jpg?s=0c8b24de90c5f3e2fec7f80775edf919"
+  },
+  {
+    "name": "Apollonius",
+    "prompt": "Apollonius from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/337380.jpg?s=b1b0182f79bb98ede69a2bd113886e41"
+  },
+  {
+    "name": "Arms Dealer",
+    "prompt": "Arms Dealer from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/410991.jpg?s=bdb19d20c1ffbc5debbdc663c8cf7c96"
+  },
+  {
+    "name": "Baba",
+    "prompt": "Baba from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/185453.jpg?s=64b30ea2eddd52a8186b7347c5cacbcb"
+  },
+  {
+    "name": "Barkak",
+    "prompt": "Barkak from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/196347.jpg?s=ac718852b76143cdc0e700cdb4a20128"
+  },
+  {
+    "name": "Budel",
+    "prompt": "Budel from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/201117.jpg?s=5a766285424d72bb0d040ddbdb80558b"
+  },
+  {
+    "name": "Byoln",
+    "prompt": "Byoln from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/201105.jpg?s=ba896b4287c432c445d62588298f3a4e"
+  },
+  {
+    "name": "Cassim",
+    "prompt": "Cassim from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/128643.jpg?s=3a0e1d575012a80a75c1310cbbcc9119"
+  },
+  {
+    "name": "Dolge",
+    "prompt": "Dolge from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/185463.jpg?s=d572edd4eba270062cc6c234f75f7f90"
+  },
+  {
+    "name": "Drakon",
+    "prompt": "Drakon from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/195835.jpg?s=7d0596d30ce3c7d67cd6b18964f75209"
+  },
+  {
+    "name": "Ekaterina",
+    "prompt": "Ekaterina from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/410968.jpg?s=37ee800a98d7ef966159b9eeb712d8f9"
+  },
+  {
+    "name": "Elizabeth",
+    "prompt": "Elizabeth from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/305143.jpg?s=ce9b8075556805ab5642016fac83c4fb"
+  },
+  {
+    "name": "Engi",
+    "prompt": "Engi from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/410980.jpg?s=fb23f6828453d60559369fccb77cba5c"
+  },
+  {
+    "name": "Enshin",
+    "prompt": "Enshin from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/410978.jpg?s=ad0b979a40151fb94bbb5ad75065b3b7"
+  },
+  {
+    "name": "Entai",
+    "prompt": "Entai from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/410979.jpg?s=ac8fe67bdb1a093626b9e8201ab71cde"
+  },
+  {
+    "name": "Fatima",
+    "prompt": "Fatima from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/186745.jpg?s=7e73e1166b67b7dd22cd0c3ef46134e7"
+  },
+  {
+    "name": "Focalor",
+    "prompt": "Focalor from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/260191.jpg?s=58b1bd47b275c6861293bce8df8ec750"
+  },
+  {
+    "name": "Goltas",
+    "prompt": "Goltas from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/201113.jpg?s=423e90754cf69c2efd6f7da4593a3458"
+  },
+  {
+    "name": "Hassan",
+    "prompt": "Hassan from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/187067.jpg?s=3aa727d5db3625c730eb9583ddad3ce8"
+  },
+  {
+    "name": "Hinahoho",
+    "prompt": "Hinahoho from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/149443.jpg?s=0115d54f32981da93a98f6bcf8798d32"
+  },
+  {
+    "name": "Imsisika",
+    "prompt": "Imsisika from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/411038.jpg?s=b69e9a86bbc6d07f51453f0409c85af4"
+  },
+  {
+    "name": "Isaac",
+    "prompt": "Isaac from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/200845.jpg?s=c703dd5eeda8652e1546adae886a6155"
+  },
+  {
+    "name": "Ithnan",
+    "prompt": "Ithnan from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/201111.jpg?s=f310b877f9805e0a8da63abd2129ad52"
+  },
+  {
+    "name": "Ja'far",
+    "prompt": "Ja'far from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/181339.jpg?s=d80ec222aee0d736cb0119d83e3776a0"
+  },
+  {
+    "name": "Jamil",
+    "prompt": "Jamil from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/186333.jpg?s=6e3e2894c21fb0b7e39fe12b67626a41"
+  },
+  {
+    "name": "Jehoahaz Abraham, Solomon",
+    "prompt": "Jehoahaz Abraham, Solomon from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/247001.jpg?s=436e9be4ae02dcd4af82d4e9cc2071d7"
+  },
+  {
+    "name": "Judar",
+    "prompt": "Judar from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/175489.jpg?s=801c073f0a95bf91372757036ccf1bd7"
+  },
+  {
+    "name": "Ka, Koubun",
+    "prompt": "Ka, Koubun from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/194545.jpg?s=8c8ef867a81a49f42011bd0cd4b275f0"
+  },
+  {
+    "name": "Leila",
+    "prompt": "Leila from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/186739.jpg?s=54300797c3d7aebce96bdf82882ab6b9"
+  },
+  {
+    "name": "Mariam",
+    "prompt": "Mariam from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/201123.jpg?s=509bba0b18f1bfee9acfbaf7b662d2fa"
+  },
+  {
+    "name": "Markkio",
+    "prompt": "Markkio from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/200857.jpg?s=0307624449f4bb91982a5a1bbc82466c"
+  },
+  {
+    "name": "Masrur",
+    "prompt": "Masrur from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/175313.jpg?s=cf432f0a87ca40339894b23f8bed53b7"
+  },
+  {
+    "name": "Mina",
+    "prompt": "Mina from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/201119.jpg?s=d92d285935a2dfaa4e7c7dddbf809839"
+  },
+  {
+    "name": "Mogamett, Matal",
+    "prompt": "Mogamett, Matal from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/201103.jpg?s=ff3ebfd64454f30e3843ebee8a2d03e2"
+  },
+  {
+    "name": "Musta'sim, Dunya",
+    "prompt": "Musta'sim, Dunya from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/200855.jpg?s=c09d9ab35ce2a178fbd3db9d6275bd1f"
+  },
+  {
+    "name": "Nadja",
+    "prompt": "Nadja from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/186743.jpg?s=e2da2c4db08283885e536d1aedf08b24"
+  },
+  {
+    "name": "Nando, S",
+    "prompt": "Nando, S from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/186747.jpg?s=9e8417e9f2172a4f0114c40ac4ad7309"
+  },
+  {
+    "name": "Nando, M",
+    "prompt": "Nando, M from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/230877.jpg?s=94608dc87f6c62e8a44d51a26238a594"
+  },
+  {
+    "name": "Nando, L",
+    "prompt": "Nando, L from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/339635.jpg?s=bfc86bf18ad07264d6a27b6191aeeae6"
+  },
+  {
+    "name": "Noi Nueph, Uraltugo",
+    "prompt": "Noi Nueph, Uraltugo from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/186335.jpg?s=8831d646e947433f66a8d85b718fef35"
+  },
+  {
+    "name": "Paimon",
+    "prompt": "Paimon from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/186233.jpg?s=a5944a428c08f41e34c1d95f4eacbfa2"
+  },
+  {
+    "name": "Pisti",
+    "prompt": "Pisti from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/201107.jpg?s=ed45bf97e79fe6f0509cc1b7404721b6"
+  },
+  {
+    "name": "Pratemia, Parsine",
+    "prompt": "Pratemia, Parsine from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/411037.jpg?s=0e85e3a48a6a03fa99ce40a7c8d8a631"
+  },
+  {
+    "name": "Ren, Kouen",
+    "prompt": "Ren, Kouen from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/200849.jpg?s=1c6f1fabaf0ae8143841195857d9d62a"
+  },
+  {
+    "name": "Ren, Hakuei",
+    "prompt": "Ren, Hakuei from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/185451.jpg?s=a6c9ed65c830fbb4a6f99736a6cbbe2f"
+  },
+  {
+    "name": "Ren, Koutoku",
+    "prompt": "Ren, Koutoku from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/410987.jpg?s=af266c026e620838da564fa1560acb41"
+  },
+  {
+    "name": "Ren, Kougyoku",
+    "prompt": "Ren, Kougyoku from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/192841.jpg?s=b1bed962c3c7ad313206223b53b9afec"
+  },
+  {
+    "name": "Ren, Hakuryuu",
+    "prompt": "Ren, Hakuryuu from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/197409.jpg?s=ac612c7a8d98bca999f46e26c2954dec"
+  },
+  {
+    "name": "Ren, Kouha",
+    "prompt": "Ren, Kouha from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/200847.jpg?s=62972eb0762ea6d71a2a1b6f077412b8"
+  },
+  {
+    "name": "Ren, Hakuyuu",
+    "prompt": "Ren, Hakuyuu from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/226879.jpg?s=164fc1b91d307b4d25c35909e3ebba6b"
+  },
+  {
+    "name": "Ren, Gyokuen",
+    "prompt": "Ren, Gyokuen from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/201101.jpg?s=24c108401f761c3bcfa16594ab115b12"
+  },
+  {
+    "name": "Ri, Seisyun",
+    "prompt": "Ri, Seisyun from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/186337.jpg?s=e4e6a5ea8bd544542d45a0a2971db2cc"
+  },
+  {
+    "name": "Ryosai",
+    "prompt": "Ryosai from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/186231.jpg?s=b89adddf0a4df6921035a3fb71395e71"
+  },
+  {
+    "name": "Sa'id",
+    "prompt": "Sa'id from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/411033.jpg?s=f0e72c588bc3a292133d10723409c276"
+  },
+  {
+    "name": "Sahsa",
+    "prompt": "Sahsa from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/186737.jpg?s=80d38d56392363a205e5159181040886"
+  },
+  {
+    "name": "Saluja, Sabhmad",
+    "prompt": "Saluja, Sabhmad from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/187053.jpg?s=3b677b072243d297df31042339bd332e"
+  },
+  {
+    "name": "Saluja, Abhmad",
+    "prompt": "Saluja, Abhmad from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/187055.jpg?s=d7cc84c6b0d11074034292f929bfc5c2"
+  },
+  {
+    "name": "Saluja, Rashid",
+    "prompt": "Saluja, Rashid from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/194871.jpg?s=1d09aca936b7fcaad8455787e917cb22"
+  },
+  {
+    "name": "Sinbad",
+    "prompt": "Sinbad from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/181341.jpg?s=eb884d2314e979fa4888a1fcac4e58e0"
+  },
+  {
+    "name": "Spartos",
+    "prompt": "Spartos from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/195837.jpg?s=5d78e8b206b33de73f0baaeea2701f6c"
+  },
+  {
+    "name": "Tariq",
+    "prompt": "Tariq from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/411034.jpg?s=5ef8f2fb2f04cda703cd7ab1d4a1013e"
+  },
+  {
+    "name": "Tiare",
+    "prompt": "Tiare from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/286385.jpg?s=7706737d9dbb5ad2b966277a6609f0af"
+  },
+  {
+    "name": "Titi, Narmes",
+    "prompt": "Titi, Narmes from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/411036.jpg?s=7b5a49d8c0c36a785c1f7558ccc3ecf1"
+  },
+  {
+    "name": "Toya",
+    "prompt": "Toya from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/185455.jpg?s=bcff0281b6753d43d788724be1d7269f"
+  },
+  {
+    "name": "Yamraiha",
+    "prompt": "Yamraiha from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/203059.jpg?s=94cfb7a76aa8ec346e712e8c473bd1c3"
+  },
+  {
+    "name": "Yunan",
+    "prompt": "Yunan from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/201099.jpg?s=d9502395190c4e3e41ee9978d7d9f341"
+  },
+  {
+    "name": "Zagan",
+    "prompt": "Zagan from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/200851.jpg?s=f4edc5e6d70df78d4091e77d27ed5c99"
+  },
+  {
+    "name": "Zaynab",
+    "prompt": "Zaynab from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/187057.jpg?s=e78bb21f044453b9757627904c115583"
+  },
+  {
+    "name": "Zepar",
+    "prompt": "Zepar from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/261401.jpg?s=7787d6d7467db903a4516c961e8882de"
+  },
+  {
+    "name": "Zurmudd",
+    "prompt": "Zurmudd from Magi: The Labyrinth of Magic",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/339634.jpg?s=f2c501a4240e0d8aede9598a29ff4f8a"
+  }
+]

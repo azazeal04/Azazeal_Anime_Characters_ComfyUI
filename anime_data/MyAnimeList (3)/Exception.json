@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Lewis",
+    "prompt": "Lewis from Exception",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/491495.jpg?s=3307747898171db2caef6481fa98a5c8"
+  },
+  {
+    "name": "Mack",
+    "prompt": "Mack from Exception",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/491493.jpg?s=855fff889bf24cb44450e92d2a9d030c"
+  },
+  {
+    "name": "Nina",
+    "prompt": "Nina from Exception",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/491492.jpg?s=c6be46294828eb95515cb2b74251655f"
+  },
+  {
+    "name": "Oscar",
+    "prompt": "Oscar from Exception",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/491494.jpg?s=293efa480617d0bb8c238f2ec6a4958b"
+  },
+  {
+    "name": "Patty",
+    "prompt": "Patty from Exception",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/491491.jpg?s=65b298870566e8851df29db03c7aaefa"
+  }
+]

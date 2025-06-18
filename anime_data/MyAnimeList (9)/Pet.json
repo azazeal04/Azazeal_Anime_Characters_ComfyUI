@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Hayashi",
+    "prompt": "Hayashi from Pet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/392608.jpg?s=ed9ae1fcf96e42dca344408d05035abe"
+  },
+  {
+    "name": "Hiroki",
+    "prompt": "Hiroki from Pet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/392596.jpg?s=438fd919c4a9dae4663f99377a48f699"
+  },
+  {
+    "name": "Satoru",
+    "prompt": "Satoru from Pet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/392607.jpg?s=73a68cb969a79aca9b2e61d9b0c72936"
+  },
+  {
+    "name": "Tsukasa",
+    "prompt": "Tsukasa from Pet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/392602.jpg?s=a173bc4260cf90345c138b513409c1e0"
+  },
+  {
+    "name": "Jin",
+    "prompt": "Jin from Pet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/392612.jpg?s=747ed357eb1f27b2996aa573012f121e"
+  },
+  {
+    "name": "Katsuragi",
+    "prompt": "Katsuragi from Pet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/392609.jpg?s=ff207c125f1b09057741d2f30ce212b7"
+  },
+  {
+    "name": "Long",
+    "prompt": "Long from Pet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/392613.jpg?s=7d1feb49158de29d1d486b4ff0557fab"
+  },
+  {
+    "name": "President",
+    "prompt": "President from Pet",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/392618.jpg?s=26a8e8922f151243bc60f45fb01ac2d4"
+  }
+]

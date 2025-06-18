@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Michael",
+    "prompt": "Michael from What's Michael?",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/91170.jpg?s=cdaf9e3344dd578b79bcedfd50c63b14"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from What's Michael?",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Poppo",
+    "prompt": "Poppo from What's Michael?",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/346356.jpg?s=5dc28537f0e924854ed74e3408455f34"
+  }
+]

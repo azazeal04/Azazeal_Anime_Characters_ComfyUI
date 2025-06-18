@@ -1,0 +1,627 @@
+[
+  {
+    "name": "Bashou",
+    "prompt": "Bashou from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/22781.jpg?s=5b2409cda37280740ac0b6b3048793c6"
+  },
+  {
+    "name": "Buson",
+    "prompt": "Buson from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/22782.jpg?s=c71318c6cf667891936d2fdff3037f25"
+  },
+  {
+    "name": "Junichi",
+    "prompt": "Junichi from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/525134.jpg?s=637b89942f094a68f188ad60004cc698"
+  },
+  {
+    "name": "Kasumi",
+    "prompt": "Kasumi from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/104997.jpg?s=9ec835645bde808be53cddb2c06d33bf"
+  },
+  {
+    "name": "Kenji",
+    "prompt": "Kenji from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/482712.jpg?s=9b37963e99d23b79355ad732da574ab8"
+  },
+  {
+    "name": "Kenta",
+    "prompt": "Kenta from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/83718.jpg?s=89d89434a58e777c9176d09972d52b5a"
+  },
+  {
+    "name": "Marina",
+    "prompt": "Marina from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/22488.jpg?s=74dfbc387996fdfa9d3f3b86ed66ef12"
+  },
+  {
+    "name": "Nanako",
+    "prompt": "Nanako from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/234413.jpg?s=8f65014177aa347333fac602ce7087ec"
+  },
+  {
+    "name": "Ookido, Shigeru",
+    "prompt": "Ookido, Shigeru from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/258075.jpg?s=14562df0f54cb88a5d1c5996ee35b1fb"
+  },
+  {
+    "name": "Takeshi",
+    "prompt": "Takeshi from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/364663.jpg?s=d0df6688560613a126a8a9149d32d8e8"
+  },
+  {
+    "name": "Arbok",
+    "prompt": "Arbok from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/499143.jpg?s=45d73098814e473fad10d9927d9a6c87"
+  },
+  {
+    "name": "Ayame",
+    "prompt": "Ayame from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/501505.jpg?s=df4e4e826ed8e4939f8eaca398363530"
+  },
+  {
+    "name": "Betbeton",
+    "prompt": "Betbeton from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/498079.jpg?s=394c256329e54b6751d046cc86137735"
+  },
+  {
+    "name": "Blacky",
+    "prompt": "Blacky from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/504427.jpg?s=94e3f93d5a82a5c75baa8b603a8fe990"
+  },
+  {
+    "name": "Botan",
+    "prompt": "Botan from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/516284.jpg?s=ce9fbc5d286aed2c38789a862852156e"
+  },
+  {
+    "name": "Bruce, Rin",
+    "prompt": "Bruce, Rin from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/553850.jpg?s=4b112591e45ece2d81200e8fccebe73c"
+  },
+  {
+    "name": "Bruce, Chan",
+    "prompt": "Bruce, Chan from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/553849.jpg?s=af3a31983ca30ae4bd520360566ab96a"
+  },
+  {
+    "name": "Bruce, Shan",
+    "prompt": "Bruce, Shan from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/553851.jpg?s=b3a278956865e42ebc2415586bc69e04"
+  },
+  {
+    "name": "Celebi",
+    "prompt": "Celebi from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/100984.jpg?s=786774e4c2fa896ad74dbf6b2b171fcf"
+  },
+  {
+    "name": "Chikorita",
+    "prompt": "Chikorita from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/528618.jpg?s=00c32ca6835ad3eb5a11f78b730596c5"
+  },
+  {
+    "name": "Coil",
+    "prompt": "Coil from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498605.jpg?s=21c5d42c79b5cab5eb0eb3159de929c5"
+  },
+  {
+    "name": "Doctor Namba",
+    "prompt": "Doctor Namba from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/528806.jpg?s=ab8ea26e34e7261f9637945e736f5aa1"
+  },
+  {
+    "name": "Doctor Shiranui",
+    "prompt": "Doctor Shiranui from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/97838.jpg?s=73f857327feea6daf3ed93031bc0abf8"
+  },
+  {
+    "name": "Dodrio",
+    "prompt": "Dodrio from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/498610.jpg?s=b74edca1637f7feed5971bd023594512"
+  },
+  {
+    "name": "Dr. Brown",
+    "prompt": "Dr. Brown from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/553903.jpg?s=a69e6d7131125eecf10eca5e32a95722"
+  },
+  {
+    "name": "Dr. Kobara",
+    "prompt": "Dr. Kobara from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/553890.jpg?s=0161e20c7b218b46f1e462e779d91069"
+  },
+  {
+    "name": "Eifie",
+    "prompt": "Eifie from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/504426.jpg?s=07f50dbf80adbacdc001d4aa56c37ccf"
+  },
+  {
+    "name": "Elekid",
+    "prompt": "Elekid from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/528245.jpg?s=3309b3002532edcb62d0215a5b452f58"
+  },
+  {
+    "name": "Eneko",
+    "prompt": "Eneko from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/517163.jpg?s=bdc3cda13c0f7709f43cc570f09aee7b"
+  },
+  {
+    "name": "Fire",
+    "prompt": "Fire from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/453721.jpg?s=2eda7b2c0db3a079c2be9408ce3ee2d4"
+  },
+  {
+    "name": "Fushigidane",
+    "prompt": "Fushigidane from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/484349.jpg?s=80dee90bc9f5ffc5a36db98e0f47d065"
+  },
+  {
+    "name": "Fushigisou",
+    "prompt": "Fushigisou from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/497450.jpg?s=cb15aaf8910b161c75e4be96ac1de61c"
+  },
+  {
+    "name": "Gardie",
+    "prompt": "Gardie from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497179.jpg?s=190a0d99d19fe1b73e2a5e6b544a4b2f"
+  },
+  {
+    "name": "Gengar",
+    "prompt": "Gengar from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497724.jpg?s=5e6079f80a75912bc0139b8a95dc54fa"
+  },
+  {
+    "name": "Golonya",
+    "prompt": "Golonya from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/498604.jpg?s=168d7ba882896fd68b213d4c65a30c0d"
+  },
+  {
+    "name": "Gomazou",
+    "prompt": "Gomazou from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/495497.jpg?s=da91552689ce501e1cf627c856621e72"
+  },
+  {
+    "name": "Goriki",
+    "prompt": "Goriki from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/497605.jpg?s=a37679a4a60feb23a4f13033dca0e008"
+  },
+  {
+    "name": "Graena",
+    "prompt": "Graena from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/500159.jpg?s=d00a3061d666068f71743713c3dfe736"
+  },
+  {
+    "name": "Gyarados",
+    "prompt": "Gyarados from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/528249.jpg?s=a62ca3c62d1d023218389e1337abb3ec"
+  },
+  {
+    "name": "Gym Badge Thief #1",
+    "prompt": "Gym Badge Thief #1 from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/553892.jpg?s=4d612144da9e355df2a6acb01821dd19"
+  },
+  {
+    "name": "Gym Badge Thief #2",
+    "prompt": "Gym Badge Thief #2 from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/553893.jpg?s=9487013bb00c192a4d6f0caf5cc5eb88"
+  },
+  {
+    "name": "Hajime",
+    "prompt": "Hajime from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/97791.jpg?s=6fe0dca249da3cb2cb401e1922a2b5a6"
+  },
+  {
+    "name": "Hanako",
+    "prompt": "Hanako from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/506992.jpg?s=0229e1b6818ea34136d09d24e8e744f6"
+  },
+  {
+    "name": "Heracross",
+    "prompt": "Heracross from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497650.jpg?s=d92b43d4c8edba36914b6c4858eae4ed"
+  },
+  {
+    "name": "Hinoarashi",
+    "prompt": "Hinoarashi from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/495308.jpg?s=5dc420d479c62b5975204880f95bb58a"
+  },
+  {
+    "name": "Hiroshi",
+    "prompt": "Hiroshi from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/493930.jpg?s=496bc86b1c21a8d9b1280a9d1d03ea7b"
+  },
+  {
+    "name": "Hitodeman",
+    "prompt": "Hitodeman from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/497608.jpg?s=b9b711e1d756ad2d944a211e97a6d3c0"
+  },
+  {
+    "name": "Hitokage",
+    "prompt": "Hitokage from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497725.jpg?s=d7b0e60b71876679b6a20161fc2260d0"
+  },
+  {
+    "name": "Ishitsubute",
+    "prompt": "Ishitsubute from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497609.jpg?s=bcdc5d8156655d78fdb5b6684561cc9e"
+  },
+  {
+    "name": "Iwark",
+    "prompt": "Iwark from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/528254.jpg?s=581b599604eb78f7cfc8367c34d672c6"
+  },
+  {
+    "name": "Jiro",
+    "prompt": "Jiro from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/109647.jpg?s=fcfdee4aa3f81d24b7f2852551bd6041"
+  },
+  {
+    "name": "Joy",
+    "prompt": "Joy from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/215001.jpg?s=4709a6ce2788588427805e93172b07e7"
+  },
+  {
+    "name": "Jugon",
+    "prompt": "Jugon from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/504425.jpg?s=0c0d85ff3ea8004f2a6b7e5989ae2d01"
+  },
+  {
+    "name": "Junsa",
+    "prompt": "Junsa from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/84019.jpg?s=b533f0a782484bfd2d5c1fc40b1a3425"
+  },
+  {
+    "name": "Juubei",
+    "prompt": "Juubei from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/553896.jpg?s=a43cfe171b1622fd758d8507095ca1d4"
+  },
+  {
+    "name": "Kabigon",
+    "prompt": "Kabigon from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/497183.jpg?s=4d001fb246af762fcbc30233cfb4c5ba"
+  },
+  {
+    "name": "Kairiki",
+    "prompt": "Kairiki from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/497612.jpg?s=1ba68cd71979517efb37db292d21ba5e"
+  },
+  {
+    "name": "Kamex",
+    "prompt": "Kamex from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/497455.jpg?s=be5b72efb98a91b4f2075fd9831c75aa"
+  },
+  {
+    "name": "Kamonegi",
+    "prompt": "Kamonegi from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/497611.jpg?s=09b34b0bf0b66ace21f1fac9cfe0e947"
+  },
+  {
+    "name": "Kanta",
+    "prompt": "Kanta from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/553887.jpg?s=eade40e409b8b0c7c2f3477958649b7e"
+  },
+  {
+    "name": "Kinso",
+    "prompt": "Kinso from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/47355.jpg?s=3adc2dbb8947239891d03811f58c7779"
+  },
+  {
+    "name": "Koduck",
+    "prompt": "Koduck from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497610.jpg?s=32c4d310209acd8b14c3fe390b16ce0c"
+  },
+  {
+    "name": "Koiking",
+    "prompt": "Koiking from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/497181.jpg?s=1f9c9acf07db69f74afac5a47c5b0a59"
+  },
+  {
+    "name": "Koiking Salesman",
+    "prompt": "Koiking Salesman from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/147653.jpg?s=d56ff20385336a07ff7d831cf97fe389"
+  },
+  {
+    "name": "Kojirou",
+    "prompt": "Kojirou from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/502950.jpg?s=c2fd0729a93d9635e946946b3d49e5b2"
+  },
+  {
+    "name": "Kosaburou",
+    "prompt": "Kosaburou from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/463509.jpg?s=a2b185cdf1599013a9451e2a8f68dbd1"
+  },
+  {
+    "name": "Kurumi",
+    "prompt": "Kurumi from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/111134.jpg?s=022749f9a554d02889ded52e4b33c73d"
+  },
+  {
+    "name": "Laplace",
+    "prompt": "Laplace from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/504790.jpg?s=b8ebdbc6f45ccdb2b0022c8b010a1e17"
+  },
+  {
+    "name": "Lizardo",
+    "prompt": "Lizardo from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497452.jpg?s=7b3c36f755c70aeba57c1a51696390c1"
+  },
+  {
+    "name": "Lizardon",
+    "prompt": "Lizardon from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497453.jpg?s=4ac403651eb19d691c4dd36ef2848119"
+  },
+  {
+    "name": "Masae",
+    "prompt": "Masae from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/553898.jpg?s=64adecdd9678520fb0fa61883f68696f"
+  },
+  {
+    "name": "Matadogas",
+    "prompt": "Matadogas from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/499144.jpg?s=4bda67370d1878b3c6427ad31482e7db"
+  },
+  {
+    "name": "Minaki",
+    "prompt": "Minaki from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/396615.jpg?s=5cc3d771e9f52e58c54cd854007652d5"
+  },
+  {
+    "name": "Misao",
+    "prompt": "Misao from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/97793.jpg?s=145fe693e3ef8ecd7595b2bb692c0a3b"
+  },
+  {
+    "name": "Mizuho",
+    "prompt": "Mizuho from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/84762.jpg?s=46ef711a81148dbaccc6eb409bbf0cc0"
+  },
+  {
+    "name": "Muchul",
+    "prompt": "Muchul from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/499404.jpg?s=3bcc8c61b1a5695c1c1a4c64861e962e"
+  },
+  {
+    "name": "Muno",
+    "prompt": "Muno from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/528805.jpg?s=43742f7cb99ff27cabec3d1d65448756"
+  },
+  {
+    "name": "Musashi",
+    "prompt": "Musashi from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/278096.jpg?s=051ae458066175cfe4bf0f07bb2df11d"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/511553.jpg?s=a57d2a41fe40f1e203b06d3d9218f4b5"
+  },
+  {
+    "name": "Nazonokusa",
+    "prompt": "Nazonokusa from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/484759.jpg?s=093b715e2b91ca9b9805f85abe17243e"
+  },
+  {
+    "name": "Nick",
+    "prompt": "Nick from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/553899.jpg?s=42dc54031af2e8b8b4fce71a3e210113"
+  },
+  {
+    "name": "Nick's Father",
+    "prompt": "Nick's Father from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/553901.jpg?s=c5cab060967de17301f1031b67912c36"
+  },
+  {
+    "name": "Nidoking",
+    "prompt": "Nidoking from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/498074.jpg?s=64acc4b996361dfce6597143549a2fca"
+  },
+  {
+    "name": "Nidoran♀",
+    "prompt": "Nidoran♀ from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/498477.jpg?s=b21147508be30ff8384e65f75e2d3870"
+  },
+  {
+    "name": "Nidoran♂",
+    "prompt": "Nidoran♂ from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/497583.jpg?s=395b7817e466f4d16f3316790e71a791"
+  },
+  {
+    "name": "Nyarth",
+    "prompt": "Nyarth from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/131981.jpg?s=d7734d4cd42e72435749110ba1953798"
+  },
+  {
+    "name": "Nyorobon",
+    "prompt": "Nyorobon from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/498602.jpg?s=db50904bc00615909f14dc98c33ceae9"
+  },
+  {
+    "name": "Nyoromo",
+    "prompt": "Nyoromo from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/497646.jpg?s=af5553d5f9754084049367299beca227"
+  },
+  {
+    "name": "Nyorotono",
+    "prompt": "Nyorotono from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/578828.jpg?s=40d7a0e3e78bdab7838655771f8818fa"
+  },
+  {
+    "name": "Nyorozo",
+    "prompt": "Nyorozo from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/498601.jpg?s=445e8e5155ff4232c118100763559764"
+  },
+  {
+    "name": "Okorizaru",
+    "prompt": "Okorizaru from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/563379.jpg?s=643f86d932ab0beeffbca998f8d29134"
+  },
+  {
+    "name": "Ookido, Yukinari",
+    "prompt": "Ookido, Yukinari from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/101947.jpg?s=01478fadc2b8b7238e03d3612a3a731e"
+  },
+  {
+    "name": "Ordile",
+    "prompt": "Ordile from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/504286.jpg?s=bafbb2ec8acb7618dddb0a0ed0c9b231"
+  },
+  {
+    "name": "Parshen",
+    "prompt": "Parshen from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/528817.jpg?s=503327375cc8adce0a7b764386f6da36"
+  },
+  {
+    "name": "Pichu",
+    "prompt": "Pichu from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/467734.jpg?s=8cb55141a528a6728e076756031f6d11"
+  },
+  {
+    "name": "Pikachu",
+    "prompt": "Pikachu from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/289627.jpg?s=b97db39e3126c4cc184a764059abe0f6"
+  },
+  {
+    "name": "Pochiena",
+    "prompt": "Pochiena from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/500158.jpg?s=b36b08861ebfc9b3e600e48cbcf4da5e"
+  },
+  {
+    "name": "Pokemon Zukan",
+    "prompt": "Pokemon Zukan from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/284318.jpg?s=bdc8446c95348fbb93324d4e51edb3de"
+  },
+  {
+    "name": "Ptera",
+    "prompt": "Ptera from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/528819.jpg?s=ffd21ba50b389008e6430ff61d05d2d3"
+  },
+  {
+    "name": "Raikou",
+    "prompt": "Raikou from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/101497.jpg?s=313c05226fed67601ebf9357e9a9f3ff"
+  },
+  {
+    "name": "Ratta",
+    "prompt": "Ratta from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/498476.jpg?s=2ac15f2d6f786e9fe302a3cdf5acba49"
+  },
+  {
+    "name": "Rokon",
+    "prompt": "Rokon from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497649.jpg?s=3a9a4ebe42b6033278669b00d1ac6637"
+  },
+  {
+    "name": "Rose",
+    "prompt": "Rose from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/97790.jpg?s=387429d7ac7497d42a924d18126e6c22"
+  },
+  {
+    "name": "Sakaki",
+    "prompt": "Sakaki from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/222133.jpg?s=b6503c67934b3c802476cc661913c35b"
+  },
+  {
+    "name": "Sakura",
+    "prompt": "Sakura from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/516283.jpg?s=5dbf4d1b7018d19ae6dcc312b7b19530"
+  },
+  {
+    "name": "Sakura",
+    "prompt": "Sakura from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/256077.jpg?s=13b52e445768ddb6c56252d58338f1b5"
+  },
+  {
+    "name": "Satoshi",
+    "prompt": "Satoshi from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/100701.jpg?s=e0c6afbdb021ec02343675ebb587d488"
+  },
+  {
+    "name": "Shigeo",
+    "prompt": "Shigeo from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/553889.jpg?s=c39599ec16c539b5240179041133edbd"
+  },
+  {
+    "name": "Sidon",
+    "prompt": "Sidon from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498920.jpg?s=a23393720e15347761ee21645cac23ac"
+  },
+  {
+    "name": "Silver",
+    "prompt": "Silver from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/390378.jpg?s=e3997ce72d4ae4c5338e60b9c227ace0"
+  },
+  {
+    "name": "Soonansu",
+    "prompt": "Soonansu from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/391861.jpg?s=b56eadae29d5aea53f07fc8aed666ec4"
+  },
+  {
+    "name": "Starmie",
+    "prompt": "Starmie from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498075.jpg?s=2dcf8b9ab4cbe48f98eb1f0e7477ffe9"
+  },
+  {
+    "name": "Strike",
+    "prompt": "Strike from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/498921.jpg?s=5509b02c78171719b772217ebc25baef"
+  },
+  {
+    "name": "Takumi",
+    "prompt": "Takumi from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/553891.jpg?s=b47fbcb7cc733a905ba6e7797e86202c"
+  },
+  {
+    "name": "Togepi",
+    "prompt": "Togepi from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/183991.jpg?s=e36ee409c2579368c510b7b6d632bed6"
+  },
+  {
+    "name": "Tsutomu",
+    "prompt": "Tsutomu from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/84410.jpg?s=a73d01e7c1e0ef5a6e57633d8d3ad05c"
+  },
+  {
+    "name": "Tsuyoshi",
+    "prompt": "Tsuyoshi from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/553888.jpg?s=61b1a94d63027859621d4bdab4ab8082"
+  },
+  {
+    "name": "Upah",
+    "prompt": "Upah from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/484755.jpg?s=c9fcc5f37870b668fd26c3fc7a9188be"
+  },
+  {
+    "name": "Viper",
+    "prompt": "Viper from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/553902.jpg?s=5ef98a6e30442e5ac7ba697c9f0e84e7"
+  },
+  {
+    "name": "Waninoko",
+    "prompt": "Waninoko from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/528263.jpg?s=a3b1163350e17da8369d2c9580ec57f6"
+  },
+  {
+    "name": "Windie",
+    "prompt": "Windie from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497293.jpg?s=fe3838d37a43fb15e65edcbcfd068112"
+  },
+  {
+    "name": "Yadon",
+    "prompt": "Yadon from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/528842.jpg?s=75e884ab4b8c6b888b4a26cd9142892c"
+  },
+  {
+    "name": "Yamato",
+    "prompt": "Yamato from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/463508.jpg?s=d6ba784c08421e1415789b3d07d63c0c"
+  },
+  {
+    "name": "Yorunozuku",
+    "prompt": "Yorunozuku from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497652.jpg?s=06526519f89bfeb1f154750625b620d5"
+  },
+  {
+    "name": "Zenigame",
+    "prompt": "Zenigame from Pokemon Side Stories",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497728.jpg?s=6456634d4f296b5f7d271dee4c867d15"
+  }
+]

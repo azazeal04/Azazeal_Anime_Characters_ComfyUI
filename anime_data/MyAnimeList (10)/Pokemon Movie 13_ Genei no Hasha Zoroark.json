@@ -1,0 +1,457 @@
+[
+  {
+    "name": "Hikari",
+    "prompt": "Hikari from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/110073.jpg?s=9b0c3fe671617f02124a7d18d35eac8c"
+  },
+  {
+    "name": "Kodai, Grings",
+    "prompt": "Kodai, Grings from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/112084.jpg?s=7915a1d35ff9c7c58d4b11910e7941b7"
+  },
+  {
+    "name": "Pikachu",
+    "prompt": "Pikachu from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/289627.jpg?s=b97db39e3126c4cc184a764059abe0f6"
+  },
+  {
+    "name": "Pochama",
+    "prompt": "Pochama from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/449497.jpg?s=c2298c5226083be5dcf2738c78036bb8"
+  },
+  {
+    "name": "Satoshi",
+    "prompt": "Satoshi from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/100701.jpg?s=e0c6afbdb021ec02343675ebb587d488"
+  },
+  {
+    "name": "Takeshi",
+    "prompt": "Takeshi from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/364663.jpg?s=d0df6688560613a126a8a9149d32d8e8"
+  },
+  {
+    "name": "Zoroark",
+    "prompt": "Zoroark from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/396622.jpg?s=44b0f32e29342ab824ca44aacf95fca2"
+  },
+  {
+    "name": "Zorua",
+    "prompt": "Zorua from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/112735.jpg?s=1bc20bae622229475b731e2acf5a203b"
+  },
+  {
+    "name": "Bangiras",
+    "prompt": "Bangiras from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/540502.jpg?s=ae4cc3a96a74d21b349bbd45a708f6a0"
+  },
+  {
+    "name": "Celebi",
+    "prompt": "Celebi from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/100984.jpg?s=786774e4c2fa896ad74dbf6b2b171fcf"
+  },
+  {
+    "name": "Denji",
+    "prompt": "Denji from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/453645.jpg?s=2459ba7efae2ba8800a4d45428b470bd"
+  },
+  {
+    "name": "Deoxys",
+    "prompt": "Deoxys from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/282126.jpg?s=28576f876d67e9db3b31e77f3c7c5b73"
+  },
+  {
+    "name": "Doctor Nanakamado",
+    "prompt": "Doctor Nanakamado from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/464786.jpg?s=9bd2e4016d81a85743a7b430fa99ff2f"
+  },
+  {
+    "name": "Doduo",
+    "prompt": "Doduo from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/498609.jpg?s=a2f63d9763b30adaf8a034c1f25ec7b5"
+  },
+  {
+    "name": "Elekible",
+    "prompt": "Elekible from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/498080.jpg?s=430ae43d902fdc64ec82feed8a892df0"
+  },
+  {
+    "name": "Elekid",
+    "prompt": "Elekid from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/528245.jpg?s=3309b3002532edcb62d0215a5b452f58"
+  },
+  {
+    "name": "Emperte",
+    "prompt": "Emperte from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/553425.jpg?s=6083edcc62fa890e42e68efb90d929a7"
+  },
+  {
+    "name": "Entei",
+    "prompt": "Entei from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/254423.jpg?s=2c7bf7ebfe47cd735429de74d8664114"
+  },
+  {
+    "name": "Fire",
+    "prompt": "Fire from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/453721.jpg?s=2eda7b2c0db3a079c2be9408ce3ee2d4"
+  },
+  {
+    "name": "Freezer",
+    "prompt": "Freezer from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/393186.jpg?s=3676f432dd404892d1fb72ce119c7704"
+  },
+  {
+    "name": "Fushigibana",
+    "prompt": "Fushigibana from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/497451.jpg?s=5f7350c8f01d5365fcce698ff715ce52"
+  },
+  {
+    "name": "Gaburiasu",
+    "prompt": "Gaburiasu from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/498081.jpg?s=b09110d6c311d7500faf00434534c453"
+  },
+  {
+    "name": "Goon",
+    "prompt": "Goon from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/493921.jpg?s=699bacebb3da643294a4f4f7442c4a2d"
+  },
+  {
+    "name": "Goukazaru",
+    "prompt": "Goukazaru from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/568420.jpg?s=0eacb21e484b929cb42601e285d99a29"
+  },
+  {
+    "name": "Goyou",
+    "prompt": "Goyou from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/92488.jpg?s=93c86c8755139f9b21716df5c5d692e9"
+  },
+  {
+    "name": "Graena",
+    "prompt": "Graena from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/500159.jpg?s=d00a3061d666068f71743713c3dfe736"
+  },
+  {
+    "name": "Groudon",
+    "prompt": "Groudon from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/500162.jpg?s=cc6d6f057f1e207858e32e3ba3c10127"
+  },
+  {
+    "name": "Gyarados",
+    "prompt": "Gyarados from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/528249.jpg?s=a62ca3c62d1d023218389e1337abb3ec"
+  },
+  {
+    "name": "Hassam",
+    "prompt": "Hassam from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/499968.jpg?s=0237d72ef33cfa6a0945c16aa8be0bee"
+  },
+  {
+    "name": "Hibiki",
+    "prompt": "Hibiki from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/324574.jpg?s=9939c585da3ad5af8d3e0eb6263bc054"
+  },
+  {
+    "name": "Himanuts",
+    "prompt": "Himanuts from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/576056.jpg?s=03d478716b550d4695948747d8feb539"
+  },
+  {
+    "name": "Hinoarashi",
+    "prompt": "Hinoarashi from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/495308.jpg?s=5dc420d479c62b5975204880f95bb58a"
+  },
+  {
+    "name": "Houou",
+    "prompt": "Houou from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/498325.jpg?s=244b949a48461ccbddf6937c883b5851"
+  },
+  {
+    "name": "Hyouta",
+    "prompt": "Hyouta from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/190540.jpg?s=52ea383dbcbf405fd9078b041c762dad"
+  },
+  {
+    "name": "Iwark",
+    "prompt": "Iwark from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/528254.jpg?s=581b599604eb78f7cfc8367c34d672c6"
+  },
+  {
+    "name": "Joe",
+    "prompt": "Joe from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/493915.jpg?s=9773ca15242fdd7d85c9f53da155f8f7"
+  },
+  {
+    "name": "Joy",
+    "prompt": "Joy from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/215001.jpg?s=4709a6ce2788588427805e93172b07e7"
+  },
+  {
+    "name": "Jugon",
+    "prompt": "Jugon from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/504425.jpg?s=0c0d85ff3ea8004f2a6b7e5989ae2d01"
+  },
+  {
+    "name": "Jukain",
+    "prompt": "Jukain from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/504428.jpg?s=4fc844286eea770a78fe10c391b2d1e8"
+  },
+  {
+    "name": "Junsa",
+    "prompt": "Junsa from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/84019.jpg?s=b533f0a782484bfd2d5c1fc40b1a3425"
+  },
+  {
+    "name": "Kikuno",
+    "prompt": "Kikuno from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/96581.jpg?s=0292fa069712a46b49dd48c4c3cc694f"
+  },
+  {
+    "name": "Kimawari",
+    "prompt": "Kimawari from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/576057.jpg?s=c4844aba23d77683f04067d380779fb6"
+  },
+  {
+    "name": "Koiking",
+    "prompt": "Koiking from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/497181.jpg?s=1f9c9acf07db69f74afac5a47c5b0a59"
+  },
+  {
+    "name": "Kojirou",
+    "prompt": "Kojirou from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/502950.jpg?s=c2fd0729a93d9635e946946b3d49e5b2"
+  },
+  {
+    "name": "Koratta",
+    "prompt": "Koratta from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498475.jpg?s=8705af4423acafef2593f11f28f92881"
+  },
+  {
+    "name": "Kurotsugu",
+    "prompt": "Kurotsugu from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/350941.jpg?s=1586da1f44f97277ce108c77a9bca926"
+  },
+  {
+    "name": "Kurt",
+    "prompt": "Kurt from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/112086.jpg?s=2f66d14cbd26fee75e03a13caa582dbc"
+  },
+  {
+    "name": "Laplace",
+    "prompt": "Laplace from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/504790.jpg?s=b8ebdbc6f45ccdb2b0022c8b010a1e17"
+  },
+  {
+    "name": "Lucario",
+    "prompt": "Lucario from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/472877.jpg?s=212f1dd46cb5945a1671db3bc2fc32f8"
+  },
+  {
+    "name": "Lugia",
+    "prompt": "Lugia from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/394888.jpg?s=42c5de5026403386739b0a3d1615251e"
+  },
+  {
+    "name": "Maximum Mask",
+    "prompt": "Maximum Mask from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/91570.jpg?s=3cbe03a7d09d4b5ac569ed6741a07fdf"
+  },
+  {
+    "name": "Melissa",
+    "prompt": "Melissa from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/91635.jpg?s=c32de5d7e942a817387b5c2c3c8c0880"
+  },
+  {
+    "name": "Metagross",
+    "prompt": "Metagross from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/498082.jpg?s=d2f2d6a42c3c69559f29df1c2684e965"
+  },
+  {
+    "name": "Milokaross",
+    "prompt": "Milokaross from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/578826.jpg?s=1be97b4ef3775079802cb31a5f1e25c3"
+  },
+  {
+    "name": "Minun",
+    "prompt": "Minun from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/500161.jpg?s=420521594afa546b563fc6d48b32174a"
+  },
+  {
+    "name": "Mukuhawk",
+    "prompt": "Mukuhawk from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/497614.jpg?s=0284bec24cb898419d663d2ff25c7f9d"
+  },
+  {
+    "name": "Muma",
+    "prompt": "Muma from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/562032.jpg?s=b7dbd7cd45133fab454b7ef7ee95bae7"
+  },
+  {
+    "name": "Musashi",
+    "prompt": "Musashi from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/278096.jpg?s=051ae458066175cfe4bf0f07bb2df11d"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/511553.jpg?s=a57d2a41fe40f1e203b06d3d9218f4b5"
+  },
+  {
+    "name": "Nassy",
+    "prompt": "Nassy from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497613.jpg?s=3dd6b2904a8698834ca020fd4e003d35"
+  },
+  {
+    "name": "Natane",
+    "prompt": "Natane from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/190618.jpg?s=3fa2c2010b77f78abe95f06746f71066"
+  },
+  {
+    "name": "Nazonokusa",
+    "prompt": "Nazonokusa from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/484759.jpg?s=093b715e2b91ca9b9805f85abe17243e"
+  },
+  {
+    "name": "Nidoking",
+    "prompt": "Nidoking from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/498074.jpg?s=64acc4b996361dfce6597143549a2fca"
+  },
+  {
+    "name": "Nidorina",
+    "prompt": "Nidorina from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/498478.jpg?s=9fb49b7ebf6b73d906da488386fbcda9"
+  },
+  {
+    "name": "Nyarth",
+    "prompt": "Nyarth from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/131981.jpg?s=d7734d4cd42e72435749110ba1953798"
+  },
+  {
+    "name": "Odoshishi",
+    "prompt": "Odoshishi from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/497692.jpg?s=9d0ad3e5f5db64a676627fe012571481"
+  },
+  {
+    "name": "Ooba",
+    "prompt": "Ooba from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/465964.jpg?s=03bf13024798af81d1f2c22ed53fc277"
+  },
+  {
+    "name": "Pachirisu",
+    "prompt": "Pachirisu from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/569095.jpg?s=989930b6f8bb43c54e4e125176f8e5fa"
+  },
+  {
+    "name": "Pigeon",
+    "prompt": "Pigeon from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/498327.jpg?s=8f4db626d0a8473c97f9868f69e551c4"
+  },
+  {
+    "name": "Plusle",
+    "prompt": "Plusle from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/500160.jpg?s=24cb7ca6139724bdd9cf6b964bc8298c"
+  },
+  {
+    "name": "Pokemon Baccer Stadium Announcer",
+    "prompt": "Pokemon Baccer Stadium Announcer from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/493922.jpg?s=86f1e69e0ca099f66ad5f38d5c63f12c"
+  },
+  {
+    "name": "Poppo",
+    "prompt": "Poppo from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/498326.jpg?s=7195d699709848dc904ab88508b63f75"
+  },
+  {
+    "name": "Proof",
+    "prompt": "Proof from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/94851.jpg?s=55d7f2c4856a3450465d2da48b8f1ed4"
+  },
+  {
+    "name": "Ptera",
+    "prompt": "Ptera from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/528819.jpg?s=ffd21ba50b389008e6430ff61d05d2d3"
+  },
+  {
+    "name": "Raichu",
+    "prompt": "Raichu from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/508206.jpg?s=b8dc05fbdcfcb5510891c1f6af1006dc"
+  },
+  {
+    "name": "Raikou",
+    "prompt": "Raikou from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/101497.jpg?s=313c05226fed67601ebf9357e9a9f3ff"
+  },
+  {
+    "name": "Ratta",
+    "prompt": "Ratta from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/498476.jpg?s=2ac15f2d6f786e9fe302a3cdf5acba49"
+  },
+  {
+    "name": "Rayquaza",
+    "prompt": "Rayquaza from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/500163.jpg?s=68594470f44b047ae001f41a64615f25"
+  },
+  {
+    "name": "Rioka",
+    "prompt": "Rioka from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/112085.jpg?s=750a14cb56bca05e48723d54d9eab06e"
+  },
+  {
+    "name": "Ryou",
+    "prompt": "Ryou from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/83693.jpg?s=d9f863853659f21deff87ee6c542133b"
+  },
+  {
+    "name": "Shirona",
+    "prompt": "Shirona from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/464007.jpg?s=de9beb0eafad0f93186190e0554219ff"
+  },
+  {
+    "name": "Soonansu",
+    "prompt": "Soonansu from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/391861.jpg?s=b56eadae29d5aea53f07fc8aed666ec4"
+  },
+  {
+    "name": "Suicune",
+    "prompt": "Suicune from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/471479.jpg?s=1c8c89fad83457a5b4348d69f5a20577"
+  },
+  {
+    "name": "Sumomo",
+    "prompt": "Sumomo from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/79262.jpg?s=2177b81e430f28236bd865b9e4bd663a"
+  },
+  {
+    "name": "Suzuna",
+    "prompt": "Suzuna from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/83798.jpg?s=ba65c4c75ede3dfad1adf1dad281e69a"
+  },
+  {
+    "name": "Thunder",
+    "prompt": "Thunder from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/421556.jpg?s=e8cb8deaa2ad148c2d915816a52228a7"
+  },
+  {
+    "name": "Tomoo",
+    "prompt": "Tomoo from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/319332.jpg?s=54ef34321bcef7eacba1b25d0ac7dd00"
+  },
+  {
+    "name": "Tougan",
+    "prompt": "Tougan from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/81416.jpg?s=33c2b67e3879c623dd8528c23f2967b6"
+  },
+  {
+    "name": "Upah",
+    "prompt": "Upah from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/484755.jpg?s=c9fcc5f37870b668fd26c3fc7a9188be"
+  },
+  {
+    "name": "Usokki",
+    "prompt": "Usokki from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/495295.jpg?s=b6e900e784b56481132e2cb624cde58f"
+  },
+  {
+    "name": "Yadoking",
+    "prompt": "Yadoking from Pokemon Movie 13: Genei no Hasha Zoroark",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/493832.jpg?s=5c3ce71e0076de82be1dc5d3b15642b6"
+  }
+]

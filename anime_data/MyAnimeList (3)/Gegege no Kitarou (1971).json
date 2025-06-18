@@ -1,0 +1,782 @@
+[
+  {
+    "name": "Kitarou",
+    "prompt": "Kitarou from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/386282.jpg?s=af96f8602a831daebffda37169001e08"
+  },
+  {
+    "name": "Medama Oyaji",
+    "prompt": "Medama Oyaji from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/348982.jpg?s=3aba02eee0829c9cf7bc4858a9f060e6"
+  },
+  {
+    "name": "Akaname",
+    "prompt": "Akaname from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/386168.jpg?s=ae00f754e82d0774512663a9d57c38d7"
+  },
+  {
+    "name": "Akashita",
+    "prompt": "Akashita from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551511.jpg?s=9e61770bc5a8d2f0c43b1a0dd4f36787"
+  },
+  {
+    "name": "Aku-Aku",
+    "prompt": "Aku-Aku from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/551552.jpg?s=34473cceff0ac2aafa0c4f8a5de7d87a"
+  },
+  {
+    "name": "Ama-no-Jaku",
+    "prompt": "Ama-no-Jaku from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/402737.jpg?s=845a6808eeab8546601371e6bceb47ef"
+  },
+  {
+    "name": "Amefuri-Tengu",
+    "prompt": "Amefuri-Tengu from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/550807.jpg?s=23390dc13cb27e3614bd54769e4520b2"
+  },
+  {
+    "name": "Aoko",
+    "prompt": "Aoko from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/551670.jpg?s=a5f690e5a9a7e0ef0f0b88244c051cbc"
+  },
+  {
+    "name": "Aresu",
+    "prompt": "Aresu from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/551551.jpg?s=3309f88b6907e5d0c78b3c0cacaf75dc"
+  },
+  {
+    "name": "Ashi-Magari",
+    "prompt": "Ashi-Magari from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/550907.jpg?s=b3cc87e816646fafb0bf7470469e1cfd"
+  },
+  {
+    "name": "Babaa, Sunakake",
+    "prompt": "Babaa, Sunakake from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/348987.jpg?s=f41da1aef03bb9fef97d7f3eccd48022"
+  },
+  {
+    "name": "Bald Thief",
+    "prompt": "Bald Thief from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/551354.jpg?s=f431527dc247f3dc8aae9ecfcc80c46d"
+  },
+  {
+    "name": "Bank Collector",
+    "prompt": "Bank Collector from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/551288.jpg?s=c7491de354df384b946e46c7e0af164c"
+  },
+  {
+    "name": "Binbougami",
+    "prompt": "Binbougami from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/551660.jpg?s=c918f7163bddc9d1f6fc1dce15b8b800"
+  },
+  {
+    "name": "Bonta",
+    "prompt": "Bonta from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/551359.jpg?s=a03a2302917720022ce05469bc3c778c"
+  },
+  {
+    "name": "Bucktooth Husband",
+    "prompt": "Bucktooth Husband from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551870.jpg?s=86345040ee7fd39dd62fe494e376f912"
+  },
+  {
+    "name": "Bucktooth Police Detective",
+    "prompt": "Bucktooth Police Detective from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551658.jpg?s=35054fb0c792e22b61efa265820c988c"
+  },
+  {
+    "name": "Buer",
+    "prompt": "Buer from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551544.jpg?s=1f611470d327a0d421ac636bb564c28d"
+  },
+  {
+    "name": "Bunta",
+    "prompt": "Bunta from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/551452.jpg?s=91ef7bd12660caf8b056cbce045dbb32"
+  },
+  {
+    "name": "Cambodian Granny",
+    "prompt": "Cambodian Granny from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551856.jpg?s=c67a6388899ed9ab2a9f6723e7213079"
+  },
+  {
+    "name": "Cameraman",
+    "prompt": "Cameraman from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/551849.jpg?s=9f8a96ba92a12cccce3b277286372868"
+  },
+  {
+    "name": "Carmen",
+    "prompt": "Carmen from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/551667.jpg?s=41cca3215a222245d08aefbe1b9f4b8a"
+  },
+  {
+    "name": "Carmen's Father",
+    "prompt": "Carmen's Father from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/551669.jpg?s=11539ca669ac53e5ca7c723426315b03"
+  },
+  {
+    "name": "Chinese Tengu",
+    "prompt": "Chinese Tengu from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/550648.jpg?s=9310a655c9cd6115af693e8449534560"
+  },
+  {
+    "name": "Chuuta",
+    "prompt": "Chuuta from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/551299.jpg?s=0dcda1ab1e2b8230f5151c98698e8f36"
+  },
+  {
+    "name": "Chuuta's Mother",
+    "prompt": "Chuuta's Mother from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/551300.jpg?s=36428000630ba493184a5eb831056896"
+  },
+  {
+    "name": "Company President",
+    "prompt": "Company President from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/551365.jpg?s=b410948435d648ae906ed71e77ba3538"
+  },
+  {
+    "name": "Dai-Tengu",
+    "prompt": "Dai-Tengu from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/402746.jpg?s=6a0e5bc5d4b14a1f3b1a7b8131e1a266"
+  },
+  {
+    "name": "Daidarabotchi",
+    "prompt": "Daidarabotchi from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/402743.jpg?s=0a12263ef9081cc231aa0c2911d31490"
+  },
+  {
+    "name": "Dead Girl's Father",
+    "prompt": "Dead Girl's Father from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/550912.jpg?s=f19b18c645e88c56621e2c784d22a820"
+  },
+  {
+    "name": "Dorotabou",
+    "prompt": "Dorotabou from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550640.jpg?s=3b6416aa953f21ccf065f441dbf4fd9f"
+  },
+  {
+    "name": "Erime",
+    "prompt": "Erime from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/550914.jpg?s=effde58fd3c73c2f9993f0d9f877dd4d"
+  },
+  {
+    "name": "Erime's Father",
+    "prompt": "Erime's Father from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/550915.jpg?s=f5bb091b3a02f439d065615f929a6fd2"
+  },
+  {
+    "name": "Fishing Boat Captain",
+    "prompt": "Fishing Boat Captain from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/551632.jpg?s=f8ae2bb63acc88d1c28bdc9aafbc04db"
+  },
+  {
+    "name": "Flower Girl",
+    "prompt": "Flower Girl from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/551883.jpg?s=61a9be445559ca2e67d482f7f18c0d40"
+  },
+  {
+    "name": "Fortune Teller",
+    "prompt": "Fortune Teller from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551844.jpg?s=c7fb6f2eaf5bdaf6fca7803baf9a239d"
+  },
+  {
+    "name": "Fukaya",
+    "prompt": "Fukaya from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/551373.jpg?s=d6f37a9a8f2f3218126b57383a4e0e71"
+  },
+  {
+    "name": "Fukushima",
+    "prompt": "Fukushima from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/551550.jpg?s=2d211ebdcc37d5ee17fabb045e4e851f"
+  },
+  {
+    "name": "Fukushima's Father",
+    "prompt": "Fukushima's Father from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Gangi-Kozou",
+    "prompt": "Gangi-Kozou from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/554009.jpg?s=45a6e884996a03a57fda36f7bb7df3c3"
+  },
+  {
+    "name": "Genshi Secretary",
+    "prompt": "Genshi Secretary from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/551641.jpg?s=f78286f2adeec911e44d50061c1f169c"
+  },
+  {
+    "name": "Genshi-san",
+    "prompt": "Genshi-san from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/551639.jpg?s=01df6d9c59aea18d11f416028a6b35ba"
+  },
+  {
+    "name": "Genzou",
+    "prompt": "Genzou from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/551387.jpg?s=d8502b7ff2ce437a0b9fc3b21c5f3d9a"
+  },
+  {
+    "name": "Ginta",
+    "prompt": "Ginta from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/551547.jpg?s=4fbea368f0b4b3c641547e0ffabaffd1"
+  },
+  {
+    "name": "Glasses Used Car Salesman",
+    "prompt": "Glasses Used Car Salesman from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/551292.jpg?s=9cce70df9873e90f87543b142f75a385"
+  },
+  {
+    "name": "Gyuuki",
+    "prompt": "Gyuuki from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/551301.jpg?s=4fbed20faed9154179defb876f9ee5d5"
+  },
+  {
+    "name": "Han-Gyojin",
+    "prompt": "Han-Gyojin from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/551286.jpg?s=abbbbc6f5cbf52d1e4fa87bb663dd7d9"
+  },
+  {
+    "name": "Hanako",
+    "prompt": "Hanako from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/567006.jpg?s=d57063c8437e2bd58f11c125cca59373"
+  },
+  {
+    "name": "Haruko",
+    "prompt": "Haruko from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/551449.jpg?s=b47915ee9f051e6469662d3b2279ac07"
+  },
+  {
+    "name": "Hatsue's Mother",
+    "prompt": "Hatsue's Mother from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551352.jpg?s=ac92280944c3b131f03305ef07338d35"
+  },
+  {
+    "name": "Hikita, Shunichi",
+    "prompt": "Hikita, Shunichi from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/551304.jpg?s=a7afdb6f291b4ce6322ab33eec52f26c"
+  },
+  {
+    "name": "Hikita's Father",
+    "prompt": "Hikita's Father from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/551305.jpg?s=f82b4573c8e3c16b97793d9506590200"
+  },
+  {
+    "name": "Hone-onna",
+    "prompt": "Hone-onna from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/551448.jpg?s=86917e6b7642642d83a99308932387f2"
+  },
+  {
+    "name": "Honeta",
+    "prompt": "Honeta from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/551671.jpg?s=ee1d9c3dde91a32b2b765e1c2304e875"
+  },
+  {
+    "name": "Hongou",
+    "prompt": "Hongou from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hotel Manager",
+    "prompt": "Hotel Manager from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/551863.jpg?s=9db04d61022417c857fae6debf492bdf"
+  },
+  {
+    "name": "Hotel Owner",
+    "prompt": "Hotel Owner from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/551864.jpg?s=2372719aefa8709e04218fd1768f3809"
+  },
+  {
+    "name": "Ido-Sennin",
+    "prompt": "Ido-Sennin from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550646.jpg?s=8280d9fa32a3ba39706593aa0f5e570c"
+  },
+  {
+    "name": "Ittan Momen",
+    "prompt": "Ittan Momen from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/348985.jpg?s=19757529d1e766afc8031dd56c658782"
+  },
+  {
+    "name": "Iyami",
+    "prompt": "Iyami from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/402753.jpg?s=e55cd5cd78012d26635f7eb29aa39f54"
+  },
+  {
+    "name": "Jeeta",
+    "prompt": "Jeeta from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/550936.jpg?s=9f046a58231dfe19dd206c83db308674"
+  },
+  {
+    "name": "Jiro's Father",
+    "prompt": "Jiro's Father from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/551350.jpg?s=5c1253f14a363aaa6c5fc7ad39e777cf"
+  },
+  {
+    "name": "Kage-onna",
+    "prompt": "Kage-onna from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/551553.jpg?s=00c66245a59ac01fa7691667cd9c94fa"
+  },
+  {
+    "name": "Kakure-Zatou",
+    "prompt": "Kakure-Zatou from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/551569.jpg?s=6b8d3c56f08d96cc69dfe3d501a49e16"
+  },
+  {
+    "name": "Kamanari",
+    "prompt": "Kamanari from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/551344.jpg?s=6c4c5965865c9dcf446e21c159d878f5"
+  },
+  {
+    "name": "Kami-sama",
+    "prompt": "Kami-sama from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/567007.jpg?s=5f474d3aeb87c668b4883d44d34790fd"
+  },
+  {
+    "name": "Kanai",
+    "prompt": "Kanai from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/551564.jpg?s=83a78ce41e3029e252bd3a08b16e5a43"
+  },
+  {
+    "name": "Karakasa",
+    "prompt": "Karakasa from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/370680.jpg?s=c407dc32bfe797c2c608780017b0c036"
+  },
+  {
+    "name": "Karura",
+    "prompt": "Karura from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/386178.jpg?s=c9418c25f08388d95f04a4c71898b100"
+  },
+  {
+    "name": "Kasha",
+    "prompt": "Kasha from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/386192.jpg?s=77853b637bc594ef2af3365f91d92ddd"
+  },
+  {
+    "name": "Kawauso",
+    "prompt": "Kawauso from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/397739.jpg?s=27e0c1089f450721697204330c6eb7ff"
+  },
+  {
+    "name": "Kazuhiko",
+    "prompt": "Kazuhiko from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kazuyoshi",
+    "prompt": "Kazuyoshi from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/550641.jpg?s=b07d13508cf2afb50ddd1bce34be39e3"
+  },
+  {
+    "name": "Kemedama",
+    "prompt": "Kemedama from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/551035.jpg?s=784c3abf26105e2f3e288232117014c3"
+  },
+  {
+    "name": "King Enma",
+    "prompt": "King Enma from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/397748.jpg?s=d0f3081b39040b0cb99b6c8eab363c91"
+  },
+  {
+    "name": "Kinta",
+    "prompt": "Kinta from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/551554.jpg?s=f752f68c53af1f373e08a5c13d477580"
+  },
+  {
+    "name": "Kinta's Father",
+    "prompt": "Kinta's Father from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/551557.jpg?s=82f85f2a171c0df8c3ab1ebe7ff5abaf"
+  },
+  {
+    "name": "Kinta's Mother",
+    "prompt": "Kinta's Mother from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/551556.jpg?s=54245aec6cb6205e1c927759033d95b0"
+  },
+  {
+    "name": "Kitarou's Mother",
+    "prompt": "Kitarou's Mother from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/377247.jpg?s=43ebe332ebf825a7786c1d47067b9d7c"
+  },
+  {
+    "name": "Koinuma",
+    "prompt": "Koinuma from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/551307.jpg?s=6801b22f0d12c5883e80cf0af506d4ae"
+  },
+  {
+    "name": "Konaki Jijii",
+    "prompt": "Konaki Jijii from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/348988.jpg?s=25eca03704f290aebe21421bb664bd31"
+  },
+  {
+    "name": "Koukichi",
+    "prompt": "Koukichi from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551381.jpg?s=264474166e02e38cd7b4ce03250d0128"
+  },
+  {
+    "name": "Koukichi's Uncle",
+    "prompt": "Koukichi's Uncle from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551382.jpg?s=833ad07a3b93dbbefafa9890a45a7f25"
+  },
+  {
+    "name": "Koutarou",
+    "prompt": "Koutarou from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/551439.jpg?s=0d7f6e54965d0b8b4123c0cc30abc5dd"
+  },
+  {
+    "name": "Koutarou's Mother",
+    "prompt": "Koutarou's Mother from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/551440.jpg?s=25a820992637f19cfa6a086ac83150b1"
+  },
+  {
+    "name": "Koutarou's Tutor",
+    "prompt": "Koutarou's Tutor from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/551442.jpg?s=0a99a7ed59fe58009b4d6690dec71f19"
+  },
+  {
+    "name": "Maruge",
+    "prompt": "Maruge from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/550647.jpg?s=db3f27d90961bd39c64a3baccd9d29c8"
+  },
+  {
+    "name": "Masao",
+    "prompt": "Masao from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/551571.jpg?s=66243ba43fe9cd6108902255843fb6cb"
+  },
+  {
+    "name": "Masao's Father",
+    "prompt": "Masao's Father from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551570.jpg?s=7caacb4ad450279e3457709c3bf40f44"
+  },
+  {
+    "name": "Messenger",
+    "prompt": "Messenger from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/551869.jpg?s=c313ce4965db235f9f7ae2f4dd6f8e4d"
+  },
+  {
+    "name": "Miage-Nyuudou",
+    "prompt": "Miage-Nyuudou from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/355832.jpg?s=a9b96f1f9bf7260d0dc6f7333b6d2d0c"
+  },
+  {
+    "name": "Mizugami-Tsukai",
+    "prompt": "Mizugami-Tsukai from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/551372.jpg?s=94e1f35dabaa06a6f7bedfebf6d513a2"
+  },
+  {
+    "name": "Mokumokuren",
+    "prompt": "Mokumokuren from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/551514.jpg?s=577747738f721d372d92ca4f65777ab2"
+  },
+  {
+    "name": "Momon-Jii",
+    "prompt": "Momon-Jii from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/397751.jpg?s=c9a6a2f10208a477f1c351688a6dccb7"
+  },
+  {
+    "name": "Monroe",
+    "prompt": "Monroe from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/551443.jpg?s=566aa3be4842b6b951c072d55b4f3d3e"
+  },
+  {
+    "name": "Morimoto",
+    "prompt": "Morimoto from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/402766.jpg?s=b9dd01da6fa8f5d749aee809b187bca9"
+  },
+  {
+    "name": "Movie Director",
+    "prompt": "Movie Director from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/551845.jpg?s=afb9af4ec8065b73964e8b0143b74f4f"
+  },
+  {
+    "name": "Nagashima, Kouichi",
+    "prompt": "Nagashima, Kouichi from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/551549.jpg?s=d16c8bb36957dbb34b2bd5d5689a91f2"
+  },
+  {
+    "name": "Nagisa",
+    "prompt": "Nagisa from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/551308.jpg?s=b05cb0a3bd006974fe32e0d1de0b3788"
+  },
+  {
+    "name": "Nakamura, Hanako",
+    "prompt": "Nakamura, Hanako from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/551310.jpg?s=5f59af6bacc92a249c6bb8547dc2c44a"
+  },
+  {
+    "name": "Nakamura",
+    "prompt": "Nakamura from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/551309.jpg?s=1a66a154a2d8156b91f70ab7b2fa5366"
+  },
+  {
+    "name": "Natsuo",
+    "prompt": "Natsuo from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/551450.jpg?s=b3d8af418a6a1f9fdd6973b3172dcd7f"
+  },
+  {
+    "name": "Neko Musume",
+    "prompt": "Neko Musume from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/364808.jpg?s=c8211705f1705bc9c3e90af2be5c40d4"
+  },
+  {
+    "name": "News Show Host",
+    "prompt": "News Show Host from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/551871.jpg?s=ba265049adb1d812e232959ced6d9cdb"
+  },
+  {
+    "name": "Nezumi Otoko",
+    "prompt": "Nezumi Otoko from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/352089.jpg?s=51eecbaee571dda4e0031e0b2248e785"
+  },
+  {
+    "name": "Nurikabe",
+    "prompt": "Nurikabe from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/348986.jpg?s=53d0d63dbdd57bdc139c687240a3a48e"
+  },
+  {
+    "name": "Okayama",
+    "prompt": "Okayama from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/551509.jpg?s=f5e48da1070d188a1888ac51f94fbb93"
+  },
+  {
+    "name": "Ookubi",
+    "prompt": "Ookubi from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551447.jpg?s=53ac0e1b44320fe744f6e8787c284562"
+  },
+  {
+    "name": "Oomimizu",
+    "prompt": "Oomimizu from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/551561.jpg?s=537788133ac036ab3bebdc4d9e53ad77"
+  },
+  {
+    "name": "Pasha",
+    "prompt": "Pasha from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551672.jpg?s=d855656b0779b2e863e8da85b4ea20a9"
+  },
+  {
+    "name": "Pii",
+    "prompt": "Pii from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/551444.jpg?s=33f791aaf0269e10791e8a00952a50fb"
+  },
+  {
+    "name": "Possessed Tenant",
+    "prompt": "Possessed Tenant from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/551859.jpg?s=ecd96d276e263f1b860d5455909daefe"
+  },
+  {
+    "name": "President Yasui",
+    "prompt": "President Yasui from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/551565.jpg?s=435bcd11026d27d1c104796f1a5a1de8"
+  },
+  {
+    "name": "Professor Haniwa",
+    "prompt": "Professor Haniwa from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/551303.jpg?s=63fe992dc74104c483c0319cda8288e5"
+  },
+  {
+    "name": "Qi",
+    "prompt": "Qi from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/550645.jpg?s=d70388ce07e02ad63e8e9b153287d2ec"
+  },
+  {
+    "name": "Ramen Shop Owner",
+    "prompt": "Ramen Shop Owner from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/551546.jpg?s=f091332be88b8898678d17ad945e0f36"
+  },
+  {
+    "name": "Saburo",
+    "prompt": "Saburo from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/550644.jpg?s=2b142a0aeb8f1f7326ca206ec7b7d62a"
+  },
+  {
+    "name": "Saburou",
+    "prompt": "Saburou from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/551662.jpg?s=747757b56564d831bfbfa6743e1bf088"
+  },
+  {
+    "name": "Sankichi",
+    "prompt": "Sankichi from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/551644.jpg?s=a9610eb45c366c41854598826fb80c1e"
+  },
+  {
+    "name": "Sanshou",
+    "prompt": "Sanshou from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550650.jpg?s=1c2cc790b2996ef7aa97c07fba4d16db"
+  },
+  {
+    "name": "Satori",
+    "prompt": "Satori from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/551548.jpg?s=b001d2bfeb1f7ae734eeab46a33e0f6e"
+  },
+  {
+    "name": "Scientist Nakamura",
+    "prompt": "Scientist Nakamura from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/551664.jpg?s=af5fb2483e61db96289e33ce23af0d69"
+  },
+  {
+    "name": "Shibito-Tsuki",
+    "prompt": "Shibito-Tsuki from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550911.jpg?s=4e5c87b9b19c6c9aded89972a91c5de1"
+  },
+  {
+    "name": "Shinigami",
+    "prompt": "Shinigami from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/551510.jpg?s=b54dfe36638d73be4480349cad875c1e"
+  },
+  {
+    "name": "Shiro",
+    "prompt": "Shiro from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/357310.jpg?s=500698d0e0d3b06ae4854e13d5af124a"
+  },
+  {
+    "name": "Short Expedition Member",
+    "prompt": "Short Expedition Member from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/551854.jpg?s=61d9d19e920db788499fff9e57a0a925"
+  },
+  {
+    "name": "Strawman",
+    "prompt": "Strawman from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/551306.jpg?s=493934a8da4918e9bc31009503e84265"
+  },
+  {
+    "name": "Sugawara",
+    "prompt": "Sugawara from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/551668.jpg?s=59a86428a833fa71a943c6879b66a891"
+  },
+  {
+    "name": "Sunglasses Thief",
+    "prompt": "Sunglasses Thief from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/551356.jpg?s=2aecf1172efaf6d14783c8729a05113c"
+  },
+  {
+    "name": "Taichi",
+    "prompt": "Taichi from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550806.jpg?s=faed529a3cfd7eba4fb3f85a7fd383eb"
+  },
+  {
+    "name": "Tall Expedition Member",
+    "prompt": "Tall Expedition Member from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/551853.jpg?s=6d319cb3243ee47af5923c1fbd0d9910"
+  },
+  {
+    "name": "Tarou",
+    "prompt": "Tarou from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/551367.jpg?s=5a459799166fbd2b7ddfda4c65851213"
+  },
+  {
+    "name": "Tomokichi",
+    "prompt": "Tomokichi from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/551627.jpg?s=b9cc6252d56712e8cdbe3332cd334718"
+  },
+  {
+    "name": "Tomokichi's Father",
+    "prompt": "Tomokichi's Father from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tomokichi's Mother",
+    "prompt": "Tomokichi's Mother from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tomokichi's Uncle",
+    "prompt": "Tomokichi's Uncle from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/551631.jpg?s=f43cc10a33961931a343b30d34b6961e"
+  },
+  {
+    "name": "Tsuchi-Korobi",
+    "prompt": "Tsuchi-Korobi from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/397766.jpg?s=5f41359a6fb7a9dea24ee18ab24cd1da"
+  },
+  {
+    "name": "Tsukiko",
+    "prompt": "Tsukiko from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/551643.jpg?s=1fac7900ca4d6b1bede03da1c473df1b"
+  },
+  {
+    "name": "Uchida",
+    "prompt": "Uchida from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/551666.jpg?s=ebaf02b8c7533f363735503614573e5f"
+  },
+  {
+    "name": "Used Car Salesman",
+    "prompt": "Used Car Salesman from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/551293.jpg?s=f5405c69e1061a879639eee15af62a68"
+  },
+  {
+    "name": "Waran",
+    "prompt": "Waran from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/551036.jpg?s=0a9db02e883ea7d7470f08edbf6d138d"
+  },
+  {
+    "name": "Witch",
+    "prompt": "Witch from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550042.jpg?s=5cf29f2ba1b3448891a5e1fcdae14b56"
+  },
+  {
+    "name": "Woman at Restaurant",
+    "prompt": "Woman at Restaurant from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/551884.jpg?s=0e2fe97fc47885b5625d7c6115a23dc5"
+  },
+  {
+    "name": "Woodsman",
+    "prompt": "Woodsman from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/551850.jpg?s=81862d7d6d58075a95cd0c298b6e6eda"
+  },
+  {
+    "name": "Yamada, Oin",
+    "prompt": "Yamada, Oin from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/402770.jpg?s=61cca5e041586f1d27b32bb36746c423"
+  },
+  {
+    "name": "Yamada",
+    "prompt": "Yamada from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/402781.jpg?s=98bd894efc1f01cf59c0ad818ff25440"
+  },
+  {
+    "name": "Yamano Hostess",
+    "prompt": "Yamano Hostess from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/551038.jpg?s=4bde72e17254dc754acd0a4a85625443"
+  },
+  {
+    "name": "Yamano Owner",
+    "prompt": "Yamano Owner from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/551039.jpg?s=fffa36f0488fdded84e740ce49141539"
+  },
+  {
+    "name": "Yassan no Nushi",
+    "prompt": "Yassan no Nushi from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/551635.jpg?s=938a0ea44cd01256954c15442efb6605"
+  },
+  {
+    "name": "Yasui, Yasuo",
+    "prompt": "Yasui, Yasuo from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/551566.jpg?s=b4edf95aa7388ce7269bea245aa9a8ad"
+  },
+  {
+    "name": "Yobuko",
+    "prompt": "Yobuko from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/550164.jpg?s=e9959ee820b87943770f1bed2c326127"
+  },
+  {
+    "name": "Youkai Flower Spirit",
+    "prompt": "Youkai Flower Spirit from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/566720.jpg?s=d2d32f25a995aeb341457c7620e61e1a"
+  },
+  {
+    "name": "Youken",
+    "prompt": "Youken from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/550649.jpg?s=2a9106b15beed222174ce2bf0b757833"
+  },
+  {
+    "name": "Yumizu",
+    "prompt": "Yumizu from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/551640.jpg?s=96282cbac562ed230ecc84b2414aed7b"
+  },
+  {
+    "name": "Yumuchaac",
+    "prompt": "Yumuchaac from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/567106.jpg?s=ad8a645de092389c777b217505204f8c"
+  },
+  {
+    "name": "Zunbera",
+    "prompt": "Zunbera from Gegege no Kitarou (1971)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/370704.jpg?s=41390b3dd6fdf17bd89887a4aba03c3e"
+  }
+]

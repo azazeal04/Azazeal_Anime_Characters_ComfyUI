@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Jerry",
+    "prompt": "Jerry from Tom to Jerry",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/497567.jpg?s=e8dee30d704aad3846f983475f6859db"
+  },
+  {
+    "name": "Tom",
+    "prompt": "Tom from Tom to Jerry",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/497566.jpg?s=856e817a191456897ebf570177f46aca"
+  }
+]

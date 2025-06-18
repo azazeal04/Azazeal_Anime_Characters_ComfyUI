@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Aoki, Masaru",
+    "prompt": "Aoki, Masaru from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/145319.jpg?s=0dfdf17dd528797a54f741b2b38203e6"
+  },
+  {
+    "name": "Kamogawa, Genji",
+    "prompt": "Kamogawa, Genji from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/141583.jpg?s=07100dabcf34abb2926384ea5852bcc0"
+  },
+  {
+    "name": "Kimura, Tatsuya",
+    "prompt": "Kimura, Tatsuya from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/141575.jpg?s=04f066f389ea24b375ad46f9aa23146b"
+  },
+  {
+    "name": "Makunouchi, Ippo",
+    "prompt": "Makunouchi, Ippo from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/32678.jpg?s=19a666c43dcc72009f671c26e82de682"
+  },
+  {
+    "name": "Takamura, Mamoru",
+    "prompt": "Takamura, Mamoru from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/229037.jpg?s=50e08fd2c57699f42c1c90fbab7db649"
+  },
+  {
+    "name": "Aikawa",
+    "prompt": "Aikawa from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/297970.jpg?s=dd2f3ed41d2a2b5c282f080475b5508a"
+  },
+  {
+    "name": "Aiko's Brother",
+    "prompt": "Aiko's Brother from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/141981.jpg?s=97b58a170aec01c79ede68b51d19e021"
+  },
+  {
+    "name": "Akemi",
+    "prompt": "Akemi from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/297971.jpg?s=1f08d991768c8328484e0b367beec0f5"
+  },
+  {
+    "name": "Arade, Boy",
+    "prompt": "Arade, Boy from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/297974.jpg?s=611bec659320cb55f5320783c9a67467"
+  },
+  {
+    "name": "Chana",
+    "prompt": "Chana from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/297975.jpg?s=62d3f13aeb18e0c5f808c435fa6b0089"
+  },
+  {
+    "name": "Chuwatana, Bonchai",
+    "prompt": "Chuwatana, Bonchai from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/297973.jpg?s=928a1308a5a3d11a270a9d36b9d552e0"
+  },
+  {
+    "name": "Chuwatana, Ponchai",
+    "prompt": "Chuwatana, Ponchai from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/298000.jpg?s=487e7b04b26e32c4107fded68a9eb3a9"
+  },
+  {
+    "name": "Coach Shinoda",
+    "prompt": "Coach Shinoda from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/219957.jpg?s=d21e36063dccd55890313d6d127154e4"
+  },
+  {
+    "name": "Commentator",
+    "prompt": "Commentator from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/79222.jpg?s=6e3a6ebdb62eb9a9ccdb8ade21430760"
+  },
+  {
+    "name": "Date, Yuuji",
+    "prompt": "Date, Yuuji from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/220633.jpg?s=f41093cdfff43c8020e7ee6528d6aa3f"
+  },
+  {
+    "name": "Date, Eiji",
+    "prompt": "Date, Eiji from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/58606.jpg?s=54536c8d130b730abae044357bde8fa2"
+  },
+  {
+    "name": "Date, Aiko",
+    "prompt": "Date, Aiko from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/141989.jpg?s=d5c0e8bb3fcde000c31776114d586b8b"
+  },
+  {
+    "name": "Doctor",
+    "prompt": "Doctor from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/297976.jpg?s=7f50e26d16a28f11f83026424ec6018f"
+  },
+  {
+    "name": "Fujii, Minoru",
+    "prompt": "Fujii, Minoru from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/100455.jpg?s=e77d1a7ad1fda8a812304d8cd27ee951"
+  },
+  {
+    "name": "Fujiwara, Yoshio",
+    "prompt": "Fujiwara, Yoshio from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/100453.jpg?s=27601edf1d68e4e633cf8daae69b718d"
+  },
+  {
+    "name": "Garcia, Arman",
+    "prompt": "Garcia, Arman from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/297972.jpg?s=ff12d61b73e77c56f20460b85cf98ea4"
+  },
+  {
+    "name": "Hachinoe Coach",
+    "prompt": "Hachinoe Coach from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/141667.jpg?s=ad465651afad9df6fe29ebbed8a36bc6"
+  },
+  {
+    "name": "Hachinoe Coach's Wife",
+    "prompt": "Hachinoe Coach's Wife from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/297984.jpg?s=1fd185a56fd3a55a5cd925cf356269d7"
+  },
+  {
+    "name": "Hade",
+    "prompt": "Hade from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297978.jpg?s=a9167c2cf3252b33737eb7cb4148021e"
+  },
+  {
+    "name": "Hayami, Ryuuichi",
+    "prompt": "Hayami, Ryuuichi from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/100456.jpg?s=320c9c51117e91498e5ff2dc028284d7"
+  },
+  {
+    "name": "High School Teacher",
+    "prompt": "High School Teacher from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hirano, Kazuhiko",
+    "prompt": "Hirano, Kazuhiko from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/297979.jpg?s=8f8489c8b344f7bb0727fe872514dd41"
+  },
+  {
+    "name": "Iimura, Mari",
+    "prompt": "Iimura, Mari from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/223573.jpg?s=c59a127d5fdb86c50e3b9eeb45aaeeb7"
+  },
+  {
+    "name": "Ishino Coach",
+    "prompt": "Ishino Coach from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297980.jpg?s=177ba8a9abbbd14408e24f81ca8a2240"
+  },
+  {
+    "name": "Itou, Takaaki",
+    "prompt": "Itou, Takaaki from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/297981.jpg?s=394e79c1da89e21e52d738630bd58655"
+  },
+  {
+    "name": "Iwakawa, Kiyoie",
+    "prompt": "Iwakawa, Kiyoie from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297982.jpg?s=5c95a818ac531949dbd434ec586d7126"
+  },
+  {
+    "name": "Kamiya",
+    "prompt": "Kamiya from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/297985.jpg?s=c7ccf4e2428c2956e142d18eccb75f17"
+  },
+  {
+    "name": "Kanzaki, Shinji",
+    "prompt": "Kanzaki, Shinji from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/297987.jpg?s=0aac69fc5136f2c2d37a3c9221bdb0eb"
+  },
+  {
+    "name": "Kawahara Coach",
+    "prompt": "Kawahara Coach from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/297988.jpg?s=9af3169b3f1c99068f5784d0841736dd"
+  },
+  {
+    "name": "Kawai Coach",
+    "prompt": "Kawai Coach from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/297989.jpg?s=a79006321424c7d00b7d4ab8e4b9894f"
+  },
+  {
+    "name": "Kida",
+    "prompt": "Kida from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/297990.jpg?s=95763dc9ae916a37802f6d03a876bc28"
+  },
+  {
+    "name": "Kimura, Mother",
+    "prompt": "Kimura, Mother from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/219959.jpg?s=a9a0fd17e8f2604d56d54708793a0317"
+  },
+  {
+    "name": "Kobashi, Kenta",
+    "prompt": "Kobashi, Kenta from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/100651.jpg?s=b775a6845888d3dfe1bf36a190b6b2f7"
+  },
+  {
+    "name": "Komori",
+    "prompt": "Komori from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/297991.jpg?s=2fb9c3bd0cbd19ea6fb63a3a2e3be799"
+  },
+  {
+    "name": "Li, Chonpiru",
+    "prompt": "Li, Chonpiru from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/297992.jpg?s=931ea7ec72cd0dc0cf1d8d1d306332ff"
+  },
+  {
+    "name": "Makunouchi, Hiroko",
+    "prompt": "Makunouchi, Hiroko from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/100451.jpg?s=c142615446f8e0cc4dd3eb1efdd23d77"
+  },
+  {
+    "name": "Martinez, Ricardo",
+    "prompt": "Martinez, Ricardo from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/221489.jpg?s=b139f2bb84a99d4020b388a72b9191e5"
+  },
+  {
+    "name": "Mashiba, Kumi",
+    "prompt": "Mashiba, Kumi from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/303831.jpg?s=317d14fafbd10c8fe5f91fef3fcb169b"
+  },
+  {
+    "name": "Mashiba, Ryo",
+    "prompt": "Mashiba, Ryo from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/70382.jpg?s=8e2a29c2b456a697cad68313af46b4d6"
+  },
+  {
+    "name": "Matsuda",
+    "prompt": "Matsuda from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297968.jpg?s=39d85fa85288a96f47d2bdf4b3ef0527"
+  },
+  {
+    "name": "Megumi",
+    "prompt": "Megumi from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/297993.jpg?s=5f088e759ce3b9d091209ca16a467695"
+  },
+  {
+    "name": "Mikami",
+    "prompt": "Mikami from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/100650.jpg?s=d9d0ade79c43e47958acc5df752c2993"
+  },
+  {
+    "name": "Mikami, Reiko",
+    "prompt": "Mikami, Reiko from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/100454.jpg?s=ea11e321c8df91682b342b55b03da880"
+  },
+  {
+    "name": "Miyata, Ichirou",
+    "prompt": "Miyata, Ichirou from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/142281.jpg?s=0d2a19fd3010e8aa9aae01f2f1244b80"
+  },
+  {
+    "name": "Miyata, Father",
+    "prompt": "Miyata, Father from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/100452.jpg?s=38e5b2520cb6e4fa81621519ae60585e"
+  },
+  {
+    "name": "Miyuki",
+    "prompt": "Miyuki from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/297994.jpg?s=c8539f0369538eebaf1100fcd228e0d2"
+  },
+  {
+    "name": "Morita, Kumiko",
+    "prompt": "Morita, Kumiko from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/141577.jpg?s=47a3e0da0aa77f04b303051b70a6648d"
+  },
+  {
+    "name": "Morokot, Poon",
+    "prompt": "Morokot, Poon from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/298001.jpg?s=caea0a1533a60d0e4f41b2ad47bf4bf3"
+  },
+  {
+    "name": "Nakadai Coach",
+    "prompt": "Nakadai Coach from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/141987.jpg?s=e88df9ea49d53beb9d04e6b37b16d4e9"
+  },
+  {
+    "name": "Naniwa Coach",
+    "prompt": "Naniwa Coach from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/297995.jpg?s=b5af5157a3ef466c363ec9fa7ada1262"
+  },
+  {
+    "name": "Nekota, Ginpachi",
+    "prompt": "Nekota, Ginpachi from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/220195.jpg?s=8ba6b0a47e2237081577b05d78912094"
+  },
+  {
+    "name": "New Japan Coach",
+    "prompt": "New Japan Coach from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/298004.jpg?s=4957ab6fe8ed73ff0fef2857a21da05f"
+  },
+  {
+    "name": "Nurse",
+    "prompt": "Nurse from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/297986.jpg?s=bea20b520eb32fb7b2a39d40e2da3b28"
+  },
+  {
+    "name": "Oda, Yusuke",
+    "prompt": "Oda, Yusuke from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/100457.jpg?s=970459bfb5bf11273ad5d5b9789e9757"
+  },
+  {
+    "name": "Okita, Keigo",
+    "prompt": "Okita, Keigo from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/107096.jpg?s=3bdbe4a3ea83382f70b554757f98df05"
+  },
+  {
+    "name": "Oota, Hiroyuki",
+    "prompt": "Oota, Hiroyuki from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/182367.jpg?s=8e7d851a569b169d160383fe82115f90"
+  },
+  {
+    "name": "Otowa Coach",
+    "prompt": "Otowa Coach from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/222103.jpg?s=a41770ef3eb18b4c891dfa7ce38c69cf"
+  },
+  {
+    "name": "Ozuka, Nefuma",
+    "prompt": "Ozuka, Nefuma from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/297997.jpg?s=20e84d4c272fcc6f759ae584ff4d6cd7"
+  },
+  {
+    "name": "Ozuma, Jason",
+    "prompt": "Ozuma, Jason from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/100458.jpg?s=ce944cf31d8157141809ef4502a4f0d0"
+  },
+  {
+    "name": "Paudei, Runsaku",
+    "prompt": "Paudei, Runsaku from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/298002.jpg?s=d28f78a63c67dcd32eb37d752c8ac5a1"
+  },
+  {
+    "name": "Payao",
+    "prompt": "Payao from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/297999.jpg?s=0746dcea2ee56269cf5bb38a18fc0daf"
+  },
+  {
+    "name": "Ramuda, Ruslan",
+    "prompt": "Ramuda, Ruslan from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/141581.jpg?s=c51f957af0dcb2aea5e06b924a05e39a"
+  },
+  {
+    "name": "Reiko",
+    "prompt": "Reiko from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/141983.jpg?s=8115a2254a1847e24aebd12285e0b3e0"
+  },
+  {
+    "name": "Ring Announcer",
+    "prompt": "Ring Announcer from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/587612.jpg?s=909b9c4fcf2816a5470149069538485d"
+  },
+  {
+    "name": "Saeki, Takuma",
+    "prompt": "Saeki, Takuma from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/141579.jpg?s=0eca815cef60a69121a4bea24beb2369"
+  },
+  {
+    "name": "Sendo, Grandmother",
+    "prompt": "Sendo, Grandmother from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/220197.jpg?s=fc35a59d1fc2d327f921dee42e93f529"
+  },
+  {
+    "name": "Sendo, Takeshi",
+    "prompt": "Sendo, Takeshi from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/70383.jpg?s=9a771df0054c1e10b4a35ef192c66ec4"
+  },
+  {
+    "name": "Shigeta, Akira",
+    "prompt": "Shigeta, Akira from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/142265.jpg?s=f3fced0a6c5b7faed2c790cbb39b1106"
+  },
+  {
+    "name": "Shimakawa",
+    "prompt": "Shimakawa from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/545262.jpg?s=6e13b1137658d8b7d7bd442dae7d36ef"
+  },
+  {
+    "name": "Sisfer, Jimmy",
+    "prompt": "Sisfer, Jimmy from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/297983.jpg?s=0e3d7ce472d4ab032be05567b6b6a158"
+  },
+  {
+    "name": "Snake, Thomas",
+    "prompt": "Snake, Thomas from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/298005.jpg?s=56762264c0da837814274d02f5c41f8c"
+  },
+  {
+    "name": "Sugar Ray's Mama",
+    "prompt": "Sugar Ray's Mama from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/298006.jpg?s=1e9fad43754b84b8017fbc9e38698404"
+  },
+  {
+    "name": "Sumire",
+    "prompt": "Sumire from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/298007.jpg?s=530f1fb55b8e259c481dbec29170cfcd"
+  },
+  {
+    "name": "Suzuki, Toshio",
+    "prompt": "Suzuki, Toshio from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/298008.jpg?s=3d79a9843bbed105b21858f5be7d6f7a"
+  },
+  {
+    "name": "Suzuki's Second",
+    "prompt": "Suzuki's Second from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/298009.jpg?s=ba3d5135188d9f79bacef480e1803e3f"
+  },
+  {
+    "name": "Takada, Teruhiko",
+    "prompt": "Takada, Teruhiko from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/298010.jpg?s=d8eebd9e6eb08f5d6549aab54f6d3017"
+  },
+  {
+    "name": "Takemura",
+    "prompt": "Takemura from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/297969.jpg?s=761d8a29e0ba7c76a1d66245e8a24b4d"
+  },
+  {
+    "name": "Tamaki, Atsushi",
+    "prompt": "Tamaki, Atsushi from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/298011.jpg?s=9f266082559e866f36bd8a173ad9f793"
+  },
+  {
+    "name": "Tanaka Transportation Boss",
+    "prompt": "Tanaka Transportation Boss from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/298012.jpg?s=b257a3216ac856ffdb73a2cbee03c035"
+  },
+  {
+    "name": "Toho Coach",
+    "prompt": "Toho Coach from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/222089.jpg?s=18d6d4085c1ddb03fb409fbc9480b601"
+  },
+  {
+    "name": "Tomiko",
+    "prompt": "Tomiko from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/141991.jpg?s=04d4eec0a4dc76519d8938f4ad0d91fa"
+  },
+  {
+    "name": "Umezawa, Masahiko",
+    "prompt": "Umezawa, Masahiko from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/235981.jpg?s=150359a1b8cfdac3a54cc6f7f5d02e83"
+  },
+  {
+    "name": "Yagi, Haruhiko",
+    "prompt": "Yagi, Haruhiko from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/57235.jpg?s=5a3e9bc866b07209e45976718987d595"
+  },
+  {
+    "name": "Yajima, Yoshiaki",
+    "prompt": "Yajima, Yoshiaki from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/298014.jpg?s=c69d4c7a3dceda0b6c1417329b4cfb56"
+  },
+  {
+    "name": "Yamada, Naomichi",
+    "prompt": "Yamada, Naomichi from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/107095.jpg?s=6ce2fb4d5f54a813582fc5db4a5a414c"
+  },
+  {
+    "name": "Yamada, Mother",
+    "prompt": "Yamada, Mother from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/297996.jpg?s=34c7640e1a93c23ce2e2427f6721a12a"
+  },
+  {
+    "name": "Yamaguchi, Tomoko",
+    "prompt": "Yamaguchi, Tomoko from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/45047.jpg?s=2ee3fa013242be727e9b426fd7de8b6f"
+  },
+  {
+    "name": "Yanaoka",
+    "prompt": "Yanaoka from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/100652.jpg?s=d8d0cce88cbf323a6dfc6f2a81063b7e"
+  },
+  {
+    "name": "Yasuda",
+    "prompt": "Yasuda from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/141665.jpg?s=378cfbc2fc46e0f67de8938dcf1587c2"
+  },
+  {
+    "name": "Yasukawa, Kazuhito",
+    "prompt": "Yasukawa, Kazuhito from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/298015.jpg?s=14a87907efbde4e94f9aebbfbce0776e"
+  },
+  {
+    "name": "Yoshida, Mitsuo",
+    "prompt": "Yoshida, Mitsuo from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/298016.jpg?s=10838360236357cf4a30fa8d94ffdf33"
+  },
+  {
+    "name": "Zangief, Mother",
+    "prompt": "Zangief, Mother from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/298013.jpg?s=29e20502065f8eb4cf29bd832974462d"
+  },
+  {
+    "name": "Zangief, Alexander Volg",
+    "prompt": "Zangief, Alexander Volg from Hajime no Ippo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/100461.jpg?s=a4e682fc213b290a46858921b9d2c52e"
+  }
+]

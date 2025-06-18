@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Asuka",
+    "prompt": "Asuka from Senran Kagura Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/201087.jpg?s=e0ef04565543a47e892d5777b8ac828d"
+  },
+  {
+    "name": "Hibari",
+    "prompt": "Hibari from Senran Kagura Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/528282.jpg?s=eb030fd04a7c2df20603531f5221b135"
+  },
+  {
+    "name": "Homura",
+    "prompt": "Homura from Senran Kagura Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/222761.jpg?s=4e4385f0b329cedb8f188b30fd12d422"
+  },
+  {
+    "name": "Ikaruga",
+    "prompt": "Ikaruga from Senran Kagura Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/201085.jpg?s=06abbfcbc295d1c5806c8cf6a1fcb17c"
+  },
+  {
+    "name": "Katsuragi",
+    "prompt": "Katsuragi from Senran Kagura Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/192965.jpg?s=d3f940ad4e8374b5a238989e34587e4a"
+  },
+  {
+    "name": "Yagyuu",
+    "prompt": "Yagyuu from Senran Kagura Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/434631.jpg?s=a90b35d92b58bf6849f8332099ed34b0"
+  },
+  {
+    "name": "Hanzou",
+    "prompt": "Hanzou from Senran Kagura Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/192937.jpg?s=336263572ecb51395d567efe92362f7a"
+  },
+  {
+    "name": "Kiriya",
+    "prompt": "Kiriya from Senran Kagura Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/192939.jpg?s=b821eba66aff6e2e6b95d43db86f9419"
+  }
+]

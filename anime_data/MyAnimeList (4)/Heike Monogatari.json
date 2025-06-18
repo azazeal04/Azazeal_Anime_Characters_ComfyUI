@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Biwa",
+    "prompt": "Biwa from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/454292.jpg?s=5c6520d6c93450a53503c7ee6c240cae"
+  },
+  {
+    "name": "Doi, Sanehira",
+    "prompt": "Doi, Sanehira from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/509807.jpg?s=40e1119fb20e4da018dadf91a5aaac0a"
+  },
+  {
+    "name": "Emperor Antoku",
+    "prompt": "Emperor Antoku from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/480430.jpg?s=be301eef0a6b4aef45e19ee3c2f9ec19"
+  },
+  {
+    "name": "Emperor Go-Shirakawa",
+    "prompt": "Emperor Go-Shirakawa from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/460444.jpg?s=4af59f06c617918d59bd0b0031da7e5a"
+  },
+  {
+    "name": "Emperor Takakura",
+    "prompt": "Emperor Takakura from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/480431.jpg?s=8cbacc4b89593b11de56d57e88b5e4c1"
+  },
+  {
+    "name": "Fujiwara no, Naritsune",
+    "prompt": "Fujiwara no, Naritsune from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Fujiwara no, Motofusa",
+    "prompt": "Fujiwara no, Motofusa from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/480433.jpg?s=ee11a91375a30fe4d98587efb34d4d64"
+  },
+  {
+    "name": "Fujiwara no, Tadakiyo",
+    "prompt": "Fujiwara no, Tadakiyo from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/480435.jpg?s=5017de0cd87c8cd28c1f6892cb95ebc5"
+  },
+  {
+    "name": "Fujiwara no, Moromitsu",
+    "prompt": "Fujiwara no, Moromitsu from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Fujiwara no, Narichika",
+    "prompt": "Fujiwara no, Narichika from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/480432.jpg?s=f89ed071a64c9966d6999196869431ec"
+  },
+  {
+    "name": "Giou",
+    "prompt": "Giou from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/480436.jpg?s=efaa4c18ae8ddff94ebe30442b9ce882"
+  },
+  {
+    "name": "Gozu",
+    "prompt": "Gozu from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Houjou, Masako",
+    "prompt": "Houjou, Masako from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/480437.jpg?s=b3e10b3b33c3331240d3b8f142a683b4"
+  },
+  {
+    "name": "Imai, Kanehira",
+    "prompt": "Imai, Kanehira from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/480438.jpg?s=7bfb04388528a3f9860f238a1661cea0"
+  },
+  {
+    "name": "Kenreimonin Ukyou no Daibu",
+    "prompt": "Kenreimonin Ukyou no Daibu from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mezu",
+    "prompt": "Mezu from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Minamoto no, Nakatsuna",
+    "prompt": "Minamoto no, Nakatsuna from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/480442.jpg?s=5d362a9f27377a4428ab16eb17a5c4f9"
+  },
+  {
+    "name": "Minamoto no, Yorimasa",
+    "prompt": "Minamoto no, Yorimasa from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/480440.jpg?s=aa7526aabda8e8a7786436af1d6239d0"
+  },
+  {
+    "name": "Minamoto no, Yoritomo",
+    "prompt": "Minamoto no, Yoritomo from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/480441.jpg?s=a48438b1a3327a67ed8798e8394433be"
+  },
+  {
+    "name": "Minamoto no, Yoshitsune",
+    "prompt": "Minamoto no, Yoshitsune from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/458826.jpg?s=451f773fdbc82ea0cf6417ddbaa5a656"
+  },
+  {
+    "name": "Minamoto no, Yoshinaka",
+    "prompt": "Minamoto no, Yoshinaka from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/480439.jpg?s=a68943167e44b18f5d2675c23de50aaf"
+  },
+  {
+    "name": "Mongaku",
+    "prompt": "Mongaku from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/480443.jpg?s=aee941a97d3ba60d1e8fb2741c41a719"
+  },
+  {
+    "name": "Munemori, Taira no",
+    "prompt": "Munemori, Taira no from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/460449.jpg?s=8a529d96bf6e803fc189cba9f573c4be"
+  },
+  {
+    "name": "Myouun",
+    "prompt": "Myouun from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nakahara no, Kanemitsu",
+    "prompt": "Nakahara no, Kanemitsu from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Prince Mochihito",
+    "prompt": "Prince Mochihito from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/480444.jpg?s=56fba4c542b96bfa16ff267597b0a30f"
+  },
+  {
+    "name": "Saitou, Sanemori",
+    "prompt": "Saitou, Sanemori from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/480445.jpg?s=2ee96ef2c296172137dc8c14ab2e5b03"
+  },
+  {
+    "name": "Senoo, Kaneyasu",
+    "prompt": "Senoo, Kaneyasu from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/480446.jpg?s=baecfb2c5900d81192c128c84397fa6c"
+  },
+  {
+    "name": "Shin Dainagon no, Tsubone",
+    "prompt": "Shin Dainagon no, Tsubone from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Shizuka Gozen",
+    "prompt": "Shizuka Gozen from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Shunkan",
+    "prompt": "Shunkan from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/480447.jpg?s=bab99522aded641894e7abc3a2c5c6d4"
+  },
+  {
+    "name": "Tada, Yukitsuna",
+    "prompt": "Tada, Yukitsuna from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/561504.jpg?s=4bd1f72ce82aa07429ce9d584feb1e6e"
+  },
+  {
+    "name": "Taira no, Tadanori",
+    "prompt": "Taira no, Tadanori from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Taira no, Yukimori",
+    "prompt": "Taira no, Yukimori from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Taira no, Shigehira",
+    "prompt": "Taira no, Shigehira from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/460607.jpg?s=7d088e31e514d79d971b478353674ea2"
+  },
+  {
+    "name": "Taira no, Tokuko",
+    "prompt": "Taira no, Tokuko from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/454186.jpg?s=db311a38dbba2fb8b88b2bce6ffbb43f"
+  },
+  {
+    "name": "Taira no, Kiyotsune",
+    "prompt": "Taira no, Kiyotsune from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/461538.jpg?s=eccde10d2f76c4c24de66ac54e422a99"
+  },
+  {
+    "name": "Taira no, Sukemori",
+    "prompt": "Taira no, Sukemori from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/461537.jpg?s=bbb0d9a024ea5daa3178f1e9ce450931"
+  },
+  {
+    "name": "Taira no, Tokiko",
+    "prompt": "Taira no, Tokiko from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Taira no, Koremori",
+    "prompt": "Taira no, Koremori from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/460446.jpg?s=836dff0829b2949a64688924d4a1f11c"
+  },
+  {
+    "name": "Taira no, Shigemori",
+    "prompt": "Taira no, Shigemori from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/454275.jpg?s=dfb86c3c8c157ffd6688648bc4a82cc2"
+  },
+  {
+    "name": "Taira no, Keishi",
+    "prompt": "Taira no, Keishi from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/480450.jpg?s=7a5e2fdad6c344fc12a42a854fb0e9f5"
+  },
+  {
+    "name": "Taira no, Atsumori",
+    "prompt": "Taira no, Atsumori from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/509123.jpg?s=11a36df279c7d8b4cd9be4a7ba03658c"
+  },
+  {
+    "name": "Taira no, Tomomori",
+    "prompt": "Taira no, Tomomori from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Taira no, Takakiyo",
+    "prompt": "Taira no, Takakiyo from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/480448.jpg?s=171ba8330ef4f0063b3fd0cc6fa93a7b"
+  },
+  {
+    "name": "Taira no, Shigeko",
+    "prompt": "Taira no, Shigeko from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/480449.jpg?s=a19096c2f9abb238dcd233de4aac585b"
+  },
+  {
+    "name": "Taira no, Tokitada",
+    "prompt": "Taira no, Tokitada from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Taira no, Kiyomori",
+    "prompt": "Taira no, Kiyomori from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/454274.jpg?s=71861718056ed5a43363708e8f0f932f"
+  },
+  {
+    "name": "Tomoe Gozen",
+    "prompt": "Tomoe Gozen from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/480451.jpg?s=28fd3e6795944b449aeb6264e294ed53"
+  },
+  {
+    "name": "Yasha Gozen",
+    "prompt": "Yasha Gozen from Heike Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

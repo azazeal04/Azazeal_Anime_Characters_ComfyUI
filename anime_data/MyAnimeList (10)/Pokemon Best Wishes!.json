@@ -1,0 +1,682 @@
+[
+  {
+    "name": "Dent",
+    "prompt": "Dent from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/102325.jpg?s=00d320c31ffb50faa79bf2d75cbc7614"
+  },
+  {
+    "name": "Iris",
+    "prompt": "Iris from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/442059.jpg?s=242500cdb747f0b8a2b0ba80fa7b532b"
+  },
+  {
+    "name": "Pikachu",
+    "prompt": "Pikachu from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/289627.jpg?s=b97db39e3126c4cc184a764059abe0f6"
+  },
+  {
+    "name": "Satoshi",
+    "prompt": "Satoshi from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/100701.jpg?s=e0c6afbdb021ec02343675ebb587d488"
+  },
+  {
+    "name": "Adeku",
+    "prompt": "Adeku from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/116314.jpg?s=fa606f5169814668e8374923d1a1c7c5"
+  },
+  {
+    "name": "Akkie",
+    "prompt": "Akkie from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/166859.jpg?s=22f10cc329f979cfcbeb55fcaf9a673d"
+  },
+  {
+    "name": "Aloe",
+    "prompt": "Aloe from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/106962.jpg?s=dd9bb7f8dea5fcd075d8106013018cb7"
+  },
+  {
+    "name": "Amy",
+    "prompt": "Amy from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/114279.jpg?s=7dd707d24bf74377a505023161af6cc2"
+  },
+  {
+    "name": "Antonio",
+    "prompt": "Antonio from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/156179.jpg?s=5e3d6649579fe962d593400244537aa6"
+  },
+  {
+    "name": "Araragi, Professor",
+    "prompt": "Araragi, Professor from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/99904.jpg?s=5bf6214b89b4fbd7517369b85df93fcd"
+  },
+  {
+    "name": "Araragi, Prof.",
+    "prompt": "Araragi, Prof. from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/156213.jpg?s=0772181dc0b04e4fcc4e292e77cfac52"
+  },
+  {
+    "name": "Arata",
+    "prompt": "Arata from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/155843.jpg?s=fec2138a3f124cb46e24f2ad822f52d2"
+  },
+  {
+    "name": "Arti",
+    "prompt": "Arti from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/116236.jpg?s=6d3614f0c06767fe66ddb8f7c544f4db"
+  },
+  {
+    "name": "Bakkie",
+    "prompt": "Bakkie from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/166865.jpg?s=4bf9c7f4a17d4d255790c48242e891e9"
+  },
+  {
+    "name": "Bangiras",
+    "prompt": "Bangiras from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/540502.jpg?s=ae4cc3a96a74d21b349bbd45a708f6a0"
+  },
+  {
+    "name": "Bel",
+    "prompt": "Bel from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/106600.jpg?s=070a9424eba68af3e39ea017f3e717b4"
+  },
+  {
+    "name": "Bel's Papa",
+    "prompt": "Bel's Papa from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/159605.jpg?s=903589e46fbb0c212a3f43247d2919c0"
+  },
+  {
+    "name": "Bobby",
+    "prompt": "Bobby from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/156201.jpg?s=9e0ffcb1fc7f9d2c03b615cadb7bed4e"
+  },
+  {
+    "name": "Cabernet",
+    "prompt": "Cabernet from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/110916.jpg?s=9ed520216ac9a593cf63ee52740bd325"
+  },
+  {
+    "name": "Captain",
+    "prompt": "Captain from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/155201.jpg?s=f160870bdbcc509b3f12597fe06fedc9"
+  },
+  {
+    "name": "Chandelure",
+    "prompt": "Chandelure from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/564400.jpg?s=18f482177f2f38265d3188b75c9a5570"
+  },
+  {
+    "name": "Chaoboo",
+    "prompt": "Chaoboo from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/504276.jpg?s=dd8bda7cf96aecd3b0a4bee837429fb0"
+  },
+  {
+    "name": "Charles",
+    "prompt": "Charles from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/156203.jpg?s=803b38a69cf7e0fe6a004bce7513f6bc"
+  },
+  {
+    "name": "Clay",
+    "prompt": "Clay from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/557077.jpg?s=e21ac1fe97da4808e20b85f0fd5c81f8"
+  },
+  {
+    "name": "Cliff",
+    "prompt": "Cliff from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/156193.jpg?s=2aa8cadf3fbb1f6a30558b42c52976b2"
+  },
+  {
+    "name": "Corn",
+    "prompt": "Corn from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/101948.jpg?s=3bdae4d16932811ddf60d82be7d44294"
+  },
+  {
+    "name": "Crimgan",
+    "prompt": "Crimgan from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/497193.jpg?s=e5ce5529e475630a7db4724395b083e8"
+  },
+  {
+    "name": "Dan",
+    "prompt": "Dan from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/154995.jpg?s=855753923458661cf220be6ec7a94aa4"
+  },
+  {
+    "name": "Dan's Father",
+    "prompt": "Dan's Father from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/154997.jpg?s=2b1e2d1e03c13f4602135ab651536d3e"
+  },
+  {
+    "name": "Dino",
+    "prompt": "Dino from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/156185.jpg?s=71fb45306c8956c68bd3a442f4d79012"
+  },
+  {
+    "name": "Dogars",
+    "prompt": "Dogars from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/484898.jpg?s=b6a1b67cad713f8a3c11dd9b575ec365"
+  },
+  {
+    "name": "Domon",
+    "prompt": "Domon from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/166857.jpg?s=69a7a9dc7305d9645562a8a94b8c9244"
+  },
+  {
+    "name": "Don George",
+    "prompt": "Don George from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/101504.jpg?s=01850a222a54ec0b1d82f73ebb0d3d77"
+  },
+  {
+    "name": "Dr. Imori",
+    "prompt": "Dr. Imori from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/156221.jpg?s=2ec06abc49abfc5fd5918a2e94496c75"
+  },
+  {
+    "name": "Dr. Marble",
+    "prompt": "Dr. Marble from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/556416.jpg?s=0125d6fa55515c51a1bd43b32602d7ae"
+  },
+  {
+    "name": "Dr. Seger",
+    "prompt": "Dr. Seger from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/155141.jpg?s=a4ff226cbd02058f460714cde3aecac2"
+  },
+  {
+    "name": "Dr. Tsurara",
+    "prompt": "Dr. Tsurara from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/156207.jpg?s=2cca5341d90040cceea0d83ba942ec7d"
+  },
+  {
+    "name": "Edmond",
+    "prompt": "Edmond from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/166851.jpg?s=1eb9a10db54c951e4d02b8d9f519ca54"
+  },
+  {
+    "name": "Emonga",
+    "prompt": "Emonga from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/504431.jpg?s=131c3879610241a97419c8465573f4cd"
+  },
+  {
+    "name": "Enbuou",
+    "prompt": "Enbuou from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/504277.jpg?s=054b838448fb8433b5e9f61a0b24a570"
+  },
+  {
+    "name": "Erina",
+    "prompt": "Erina from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/159609.jpg?s=6120b882bc93329ca9062f316ca56f2a"
+  },
+  {
+    "name": "Flint",
+    "prompt": "Flint from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/105817.jpg?s=fba11402eae7f585ef0a552ebd7fd948"
+  },
+  {
+    "name": "Flora",
+    "prompt": "Flora from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/166853.jpg?s=23f1a6cffac24bc3b270b9918f7debd7"
+  },
+  {
+    "name": "Fujio",
+    "prompt": "Fujio from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/166861.jpg?s=d3cc710a9cd288ab0bfe255b01bb8b32"
+  },
+  {
+    "name": "Fuuro",
+    "prompt": "Fuuro from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/160767.jpg?s=0b36ac6d54a8f542242f76b41d66f3c9"
+  },
+  {
+    "name": "Glenn",
+    "prompt": "Glenn from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/156217.jpg?s=cb648298be656b8284ccb30e06ee1423"
+  },
+  {
+    "name": "Gold",
+    "prompt": "Gold from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/322207.jpg?s=bd051a41c77d94c37a34fb9cf822dd45"
+  },
+  {
+    "name": "Gothiruselle",
+    "prompt": "Gothiruselle from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/591797.jpg?s=567b684989f204574c5fa7abe8d83042"
+  },
+  {
+    "name": "Grace",
+    "prompt": "Grace from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/166855.jpg?s=c2c72da27bc0163f4d8a5a140053161c"
+  },
+  {
+    "name": "Hachiku",
+    "prompt": "Hachiku from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/167455.jpg?s=d67ef4c0dc576e9b94d6ca7e0ded1a09"
+  },
+  {
+    "name": "Hanako",
+    "prompt": "Hanako from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/506992.jpg?s=0229e1b6818ea34136d09d24e8e744f6"
+  },
+  {
+    "name": "Handsome",
+    "prompt": "Handsome from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/423147.jpg?s=da70505751ea02624eac0fee8ef335c6"
+  },
+  {
+    "name": "Hirota",
+    "prompt": "Hirota from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/155069.jpg?s=c122ce1418377724d423507d6e979f86"
+  },
+  {
+    "name": "Homika",
+    "prompt": "Homika from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/278525.jpg?s=ed8ab4414145029287fb1283ad1a5f55"
+  },
+  {
+    "name": "Ibushi",
+    "prompt": "Ibushi from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/156181.jpg?s=dce4b5e54c41201db9ad9d61a97d04c3"
+  },
+  {
+    "name": "Janovy",
+    "prompt": "Janovy from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/504273.jpg?s=d1234f2513c9b829159e3e1dcd541baa"
+  },
+  {
+    "name": "Jaws",
+    "prompt": "Jaws from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/200421.jpg?s=af0e626b656aff0168359ca4c1ce7436"
+  },
+  {
+    "name": "Joy",
+    "prompt": "Joy from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/215001.jpg?s=4709a6ce2788588427805e93172b07e7"
+  },
+  {
+    "name": "Junsa",
+    "prompt": "Junsa from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/84019.jpg?s=b533f0a782484bfd2d5c1fc40b1a3425"
+  },
+  {
+    "name": "Kairyuu",
+    "prompt": "Kairyuu from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/528913.jpg?s=7e9c8cf303fd1acf883ae73eccd5c633"
+  },
+  {
+    "name": "Kamitsure",
+    "prompt": "Kamitsure from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/149501.jpg?s=aad640dc6a87832acfb90a084551dd92"
+  },
+  {
+    "name": "Kenji",
+    "prompt": "Kenji from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/482712.jpg?s=9b37963e99d23b79355ad732da574ab8"
+  },
+  {
+    "name": "Kensou",
+    "prompt": "Kensou from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/557738.jpg?s=6764ac78548d864ec1e8339ecf3a7f3e"
+  },
+  {
+    "name": "Kenta",
+    "prompt": "Kenta from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/557736.jpg?s=5241152478c9c1cc5eb6fa245c5e5d89"
+  },
+  {
+    "name": "Kenyan",
+    "prompt": "Kenyan from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/246311.jpg?s=c014c6a9aa0e827ec3aad98c6bc8c3fb"
+  },
+  {
+    "name": "Kibago",
+    "prompt": "Kibago from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/504279.jpg?s=1a22f0df4e8560469fc9841f6ffcefcd"
+  },
+  {
+    "name": "Kidachi",
+    "prompt": "Kidachi from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/155071.jpg?s=901332ee7afec485888246d67016fdb4"
+  },
+  {
+    "name": "Kikuyo",
+    "prompt": "Kikuyo from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/155067.jpg?s=707e487b136eeb3db2404155aa3fbe9f"
+  },
+  {
+    "name": "Koaruhie",
+    "prompt": "Koaruhie from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/565078.jpg?s=4b28a4300f5bf4c3e96c2f68321dd690"
+  },
+  {
+    "name": "Kobashi",
+    "prompt": "Kobashi from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/557078.jpg?s=edba1df7230a18123fb2cc23ce119cb2"
+  },
+  {
+    "name": "Koharu",
+    "prompt": "Koharu from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/156199.jpg?s=99ffc37201a004392e1efbad91593837"
+  },
+  {
+    "name": "Kojirou",
+    "prompt": "Kojirou from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/502950.jpg?s=c2fd0729a93d9635e946946b3d49e5b2"
+  },
+  {
+    "name": "Kudari",
+    "prompt": "Kudari from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/140467.jpg?s=0692f2a370b31adfa9537b01f5be455d"
+  },
+  {
+    "name": "Kukku",
+    "prompt": "Kukku from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/559965.jpg?s=d6b2944a67db2b5d507022741d220790"
+  },
+  {
+    "name": "Langley",
+    "prompt": "Langley from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/149355.jpg?s=97ef9a417165c20bec203dd19594c40b"
+  },
+  {
+    "name": "Leon",
+    "prompt": "Leon from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/156191.jpg?s=c8991fca2eaa8d45a77d37d1b9023332"
+  },
+  {
+    "name": "Linda",
+    "prompt": "Linda from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/156205.jpg?s=8316ae7763a2bd9f8297e67600a67e88"
+  },
+  {
+    "name": "Luke",
+    "prompt": "Luke from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/155853.jpg?s=80f2d2e544d6c85c838e1117481cd917"
+  },
+  {
+    "name": "Makomo",
+    "prompt": "Makomo from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/102467.jpg?s=001345a0ffe2046d606a46a27d2ecba9"
+  },
+  {
+    "name": "Mao",
+    "prompt": "Mao from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/155851.jpg?s=1dc2f8ff0448510fffff678a7a49da84"
+  },
+  {
+    "name": "Masaomi",
+    "prompt": "Masaomi from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/166849.jpg?s=bedfe48814963d855445e5d857810605"
+  },
+  {
+    "name": "Matori",
+    "prompt": "Matori from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/116112.jpg?s=71b115df4be530f6e5ddc5d9c67a11ee"
+  },
+  {
+    "name": "Matriarch",
+    "prompt": "Matriarch from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/155837.jpg?s=5186bc900a11fcfee291d09d939ab21d"
+  },
+  {
+    "name": "Matthew",
+    "prompt": "Matthew from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/155855.jpg?s=c61438709a5e3aa898cac84ecae9caa3"
+  },
+  {
+    "name": "Mayor of Hiun City",
+    "prompt": "Mayor of Hiun City from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/155241.jpg?s=fbe2ebe8ef8d6ec0d71e6f22ee042239"
+  },
+  {
+    "name": "Meloetta",
+    "prompt": "Meloetta from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/197139.jpg?s=04531cb7b508b46c1b886bd51534e1e6"
+  },
+  {
+    "name": "Menokurage",
+    "prompt": "Menokurage from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497606.jpg?s=b9d9bcca4dd4e85bac64dc0c0e11893e"
+  },
+  {
+    "name": "Mijumaru",
+    "prompt": "Mijumaru from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/498764.jpg?s=b565811ee8d234328532ade4d51df8d1"
+  },
+  {
+    "name": "Miles",
+    "prompt": "Miles from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/157233.jpg?s=91972366ff3053d1cc27c43ddb5a2834"
+  },
+  {
+    "name": "Misha",
+    "prompt": "Misha from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/155857.jpg?s=49a30e68ff6b34c99c70e3ed80820191"
+  },
+  {
+    "name": "Momocchi",
+    "prompt": "Momocchi from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/175693.jpg?s=e634f3a1af85bb92edd9bd6454b1bb61"
+  },
+  {
+    "name": "Morishima",
+    "prompt": "Morishima from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/558849.jpg?s=458b771c824bd828fbc321114eb76471"
+  },
+  {
+    "name": "Mr. Hattori",
+    "prompt": "Mr. Hattori from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/175709.jpg?s=e114caf1ce69fbd5f7678b201927290d"
+  },
+  {
+    "name": "Musashi",
+    "prompt": "Musashi from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/278096.jpg?s=051ae458066175cfe4bf0f07bb2df11d"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/511553.jpg?s=a57d2a41fe40f1e203b06d3d9218f4b5"
+  },
+  {
+    "name": "Nick",
+    "prompt": "Nick from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/156215.jpg?s=7f98aea65a1abf2b9728ff22a2cf8dbc"
+  },
+  {
+    "name": "Nobori",
+    "prompt": "Nobori from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/140469.jpg?s=9af5223cfeb631198348507858aef7a6"
+  },
+  {
+    "name": "Noir, Pinot",
+    "prompt": "Noir, Pinot from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/175691.jpg?s=3f6e761e0ad92dde54e6b6080d1090bc"
+  },
+  {
+    "name": "Nyarth",
+    "prompt": "Nyarth from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/131981.jpg?s=d7734d4cd42e72435749110ba1953798"
+  },
+  {
+    "name": "Omega",
+    "prompt": "Omega from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/156183.jpg?s=5a1b9e5bb98294a91a6dc0031559c3e4"
+  },
+  {
+    "name": "Ookido, Yukinari",
+    "prompt": "Ookido, Yukinari from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/101947.jpg?s=01478fadc2b8b7238e03d3612a3a731e"
+  },
+  {
+    "name": "Pod",
+    "prompt": "Pod from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/101949.jpg?s=e3d599fc071e0e521fe8e8e0094a7793"
+  },
+  {
+    "name": "Pokabu",
+    "prompt": "Pokabu from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/504275.jpg?s=4aa268d0ccdf742730cf333a3fbbf2d0"
+  },
+  {
+    "name": "Pokemon Zukan",
+    "prompt": "Pokemon Zukan from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/284318.jpg?s=bdc8446c95348fbb93324d4e51edb3de"
+  },
+  {
+    "name": "Reiji",
+    "prompt": "Reiji from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/157815.jpg?s=2865c80acd87fa0ff5023520c91b7c93"
+  },
+  {
+    "name": "Reshiram",
+    "prompt": "Reshiram from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/161231.jpg?s=73e5d660a94d559eb52b2b4c499ce59b"
+  },
+  {
+    "name": "Rikiou",
+    "prompt": "Rikiou from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/560044.jpg?s=e40749243be123fda2462fadfde9dd3e"
+  },
+  {
+    "name": "Rina",
+    "prompt": "Rina from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/155849.jpg?s=f01b79017805b9a7916acea527da61cc"
+  },
+  {
+    "name": "Rinzo",
+    "prompt": "Rinzo from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/167457.jpg?s=27c7c4572a4e4685fd2202821ceb7614"
+  },
+  {
+    "name": "Robert",
+    "prompt": "Robert from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/159611.jpg?s=544af075a09e014b3772db8f37a3c6cf"
+  },
+  {
+    "name": "Robert's Grandfather",
+    "prompt": "Robert's Grandfather from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/156197.jpg?s=7454a6b6a24fc6b30028f1f01e50627f"
+  },
+  {
+    "name": "Roubushin",
+    "prompt": "Roubushin from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/504278.jpg?s=544afff76b13628d97d99e100efab934"
+  },
+  {
+    "name": "Ru",
+    "prompt": "Ru from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/556965.jpg?s=6dbea0394373d0ac45018167353daea9"
+  },
+  {
+    "name": "Sakaki",
+    "prompt": "Sakaki from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/222133.jpg?s=b6503c67934b3c802476cc661913c35b"
+  },
+  {
+    "name": "Sally",
+    "prompt": "Sally from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/155199.jpg?s=30f6a4476de05765d4be6a1c4291b93b"
+  },
+  {
+    "name": "Sanshiro",
+    "prompt": "Sanshiro from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/159603.jpg?s=366cc4ad0f16d9af8d3beb077f3453b5"
+  },
+  {
+    "name": "Sekimoto",
+    "prompt": "Sekimoto from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/156187.jpg?s=31ec71ce008bf4c74494ac70254ad37a"
+  },
+  {
+    "name": "Shaga",
+    "prompt": "Shaga from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/450859.jpg?s=ccf5112dc879dbc9c332cc1b8b1885b8"
+  },
+  {
+    "name": "Shiozaki",
+    "prompt": "Shiozaki from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/560124.jpg?s=521170fc0c3ac671f0e0b0c7041968da"
+  },
+  {
+    "name": "Shooti",
+    "prompt": "Shooti from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/116631.jpg?s=5449a373e469ef74ffa84494254e306e"
+  },
+  {
+    "name": "Stella",
+    "prompt": "Stella from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/166863.jpg?s=2d20c5bc8e145b4bc4e87eb7e7c24913"
+  },
+  {
+    "name": "Suwama",
+    "prompt": "Suwama from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/167447.jpg?s=170ef623247f0cb2dae6bd4e967c10f3"
+  },
+  {
+    "name": "Takemitsu",
+    "prompt": "Takemitsu from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/156189.jpg?s=42a94f54e0e221b30ebeebaa8b0c03ff"
+  },
+  {
+    "name": "Thane",
+    "prompt": "Thane from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/156219.jpg?s=53edbed643f68183d130d091bbbd9b21"
+  },
+  {
+    "name": "Tobio",
+    "prompt": "Tobio from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/156195.jpg?s=884839f374fe438f1177c4e3723f22dd"
+  },
+  {
+    "name": "Tsutarja",
+    "prompt": "Tsutarja from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/504272.jpg?s=ac4cad0bc9029103e495de4c7808b5a3"
+  },
+  {
+    "name": "Tuttle",
+    "prompt": "Tuttle from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/155839.jpg?s=381a542c5f584bfa5b4cbd93b7948cd1"
+  },
+  {
+    "name": "Yabukuron",
+    "prompt": "Yabukuron from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/576092.jpg?s=b8e43e911836e1393112bce00d4f4229"
+  },
+  {
+    "name": "Yacon",
+    "prompt": "Yacon from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/156209.jpg?s=d3a1d6873f82ff12019bcc335d6bfd19"
+  },
+  {
+    "name": "Yanappu",
+    "prompt": "Yanappu from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/521892.jpg?s=95e38a6fb6dd70afcc87ee235b553d2e"
+  },
+  {
+    "name": "Yoshihiko",
+    "prompt": "Yoshihiko from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/557533.jpg?s=1961dcf7701b893a0abd7b78f9edc7d6"
+  },
+  {
+    "name": "Yuri",
+    "prompt": "Yuri from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/155065.jpg?s=d9a0c52b1736e40a4d7e344295660067"
+  },
+  {
+    "name": "Yuuto",
+    "prompt": "Yuuto from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/156211.jpg?s=3fc86c62ca08bd75bb12791fd2f7f06f"
+  },
+  {
+    "name": "Zekrom",
+    "prompt": "Zekrom from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/161229.jpg?s=1a754198d6bf4e08a6869fa0ba9a1f3f"
+  },
+  {
+    "name": "Zorua",
+    "prompt": "Zorua from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/112735.jpg?s=1bc20bae622229475b731e2acf5a203b"
+  },
+  {
+    "name": "Zuruggu",
+    "prompt": "Zuruggu from Pokemon Best Wishes!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/470443.jpg?s=9bad4a169257b4f7947d9d88ca8360bf"
+  }
+]

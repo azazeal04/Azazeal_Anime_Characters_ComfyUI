@@ -1,0 +1,722 @@
+[
+  {
+    "name": "Bulma",
+    "prompt": "Bulma from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/280893.jpg?s=2b0fdc4d608cdb9f6ca28d6192cb9251"
+  },
+  {
+    "name": "Kuririn",
+    "prompt": "Kuririn from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=19014a6433cd36c32f3661b21b38dad3"
+  },
+  {
+    "name": "Muten-Roushi",
+    "prompt": "Muten-Roushi from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/359001.jpg?s=b0f6c285cdf733f32738264f42ebdd2f"
+  },
+  {
+    "name": "Son, Gokuu",
+    "prompt": "Son, Gokuu from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/72546.jpg?s=c434a442d8ad1212885a8d02dbcbbee0"
+  },
+  {
+    "name": "Yamcha",
+    "prompt": "Yamcha from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/126147.jpg?s=c6b311761d167c90d6717a7555efc3ae"
+  },
+  {
+    "name": "Akkuman",
+    "prompt": "Akkuman from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/112702.jpg?s=feeca34f768d2efaf6f2d64b13d8f841"
+  },
+  {
+    "name": "Annin",
+    "prompt": "Annin from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/238743.jpg?s=09baa5c41ad32b26df63a01969bab77e"
+  },
+  {
+    "name": "Antique Shop Owner",
+    "prompt": "Antique Shop Owner from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/238181.jpg?s=ede32d41c1247e447d5a423707c2f11c"
+  },
+  {
+    "name": "Anton the Great",
+    "prompt": "Anton the Great from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/295860.jpg?s=6b01e8869db78837f45c7d76b697bddf"
+  },
+  {
+    "name": "Babaro",
+    "prompt": "Babaro from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/238649.jpg?s=ee02c9c8129b841bd3d6642dd6055382"
+  },
+  {
+    "name": "Bacterian",
+    "prompt": "Bacterian from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/71097.jpg?s=30b3543a53e18353b4bb3b1c2d3ae372"
+  },
+  {
+    "name": "Bisuke",
+    "prompt": "Bisuke from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/238655.jpg?s=89ecdeb7c9f0e72c3985cca2d5a42c49"
+  },
+  {
+    "name": "Bora",
+    "prompt": "Bora from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/45195.jpg?s=af181e8861959ca9fa130562d1630688"
+  },
+  {
+    "name": "Buckets, Polly",
+    "prompt": "Buckets, Polly from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/241829.jpg?s=910d89b6aa05b241f6f144502824339a"
+  },
+  {
+    "name": "Bulma's Mother",
+    "prompt": "Bulma's Mother from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/357970.jpg?s=7a4b3cbde69f0cefa11f5181931e13ae"
+  },
+  {
+    "name": "Buyon",
+    "prompt": "Buyon from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/71101.jpg?s=bdd83f09459fd98976f758a707500afa"
+  },
+  {
+    "name": "Chao",
+    "prompt": "Chao from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/238397.jpg?s=a69690fe384c4c41ad4ef7f5dd8aaf75"
+  },
+  {
+    "name": "Chaozu",
+    "prompt": "Chaozu from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/52822.jpg?s=6e11379dc260224463bcb0990d4cbd1c"
+  },
+  {
+    "name": "Chapa-O",
+    "prompt": "Chapa-O from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/112704.jpg?s=98302c0b466e1ba06e6d5e6e4f3940c9"
+  },
+  {
+    "name": "Chi-Chi",
+    "prompt": "Chi-Chi from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/247963.jpg?s=f4b64bc7b901fd59d3d9fd6b42afcf1c"
+  },
+  {
+    "name": "Chibi",
+    "prompt": "Chibi from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/238175.jpg?s=715489f7a884f92310d4bbf6a34c11b2"
+  },
+  {
+    "name": "Chin, Taiken",
+    "prompt": "Chin, Taiken from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/238485.jpg?s=a576c2ac23e1ab5ec66c2d4ba2b5964c"
+  },
+  {
+    "name": "Chin, Shoken",
+    "prompt": "Chin, Shoken from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/238483.jpg?s=91233477ed4eb590cf0f067f0cfe98d2"
+  },
+  {
+    "name": "Choco",
+    "prompt": "Choco from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/238651.jpg?s=625e6157c34e780b32f46fcda54f3105"
+  },
+  {
+    "name": "Chuu Lee's Mother",
+    "prompt": "Chuu Lee's Mother from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/238631.jpg?s=1f1c07046cfd10a0804961d8b3eed142"
+  },
+  {
+    "name": "Colonel Silver",
+    "prompt": "Colonel Silver from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/45192.jpg?s=75c3ffa16c9f8edd7fa2a6e15f3e5c65"
+  },
+  {
+    "name": "Colonel Violet",
+    "prompt": "Colonel Violet from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/71096.jpg?s=da7efea5542d5c495b1bc14fe213ed77"
+  },
+  {
+    "name": "Colonel Yellow",
+    "prompt": "Colonel Yellow from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/295699.jpg?s=8d3530f80dcdbcde97de3a9c4f2423fa"
+  },
+  {
+    "name": "Commander Red",
+    "prompt": "Commander Red from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/45198.jpg?s=8c13619c9c37a52683e4211ed5643acf"
+  },
+  {
+    "name": "Cookie",
+    "prompt": "Cookie from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/238657.jpg?s=35840ac9109370e8b51798b99b48e58b"
+  },
+  {
+    "name": "Crepe",
+    "prompt": "Crepe from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/238645.jpg?s=14dfa6803127ba8dc4a5adc10897e4a9"
+  },
+  {
+    "name": "Cymbal",
+    "prompt": "Cymbal from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/45196.jpg?s=33574379111b3a81ca40def43fd253ef"
+  },
+  {
+    "name": "Daiou, Nikochan",
+    "prompt": "Daiou, Nikochan from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/144257.jpg?s=5972d1bfd155fd96448231b5d1c69789"
+  },
+  {
+    "name": "Debu",
+    "prompt": "Debu from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/238173.jpg?s=e0c3c116ad861bec7418582402e840c9"
+  },
+  {
+    "name": "Dock",
+    "prompt": "Dock from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/293064.jpg?s=6dcf9d279417cf8ee924a4b1c3407a46"
+  },
+  {
+    "name": "Dolphin",
+    "prompt": "Dolphin from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/282719.jpg?s=b788685d0d148b2e26a64ee7d81f7995"
+  },
+  {
+    "name": "Donuts",
+    "prompt": "Donuts from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/238653.jpg?s=efbf72c0cb8f81c470c9298110e5452b"
+  },
+  {
+    "name": "Dr. Briefs",
+    "prompt": "Dr. Briefs from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/357827.jpg?s=b534f1305647f468ace8d2ab740da63d"
+  },
+  {
+    "name": "Dr. Flappe",
+    "prompt": "Dr. Flappe from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/238393.jpg?s=de06dc619b2effc85c78f465f85bbfad"
+  },
+  {
+    "name": "Dracula Man",
+    "prompt": "Dracula Man from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/127707.jpg?s=0846cbf47c00f34fa356b4e67816ce23"
+  },
+  {
+    "name": "Drum",
+    "prompt": "Drum from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/271073.jpg?s=f48fc4749beaf5a6714d8bedd5ecde57"
+  },
+  {
+    "name": "Eclair",
+    "prompt": "Eclair from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/238637.jpg?s=de4d18cc3c475a49cf0d39a0271c73d9"
+  },
+  {
+    "name": "Fanfan",
+    "prompt": "Fanfan from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/238731.jpg?s=d91f21b7ef5ac356e652c7d006ee2501"
+  },
+  {
+    "name": "Fuan, Ran",
+    "prompt": "Fuan, Ran from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/116398.jpg?s=68da183036bb3d342e6cec0bf0c33a44"
+  },
+  {
+    "name": "Gala",
+    "prompt": "Gala from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/157417.jpg?s=8fc3022d83b5888c988ceb119638fb41"
+  },
+  {
+    "name": "General Blue",
+    "prompt": "General Blue from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/71121.jpg?s=26532c044aa5c86b3afdac766021d8ee"
+  },
+  {
+    "name": "General White",
+    "prompt": "General White from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/116396.jpg?s=16acf41e24acfeaf20a02158eb209938"
+  },
+  {
+    "name": "Ginkaku",
+    "prompt": "Ginkaku from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/238407.jpg?s=8f2a1d05d195bca5713b4456b4d03558"
+  },
+  {
+    "name": "Giran",
+    "prompt": "Giran from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/45207.jpg?s=7ce4db1d81c4e8e5cbcbcae3e1dac6e1"
+  },
+  {
+    "name": "Girl",
+    "prompt": "Girl from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/283297.jpg?s=b86f0f3793d2584e018594638503b454"
+  },
+  {
+    "name": "Gora",
+    "prompt": "Gora from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/238187.jpg?s=34dc5e144a4447798ad91ad186276726"
+  },
+  {
+    "name": "Grandma Hakkake",
+    "prompt": "Grandma Hakkake from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/238741.jpg?s=29527a6e11cba550a7e96ccd3e9d93c0"
+  },
+  {
+    "name": "Grandma Oharu",
+    "prompt": "Grandma Oharu from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/254439.jpg?s=ebbd33fcb739bc6f422a6545f4c61ef9"
+  },
+  {
+    "name": "Grandma Paozu",
+    "prompt": "Grandma Paozu from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/238101.jpg?s=6c56ffa9e0944a28da7a8981431b0f65"
+  },
+  {
+    "name": "Gyumao",
+    "prompt": "Gyumao from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/357971.jpg?s=9d41f38a348ce57f24c19b0e4dbed984"
+  },
+  {
+    "name": "Hasky",
+    "prompt": "Hasky from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/293174.jpg?s=7ef8aaa341ed53a9c4e16064679c3d70"
+  },
+  {
+    "name": "Hyoga, Ten Long",
+    "prompt": "Hyoga, Ten Long from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/238409.jpg?s=885a7e079d3c9bc0eb542d61dc334a92"
+  },
+  {
+    "name": "Hyoga, Shao Long",
+    "prompt": "Hyoga, Shao Long from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/238481.jpg?s=13c1afbebe693160b8e5a3cc18e700c8"
+  },
+  {
+    "name": "Jasmine",
+    "prompt": "Jasmine from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/238737.jpg?s=bb09af8c7ac3c63f18f252a75dd13c69"
+  },
+  {
+    "name": "Jinzouningen 8-gou",
+    "prompt": "Jinzouningen 8-gou from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/44762.jpg?s=0a164546d0ee36b5b183417cf1493f34"
+  },
+  {
+    "name": "Kami",
+    "prompt": "Kami from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/73430.jpg?s=696e6b42b9929ef97aa0e4960e464cba"
+  },
+  {
+    "name": "Karin",
+    "prompt": "Karin from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/358479.jpg?s=99c7decef17ee7fcb80041a73d94b06f"
+  },
+  {
+    "name": "Kimidori, Akane",
+    "prompt": "Kimidori, Akane from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/144259.jpg?s=4c93c10543a1d32157a3c7c1ec0a3aa1"
+  },
+  {
+    "name": "King Kress",
+    "prompt": "King Kress from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/238183.jpg?s=3add5f47b4036624369af967cdaba2de"
+  },
+  {
+    "name": "Kinkaku",
+    "prompt": "Kinkaku from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/238401.jpg?s=9f461eab0115c81a127748e9d4853ea7"
+  },
+  {
+    "name": "Koku-Ou",
+    "prompt": "Koku-Ou from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/514985.jpg?s=467b090b5b25a52a8d33be73f18daf60"
+  },
+  {
+    "name": "Konkichi",
+    "prompt": "Konkichi from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/238193.jpg?s=1a45597af0535c85373c05365bc0ef67"
+  },
+  {
+    "name": "Korinto",
+    "prompt": "Korinto from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/238633.jpg?s=df8306cd11adf97b777a200d5177f0ff"
+  },
+  {
+    "name": "Lee, Chuu",
+    "prompt": "Lee, Chuu from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/238629.jpg?s=40b13e763337c0288fdd2ca8b106af83"
+  },
+  {
+    "name": "Lunch",
+    "prompt": "Lunch from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/126159.jpg?s=b21968d18bc1346f2a00968d741ab3d5"
+  },
+  {
+    "name": "Mai",
+    "prompt": "Mai from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/358456.jpg?s=7b5569aa7a97ac9c1ea6f7ce950fb6ab"
+  },
+  {
+    "name": "Mera",
+    "prompt": "Mera from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/238185.jpg?s=51632b70008e83594c70aea3ee787183"
+  },
+  {
+    "name": "Mermaid",
+    "prompt": "Mermaid from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/238197.jpg?s=9f4a4568a897cb877361f167f301f4d9"
+  },
+  {
+    "name": "Milkman",
+    "prompt": "Milkman from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/238177.jpg?s=9899250039ea518477f239261f33a2e4"
+  },
+  {
+    "name": "Mint",
+    "prompt": "Mint from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/238733.jpg?s=2972e360faa04a793cca36780a097237"
+  },
+  {
+    "name": "Mira-kun",
+    "prompt": "Mira-kun from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/112705.jpg?s=2f556dcd4b29af9790f6bdd5c5be047a"
+  },
+  {
+    "name": "Mother",
+    "prompt": "Mother from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/283216.jpg?s=b5be709c02a554e9bf3c16b3a9d615ac"
+  },
+  {
+    "name": "Mousse",
+    "prompt": "Mousse from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/238641.jpg?s=81156943687983f2ec0ee6d3fe7a4716"
+  },
+  {
+    "name": "Mr. Popo",
+    "prompt": "Mr. Popo from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/535971.jpg?s=fff02e158c18f9587ebe0f3116af3ccc"
+  },
+  {
+    "name": "Mutaito",
+    "prompt": "Mutaito from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/45209.jpg?s=b2b2c97e0f3671ded3f92a4c5dc45e0f"
+  },
+  {
+    "name": "Namu",
+    "prompt": "Namu from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/45210.jpg?s=d62e59be267a1efe5cc511eed44b5490"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nikochan's Servant",
+    "prompt": "Nikochan's Servant from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/158117.jpg?s=b61b3b1932b1ae017a6249d647e35e29"
+  },
+  {
+    "name": "Noppo",
+    "prompt": "Noppo from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/238171.jpg?s=a17a3247a1871d8dfb3903d254775334"
+  },
+  {
+    "name": "Norimaki, Turbo",
+    "prompt": "Norimaki, Turbo from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/39620.jpg?s=4659da52ac594a3593f29400b7c46a6f"
+  },
+  {
+    "name": "Norimaki, Arale",
+    "prompt": "Norimaki, Arale from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/358754.jpg?s=b7f340632ffd5ad0aeaa244a0b615fbe"
+  },
+  {
+    "name": "Norimaki, Senbei",
+    "prompt": "Norimaki, Senbei from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/383100.jpg?s=d08470fe4876d9ead28b3e13ab7baaeb"
+  },
+  {
+    "name": "Norimaki, Gajira",
+    "prompt": "Norimaki, Gajira from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/144261.jpg?s=d84bac076b96642543237799aa18fe4b"
+  },
+  {
+    "name": "Obake",
+    "prompt": "Obake from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/371621.jpg?s=46cc8c1f69670dc6c942a9877009385b"
+  },
+  {
+    "name": "Obotchaman",
+    "prompt": "Obotchaman from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/358748.jpg?s=63df23c0ab9f869b35b6a37abe467e01"
+  },
+  {
+    "name": "Oolong",
+    "prompt": "Oolong from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/71204.jpg?s=dd6923f1951d32ba43880275c519a412"
+  },
+  {
+    "name": "Oonaan",
+    "prompt": "Oonaan from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/238739.jpg?s=4bfa6ad5b8d083ebfba4f9956034bf2d"
+  },
+  {
+    "name": "Pagos",
+    "prompt": "Pagos from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/157419.jpg?s=fe6bf8c76fc561c1ea79857adae33dec"
+  },
+  {
+    "name": "Panput",
+    "prompt": "Panput from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/238489.jpg?s=5a1c818ea3ab50200ab981e7bdf1d8e7"
+  },
+  {
+    "name": "Parzan",
+    "prompt": "Parzan from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/166283.jpg?s=c2f7c77beba20cea095bd00afcba1be4"
+  },
+  {
+    "name": "Paul",
+    "prompt": "Paul from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/238735.jpg?s=f56d2236da4579fdb2eadcc337da4aad"
+  },
+  {
+    "name": "Penguin Village Junior High Principal",
+    "prompt": "Penguin Village Junior High Principal from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/157411.jpg?s=432ad5de3a3bb92744eb09a8db8a95d7"
+  },
+  {
+    "name": "Piano",
+    "prompt": "Piano from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/358661.jpg?s=75cb491f7ae28a429618ce3d4f8e5655"
+  },
+  {
+    "name": "Piccolo",
+    "prompt": "Piccolo from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/45628.jpg?s=7f3263916ca42434072fb20a7590c277"
+  },
+  {
+    "name": "Piccolo Daimao",
+    "prompt": "Piccolo Daimao from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/79720.jpg?s=12c811caec48c2f66ebd53539ef15769"
+  },
+  {
+    "name": "Pilaf",
+    "prompt": "Pilaf from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/71739.jpg?s=f9177c6e82901595feda40788c840c66"
+  },
+  {
+    "name": "Pochawompa",
+    "prompt": "Pochawompa from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/238099.jpg?s=148d4b1cb1d99ef8e5129e4f62a93a11"
+  },
+  {
+    "name": "Princess Misa",
+    "prompt": "Princess Misa from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/238191.jpg?s=0499adc39bbecad44a9e3627e836cf09"
+  },
+  {
+    "name": "Pteranodon",
+    "prompt": "Pteranodon from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297078.jpg?s=0e4a8d88012d2647c07f793751996ec7"
+  },
+  {
+    "name": "Pu'ar",
+    "prompt": "Pu'ar from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/358984.jpg?s=0c54161cd9408d73e8dca4e7b95f4516"
+  },
+  {
+    "name": "Pudding",
+    "prompt": "Pudding from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/238643.jpg?s=c9707525499bbdaeab19c7b8ab920e54"
+  },
+  {
+    "name": "Rabbit Gang Member 1",
+    "prompt": "Rabbit Gang Member 1 from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/283204.jpg?s=5f5b77168d5ed06ede14af59b78897d6"
+  },
+  {
+    "name": "Rabbit Gang Member 2",
+    "prompt": "Rabbit Gang Member 2 from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/283203.jpg?s=be672bdde8e729c9bbe5d9c18076fb1e"
+  },
+  {
+    "name": "Sanzoku Kuma",
+    "prompt": "Sanzoku Kuma from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/113205.jpg?s=24833fa91de89a24a7ca0002b4c1a37b"
+  },
+  {
+    "name": "Sarada, Kinoko",
+    "prompt": "Sarada, Kinoko from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/166291.jpg?s=494bbcdd7d4684333c20509b4dbd0762"
+  },
+  {
+    "name": "Sergeant Metallic",
+    "prompt": "Sergeant Metallic from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/71098.jpg?s=85cc3a87981134f96376f44753975720"
+  },
+  {
+    "name": "Sergeant Murasaki",
+    "prompt": "Sergeant Murasaki from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/71099.jpg?s=6ee676e0865f5788ededda525b653984"
+  },
+  {
+    "name": "Shen",
+    "prompt": "Shen from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/112703.jpg?s=12df8e4cfef0c21dc5f4b1780dcf59ae"
+  },
+  {
+    "name": "Shen Long",
+    "prompt": "Shen Long from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/65049.jpg?s=93245f4ea44f894018c3446628fc7d9f"
+  },
+  {
+    "name": "Sherman Priest",
+    "prompt": "Sherman Priest from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/238097.jpg?s=804c9ccdaf9ac973e66624e689f98176"
+  },
+  {
+    "name": "Shi-Buta",
+    "prompt": "Shi-Buta from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/358747.jpg?s=25290ecd83c41df9388ad5a7d8a6b166"
+  },
+  {
+    "name": "Shura",
+    "prompt": "Shura from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/238189.jpg?s=09b05ee09def55b8d33a6da7fcfab138"
+  },
+  {
+    "name": "Shuu",
+    "prompt": "Shuu from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/358049.jpg?s=e80798b5c21ec9032ce7ea2d044723cb"
+  },
+  {
+    "name": "Shuuku",
+    "prompt": "Shuuku from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/238639.jpg?s=16b1c444614743d9dbb4f69cf78cd534"
+  },
+  {
+    "name": "Son, Gohan",
+    "prompt": "Son, Gohan from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/110722.jpg?s=c5e2fe0a3cd616e8ed016fca54806054"
+  },
+  {
+    "name": "Soramame, Tarou",
+    "prompt": "Soramame, Tarou from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/358750.jpg?s=356bf42b3a8d1be0ecac95eaec8bb933"
+  },
+  {
+    "name": "Soramame, Peasuke",
+    "prompt": "Soramame, Peasuke from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/144265.jpg?s=f6366a9bc626f68ced3a7e80822b84b7"
+  },
+  {
+    "name": "Staff Officer Black",
+    "prompt": "Staff Officer Black from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/71057.jpg?s=e76a374d9f8ea6186ad4c3c8072f14fd"
+  },
+  {
+    "name": "Suke-san",
+    "prompt": "Suke-san from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/127697.jpg?s=f935c6def6805195449d5c2feed9e7fa"
+  },
+  {
+    "name": "Suno",
+    "prompt": "Suno from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/116397.jpg?s=d670a267b2b5af8c9f26baac30578558"
+  },
+  {
+    "name": "Suppaman",
+    "prompt": "Suppaman from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/297606.jpg?s=fca4babc7664d457e9cd53a0b9600094"
+  },
+  {
+    "name": "Tama",
+    "prompt": "Tama from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/112701.jpg?s=6983616071860c6f0c0ce268bfe5e911"
+  },
+  {
+    "name": "Tambourine",
+    "prompt": "Tambourine from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/126153.jpg?s=160e28c3b0dee7014c4ae05b12903590"
+  },
+  {
+    "name": "Tanmen",
+    "prompt": "Tanmen from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/238487.jpg?s=c663ff8146a474183c3cc69286b63dd4"
+  },
+  {
+    "name": "Tao Pai Pai",
+    "prompt": "Tao Pai Pai from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/111699.jpg?s=bf0d8d19557b8a127d862d033efccfb1"
+  },
+  {
+    "name": "Tenkaichi Budokai Announcer",
+    "prompt": "Tenkaichi Budokai Announcer from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/273719.jpg?s=ab08b02b2f0eb9e313ab5c54f2e7b0fb"
+  },
+  {
+    "name": "Tenshinhan",
+    "prompt": "Tenshinhan from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/102021.jpg?s=c059016ec2069e3d78f6be30454d863d"
+  },
+  {
+    "name": "Toninjinka",
+    "prompt": "Toninjinka from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/283210.jpg?s=4f63559fb8cc9d383b33aa1490eae0b9"
+  },
+  {
+    "name": "Trampire",
+    "prompt": "Trampire from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/166287.jpg?s=ec413c36124dc74e001755424d104e81"
+  },
+  {
+    "name": "Tsun, Tsukutsun",
+    "prompt": "Tsun, Tsukutsun from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/158115.jpg?s=4016b18a9198fafdda57f0e99d3066fc"
+  },
+  {
+    "name": "Tsuru-Sennin",
+    "prompt": "Tsuru-Sennin from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/45206.jpg?s=b19e7cb6b7d4e4a7a27efb8426c78a17"
+  },
+  {
+    "name": "Umigame",
+    "prompt": "Umigame from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/358662.jpg?s=98bc518fda8b1ce7883636f9b7f9fbab"
+  },
+  {
+    "name": "Upa",
+    "prompt": "Upa from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/45211.jpg?s=953c88520f69831cad606c12244a867b"
+  },
+  {
+    "name": "Uranai Baba",
+    "prompt": "Uranai Baba from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/358931.jpg?s=0daf7d854001f4db7dabe6c4194659d7"
+  },
+  {
+    "name": "Vodka",
+    "prompt": "Vodka from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/257345.jpg?s=2da435682629e683ce2e69862a82106e"
+  },
+  {
+    "name": "Yajirobe",
+    "prompt": "Yajirobe from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/275086.jpg?s=0d9b407e205627543b45d46a92206e05"
+  },
+  {
+    "name": "Yamabuki, Midori",
+    "prompt": "Yamabuki, Midori from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/144267.jpg?s=7f7cb044fff34cbb976fe12727dcd20d"
+  },
+  {
+    "name": "Yaochun",
+    "prompt": "Yaochun from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/238635.jpg?s=671f3d407297612ae0d264e81fceeb20"
+  },
+  {
+    "name": "Zeri",
+    "prompt": "Zeri from Dragon Ball",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/238647.jpg?s=98cae51a2ec0e2b82cd41e78f2b0f736"
+  }
+]

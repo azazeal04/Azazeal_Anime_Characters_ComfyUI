@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Saitama",
+    "prompt": "Saitama from Go! Saitama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/294388.jpg?s=a56fc5484b23811f3308aad1dc7b8b2e"
+  },
+  {
+    "name": "Genos",
+    "prompt": "Genos from Go! Saitama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/297329.jpg?s=1dd6cf2edbb45d8bd1e654541226901d"
+  },
+  {
+    "name": "Puri-Puri Prisoner",
+    "prompt": "Puri-Puri Prisoner from Go! Saitama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/296951.jpg?s=67627c9c169a49e7c66799f82204a47b"
+  }
+]

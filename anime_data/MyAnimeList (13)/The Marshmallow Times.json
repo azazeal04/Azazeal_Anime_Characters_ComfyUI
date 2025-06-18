@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Basil",
+    "prompt": "Basil from The Marshmallow Times",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/543910.jpg?s=cb5fe8cb2859775ce73d24fb380f9913"
+  },
+  {
+    "name": "Cinnamon",
+    "prompt": "Cinnamon from The Marshmallow Times",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/543908.jpg?s=89de342017d91ba8d4695031fc4c27cd"
+  },
+  {
+    "name": "Cloud",
+    "prompt": "Cloud from The Marshmallow Times",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/543912.jpg?s=154eb8b04984267df0740fa9d55cd8d3"
+  },
+  {
+    "name": "Clove",
+    "prompt": "Clove from The Marshmallow Times",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/543915.jpg?s=94e5e80528158bb8366a1139333cf91b"
+  },
+  {
+    "name": "Jasmine",
+    "prompt": "Jasmine from The Marshmallow Times",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/543911.jpg?s=59cac2ccdc8af9b6da91b7646ab7aeb3"
+  },
+  {
+    "name": "Lime",
+    "prompt": "Lime from The Marshmallow Times",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/543906.jpg?s=9739ef9229241352e547a03fcdd81d7f"
+  },
+  {
+    "name": "Nuts",
+    "prompt": "Nuts from The Marshmallow Times",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/543914.jpg?s=ab1e9a9b0de58e74c8815e3052b4c941"
+  },
+  {
+    "name": "Sandy",
+    "prompt": "Sandy from The Marshmallow Times",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/543905.jpg?s=82f251e423aacc73d225167ebef9f404"
+  }
+]

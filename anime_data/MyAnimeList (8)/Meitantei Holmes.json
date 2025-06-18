@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Holmes, Sherlock",
+    "prompt": "Holmes, Sherlock from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/489049.jpg?s=fc97a4d7dd47c597708d50706f761cd0"
+  },
+  {
+    "name": "Moriarty, Professor",
+    "prompt": "Moriarty, Professor from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/344680.jpg?s=28fd49fbe00e7d5b996524134271c935"
+  },
+  {
+    "name": "Watson",
+    "prompt": "Watson from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/344682.jpg?s=6a0580f98fc7b380ca9b974613bba669"
+  },
+  {
+    "name": "Alice",
+    "prompt": "Alice from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/360338.jpg?s=14e458f8fb1420b8b7b67689409c0ab1"
+  },
+  {
+    "name": "Ames",
+    "prompt": "Ames from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/360349.jpg?s=6b3a6ac8cf74c734ae7bf0b4a2cd5216"
+  },
+  {
+    "name": "Amilly",
+    "prompt": "Amilly from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/356298.jpg?s=88d5b8c1fabe69861397c01374071a2e"
+  },
+  {
+    "name": "Bain, Mac",
+    "prompt": "Bain, Mac from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/358960.jpg?s=519a2a96409180e4b3c1732462cb397d"
+  },
+  {
+    "name": "Bank President",
+    "prompt": "Bank President from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/345106.jpg?s=7907d61171921f9ac482b617b890191b"
+  },
+  {
+    "name": "Barbara",
+    "prompt": "Barbara from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/344628.jpg?s=ea97bcc9a21ba5a1602f392a315885a9"
+  },
+  {
+    "name": "Bengal Pirate Captain",
+    "prompt": "Bengal Pirate Captain from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/344632.jpg?s=bb29abbe0ed3492808cbd1f58d45e85b"
+  },
+  {
+    "name": "Benson",
+    "prompt": "Benson from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/360344.jpg?s=e0cdfea8081f13e02cb3644d7ea856e3"
+  },
+  {
+    "name": "Captain",
+    "prompt": "Captain from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/344631.jpg?s=7933bd4e974902fd17a7f4fe25993910"
+  },
+  {
+    "name": "Captain Guard",
+    "prompt": "Captain Guard from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/358951.jpg?s=ca980c50441aa41e5c3733d2da0d63b2"
+  },
+  {
+    "name": "Christopher, Allin",
+    "prompt": "Christopher, Allin from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/358949.jpg?s=a460721d5fa55e7545ab22b33833ac6f"
+  },
+  {
+    "name": "Commander Raythunder",
+    "prompt": "Commander Raythunder from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/353398.jpg?s=5d401ddbb17d140c7cc8bc0c118b5571"
+  },
+  {
+    "name": "Copit",
+    "prompt": "Copit from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/357194.jpg?s=49f3e8dce2bccbd61b14fd3ac5854539"
+  },
+  {
+    "name": "David",
+    "prompt": "David from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/358439.jpg?s=e3d5c0b82af423054df4f83d5d9ee742"
+  },
+  {
+    "name": "Elizabeth",
+    "prompt": "Elizabeth from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/360333.jpg?s=f172091983e9ae4f8e386b6e6327888d"
+  },
+  {
+    "name": "Farmer",
+    "prompt": "Farmer from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/360350.jpg?s=9e995cc7cd87193e1efef64c357f9192"
+  },
+  {
+    "name": "Fisherman",
+    "prompt": "Fisherman from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/356319.jpg?s=31a24f9945a7b24ef4574b5bcf140a29"
+  },
+  {
+    "name": "Frenchman",
+    "prompt": "Frenchman from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/358540.jpg?s=dacf745da3d3b317a0223c281e74ed71"
+  },
+  {
+    "name": "Gingham President",
+    "prompt": "Gingham President from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/358802.jpg?s=b2ec07f1ae04643f59c2d38d9c019dc6"
+  },
+  {
+    "name": "Harras",
+    "prompt": "Harras from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/359062.jpg?s=61bf4db9aab6a78c883093c4a3deaec9"
+  },
+  {
+    "name": "Honourable Count",
+    "prompt": "Honourable Count from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/353422.jpg?s=e02b53177cf2f327ffba3120bb04bb70"
+  },
+  {
+    "name": "Hotel Administrator",
+    "prompt": "Hotel Administrator from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/359064.jpg?s=a12e4f329318a5561c53fd05e579f342"
+  },
+  {
+    "name": "Hudson, Mary",
+    "prompt": "Hudson, Mary from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/323695.jpg?s=c44e36c74c994f2554ae8fcce3300943"
+  },
+  {
+    "name": "Inspector Lestrade",
+    "prompt": "Inspector Lestrade from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/344681.jpg?s=b8f4a73b98b14ca8d1513a800182c4d3"
+  },
+  {
+    "name": "Jack",
+    "prompt": "Jack from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/347647.jpg?s=970c740fe523505bde4a689d9afa3aa7"
+  },
+  {
+    "name": "Jewelry Shop Owner",
+    "prompt": "Jewelry Shop Owner from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/347643.jpg?s=4de3e81dc349a53a760245b1b8dd9a72"
+  },
+  {
+    "name": "Johnny",
+    "prompt": "Johnny from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/349626.jpg?s=3e1713f39d9b21da3942fe9143a756bc"
+  },
+  {
+    "name": "Khiviji",
+    "prompt": "Khiviji from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/359063.jpg?s=bed81125135d654353199f90dc364296"
+  },
+  {
+    "name": "Maria",
+    "prompt": "Maria from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/356300.jpg?s=1461fc370ec963aa5acf2d81a2599019"
+  },
+  {
+    "name": "Martha",
+    "prompt": "Martha from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/345104.jpg?s=aec72e8f2a45660031084c6810bfc491"
+  },
+  {
+    "name": "Martha's Father",
+    "prompt": "Martha's Father from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/345105.jpg?s=7cf9955deb42a2b67d53d15b772c8645"
+  },
+  {
+    "name": "Mary",
+    "prompt": "Mary from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/358440.jpg?s=fd7c7fc8ddbf8a8412f83d30fd5452be"
+  },
+  {
+    "name": "Michael",
+    "prompt": "Michael from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/354625.jpg?s=05bdd79ccf8062f5a3c08da1b7bba10b"
+  },
+  {
+    "name": "Miss Ellen",
+    "prompt": "Miss Ellen from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/349625.jpg?s=c4cf190b6983ebc9fbd8fb6044841b59"
+  },
+  {
+    "name": "Mr. Brydon",
+    "prompt": "Mr. Brydon from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/356320.jpg?s=8c81085490051b49a9e9c3eb5ee90f54"
+  },
+  {
+    "name": "Mr. Focus",
+    "prompt": "Mr. Focus from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/356299.jpg?s=80c01374bd78e79dcddafc1df29e1215"
+  },
+  {
+    "name": "Mr. Gilmore",
+    "prompt": "Mr. Gilmore from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/354624.jpg?s=5b4e77b307a900fc4c8276279245af2f"
+  },
+  {
+    "name": "Mr. Sampton",
+    "prompt": "Mr. Sampton from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/345108.jpg?s=d3332712b5d8cef1542db6309b46364f"
+  },
+  {
+    "name": "Mr. Zeal",
+    "prompt": "Mr. Zeal from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/345109.jpg?s=ec58e5364551aa64496c66f27e92cd70"
+  },
+  {
+    "name": "Mrs. Harris",
+    "prompt": "Mrs. Harris from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/360346.jpg?s=7fbdd2ce9188484ecb16215d390a21fe"
+  },
+  {
+    "name": "Mrs. Helen",
+    "prompt": "Mrs. Helen from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/358961.jpg?s=776a3e9af72084e721a5b3503bffa272"
+  },
+  {
+    "name": "Mrs. Molly",
+    "prompt": "Mrs. Molly from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/357196.jpg?s=94c71ee6ed0ec975f774e19e7a745f10"
+  },
+  {
+    "name": "Mrs. Perison",
+    "prompt": "Mrs. Perison from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/357197.jpg?s=6bd50e9c8622e203f48495f139039a24"
+  },
+  {
+    "name": "Ms. Shields",
+    "prompt": "Ms. Shields from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/344679.jpg?s=0bf06de92d3d6d7f13a007bb31183a36"
+  },
+  {
+    "name": "Museum Director",
+    "prompt": "Museum Director from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/358542.jpg?s=bdcfb04f1ea6a9efda3c8b806d5e872c"
+  },
+  {
+    "name": "Natsume, Kinnosuke",
+    "prompt": "Natsume, Kinnosuke from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/358539.jpg?s=4429200d90ca9b16646acc48b404a9af"
+  },
+  {
+    "name": "Oba-san",
+    "prompt": "Oba-san from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/354629.jpg?s=e4082460366d4e4affcba20f34bef812"
+  },
+  {
+    "name": "Polly",
+    "prompt": "Polly from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/347638.jpg?s=39599bfe0466cebfeae409c4acc4208c"
+  },
+  {
+    "name": "Prince Avagen",
+    "prompt": "Prince Avagen from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/360336.jpg?s=b245452123c054ca15c69889c3bf7c84"
+  },
+  {
+    "name": "Pully",
+    "prompt": "Pully from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/360347.jpg?s=f937b403a2c35716dcd75d0be96d2930"
+  },
+  {
+    "name": "Scotland Yard Chief",
+    "prompt": "Scotland Yard Chief from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/358452.jpg?s=e3a32f2379a8548d64d58ee1e7c09827"
+  },
+  {
+    "name": "Silver Blaze Captain",
+    "prompt": "Silver Blaze Captain from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/358803.jpg?s=02b273ae236d92cb8987deea8903344b"
+  },
+  {
+    "name": "Sir George",
+    "prompt": "Sir George from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/344630.jpg?s=5d0e461064aa2b074c1326104097cc92"
+  },
+  {
+    "name": "Sir Wizard",
+    "prompt": "Sir Wizard from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/358250.jpg?s=b854d8baca566dd3e891fcf889342356"
+  },
+  {
+    "name": "Smiley",
+    "prompt": "Smiley from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/344676.jpg?s=feb400c5db449030c87eab263eba89c7"
+  },
+  {
+    "name": "Station Manager",
+    "prompt": "Station Manager from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/356305.jpg?s=0cd2a7104549d34bb348e0f972f1a0d8"
+  },
+  {
+    "name": "Superintendent General",
+    "prompt": "Superintendent General from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/360348.jpg?s=52e38b6afb00ec4a2ac891d430984207"
+  },
+  {
+    "name": "Todd",
+    "prompt": "Todd from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/344677.jpg?s=33652e4a30f0c2f77615f35ca7babb4c"
+  },
+  {
+    "name": "Tommy",
+    "prompt": "Tommy from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/353421.jpg?s=7c3bd6e2815d98d4b8aa0786f601c562"
+  },
+  {
+    "name": "Wizard, William",
+    "prompt": "Wizard, William from Meitantei Holmes",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/358251.jpg?s=abc25508e65a2e38ab2c559a7124645d"
+  }
+]

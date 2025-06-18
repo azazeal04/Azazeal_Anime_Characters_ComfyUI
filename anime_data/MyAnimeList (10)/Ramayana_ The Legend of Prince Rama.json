@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Hanuman",
+    "prompt": "Hanuman from Ramayana: The Legend of Prince Rama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/511185.jpg?s=dff43a6d88fd3a4dcc8956f34a58fa2b"
+  },
+  {
+    "name": "Rama",
+    "prompt": "Rama from Ramayana: The Legend of Prince Rama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/508375.jpg?s=accf01955faba8b1933d9e2ccbf72a68"
+  },
+  {
+    "name": "Ravan",
+    "prompt": "Ravan from Ramayana: The Legend of Prince Rama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/168797.jpg?s=d28d6d97c40907fc6ca8dfa4baaadef2"
+  },
+  {
+    "name": "Sita",
+    "prompt": "Sita from Ramayana: The Legend of Prince Rama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/168749.jpg?s=a8f27d3c2b83a257e5621979f36d6f30"
+  },
+  {
+    "name": "Lakshman",
+    "prompt": "Lakshman from Ramayana: The Legend of Prince Rama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/168809.jpg?s=251bb7cbe4308c55843fa5790e1a26e5"
+  }
+]

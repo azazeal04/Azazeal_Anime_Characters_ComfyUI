@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Lum",
+    "prompt": "Lum from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498938.jpg?s=c7f9df1cf99bdd63df896e1b0b6bbaeb"
+  },
+  {
+    "name": "Mendou, Shuutarou",
+    "prompt": "Mendou, Shuutarou from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/474083.jpg?s=a3c18306602610eaf019e09ef53f0021"
+  },
+  {
+    "name": "Miyake, Shinobu",
+    "prompt": "Miyake, Shinobu from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/474085.jpg?s=a862be4f78d5272b503f18f95a010fbf"
+  },
+  {
+    "name": "Moroboshi, Ataru",
+    "prompt": "Moroboshi, Ataru from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/461388.jpg?s=b6f173c46d0055ba8984a1b1b8aa9e24"
+  },
+  {
+    "name": "Akira",
+    "prompt": "Akira from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/114470.jpg?s=2c43a00bb336f8f8022ddc2ae5253448"
+  },
+  {
+    "name": "Ataru's Father",
+    "prompt": "Ataru's Father from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/374359.jpg?s=7f08c41ab5eb981f0886d1212c373ea2"
+  },
+  {
+    "name": "Ataru's Mother",
+    "prompt": "Ataru's Mother from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/163339.jpg?s=a121c12071a28682d71e2973971199e2"
+  },
+  {
+    "name": "Benten",
+    "prompt": "Benten from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/498946.jpg?s=a34a90107e82ef9914103932e90a9ac8"
+  },
+  {
+    "name": "Black Rabbit",
+    "prompt": "Black Rabbit from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/557813.jpg?s=e2057e714c5c175aeed3a2aa02088fdc"
+  },
+  {
+    "name": "Fujinami, Ryuunosuke",
+    "prompt": "Fujinami, Ryuunosuke from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498935.jpg?s=d6321a9eb936d9a132d73f7fb6347a86"
+  },
+  {
+    "name": "Hiroyuki",
+    "prompt": "Hiroyuki from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/341963.jpg?s=8d71fff82c7ae4cf033639eae2ec93f3"
+  },
+  {
+    "name": "Inaba",
+    "prompt": "Inaba from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/374407.jpg?s=c2f81ae0dd609cfbe8995a9b7a81980e"
+  },
+  {
+    "name": "Kotatsu-neko",
+    "prompt": "Kotatsu-neko from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/341973.jpg?s=d51746cbefb87121ac53fe2c3aaac60f"
+  },
+  {
+    "name": "Mamoru",
+    "prompt": "Mamoru from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/374408.jpg?s=10c837a046c7e1ac95c3d17e66710365"
+  },
+  {
+    "name": "Mendou, Ryouko",
+    "prompt": "Mendou, Ryouko from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/508594.jpg?s=95382ee2f2bc28338147267fb9483eb0"
+  },
+  {
+    "name": "Mendou's Father",
+    "prompt": "Mendou's Father from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/374347.jpg?s=1b2691a927b58368e49552620e47e00e"
+  },
+  {
+    "name": "Mizunokoji, Asuka",
+    "prompt": "Mizunokoji, Asuka from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/341971.jpg?s=eb54686d766d0e4f727fe6d5c300068e"
+  },
+  {
+    "name": "Moroboshi, Kokeru",
+    "prompt": "Moroboshi, Kokeru from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/374360.jpg?s=5f1debb00a704a2af4f9fee0ea9f9d65"
+  },
+  {
+    "name": "Mujaki",
+    "prompt": "Mujaki from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/368187.jpg?s=4cfd152f5d66ff0313f7180b314b87aa"
+  },
+  {
+    "name": "Omaezaki, Maiko",
+    "prompt": "Omaezaki, Maiko from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/374409.jpg?s=6db41a3b7c57f8231bb6af8a1e4eb067"
+  },
+  {
+    "name": "Onsen-Mark",
+    "prompt": "Onsen-Mark from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498947.jpg?s=60eaaa201f8eae964561f6bdc47493c6"
+  },
+  {
+    "name": "Oyuki",
+    "prompt": "Oyuki from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/498945.jpg?s=7f0a50f53774264bd7bcc76cb308ed7e"
+  },
+  {
+    "name": "Ozuno, Tsubame",
+    "prompt": "Ozuno, Tsubame from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/498948.jpg?s=ae4ffd9ad5963a1a774aff47ddaa86f5"
+  },
+  {
+    "name": "Perm",
+    "prompt": "Perm from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/341964.jpg?s=fa5d2be482078848ed4fe1ceb8478c84"
+  },
+  {
+    "name": "Principal",
+    "prompt": "Principal from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/374376.jpg?s=7c66c717ff3fa6daaffeba5d46679b89"
+  },
+  {
+    "name": "Ran",
+    "prompt": "Ran from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/483386.jpg?s=ced87f5ff74ca90ca9a9c4647adece7b"
+  },
+  {
+    "name": "Rei",
+    "prompt": "Rei from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/498944.jpg?s=c7217e53739e7bfc8a37e3133e53a1b7"
+  },
+  {
+    "name": "Ryuunosuke's Father",
+    "prompt": "Ryuunosuke's Father from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/341518.jpg?s=4e556dabeda5035f06ca59fd6f9b4346"
+  },
+  {
+    "name": "Saizou",
+    "prompt": "Saizou from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/560683.jpg?s=cf7a8932ee143fa10a1b42d6ef3e184f"
+  },
+  {
+    "name": "Sakura",
+    "prompt": "Sakura from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/474086.jpg?s=5ffa6f10c7dbb98923ee94736558ca80"
+  },
+  {
+    "name": "Sakuranbou",
+    "prompt": "Sakuranbou from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/474088.jpg?s=5d5a299ef8f023f9ff83cf00dd8f5196"
+  },
+  {
+    "name": "Satoshi",
+    "prompt": "Satoshi from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/500393.jpg?s=8f7a0a6ca2cc00501e831121826bffd9"
+  },
+  {
+    "name": "Shingo",
+    "prompt": "Shingo from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/374387.jpg?s=bf490a6aae59aa8b23a7202fd062e876"
+  },
+  {
+    "name": "Shiowatari, Nagisa",
+    "prompt": "Shiowatari, Nagisa from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/374412.jpg?s=77bcdef23a0d0a7c980bf58dfc6cf373"
+  },
+  {
+    "name": "Shiowatari, Father",
+    "prompt": "Shiowatari, Father from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/374410.jpg?s=0fe5e0ab69990821f13e6cc6b6ebf74e"
+  },
+  {
+    "name": "Shirai, Kousuke",
+    "prompt": "Shirai, Kousuke from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/437797.jpg?s=6a394e8e6f3a5ee6704e98ded2f1ec7c"
+  },
+  {
+    "name": "Ten",
+    "prompt": "Ten from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/498940.jpg?s=c3985dad4a47da4250458eb402866556"
+  },
+  {
+    "name": "Ten's Mother",
+    "prompt": "Ten's Mother from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/374391.jpg?s=26ed5ab2e63c62e9964d895fb990751a"
+  },
+  {
+    "name": "Yellow Rabbit",
+    "prompt": "Yellow Rabbit from Urusei Yatsura OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/557814.jpg?s=8dea43e074f3a613e78f0b9f0e881f87"
+  }
+]

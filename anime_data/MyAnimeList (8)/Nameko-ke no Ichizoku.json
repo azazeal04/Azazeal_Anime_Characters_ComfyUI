@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Father",
+    "prompt": "Father from Nameko-ke no Ichizoku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/280468.jpg?s=b246a5b262a089b985caccccc97ad959"
+  },
+  {
+    "name": "Grandmother",
+    "prompt": "Grandmother from Nameko-ke no Ichizoku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/280470.jpg?s=5232649ff6f89c2e5a4ab34bef97807e"
+  },
+  {
+    "name": "Mother",
+    "prompt": "Mother from Nameko-ke no Ichizoku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/280466.jpg?s=702e98b0e8982f1739005f97a591404c"
+  },
+  {
+    "name": "Nameko",
+    "prompt": "Nameko from Nameko-ke no Ichizoku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/280465.jpg?s=9b419d07ec164fb11c1c96ddf3dc9b40"
+  },
+  {
+    "name": "Older Brother",
+    "prompt": "Older Brother from Nameko-ke no Ichizoku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/280467.jpg?s=f51483ba9479a9212e77544302b83bfe"
+  },
+  {
+    "name": "Younger Brother",
+    "prompt": "Younger Brother from Nameko-ke no Ichizoku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/280469.jpg?s=337b88b6a0bd5b98fd25acfeca6c8ce4"
+  },
+  {
+    "name": "Younger Sister",
+    "prompt": "Younger Sister from Nameko-ke no Ichizoku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/280471.jpg?s=89a34d2f725ef5061e745082df148b03"
+  }
+]

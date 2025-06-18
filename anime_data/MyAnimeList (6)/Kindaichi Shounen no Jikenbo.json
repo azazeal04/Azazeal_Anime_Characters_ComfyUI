@@ -1,0 +1,1967 @@
+[
+  {
+    "name": "Kenmochi, Isamu",
+    "prompt": "Kenmochi, Isamu from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/105380.jpg?s=54f932726b56bebbe7918009571beea1"
+  },
+  {
+    "name": "Kindaichi, Hajime",
+    "prompt": "Kindaichi, Hajime from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/289646.jpg?s=d03f0546ec434fcd208b970de73f514b"
+  },
+  {
+    "name": "Nanase, Miyuki",
+    "prompt": "Nanase, Miyuki from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/289645.jpg?s=fbc47c71f7c75b213823bcf52580541a"
+  },
+  {
+    "name": "Agatha",
+    "prompt": "Agatha from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/360362.jpg?s=4d0d40417b97e3ba1f76eb7b68b41da6"
+  },
+  {
+    "name": "Aida, Momoko",
+    "prompt": "Aida, Momoko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/361659.jpg?s=130be58604eea02ec6ec43d15e778c0f"
+  },
+  {
+    "name": "Aizawa, Shuuichirou",
+    "prompt": "Aizawa, Shuuichirou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/362381.jpg?s=703c850e71d4c12e366f900c0a114598"
+  },
+  {
+    "name": "Aizawa, Akane",
+    "prompt": "Aizawa, Akane from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/362379.jpg?s=d4df60f2eabb756cd318326eb4c6ad46"
+  },
+  {
+    "name": "Aizawa, Suguru",
+    "prompt": "Aizawa, Suguru from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/362380.jpg?s=57bdc924d7f8302fdcbca17f049ae10c"
+  },
+  {
+    "name": "Aizawa, Tsuyoshi",
+    "prompt": "Aizawa, Tsuyoshi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/362483.jpg?s=60f5ced36d7aaf4dd5b53f581a0d3aad"
+  },
+  {
+    "name": "Aizawa, Yurie",
+    "prompt": "Aizawa, Yurie from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/362382.jpg?s=9b8f4db39e3c119417c5599a42a53227"
+  },
+  {
+    "name": "Akabishi, Gorou",
+    "prompt": "Akabishi, Gorou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/360609.jpg?s=e8c6fd340a57f12451aaa9cc7ca4ebb3"
+  },
+  {
+    "name": "Akai, Yoshikazu",
+    "prompt": "Akai, Yoshikazu from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/360295.jpg?s=dbb0bedc7b261648369e4cd2db5f7ce6"
+  },
+  {
+    "name": "Akama, Mitsuhiko",
+    "prompt": "Akama, Mitsuhiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/358706.jpg?s=b028473c2983cc13922bbdced7711ea3"
+  },
+  {
+    "name": "Akamine, Fujiko",
+    "prompt": "Akamine, Fujiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/361366.jpg?s=eb13f4b6ab184cb5da5baf71bbaa97ae"
+  },
+  {
+    "name": "Akamon, Hideaki",
+    "prompt": "Akamon, Hideaki from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/361365.jpg?s=160fe5e0dc209f0440b002c704f9a1dd"
+  },
+  {
+    "name": "Akashi, Michio",
+    "prompt": "Akashi, Michio from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/358917.jpg?s=3af7334c93207f0153978df76080c10d"
+  },
+  {
+    "name": "Akazawa, Jirou",
+    "prompt": "Akazawa, Jirou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/355856.jpg?s=03fa13ad33cefce52a2696224bcb8e5d"
+  },
+  {
+    "name": "Akazutsumi, Kyousuke",
+    "prompt": "Akazutsumi, Kyousuke from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/355959.jpg?s=62ba6acf4225597779c5504507ae4b53"
+  },
+  {
+    "name": "Akechi, Kengo",
+    "prompt": "Akechi, Kengo from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/297262.jpg?s=0bd81c6bca25a9ab4d2e3e010ede743e"
+  },
+  {
+    "name": "Akimoto, Kazuna",
+    "prompt": "Akimoto, Kazuna from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/360368.jpg?s=d49d9b8f0c62601358eb0d055755e9e6"
+  },
+  {
+    "name": "Akou, Harutoshi",
+    "prompt": "Akou, Harutoshi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/359147.jpg?s=8e520d3649f3c55fc5f5c6ed1cf60bbc"
+  },
+  {
+    "name": "Anderson, Richard",
+    "prompt": "Anderson, Richard from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/157809.jpg?s=097d9b905c43456e86e25663e4fea638"
+  },
+  {
+    "name": "Aoyagi, Takuya",
+    "prompt": "Aoyagi, Takuya from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/360750.jpg?s=8c8078e3c5b46ac5a6c7fc0e5479c87f"
+  },
+  {
+    "name": "Aoyama, Tsukasa",
+    "prompt": "Aoyama, Tsukasa from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/360920.jpg?s=a7ea01250df0ceebb4fbf6775e18dea4"
+  },
+  {
+    "name": "Aoyama, Chihiro",
+    "prompt": "Aoyama, Chihiro from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/164225.jpg?s=d78ce3af9c5015abeb17699d4d7fdd3a"
+  },
+  {
+    "name": "Aoyama, Tatsuko",
+    "prompt": "Aoyama, Tatsuko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/361972.jpg?s=013347f6beb2533215470dc0f9e41b0b"
+  },
+  {
+    "name": "Aritou, Daisuke",
+    "prompt": "Aritou, Daisuke from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/361861.jpg?s=dbb1683a69463c050092a0e14d0e69d8"
+  },
+  {
+    "name": "Ariyoshi, Junpei",
+    "prompt": "Ariyoshi, Junpei from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/360351.jpg?s=ca013981d050e3626b4064c61d49dc8d"
+  },
+  {
+    "name": "Asaki, Shigure",
+    "prompt": "Asaki, Shigure from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/361417.jpg?s=70367c878beed9923581b186556f10bc"
+  },
+  {
+    "name": "Asaki, Hazuki",
+    "prompt": "Asaki, Hazuki from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/361410.jpg?s=0c252324d5b59ff894a13285fbd850ce"
+  },
+  {
+    "name": "Asaki, Haruko",
+    "prompt": "Asaki, Haruko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/361412.jpg?s=09150caf0924893f812bf0967f5ab502"
+  },
+  {
+    "name": "Asaki, Akie",
+    "prompt": "Asaki, Akie from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/361414.jpg?s=f530502a370055f13582ee5ea23d13ef"
+  },
+  {
+    "name": "Ayatsuji, Marina",
+    "prompt": "Ayatsuji, Marina from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/358913.jpg?s=b7674d80c9bf459d7eddba921239399e"
+  },
+  {
+    "name": "Bandai, Suzue",
+    "prompt": "Bandai, Suzue from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/358331.jpg?s=c96ccac521c2df175162c0c8f6fad5a1"
+  },
+  {
+    "name": "Bandou, Kusaburou",
+    "prompt": "Bandou, Kusaburou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/161073.jpg?s=82a5284712a849d50f8c7411c4948944"
+  },
+  {
+    "name": "Channeler Sakuraba",
+    "prompt": "Channeler Sakuraba from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/358808.jpg?s=ddded469e56e10b46c3e775df366080d"
+  },
+  {
+    "name": "Chigira, Mio",
+    "prompt": "Chigira, Mio from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/361670.jpg?s=d91bce5387a5af41dd35234faed84bc3"
+  },
+  {
+    "name": "Chikamiya, Reiko",
+    "prompt": "Chikamiya, Reiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/358809.jpg?s=e5ff61c2b4ff3adaf86c60dd85acd656"
+  },
+  {
+    "name": "Chow, Yu Liang",
+    "prompt": "Chow, Yu Liang from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/360760.jpg?s=ca00f18a031e24806340303bfa1b699c"
+  },
+  {
+    "name": "Colombo, Edward",
+    "prompt": "Colombo, Edward from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/157811.jpg?s=840f410ee6c5f0f9283f46b20afcab4d"
+  },
+  {
+    "name": "Daigo, Maki",
+    "prompt": "Daigo, Maki from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/249013.jpg?s=8a521726182e52e8bea7ae5bf7f1b2a2"
+  },
+  {
+    "name": "Daimon, Yuusaku",
+    "prompt": "Daimon, Yuusaku from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/358916.jpg?s=13d28fd225c92a66c8f52033da026aec"
+  },
+  {
+    "name": "Ebisawa, Yumito",
+    "prompt": "Ebisawa, Yumito from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/363528.jpg?s=891eb570678325fe134eb1ddeef34490"
+  },
+  {
+    "name": "Ed the Club",
+    "prompt": "Ed the Club from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/363533.jpg?s=4db2489cb2e242ba92dc04157de9e31a"
+  },
+  {
+    "name": "Edogawa, Kenji",
+    "prompt": "Edogawa, Kenji from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/360309.jpg?s=dc20a45d6e7d48c12aac394c11e56f96"
+  },
+  {
+    "name": "Einstein, Chris",
+    "prompt": "Einstein, Chris from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/157877.jpg?s=012268a81cb0bdecabd4a6105e943523"
+  },
+  {
+    "name": "Enami, Katsuhiko",
+    "prompt": "Enami, Katsuhiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/356925.jpg?s=89719074f61fcb67876fd83a8f4f5a98"
+  },
+  {
+    "name": "Endou, Yoshiaki",
+    "prompt": "Endou, Yoshiaki from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/362486.jpg?s=5fe76c8266c70ac79ec9d2614d5b474d"
+  },
+  {
+    "name": "Endou, Shuusuke",
+    "prompt": "Endou, Shuusuke from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/361720.jpg?s=d2266f7bbd50e188ab2cdc60881ca376"
+  },
+  {
+    "name": "Enokido, Akira",
+    "prompt": "Enokido, Akira from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/358330.jpg?s=3a45292f8cb7445fa541e2593736ab67"
+  },
+  {
+    "name": "Fake Master",
+    "prompt": "Fake Master from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/361421.jpg?s=28fac81d750542be56a9eedf1aa53925"
+  },
+  {
+    "name": "Friedrich, Maria",
+    "prompt": "Friedrich, Maria from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/157805.jpg?s=850a0f28c38594f3dfa97deb986d9c9b"
+  },
+  {
+    "name": "Fujita, Tokitsugu",
+    "prompt": "Fujita, Tokitsugu from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/361699.jpg?s=9c8dbcb28dcfa93e7c9d31248e9eedf9"
+  },
+  {
+    "name": "Fumizuki, Karen",
+    "prompt": "Fumizuki, Karen from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/358326.jpg?s=3b2ebc980d01b3efb569ea0e04078126"
+  },
+  {
+    "name": "Fuse, Mitsuhiko",
+    "prompt": "Fuse, Mitsuhiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/358043.jpg?s=d9c9b84db4bbbfea9295622ece3a72ee"
+  },
+  {
+    "name": "Fuwa, Narumi",
+    "prompt": "Fuwa, Narumi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/358327.jpg?s=5d6b8469fb498d91bbec3c3db6fd5119"
+  },
+  {
+    "name": "Fuyuki, Ume",
+    "prompt": "Fuyuki, Ume from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/242541.jpg?s=d6bc0c59e24eabad6545ffeb6d430de8"
+  },
+  {
+    "name": "Fuyuki, Rintarou",
+    "prompt": "Fuyuki, Rintarou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/242467.jpg?s=0fbe55c7c0a78bf9d65662ad49c50a1e"
+  },
+  {
+    "name": "Gamou, Gouzou",
+    "prompt": "Gamou, Gouzou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/242549.jpg?s=32f70166c68a2cf8239ff23ccaa6a265"
+  },
+  {
+    "name": "Genbu, Tokuichi",
+    "prompt": "Genbu, Tokuichi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/361970.jpg?s=ca7a7b3066c9de22cb777ae3ac19101c"
+  },
+  {
+    "name": "Gentle Yamagami",
+    "prompt": "Gentle Yamagami from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/358811.jpg?s=5f297c5ba64a3bf0f527b8359373795d"
+  },
+  {
+    "name": "Goldman, Kenneth",
+    "prompt": "Goldman, Kenneth from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/362201.jpg?s=6f169a43ab50327b9ea82cc0592a5099"
+  },
+  {
+    "name": "Gondou, Tetsuo",
+    "prompt": "Gondou, Tetsuo from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/360613.jpg?s=0187ef0c9ddded05f4b3cb3dbba4a025"
+  },
+  {
+    "name": "Hagimoto, Tetsunori",
+    "prompt": "Hagimoto, Tetsunori from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/358538.jpg?s=dc4d2492951808b24c5907b46227acf1"
+  },
+  {
+    "name": "Hamaoka, Kenichi",
+    "prompt": "Hamaoka, Kenichi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/360355.jpg?s=aecdcffaa5f2e033f19aca841591d253"
+  },
+  {
+    "name": "Hanamura, Aoi",
+    "prompt": "Hanamura, Aoi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/358405.jpg?s=b2579a68626e6cfb7e1a5e6f1e4727cf"
+  },
+  {
+    "name": "Hanamura, Mami",
+    "prompt": "Hanamura, Mami from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/360337.jpg?s=b7a15e844103e6cac464869930d4748c"
+  },
+  {
+    "name": "Hanamura, Natsume",
+    "prompt": "Hanamura, Natsume from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/358406.jpg?s=069fc1d3b577646b2612c29260c24434"
+  },
+  {
+    "name": "Hanawa, Mika",
+    "prompt": "Hanawa, Mika from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/360371.jpg?s=c7c8193788b3a847c3f1d5d7e7e460c4"
+  },
+  {
+    "name": "Hariu, Kiyonori",
+    "prompt": "Hariu, Kiyonori from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/358396.jpg?s=0d55d5f0a635ac431d94c7ae83ef35cc"
+  },
+  {
+    "name": "Haruta, Yuuko",
+    "prompt": "Haruta, Yuuko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/359146.jpg?s=3e30e49da65e33526f69d3c7b520fa9f"
+  },
+  {
+    "name": "Hasunuma, Ayaka",
+    "prompt": "Hasunuma, Ayaka from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/361472.jpg?s=0ea53b94b0831f31a11e72c5ae4725f2"
+  },
+  {
+    "name": "Hatano, Haruna",
+    "prompt": "Hatano, Haruna from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/361475.jpg?s=f7b78bcb8264cc591102726681ce9ad9"
+  },
+  {
+    "name": "Hayami, Reika",
+    "prompt": "Hayami, Reika from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/247389.jpg?s=adb0e5161adffd9c68bb3231129aeebe"
+  },
+  {
+    "name": "Hayami, Yuuichirou",
+    "prompt": "Hayami, Yuuichirou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/358710.jpg?s=6a618a4c810175c9739d2965d24fa49f"
+  },
+  {
+    "name": "Hazawa, Seiji",
+    "prompt": "Hazawa, Seiji from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/161077.jpg?s=da94d4fe41a2d9dcf86a1cdd899f903c"
+  },
+  {
+    "name": "Henmi, Mako",
+    "prompt": "Henmi, Mako from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/358329.jpg?s=72d166fe2bded9eaf8a72f856119fde1"
+  },
+  {
+    "name": "Henry, Michael",
+    "prompt": "Henry, Michael from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/157913.jpg?s=2a45b981b6cad4d252b20bee55b274d3"
+  },
+  {
+    "name": "Hibiki, Shirou",
+    "prompt": "Hibiki, Shirou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/358915.jpg?s=56310ed938e1a94baa4d75b92a6b7adf"
+  },
+  {
+    "name": "Hidaka, Orie",
+    "prompt": "Hidaka, Orie from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/358045.jpg?s=d82ab04754e6abea1b84dc85c4307a63"
+  },
+  {
+    "name": "Higuchi, Yukiko",
+    "prompt": "Higuchi, Yukiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/360770.jpg?s=12fc4037390c75effe27c475bdd1b5e6"
+  },
+  {
+    "name": "Himura, Kouhei",
+    "prompt": "Himura, Kouhei from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/157879.jpg?s=95848647964de3e0decdecdc9360aae3"
+  },
+  {
+    "name": "Himuro, Issei",
+    "prompt": "Himuro, Issei from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/358918.jpg?s=a76acf1d4a9e80894fd327c9054bbb99"
+  },
+  {
+    "name": "Hirashima, Chie",
+    "prompt": "Hirashima, Chie from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/358533.jpg?s=b8237528e990474111ce8f6a04f60895"
+  },
+  {
+    "name": "Hirose, Takumi",
+    "prompt": "Hirose, Takumi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/362484.jpg?s=ccc7dc8ddf1085a254a9c4775ff1979c"
+  },
+  {
+    "name": "Hiroshi",
+    "prompt": "Hiroshi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hiruta, Masashi",
+    "prompt": "Hiruta, Masashi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/370080.jpg?s=5d0dad1a38ec4559f0a42bfeb964cc91"
+  },
+  {
+    "name": "Hiyama, Tatsuyuki",
+    "prompt": "Hiyama, Tatsuyuki from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/358537.jpg?s=8c9987e316adf08885afb546ea0795bf"
+  },
+  {
+    "name": "Honda, Kageyuki",
+    "prompt": "Honda, Kageyuki from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/362151.jpg?s=44105a312320001fac241e596759f834"
+  },
+  {
+    "name": "Horinouchi, Reo",
+    "prompt": "Horinouchi, Reo from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/361662.jpg?s=22c410dbe68e4c38177ab9d82bb7037e"
+  },
+  {
+    "name": "Hoshikawa, Susie",
+    "prompt": "Hoshikawa, Susie from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/359052.jpg?s=4c112429925e3f3c7ca26efe674438e9"
+  },
+  {
+    "name": "Hoshikawa, Sumire",
+    "prompt": "Hoshikawa, Sumire from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/360749.jpg?s=87614165fdf684de2e8aa60a13caf2fe"
+  },
+  {
+    "name": "Hoshino, Kanae",
+    "prompt": "Hoshino, Kanae from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/360602.jpg?s=5581b7f649dfbac05362919baa727250"
+  },
+  {
+    "name": "Houjou, Annu",
+    "prompt": "Houjou, Annu from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/358712.jpg?s=0146c189b6a9a1de187f832026e0df8e"
+  },
+  {
+    "name": "Ichikawa, Tamasaburou",
+    "prompt": "Ichikawa, Tamasaburou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/358324.jpg?s=e7493e39dc7ddc407700cddff212e40c"
+  },
+  {
+    "name": "Igarashi, Ikuto",
+    "prompt": "Igarashi, Ikuto from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/360593.jpg?s=f507de3a8da14315d8dca1f7698d6018"
+  },
+  {
+    "name": "Inokawa, Masasuke",
+    "prompt": "Inokawa, Masasuke from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/358930.jpg?s=9b1c85d8c9e0d8f9b954663b8eb4d04f"
+  },
+  {
+    "name": "Inokuma, Hideo",
+    "prompt": "Inokuma, Hideo from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/360748.jpg?s=33df904fae0b06c6368233c6bc50f1c2"
+  },
+  {
+    "name": "Inou, Kouhei",
+    "prompt": "Inou, Kouhei from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/361480.jpg?s=e046221995a3669afc58e3964f2c7683"
+  },
+  {
+    "name": "Inugami, Takurou",
+    "prompt": "Inugami, Takurou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/363529.jpg?s=8bea9f2b256c4b370dc095c58df7a65c"
+  },
+  {
+    "name": "Inui, Hideki",
+    "prompt": "Inui, Hideki from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/361968.jpg?s=e371436ff35ed6f58f83e2784c6142e4"
+  },
+  {
+    "name": "Inui, Kimiko",
+    "prompt": "Inui, Kimiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/361967.jpg?s=cb5b6af08538eafc50748ff50e24c3ec"
+  },
+  {
+    "name": "Inukai, Yousuke",
+    "prompt": "Inukai, Yousuke from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/359048.jpg?s=d26dcfdd4635d2a5228e0b31aa1f08ff"
+  },
+  {
+    "name": "Inukai, Takashi",
+    "prompt": "Inukai, Takashi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/361857.jpg?s=9043acc3124f006191cc7a8a9c05ce9b"
+  },
+  {
+    "name": "Ishii, Masayuki",
+    "prompt": "Ishii, Masayuki from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/361370.jpg?s=e8ec39d2f0c8a1c8cf241df3dbb32b3e"
+  },
+  {
+    "name": "Ishikawa, Takashi",
+    "prompt": "Ishikawa, Takashi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/363534.jpg?s=57e42f2804a22b7e86a29585defcec8d"
+  },
+  {
+    "name": "Ishiyama, Seiji",
+    "prompt": "Ishiyama, Seiji from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/355960.jpg?s=989ba12b85a1beceaa02b75965be1b79"
+  },
+  {
+    "name": "Itami, Gorou",
+    "prompt": "Itami, Gorou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/358711.jpg?s=d065b10516a955fd5f7df2049be45271"
+  },
+  {
+    "name": "Itsuki, Yousuke",
+    "prompt": "Itsuki, Yousuke from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/241921.jpg?s=54a5113cfc75e06af59a444198e0ff25"
+  },
+  {
+    "name": "Iwano, Wataru",
+    "prompt": "Iwano, Wataru from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/358535.jpg?s=1e7832bd39b9cf74818c0313ce0046f6"
+  },
+  {
+    "name": "Iwata, Eisaku",
+    "prompt": "Iwata, Eisaku from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/157875.jpg?s=8041795df19f267ce84408c3a8e809f3"
+  },
+  {
+    "name": "Izumi, Sakura",
+    "prompt": "Izumi, Sakura from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/157853.jpg?s=ec5346b2b2d80d74f3944b8cf10c47e5"
+  },
+  {
+    "name": "Izumi, Nobuhiko",
+    "prompt": "Izumi, Nobuhiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/157899.jpg?s=e1973fe3cce99cd0344a93eb6dc9279c"
+  },
+  {
+    "name": "Izumiya, Shigeki",
+    "prompt": "Izumiya, Shigeki from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/360604.jpg?s=41c255ca2c4d31eeb21f88f4ba125970"
+  },
+  {
+    "name": "Jinma, Takeshi",
+    "prompt": "Jinma, Takeshi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/358531.jpg?s=8bc78be3d5984be9eaabddab2e913719"
+  },
+  {
+    "name": "Jinmei, Tadaharu",
+    "prompt": "Jinmei, Tadaharu from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/361856.jpg?s=ef2f9577257e5507d96be90b10fbbb02"
+  },
+  {
+    "name": "John the Heart",
+    "prompt": "John the Heart from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/363532.jpg?s=cc281edf22e448f9c0f7433a11bbceee"
+  },
+  {
+    "name": "Jou, Shinichirou",
+    "prompt": "Jou, Shinichirou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/355956.jpg?s=3cb0446ac3cf7864b3906a231a344b69"
+  },
+  {
+    "name": "Kaburagi, Youko",
+    "prompt": "Kaburagi, Youko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/360316.jpg?s=4802f2abbece12c221935d21a1fdea9d"
+  },
+  {
+    "name": "Kadowaki, Yasuhiro",
+    "prompt": "Kadowaki, Yasuhiro from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/360606.jpg?s=773d6840896a5661a05bf21294f84a15"
+  },
+  {
+    "name": "Kagawa, Koume",
+    "prompt": "Kagawa, Koume from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/360883.jpg?s=4db1887050e4a01864abc65966f51b5d"
+  },
+  {
+    "name": "Kagitani, Zenji",
+    "prompt": "Kagitani, Zenji from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/359049.jpg?s=484338c9e90e15e9d2c8a9eaada0a68d"
+  },
+  {
+    "name": "Kaizu, Satomi",
+    "prompt": "Kaizu, Satomi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/157857.jpg?s=a8732707d557cd1b768a0492e9da8fd0"
+  },
+  {
+    "name": "Kakimoto, Asato",
+    "prompt": "Kakimoto, Asato from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/157885.jpg?s=1ec0ecd521594be83ec6b3cdef81a01f"
+  },
+  {
+    "name": "Kamitsu, Sayaka",
+    "prompt": "Kamitsu, Sayaka from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/360319.jpg?s=3c030d874866c465b9052f24a6199289"
+  },
+  {
+    "name": "Kamiya, Shuuichirou",
+    "prompt": "Kamiya, Shuuichirou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/358046.jpg?s=c2441d1fa2f7bbf22dadc79475443760"
+  },
+  {
+    "name": "Kamoshita, Akira",
+    "prompt": "Kamoshita, Akira from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/358404.jpg?s=8b98f1a264e81f3d27ba4e98129c97d1"
+  },
+  {
+    "name": "Kaneko, Yoshikatsu",
+    "prompt": "Kaneko, Yoshikatsu from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/360329.jpg?s=0fe4b0d4e5caa754500ae908b4b0ab4a"
+  },
+  {
+    "name": "Kanou, Tatsuya",
+    "prompt": "Kanou, Tatsuya from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/360301.jpg?s=9e3ed2e540d2731187e256041aaa6068"
+  },
+  {
+    "name": "Kanou, Rie",
+    "prompt": "Kanou, Rie from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/358919.jpg?s=a6b43e97ee9328d070080a445ea27169"
+  },
+  {
+    "name": "Kariya, Takezou",
+    "prompt": "Kariya, Takezou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/358925.jpg?s=07dd8e1cbd35391540d63aa6ce6c0bce"
+  },
+  {
+    "name": "Katakura, Mai",
+    "prompt": "Katakura, Mai from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/360745.jpg?s=bfb87d2122ce17d8eb1cf76fdbb8a12a"
+  },
+  {
+    "name": "Katori, Makio",
+    "prompt": "Katori, Makio from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/360743.jpg?s=005ff50187588912465bb0205f3cb3be"
+  },
+  {
+    "name": "Katori, Youko",
+    "prompt": "Katori, Youko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/360300.jpg?s=6cf7e24e98f4d0eaf0b0e9c7a5a45009"
+  },
+  {
+    "name": "Katou, Kentarou",
+    "prompt": "Katou, Kentarou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/360339.jpg?s=845ef5a81fb07518968ac6e0c2ad1eaa"
+  },
+  {
+    "name": "Katsura, Ouhei",
+    "prompt": "Katsura, Ouhei from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/358401.jpg?s=2e5e6d6397cfc52b576c5171dc5232c4"
+  },
+  {
+    "name": "Kawanishi, Sayuri",
+    "prompt": "Kawanishi, Sayuri from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/157799.jpg?s=1e86adce58a5f46af0622d277e745011"
+  },
+  {
+    "name": "Kawasaki, Youzou",
+    "prompt": "Kawasaki, Youzou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/360335.jpg?s=b625a5d35439f85d81f50602e8a19814"
+  },
+  {
+    "name": "Kawashima, Yutaka",
+    "prompt": "Kawashima, Yutaka from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/360345.jpg?s=92a45aaa4ab4e443acf893e1b5db2806"
+  },
+  {
+    "name": "Kaya, Kyouko",
+    "prompt": "Kaya, Kyouko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/157881.jpg?s=60e2c686b545579257364a1443556fca"
+  },
+  {
+    "name": "Kayama, Seiko",
+    "prompt": "Kayama, Seiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/157801.jpg?s=d09c467b913474f203abe6c40b57944c"
+  },
+  {
+    "name": "Kayama, Saburou",
+    "prompt": "Kayama, Saburou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/167175.jpg?s=411af59cea2e714e437debc66736d817"
+  },
+  {
+    "name": "Kazekura, Yurie",
+    "prompt": "Kazekura, Yurie from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/157917.jpg?s=1b319f8de8f258edc597527c6bdf4212"
+  },
+  {
+    "name": "Kikkawa, Shigeru",
+    "prompt": "Kikkawa, Shigeru from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/167181.jpg?s=3d3cc0aee4e6e90c6ea5ec745ff23e53"
+  },
+  {
+    "name": "Kimisawa, Yurie",
+    "prompt": "Kimisawa, Yurie from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/359045.jpg?s=fe90369c0a7deea793acdb58ca98248f"
+  },
+  {
+    "name": "Kindaichi, Fumi",
+    "prompt": "Kindaichi, Fumi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/362421.jpg?s=11b7aa65d31fa9c6c452a1c73dcf4220"
+  },
+  {
+    "name": "Kira, Kanjirou",
+    "prompt": "Kira, Kanjirou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/242553.jpg?s=997d09fd3f7113fdcab6971b5ca8c4b8"
+  },
+  {
+    "name": "Kirie, Souko",
+    "prompt": "Kirie, Souko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/361859.jpg?s=f3b52960c192d3d62f11ec98096cd501"
+  },
+  {
+    "name": "Kirisawa, Midoriko",
+    "prompt": "Kirisawa, Midoriko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/275901.jpg?s=f98eb2342cb6dd140d36bd490ee4948b"
+  },
+  {
+    "name": "Kirisawa, Beniko",
+    "prompt": "Kirisawa, Beniko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/275882.jpg?s=36896b4f369ea7420f92d72df31ab01a"
+  },
+  {
+    "name": "Kirishima, Reona",
+    "prompt": "Kirishima, Reona from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/355955.jpg?s=17013c72d850375744315060220541e2"
+  },
+  {
+    "name": "Kiriyama, Sayoko",
+    "prompt": "Kiriyama, Sayoko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/359050.jpg?s=252ccb489dcf22ab25bbb6d308b04393"
+  },
+  {
+    "name": "Kiryuu, Harumi",
+    "prompt": "Kiryuu, Harumi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/358047.jpg?s=5271338d456a36b25dfe1e9e4b9de876"
+  },
+  {
+    "name": "Kisaragi, Shizuka",
+    "prompt": "Kisaragi, Shizuka from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/362755.jpg?s=f4fb2c33d63795fc01ec9c321ba254ae"
+  },
+  {
+    "name": "Kisaragi, Miwa",
+    "prompt": "Kisaragi, Miwa from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/362757.jpg?s=2fad171cc5d666ab533bc34e9d119962"
+  },
+  {
+    "name": "Kobayashi, Seiji",
+    "prompt": "Kobayashi, Seiji from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/157803.jpg?s=8b552db710e32de4a4510a5a30192b74"
+  },
+  {
+    "name": "Kojou, Takuya",
+    "prompt": "Kojou, Takuya from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/358707.jpg?s=59ef1b2d3d48225ecd210c780ec15e85"
+  },
+  {
+    "name": "Komine, Madoka",
+    "prompt": "Komine, Madoka from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/360369.jpg?s=94b3c3bdce19c67c49fc70b7e281f59e"
+  },
+  {
+    "name": "Komiyama, Gorou",
+    "prompt": "Komiyama, Gorou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/242551.jpg?s=6445e1664926a855077f2e1771543862"
+  },
+  {
+    "name": "Konda, Tomoyo",
+    "prompt": "Konda, Tomoyo from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/361975.jpg?s=91d76066d4d42eea27878e0df83e9072"
+  },
+  {
+    "name": "Kouda, Seisaku",
+    "prompt": "Kouda, Seisaku from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/242673.jpg?s=ece47edf7e231ae0f611dfaa5b38b39a"
+  },
+  {
+    "name": "Kujou, Shoutarou",
+    "prompt": "Kujou, Shoutarou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/242547.jpg?s=b10081d92a9fac5b884735537abfabf0"
+  },
+  {
+    "name": "Kumoma, Shinji",
+    "prompt": "Kumoma, Shinji from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/360608.jpg?s=c07a311f66435b2656c52bab75d35184"
+  },
+  {
+    "name": "Kunieda, Maki",
+    "prompt": "Kunieda, Maki from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/361476.jpg?s=1213839d1f4d2b55a7c501de9aca91cc"
+  },
+  {
+    "name": "Kunimori, Akihiko",
+    "prompt": "Kunimori, Akihiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/360308.jpg?s=2c751d1527603b6a654fa2dc983a3dc0"
+  },
+  {
+    "name": "Kunitou, Ryuusuke",
+    "prompt": "Kunitou, Ryuusuke from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/360327.jpg?s=7a25f2114f455a79eee88c5ee9565bf1"
+  },
+  {
+    "name": "Kurasawa, Hikaru",
+    "prompt": "Kurasawa, Hikaru from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/360601.jpg?s=b1e9fb82e6264c8aeb35f86bdc19b579"
+  },
+  {
+    "name": "Kurata, Souichi",
+    "prompt": "Kurata, Souichi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/242667.jpg?s=3188db4ece5fa27d7e5120635b5a4021"
+  },
+  {
+    "name": "Kure, Arisa",
+    "prompt": "Kure, Arisa from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/157921.jpg?s=d2351dc249f44659baaf4679f0688b66"
+  },
+  {
+    "name": "Kurokawa, Miho",
+    "prompt": "Kurokawa, Miho from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/360607.jpg?s=ff46c8066586f877ee41433cff555e35"
+  },
+  {
+    "name": "Kurokida, Beniko",
+    "prompt": "Kurokida, Beniko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/363530.jpg?s=7f60af3dd50dd7c8e23bfda28f16b99a"
+  },
+  {
+    "name": "Kurosawa, Kazuma",
+    "prompt": "Kurosawa, Kazuma from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/361594.jpg?s=e02055b6073af54ff32cffcda67e9a3e"
+  },
+  {
+    "name": "Kurotsuka, Takumi",
+    "prompt": "Kurotsuka, Takumi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/360788.jpg?s=42e41813735372a58ab12b23ed062af4"
+  },
+  {
+    "name": "Kurotsuka, Kazunari",
+    "prompt": "Kurotsuka, Kazunari from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/360799.jpg?s=5af1afb8fdb3167d5833467fc0eae4e8"
+  },
+  {
+    "name": "Kyougoku, Takuya",
+    "prompt": "Kyougoku, Takuya from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/360915.jpg?s=9619043df48e5682d7544f6106954c20"
+  },
+  {
+    "name": "Kyougoku, Koujirou",
+    "prompt": "Kyougoku, Koujirou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/360914.jpg?s=9020200357eca9164cc5e4631053121a"
+  },
+  {
+    "name": "Kyougoku, Yuusuke",
+    "prompt": "Kyougoku, Yuusuke from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/360913.jpg?s=5f3f86743e38cc06e8302de2b39c3009"
+  },
+  {
+    "name": "Kyoutani, Masahiko",
+    "prompt": "Kyoutani, Masahiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/361658.jpg?s=08f3dadb9e9c279adea93af7d1b00737"
+  },
+  {
+    "name": "Li, Bo Er",
+    "prompt": "Li, Bo Er from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/360757.jpg?s=e6bdfc96dddaab69936f6a97bf7e6095"
+  },
+  {
+    "name": "Madarame, Midori",
+    "prompt": "Madarame, Midori from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/358921.jpg?s=39e96b10a8fb29ecdbe2d211af3e7397"
+  },
+  {
+    "name": "Madarame, Shimon",
+    "prompt": "Madarame, Shimon from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/358920.jpg?s=0e7a77d631999b6af41481967c34da87"
+  },
+  {
+    "name": "Madarame, Tateha",
+    "prompt": "Madarame, Tateha from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/358922.jpg?s=ff6b8e411d30a268cab3bfc2f0841250"
+  },
+  {
+    "name": "Madarame, Ageha",
+    "prompt": "Madarame, Ageha from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/358923.jpg?s=9bd12034da3886692136f522fa647eed"
+  },
+  {
+    "name": "Madarame, Ruri",
+    "prompt": "Madarame, Ruri from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/358924.jpg?s=b20b19baff11ec6ad2c139858ce7d17d"
+  },
+  {
+    "name": "Makabe, Makoto",
+    "prompt": "Makabe, Makoto from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/157711.jpg?s=d15e9166ac25085a413911d369b26c2a"
+  },
+  {
+    "name": "Makime, Jin",
+    "prompt": "Makime, Jin from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/157807.jpg?s=af93503ed9e4fbda040c7184c880c8ae"
+  },
+  {
+    "name": "Makimura, Akemi",
+    "prompt": "Makimura, Akemi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/360370.jpg?s=5013c83de8fb1683c07a4c39d2c4b1ea"
+  },
+  {
+    "name": "Manda, Mitsuo",
+    "prompt": "Manda, Mitsuo from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/360769.jpg?s=cea67e4255edb4b265a8a436a3a42282"
+  },
+  {
+    "name": "Matoba, Yuuichirou",
+    "prompt": "Matoba, Yuuichirou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/242543.jpg?s=eb2a1d5e5f3230df962da29a9b1858f9"
+  },
+  {
+    "name": "Matsuda, Takeshi",
+    "prompt": "Matsuda, Takeshi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/362491.jpg?s=5bef641b68bf608b4b062ed4505c57c8"
+  },
+  {
+    "name": "Mermaid Yumi",
+    "prompt": "Mermaid Yumi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/358805.jpg?s=f7afb75009c2c1e84ee483bac6b8ffb7"
+  },
+  {
+    "name": "Midorikawa, Sousuke",
+    "prompt": "Midorikawa, Sousuke from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/360610.jpg?s=0f8771d96dda34914a23454f827f6f5b"
+  },
+  {
+    "name": "Midou, Shuuichirou",
+    "prompt": "Midou, Shuuichirou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/157931.jpg?s=118855c7d4beecb1fb1999bc0bad678d"
+  },
+  {
+    "name": "Mimasaka, Midori",
+    "prompt": "Mimasaka, Midori from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/157883.jpg?s=abd2877271b5780ec937b72b82a4f9c5"
+  },
+  {
+    "name": "Minamiyama, Shunzou",
+    "prompt": "Minamiyama, Shunzou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/157813.jpg?s=708d232fa1e311c276614fd245eaa963"
+  },
+  {
+    "name": "Minatoya, Kanichi",
+    "prompt": "Minatoya, Kanichi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/360310.jpg?s=95877d5a8c0d4b2b68e05bcfd66479af"
+  },
+  {
+    "name": "Minatoya, Asuka",
+    "prompt": "Minatoya, Asuka from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/360304.jpg?s=23392498225a83af059899c035371f99"
+  },
+  {
+    "name": "Misumi, Youhei",
+    "prompt": "Misumi, Youhei from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/361664.jpg?s=e9e8e5deecf5000db8749405ef072ca3"
+  },
+  {
+    "name": "Mitamura, Keiko",
+    "prompt": "Mitamura, Keiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/360315.jpg?s=f85c87c7b429ab8eec50cca41dbe7310"
+  },
+  {
+    "name": "Miura, Emiri",
+    "prompt": "Miura, Emiri from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/361367.jpg?s=9222881c1a26f493ce147316236453f8"
+  },
+  {
+    "name": "Miyagami, Kenya",
+    "prompt": "Miyagami, Kenya from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/362488.jpg?s=9ace07f9dce9b24caedae3a1947af656"
+  },
+  {
+    "name": "Mizusaki, Jouji",
+    "prompt": "Mizusaki, Jouji from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/360298.jpg?s=52e886d2c1464d7db450d19ce4bca37f"
+  },
+  {
+    "name": "Mizusawa, Rio",
+    "prompt": "Mizusawa, Rio from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/360597.jpg?s=ed5bf5bdc93cde211cd64fc4fd50686b"
+  },
+  {
+    "name": "Mizushiro, Mikoto",
+    "prompt": "Mizushiro, Mikoto from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/362542.jpg?s=39458dd25f441e427bdfd550764be581"
+  },
+  {
+    "name": "Mizushiro, Ryuuichi",
+    "prompt": "Mizushiro, Ryuuichi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/362490.jpg?s=88268d1b0a7d9a906e8358a1a4947f7b"
+  },
+  {
+    "name": "Mizushiro, Ryuunoshin",
+    "prompt": "Mizushiro, Ryuunoshin from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/362489.jpg?s=334215fc3ee9b2eaa1c6669c2e11514c"
+  },
+  {
+    "name": "Mogami, Hazuki",
+    "prompt": "Mogami, Hazuki from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/361359.jpg?s=6d461045a7d22a09df296398d3aa7635"
+  },
+  {
+    "name": "Momota, Umeo",
+    "prompt": "Momota, Umeo from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/360595.jpg?s=c9b208ada4ad36c75410fafb7338d3aa"
+  },
+  {
+    "name": "Mori, Kyouka",
+    "prompt": "Mori, Kyouka from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/361705.jpg?s=1d492988f5ec6a74a21bc544bb85fc73"
+  },
+  {
+    "name": "Morimura, Keiichi",
+    "prompt": "Morimura, Keiichi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/360342.jpg?s=379862e7eef2858325a1c9d401ca997f"
+  },
+  {
+    "name": "Morishita, Remi",
+    "prompt": "Morishita, Remi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/358534.jpg?s=cb39e953fdcebc85b58543aba92f495e"
+  },
+  {
+    "name": "Mother Kindaichi",
+    "prompt": "Mother Kindaichi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/157873.jpg?s=3d650872a5d1800088ec8e2e308dc78d"
+  },
+  {
+    "name": "Munakata, Ken",
+    "prompt": "Munakata, Ken from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/358914.jpg?s=599767a1ae18f5b1b00ecba3366efb80"
+  },
+  {
+    "name": "Munakata, Satsuki",
+    "prompt": "Munakata, Satsuki from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/360303.jpg?s=7746180a03c0a0b8aca352d149c5b2b6"
+  },
+  {
+    "name": "Munakata, Kyouko",
+    "prompt": "Munakata, Kyouko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/360312.jpg?s=511899755d7227e45e7f52762bdf665a"
+  },
+  {
+    "name": "Murakami, Souta",
+    "prompt": "Murakami, Souta from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/262121.jpg?s=779370a7cb517d6030e30e7a44ba3852"
+  },
+  {
+    "name": "Muranishi, Yayoi",
+    "prompt": "Muranishi, Yayoi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/360305.jpg?s=44430f94a831a91fcc7eb75961d837a2"
+  },
+  {
+    "name": "Muromachi, Kounosuke",
+    "prompt": "Muromachi, Kounosuke from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/360653.jpg?s=09e7b2f5f044f523e2d8d3c23c01c62e"
+  },
+  {
+    "name": "Mutou, Kyouichi",
+    "prompt": "Mutou, Kyouichi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/361418.jpg?s=0e3027f8a8c806506417f1772a3f030d"
+  },
+  {
+    "name": "Nagasaki, Koushirou",
+    "prompt": "Nagasaki, Koushirou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/360318.jpg?s=8e2a10eb39a1104983e35638ec258037"
+  },
+  {
+    "name": "Nagasaki, Yuri",
+    "prompt": "Nagasaki, Yuri from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/360882.jpg?s=e2f277fdd7b3c4c6cde4960f4abc4f43"
+  },
+  {
+    "name": "Nagashima, Shigeru",
+    "prompt": "Nagashima, Shigeru from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/358407.jpg?s=d421d7a7107fd235ba8c95eb44dcd61a"
+  },
+  {
+    "name": "Nakagami, Reimei",
+    "prompt": "Nakagami, Reimei from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/361665.jpg?s=48cabc90f1ba66b8f43c55067d1438bf"
+  },
+  {
+    "name": "Nakajima, Rumi",
+    "prompt": "Nakajima, Rumi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/360354.jpg?s=344725e0f7b168b32e463fba735c1443"
+  },
+  {
+    "name": "Nakano, Hirokazu",
+    "prompt": "Nakano, Hirokazu from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/356928.jpg?s=fa9038203f9a1a3b3d153a8a0799b047"
+  },
+  {
+    "name": "Nakata, Kinuyo",
+    "prompt": "Nakata, Kinuyo from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/361361.jpg?s=0213f83b4c09d6f9424a2dee13a3a19a"
+  },
+  {
+    "name": "Nakatsugawa, Kento",
+    "prompt": "Nakatsugawa, Kento from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/360323.jpg?s=d4f1a2fa07545a6c08d072be9215ca41"
+  },
+  {
+    "name": "Namekawa, Yukito",
+    "prompt": "Namekawa, Yukito from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/360747.jpg?s=fad78c5b88bd49ce4dc7c3048e561ce7"
+  },
+  {
+    "name": "Nanba, Shouhei",
+    "prompt": "Nanba, Shouhei from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/358536.jpg?s=63a536317ec95f4f6835d34de244733a"
+  },
+  {
+    "name": "Narusawa, Kenta",
+    "prompt": "Narusawa, Kenta from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/361477.jpg?s=7a6df56db2c2a1191edd521e1df77546"
+  },
+  {
+    "name": "Natsuoka, Takehiko",
+    "prompt": "Natsuoka, Takehiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/157915.jpg?s=591aa31b0208f9900e95f20c2fa23779"
+  },
+  {
+    "name": "Negoro, Anette",
+    "prompt": "Negoro, Anette from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/363527.jpg?s=33daa3c39503620d4ab02c289b69508b"
+  },
+  {
+    "name": "Nekota, Mitsunari",
+    "prompt": "Nekota, Mitsunari from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/360611.jpg?s=fe37bd7b9eeaf34b27ba66c3f2d6a540"
+  },
+  {
+    "name": "Nijikawa, Yukio",
+    "prompt": "Nijikawa, Yukio from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/358328.jpg?s=c4f43ec35bd10ccc3046b6e11cf812c0"
+  },
+  {
+    "name": "Ninomiya, Mizuho",
+    "prompt": "Ninomiya, Mizuho from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/360919.jpg?s=fb0a801bb2ad98b68c54b7cac47296d4"
+  },
+  {
+    "name": "Ninomiya, Tomoko",
+    "prompt": "Ninomiya, Tomoko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/360596.jpg?s=a812493db5c0447e8d2e70692d6f0a0d"
+  },
+  {
+    "name": "Nishikino, Ryuuhei",
+    "prompt": "Nishikino, Ryuuhei from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/360655.jpg?s=62f44c0fc84826769151869e848d0ccd"
+  },
+  {
+    "name": "Nishimura, Shiho",
+    "prompt": "Nishimura, Shiho from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/360761.jpg?s=1d871dfedef199377057727361fddd8c"
+  },
+  {
+    "name": "Noble Yurama",
+    "prompt": "Noble Yurama from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/358807.jpg?s=59cb57c134a3cb9b0c38f9b5f2ebbab1"
+  },
+  {
+    "name": "Nonaka, Tomomi",
+    "prompt": "Nonaka, Tomomi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/358399.jpg?s=64440b15ab94634dbc197204f2a739c5"
+  },
+  {
+    "name": "Noshiro, Otohiko",
+    "prompt": "Noshiro, Otohiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/360326.jpg?s=0a405a280f4c8faa4a2a99ab78af9131"
+  },
+  {
+    "name": "O'Brien, Patricia",
+    "prompt": "O'Brien, Patricia from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/362200.jpg?s=de77491c02a5b2de8cb089ca7fc0ac25"
+  },
+  {
+    "name": "Ogata, Natsuyo",
+    "prompt": "Ogata, Natsuyo from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/358039.jpg?s=a2183ff6f3d99735e02af27600370fef"
+  },
+  {
+    "name": "Ogino, Chika",
+    "prompt": "Ogino, Chika from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/361673.jpg?s=b842b83a96f8b33507315bcaf3967575"
+  },
+  {
+    "name": "Ogura, Kento",
+    "prompt": "Ogura, Kento from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/363525.jpg?s=3da796db4ae4f2ae661aaf1fa2e1d37d"
+  },
+  {
+    "name": "Ogura, Lily",
+    "prompt": "Ogura, Lily from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/363536.jpg?s=f428d4b698574eb92fa195003d52c9f9"
+  },
+  {
+    "name": "Ogura, Shingo",
+    "prompt": "Ogura, Shingo from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/363535.jpg?s=7a432bb7b2b2cf8ab64fd623962146ee"
+  },
+  {
+    "name": "Ogura, Noeru",
+    "prompt": "Ogura, Noeru from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/363526.jpg?s=cb70f47ce1ebc591a74505e2a3e6909b"
+  },
+  {
+    "name": "Okamochi, Takenori",
+    "prompt": "Okamochi, Takenori from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/361657.jpg?s=ecbc9bf970fe7a557c392a437073f1da"
+  },
+  {
+    "name": "Okayasu, Toshihide",
+    "prompt": "Okayasu, Toshihide from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/356926.jpg?s=7698bfd3b8a66ccfacb706370ba04c85"
+  },
+  {
+    "name": "Okazaki, Koushirou",
+    "prompt": "Okazaki, Koushirou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/358532.jpg?s=abff9e6048c57268b72e4f5b4985fce4"
+  },
+  {
+    "name": "Onda, Junichi",
+    "prompt": "Onda, Junichi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/360768.jpg?s=96889ad24e810c8111db08024df4be99"
+  },
+  {
+    "name": "Onodera, Masayuki",
+    "prompt": "Onodera, Masayuki from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/358929.jpg?s=50d2bac85f948c422e3004d0658fa2a8"
+  },
+  {
+    "name": "Onoue, Takahiro",
+    "prompt": "Onoue, Takahiro from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/157713.jpg?s=6580af23674e71a2052a473c0439cdac"
+  },
+  {
+    "name": "Ookouchi, Zensuke",
+    "prompt": "Ookouchi, Zensuke from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/242669.jpg?s=f805cebda4aca71c435a0ef170c8dcfe"
+  },
+  {
+    "name": "Oomura, Kon",
+    "prompt": "Oomura, Kon from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/358398.jpg?s=8392e88e6372b761114fb6adedce1706"
+  },
+  {
+    "name": "Oono, Kouhei",
+    "prompt": "Oono, Kouhei from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/360332.jpg?s=9be2221095e0e0c6a8edb86eeeda661f"
+  },
+  {
+    "name": "Oosawa, Takashi",
+    "prompt": "Oosawa, Takashi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/360302.jpg?s=79f910352a45f36118ab5b325f81d48d"
+  },
+  {
+    "name": "Oota, Aya",
+    "prompt": "Oota, Aya from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/360340.jpg?s=fecd4b217ccb4839bf609a3b1d609989"
+  },
+  {
+    "name": "Ootori, Tatsuma",
+    "prompt": "Ootori, Tatsuma from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/360771.jpg?s=d74fbbeab087482bbd7db5d53fb4edbb"
+  },
+  {
+    "name": "Ootsuka, Mari",
+    "prompt": "Ootsuka, Mari from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/360352.jpg?s=d992f14d35641d4352d935eed0770384"
+  },
+  {
+    "name": "Ootsuki, Kentarou",
+    "prompt": "Ootsuki, Kentarou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/360297.jpg?s=f138d9f277c3273eb71f51273dea89d0"
+  },
+  {
+    "name": "Patricia",
+    "prompt": "Patricia from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/360365.jpg?s=7207186554cf1e40be2a4c18b67870ac"
+  },
+  {
+    "name": "Pierrot Sakonji",
+    "prompt": "Pierrot Sakonji from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/358804.jpg?s=fe4b15e851767ce0600713e44ef49cca"
+  },
+  {
+    "name": "Ranpo",
+    "prompt": "Ranpo from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/360366.jpg?s=0e787f753e0f542368a6ac4edc957408"
+  },
+  {
+    "name": "Robinson, Anita",
+    "prompt": "Robinson, Anita from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/362202.jpg?s=5497da4ebd7544a81116f7d0415dd7c5"
+  },
+  {
+    "name": "Rokuhara, Kazuma",
+    "prompt": "Rokuhara, Kazuma from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/358928.jpg?s=44ef9e0edc04d902ebc0f1ad614e6c9c"
+  },
+  {
+    "name": "Rokujou, Mitsuhiko",
+    "prompt": "Rokujou, Mitsuhiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/359051.jpg?s=7b7ee02dac1f86fbdd6d479885bba879"
+  },
+  {
+    "name": "Saeki, Kouichirou",
+    "prompt": "Saeki, Kouichirou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/158133.jpg?s=04cfa528268401e3423c80eb7c1b1892"
+  },
+  {
+    "name": "Saeki, Kyousuke",
+    "prompt": "Saeki, Kyousuke from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/242671.jpg?s=40642fe99c4a2e54685f022eb37726a4"
+  },
+  {
+    "name": "Sakai, Narumi",
+    "prompt": "Sakai, Narumi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/360314.jpg?s=0e058d01374c094db8aab500acae0d26"
+  },
+  {
+    "name": "Sakamoto, Yuuko",
+    "prompt": "Sakamoto, Yuuko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/356927.jpg?s=775c48cfb46718bc0bcd7f62a7721ed8"
+  },
+  {
+    "name": "Saki, Ryuuta",
+    "prompt": "Saki, Ryuuta from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/242233.jpg?s=4ff09aed4c8037cb63288cb63215ddff"
+  },
+  {
+    "name": "Saki, Ryuuji",
+    "prompt": "Saki, Ryuuji from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/361490.jpg?s=c716c45d8892e00e47d87df8853484fb"
+  },
+  {
+    "name": "Sakurada, Hiromasa",
+    "prompt": "Sakurada, Hiromasa from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/360656.jpg?s=0d4da60ad31616a3bbc1a600673a6bd9"
+  },
+  {
+    "name": "Sakuragi, Ruiko",
+    "prompt": "Sakuragi, Ruiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/157709.jpg?s=a9578d84a1bf40956491ca7f366c88d5"
+  },
+  {
+    "name": "Sam the Spade",
+    "prompt": "Sam the Spade from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/363531.jpg?s=df8736579eeaa36b5ede207e0a61dfe1"
+  },
+  {
+    "name": "Sanada, Kouji",
+    "prompt": "Sanada, Kouji from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/360605.jpg?s=f180960564bfe2c301e65559cbfd541d"
+  },
+  {
+    "name": "Sandou, Mai",
+    "prompt": "Sandou, Mai from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/360574.jpg?s=adde07124d0d8c5a4cfacc6850b66d94"
+  },
+  {
+    "name": "Saotome, Ryouko",
+    "prompt": "Saotome, Ryouko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/358040.jpg?s=328a7690b43c6204523ea7ded47f3099"
+  },
+  {
+    "name": "Sasamoto, Mika",
+    "prompt": "Sasamoto, Mika from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/360916.jpg?s=5f42901ce4c99c85ef3143c4c3c6d608"
+  },
+  {
+    "name": "Sayama, Kyouji",
+    "prompt": "Sayama, Kyouji from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/164229.jpg?s=3959424930b1bb477261a7b1041a2815"
+  },
+  {
+    "name": "Senda, Saruhiko",
+    "prompt": "Senda, Saruhiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/242539.jpg?s=175e9a56b6b38ead026343acb6f15f22"
+  },
+  {
+    "name": "Sendou, Yutaka",
+    "prompt": "Sendou, Yutaka from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/358041.jpg?s=be892b71d73a1c1e5f9485904cb4efe2"
+  },
+  {
+    "name": "Senke, Takashi",
+    "prompt": "Senke, Takashi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/360566.jpg?s=9cb39ab17d474845e1ff222f8638d1f2"
+  },
+  {
+    "name": "Shiina, Makio",
+    "prompt": "Shiina, Makio from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/360343.jpg?s=15d9da0dfa4b8cb1e20a0459828cb42c"
+  },
+  {
+    "name": "Shikazawa, Naomi",
+    "prompt": "Shikazawa, Naomi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/360325.jpg?s=42b08b80730aa2d0a53cf47e60e29508"
+  },
+  {
+    "name": "Shimamoto, Miwa",
+    "prompt": "Shimamoto, Miwa from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/360353.jpg?s=d132f94c23a687a886f8e6463ceffaf7"
+  },
+  {
+    "name": "Shimazaki, Kaoru",
+    "prompt": "Shimazaki, Kaoru from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/360918.jpg?s=85bd7aaeb4cd3bcf98615e782be0ec57"
+  },
+  {
+    "name": "Shimazu, Takumi",
+    "prompt": "Shimazu, Takumi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/361470.jpg?s=56869bb8daee563d49731f845d655435"
+  },
+  {
+    "name": "Shindou, Yuuichi",
+    "prompt": "Shindou, Yuuichi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/362487.jpg?s=b6148fb6a04e1cf9c4ddea4dc0fdc9a6"
+  },
+  {
+    "name": "Shintani, Yuri",
+    "prompt": "Shintani, Yuri from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/360331.jpg?s=fe6a8330829e3f612d448928ffe7063e"
+  },
+  {
+    "name": "Shiomi, Hatsune",
+    "prompt": "Shiomi, Hatsune from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/360322.jpg?s=ee1b8f0d298bd10275877393a9ada2b1"
+  },
+  {
+    "name": "Shirai, Toratarou",
+    "prompt": "Shirai, Toratarou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/361973.jpg?s=b337cf8ff016b2e827961f559ad6a1b7"
+  },
+  {
+    "name": "Shiraishi, Miho",
+    "prompt": "Shiraishi, Miho from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/360341.jpg?s=4d3a0b294ee856897c314946764d6e3a"
+  },
+  {
+    "name": "Shiramine, Tatsuki",
+    "prompt": "Shiramine, Tatsuki from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/359150.jpg?s=bb54da148e2929a684cd8476e7d8786e"
+  },
+  {
+    "name": "Shishijima, Ryuu",
+    "prompt": "Shishijima, Ryuu from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/361479.jpg?s=1295a0672039c70835091c59c890cbbc"
+  },
+  {
+    "name": "Shishimoto, Takuji",
+    "prompt": "Shishimoto, Takuji from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/361684.jpg?s=4b1ce27562a73b274bf18ab03380cb77"
+  },
+  {
+    "name": "Shuk, Ta Ming",
+    "prompt": "Shuk, Ta Ming from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/360759.jpg?s=c23779f2acc278f7c32e613379b5d673"
+  },
+  {
+    "name": "Sid",
+    "prompt": "Sid from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/360364.jpg?s=70249a8f6fdfd1ca5a7c6f3dd55be62a"
+  },
+  {
+    "name": "Soga, Toyohiro",
+    "prompt": "Soga, Toyohiro from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/360311.jpg?s=86082dd6bcc69d005d8c10ed9cc3684c"
+  },
+  {
+    "name": "Soujou",
+    "prompt": "Soujou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/360361.jpg?s=51b45664b694a14485298476787f13af"
+  },
+  {
+    "name": "Souma, Atsushi",
+    "prompt": "Souma, Atsushi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/360367.jpg?s=de9553aa647bc0f9dff325d94d8a2589"
+  },
+  {
+    "name": "Sumiyoshi, Shingo",
+    "prompt": "Sumiyoshi, Shingo from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/360324.jpg?s=07a84744365fc1bba6cd6fc8f25afde1"
+  },
+  {
+    "name": "Suwa, Masako",
+    "prompt": "Suwa, Masako from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/358713.jpg?s=ad18944619e64bc712ef076b5075cd97"
+  },
+  {
+    "name": "Suzaku, Seisuke",
+    "prompt": "Suzaku, Seisuke from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/361971.jpg?s=fee172a57629b289c844de7044cf138a"
+  },
+  {
+    "name": "Suzumori, Emi",
+    "prompt": "Suzumori, Emi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/359148.jpg?s=c29e07c62a66b923e733d96f0473a5cf"
+  },
+  {
+    "name": "Tachibana, Ryouzou",
+    "prompt": "Tachibana, Ryouzou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/158135.jpg?s=312e0769d7b0bb2f27183488c8059e10"
+  },
+  {
+    "name": "Tachibana, Goryuu",
+    "prompt": "Tachibana, Goryuu from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/358394.jpg?s=97debc0279f6f1c5e7752892aa9685e8"
+  },
+  {
+    "name": "Tachikawa, Miyako",
+    "prompt": "Tachikawa, Miyako from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/361469.jpg?s=9e868268f686e4625db29eb80817481e"
+  },
+  {
+    "name": "Tadano",
+    "prompt": "Tadano from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/262357.jpg?s=85f91328aeb43001647d45bd01930da3"
+  },
+  {
+    "name": "Takamori, Gouzou",
+    "prompt": "Takamori, Gouzou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/360293.jpg?s=05d60a660aa3498edb9deec2715ff7f8"
+  },
+  {
+    "name": "Takamori, Masumi",
+    "prompt": "Takamori, Masumi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/359046.jpg?s=59cd00942fb158870ddc049307fece81"
+  },
+  {
+    "name": "Takarada, Kouji",
+    "prompt": "Takarada, Kouji from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/361862.jpg?s=ede151c82488daeceda905ad2c56b816"
+  },
+  {
+    "name": "Takashima, Tomoyo",
+    "prompt": "Takashima, Tomoyo from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/242545.jpg?s=5428cc1b0ed0f8bbfb55f7cad9832bc9"
+  },
+  {
+    "name": "Takatoo, Youichi",
+    "prompt": "Takatoo, Youichi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/298496.jpg?s=5b59e4125557dcafc4f1d8255f891117"
+  },
+  {
+    "name": "Takenaka, Ayumi",
+    "prompt": "Takenaka, Ayumi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/360744.jpg?s=de008938f4c0a5acd9ebfd89223a4a1f"
+  },
+  {
+    "name": "Takigawa, Kahoru",
+    "prompt": "Takigawa, Kahoru from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/160581.jpg?s=947d0269834443dcb6be4f84cefdbfe1"
+  },
+  {
+    "name": "Takishita, Matarou",
+    "prompt": "Takishita, Matarou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/358708.jpg?s=82ae4fbf046b8a939d34ccd029ab085d"
+  },
+  {
+    "name": "Tao, Len Mei",
+    "prompt": "Tao, Len Mei from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/360762.jpg?s=e4326a67f7555fb93aa512474781c512"
+  },
+  {
+    "name": "Tashiro, Fujio",
+    "prompt": "Tashiro, Fujio from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/361855.jpg?s=f2f4555d1df03eaa148aa2501e1c4475"
+  },
+  {
+    "name": "Tateishi, Naoya",
+    "prompt": "Tateishi, Naoya from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/361471.jpg?s=132e018d492ca27dfa25b6abdff486bf"
+  },
+  {
+    "name": "Tatsumi, Shino",
+    "prompt": "Tatsumi, Shino from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/242457.jpg?s=79ad81b592e3e74d99747ff0a835c0fb"
+  },
+  {
+    "name": "Tatsumi, Nagisa",
+    "prompt": "Tatsumi, Nagisa from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/361974.jpg?s=7ef5d58aae41fc840621ea9ebd448615"
+  },
+  {
+    "name": "Tatsumi, Seimaru",
+    "prompt": "Tatsumi, Seimaru from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/242461.jpg?s=c21b4662fd6f69144579ee7dd8ace842"
+  },
+  {
+    "name": "Tatsumi, Hayato",
+    "prompt": "Tatsumi, Hayato from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/242465.jpg?s=a7e44daa347d29360a32d883b04185d9"
+  },
+  {
+    "name": "Tatsumi, Ryuunosuke",
+    "prompt": "Tatsumi, Ryuunosuke from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/242459.jpg?s=a5812c6eef0298718d6084dd223b6dfc"
+  },
+  {
+    "name": "Tatsumi, Moegi",
+    "prompt": "Tatsumi, Moegi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/242463.jpg?s=a39562b85a975a5589ad0d39ee6f0084"
+  },
+  {
+    "name": "Tendou, Shirou",
+    "prompt": "Tendou, Shirou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/361364.jpg?s=adab0cfd18ceee75e43db2105b6f6c7a"
+  },
+  {
+    "name": "Terayama, Jyuusou",
+    "prompt": "Terayama, Jyuusou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/360657.jpg?s=1f721afd29716cf06cbdf0d72d30e7f9"
+  },
+  {
+    "name": "Todoroki, Miwako",
+    "prompt": "Todoroki, Miwako from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/360320.jpg?s=32c6dd7fd0517dfa9f7bf223042a524c"
+  },
+  {
+    "name": "Tokihara, Yuu",
+    "prompt": "Tokihara, Yuu from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/360294.jpg?s=376354719c4743577ff48ed51769fd87"
+  },
+  {
+    "name": "Tokitou, Wataru",
+    "prompt": "Tokitou, Wataru from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/358402.jpg?s=2f157bd8daeab7749e32245201bdd62f"
+  },
+  {
+    "name": "Toono, Eiji",
+    "prompt": "Toono, Eiji from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/164231.jpg?s=67741735c7d185bc2e4f7f22b6dd501c"
+  },
+  {
+    "name": "Toribeno, Akira",
+    "prompt": "Toribeno, Akira from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/360307.jpg?s=199ddec9ac98036e8e26fb1a56b179fa"
+  },
+  {
+    "name": "Torimaru, Naoko",
+    "prompt": "Torimaru, Naoko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/359047.jpg?s=cf03b6d0b96ee3079198ac6bb4ef79ec"
+  },
+  {
+    "name": "Toudou, Sousuke",
+    "prompt": "Toudou, Sousuke from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/360763.jpg?s=69464808e267a7a72bd21e02d45b5013"
+  },
+  {
+    "name": "Toujou, Makoto",
+    "prompt": "Toujou, Makoto from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/360654.jpg?s=d4ba0a20f9d263bde51111b08d678322"
+  },
+  {
+    "name": "Touma, Megumi",
+    "prompt": "Touma, Megumi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/167173.jpg?s=b3df152228789903fdc94e8f78683374"
+  },
+  {
+    "name": "Toyama, Sakura",
+    "prompt": "Toyama, Sakura from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/360879.jpg?s=1a68b1c428816d7c3b4e98bd1e2a3b32"
+  },
+  {
+    "name": "Tsubaki, Youzou",
+    "prompt": "Tsubaki, Youzou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/157919.jpg?s=057e093b7237f9ae9e146511b2a6fe5a"
+  },
+  {
+    "name": "Tsuji, Kenji",
+    "prompt": "Tsuji, Kenji from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/358714.jpg?s=bc237a41e9501881ee752c0305f0c3c5"
+  },
+  {
+    "name": "Tsujiguchi, Reiko",
+    "prompt": "Tsujiguchi, Reiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/356920.jpg?s=52e766ffdfaca097d0105c80a95716de"
+  },
+  {
+    "name": "Tsujiguchi, Kayo",
+    "prompt": "Tsujiguchi, Kayo from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/356922.jpg?s=09ac17643804cf7dd7ebf34bc58797a4"
+  },
+  {
+    "name": "Tsujiguchi, Minako",
+    "prompt": "Tsujiguchi, Minako from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/356921.jpg?s=21c8cdf15c7a6a64aa355e81898ba02a"
+  },
+  {
+    "name": "Tsujiguchi, Suzuoki",
+    "prompt": "Tsujiguchi, Suzuoki from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/356924.jpg?s=2318e3a5fbfc7c609e8b3ca1f91189e1"
+  },
+  {
+    "name": "Tsujimura, Makio",
+    "prompt": "Tsujimura, Makio from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/361688.jpg?s=1777816fb223236ceccf5456d6e65a87"
+  },
+  {
+    "name": "Tsukahara, Denzou",
+    "prompt": "Tsukahara, Denzou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/360334.jpg?s=281c9793a9bbe7ed8772fc0a7a108ac1"
+  },
+  {
+    "name": "Tsukishima, Fuyuko",
+    "prompt": "Tsukishima, Fuyuko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/358044.jpg?s=2793e2efe21570ddafb6b1889784c34a"
+  },
+  {
+    "name": "Tsukishima, Ryouji",
+    "prompt": "Tsukishima, Ryouji from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/358042.jpg?s=70d0b814d9e3753f122ab4da0f4e9db9"
+  },
+  {
+    "name": "Tsuzuki, Tetsuo",
+    "prompt": "Tsuzuki, Tetsuo from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/358395.jpg?s=f7c2ac964d1765102fd278ff242e6e59"
+  },
+  {
+    "name": "Tsuzuki, Mizuho",
+    "prompt": "Tsuzuki, Mizuho from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/360814.jpg?s=8f69c4626ae6bbe777f3e9fa891976fc"
+  },
+  {
+    "name": "Ukon, Shinichi",
+    "prompt": "Ukon, Shinichi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/361969.jpg?s=f8f798933e7f3cba3ab815a0db33fc4f"
+  },
+  {
+    "name": "Umezono, Kaoru",
+    "prompt": "Umezono, Kaoru from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/361858.jpg?s=d331af43e6e43179ca325c30c8f15ab6"
+  },
+  {
+    "name": "Uozumi, Kyoushirou",
+    "prompt": "Uozumi, Kyoushirou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/361474.jpg?s=5370d386267c8b81fcae3b1c18a74409"
+  },
+  {
+    "name": "Usami, Otoya",
+    "prompt": "Usami, Otoya from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/360652.jpg?s=484f509b6158e40fb6763caa3cfc7032"
+  },
+  {
+    "name": "Wada, Tomomi",
+    "prompt": "Wada, Tomomi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/362756.jpg?s=32302d5cad6af1acc754e3c8f8103eba"
+  },
+  {
+    "name": "Wada, Morio",
+    "prompt": "Wada, Morio from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/361355.jpg?s=342b4d329d0d06b3949d5e010a04ef46"
+  },
+  {
+    "name": "Wajima, Takashi",
+    "prompt": "Wajima, Takashi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/355854.jpg?s=44540d475f8786356dca7fb8b6b97af3"
+  },
+  {
+    "name": "Wakabayashi, Yuuko",
+    "prompt": "Wakabayashi, Yuuko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/360798.jpg?s=b51579083953216f8b87ba7558f7ae19"
+  },
+  {
+    "name": "Wakaouji, Mikihiko",
+    "prompt": "Wakaouji, Mikihiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/360299.jpg?s=a3fe682fd4c49a45eaff4a05c9cc5ca2"
+  },
+  {
+    "name": "Wakuta, Haruhiko",
+    "prompt": "Wakuta, Haruhiko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/157855.jpg?s=4b802a7790afcbe6cd3fd40f923de971"
+  },
+  {
+    "name": "Watanabe, Atsumu",
+    "prompt": "Watanabe, Atsumu from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/360585.jpg?s=d03893c9d6d9186af59d7e78183f17dc"
+  },
+  {
+    "name": "Watson",
+    "prompt": "Watson from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/360376.jpg?s=ba9d99a8a7065bc9ff5814e56e4861ef"
+  },
+  {
+    "name": "Yagi, Kiyoshi",
+    "prompt": "Yagi, Kiyoshi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/360328.jpg?s=e3a841b0c9f197a5c1459f35557c725c"
+  },
+  {
+    "name": "Yaginuma, Junzou",
+    "prompt": "Yaginuma, Junzou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/363524.jpg?s=bebbbeaeececb3b705573a1163c74088"
+  },
+  {
+    "name": "Yagisawa, Ryou",
+    "prompt": "Yagisawa, Ryou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/361363.jpg?s=a97b427bcb84305c08551f91dc5b13d3"
+  },
+  {
+    "name": "Yakushiji, Kaoru",
+    "prompt": "Yakushiji, Kaoru from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/355855.jpg?s=a03b701511c1bea6a53b389f271b066c"
+  },
+  {
+    "name": "Yamabuki, Kaoruko",
+    "prompt": "Yamabuki, Kaoruko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/360321.jpg?s=d08038bb976bf4398c9da4eae275098a"
+  },
+  {
+    "name": "Yamane, Yuka",
+    "prompt": "Yamane, Yuka from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/157911.jpg?s=8a02649c232948bd00b199abe85e46e8"
+  },
+  {
+    "name": "Yamano, Katsumi",
+    "prompt": "Yamano, Katsumi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/358927.jpg?s=43fc1315efd2656f356c54ca8faee0e2"
+  },
+  {
+    "name": "Yamanouchi, Kousei",
+    "prompt": "Yamanouchi, Kousei from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/361854.jpg?s=8821e82f668a6e763f9787da5d6a9cc4"
+  },
+  {
+    "name": "Yamato, Takeru",
+    "prompt": "Yamato, Takeru from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/360306.jpg?s=b98be933dbe229587585d858e85b2249"
+  },
+  {
+    "name": "Yang, Lai Li",
+    "prompt": "Yang, Lai Li from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/360767.jpg?s=e7a849ff48a007586204d1fd9fe62ffb"
+  },
+  {
+    "name": "Yang, Xiao Long",
+    "prompt": "Yang, Xiao Long from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/360754.jpg?s=0bd2af99c8e53083aef147e5a4d515f7"
+  },
+  {
+    "name": "Yang, Wang",
+    "prompt": "Yang, Wang from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/360755.jpg?s=944236b9e0d0ef4abf710461e384ea72"
+  },
+  {
+    "name": "Yao, Teppei",
+    "prompt": "Yao, Teppei from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/360567.jpg?s=92b6fdedf6ab4b3d874c6e61a1d77139"
+  },
+  {
+    "name": "Yaogi, Hisayoshi",
+    "prompt": "Yaogi, Hisayoshi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/167171.jpg?s=d752d36b600cffd264f0323f2fa53eb3"
+  },
+  {
+    "name": "Yashiro, Fuyumi",
+    "prompt": "Yashiro, Fuyumi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/361473.jpg?s=91dbdd15a83f3a1698e16b90e1e14e3d"
+  },
+  {
+    "name": "Yasojima, Ryuuzou",
+    "prompt": "Yasojima, Ryuuzou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/161075.jpg?s=073958125ac63650919f6c9216742990"
+  },
+  {
+    "name": "Yasuoka, Yasuyuki",
+    "prompt": "Yasuoka, Yasuyuki from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/360313.jpg?s=62f44269b8139b62f1c25684b5a869a2"
+  },
+  {
+    "name": "Yasuoka, Manami",
+    "prompt": "Yasuoka, Manami from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/360317.jpg?s=abdb6352c696ca94de9165e3db94d415"
+  },
+  {
+    "name": "Yasuoka, Shouko",
+    "prompt": "Yasuoka, Shouko from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/361711.jpg?s=f66c9a149c9495afa12359e281592149"
+  },
+  {
+    "name": "Yorozuya, Tooru",
+    "prompt": "Yorozuya, Tooru from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/360568.jpg?s=f343b1a5009337477a460e49cfc37850"
+  },
+  {
+    "name": "Yoshida, Akira",
+    "prompt": "Yoshida, Akira from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/360296.jpg?s=614e963f086f2f8c864883ee28aa1600"
+  },
+  {
+    "name": "Yoshino, Otomi",
+    "prompt": "Yoshino, Otomi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/355958.jpg?s=366934c8c5326860e7bef4702473b7be"
+  },
+  {
+    "name": "Yoshiyuki, Jun",
+    "prompt": "Yoshiyuki, Jun from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/361716.jpg?s=497d27270590f9a7eb446395950ea4ce"
+  },
+  {
+    "name": "Yuge, Tooru",
+    "prompt": "Yuge, Tooru from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/359053.jpg?s=62f90740e7601ee9b63d82b63b1889e2"
+  },
+  {
+    "name": "Yukimura, Gouzou",
+    "prompt": "Yukimura, Gouzou from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/358325.jpg?s=9672414cd863f505ac4b72be01509f90"
+  },
+  {
+    "name": "Yukioka, Souhei",
+    "prompt": "Yukioka, Souhei from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/359149.jpg?s=968661aefc9b91fa5233271f4d9d3813"
+  },
+  {
+    "name": "Yusa, Chiemi",
+    "prompt": "Yusa, Chiemi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/360603.jpg?s=ee15bbecfe5b21ef098ccd2d33b5c6e5"
+  },
+  {
+    "name": "Yuzuki, Raimu",
+    "prompt": "Yuzuki, Raimu from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/361860.jpg?s=185f5b76bdb9992998b39622caafbfd9"
+  },
+  {
+    "name": "Zanma, Satomi",
+    "prompt": "Zanma, Satomi from Kindaichi Shounen no Jikenbo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/358806.jpg?s=9d7ea8b5b34a3b5f6e92342728babf98"
+  }
+]

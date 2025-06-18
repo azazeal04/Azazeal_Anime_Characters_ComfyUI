@@ -1,0 +1,592 @@
+[
+  {
+    "name": "Anton",
+    "prompt": "Anton from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/532388.jpg?s=01473a5448dab7f7076ec1eb3328673c"
+  },
+  {
+    "name": "Brave Little Tailor",
+    "prompt": "Brave Little Tailor from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/532524.jpg?s=ebfb6f03f04ce95bc7c74fb40dcc85e3"
+  },
+  {
+    "name": "Commandant Fox",
+    "prompt": "Commandant Fox from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/532537.jpg?s=b8baf1b70be32729369ff65345533426"
+  },
+  {
+    "name": "Cristina",
+    "prompt": "Cristina from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/532512.jpg?s=923abbd3088c54105b7fee67e77572b0"
+  },
+  {
+    "name": "Death",
+    "prompt": "Death from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/532557.jpg?s=845b35872c33fb959443e111ddb062f7"
+  },
+  {
+    "name": "Franz (Skillful)",
+    "prompt": "Franz (Skillful) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/532428.jpg?s=7fa06f568196aabc69005e67c4925fb3"
+  },
+  {
+    "name": "Frederick",
+    "prompt": "Frederick from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/532432.jpg?s=6bae45b86628e781dccd600bd8eb7cf5"
+  },
+  {
+    "name": "General Bear",
+    "prompt": "General Bear from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/532536.jpg?s=60a74830b3d15ec0195fb9c34bedaac0"
+  },
+  {
+    "name": "George (Skillful)",
+    "prompt": "George (Skillful) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/532429.jpg?s=637266764771a08287da8fa952b1c0f1"
+  },
+  {
+    "name": "Heidi",
+    "prompt": "Heidi from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532549.jpg?s=572d76a1121d9a093e67db6b16ea42f0"
+  },
+  {
+    "name": "Helga",
+    "prompt": "Helga from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/532546.jpg?s=6e06d2bf82ee34e92a048e5bbb7d3997"
+  },
+  {
+    "name": "Hildegard",
+    "prompt": "Hildegard from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/532412.jpg?s=86d34c686f66f33fbf0f195e796db73a"
+  },
+  {
+    "name": "Hunter Frederick",
+    "prompt": "Hunter Frederick from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/532395.jpg?s=c1da300dc6811c25b1f0807de7bd59c8"
+  },
+  {
+    "name": "Johan",
+    "prompt": "Johan from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/532508.jpg?s=b46edcc2372ed2e22583e53f148ccdd6"
+  },
+  {
+    "name": "King (Rumpelstiltskin)",
+    "prompt": "King (Rumpelstiltskin) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/532545.jpg?s=a8bd66fb8543a9aa2013b7249275f4b3"
+  },
+  {
+    "name": "King Wren",
+    "prompt": "King Wren from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532535.jpg?s=27dbe52dcfd2baa841662604aac8d902"
+  },
+  {
+    "name": "Lisbeth",
+    "prompt": "Lisbeth from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/532401.jpg?s=2860dac8b0e7d9b3557ab573a6487bc2"
+  },
+  {
+    "name": "Lord Wolf",
+    "prompt": "Lord Wolf from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532409.jpg?s=13048a37e03d307423e9f8ae8e1e35bf"
+  },
+  {
+    "name": "Maria",
+    "prompt": "Maria from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/532391.jpg?s=5dfdfa94428769e06b154b64252e7413"
+  },
+  {
+    "name": "Mr. Fox",
+    "prompt": "Mr. Fox from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/532379.jpg?s=e674af426769abb493d8b4abfdb57b78"
+  },
+  {
+    "name": "Mr. Hedgehog",
+    "prompt": "Mr. Hedgehog from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532520.jpg?s=a1e4b65caf3911b6771a8431932b6cd5"
+  },
+  {
+    "name": "Peter (Skillful)",
+    "prompt": "Peter (Skillful) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/532430.jpg?s=9ca80118d8a1bd27f323d5a9beda2dc4"
+  },
+  {
+    "name": "Prince (Iron John)",
+    "prompt": "Prince (Iron John) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/532522.jpg?s=b11c0ae25ab71a115a5e51e8b1d87a0a"
+  },
+  {
+    "name": "Princess (Iron Stove)",
+    "prompt": "Princess (Iron Stove) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/532505.jpg?s=c185b0de8cf37396b965ff9c7830affe"
+  },
+  {
+    "name": "Princess (Six Swans)",
+    "prompt": "Princess (Six Swans) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/532418.jpg?s=7bbc9b6ba8b09370cd75b7a66ceb6910"
+  },
+  {
+    "name": "Princess Alea",
+    "prompt": "Princess Alea from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/532421.jpg?s=ac229b2450a6a7f24194559a909c97fd"
+  },
+  {
+    "name": "Queen (Six Swans)",
+    "prompt": "Queen (Six Swans) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/532415.jpg?s=d80b6e981f52cddf3351235477413762"
+  },
+  {
+    "name": "Rapunzel",
+    "prompt": "Rapunzel from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/532400.jpg?s=437610ef0d6a4723cae163a3e64bcb2f"
+  },
+  {
+    "name": "Rosa",
+    "prompt": "Rosa from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/532424.jpg?s=3dcf902f5939ede0f58069b314d8bd63"
+  },
+  {
+    "name": "Servant Fox",
+    "prompt": "Servant Fox from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/532408.jpg?s=7a5a5af23fffd90a94093e44a16015c7"
+  },
+  {
+    "name": "Sharecropper",
+    "prompt": "Sharecropper from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/532404.jpg?s=8e41c36bdf89b49f10b50406bddb5c7a"
+  },
+  {
+    "name": "Soldier (Grave Mound)",
+    "prompt": "Soldier (Grave Mound) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532406.jpg?s=6df8aef07356da7457dbf82aad57997e"
+  },
+  {
+    "name": "Wilhelm (Skillful)",
+    "prompt": "Wilhelm (Skillful) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/532427.jpg?s=577606200e608adcf9f222d2b7843bfa"
+  },
+  {
+    "name": "Witch Lisbeth",
+    "prompt": "Witch Lisbeth from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/532394.jpg?s=8da3b7e399c6fdbce7582c1bd73b151f"
+  },
+  {
+    "name": "Beast",
+    "prompt": "Beast from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532390.jpg?s=b217c6023e629bce60a7016ba755a860"
+  },
+  {
+    "name": "Brown Frog (Iron Stove)",
+    "prompt": "Brown Frog (Iron Stove) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/532503.jpg?s=79bde2d73d2efe564582bba1a5874056"
+  },
+  {
+    "name": "Councilor (Rumpelstiltskin)",
+    "prompt": "Councilor (Rumpelstiltskin) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532544.jpg?s=8f6a9fdd7b3322320a7b5281cab6e793"
+  },
+  {
+    "name": "Councilor Crow",
+    "prompt": "Councilor Crow from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532539.jpg?s=bfdbe4504c11877981d3ab2af324d7a8"
+  },
+  {
+    "name": "Devil (Bearskin)",
+    "prompt": "Devil (Bearskin) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532511.jpg?s=efc5650c92d3b4b8a98af43a2a96b9e0"
+  },
+  {
+    "name": "Devil (Grave Mound)",
+    "prompt": "Devil (Grave Mound) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/532407.jpg?s=7da9ed56a92652740ccfe83044a316d4"
+  },
+  {
+    "name": "Elaine",
+    "prompt": "Elaine from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/532414.jpg?s=af217f070c742c6720c0d529ba1fcc01"
+  },
+  {
+    "name": "First General (Little Tailor)",
+    "prompt": "First General (Little Tailor) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/532528.jpg?s=8882007d2dab6fe7c3f23b4a2c9f2dc0"
+  },
+  {
+    "name": "George",
+    "prompt": "George from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/532386.jpg?s=79055e37acdc4257213cb6e41b7c7e70"
+  },
+  {
+    "name": "Giant (Little Tailor)",
+    "prompt": "Giant (Little Tailor) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/532530.jpg?s=2da3057121fdc0388adc7e367a4c9e26"
+  },
+  {
+    "name": "Giant Hans",
+    "prompt": "Giant Hans from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/532523.jpg?s=eab852080ac30b4abf1541f55ea221c3"
+  },
+  {
+    "name": "Gisela",
+    "prompt": "Gisela from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/532509.jpg?s=de29ff851ed459da5fc35409833dc1a2"
+  },
+  {
+    "name": "God",
+    "prompt": "God from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/532559.jpg?s=63711ea0c4f6334fb4d185a13ebe42ab"
+  },
+  {
+    "name": "Green Frog (Iron Stove)",
+    "prompt": "Green Frog (Iron Stove) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/532504.jpg?s=022ad35b2af675c88b745dbb22b2f70b"
+  },
+  {
+    "name": "Green Monster (Little Tailor)",
+    "prompt": "Green Monster (Little Tailor) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/532532.jpg?s=ae2b40a0cae05b712cfa9acf752b49d0"
+  },
+  {
+    "name": "Hank",
+    "prompt": "Hank from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/532383.jpg?s=d7fa4e1454262653cefda21992abc367"
+  },
+  {
+    "name": "Hedgehog Jr.",
+    "prompt": "Hedgehog Jr. from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/532518.jpg?s=e3a5c587952fd690e57f90d5fefc7cc9"
+  },
+  {
+    "name": "Helga's Father",
+    "prompt": "Helga's Father from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/532547.jpg?s=273a0aec7d6f065d36f19e300380af59"
+  },
+  {
+    "name": "Hildegard's Stepmother",
+    "prompt": "Hildegard's Stepmother from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532413.jpg?s=26634ddd341d343be7f4403c2d955137"
+  },
+  {
+    "name": "Imp Fairy",
+    "prompt": "Imp Fairy from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/532501.jpg?s=87aaca706a81f0ad2edbb029442976c5"
+  },
+  {
+    "name": "Iron Stove",
+    "prompt": "Iron Stove from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532502.jpg?s=98649399eb2efca5ba16b66e1e7cb594"
+  },
+  {
+    "name": "John",
+    "prompt": "John from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/532433.jpg?s=2b7c2c2e9a461ebad9cb8468462b9a50"
+  },
+  {
+    "name": "King (Allerleirauh)",
+    "prompt": "King (Allerleirauh) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/532420.jpg?s=abc3e8d94aaf7bd20ec8ca353da46b4b"
+  },
+  {
+    "name": "King (Godfather Death)",
+    "prompt": "King (Godfather Death) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/532555.jpg?s=8583d216ee7131e3dc6df50101a7abe1"
+  },
+  {
+    "name": "King (Iron Stove)",
+    "prompt": "King (Iron Stove) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532507.jpg?s=b339d720d37f538415685b5be12263da"
+  },
+  {
+    "name": "King (Little Tailor)",
+    "prompt": "King (Little Tailor) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532525.jpg?s=fecc923a1a6513a74050b5113a790f33"
+  },
+  {
+    "name": "King (Rosa & Rudolf)",
+    "prompt": "King (Rosa & Rudolf) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/532426.jpg?s=28d3daa51ad153b970021cc7b217ef31"
+  },
+  {
+    "name": "King (Six Swans)",
+    "prompt": "King (Six Swans) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/532417.jpg?s=8f77de9b9220e68e1b0b4e7c1c8238e4"
+  },
+  {
+    "name": "King (Skillful)",
+    "prompt": "King (Skillful) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/532500.jpg?s=80f47807827236b987825ef718858b8b"
+  },
+  {
+    "name": "Landlord (Grave Mound)",
+    "prompt": "Landlord (Grave Mound) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/532405.jpg?s=e522b2e4a30abc6888bf88728d5c5a14"
+  },
+  {
+    "name": "Laughing Wolf",
+    "prompt": "Laughing Wolf from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/532534.jpg?s=8ce9361d6537436d88d9130259567dd2"
+  },
+  {
+    "name": "Lily",
+    "prompt": "Lily from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/532382.jpg?s=bc40d47d24b194a9a7a9902f94fb77b7"
+  },
+  {
+    "name": "Lord Ox",
+    "prompt": "Lord Ox from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/532384.jpg?s=fec844013a9ad58b7eb4aab9bb0bb6d9"
+  },
+  {
+    "name": "Maid (Iron Stove)",
+    "prompt": "Maid (Iron Stove) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/532506.jpg?s=5fa2da76ef4a47d387e2336e5c2c5d88"
+  },
+  {
+    "name": "Maria's Father",
+    "prompt": "Maria's Father from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/532392.jpg?s=fe7fc4a061f8f4d6c92290e75935b8ba"
+  },
+  {
+    "name": "Mother Holle",
+    "prompt": "Mother Holle from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/532411.jpg?s=bf2ba1126fece0147f5de970f86684a8"
+  },
+  {
+    "name": "Mr. Fox's Conscience",
+    "prompt": "Mr. Fox's Conscience from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/532380.jpg?s=15e93f4090cb8e1afb8c5003a731eac4"
+  },
+  {
+    "name": "Mrs. Fox",
+    "prompt": "Mrs. Fox from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/532381.jpg?s=50c6aded0c3833629a683a26f50e1f73"
+  },
+  {
+    "name": "Mrs. Hedgehog",
+    "prompt": "Mrs. Hedgehog from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/532519.jpg?s=0030557589a15a14a43d98676c6886c3"
+  },
+  {
+    "name": "Müller, Hans",
+    "prompt": "Müller, Hans from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/532513.jpg?s=7820e371a19cafacca7b2b21d6d734c3"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nixie",
+    "prompt": "Nixie from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/532551.jpg?s=a4f27f1edd6c8780304083aa0900739c"
+  },
+  {
+    "name": "Old Helmut",
+    "prompt": "Old Helmut from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/532517.jpg?s=864657ff61edf7c08d764ec451408859"
+  },
+  {
+    "name": "Old Lady of the Lake",
+    "prompt": "Old Lady of the Lake from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/532552.jpg?s=f6fd08c19d5ba128fe9520d529903c16"
+  },
+  {
+    "name": "Old Woman (Donkey Cabbages)",
+    "prompt": "Old Woman (Donkey Cabbages) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/532393.jpg?s=0c5bab943e38a7c75dcd0e06e8e85101"
+  },
+  {
+    "name": "Owl",
+    "prompt": "Owl from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/532402.jpg?s=f1c9bc36c5b21945d75da22fbb356be7"
+  },
+  {
+    "name": "Prince (Rapunzel)",
+    "prompt": "Prince (Rapunzel) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532399.jpg?s=1b02f5c102376d2c61b46809c0301828"
+  },
+  {
+    "name": "Prince (Six Swans)",
+    "prompt": "Prince (Six Swans) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532419.jpg?s=83787c4a02f8be4293dc2237bab6c810"
+  },
+  {
+    "name": "Prince Alexander",
+    "prompt": "Prince Alexander from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/532422.jpg?s=79b27fbceb53be178ebc78fbd00af87d"
+  },
+  {
+    "name": "Princess (Crystal Ball)",
+    "prompt": "Princess (Crystal Ball) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/532387.jpg?s=8312a708272f60908230a66a7bcb026d"
+  },
+  {
+    "name": "Princess (Little Tailor)",
+    "prompt": "Princess (Little Tailor) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/532526.jpg?s=b9827e60a52784180ab4566c91130731"
+  },
+  {
+    "name": "Princess (Skillful)",
+    "prompt": "Princess (Skillful) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/532499.jpg?s=cd3b51a99c4623300e653e23b277997b"
+  },
+  {
+    "name": "Queen (Iron John)",
+    "prompt": "Queen (Iron John) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/532521.jpg?s=53a7c120de32bd3f9173d1fa85b17ac5"
+  },
+  {
+    "name": "Rapunzel's Father",
+    "prompt": "Rapunzel's Father from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532396.jpg?s=90d2eae1c5b983d36b35d6d2698ecf9b"
+  },
+  {
+    "name": "Rapunzel's Mother",
+    "prompt": "Rapunzel's Mother from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/532397.jpg?s=f84251cf8cb47c1c7b40e3a7455dbe96"
+  },
+  {
+    "name": "Red Monster (Little Taylor)",
+    "prompt": "Red Monster (Little Taylor) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/532531.jpg?s=21f2a422be534d59964f9a8c3451a708"
+  },
+  {
+    "name": "Rooster (Mother Holle)",
+    "prompt": "Rooster (Mother Holle) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/532410.jpg?s=435488e77ef03109ef598c00ea89d051"
+  },
+  {
+    "name": "Rosa & Rudolf's Stepmother",
+    "prompt": "Rosa & Rudolf's Stepmother from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/532423.jpg?s=875a25f183400d0046bbec1ead872067"
+  },
+  {
+    "name": "Rudolf",
+    "prompt": "Rudolf from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/532425.jpg?s=08311a976dd3100ee31d04068745546d"
+  },
+  {
+    "name": "Rumpelstiltskin",
+    "prompt": "Rumpelstiltskin from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/532543.jpg?s=94d4e48f342170be3700339145f2eb93"
+  },
+  {
+    "name": "Runner Crab",
+    "prompt": "Runner Crab from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532515.jpg?s=2d2456a5617b11b8897934a0c4b9c33d"
+  },
+  {
+    "name": "Runner Fox",
+    "prompt": "Runner Fox from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/532514.jpg?s=c6a4e17c18218b4480cbc1b917faa0f7"
+  },
+  {
+    "name": "Runner Hare",
+    "prompt": "Runner Hare from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/532516.jpg?s=31fe4baa6808cfe757133d1fd2dce2fd"
+  },
+  {
+    "name": "Sean",
+    "prompt": "Sean from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/532553.jpg?s=67c492f311674f5c8e4a18f96b87b37b"
+  },
+  {
+    "name": "Sean's Father",
+    "prompt": "Sean's Father from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/532550.jpg?s=1fa1067cd04d22bd490b3fc82e3bfd42"
+  },
+  {
+    "name": "Sebastian",
+    "prompt": "Sebastian from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/532385.jpg?s=a5f22b21bd3c10749a21b8005eb990cf"
+  },
+  {
+    "name": "Second General (Little Tailor)",
+    "prompt": "Second General (Little Tailor) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532529.jpg?s=5ada0a6e8189efa4ef30604638be6591"
+  },
+  {
+    "name": "Sick Princess",
+    "prompt": "Sick Princess from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/532554.jpg?s=be05f80b68acb41c9d355c77d653041c"
+  },
+  {
+    "name": "Skillful Brothers' Father",
+    "prompt": "Skillful Brothers' Father from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532431.jpg?s=0a27e2542ba522117b40338bc2e550f6"
+  },
+  {
+    "name": "Soldier (Little Tailor)",
+    "prompt": "Soldier (Little Tailor) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/532527.jpg?s=000ad0f7eafa28ceac791e1f33cee264"
+  },
+  {
+    "name": "Spirit in the Bottle",
+    "prompt": "Spirit in the Bottle from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532434.jpg?s=5cd058acb8ce1bc59f45853777e430ce"
+  },
+  {
+    "name": "Tetra",
+    "prompt": "Tetra from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/532510.jpg?s=11435e1559acc58a08523609e4d5daa3"
+  },
+  {
+    "name": "Unicorn (Little Tailor)",
+    "prompt": "Unicorn (Little Tailor) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/532533.jpg?s=07a69323c3c409dc73da4241a59c2cff"
+  },
+  {
+    "name": "Vassal (Godfather Death)",
+    "prompt": "Vassal (Godfather Death) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/532556.jpg?s=a7969195408267f01a27d83c77982735"
+  },
+  {
+    "name": "Warrior Bee",
+    "prompt": "Warrior Bee from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/532538.jpg?s=a3f938dd82f67d8ebbccda36cd1a3b25"
+  },
+  {
+    "name": "Witch (Crystal Ball)",
+    "prompt": "Witch (Crystal Ball) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/532389.jpg?s=fdbedfac1f658141e85603c69bbcbcc5"
+  },
+  {
+    "name": "Witch (Rapunzel)",
+    "prompt": "Witch (Rapunzel) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/532398.jpg?s=9105cea3a366cf61615a9ebb63be53aa"
+  },
+  {
+    "name": "Witch (Six Swans)",
+    "prompt": "Witch (Six Swans) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532416.jpg?s=9fc3bcaf1b4469a6ccb88562e513b40c"
+  },
+  {
+    "name": "Witch (Wood)",
+    "prompt": "Witch (Wood) from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532403.jpg?s=2d1f7fa973f2a76eb7ec8c10dde462b1"
+  },
+  {
+    "name": "Wren Prince #1",
+    "prompt": "Wren Prince #1 from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/532540.jpg?s=416c2d7192f40eaafd966536ce429b1d"
+  },
+  {
+    "name": "Wren Prince #2",
+    "prompt": "Wren Prince #2 from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532541.jpg?s=1f9ac9570067dfb18182efb4cc0ddabf"
+  },
+  {
+    "name": "Wren Prince #3",
+    "prompt": "Wren Prince #3 from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/532542.jpg?s=7d09588d71346824c54e240fa3db2956"
+  },
+  {
+    "name": "Young Doctor",
+    "prompt": "Young Doctor from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/532558.jpg?s=98cf7c2c01c2d034b20768e96711abec"
+  },
+  {
+    "name": "Young Doctor's Father",
+    "prompt": "Young Doctor's Father from Shin Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/532560.jpg?s=6affd86ae26ba3895e7632bf3cb347e2"
+  }
+]

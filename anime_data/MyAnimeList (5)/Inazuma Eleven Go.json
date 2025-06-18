@@ -1,0 +1,757 @@
+[
+  {
+    "name": "Endou, Mamoru",
+    "prompt": "Endou, Mamoru from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/119336.jpg?s=4ea75c17530a50fdbdc717ec9d57d520"
+  },
+  {
+    "name": "Gouenji, Shuuya",
+    "prompt": "Gouenji, Shuuya from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/131303.jpg?s=21fe5e4c592ddc657747e7ad771339cd"
+  },
+  {
+    "name": "Matsukaze, Tenma",
+    "prompt": "Matsukaze, Tenma from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/121445.jpg?s=b914bd35a0cbc68dace768102d1af454"
+  },
+  {
+    "name": "Nishizono, Shinsuke",
+    "prompt": "Nishizono, Shinsuke from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/164299.jpg?s=faed4f02b4874a8b0c8d48e7d08ae3aa"
+  },
+  {
+    "name": "Shindou, Takuto",
+    "prompt": "Shindou, Takuto from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/137329.jpg?s=2159a7df62a5feb0fe89debbb15af28e"
+  },
+  {
+    "name": "Tsurugi, Kyousuke",
+    "prompt": "Tsurugi, Kyousuke from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/153577.jpg?s=df339697d681664bf1bd4fd89533fb92"
+  },
+  {
+    "name": "Abuyama, Tamotsu",
+    "prompt": "Abuyama, Tamotsu from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/233887.jpg?s=1b785649e03fc7f30782f11ac2d12647"
+  },
+  {
+    "name": "Afuro, Terumi",
+    "prompt": "Afuro, Terumi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/131307.jpg?s=f37b1c5cf70d01659e1ba97aec23c8f3"
+  },
+  {
+    "name": "Aikawa, Masaru",
+    "prompt": "Aikawa, Masaru from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/297409.jpg?s=8107fe5ef99c54ab58256d111d064ba2"
+  },
+  {
+    "name": "Akai, Tonbo",
+    "prompt": "Akai, Tonbo from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/233903.jpg?s=faacdd4037af1a71dcf248a149033731"
+  },
+  {
+    "name": "Akiyama, Himiko",
+    "prompt": "Akiyama, Himiko from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/234139.jpg?s=a231902bb05134431df1218121de8fcf"
+  },
+  {
+    "name": "Amagi, Daichi",
+    "prompt": "Amagi, Daichi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/117351.jpg?s=e092bcdba911403baaf1de116d20652e"
+  },
+  {
+    "name": "Amemiya, Taiyou",
+    "prompt": "Amemiya, Taiyou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/171075.jpg?s=1e18e7af57590a0be4ca6aab7a55a967"
+  },
+  {
+    "name": "Aoyama, Shunsuke",
+    "prompt": "Aoyama, Shunsuke from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/131379.jpg?s=653de6b9540423d744a719c57000ca7c"
+  },
+  {
+    "name": "Asukaji, Sakuya",
+    "prompt": "Asukaji, Sakuya from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/233889.jpg?s=f3a1340d37878ff3cb352247660bd3fe"
+  },
+  {
+    "name": "Autumn, Johnny",
+    "prompt": "Autumn, Johnny from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/233859.jpg?s=97b00907dd164d553d77a87e1851eebc"
+  },
+  {
+    "name": "Endou, Daisuke",
+    "prompt": "Endou, Daisuke from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/84592.jpg?s=afe6a77ea5191ca8dace2c10684b4b6c"
+  },
+  {
+    "name": "Fubuki, Shirou",
+    "prompt": "Fubuki, Shirou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/121645.jpg?s=c5224a493062168c02b7535f25481a53"
+  },
+  {
+    "name": "Fudou, Akio",
+    "prompt": "Fudou, Akio from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/99858.jpg?s=4def5fba2b9c61dc63e0d27e396ff1ff"
+  },
+  {
+    "name": "Fukami, Dandou",
+    "prompt": "Fukami, Dandou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/233875.jpg?s=075f6f7aa6889806e5d88c083eacbd62"
+  },
+  {
+    "name": "Furukabu",
+    "prompt": "Furukabu from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/105716.jpg?s=14efcbaf1d520704d3356e521bc58d32"
+  },
+  {
+    "name": "Fuyukai, Suguru",
+    "prompt": "Fuyukai, Suguru from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/117032.jpg?s=a6eff17f4f62e668b5cdae410cb4f5b7"
+  },
+  {
+    "name": "Godai, Shingo",
+    "prompt": "Godai, Shingo from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Gomaki, Tetsurou",
+    "prompt": "Gomaki, Tetsurou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/234141.jpg?s=562143dbb65b2ead5e4107bfca8dfab3"
+  },
+  {
+    "name": "Gomi, Seiei",
+    "prompt": "Gomi, Seiei from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Gotenba, Tooru",
+    "prompt": "Gotenba, Tooru from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Gotou, Yukai",
+    "prompt": "Gotou, Yukai from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Gouenji, Yuuka",
+    "prompt": "Gouenji, Yuuka from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/99976.jpg?s=a9941c615e07affca4f9fd46ec2a23a7"
+  },
+  {
+    "name": "Gouishi, Senma",
+    "prompt": "Gouishi, Senma from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Guts, Iron",
+    "prompt": "Guts, Iron from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/233799.jpg?s=ecd04475e947007c939a32d8bf8bd676"
+  },
+  {
+    "name": "Hamano, Kaiji",
+    "prompt": "Hamano, Kaiji from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/171065.jpg?s=cde9a86b70326a99618d9ee0364dee45"
+  },
+  {
+    "name": "Handa, Shinichi",
+    "prompt": "Handa, Shinichi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/84686.jpg?s=16973d0455edb6905a4fb429fef0a9cf"
+  },
+  {
+    "name": "Hayabusa, Hideki",
+    "prompt": "Hayabusa, Hideki from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/282715.jpg?s=5b2f09c274f206e6f0e63d48536fddb2"
+  },
+  {
+    "name": "Hayami, Tsurumasa",
+    "prompt": "Hayami, Tsurumasa from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/171063.jpg?s=60ffe639d8f4b559ffa93736bbcb0260"
+  },
+  {
+    "name": "Hibiki, Seigou",
+    "prompt": "Hibiki, Seigou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/92289.jpg?s=194bda40b335621f83b12a17db5f948b"
+  },
+  {
+    "name": "Hinano, Kinsuke",
+    "prompt": "Hinano, Kinsuke from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/171029.jpg?s=d6aa4ff76a27343d404b71baadffbafa"
+  },
+  {
+    "name": "Hirai, Shinzou",
+    "prompt": "Hirai, Shinzou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/205807.jpg?s=1960f319fb815bdc50f1b5388347da8f"
+  },
+  {
+    "name": "Hitofude, Hayato",
+    "prompt": "Hitofude, Hayato from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/233877.jpg?s=a2c833b6732d6a47875131b4d24ed58f"
+  },
+  {
+    "name": "Hitofude, Mother",
+    "prompt": "Hitofude, Mother from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hokugen, Takeyuki",
+    "prompt": "Hokugen, Takeyuki from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/297430.jpg?s=32a040cd219ed8372cf4e9c1f3ab02d8"
+  },
+  {
+    "name": "Horasawa, Shuuji",
+    "prompt": "Horasawa, Shuuji from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/233897.jpg?s=15862eab5cb6a8c552170ecf94efb552"
+  },
+  {
+    "name": "Hoshifuru, Kaguya",
+    "prompt": "Hoshifuru, Kaguya from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/282714.jpg?s=4c9bb4c5803c24a2a224444bcf79f201"
+  },
+  {
+    "name": "Hoshino, Ryuuhei",
+    "prompt": "Hoshino, Ryuuhei from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/230977.jpg?s=07f88c3735456f4b2e852d372cfd65cf"
+  },
+  {
+    "name": "Hyoudou, Tsukasa",
+    "prompt": "Hyoudou, Tsukasa from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/235593.jpg?s=d5b7cf6033c8125240fc043d24752a0e"
+  },
+  {
+    "name": "Hyuuga, Rion",
+    "prompt": "Hyuuga, Rion from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/289101.jpg?s=6195d91a0495fd665bcd9a7ec1644c9e"
+  },
+  {
+    "name": "Ichino, Nanasuke",
+    "prompt": "Ichino, Nanasuke from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/131383.jpg?s=d4d0124878c080fbbe45c93a4f2a0a9d"
+  },
+  {
+    "name": "Ide, Norikazu",
+    "prompt": "Ide, Norikazu from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/297431.jpg?s=6af0608ac691333447dcb92a1d932d86"
+  },
+  {
+    "name": "Ikari, Gouriki",
+    "prompt": "Ikari, Gouriki from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ishikawa , Kanpei",
+    "prompt": "Ishikawa , Kanpei from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/233891.jpg?s=f5f36e6f3918afdeb3eb24507a1e4bff"
+  },
+  {
+    "name": "Isozaki, Kenma",
+    "prompt": "Isozaki, Kenma from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/150195.jpg?s=cc6531c4b739942e8db56e9f730eb070"
+  },
+  {
+    "name": "Itou, Torata",
+    "prompt": "Itou, Torata from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/297432.jpg?s=746c20e3479e2ec17ea197f04e2c5873"
+  },
+  {
+    "name": "Itsuki, Katsumasa",
+    "prompt": "Itsuki, Katsumasa from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/234149.jpg?s=09a0e7b7db62c8c49bbd62d09a63bbc4"
+  },
+  {
+    "name": "Itsumi, Kunihiko",
+    "prompt": "Itsumi, Kunihiko from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/289102.jpg?s=70774ba703b93365dff13bdeb89df4d0"
+  },
+  {
+    "name": "Kabata, Taruhiko",
+    "prompt": "Kabata, Taruhiko from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/233893.jpg?s=e6507dd4607b7754bbf4575c5e7c4375"
+  },
+  {
+    "name": "Kabeyama, Heigorou",
+    "prompt": "Kabeyama, Heigorou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/99766.jpg?s=669f7f68461775d9db0b9c13cd81a24a"
+  },
+  {
+    "name": "Kaedeno, Komichi",
+    "prompt": "Kaedeno, Komichi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/297433.jpg?s=a8a442a21a1f5dcd45294551a9fdc2dc"
+  },
+  {
+    "name": "Kageyama, Hikaru",
+    "prompt": "Kageyama, Hikaru from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/140975.jpg?s=02f047adad47f9e8d6a7075030c220f3"
+  },
+  {
+    "name": "Kakuma, Ayumu",
+    "prompt": "Kakuma, Ayumu from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/117030.jpg?s=4658446060492e16e4aa98e1628de2f4"
+  },
+  {
+    "name": "Kakuma, Oushou",
+    "prompt": "Kakuma, Oushou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/200695.jpg?s=9c65e87d83461694ae041ce0b10abd54"
+  },
+  {
+    "name": "Kakuma, Keita",
+    "prompt": "Kakuma, Keita from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/92647.jpg?s=325d700766fe8b4c16f8a7b1f0ac807c"
+  },
+  {
+    "name": "Kamiyama, Gounoshin",
+    "prompt": "Kamiyama, Gounoshin from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kannari, Atsumori",
+    "prompt": "Kannari, Atsumori from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/234815.jpg?s=0620f062f0a2daf9d5cddbe99525a021"
+  },
+  {
+    "name": "Karibe, Ranko",
+    "prompt": "Karibe, Ranko from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/297434.jpg?s=8e25699e94c78e5c705e7eaac95e43d3"
+  },
+  {
+    "name": "Kariya, Father",
+    "prompt": "Kariya, Father from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kariya, Masaki",
+    "prompt": "Kariya, Masaki from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/155327.jpg?s=ecde15a796c87b968853ac98d6ac4ddf"
+  },
+  {
+    "name": "Katayama, Tsuyoshi",
+    "prompt": "Katayama, Tsuyoshi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/217065.jpg?s=84ea10b82b693f2f5a3818dbc9552975"
+  },
+  {
+    "name": "Kazeaki, Yone",
+    "prompt": "Kazeaki, Yone from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/297435.jpg?s=80ff211e5857075830bd493300efd31c"
+  },
+  {
+    "name": "Kazemaru, Ichirouta",
+    "prompt": "Kazemaru, Ichirouta from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/123067.jpg?s=6d22337a0abf1bbf23c3baeb279f1495"
+  },
+  {
+    "name": "Kida, Mokuren",
+    "prompt": "Kida, Mokuren from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/171027.jpg?s=da23b9da1b532cdf9dd67f7427e58f40"
+  },
+  {
+    "name": "Kidou, Yuuto",
+    "prompt": "Kidou, Yuuto from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/125525.jpg?s=bc80a4455a83e0ea193aa1471d702899"
+  },
+  {
+    "name": "Kino, Aki",
+    "prompt": "Kino, Aki from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/99852.jpg?s=8e2b59b6ee22ce13fb1358c8b1cfd566"
+  },
+  {
+    "name": "Kinzan, Kyouzou",
+    "prompt": "Kinzan, Kyouzou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/117033.jpg?s=e2694487c2f2dd3e1ea29ac39a493b4c"
+  },
+  {
+    "name": "Kira, Hitomiko",
+    "prompt": "Kira, Hitomiko from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/84821.jpg?s=1431dfd696357c4cddd519ab45c7ca11"
+  },
+  {
+    "name": "Kirino, Ranmaru",
+    "prompt": "Kirino, Ranmaru from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/153571.jpg?s=0e6f4485e0b72d0deb4e281f30073b6d"
+  },
+  {
+    "name": "Kishibe, Taiga",
+    "prompt": "Kishibe, Taiga from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/164291.jpg?s=41c30f7c1dcca0b1a23dd5ab2c37dabb"
+  },
+  {
+    "name": "Kita, Ichiban",
+    "prompt": "Kita, Ichiban from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/257725.jpg?s=5726b37fd396b06bba7fc757fa27e9b7"
+  },
+  {
+    "name": "Kitaki, Tsuneo",
+    "prompt": "Kitaki, Tsuneo from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/289340.jpg?s=cc4c90fda9e44485697f89cb64617e97"
+  },
+  {
+    "name": "Kiyama, Hiroto",
+    "prompt": "Kiyama, Hiroto from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/131305.jpg?s=6dab9128148804a2e9eac2b2c3aaf7cf"
+  },
+  {
+    "name": "Kogure, Yuuya",
+    "prompt": "Kogure, Yuuya from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/117061.jpg?s=49a85c01f030821d4f106e78a05cc5e6"
+  },
+  {
+    "name": "Kondou, Keiji",
+    "prompt": "Kondou, Keiji from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/297436.jpg?s=eb3a421f5ab4da6c1b43a6e8c332d22b"
+  },
+  {
+    "name": "Konuma, Waku",
+    "prompt": "Konuma, Waku from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/289103.jpg?s=f08717d54ea18d0fa380e01fc8ec3d58"
+  },
+  {
+    "name": "Koori, Itsuki",
+    "prompt": "Koori, Itsuki from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/234063.jpg?s=470ae2c185478e32b218f9834f0fb806"
+  },
+  {
+    "name": "Kosaka, Motonari",
+    "prompt": "Kosaka, Motonari from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/297437.jpg?s=c5687f66e935c292870e9a8b55708cab"
+  },
+  {
+    "name": "Kotegawa, Sakio",
+    "prompt": "Kotegawa, Sakio from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/234813.jpg?s=2e070fde2eb8d76b16da70e084690791"
+  },
+  {
+    "name": "Kousaka, Yukie",
+    "prompt": "Kousaka, Yukie from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/234269.jpg?s=f47361b07ac4ff5b60b2a5c8f0d9c4e2"
+  },
+  {
+    "name": "Kudou, Fuyuka",
+    "prompt": "Kudou, Fuyuka from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/99801.jpg?s=ee7dcd1e706912c9acd50a41de0b9228"
+  },
+  {
+    "name": "Kudou, Michiya",
+    "prompt": "Kudou, Michiya from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/99860.jpg?s=4ce434b8bf5cf07285a88eb6b5866385"
+  },
+  {
+    "name": "Kumazaki, Denji",
+    "prompt": "Kumazaki, Denji from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/217071.jpg?s=28ed22d4bdebc1e2e16e33e9d9d5fbea"
+  },
+  {
+    "name": "Kurama, Norihito",
+    "prompt": "Kurama, Norihito from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/177799.jpg?s=9727bd7000f2c4a35464c8ed601c07d2"
+  },
+  {
+    "name": "Kuriyama, Hiroshi",
+    "prompt": "Kuriyama, Hiroshi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/297438.jpg?s=b4beb8d78131069988bd44d7546c30f9"
+  },
+  {
+    "name": "Kuroki, Zenzou",
+    "prompt": "Kuroki, Zenzou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/117031.jpg?s=f642438ac74b65d9b101ce16a2d2c421"
+  },
+  {
+    "name": "Kurosaki, Makoto",
+    "prompt": "Kurosaki, Makoto from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/290533.jpg?s=f9072fe7c733fa3f13b5e893eb0aea20"
+  },
+  {
+    "name": "Kurumada, Gouichi",
+    "prompt": "Kurumada, Gouichi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/177801.jpg?s=cf5697a964ce9331f286d41fe86b597b"
+  },
+  {
+    "name": "Mahoro, Tadashi",
+    "prompt": "Mahoro, Tadashi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/234263.jpg?s=531952613f1b78762cc0febe24eb9072"
+  },
+  {
+    "name": "Makari, Ginjirou",
+    "prompt": "Makari, Ginjirou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/289104.jpg?s=92dcd332cb8125385af0ac167706bc62"
+  },
+  {
+    "name": "Masaki, Teiya",
+    "prompt": "Masaki, Teiya from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/297439.jpg?s=8ac05af68c361b1a5f589f303d32dc50"
+  },
+  {
+    "name": "Masamune, Gorou",
+    "prompt": "Masamune, Gorou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/297440.jpg?s=e5c4372670fad0bb2dbfba6c431c5b66"
+  },
+  {
+    "name": "Mashira, Kadoteru",
+    "prompt": "Mashira, Kadoteru from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Megane, Kakeru",
+    "prompt": "Megane, Kakeru from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/84815.jpg?s=17e426b8abd76f7f7b222e4332f2a0ee"
+  },
+  {
+    "name": "Midorikawa, Ryuuji",
+    "prompt": "Midorikawa, Ryuuji from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/121642.jpg?s=f59a6fbf215dc9c38a98eaa029f96193"
+  },
+  {
+    "name": "Mikado, Haruma",
+    "prompt": "Mikado, Haruma from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/137421.jpg?s=3cec323ddf0e11d42c52fd9b2a284508"
+  },
+  {
+    "name": "Minamisawa, Atsushi",
+    "prompt": "Minamisawa, Atsushi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/171077.jpg?s=26920832ed0966e1763d3d26aea17db5"
+  },
+  {
+    "name": "Mito, Shou",
+    "prompt": "Mito, Shou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mitsuyoshi, Yozakura",
+    "prompt": "Mitsuyoshi, Yozakura from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/150017.jpg?s=b443a89f29ee2347ddd40cd471b829ea"
+  },
+  {
+    "name": "Miyabino, Reiichi",
+    "prompt": "Miyabino, Reiichi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/137419.jpg?s=ab971b9e66ae8d815c97b24359bb4fe9"
+  },
+  {
+    "name": "Mizumori, Tatsuya",
+    "prompt": "Mizumori, Tatsuya from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/297428.jpg?s=75258adfeef429cc0e66bce75f034375"
+  },
+  {
+    "name": "Namikawa, Rensuke",
+    "prompt": "Namikawa, Rensuke from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/150197.jpg?s=5f0f6a36e593d8ea670609330c849f72"
+  },
+  {
+    "name": "Narita, Kenya",
+    "prompt": "Narita, Kenya from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/234153.jpg?s=3ae6a8763199f2935a55ecb9df403485"
+  },
+  {
+    "name": "Nishiki, Ryouma",
+    "prompt": "Nishiki, Ryouma from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/177803.jpg?s=f7e23de25e137e3caeec3553b7587706"
+  },
+  {
+    "name": "Nishinosora, Yoichi",
+    "prompt": "Nishinosora, Yoichi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/282710.jpg?s=db0ac8563d85a76d9112f4bfe5a42136"
+  },
+  {
+    "name": "Ooisokawa, Tarou",
+    "prompt": "Ooisokawa, Tarou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/217067.jpg?s=3b652b4b5ea9da59684cb07ee524626e"
+  },
+  {
+    "name": "Ootaki, Tonoo",
+    "prompt": "Ootaki, Tonoo from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/233901.jpg?s=baf18b2688f84aa14865281b2a02ca33"
+  },
+  {
+    "name": "Oshii, Tsuyoshi",
+    "prompt": "Oshii, Tsuyoshi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/234819.jpg?s=c8763e2a539b67cc7c040f0366b9ff71"
+  },
+  {
+    "name": "Otonashi, Haruna",
+    "prompt": "Otonashi, Haruna from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/99990.jpg?s=8ebf77245109f87301faeb72388e299a"
+  },
+  {
+    "name": "Oujika, Kaku",
+    "prompt": "Oujika, Kaku from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/234223.jpg?s=49da690b2b5933f75f8a5c73fdc49348"
+  },
+  {
+    "name": "Raimon, Souichirou",
+    "prompt": "Raimon, Souichirou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/187285.jpg?s=0021fb58920ff443f8607fffa995b606"
+  },
+  {
+    "name": "Raimon, Natsumi",
+    "prompt": "Raimon, Natsumi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/99854.jpg?s=e9aebabe66be7361497446b18d97aafb"
+  },
+  {
+    "name": "Rain, Nijihashi",
+    "prompt": "Rain, Nijihashi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/187381.jpg?s=c67f75832bc53ffc7bdf5bfeecf5f993"
+  },
+  {
+    "name": "Reia, Amase",
+    "prompt": "Reia, Amase from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/386284.jpg?s=96864d6f4d899c45ece0fa1b7ac9fed5"
+  },
+  {
+    "name": "Ryuuzaki, Ouji",
+    "prompt": "Ryuuzaki, Ouji from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/137423.jpg?s=142494b600fe8281c15938dc197056ec"
+  },
+  {
+    "name": "Saginuma, Osamu",
+    "prompt": "Saginuma, Osamu from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/146031.jpg?s=c4241a8ad8975b6ac802db3dcfc33c19"
+  },
+  {
+    "name": "Sakisaka, Satoru",
+    "prompt": "Sakisaka, Satoru from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/289105.jpg?s=e8ac5d4058a4bfe0e5facc722a51f412"
+  },
+  {
+    "name": "Sakuma, Jirou",
+    "prompt": "Sakuma, Jirou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/118357.jpg?s=0c6278f4efb45e1bac8c61eaaefa976a"
+  },
+  {
+    "name": "Sangoku, Taichi",
+    "prompt": "Sangoku, Taichi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/117345.jpg?s=e056d0df340a71c6bc7415ef8011aa47"
+  },
+  {
+    "name": "Sasaki, Iwao",
+    "prompt": "Sasaki, Iwao from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/233895.jpg?s=29fce812bad30ffcd3a48fe7e92b8abb"
+  },
+  {
+    "name": "Sata, Tosamaru",
+    "prompt": "Sata, Tosamaru from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/171025.jpg?s=a4d0a8754963f76f9cc625ca7e0f9a4f"
+  },
+  {
+    "name": "Senguuji, Daigo",
+    "prompt": "Senguuji, Daigo from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/177789.jpg?s=b6f0961f0784e87654bc7e7782d25470"
+  },
+  {
+    "name": "Senguuji, Yamato",
+    "prompt": "Senguuji, Yamato from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/297427.jpg?s=b9171d5e0a4a61baebfc6938ef6f52c5"
+  },
+  {
+    "name": "Seto, Midori",
+    "prompt": "Seto, Midori from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/117027.jpg?s=12081bc7433565e423649f5f36f06070"
+  },
+  {
+    "name": "Shimizu, Ryuuto",
+    "prompt": "Shimizu, Ryuuto from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/297447.jpg?s=16384e331df945c014d8791788b53c94"
+  },
+  {
+    "name": "Shinoyama, Mitsuru",
+    "prompt": "Shinoyama, Mitsuru from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/150943.jpg?s=8ce415c3bc4c452cca4437b8f3ad3500"
+  },
+  {
+    "name": "Shirosaki, Katsuya",
+    "prompt": "Shirosaki, Katsuya from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/217069.jpg?s=559eec2dd37955fb641149723e3dda76"
+  },
+  {
+    "name": "Someoka, Ryuugo",
+    "prompt": "Someoka, Ryuugo from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/118615.jpg?s=a8f046b7f39ab61b454e42833a30d9d6"
+  },
+  {
+    "name": "Sorano, Aoi",
+    "prompt": "Sorano, Aoi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/117028.jpg?s=50d34e29abccaa8f19aac104052c273b"
+  },
+  {
+    "name": "Tachimukai, Yuuki",
+    "prompt": "Tachimukai, Yuuki from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/119423.jpg?s=57ba6972a64bc134249950fdde640b6e"
+  },
+  {
+    "name": "Taki, Yoshihiko",
+    "prompt": "Taki, Yoshihiko from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/153587.jpg?s=5ea35a5ad895e69b3fafa79ffc770527"
+  },
+  {
+    "name": "Taki, Sousuke",
+    "prompt": "Taki, Sousuke from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/153585.jpg?s=5f8056419b3cec45aed706fa36837407"
+  },
+  {
+    "name": "Tobitaka, Seiya",
+    "prompt": "Tobitaka, Seiya from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/99857.jpg?s=7065aa8e27d182f2dec00ac9aa902202"
+  },
+  {
+    "name": "Tominaga, Jun",
+    "prompt": "Tominaga, Jun from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/495452.jpg?s=e1c8abb923d1a1b1d5e28c32cee3ffa5"
+  },
+  {
+    "name": "Toudou, Heikichi",
+    "prompt": "Toudou, Heikichi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/175435.jpg?s=768e87fb7b8cd0b714e540d94daf9918"
+  },
+  {
+    "name": "Touma, Itetsuki",
+    "prompt": "Touma, Itetsuki from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/199843.jpg?s=07c7b3c64386d3d996a0c8bf1ce79491"
+  },
+  {
+    "name": "Toyota , Minoru",
+    "prompt": "Toyota , Minoru from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297441.jpg?s=97f22942ff531bfafaea465a703ae4c1"
+  },
+  {
+    "name": "Tsukimi , Hideho",
+    "prompt": "Tsukimi , Hideho from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297442.jpg?s=e67d96afa49105cb27cd21a6aa266832"
+  },
+  {
+    "name": "Tsurugi, Yuuichi",
+    "prompt": "Tsurugi, Yuuichi from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/175125.jpg?s=ebc42431c2e9c1349f01149d46b67806"
+  },
+  {
+    "name": "Udou, Kai",
+    "prompt": "Udou, Kai from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/297443.jpg?s=aaf96bb40558a0283cac4678c772172d"
+  },
+  {
+    "name": "Urano, Tenshou",
+    "prompt": "Urano, Tenshou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/297444.jpg?s=33c1a2dce8a9de538ebb79db81f5b1f1"
+  },
+  {
+    "name": "Utsunomiya, Toramaru",
+    "prompt": "Utsunomiya, Toramaru from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/99761.jpg?s=ca96d29f10cee4d8446fed71a1e7a452"
+  },
+  {
+    "name": "Yamana, Akane",
+    "prompt": "Yamana, Akane from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/117029.jpg?s=bad83c39eadee578392923b76dcee414"
+  },
+  {
+    "name": "Yamazaki, Kotarou",
+    "prompt": "Yamazaki, Kotarou from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/297445.jpg?s=7bad559827e48c5b34ab87003c375e08"
+  },
+  {
+    "name": "Yorozuya, Yoshichika",
+    "prompt": "Yorozuya, Yoshichika from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/297446.jpg?s=cf59d2c4f7ead865c646da44eed6377a"
+  },
+  {
+    "name": "Yukimura, Hyouga",
+    "prompt": "Yukimura, Hyouga from Inazuma Eleven Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/155331.jpg?s=d69d7968e359646cd9ca9998af5599ba"
+  }
+]

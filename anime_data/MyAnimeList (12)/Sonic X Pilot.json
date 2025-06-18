@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Sonic the Hedgehog",
+    "prompt": "Sonic the Hedgehog from Sonic X Pilot",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/90752.jpg?s=527b5963d6f14f89e612c2713b2e029d"
+  },
+  {
+    "name": "Big the Cat",
+    "prompt": "Big the Cat from Sonic X Pilot",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/90838.jpg?s=4392465fba05351f4f5978e4085e0e7d"
+  },
+  {
+    "name": "Cheese",
+    "prompt": "Cheese from Sonic X Pilot",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/90840.jpg?s=92935378d310165f12e60df54ebc525e"
+  },
+  {
+    "name": "Cream the Rabbit",
+    "prompt": "Cream the Rabbit from Sonic X Pilot",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/46731.jpg?s=ed5398181016a12befa6cf08bff9f2d3"
+  },
+  {
+    "name": "Knuckles the Echidna",
+    "prompt": "Knuckles the Echidna from Sonic X Pilot",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/499715.jpg?s=0c64e4a02d0f523a579ddc5a3343f55b"
+  },
+  {
+    "name": "Prower, Miles",
+    "prompt": "Prower, Miles from Sonic X Pilot",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/46726.jpg?s=12a31ca7543c7140c8e663f01e486da8"
+  },
+  {
+    "name": "Robotnik, Ivo",
+    "prompt": "Robotnik, Ivo from Sonic X Pilot",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/46727.jpg?s=8fbf8d90050775844502a67032fffa6a"
+  },
+  {
+    "name": "Rose, Amy",
+    "prompt": "Rose, Amy from Sonic X Pilot",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/46728.jpg?s=8d461dc74ead66e7203a9c7b06ca35b4"
+  },
+  {
+    "name": "Rouge the Bat",
+    "prompt": "Rouge the Bat from Sonic X Pilot",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/46733.jpg?s=785d8391a8d05a7183631dc3d6360f28"
+  },
+  {
+    "name": "Shadow the Hedgehog",
+    "prompt": "Shadow the Hedgehog from Sonic X Pilot",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/90898.jpg?s=7b9fc4f7524f6a058582bd459d17baca"
+  }
+]

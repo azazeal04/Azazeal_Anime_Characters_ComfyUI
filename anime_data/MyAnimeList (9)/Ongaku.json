@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Asakura",
+    "prompt": "Asakura from Ongaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/387380.jpg?s=e465c923a16275f0630117930bc0b485"
+  },
+  {
+    "name": "Aya",
+    "prompt": "Aya from Ongaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/387377.jpg?s=fabb4f923dbc9313743a6803720ae32d"
+  },
+  {
+    "name": "Kenji",
+    "prompt": "Kenji from Ongaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/387384.jpg?s=e25841f0221769abd6b9984dd956f3b4"
+  },
+  {
+    "name": "Oota",
+    "prompt": "Oota from Ongaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/387382.jpg?s=b28ddb6c792c24c5a151600cca4da584"
+  },
+  {
+    "name": "Morita",
+    "prompt": "Morita from Ongaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/387379.jpg?s=7974648f347a2a80e8f49f206908bf64"
+  },
+  {
+    "name": "Ooba",
+    "prompt": "Ooba from Ongaku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/387378.jpg?s=09734b5f23e0a7735f4c4f62f7ccdebf"
+  }
+]

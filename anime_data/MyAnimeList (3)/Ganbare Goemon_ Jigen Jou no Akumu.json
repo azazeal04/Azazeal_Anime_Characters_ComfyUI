@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Goemon",
+    "prompt": "Goemon from Ganbare Goemon: Jigen Jou no Akumu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/88807.jpg?s=ae10741d3342ba1a80d065a3844f385a"
+  },
+  {
+    "name": "Sasuke",
+    "prompt": "Sasuke from Ganbare Goemon: Jigen Jou no Akumu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/102586.jpg?s=7b84ac5ef8e679d33ced0d65d2943828"
+  },
+  {
+    "name": "Yae",
+    "prompt": "Yae from Ganbare Goemon: Jigen Jou no Akumu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/102585.jpg?s=b0192975053efc43168138ac4307adbc"
+  }
+]

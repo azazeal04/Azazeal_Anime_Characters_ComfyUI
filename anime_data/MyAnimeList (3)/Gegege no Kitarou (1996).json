@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Kitarou",
+    "prompt": "Kitarou from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/386282.jpg?s=af96f8602a831daebffda37169001e08"
+  },
+  {
+    "name": "Medama Oyaji",
+    "prompt": "Medama Oyaji from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/348982.jpg?s=3aba02eee0829c9cf7bc4858a9f060e6"
+  },
+  {
+    "name": "Abura Sumashi",
+    "prompt": "Abura Sumashi from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/386167.jpg?s=763b2330aee2416cdcfe6e8143e5eb98"
+  },
+  {
+    "name": "Akamata",
+    "prompt": "Akamata from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550204.jpg?s=27507dd5905789942033229170a23c87"
+  },
+  {
+    "name": "Akashita",
+    "prompt": "Akashita from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551511.jpg?s=9e61770bc5a8d2f0c43b1a0dd4f36787"
+  },
+  {
+    "name": "Ama-no-Jaku",
+    "prompt": "Ama-no-Jaku from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/402737.jpg?s=845a6808eeab8546601371e6bceb47ef"
+  },
+  {
+    "name": "Amamehagi",
+    "prompt": "Amamehagi from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550180.jpg?s=4bdfd81ad62474ae626ac6e45a553e30"
+  },
+  {
+    "name": "Amefuri-Tengu",
+    "prompt": "Amefuri-Tengu from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/550807.jpg?s=23390dc13cb27e3614bd54769e4520b2"
+  },
+  {
+    "name": "Amefurikozou",
+    "prompt": "Amefurikozou from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/386169.jpg?s=c2071c0b5e965ad70c9f1db92df668f5"
+  },
+  {
+    "name": "Anagura-Nyuudou",
+    "prompt": "Anagura-Nyuudou from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/550290.jpg?s=433de8cae06403cacfcfc0d9c964ed07"
+  },
+  {
+    "name": "Asanbosam",
+    "prompt": "Asanbosam from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/550325.jpg?s=a1f2f09b8166caee46a006d3d1278a6e"
+  },
+  {
+    "name": "Ashinaga",
+    "prompt": "Ashinaga from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/567098.jpg?s=e5dd267291c946fc81ba357fc771faf2"
+  },
+  {
+    "name": "Azuki Arai",
+    "prompt": "Azuki Arai from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/386170.jpg?s=a60a4f53b965327269de3b682584fa47"
+  },
+  {
+    "name": "Azuki Babaa",
+    "prompt": "Azuki Babaa from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/370669.jpg?s=98ae59b5bc868329b8f533073500e054"
+  },
+  {
+    "name": "Azuki Hakari",
+    "prompt": "Azuki Hakari from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/386172.jpg?s=86fe4e7f80cce6e56b574d0f5c8a71a0"
+  },
+  {
+    "name": "Babaa, Sunakake",
+    "prompt": "Babaa, Sunakake from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/348987.jpg?s=f41da1aef03bb9fef97d7f3eccd48022"
+  },
+  {
+    "name": "Backbeard",
+    "prompt": "Backbeard from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/370670.jpg?s=8002efa30f1f9a6367cae8845faea103"
+  },
+  {
+    "name": "Bake-Zouri",
+    "prompt": "Bake-Zouri from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/567268.jpg?s=3817a0b265c496bc8e48d02675a039fa"
+  },
+  {
+    "name": "Belial",
+    "prompt": "Belial from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/386173.jpg?s=5ade8610b2e3d409e20abb6c27c944e9"
+  },
+  {
+    "name": "Buer",
+    "prompt": "Buer from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551544.jpg?s=1f611470d327a0d421ac636bb564c28d"
+  },
+  {
+    "name": "Buru-Buru",
+    "prompt": "Buru-Buru from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/550100.jpg?s=50011cd53552e17a748eb772100a8064"
+  },
+  {
+    "name": "Chinese Tengu",
+    "prompt": "Chinese Tengu from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/550648.jpg?s=9310a655c9cd6115af693e8449534560"
+  },
+  {
+    "name": "Chinpo",
+    "prompt": "Chinpo from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/397767.jpg?s=f01afc6a1e7cdb7df0b71bf66f807072"
+  },
+  {
+    "name": "Dai-Tengu",
+    "prompt": "Dai-Tengu from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/402746.jpg?s=6a0e5bc5d4b14a1f3b1a7b8131e1a266"
+  },
+  {
+    "name": "Daidarabotchi",
+    "prompt": "Daidarabotchi from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/402743.jpg?s=0a12263ef9081cc231aa0c2911d31490"
+  },
+  {
+    "name": "Danzaburou-Danuki",
+    "prompt": "Danzaburou-Danuki from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/550093.jpg?s=309b8396527b8d6ee8c78da815e7e6f2"
+  },
+  {
+    "name": "Daruma",
+    "prompt": "Daruma from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550474.jpg?s=ef9e6f4341f5cfb36696649bf0460537"
+  },
+  {
+    "name": "Dorotabou",
+    "prompt": "Dorotabou from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550640.jpg?s=3b6416aa953f21ccf065f441dbf4fd9f"
+  },
+  {
+    "name": "Dracula",
+    "prompt": "Dracula from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/550044.jpg?s=69dd1806257241d558ebef734241f687"
+  },
+  {
+    "name": "Earth Hoko",
+    "prompt": "Earth Hoko from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/550501.jpg?s=bd3fbc84f499349f22dca1d7c92742fe"
+  },
+  {
+    "name": "Elite",
+    "prompt": "Elite from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/386188.jpg?s=47bc862fe9e97b44b3dd34ac89cca8b8"
+  },
+  {
+    "name": "Fire Hoko",
+    "prompt": "Fire Hoko from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/402747.jpg?s=89c17bb533d092a2fc25a8cbc4d741e0"
+  },
+  {
+    "name": "Frankenstein",
+    "prompt": "Frankenstein from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550355.jpg?s=36ad5161be6d32e43249692a48eb7070"
+  },
+  {
+    "name": "Fukkeshi-Babaa",
+    "prompt": "Fukkeshi-Babaa from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/552394.jpg?s=52d1ebb30fca5aed51ecb5a6a9ecc915"
+  },
+  {
+    "name": "Fukuro-Sage",
+    "prompt": "Fukuro-Sage from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/554018.jpg?s=ad4709df94c009c0979e4b7c37837802"
+  },
+  {
+    "name": "Futakuchi Onna",
+    "prompt": "Futakuchi Onna from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/386174.jpg?s=2af0c51fb0edd6aa5a2bd638d8e10383"
+  },
+  {
+    "name": "Fuujin",
+    "prompt": "Fuujin from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/566969.jpg?s=461fca44ca3f266354be62c80eb6f90a"
+  },
+  {
+    "name": "Gama-Sennin",
+    "prompt": "Gama-Sennin from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/550286.jpg?s=886dd50114419997af3afaad0603113a"
+  },
+  {
+    "name": "Gangi-Kozou",
+    "prompt": "Gangi-Kozou from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/554009.jpg?s=45a6e884996a03a57fda36f7bb7df3c3"
+  },
+  {
+    "name": "Gasha-Dokuro",
+    "prompt": "Gasha-Dokuro from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/566997.jpg?s=f2e2c3b0d3e648fa710b71fff44c9090"
+  },
+  {
+    "name": "Genba Danuki",
+    "prompt": "Genba Danuki from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550089.jpg?s=32e6a70f7ffe369656386d89a12c6da4"
+  },
+  {
+    "name": "Guwagoze",
+    "prompt": "Guwagoze from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/550373.jpg?s=9343d6a47b0d433ce70ebe60f7c9b672"
+  },
+  {
+    "name": "Gyoubu-Danuki",
+    "prompt": "Gyoubu-Danuki from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/397763.jpg?s=3804e200f23107ca7dbe2cbc31d84bc8"
+  },
+  {
+    "name": "Gyuuki",
+    "prompt": "Gyuuki from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/551301.jpg?s=4fbed20faed9154179defb876f9ee5d5"
+  },
+  {
+    "name": "Hakusanbo",
+    "prompt": "Hakusanbo from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/386189.jpg?s=aa957cb756d29782cc6fd80086a2b8b0"
+  },
+  {
+    "name": "Han-Gyojin",
+    "prompt": "Han-Gyojin from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/551286.jpg?s=abbbbc6f5cbf52d1e4fa87bb663dd7d9"
+  },
+  {
+    "name": "Hanada, Hanako",
+    "prompt": "Hanada, Hanako from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/550172.jpg?s=c085b328c2b590894f2b5e413e44616d"
+  },
+  {
+    "name": "Hashimoto, Shoukichi",
+    "prompt": "Hashimoto, Shoukichi from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/550103.jpg?s=caf71217e96a80ec505b88f5008bd6dc"
+  },
+  {
+    "name": "Hashimoto, Hanako",
+    "prompt": "Hashimoto, Hanako from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/550102.jpg?s=88507e7ce734983655cca0527ba71c48"
+  },
+  {
+    "name": "Hata-Onryou",
+    "prompt": "Hata-Onryou from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/567017.jpg?s=220cdc5a7bbd0eae66ba59cb041be193"
+  },
+  {
+    "name": "Hiderigami",
+    "prompt": "Hiderigami from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/397764.jpg?s=04208eec12b64aba98b375c002711af9"
+  },
+  {
+    "name": "Hone-onna",
+    "prompt": "Hone-onna from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/551448.jpg?s=86917e6b7642642d83a99308932387f2"
+  },
+  {
+    "name": "Ido-Sennin",
+    "prompt": "Ido-Sennin from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550646.jpg?s=8280d9fa32a3ba39706593aa0f5e570c"
+  },
+  {
+    "name": "Iso-Onna",
+    "prompt": "Iso-Onna from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/550365.jpg?s=97e0c57e1cd8b6edae702808d59a7dcc"
+  },
+  {
+    "name": "Ittan Momen",
+    "prompt": "Ittan Momen from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/348985.jpg?s=19757529d1e766afc8031dd56c658782"
+  },
+  {
+    "name": "Iwanabouzu",
+    "prompt": "Iwanabouzu from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/566806.jpg?s=b841979b4febccb787fa16a26e63740e"
+  },
+  {
+    "name": "Iyami",
+    "prompt": "Iyami from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/402753.jpg?s=e55cd5cd78012d26635f7eb29aa39f54"
+  },
+  {
+    "name": "Jakotsu-Babaa",
+    "prompt": "Jakotsu-Babaa from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/550061.jpg?s=9af8b7caa814f447e96efc430deefa0a"
+  },
+  {
+    "name": "Jami",
+    "prompt": "Jami from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/550285.jpg?s=8a087aa2701f207d05f7d55b1cd962dc"
+  },
+  {
+    "name": "Kagami-Jijii",
+    "prompt": "Kagami-Jijii from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/550034.jpg?s=0d9ef88a4ba50d794899b735ad650b65"
+  },
+  {
+    "name": "Kage-onna",
+    "prompt": "Kage-onna from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/551553.jpg?s=00c66245a59ac01fa7691667cd9c94fa"
+  },
+  {
+    "name": "Kamaitachi",
+    "prompt": "Kamaitachi from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/549979.jpg?s=0fbb8123648808e09c2ef4b6b7581eda"
+  },
+  {
+    "name": "Kamanari",
+    "prompt": "Kamanari from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/551344.jpg?s=6c4c5965865c9dcf446e21c159d878f5"
+  },
+  {
+    "name": "Kaminari",
+    "prompt": "Kaminari from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/370679.jpg?s=f164a90ef9220d1bb9245bff6b95608a"
+  },
+  {
+    "name": "Kani Bouzu",
+    "prompt": "Kani Bouzu from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/370682.jpg?s=0703220c3693b58626d6464640c6f349"
+  },
+  {
+    "name": "Karakasa",
+    "prompt": "Karakasa from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/370680.jpg?s=c407dc32bfe797c2c608780017b0c036"
+  },
+  {
+    "name": "Karura",
+    "prompt": "Karura from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/386178.jpg?s=c9418c25f08388d95f04a4c71898b100"
+  },
+  {
+    "name": "Kasha",
+    "prompt": "Kasha from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/386192.jpg?s=77853b637bc594ef2af3365f91d92ddd"
+  },
+  {
+    "name": "Kawauso",
+    "prompt": "Kawauso from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/397739.jpg?s=27e0c1089f450721697204330c6eb7ff"
+  },
+  {
+    "name": "Keukegen",
+    "prompt": "Keukegen from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/550360.jpg?s=b9132b30b2ca5ccea53db80b29865c93"
+  },
+  {
+    "name": "Kijimuna",
+    "prompt": "Kijimuna from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/567012.jpg?s=40a0e144a922c092076de01e8882ff86"
+  },
+  {
+    "name": "King Enma",
+    "prompt": "King Enma from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/397748.jpg?s=d0f3081b39040b0cb99b6c8eab363c91"
+  },
+  {
+    "name": "Konaki Jijii",
+    "prompt": "Konaki Jijii from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/348988.jpg?s=25eca03704f290aebe21421bb664bd31"
+  },
+  {
+    "name": "Koumori-Neko",
+    "prompt": "Koumori-Neko from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/550327.jpg?s=7320f10e3fe56b3947d836106b82791c"
+  },
+  {
+    "name": "Kura-Bokko",
+    "prompt": "Kura-Bokko from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/567252.jpg?s=2b49088db952e88b14ea29cef772a5ec"
+  },
+  {
+    "name": "Kuuko",
+    "prompt": "Kuuko from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/567361.jpg?s=c4c0ff029217c131e3556b266c982ee1"
+  },
+  {
+    "name": "Kyuuketsuju",
+    "prompt": "Kyuuketsuju from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/550323.jpg?s=30f55da8bc5a7285124d7f643a653f49"
+  },
+  {
+    "name": "Langsuyar",
+    "prompt": "Langsuyar from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/550322.jpg?s=1d5da379d8969da9f2966a79ff776ac1"
+  },
+  {
+    "name": "Makuragaeshi",
+    "prompt": "Makuragaeshi from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/386180.jpg?s=7e85a19cc2cc5f341364c5497a5b2eb9"
+  },
+  {
+    "name": "Mamezou",
+    "prompt": "Mamezou from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/550563.jpg?s=f7e0300fa58a502349f2f899ef00b740"
+  },
+  {
+    "name": "Maruge",
+    "prompt": "Maruge from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/550647.jpg?s=db3f27d90961bd39c64a3baccd9d29c8"
+  },
+  {
+    "name": "Miage-Nyuudou",
+    "prompt": "Miage-Nyuudou from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/355832.jpg?s=a9b96f1f9bf7260d0dc6f7333b6d2d0c"
+  },
+  {
+    "name": "Mizuki, Shigeru",
+    "prompt": "Mizuki, Shigeru from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/377092.jpg?s=d08ea862ab02c2abbbe31e84e833ed11"
+  },
+  {
+    "name": "Mokumokuren",
+    "prompt": "Mokumokuren from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/551514.jpg?s=577747738f721d372d92ca4f65777ab2"
+  },
+  {
+    "name": "Momon-Jii",
+    "prompt": "Momon-Jii from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/397751.jpg?s=c9a6a2f10208a477f1c351688a6dccb7"
+  },
+  {
+    "name": "Monroe",
+    "prompt": "Monroe from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/551443.jpg?s=566aa3be4842b6b951c072d55b4f3d3e"
+  },
+  {
+    "name": "Mouryou",
+    "prompt": "Mouryou from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/550169.jpg?s=25e7bd4f2c56343392e8f18b75cef36a"
+  },
+  {
+    "name": "Mt. Kurama Karasu-Tengu",
+    "prompt": "Mt. Kurama Karasu-Tengu from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/550167.jpg?s=d5d8b317ce6e714537bd896726272ada"
+  },
+  {
+    "name": "Neko Musume",
+    "prompt": "Neko Musume from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/364808.jpg?s=c8211705f1705bc9c3e90af2be5c40d4"
+  },
+  {
+    "name": "Neko-Sennin",
+    "prompt": "Neko-Sennin from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/397752.jpg?s=40fa35d9b0b39ab9473f2a006ac078bc"
+  },
+  {
+    "name": "Nezumi Otoko",
+    "prompt": "Nezumi Otoko from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/352089.jpg?s=51eecbaee571dda4e0031e0b2248e785"
+  },
+  {
+    "name": "Nobiagari",
+    "prompt": "Nobiagari from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/550076.jpg?s=ba6382b4b9eefbf07d3c69e6beef2b85"
+  },
+  {
+    "name": "Nopperabou",
+    "prompt": "Nopperabou from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/550252.jpg?s=913d43816242fccae2d5c0b3c4e040a9"
+  },
+  {
+    "name": "Nozuchi",
+    "prompt": "Nozuchi from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/550248.jpg?s=5228c1f5b4aff35a165160cec1d20406"
+  },
+  {
+    "name": "Nurarihyon",
+    "prompt": "Nurarihyon from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/397743.jpg?s=74d0b63970021574e047b8ee7047f696"
+  },
+  {
+    "name": "Nurikabe",
+    "prompt": "Nurikabe from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/348986.jpg?s=53d0d63dbdd57bdc139c687240a3a48e"
+  },
+  {
+    "name": "Odoro-Odoro",
+    "prompt": "Odoro-Odoro from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550157.jpg?s=57c79646246ea10fdab611260f5185ff"
+  },
+  {
+    "name": "Onmoraki",
+    "prompt": "Onmoraki from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/397756.jpg?s=6113b0f3c179c714b291b6d0f8c0a35c"
+  },
+  {
+    "name": "Ookubi",
+    "prompt": "Ookubi from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551447.jpg?s=53ac0e1b44320fe744f6e8787c284562"
+  },
+  {
+    "name": "Oomukade",
+    "prompt": "Oomukade from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/567011.jpg?s=af8290e42cad017ed69000201b89cad1"
+  },
+  {
+    "name": "Oritatami-Nyuudou",
+    "prompt": "Oritatami-Nyuudou from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/550198.jpg?s=26cfc70bb2d4184c1f200dd9d0df2d53"
+  },
+  {
+    "name": "Oshiroi-Babaa",
+    "prompt": "Oshiroi-Babaa from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/567276.jpg?s=ae4a605d6c8bff2b8d42e08a85eee20f"
+  },
+  {
+    "name": "Otomi-Danuki",
+    "prompt": "Otomi-Danuki from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/550090.jpg?s=dbc0c5e1c15d9d12d550692ebb8fb357"
+  },
+  {
+    "name": "Penanggalan",
+    "prompt": "Penanggalan from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/550324.jpg?s=431b8d8df4512e343ef81ff2834d1dfd"
+  },
+  {
+    "name": "Pii",
+    "prompt": "Pii from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/551444.jpg?s=33f791aaf0269e10791e8a00952a50fb"
+  },
+  {
+    "name": "Qi",
+    "prompt": "Qi from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/550645.jpg?s=d70388ce07e02ad63e8e9b153287d2ec"
+  },
+  {
+    "name": "Sakabashira",
+    "prompt": "Sakabashira from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/566800.jpg?s=d3440cc5920978b223ac803c3d03b60b"
+  },
+  {
+    "name": "Sanshou",
+    "prompt": "Sanshou from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550650.jpg?s=1c2cc790b2996ef7aa97c07fba4d16db"
+  },
+  {
+    "name": "Sara-Kozou",
+    "prompt": "Sara-Kozou from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/550176.jpg?s=72a6831bd5963a6a51180332c89b9b50"
+  },
+  {
+    "name": "Satori",
+    "prompt": "Satori from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/551548.jpg?s=b001d2bfeb1f7ae734eeab46a33e0f6e"
+  },
+  {
+    "name": "Sazae-Oni",
+    "prompt": "Sazae-Oni from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/402771.jpg?s=1bd95470dc85af3c664b07df74969756"
+  },
+  {
+    "name": "Shinigami",
+    "prompt": "Shinigami from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/551510.jpg?s=b54dfe36638d73be4480349cad875c1e"
+  },
+  {
+    "name": "Shisa",
+    "prompt": "Shisa from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/567010.jpg?s=9666ea3155e3c0601a9b8c887670ea4c"
+  },
+  {
+    "name": "Shu-no-Bon",
+    "prompt": "Shu-no-Bon from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/397744.jpg?s=8655a60ea90c84d150fd7da29574797b"
+  },
+  {
+    "name": "Suiko",
+    "prompt": "Suiko from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/550064.jpg?s=9512569671267726b82a0f627e9e7e9c"
+  },
+  {
+    "name": "Tantanbou",
+    "prompt": "Tantanbou from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/549980.jpg?s=6be576b44473b0f52af1c13983aa59f2"
+  },
+  {
+    "name": "Tenaga",
+    "prompt": "Tenaga from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/567097.jpg?s=d525173f0a529703659c8602301c4cc2"
+  },
+  {
+    "name": "Tenko",
+    "prompt": "Tenko from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/550282.jpg?s=8e9d05233e48a8d2ea8fa3ca83812389"
+  },
+  {
+    "name": "Tofu-Kozo",
+    "prompt": "Tofu-Kozo from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/402775.jpg?s=89f2fcf87b4f1bb36c70b76833e115f3"
+  },
+  {
+    "name": "Tsuchi-Korobi",
+    "prompt": "Tsuchi-Korobi from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/397766.jpg?s=5f41359a6fb7a9dea24ee18ab24cd1da"
+  },
+  {
+    "name": "Ubume",
+    "prompt": "Ubume from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/550270.jpg?s=beaabe6bc438540f035e93b4788b83b9"
+  },
+  {
+    "name": "Umi-Jijii",
+    "prompt": "Umi-Jijii from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550094.jpg?s=b75310d98a84915a009ae39f82ec82ce"
+  },
+  {
+    "name": "Umi-Oshou",
+    "prompt": "Umi-Oshou from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/567066.jpg?s=71f527adf5d1be54876cc27204b33692"
+  },
+  {
+    "name": "Ungaikyou",
+    "prompt": "Ungaikyou from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/550555.jpg?s=fbe6fd7df6f26f2aefdc030fc906faf6"
+  },
+  {
+    "name": "Ushirogami",
+    "prompt": "Ushirogami from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550481.jpg?s=0220084d1584b5a17dbca8e625a5546d"
+  },
+  {
+    "name": "Wanyuudou",
+    "prompt": "Wanyuudou from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/370690.jpg?s=22794d75903152097d2fd3e00c6eabe0"
+  },
+  {
+    "name": "Water Hoko",
+    "prompt": "Water Hoko from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/550505.jpg?s=07ecfb227033cf201300694ff7bc2f67"
+  },
+  {
+    "name": "Wind Hoko",
+    "prompt": "Wind Hoko from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/550509.jpg?s=c04eeaf0a79a5ee4640cd399174f8044"
+  },
+  {
+    "name": "Witch",
+    "prompt": "Witch from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550042.jpg?s=5cf29f2ba1b3448891a5e1fcdae14b56"
+  },
+  {
+    "name": "Wolfman",
+    "prompt": "Wolfman from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550043.jpg?s=70622bc93743d4ff77b0e3b3f29a1d21"
+  },
+  {
+    "name": "Yagyou-san",
+    "prompt": "Yagyou-san from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/567072.jpg?s=2724b7904e7e8e3f2ede09ee227054f3"
+  },
+  {
+    "name": "Yangtze Suiko",
+    "prompt": "Yangtze Suiko from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/550358.jpg?s=e90bd5471c23735cf823f8f093d3362d"
+  },
+  {
+    "name": "Yasha",
+    "prompt": "Yasha from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/549975.jpg?s=43bfbfdf6b0e5e07bea4ab793f4e67e3"
+  },
+  {
+    "name": "Yashi-Otoshi",
+    "prompt": "Yashi-Otoshi from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550205.jpg?s=a1bb193bcfeee8a7207639a5f153d846"
+  },
+  {
+    "name": "Yobuko",
+    "prompt": "Yobuko from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/550164.jpg?s=e9959ee820b87943770f1bed2c326127"
+  },
+  {
+    "name": "Youken",
+    "prompt": "Youken from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/550649.jpg?s=2a9106b15beed222174ce2bf0b757833"
+  },
+  {
+    "name": "Yuki-onna",
+    "prompt": "Yuki-onna from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/550277.jpg?s=50d5038bf4ce2555e749b6923ef75bc0"
+  },
+  {
+    "name": "Yuki-otoko",
+    "prompt": "Yuki-otoko from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/552626.jpg?s=82edddc9279ed25455d4d528b870e006"
+  },
+  {
+    "name": "Yukinko",
+    "prompt": "Yukinko from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/550278.jpg?s=26cfa5ba55b0d5d58ac7e4e166053dbc"
+  },
+  {
+    "name": "Zashiki-warashi",
+    "prompt": "Zashiki-warashi from Gegege no Kitarou (1996)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/550477.jpg?s=dade090e8aff40bfffa41b32d58bcc2f"
+  }
+]

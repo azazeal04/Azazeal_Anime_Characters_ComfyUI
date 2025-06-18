@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Sala",
+    "prompt": "Sala from Salad Land",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/169305.jpg?s=564feccde911e3f4f876896d31031980"
+  },
+  {
+    "name": "Tamacoron",
+    "prompt": "Tamacoron from Salad Land",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/169309.jpg?s=792beaf069120992be604b9730c57daf"
+  },
+  {
+    "name": "Vegimaro",
+    "prompt": "Vegimaro from Salad Land",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/169307.jpg?s=41c372e0ebb1654ec3af030690b3580f"
+  },
+  {
+    "name": "Hatena",
+    "prompt": "Hatena from Salad Land",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/169311.jpg?s=99f808150edf1ab0816bc52c6c843a27"
+  }
+]

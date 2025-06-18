@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Kenzan, Tyranno",
+    "prompt": "Kenzan, Tyranno from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/278001.jpg?s=e61875cc049104a420281f2e5bd1e7ba"
+  },
+  {
+    "name": "Manjoume, Jun",
+    "prompt": "Manjoume, Jun from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/61658.jpg?s=8c4e469e502777bbceacfae1bfcc3f11"
+  },
+  {
+    "name": "Marufuji, Shou",
+    "prompt": "Marufuji, Shou from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/84632.jpg?s=fcad262fba83b10497cb178bc3b23897"
+  },
+  {
+    "name": "Tenjouin, Asuka",
+    "prompt": "Tenjouin, Asuka from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/593307.jpg?s=ea53c1e13563c00e57cddca2cbbaf39f"
+  },
+  {
+    "name": "Yuuki, Juudai",
+    "prompt": "Yuuki, Juudai from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/74028.jpg?s=d4b817ab762bce8280fb3de1ce742a18"
+  },
+  {
+    "name": "Abidos the Third",
+    "prompt": "Abidos the Third from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/173045.jpg?s=eca3f32f823894af17f5291bc63ab0ae"
+  },
+  {
+    "name": "Alice",
+    "prompt": "Alice from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/280077.jpg?s=fe56dc9b8b55e5e18bc5e55b6e343a82"
+  },
+  {
+    "name": "Andersen, Johan",
+    "prompt": "Andersen, Johan from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/459606.jpg?s=15c5f2e467dbc266322b0b0e4e1e8075"
+  },
+  {
+    "name": "Ayukawa, Emi",
+    "prompt": "Ayukawa, Emi from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/109911.jpg?s=e6176840f6258e39984ab9c6d868c3ba"
+  },
+  {
+    "name": "Birdman",
+    "prompt": "Birdman from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/288737.jpg?s=b1b2ec3e6a2fff5c6259fb39c76915f9"
+  },
+  {
+    "name": "Brron",
+    "prompt": "Brron from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/288741.jpg?s=d13497551245f205c585b0269b0d0eb7"
+  },
+  {
+    "name": "Burgundy",
+    "prompt": "Burgundy from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/288742.jpg?s=764f977890ddb30ca7986cacb2aa23c3"
+  },
+  {
+    "name": "Camula",
+    "prompt": "Camula from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/253035.jpg?s=84990f9cbf26c3e9967af289ac1b993f"
+  },
+  {
+    "name": "Chaos Sorcerer",
+    "prompt": "Chaos Sorcerer from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/288902.jpg?s=faf51cb979d45ff735a285e06c3ac81a"
+  },
+  {
+    "name": "Cobra",
+    "prompt": "Cobra from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/284963.jpg?s=3c4f9b55fd1325ee59817cd8faaea4a7"
+  },
+  {
+    "name": "Cook, Jim",
+    "prompt": "Cook, Jim from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/285037.jpg?s=9c92c1905a02ea7aec29f1f099eaa0e4"
+  },
+  {
+    "name": "Crawford, Pegasus J.",
+    "prompt": "Crawford, Pegasus J. from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/109922.jpg?s=ea6bf0195e708eecc5bdb30440619b9c"
+  },
+  {
+    "name": "Daitokuji",
+    "prompt": "Daitokuji from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/173037.jpg?s=8552099b8dff7dd07b62dbcc6081dc63"
+  },
+  {
+    "name": "Dancing Fairy",
+    "prompt": "Dancing Fairy from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/550567.jpg?s=7964f6c17a3725d6cfa919411800d1df"
+  },
+  {
+    "name": "Darkness",
+    "prompt": "Darkness from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/190876.jpg?s=9be03b26843a4c7bc1cd7ff9da7fd25d"
+  },
+  {
+    "name": "DD",
+    "prompt": "DD from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/280648.jpg?s=49033455b00640f050dd92d759cb2428"
+  },
+  {
+    "name": "de Medici, Cronos",
+    "prompt": "de Medici, Cronos from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/109901.jpg?s=209038cfefc63236235df9ea0f7ca5b3"
+  },
+  {
+    "name": "Don Zaloog",
+    "prompt": "Don Zaloog from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/278047.jpg?s=903948be8de16a965a63e4158e5757bf"
+  },
+  {
+    "name": "Echo",
+    "prompt": "Echo from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/288735.jpg?s=1c0dc817828a75fb26e9c50fd6ee1867"
+  },
+  {
+    "name": "Freed",
+    "prompt": "Freed from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/288738.jpg?s=2e7f9081445fd7e339a0b13fe6b71403"
+  },
+  {
+    "name": "Fujiwara, Yuusuke",
+    "prompt": "Fujiwara, Yuusuke from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/109907.jpg?s=3a780f6e0a2150766aa54dea330bba16"
+  },
+  {
+    "name": "Garam, Amon",
+    "prompt": "Garam, Amon from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/109913.jpg?s=71a74c550bd81dd2fd5ba2008d750b6d"
+  },
+  {
+    "name": "Gin, Ryuusei",
+    "prompt": "Gin, Ryuusei from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/238557.jpg?s=c869ed72bd84b4f1afadf1e7383484c6"
+  },
+  {
+    "name": "Goblin Elite Force",
+    "prompt": "Goblin Elite Force from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/550554.jpg?s=6e8a1ca7e7cec9a25711de9cd388c1e5"
+  },
+  {
+    "name": "Goldd",
+    "prompt": "Goldd from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/550559.jpg?s=696b81f447bc682ccc5c3f1fd2cf125b"
+  },
+  {
+    "name": "Gravekeeper's Chief",
+    "prompt": "Gravekeeper's Chief from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/277647.jpg?s=ebc4adb187a035469aa3af38f4099fea"
+  },
+  {
+    "name": "Guardian Baou",
+    "prompt": "Guardian Baou from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/290184.jpg?s=61722c1597852680a306226718128084"
+  },
+  {
+    "name": "Hamaguchi, Momoe",
+    "prompt": "Hamaguchi, Momoe from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/289997.jpg?s=9321b73319f58bf0df7c3e09094bec94"
+  },
+  {
+    "name": "Honest",
+    "prompt": "Honest from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/290186.jpg?s=452fa69ec2dcf0b82f778d6d16a57bf7"
+  },
+  {
+    "name": "Honoomaru",
+    "prompt": "Honoomaru from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/280076.jpg?s=b5baff11691b0b16a6af7db5230149b7"
+  },
+  {
+    "name": "Hunter, Giese",
+    "prompt": "Hunter, Giese from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/288732.jpg?s=972e9ce82c7e1da8911c45af37e1be7f"
+  },
+  {
+    "name": "Ichinose",
+    "prompt": "Ichinose from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/527883.jpg?s=653bd682ee7ff9ba1367fc7f10264b81"
+  },
+  {
+    "name": "Ikazuchimaru",
+    "prompt": "Ikazuchimaru from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/280074.jpg?s=2b61952248db87ae626f27e3720f44d9"
+  },
+  {
+    "name": "Inotsume, Makoto",
+    "prompt": "Inotsume, Makoto from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Iwamaru",
+    "prompt": "Iwamaru from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/280075.jpg?s=ef08b2128a483d1d4432b9ecdc496f2b"
+  },
+  {
+    "name": "Kabayama",
+    "prompt": "Kabayama from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/280071.jpg?s=11313cb9956aa542f681bd99153bc239"
+  },
+  {
+    "name": "Kagemaru",
+    "prompt": "Kagemaru from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/278051.jpg?s=606c09bbe1d261cb5ba790307c2dea41"
+  },
+  {
+    "name": "Kagurazaka",
+    "prompt": "Kagurazaka from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/173343.jpg?s=80e0edab35e9dd3cbb6ce32f9bb1daed"
+  },
+  {
+    "name": "Kaiba, Seto",
+    "prompt": "Kaiba, Seto from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/125445.jpg?s=3fca2462f6c608cfb164b62087d9c645"
+  },
+  {
+    "name": "Kanou, Martin",
+    "prompt": "Kanou, Martin from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/109914.jpg?s=49265c5677dacdd8deeac0a648721335"
+  },
+  {
+    "name": "Kanou, Napoleon",
+    "prompt": "Kanou, Napoleon from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/143547.jpg?s=4119099a78c13e9ed954dd6396562af5"
+  },
+  {
+    "name": "Karen",
+    "prompt": "Karen from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/289621.jpg?s=5ea9a57b6216c38f3069b4ff83f229c6"
+  },
+  {
+    "name": "Kochou, Ran",
+    "prompt": "Kochou, Ran from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/197683.jpg?s=7c675d834c9b0ab9b73752e9b1557b8d"
+  },
+  {
+    "name": "Koorimaru",
+    "prompt": "Koorimaru from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/280073.jpg?s=a634ffc83a692e5bcd4968f43a652fc9"
+  },
+  {
+    "name": "Kozaky",
+    "prompt": "Kozaky from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550564.jpg?s=f4492a2c891ac9782a5e1da953779dc7"
+  },
+  {
+    "name": "Kyuu",
+    "prompt": "Kyuu from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/141343.jpg?s=6de737079311ac996fb47a6342c37f98"
+  },
+  {
+    "name": "Lynd",
+    "prompt": "Lynd from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/280646.jpg?s=988db80a0e6a9302024f57b29fef461a"
+  },
+  {
+    "name": "Mad Dog Inukai",
+    "prompt": "Mad Dog Inukai from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/280069.jpg?s=826b7c68be29fe6a6e361b1286cfe855"
+  },
+  {
+    "name": "Maeda, Kumazou",
+    "prompt": "Maeda, Kumazou from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/276426.jpg?s=7bbe963f23a9b89291661e4ab6aa9f9a"
+  },
+  {
+    "name": "Maeda, Hayato",
+    "prompt": "Maeda, Hayato from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/120447.jpg?s=610ef7d217c221b5313265969499babe"
+  },
+  {
+    "name": "Makurada, Junko",
+    "prompt": "Makurada, Junko from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/289980.jpg?s=8e53545c7c9652cb695605d5e7989881"
+  },
+  {
+    "name": "Mana",
+    "prompt": "Mana from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/298391.jpg?s=1c891b4f67a36f3e994faa9ac7933af9"
+  },
+  {
+    "name": "Manjoume, Shouji",
+    "prompt": "Manjoume, Shouji from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/143539.jpg?s=191186489014c22d5c6a8ca84d274083"
+  },
+  {
+    "name": "Manjoume, Chousaku",
+    "prompt": "Manjoume, Chousaku from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/143537.jpg?s=af8b39b6d5e319a76b9e40512284c5dd"
+  },
+  {
+    "name": "Marufuji, Ryou",
+    "prompt": "Marufuji, Ryou from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/284172.jpg?s=4a2abe8511fe0bcdcfbb6d3a860ed775"
+  },
+  {
+    "name": "Mei",
+    "prompt": "Mei from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/141287.jpg?s=2392845373ce90832eb294d5cef7226f"
+  },
+  {
+    "name": "Meikai no Bannin",
+    "prompt": "Meikai no Bannin from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/550562.jpg?s=d168c81205e4121e70ea095b67c964a6"
+  },
+  {
+    "name": "Misawa, Daichi",
+    "prompt": "Misawa, Daichi from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/109938.jpg?s=2946d71c4d8d761c072a3f18c85db24b"
+  },
+  {
+    "name": "Mitsuo",
+    "prompt": "Mitsuo from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/278000.jpg?s=db06c2575930f22c2bd4faddd6be43dc"
+  },
+  {
+    "name": "Motegi, Mokeo",
+    "prompt": "Motegi, Mokeo from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/276837.jpg?s=857d60ad02f50adeb0e3a9f6013b56f0"
+  },
+  {
+    "name": "Mutou, Yuugi",
+    "prompt": "Mutou, Yuugi from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/61296.jpg?s=eee6e1d0df24e7888866cba15583cc58"
+  },
+  {
+    "name": "Mutou, Sugoroku",
+    "prompt": "Mutou, Sugoroku from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/108434.jpg?s=a75744fce3213e5b6a5eb467f8f5be7e"
+  },
+  {
+    "name": "O'Brien, Austin",
+    "prompt": "O'Brien, Austin from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/120940.jpg?s=184b0560fe2d069b278a07be505047d3"
+  },
+  {
+    "name": "Ojama, Green",
+    "prompt": "Ojama, Green from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/277645.jpg?s=9621e49071caf86c2592e65ee731792a"
+  },
+  {
+    "name": "Ojama, Yellow",
+    "prompt": "Ojama, Yellow from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/277643.jpg?s=aa59168b7815aca267150838797ed871"
+  },
+  {
+    "name": "Ojama, Black",
+    "prompt": "Ojama, Black from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/277646.jpg?s=37ca49fb258b7381d1dd8a6bacd62800"
+  },
+  {
+    "name": "Ojin",
+    "prompt": "Ojin from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/280645.jpg?s=1545d4e87e91c81b411ba74236250fd1"
+  },
+  {
+    "name": "Phoenix, Edo",
+    "prompt": "Phoenix, Edo from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/109915.jpg?s=41f80d18737dbecb57c07b739222e9c0"
+  },
+  {
+    "name": "Princess Rose",
+    "prompt": "Princess Rose from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/275740.jpg?s=5e23d4c6e13587bc421ca8e62dc9bbda"
+  },
+  {
+    "name": "Psycho Shocker",
+    "prompt": "Psycho Shocker from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/276455.jpg?s=807d3c377a8bd6ad88c2ce5d55c76807"
+  },
+  {
+    "name": "Rick",
+    "prompt": "Rick from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/288734.jpg?s=cc41d919c971d48c4bef7035c361f38a"
+  },
+  {
+    "name": "Saiou, Takuma",
+    "prompt": "Saiou, Takuma from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/109902.jpg?s=e8d2561c23d03bacb89b0849f82db23f"
+  },
+  {
+    "name": "Saiou, Mizuchi",
+    "prompt": "Saiou, Mizuchi from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/279879.jpg?s=5815baecc0f185d885863c78a06a898e"
+  },
+  {
+    "name": "Samejima",
+    "prompt": "Samejima from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/276538.jpg?s=e8cd82b1eebe0ce3552a3efb5f17b829"
+  },
+  {
+    "name": "Saotome, Rei",
+    "prompt": "Saotome, Rei from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/276542.jpg?s=5bdb41fb65df2db434141080961df270"
+  },
+  {
+    "name": "Saruyama, Monkey",
+    "prompt": "Saruyama, Monkey from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/280070.jpg?s=204caddb2add6b9ea76f1adb0c0a79f8"
+  },
+  {
+    "name": "Satou, Kouji",
+    "prompt": "Satou, Kouji from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/143545.jpg?s=78dc09cfd5a099edfe018886b9f3664a"
+  },
+  {
+    "name": "Scarr",
+    "prompt": "Scarr from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/288740.jpg?s=6156ef7e7ebb4ec7356f64d61b36997e"
+  },
+  {
+    "name": "Sea God's Priestess",
+    "prompt": "Sea God's Priestess from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/290183.jpg?s=8df6a5bc93ef9422d1270240571c5f6a"
+  },
+  {
+    "name": "Seiko",
+    "prompt": "Seiko from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/577928.jpg?s=e9b6d11a92800380b13c7705988ba114"
+  },
+  {
+    "name": "Sillva",
+    "prompt": "Sillva from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/550560.jpg?s=f113c8df326e4deed48cd2299ceb2d1f"
+  },
+  {
+    "name": "Skilled Black Magician",
+    "prompt": "Skilled Black Magician from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/550556.jpg?s=f0f7c2942bdc72e2cea87a8f3dc02bd7"
+  },
+  {
+    "name": "Skilled White Magician",
+    "prompt": "Skilled White Magician from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/550557.jpg?s=7e67a1ac3bad64819e6a0256e4c41c99"
+  },
+  {
+    "name": "Skull Bishop",
+    "prompt": "Skull Bishop from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/290185.jpg?s=17646a16b127a57322ebac29d906af32"
+  },
+  {
+    "name": "Sorano, Daigo",
+    "prompt": "Sorano, Daigo from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/143543.jpg?s=4e852305341aeb443df0c789c49f5a59"
+  },
+  {
+    "name": "Taizan, Taira",
+    "prompt": "Taizan, Taira from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/276800.jpg?s=e955ca0f7544f1f07429a9580a4de05b"
+  },
+  {
+    "name": "Tania",
+    "prompt": "Tania from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/277648.jpg?s=a1055e05f936fa6bfb59e170a7e19be4"
+  },
+  {
+    "name": "Tenjouin, Fubuki",
+    "prompt": "Tenjouin, Fubuki from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/186911.jpg?s=2a09a4304482580607ce425c60d8823e"
+  },
+  {
+    "name": "Titan",
+    "prompt": "Titan from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/276541.jpg?s=552e13a05f05f545d1d1388f6994b585"
+  },
+  {
+    "name": "Titan The Rock Spirit",
+    "prompt": "Titan The Rock Spirit from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/288736.jpg?s=0383ab86660720367967011166daacc5"
+  },
+  {
+    "name": "Tome",
+    "prompt": "Tome from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/288731.jpg?s=57629bfbef0dac6e016d42368c4088f9"
+  },
+  {
+    "name": "Trueman",
+    "prompt": "Trueman from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/109908.jpg?s=5840229666bcd0cee4e9cb8d06c24ee1"
+  },
+  {
+    "name": "X",
+    "prompt": "X from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/280072.jpg?s=482840c57a8cd72ecfd56a1781e46fd1"
+  },
+  {
+    "name": "Yami Yuugi",
+    "prompt": "Yami Yuugi from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/78304.jpg?s=cd7977ceaec73fe065353b25d53a2cfd"
+  },
+  {
+    "name": "Yubel",
+    "prompt": "Yubel from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/109909.jpg?s=3313c94ddf4143cbfb7c225715c068a3"
+  },
+  {
+    "name": "Zure",
+    "prompt": "Zure from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/288739.jpg?s=e71f172b6f5d2df65d8a282beac3391e"
+  },
+  {
+    "name": "Zweinstein, Albert",
+    "prompt": "Zweinstein, Albert from Yu☆Gi☆Oh! Duel Monsters GX",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/288733.jpg?s=8a48d7f08b49ac5779cb2c907bfe5f4b"
+  }
+]

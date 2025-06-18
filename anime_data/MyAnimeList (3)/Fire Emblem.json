@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Marth",
+    "prompt": "Marth from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/45562.jpg?s=86f54b50aedb672acf4d5cdc3a4d79b4"
+  },
+  {
+    "name": "Sheeda",
+    "prompt": "Sheeda from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/589617.jpg?s=a63e4203f0c8478f3c638d3dfeb57bae"
+  },
+  {
+    "name": "Abel",
+    "prompt": "Abel from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/389384.jpg?s=b8a4190092fbac757f582c79395e7dba"
+  },
+  {
+    "name": "Cornelius",
+    "prompt": "Cornelius from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/507702.jpg?s=f0ab7894dd5720b45daa316ff69781a9"
+  },
+  {
+    "name": "Dohga",
+    "prompt": "Dohga from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/389386.jpg?s=de34be5d76f7cf982d9e2d1e79288959"
+  },
+  {
+    "name": "Elice",
+    "prompt": "Elice from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/414790.jpg?s=978c2064db0c9c31bd44e03e7945c753"
+  },
+  {
+    "name": "Garnef",
+    "prompt": "Garnef from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/589813.jpg?s=59cee914280cde56df392bdd90020c1a"
+  },
+  {
+    "name": "Gordon",
+    "prompt": "Gordon from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/589733.jpg?s=a5d8d45f415d876edbace87e7c0422fe"
+  },
+  {
+    "name": "Haiman",
+    "prompt": "Haiman from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/389387.jpg?s=b1f5c0db61e851656d245926bddffdcc"
+  },
+  {
+    "name": "Jeigan",
+    "prompt": "Jeigan from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/389388.jpg?s=36e1e83d3bfba637d1b4891f3c13fe87"
+  },
+  {
+    "name": "Julian",
+    "prompt": "Julian from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/45568.jpg?s=5ff739f0e263b547646cd910bf907d3e"
+  },
+  {
+    "name": "Kain",
+    "prompt": "Kain from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/389385.jpg?s=f3449609c6ac9142bdde95b099f0b255"
+  },
+  {
+    "name": "Lena",
+    "prompt": "Lena from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/403472.jpg?s=6d9bfd823ebf26934dee77b03a5984ef"
+  },
+  {
+    "name": "Nabarl",
+    "prompt": "Nabarl from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/589821.jpg?s=8041e979aba85c212bad6b7da530021b"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Niena",
+    "prompt": "Niena from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/453714.jpg?s=b0d2a39a91df2588aa90303faa5f2241"
+  },
+  {
+    "name": "Oguma",
+    "prompt": "Oguma from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/589823.jpg?s=d4b2606e03db08e892f2f3973dfbba70"
+  },
+  {
+    "name": "Paola",
+    "prompt": "Paola from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/403101.jpg?s=02c7adba239ef5046773bddf18b0a7ef"
+  },
+  {
+    "name": "Peket",
+    "prompt": "Peket from Fire Emblem",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

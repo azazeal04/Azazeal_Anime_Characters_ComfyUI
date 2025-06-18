@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Little Prince",
+    "prompt": "Little Prince from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/549472.jpg?s=6f9f84fdee3fa41364a0fd1b741dddcf"
+  },
+  {
+    "name": "Adonis",
+    "prompt": "Adonis from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/549522.jpg?s=172a23c570b87a064e25b40cbd61c417"
+  },
+  {
+    "name": "Adonis's Father",
+    "prompt": "Adonis's Father from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/549523.jpg?s=4fdb0c39479fa430aacca8d12f40b0da"
+  },
+  {
+    "name": "Alice",
+    "prompt": "Alice from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/549712.jpg?s=81d743e77af5d04c8271333789a4592c"
+  },
+  {
+    "name": "Anna",
+    "prompt": "Anna from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/549587.jpg?s=cde386fb4066c636f296e84114ccc05b"
+  },
+  {
+    "name": "Anne",
+    "prompt": "Anne from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/549688.jpg?s=f7d1729df8f82abd743c8a88c67e349c"
+  },
+  {
+    "name": "Argo",
+    "prompt": "Argo from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/549691.jpg?s=a0f6839b432518a07ce016d45b14d4c0"
+  },
+  {
+    "name": "Bird",
+    "prompt": "Bird from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/549473.jpg?s=d65a9173e1d50113be05f9bcabeb7772"
+  },
+  {
+    "name": "Borozov",
+    "prompt": "Borozov from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/549693.jpg?s=276431e4aa00fd23a6152e7c77dd74e3"
+  },
+  {
+    "name": "Captain",
+    "prompt": "Captain from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/549525.jpg?s=3273589ad446a0cdce92db6d9faf4ed9"
+  },
+  {
+    "name": "Cerca",
+    "prompt": "Cerca from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/549594.jpg?s=63031f5bc6a561ca05971f760a8819de"
+  },
+  {
+    "name": "Cerca's Mom",
+    "prompt": "Cerca's Mom from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/549595.jpg?s=71bfab0340057a9181b76ba9e8f2c8c6"
+  },
+  {
+    "name": "Charuko",
+    "prompt": "Charuko from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/549502.jpg?s=fd55875f28ce56129060b1bfa4c81b56"
+  },
+  {
+    "name": "Charuko's Father",
+    "prompt": "Charuko's Father from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549503.jpg?s=1dd3232cbe4d590bcd8ed10d33196a11"
+  },
+  {
+    "name": "Charuko's Mother",
+    "prompt": "Charuko's Mother from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/549504.jpg?s=dfdcea472fe0c2dfe5ee24d1ba0b6186"
+  },
+  {
+    "name": "Claude",
+    "prompt": "Claude from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/549596.jpg?s=1e4328268f3bf6dfc9e9e168f931eb23"
+  },
+  {
+    "name": "Cliff",
+    "prompt": "Cliff from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/549588.jpg?s=922ba8ff7a38f8ee09904ebc6c11190d"
+  },
+  {
+    "name": "Cliff's Dad",
+    "prompt": "Cliff's Dad from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/549589.jpg?s=0e7f4ba9a69aa7645990ead83e2c8e3f"
+  },
+  {
+    "name": "Cliff's Mom",
+    "prompt": "Cliff's Mom from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/549590.jpg?s=4f517761b1f9979ba974e4b08f2c8c63"
+  },
+  {
+    "name": "Danbert",
+    "prompt": "Danbert from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/549605.jpg?s=c71179fe9aa14b6cafbfefa91ed9669d"
+  },
+  {
+    "name": "Daniel",
+    "prompt": "Daniel from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/549687.jpg?s=bbf44b450302376b2f62b8907c900b62"
+  },
+  {
+    "name": "Dongo",
+    "prompt": "Dongo from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Dorothy",
+    "prompt": "Dorothy from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/549604.jpg?s=2d493c89ea6674b5a159f77cd82b64f9"
+  },
+  {
+    "name": "Doruru",
+    "prompt": "Doruru from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/549494.jpg?s=ecb9e07681e242340d125563a6b7d255"
+  },
+  {
+    "name": "Earl",
+    "prompt": "Earl from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/549689.jpg?s=68cdf2174585c87a5f65aa3c5c889639"
+  },
+  {
+    "name": "Earl's Wife",
+    "prompt": "Earl's Wife from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/549690.jpg?s=38042c3eec4649862398047e8ae8b1c8"
+  },
+  {
+    "name": "Ed",
+    "prompt": "Ed from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/549708.jpg?s=ee4af5da0097125201ce756b5f04a299"
+  },
+  {
+    "name": "Erin",
+    "prompt": "Erin from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/549481.jpg?s=64cb8d8daa3b5d1f1216f3b60d56cc99"
+  },
+  {
+    "name": "Erin from Orange Village",
+    "prompt": "Erin from Orange Village from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Fox",
+    "prompt": "Fox from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/549521.jpg?s=94867f47c7cd3079dd642718c7a6e875"
+  },
+  {
+    "name": "Frank",
+    "prompt": "Frank from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/549597.jpg?s=484f53fd494497ca52574e5d730da152"
+  },
+  {
+    "name": "Gascar",
+    "prompt": "Gascar from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/549666.jpg?s=22c8a7428cdf462fd2ea0a15720b72c5"
+  },
+  {
+    "name": "Gentleman",
+    "prompt": "Gentleman from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/549606.jpg?s=0e8037bfaa41b712d9b8b14f145134f9"
+  },
+  {
+    "name": "Giuseppe",
+    "prompt": "Giuseppe from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/549517.jpg?s=f1a63237bfb0fc4456913a52473c05c1"
+  },
+  {
+    "name": "Glinka",
+    "prompt": "Glinka from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/549681.jpg?s=336af78c40f2f8fb5f21d8f1a94c9872"
+  },
+  {
+    "name": "Gumpton",
+    "prompt": "Gumpton from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549519.jpg?s=db1d0ed5303e4afb5aefc05ed8219521"
+  },
+  {
+    "name": "Hannah",
+    "prompt": "Hannah from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/549488.jpg?s=64d7d2a890600d85cb61b66b86cdc586"
+  },
+  {
+    "name": "Hector",
+    "prompt": "Hector from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/549593.jpg?s=859baf1dbc67e8cc672ede9c34212519"
+  },
+  {
+    "name": "Helena",
+    "prompt": "Helena from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/549524.jpg?s=1f7ae19c187e21ebe0ca5070ae1a050e"
+  },
+  {
+    "name": "Henry",
+    "prompt": "Henry from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/549489.jpg?s=d071340ee52f22346e223bbfaaac6267"
+  },
+  {
+    "name": "Henry's Father",
+    "prompt": "Henry's Father from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/549491.jpg?s=9da27c2536d6e60a8c72911882a6ddf5"
+  },
+  {
+    "name": "Henry's Mother",
+    "prompt": "Henry's Mother from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/549492.jpg?s=d01fd34d97d588337a1b28dc9c322418"
+  },
+  {
+    "name": "Ilyarch",
+    "prompt": "Ilyarch from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/549680.jpg?s=27df78787597038af42c022d169548a5"
+  },
+  {
+    "name": "Irene",
+    "prompt": "Irene from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/549484.jpg?s=61d889e5d35184fb14d0822a1b44741f"
+  },
+  {
+    "name": "Jean",
+    "prompt": "Jean from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/549599.jpg?s=279db1c46c28fafaf0872369a64b828c"
+  },
+  {
+    "name": "Jim",
+    "prompt": "Jim from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549706.jpg?s=0890c672c6c96072f7675acfc74d065e"
+  },
+  {
+    "name": "Jimmy",
+    "prompt": "Jimmy from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/549584.jpg?s=1dd28d8acc091d8acb26d79334595481"
+  },
+  {
+    "name": "Jimmy's Father",
+    "prompt": "Jimmy's Father from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/549585.jpg?s=4d1322db8b61e4cbbe1a37df55360266"
+  },
+  {
+    "name": "Karen",
+    "prompt": "Karen from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549516.jpg?s=d7229fe4a84f35fd940ab7e79e797e8b"
+  },
+  {
+    "name": "King",
+    "prompt": "King from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549677.jpg?s=933b3d8e949234870a8094da4ea2a7cf"
+  },
+  {
+    "name": "Land",
+    "prompt": "Land from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/549667.jpg?s=5d7aa474b754fcd738d2ee9a1e966560"
+  },
+  {
+    "name": "Lily",
+    "prompt": "Lily from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/549515.jpg?s=2830c34657c75ac9ebd43dcd0f2f0c44"
+  },
+  {
+    "name": "Lotte",
+    "prompt": "Lotte from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/549591.jpg?s=6245a436b500945c74f9ee4a103f1885"
+  },
+  {
+    "name": "Maria",
+    "prompt": "Maria from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/549480.jpg?s=1e5fbed4bed42813134886cbf72a4787"
+  },
+  {
+    "name": "Mary",
+    "prompt": "Mary from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/549582.jpg?s=dbcc2df73bd2ffffeac3919e740ab4cb"
+  },
+  {
+    "name": "Mary's Grandfather",
+    "prompt": "Mary's Grandfather from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/549583.jpg?s=173727133f6820fd601049e8a479bb8b"
+  },
+  {
+    "name": "Mayor",
+    "prompt": "Mayor from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/549520.jpg?s=a1854f4892e7a84981d928e3aa899762"
+  },
+  {
+    "name": "Merlot",
+    "prompt": "Merlot from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/549526.jpg?s=4b4d8751f4db304ae2a99698da031127"
+  },
+  {
+    "name": "Michael",
+    "prompt": "Michael from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/549482.jpg?s=4994ac5f0713a8ab29230f0c2a3af38f"
+  },
+  {
+    "name": "Michael's Grandfather",
+    "prompt": "Michael's Grandfather from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/549483.jpg?s=f8435165c5723504011130d0d0b88689"
+  },
+  {
+    "name": "Michelle",
+    "prompt": "Michelle from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/549603.jpg?s=76a4fd4f128323cfd9581adfe445ab23"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Old Man",
+    "prompt": "Old Man from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/549499.jpg?s=a1a98ef101051f89a35693f85d9e968e"
+  },
+  {
+    "name": "Orange Village Chief",
+    "prompt": "Orange Village Chief from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/549713.jpg?s=284cec3fc9c0663d76222e39055753d2"
+  },
+  {
+    "name": "Osman",
+    "prompt": "Osman from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Pastor",
+    "prompt": "Pastor from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549709.jpg?s=d432321084cf3a2eb031b8d37de4ac06"
+  },
+  {
+    "name": "Pete",
+    "prompt": "Pete from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/549592.jpg?s=31661e2083a356a28506c1fbacc03d51"
+  },
+  {
+    "name": "Peter",
+    "prompt": "Peter from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Pietro",
+    "prompt": "Pietro from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/549528.jpg?s=b1ddae5ec8080a589e40a1a26b2024c7"
+  },
+  {
+    "name": "Pilot",
+    "prompt": "Pilot from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/549475.jpg?s=04eff9d9da8dca0a160013178bac1220"
+  },
+  {
+    "name": "Pitchi",
+    "prompt": "Pitchi from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/549505.jpg?s=ff4c1a07ed6396e02b9b878f85a88d57"
+  },
+  {
+    "name": "Poker",
+    "prompt": "Poker from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549676.jpg?s=bb0a244599805b637924b44c05dd7210"
+  },
+  {
+    "name": "Princess Domino",
+    "prompt": "Princess Domino from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/549678.jpg?s=2f39d344b563b2057fc91477b5a26884"
+  },
+  {
+    "name": "Rick",
+    "prompt": "Rick from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/549613.jpg?s=1c627042224616eb5711502946c34099"
+  },
+  {
+    "name": "Rick's Mother",
+    "prompt": "Rick's Mother from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/549614.jpg?s=ec07ad7d3fbd0f1f797bf2b69cb89337"
+  },
+  {
+    "name": "Ringmaster",
+    "prompt": "Ringmaster from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/549518.jpg?s=0d999dd68d80dcfa363e02d08124fadf"
+  },
+  {
+    "name": "Robert",
+    "prompt": "Robert from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/549703.jpg?s=8684e41fcff2aa1191f6425dff87587f"
+  },
+  {
+    "name": "Rock",
+    "prompt": "Rock from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/549600.jpg?s=95bd58de2aa9ccc86f61e19811b29dfc"
+  },
+  {
+    "name": "Rose",
+    "prompt": "Rose from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/549474.jpg?s=2d22d53c9d88497cedcb8c7fa7ecaff6"
+  },
+  {
+    "name": "Sam",
+    "prompt": "Sam from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549675.jpg?s=b4eb2ff22a89cd597e08699ae9b158ad"
+  },
+  {
+    "name": "Saten",
+    "prompt": "Saten from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/549497.jpg?s=6c5861a0bf6d380937d349f97e93e3e7"
+  },
+  {
+    "name": "Sawab",
+    "prompt": "Sawab from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ship's Captain",
+    "prompt": "Ship's Captain from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/549686.jpg?s=9dd0abb52f49246f5ad8372a0440e264"
+  },
+  {
+    "name": "Simon",
+    "prompt": "Simon from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/549602.jpg?s=6650240b9866f250ecac1613dec1eef5"
+  },
+  {
+    "name": "Snake",
+    "prompt": "Snake from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/549478.jpg?s=bae00a591d6acec451a48d6e46e330eb"
+  },
+  {
+    "name": "The Boss",
+    "prompt": "The Boss from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/549498.jpg?s=f154f52ee26ae634057f1bac3deb099b"
+  },
+  {
+    "name": "Tom",
+    "prompt": "Tom from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/549586.jpg?s=90036b147d5842c09b0bf77c1ae1805a"
+  },
+  {
+    "name": "Uncle Michael",
+    "prompt": "Uncle Michael from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/549611.jpg?s=44f2b0a23b4391bfea5517035c01c141"
+  },
+  {
+    "name": "Vallier",
+    "prompt": "Vallier from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/549490.jpg?s=6012172a4a1b17ca2ded868e863a85ed"
+  },
+  {
+    "name": "Village Chief",
+    "prompt": "Village Chief from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549683.jpg?s=f402aa3bd001948e1c3f087f0177943c"
+  },
+  {
+    "name": "Welton",
+    "prompt": "Welton from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/549710.jpg?s=3c3d90c62f05744a986b9b22b6a236d2"
+  },
+  {
+    "name": "Zenbe",
+    "prompt": "Zenbe from Hoshi no Oujisama Petit Prince",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

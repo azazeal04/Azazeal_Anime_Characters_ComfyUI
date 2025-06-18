@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Suzy's Zoo: Daisuki! Witzy",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Witzy",
+    "prompt": "Witzy from Suzy's Zoo: Daisuki! Witzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/301548.jpg?s=dce981cc6670cc0deed520d98397422e"
+  },
+  {
+    "name": "Boof",
+    "prompt": "Boof from Suzy's Zoo: Daisuki! Witzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/301552.jpg?s=a37d8f6d5b8efb385d7c6950ca83426d"
+  },
+  {
+    "name": "Funt, Ellie",
+    "prompt": "Funt, Ellie from Suzy's Zoo: Daisuki! Witzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/301551.jpg?s=edcf45eb9a5e4e580f94eebff20c5303"
+  },
+  {
+    "name": "Lulla",
+    "prompt": "Lulla from Suzy's Zoo: Daisuki! Witzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/301550.jpg?s=5b99ebeadc515b819fe63b23fb7d6d3f"
+  },
+  {
+    "name": "Patches",
+    "prompt": "Patches from Suzy's Zoo: Daisuki! Witzy",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/301549.jpg?s=1e444ca14c4712807563b952544cfaa4"
+  }
+]

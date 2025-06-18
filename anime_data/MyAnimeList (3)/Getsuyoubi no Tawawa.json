@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Ai-chan",
+    "prompt": "Ai-chan from Getsuyoubi no Tawawa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/454205.jpg?s=af4cb46cbf18c84ed89a2e2390d02bdd"
+  },
+  {
+    "name": "Kouhai-chan",
+    "prompt": "Kouhai-chan from Getsuyoubi no Tawawa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/320931.jpg?s=ecd15e9fdfbdef32f61450ba5da668bd"
+  },
+  {
+    "name": "Oniisan",
+    "prompt": "Oniisan from Getsuyoubi no Tawawa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/320936.jpg?s=7af98c8e954e313ce24448ee05c1b13a"
+  },
+  {
+    "name": "Senpai",
+    "prompt": "Senpai from Getsuyoubi no Tawawa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/362047.jpg?s=03c24343af42ad573c175231980743c3"
+  },
+  {
+    "name": "Kachou",
+    "prompt": "Kachou from Getsuyoubi no Tawawa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/362043.jpg?s=2575c099d9c05c563c8878ea3f935892"
+  },
+  {
+    "name": "Shika Eiseishi-san",
+    "prompt": "Shika Eiseishi-san from Getsuyoubi no Tawawa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/362044.jpg?s=4b280e06ec49119a5c608df942e49366"
+  },
+  {
+    "name": "Tokumori-san",
+    "prompt": "Tokumori-san from Getsuyoubi no Tawawa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/362048.jpg?s=b65f9bf8f1fd78b516bef5e14827f30f"
+  },
+  {
+    "name": "Trainer-san",
+    "prompt": "Trainer-san from Getsuyoubi no Tawawa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/320934.jpg?s=cc095578ab5d631f401c56ec1eade7a5"
+  },
+  {
+    "name": "Volley-bu-chan",
+    "prompt": "Volley-bu-chan from Getsuyoubi no Tawawa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/362050.jpg?s=066f980e399377f9b95e58c54c314ff7"
+  }
+]

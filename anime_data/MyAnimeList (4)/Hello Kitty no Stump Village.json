@@ -1,0 +1,27 @@
+[
+  {
+    "name": "My Melody",
+    "prompt": "My Melody from Hello Kitty no Stump Village",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/284234.jpg?s=c48eeec98ec8d4f8d159f240c34c8d25"
+  },
+  {
+    "name": "Pompompurin",
+    "prompt": "Pompompurin from Hello Kitty no Stump Village",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/558207.jpg?s=1d4e1c9927b51ca7a9b255aaef3ee6e3"
+  },
+  {
+    "name": "White, Kitty",
+    "prompt": "White, Kitty from Hello Kitty no Stump Village",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/130129.jpg?s=7615070a43af94cbb028f563da0a7fc4"
+  },
+  {
+    "name": "Badtz-Maru",
+    "prompt": "Badtz-Maru from Hello Kitty no Stump Village",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/180439.jpg?s=13ea54cbdaf303e39f06429c9fbc08d8"
+  },
+  {
+    "name": "Cinnamoroll",
+    "prompt": "Cinnamoroll from Hello Kitty no Stump Village",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/179623.jpg?s=21fa6f9aaadd086c3f44f6675dd0faa2"
+  }
+]

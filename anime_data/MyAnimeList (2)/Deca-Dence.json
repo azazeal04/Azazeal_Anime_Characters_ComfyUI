@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Kaburagi",
+    "prompt": "Kaburagi from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/408738.jpg?s=4e3e837392bb9ea3e158e48baba47aef"
+  },
+  {
+    "name": "Natsume",
+    "prompt": "Natsume from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/408737.jpg?s=822d1044c87f0dec058dc9e13eaf94ae"
+  },
+  {
+    "name": "Demolition Worker",
+    "prompt": "Demolition Worker from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Donatello",
+    "prompt": "Donatello from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/414134.jpg?s=eaa383a7181482d5f62e7a0dffe77a77"
+  },
+  {
+    "name": "Fei",
+    "prompt": "Fei from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/411383.jpg?s=ab5b6d64cb0c613704bf77c6bda57750"
+  },
+  {
+    "name": "Fennel",
+    "prompt": "Fennel from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/411381.jpg?s=b949a22042c9a1d35d642c8d503fcc83"
+  },
+  {
+    "name": "Hugin",
+    "prompt": "Hugin from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/414136.jpg?s=3bdfad9651974c36bb26ebb565d969bc"
+  },
+  {
+    "name": "Ivan",
+    "prompt": "Ivan from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/414741.jpg?s=f73b3bbb5db2bd1159c3d3cb1f812838"
+  },
+  {
+    "name": "Jill",
+    "prompt": "Jill from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/419490.jpg?s=bc3754354d93532a776d556028f12732"
+  },
+  {
+    "name": "Kurenai",
+    "prompt": "Kurenai from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/411384.jpg?s=e0a5ae1a6401f4fde443d691fd4d3d6e"
+  },
+  {
+    "name": "Linmei",
+    "prompt": "Linmei from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/411382.jpg?s=a6b56732528383efd0f72481ea8b961c"
+  },
+  {
+    "name": "Max",
+    "prompt": "Max from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mechanical",
+    "prompt": "Mechanical from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mendy",
+    "prompt": "Mendy from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/415236.jpg?s=c81325eba51e597d8af4e64e69375211"
+  },
+  {
+    "name": "Mikey",
+    "prompt": "Mikey from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/414139.jpg?s=d4d2e797d486c66c33397f662ade664c"
+  },
+  {
+    "name": "Minato",
+    "prompt": "Minato from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/411385.jpg?s=97d69907d6e44da57c471c79d34599f0"
+  },
+  {
+    "name": "Mindy",
+    "prompt": "Mindy from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/415235.jpg?s=b73d8f61b029c384ff330f56628dacb2"
+  },
+  {
+    "name": "Mundy",
+    "prompt": "Mundy from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/415237.jpg?s=ccdb64c55a9310c70834fc334bf5727e"
+  },
+  {
+    "name": "Munin",
+    "prompt": "Munin from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/415372.jpg?s=302bb451064794b347d5b36bb85277d4"
+  },
+  {
+    "name": "Muro",
+    "prompt": "Muro from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/414739.jpg?s=ef9c5e0e854c927cded547678129a884"
+  },
+  {
+    "name": "Operator A",
+    "prompt": "Operator A from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Operator B",
+    "prompt": "Operator B from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Operator C",
+    "prompt": "Operator C from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ryoku",
+    "prompt": "Ryoku from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sarkozy",
+    "prompt": "Sarkozy from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/446480.jpg?s=316ab93b50b4ff4ca025bcd3cf2aae80"
+  },
+  {
+    "name": "Sou",
+    "prompt": "Sou from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tachito",
+    "prompt": "Tachito from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/414740.jpg?s=c157ae1c42f97f53f2b16e4b2d946db4"
+  },
+  {
+    "name": "Turkey",
+    "prompt": "Turkey from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/414138.jpg?s=acc570a17cb51ec717ffce6e168699c9"
+  },
+  {
+    "name": "Weapon Store Owner",
+    "prompt": "Weapon Store Owner from Deca-Dence",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/414742.jpg?s=378cfca7e528b578fe02dc5abc5910d3"
+  }
+]

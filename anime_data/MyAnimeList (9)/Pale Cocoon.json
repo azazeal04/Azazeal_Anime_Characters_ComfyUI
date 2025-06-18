@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Riko",
+    "prompt": "Riko from Pale Cocoon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/114319.jpg?s=f8acc34ad030de76033bdb3fa00630ad"
+  },
+  {
+    "name": "Ura",
+    "prompt": "Ura from Pale Cocoon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/114128.jpg?s=cc186cc16bfb6df2008d2cf8ee5fc586"
+  },
+  {
+    "name": "Yamaguchi, Yoko",
+    "prompt": "Yamaguchi, Yoko from Pale Cocoon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/60769.jpg?s=a77c8ccbe489842a4a7710745e1d1f68"
+  },
+  {
+    "name": "Coworker",
+    "prompt": "Coworker from Pale Cocoon",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Akagi",
+    "prompt": "Akagi from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/240533.jpg?s=d48c26e5dc93a01bb4beba32b37f68b8"
+  },
+  {
+    "name": "Fubuki",
+    "prompt": "Fubuki from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/276470.jpg?s=976c049f6f915d014bb61fcece307c7d"
+  },
+  {
+    "name": "Kaga",
+    "prompt": "Kaga from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/240535.jpg?s=f28b1d1dac894439fef65cf805e71e7d"
+  },
+  {
+    "name": "Kisaragi",
+    "prompt": "Kisaragi from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/338740.jpg?s=17165794b369b2109123c2a84984f3e9"
+  },
+  {
+    "name": "Mutsuki",
+    "prompt": "Mutsuki from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/262019.jpg?s=1e4bbd2f05713348d2caac6a61c8a1e4"
+  },
+  {
+    "name": "Akashi",
+    "prompt": "Akashi from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/338801.jpg?s=63a62771f866de9fbb7e866d55be57f4"
+  },
+  {
+    "name": "Akatsuki",
+    "prompt": "Akatsuki from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/260403.jpg?s=12805e79cca6270b5cd6d2a5e9974afd"
+  },
+  {
+    "name": "Amatsukaze",
+    "prompt": "Amatsukaze from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/338806.jpg?s=e55b7ab7c2a79e73f4aab36ec43aa9bc"
+  },
+  {
+    "name": "Aoba",
+    "prompt": "Aoba from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/338741.jpg?s=f387677c12e823a51a9df69e8dd434ec"
+  },
+  {
+    "name": "Ashigara",
+    "prompt": "Ashigara from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/491282.jpg?s=a9ac30022b7e41391378c265aaeadf89"
+  },
+  {
+    "name": "Atago",
+    "prompt": "Atago from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/547403.jpg?s=96bce4f5020d7dcb7696abd1f062bcf3"
+  },
+  {
+    "name": "Ayanami",
+    "prompt": "Ayanami from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/338742.jpg?s=9e93bcd561fa31036a096b65c183e986"
+  },
+  {
+    "name": "Chikuma",
+    "prompt": "Chikuma from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/279609.jpg?s=31decaf6651908fef4d37ffbcda58836"
+  },
+  {
+    "name": "Choukai",
+    "prompt": "Choukai from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/338641.jpg?s=673440e275a9c60fb76162af85e6140f"
+  },
+  {
+    "name": "Furutaka",
+    "prompt": "Furutaka from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/338743.jpg?s=e958e461a2afe8e3806c17aac702eb3b"
+  },
+  {
+    "name": "Haguro",
+    "prompt": "Haguro from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/333813.jpg?s=135c412c24bc87e830513936ccea4c8f"
+  },
+  {
+    "name": "Haruna",
+    "prompt": "Haruna from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/276027.jpg?s=c5c3927e86cf2efd525866b80de6a561"
+  },
+  {
+    "name": "Hibiki",
+    "prompt": "Hibiki from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/259363.jpg?s=2f55bfecc261fdd50636ca10d5c96a14"
+  },
+  {
+    "name": "Hiei",
+    "prompt": "Hiei from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/264493.jpg?s=70dfe0bc74edef079435c688938c5854"
+  },
+  {
+    "name": "Hiryuu",
+    "prompt": "Hiryuu from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/338809.jpg?s=ad5d6d16f090e7741a746f1a1c13e1cf"
+  },
+  {
+    "name": "Ikazuchi",
+    "prompt": "Ikazuchi from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/262013.jpg?s=1e85186f02cae384c7b18ae4d5445361"
+  },
+  {
+    "name": "Inazuma",
+    "prompt": "Inazuma from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/262015.jpg?s=29a9e05c095df908fc91e6be4fec3df5"
+  },
+  {
+    "name": "Jintsuu",
+    "prompt": "Jintsuu from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/257479.jpg?s=4fb38007a088f6412e75d32e6b204d09"
+  },
+  {
+    "name": "Kako",
+    "prompt": "Kako from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/338745.jpg?s=5fb45de0ac4444e2168d178c3d590243"
+  },
+  {
+    "name": "Kinugasa",
+    "prompt": "Kinugasa from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/338746.jpg?s=be6552093a721f44705ed15d0da0e01f"
+  },
+  {
+    "name": "Kirishima",
+    "prompt": "Kirishima from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/279603.jpg?s=28b15704e9c6325e4a56cc466e6d2b51"
+  },
+  {
+    "name": "Kitakami",
+    "prompt": "Kitakami from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/264495.jpg?s=fb3f2649a70ae7715d529133119c2cae"
+  },
+  {
+    "name": "Kongou",
+    "prompt": "Kongou from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/255091.jpg?s=3281390e6c5e223551030a9bdff4f0b5"
+  },
+  {
+    "name": "Kumano",
+    "prompt": "Kumano from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/338800.jpg?s=d052c8670c35cd6d59af7614460c45e7"
+  },
+  {
+    "name": "Mamiya",
+    "prompt": "Mamiya from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/338744.jpg?s=b69453cd0a44da0589ba8830896f46b8"
+  },
+  {
+    "name": "Murasame",
+    "prompt": "Murasame from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/338749.jpg?s=36e4ce3a084a5833ea58379c9b2b2ffb"
+  },
+  {
+    "name": "Mutsu",
+    "prompt": "Mutsu from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/259455.jpg?s=9a663336924ac78ec06be6e799248579"
+  },
+  {
+    "name": "Myoukou",
+    "prompt": "Myoukou from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/313621.jpg?s=cb1f324458e89502e1f68ae29155031f"
+  },
+  {
+    "name": "Nachi",
+    "prompt": "Nachi from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/491281.jpg?s=62ed08c9fdfcab81cbe2596e3750734e"
+  },
+  {
+    "name": "Nagato",
+    "prompt": "Nagato from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/338803.jpg?s=410ed691ccd881818ba3bac9945eee08"
+  },
+  {
+    "name": "Naka",
+    "prompt": "Naka from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/257475.jpg?s=25f13ff8575395a9406c7b16f89329db"
+  },
+  {
+    "name": "Ooi",
+    "prompt": "Ooi from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/264497.jpg?s=15a9da9f19e7e4cd0c8b917cebe7a601"
+  },
+  {
+    "name": "Ooyodo",
+    "prompt": "Ooyodo from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/338804.jpg?s=69fd1416b385bb612395200351e1b02b"
+  },
+  {
+    "name": "Ryuujou",
+    "prompt": "Ryuujou from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/338807.jpg?s=99555d4eb96c0aebe4803519db5ed20b"
+  },
+  {
+    "name": "Sendai",
+    "prompt": "Sendai from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/257473.jpg?s=1018217dc7f11706e3d3ebc643b39cac"
+  },
+  {
+    "name": "Shikinami",
+    "prompt": "Shikinami from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/314948.jpg?s=90f132d34953f2cdce769c03aeb7a74a"
+  },
+  {
+    "name": "Shimakaze",
+    "prompt": "Shimakaze from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/255087.jpg?s=565e286043100a86a619a9adc7a69994"
+  },
+  {
+    "name": "Shoukaku",
+    "prompt": "Shoukaku from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/290742.jpg?s=b74727e5387fd2857d362243e30175b0"
+  },
+  {
+    "name": "Souryuu",
+    "prompt": "Souryuu from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/338799.jpg?s=809fc56bf2a98c65d719147a74863ba7"
+  },
+  {
+    "name": "Suzuya",
+    "prompt": "Suzuya from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/313626.jpg?s=c52030cc913e22a57d3a3e8b0eeba85f"
+  },
+  {
+    "name": "Takao",
+    "prompt": "Takao from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/279611.jpg?s=b6c6e720a80f4aa8362ee9724b1d745b"
+  },
+  {
+    "name": "Tatsuta",
+    "prompt": "Tatsuta from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/260393.jpg?s=ce388c1fb40b98efa0b6ae38ab883f98"
+  },
+  {
+    "name": "Tenryuu",
+    "prompt": "Tenryuu from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/366209.jpg?s=db55be1852cf89a6483caf2093e63c0f"
+  },
+  {
+    "name": "Tokitsukaze",
+    "prompt": "Tokitsukaze from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/338805.jpg?s=29f98ae719eb1cc891a940d912c29c51"
+  },
+  {
+    "name": "Tone",
+    "prompt": "Tone from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/277531.jpg?s=41a54a0b5a221a06981cbb262da75bf6"
+  },
+  {
+    "name": "Yamato",
+    "prompt": "Yamato from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/493256.jpg?s=5ed52e869df7fadc87a9ef09df0c1ab8"
+  },
+  {
+    "name": "Yuubari",
+    "prompt": "Yuubari from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/279608.jpg?s=ccac565885e7ba6d36c97704af3a8cd7"
+  },
+  {
+    "name": "Yuudachi",
+    "prompt": "Yuudachi from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/255487.jpg?s=fc64559b82ed01e29dcdfdf09f485110"
+  },
+  {
+    "name": "Zuikaku",
+    "prompt": "Zuikaku from KanColle Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/279614.jpg?s=081480dfb7d3ddbc3e1111d694b6e33f"
+  }
+]

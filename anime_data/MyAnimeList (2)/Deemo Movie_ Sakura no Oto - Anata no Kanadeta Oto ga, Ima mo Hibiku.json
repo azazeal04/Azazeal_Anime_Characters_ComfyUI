@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Alice",
+    "prompt": "Alice from Deemo Movie: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/447457.jpg?s=3cd5d6fa4ff902cb3c23dd31b6ce463e"
+  },
+  {
+    "name": "Deemo",
+    "prompt": "Deemo from Deemo Movie: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/447456.jpg?s=6b22aae241d1c9215110ca4c99df3860"
+  },
+  {
+    "name": "Fragrant Sachet",
+    "prompt": "Fragrant Sachet from Deemo Movie: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/447462.jpg?s=02ddd1cb86e0feda80987cff0c89666d"
+  },
+  {
+    "name": "Hans",
+    "prompt": "Hans from Deemo Movie: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/447458.jpg?s=3be9bb3065ab3051e6bf40c678c2e710"
+  },
+  {
+    "name": "Masked Lady",
+    "prompt": "Masked Lady from Deemo Movie: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/447460.jpg?s=8e3ba1650bf403ed5b78c54f29e0851b"
+  },
+  {
+    "name": "Mirai",
+    "prompt": "Mirai from Deemo Movie: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/447463.jpg?s=63116988e9bd48dfd4a5572d37f7418a"
+  },
+  {
+    "name": "Nutcracker",
+    "prompt": "Nutcracker from Deemo Movie: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/447461.jpg?s=8ea9bbf2352b4ed1a941b7241f8ccb45"
+  },
+  {
+    "name": "Rosalia",
+    "prompt": "Rosalia from Deemo Movie: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/509442.jpg?s=75a2e04bf3e6e3052d28cdde974f4020"
+  },
+  {
+    "name": "Sania",
+    "prompt": "Sania from Deemo Movie: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/447459.jpg?s=ee8a8d830496296ed0ecc63ee27a1abd"
+  }
+]

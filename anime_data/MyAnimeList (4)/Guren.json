@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Haruka",
+    "prompt": "Haruka from Guren",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/136349.jpg?s=ff786f2748de3c7dd52dbccf129faa8a"
+  },
+  {
+    "name": "Kureha",
+    "prompt": "Kureha from Guren",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/136351.jpg?s=6000d932cc37abbe6c678dac894b53de"
+  },
+  {
+    "name": "Rekka",
+    "prompt": "Rekka from Guren",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/136375.jpg?s=e8714cc65eef68075d197a3b34c73490"
+  },
+  {
+    "name": "Tsukikage",
+    "prompt": "Tsukikage from Guren",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/136381.jpg?s=3bcdef838f1817ad4515a0111da21619"
+  },
+  {
+    "name": "Akagane",
+    "prompt": "Akagane from Guren",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/185007.jpg?s=0165d9bbe9c49d9bbb06d3f77bc8881d"
+  },
+  {
+    "name": "Akane",
+    "prompt": "Akane from Guren",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/444939.jpg?s=168c8624ee9191fa24f89bb9bd341065"
+  },
+  {
+    "name": "Ayano",
+    "prompt": "Ayano from Guren",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/444940.jpg?s=c420d330ba222f0953983a4ab472b9b7"
+  },
+  {
+    "name": "Burai",
+    "prompt": "Burai from Guren",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/185013.jpg?s=7bb235c3c2fc7433fc9ac9cafdf850dc"
+  },
+  {
+    "name": "Gennai",
+    "prompt": "Gennai from Guren",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/185017.jpg?s=4087a7a2c48a0e6d85ec8862bdbfab06"
+  }
+]

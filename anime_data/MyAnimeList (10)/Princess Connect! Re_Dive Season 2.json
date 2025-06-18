@@ -1,0 +1,337 @@
+[
+  {
+    "name": "Karyl",
+    "prompt": "Karyl from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/405831.jpg?s=e486ebbe6843956f4a52e9377f7136c9"
+  },
+  {
+    "name": "Kokkoro",
+    "prompt": "Kokkoro from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/406679.jpg?s=0ddd9f7c69444327e526782b27984a55"
+  },
+  {
+    "name": "Pecorine",
+    "prompt": "Pecorine from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/463190.jpg?s=1d744d0dcf29096644ab74eea7a8fb75"
+  },
+  {
+    "name": "Yuuki",
+    "prompt": "Yuuki from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/408973.jpg?s=d5d7929403c2f29f98a73eb0c123e778"
+  },
+  {
+    "name": "Ameth",
+    "prompt": "Ameth from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/409063.jpg?s=4fee3dec843b333e62ed3019b96ed79c"
+  },
+  {
+    "name": "Anna",
+    "prompt": "Anna from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/467665.jpg?s=21d1f711d0840aaaeaaf4dcc34081f6c"
+  },
+  {
+    "name": "Aoi",
+    "prompt": "Aoi from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/409143.jpg?s=0a7d82fa30f9f88e4e44ac3c8b36d628"
+  },
+  {
+    "name": "Ayane",
+    "prompt": "Ayane from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/465031.jpg?s=c6e49fc8a759bed7cc21d0a000b12a7f"
+  },
+  {
+    "name": "Ayumi",
+    "prompt": "Ayumi from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/460994.jpg?s=d330fd1834487763ea5fc3f3b74c8e5a"
+  },
+  {
+    "name": "Charlie",
+    "prompt": "Charlie from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/463191.jpg?s=5b01386c1e1f0b89b54404ac7c4e2f7d"
+  },
+  {
+    "name": "Chieru",
+    "prompt": "Chieru from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/462759.jpg?s=33fe9e8c05b2da64603a529cddddd031"
+  },
+  {
+    "name": "Chika",
+    "prompt": "Chika from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/462182.jpg?s=b6d3a43c8762266dac257a3b65dced80"
+  },
+  {
+    "name": "Chloe",
+    "prompt": "Chloe from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/462758.jpg?s=4e8474969536a1c2c1887aba3d8bf8d5"
+  },
+  {
+    "name": "Christina",
+    "prompt": "Christina from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/409146.jpg?s=00e5886504b5f487b530039e7b262790"
+  },
+  {
+    "name": "Cockatrice's Nest Owner",
+    "prompt": "Cockatrice's Nest Owner from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/440161.jpg?s=2fefdf9cdfacb134a01b8c7e88c70e35"
+  },
+  {
+    "name": "Eriko",
+    "prompt": "Eriko from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/409144.jpg?s=f3789f7cb5c027e26d5f109ac28f7e4b"
+  },
+  {
+    "name": "Hatsune",
+    "prompt": "Hatsune from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/409071.jpg?s=19934103cd5b69d78f06115d3a60c073"
+  },
+  {
+    "name": "Hiroki",
+    "prompt": "Hiroki from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/463461.jpg?s=140058a41ecfa87e85d2113e5ec464eb"
+  },
+  {
+    "name": "Hiyori",
+    "prompt": "Hiyori from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/464399.jpg?s=12f79edfde11bfa4e59bc932ff1365c0"
+  },
+  {
+    "name": "Ikacchi",
+    "prompt": "Ikacchi from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/409160.jpg?s=f0684451591d1643f928499387008905"
+  },
+  {
+    "name": "Illya",
+    "prompt": "Illya from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/438874.jpg?s=54cb94f813ba5878f75f3364f60c85d9"
+  },
+  {
+    "name": "Io",
+    "prompt": "Io from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/465685.jpg?s=d640231b68375ae45274245db3111960"
+  },
+  {
+    "name": "Jun",
+    "prompt": "Jun from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/440044.jpg?s=fdfedc085c973de212871152f00f4c96"
+  },
+  {
+    "name": "Kaiser Insight",
+    "prompt": "Kaiser Insight from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/409145.jpg?s=482e476ee99c2f52e3d5b5948c473676"
+  },
+  {
+    "name": "Kaori",
+    "prompt": "Kaori from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/463450.jpg?s=e2d03017f9ddb526eaa097a64c37ebf1"
+  },
+  {
+    "name": "Karin",
+    "prompt": "Karin from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/409065.jpg?s=b00fe8f8494115cb81244691cc489cef"
+  },
+  {
+    "name": "Kasumi",
+    "prompt": "Kasumi from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/463448.jpg?s=cccb72d052b4924ae138d49fe6aabf1c"
+  },
+  {
+    "name": "Kurumi",
+    "prompt": "Kurumi from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/465032.jpg?s=4079c512799ab016c42daa42ce972a36"
+  },
+  {
+    "name": "Kuuka",
+    "prompt": "Kuuka from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/464687.jpg?s=c26ffe7eab8d2ad9118747e8587f20ac"
+  },
+  {
+    "name": "Kyouka",
+    "prompt": "Kyouka from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/409068.jpg?s=2a0bcfad446656f483b9590f7cac3399"
+  },
+  {
+    "name": "Labyrista",
+    "prompt": "Labyrista from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/409064.jpg?s=8eacf671ff4906e583b4e050a1c1fc78"
+  },
+  {
+    "name": "Lima",
+    "prompt": "Lima from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/409075.jpg?s=0789b9b8ff8810ea0c91959a0f74f36b"
+  },
+  {
+    "name": "Mahiru",
+    "prompt": "Mahiru from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/409076.jpg?s=a537c937e07e620357db4b91be243440"
+  },
+  {
+    "name": "Maho",
+    "prompt": "Maho from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/463447.jpg?s=f60387a25702ec81164ebb3047e8d28a"
+  },
+  {
+    "name": "Makoto",
+    "prompt": "Makoto from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/463449.jpg?s=ae679ed0d3e125b5d0aafae41d32eb1a"
+  },
+  {
+    "name": "Matsuri",
+    "prompt": "Matsuri from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/440079.jpg?s=db14e7e46eebdadc12559dbd2ed1b626"
+  },
+  {
+    "name": "Mimi",
+    "prompt": "Mimi from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/409066.jpg?s=33d7903359dd86b27be919c91e8eddcb"
+  },
+  {
+    "name": "Misaki",
+    "prompt": "Misaki from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/465687.jpg?s=cd9a97503a9fb4296d9db91de17d7c41"
+  },
+  {
+    "name": "Misogi",
+    "prompt": "Misogi from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/409067.jpg?s=b3d34ef7d663f430b0f4447808527763"
+  },
+  {
+    "name": "Mitsuki",
+    "prompt": "Mitsuki from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/409080.jpg?s=79c8044cf941153ab92013b1025ae701"
+  },
+  {
+    "name": "Miyako",
+    "prompt": "Miyako from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/413819.jpg?s=d9ec0d34317145bf9283a11bd09a7f77"
+  },
+  {
+    "name": "Monika",
+    "prompt": "Monika from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/464686.jpg?s=e544a098782b53b28b2b88e6c78d0909"
+  },
+  {
+    "name": "Nanaka",
+    "prompt": "Nanaka from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/409079.jpg?s=eb1e29d1baf151f54bf3c427b38d36cb"
+  },
+  {
+    "name": "Neneka",
+    "prompt": "Neneka from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/440082.jpg?s=83369d6a947c6fe95113e2f2b00cf723"
+  },
+  {
+    "name": "Ninon",
+    "prompt": "Ninon from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/464688.jpg?s=53ec4773b9b431ff139cace6de740974"
+  },
+  {
+    "name": "Nozomi",
+    "prompt": "Nozomi from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/462181.jpg?s=6610e7bff1a85706551414b4d98e3d81"
+  },
+  {
+    "name": "Old Swordsman",
+    "prompt": "Old Swordsman from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/462686.jpg?s=93b969bad42a57f143936fe02b25012c"
+  },
+  {
+    "name": "Rei",
+    "prompt": "Rei from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/464400.jpg?s=c44a7e8aa601fe6537ad237ab1a467d3"
+  },
+  {
+    "name": "Rin",
+    "prompt": "Rin from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/409077.jpg?s=34c9897797017850e4c86ecf0979307f"
+  },
+  {
+    "name": "Rino",
+    "prompt": "Rino from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/413817.jpg?s=e94464ca3c81e38c79d7789931b032ed"
+  },
+  {
+    "name": "Robber",
+    "prompt": "Robber from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/463455.jpg?s=76ee0492464c47a3d6a8be0b09f535ab"
+  },
+  {
+    "name": "Ruka",
+    "prompt": "Ruka from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/583503.jpg?s=95925936c2d5f6e7fd1a37ccfb536c24"
+  },
+  {
+    "name": "Saren",
+    "prompt": "Saren from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/409073.jpg?s=f9796592f8897b77ec14ef0b0c85d126"
+  },
+  {
+    "name": "Shinobu",
+    "prompt": "Shinobu from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/409072.jpg?s=d60266a57c31a144cb5b4314979bfe2e"
+  },
+  {
+    "name": "Shiori",
+    "prompt": "Shiori from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/409078.jpg?s=c75164414a47487e38332bd17d1de2f5"
+  },
+  {
+    "name": "Shizuru",
+    "prompt": "Shizuru from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/413818.jpg?s=557f5d958aba12c8ef0aa48a6ea39940"
+  },
+  {
+    "name": "Suzuna",
+    "prompt": "Suzuna from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/465686.jpg?s=4bdcf35fb9039317aa36fc1b1261efbf"
+  },
+  {
+    "name": "Tamaki",
+    "prompt": "Tamaki from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/440081.jpg?s=9d9d5a8567b5503723f8e4cbedecd908"
+  },
+  {
+    "name": "The Skeleton King",
+    "prompt": "The Skeleton King from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/463142.jpg?s=6da210971b2ae1d00674fdd37e339321"
+  },
+  {
+    "name": "Tome",
+    "prompt": "Tome from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/440162.jpg?s=8d864aa68a5c90b088daa316b28458cf"
+  },
+  {
+    "name": "Tomo",
+    "prompt": "Tomo from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/440045.jpg?s=341b1102273bb72f491f1a45db1ee4c3"
+  },
+  {
+    "name": "Tsumugi",
+    "prompt": "Tsumugi from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/462183.jpg?s=0f9ebe8d35d808a52e57321b8805e9f5"
+  },
+  {
+    "name": "Woman",
+    "prompt": "Woman from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/463456.jpg?s=e7209af5faf0433c74b4c44b948300ce"
+  },
+  {
+    "name": "Yasuko",
+    "prompt": "Yasuko from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/463192.jpg?s=93932e45f41525a0d17eaa5fb9d3fcf6"
+  },
+  {
+    "name": "Yui",
+    "prompt": "Yui from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/464401.jpg?s=fcc833e9f742a22cd3ee3071796f973a"
+  },
+  {
+    "name": "Yuki",
+    "prompt": "Yuki from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/464689.jpg?s=a1206fa744b923cc576de1598bb65ae5"
+  },
+  {
+    "name": "Yuni",
+    "prompt": "Yuni from Princess Connect! Re:Dive Season 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/462757.jpg?s=2aaffe7bd335249cd115a2be06380213"
+  }
+]

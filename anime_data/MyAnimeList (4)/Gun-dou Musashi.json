@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Miyamoto, Musashi",
+    "prompt": "Miyamoto, Musashi from Gun-dou Musashi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/2517.jpg?s=3cb6d2fdec3d28ef20bd7f74c2b9967e"
+  },
+  {
+    "name": "da Vinci, Leonardo",
+    "prompt": "da Vinci, Leonardo from Gun-dou Musashi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/84388.jpg?s=ff8fd74849bc123b482624207e74aa52"
+  },
+  {
+    "name": "Desperado",
+    "prompt": "Desperado from Gun-dou Musashi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/9822.jpg?s=a1d9aa030952f1283c00c055242091d5"
+  },
+  {
+    "name": "Ronin",
+    "prompt": "Ronin from Gun-dou Musashi",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sarutobi, Sasuke",
+    "prompt": "Sarutobi, Sasuke from Gun-dou Musashi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/206317.jpg?s=3a8cab93d4c24da144c95ebc0390551f"
+  },
+  {
+    "name": "Takuan",
+    "prompt": "Takuan from Gun-dou Musashi",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Yasha",
+    "prompt": "Yasha from Gun-dou Musashi",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Yumehime",
+    "prompt": "Yumehime from Gun-dou Musashi",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

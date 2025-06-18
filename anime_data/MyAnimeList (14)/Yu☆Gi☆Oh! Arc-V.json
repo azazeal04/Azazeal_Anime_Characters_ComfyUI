@@ -1,0 +1,417 @@
+[
+  {
+    "name": "Akaba, Reiji",
+    "prompt": "Akaba, Reiji from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/254381.jpg?s=a36253b53f4b205c65b71609423fcfe6"
+  },
+  {
+    "name": "Gongenzaka, Noboru",
+    "prompt": "Gongenzaka, Noboru from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/245641.jpg?s=dd20bf96e0d4f7b693df08d1b1006d8c"
+  },
+  {
+    "name": "Hiiragi, Yuzu",
+    "prompt": "Hiiragi, Yuzu from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/314674.jpg?s=82d197b7e023d3b8b0aab3107bfbdb7d"
+  },
+  {
+    "name": "Sakaki, Yuuya",
+    "prompt": "Sakaki, Yuuya from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/236975.jpg?s=ef0893a13fcb5707ade9276a1ecb3436"
+  },
+  {
+    "name": "Akaba, Himika",
+    "prompt": "Akaba, Himika from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/282081.jpg?s=c9f1d958ed8aa14a7704725dccf111f8"
+  },
+  {
+    "name": "Akaba, Leo",
+    "prompt": "Akaba, Leo from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/284424.jpg?s=edf42d2cef7e577db7c5cad4881300c7"
+  },
+  {
+    "name": "Akaba, Reira",
+    "prompt": "Akaba, Reira from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/283784.jpg?s=fe4100f440527614a20977de6ef0de37"
+  },
+  {
+    "name": "Akaba, Ray",
+    "prompt": "Akaba, Ray from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/317445.jpg?s=4742790ce516d294b1070a70f6549abf"
+  },
+  {
+    "name": "Ankokuji, Gen",
+    "prompt": "Ankokuji, Gen from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/283783.jpg?s=81f20399f775796174dd062b69ecfbb0"
+  },
+  {
+    "name": "Apollo",
+    "prompt": "Apollo from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/316337.jpg?s=1a6d0ad13ccb6844a609921059ce6dac"
+  },
+  {
+    "name": "Atlas, Jack",
+    "prompt": "Atlas, Jack from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/74180.jpg?s=fbe2a37eb7aa6caf1624c5ffa4b47ecd"
+  },
+  {
+    "name": "Ayukawa, Ayu",
+    "prompt": "Ayukawa, Ayu from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/281641.jpg?s=7266235bfa5bf65ed291ed54ecafb578"
+  },
+  {
+    "name": "Azul",
+    "prompt": "Azul from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/293462.jpg?s=f61a1c42e175ae6217c864a1f216c1d1"
+  },
+  {
+    "name": "Barrett",
+    "prompt": "Barrett from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/293829.jpg?s=516840b88c7d3ec1e315d6e11ab976a0"
+  },
+  {
+    "name": "Battle Beast",
+    "prompt": "Battle Beast from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/316034.jpg?s=f387d455ccd198c9503c2bc317883ec0"
+  },
+  {
+    "name": "Bernie",
+    "prompt": "Bernie from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/317444.jpg?s=d59d91e8f8813822ae8eb2d312625a75"
+  },
+  {
+    "name": "Bordeaux",
+    "prompt": "Bordeaux from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/293460.jpg?s=9c2e6f163406f4311262943f4363f367"
+  },
+  {
+    "name": "Captain Solo",
+    "prompt": "Captain Solo from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/316136.jpg?s=a753dc6e3609bceb230c3c8b385c9a78"
+  },
+  {
+    "name": "Claire, Melissa",
+    "prompt": "Claire, Melissa from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/283785.jpg?s=eaf54829d03c90c086494c8feeeffbce"
+  },
+  {
+    "name": "Diana",
+    "prompt": "Diana from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/316336.jpg?s=076d8029e67bc6e42ed1aef63309fcdf"
+  },
+  {
+    "name": "Doctor",
+    "prompt": "Doctor from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/319822.jpg?s=b5973d62510be30d478a90f8bec77bb5"
+  },
+  {
+    "name": "Duel Chaser 227",
+    "prompt": "Duel Chaser 227 from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/305277.jpg?s=c94195969a9a25c2e114228f4774af20"
+  },
+  {
+    "name": "Emma",
+    "prompt": "Emma from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/317441.jpg?s=59b3d6e03437d389c380fc877fdce5ef"
+  },
+  {
+    "name": "Enjou, Mukuro",
+    "prompt": "Enjou, Mukuro from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/229041.jpg?s=59c754ce5ab5b7e80e3a481b418c0acf"
+  },
+  {
+    "name": "Ethan",
+    "prompt": "Ethan from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/317439.jpg?s=851520ead3240d914d963fd313b70531"
+  },
+  {
+    "name": "Gael",
+    "prompt": "Gael from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/293459.jpg?s=df3789bb5d96f114fc87bb0957aaf56c"
+  },
+  {
+    "name": "Gallager",
+    "prompt": "Gallager from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/293458.jpg?s=97e4f1deb7c424db14d166afabed8c3b"
+  },
+  {
+    "name": "Gray",
+    "prompt": "Gray from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/293461.jpg?s=08340e90a50ff24b9374f16b4ffc5096"
+  },
+  {
+    "name": "Halil",
+    "prompt": "Halil from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/284425.jpg?s=9b514aeb6702ede45bc87490b1dd5845"
+  },
+  {
+    "name": "Harada, Futoshi",
+    "prompt": "Harada, Futoshi from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/281634.jpg?s=fb26318d3bbc56e616ee164e69dff9b2"
+  },
+  {
+    "name": "Hayano, Tenpei",
+    "prompt": "Hayano, Tenpei from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/524803.jpg?s=67ee10876539c2a4a0294a3439f202f7"
+  },
+  {
+    "name": "Hiiragi, Shuuzou",
+    "prompt": "Hiiragi, Shuuzou from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/245625.jpg?s=a3e712d428e6b45bbad5aadead6446b2"
+  },
+  {
+    "name": "Hikage",
+    "prompt": "Hikage from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/284515.jpg?s=2507b7f73efede1a6ac78ca0ba31ef76"
+  },
+  {
+    "name": "Hogan, Crow",
+    "prompt": "Hogan, Crow from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/293502.jpg?s=1edb890fbbad8f73a859e247f0ff79e0"
+  },
+  {
+    "name": "Houchun, Mieru",
+    "prompt": "Houchun, Mieru from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/283378.jpg?s=9afb0ecc0f7b5ba78f107c5f56f587e7"
+  },
+  {
+    "name": "Ishijima, Strong",
+    "prompt": "Ishijima, Strong from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/245639.jpg?s=f7bda15aadf91a4544015b6f28b68a80"
+  },
+  {
+    "name": "Jacob",
+    "prompt": "Jacob from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/317442.jpg?s=b77d449b8d201f636826e79f97b7cd2f"
+  },
+  {
+    "name": "Kachidoki, Isao",
+    "prompt": "Kachidoki, Isao from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/284354.jpg?s=e6a40f440ccccc0b3e9c3b4ef694172b"
+  },
+  {
+    "name": "Koutsu, Masumi",
+    "prompt": "Koutsu, Masumi from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/283788.jpg?s=916b6bf5094087fd96e5c7c355b719a5"
+  },
+  {
+    "name": "Kouzuki, Allen",
+    "prompt": "Kouzuki, Allen from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/305279.jpg?s=6b453e7d249ee6b13344b37340d14b4f"
+  },
+  {
+    "name": "Kurosaki, Shun",
+    "prompt": "Kurosaki, Shun from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/283786.jpg?s=65ca9364f76ca3a563ab7ff72de22f77"
+  },
+  {
+    "name": "Kurosaki, Ruri",
+    "prompt": "Kurosaki, Ruri from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/309496.jpg?s=08fdbac1582cd21ec8b7bb4787e3a8ec"
+  },
+  {
+    "name": "Kyuuandou, Eita",
+    "prompt": "Kyuuandou, Eita from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/283370.jpg?s=5c574308ffa458826bcd7d602ef4885b"
+  },
+  {
+    "name": "Macfield, Dennis",
+    "prompt": "Macfield, Dennis from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/284524.jpg?s=964d46411feeee14bfbb2ca8e0323769"
+  },
+  {
+    "name": "Mokota, Michio",
+    "prompt": "Mokota, Michio from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/283363.jpg?s=d75cb43c1ee1628444771216968abc9c"
+  },
+  {
+    "name": "Mr. Ayukawa",
+    "prompt": "Mr. Ayukawa from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/317437.jpg?s=220060662cab893eecdabc51e66be01e"
+  },
+  {
+    "name": "Nakajima",
+    "prompt": "Nakajima from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/282079.jpg?s=0e81123929a362b12943e665b6127382"
+  },
+  {
+    "name": "Olga",
+    "prompt": "Olga from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/284410.jpg?s=9fbb3da959090a9bb798ff290fa330d9"
+  },
+  {
+    "name": "Ootomo",
+    "prompt": "Ootomo from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/317440.jpg?s=4b6671ff2f1b4831ae17ab75a027cbbd"
+  },
+  {
+    "name": "Phoenix, Edo",
+    "prompt": "Phoenix, Edo from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/109915.jpg?s=41f80d18737dbecb57c07b739222e9c0"
+  },
+  {
+    "name": "Reporter",
+    "prompt": "Reporter from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/316449.jpg?s=2e4c8911c835e2a5bac96588fefd1f0e"
+  },
+  {
+    "name": "Rin",
+    "prompt": "Rin from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/296525.jpg?s=676c92bbee3cd7dc02fe262bc292e0be"
+  },
+  {
+    "name": "Roget, Jean-Michel",
+    "prompt": "Roget, Jean-Michel from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/293720.jpg?s=71e4e77869b4f2aefe98136bcd6d02a7"
+  },
+  {
+    "name": "Sakaki, Yuushou",
+    "prompt": "Sakaki, Yuushou from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/245629.jpg?s=cc38210f45faedd84cad755eea54d395"
+  },
+  {
+    "name": "Sakaki, Youko",
+    "prompt": "Sakaki, Youko from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/245627.jpg?s=c263048875991470def5716c71503fd6"
+  },
+  {
+    "name": "Sam",
+    "prompt": "Sam from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/305275.jpg?s=d04cc6c15f903753cd1e67df181c691a"
+  },
+  {
+    "name": "Sanders",
+    "prompt": "Sanders from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/316135.jpg?s=a3c38713c31f4cafcdf56ed83fe7d620"
+  },
+  {
+    "name": "Sasayama, Sayaka",
+    "prompt": "Sasayama, Sayaka from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/305278.jpg?s=e1a72c30d77d32ed1e2f0ef535734e3a"
+  },
+  {
+    "name": "Sawatari, Shingo",
+    "prompt": "Sawatari, Shingo from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/245635.jpg?s=ff1f0c3ecfad4bf797c168f7a8f18141"
+  },
+  {
+    "name": "Sawatari's Father",
+    "prompt": "Sawatari's Father from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/282080.jpg?s=add40ec04eeafcee02f79946bc55c6ac"
+  },
+  {
+    "name": "Serena",
+    "prompt": "Serena from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/307273.jpg?s=cef705ea6ffc148b17f0452980ed423b"
+  },
+  {
+    "name": "Shijima, Hokuto",
+    "prompt": "Shijima, Hokuto from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/282084.jpg?s=148575f488908b53c15190092ea2cff5"
+  },
+  {
+    "name": "Shiun'in, Sora",
+    "prompt": "Shiun'in, Sora from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/283377.jpg?s=98e47fd7cbaeb3e223d3190a2d782400"
+  },
+  {
+    "name": "Smiley, Nico",
+    "prompt": "Smiley, Nico from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/281636.jpg?s=1b746c26a68c1b3854dbf3c0046307f2"
+  },
+  {
+    "name": "Tairyobata, Teppei",
+    "prompt": "Tairyobata, Teppei from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/284517.jpg?s=bc7007fe7b1b81a8017d378ce7397a0c"
+  },
+  {
+    "name": "Taki, White",
+    "prompt": "Taki, White from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/293463.jpg?s=4011da76130c05cc84ddc971eea10fca"
+  },
+  {
+    "name": "Tanegashima, Yuuzoo",
+    "prompt": "Tanegashima, Yuuzoo from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/317438.jpg?s=57c4b314362634c28b379dabf01d0988"
+  },
+  {
+    "name": "Ted",
+    "prompt": "Ted from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/317443.jpg?s=c912dc70ff8fef6b0f9355ef88c51613"
+  },
+  {
+    "name": "Tenjou, Kaito",
+    "prompt": "Tenjou, Kaito from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/314675.jpg?s=d159ce4b5a5145af189bfcc17c463cc4"
+  },
+  {
+    "name": "Tenjouin, Asuka",
+    "prompt": "Tenjouin, Asuka from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/593307.jpg?s=ea53c1e13563c00e57cddca2cbbaf39f"
+  },
+  {
+    "name": "Tokumatsu, Choujirou",
+    "prompt": "Tokumatsu, Choujirou from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/293501.jpg?s=2d4ade5bb316164ebc694e1312517892"
+  },
+  {
+    "name": "Toudou, Yaiba",
+    "prompt": "Toudou, Yaiba from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/282085.jpg?s=918e1730bba4614c33e370a5326db6a5"
+  },
+  {
+    "name": "Tsukikage",
+    "prompt": "Tsukikage from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/284516.jpg?s=52f83f5c2413305205331f6659efe190"
+  },
+  {
+    "name": "Tyler, Gloria",
+    "prompt": "Tyler, Gloria from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/309641.jpg?s=fb3685a5b2576604d68d2b1b28a6be61"
+  },
+  {
+    "name": "Tyler, Grace",
+    "prompt": "Tyler, Grace from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/309640.jpg?s=e8ff9ebb567677e7e72074fefe63884d"
+  },
+  {
+    "name": "Volkov, Sergey",
+    "prompt": "Volkov, Sergey from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/305276.jpg?s=37d520e4b00e910555e62de98340f71d"
+  },
+  {
+    "name": "Weber, Shinji",
+    "prompt": "Weber, Shinji from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/293721.jpg?s=c3af97f7cd176415d27ecb23d716882a"
+  },
+  {
+    "name": "Yamashiro, Tatsuya",
+    "prompt": "Yamashiro, Tatsuya from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/281635.jpg?s=73d105878357cbbf32ac318f16e2d312"
+  },
+  {
+    "name": "Yeager",
+    "prompt": "Yeager from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/109889.jpg?s=c4d2c9e160ca1a9fcac206b0d3e02573"
+  },
+  {
+    "name": "Yuugo",
+    "prompt": "Yuugo from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/295298.jpg?s=8f80775165354a23f9184e69b3866fc1"
+  },
+  {
+    "name": "Yuuri",
+    "prompt": "Yuuri from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/293722.jpg?s=a196a5132696290f9864f50dc44ee232"
+  },
+  {
+    "name": "Yuuto",
+    "prompt": "Yuuto from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/315355.jpg?s=53324c44f46eb39e4de01de1aaaabe2e"
+  },
+  {
+    "name": "Zarc",
+    "prompt": "Zarc from Yu☆Gi☆Oh! Arc-V",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/329514.jpg?s=a7fb9f7805ab6688f76da0490dacf305"
+  }
+]

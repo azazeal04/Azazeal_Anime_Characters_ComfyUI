@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Seiji",
+    "prompt": "Seiji from Pianist",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/181841.jpg?s=f0bca9a1a335920f38f3eb7a19997168"
+  },
+  {
+    "name": "Yuna",
+    "prompt": "Yuna from Pianist",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/181843.jpg?s=7f6c02ad9dddf80589d44e68746afe02"
+  },
+  {
+    "name": "Manager",
+    "prompt": "Manager from Pianist",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/181845.jpg?s=d067eb7960a8a8b5224ab3190c58d52d"
+  },
+  {
+    "name": "Music Producer",
+    "prompt": "Music Producer from Pianist",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/181847.jpg?s=c0428bf0971fe798b775479e872adb44"
+  },
+  {
+    "name": "Pianist",
+    "prompt": "Pianist from Pianist",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/181849.jpg?s=ad56266b82c1617fe7c1efcc344fde10"
+  },
+  {
+    "name": "Takeo",
+    "prompt": "Takeo from Pianist",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/181851.jpg?s=959b5d4ed7eac142f8eec3490e1730cd"
+  },
+  {
+    "name": "Woman",
+    "prompt": "Woman from Pianist",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/181853.jpg?s=e4bdb442bcf232efeaa2c4add08706b7"
+  }
+]

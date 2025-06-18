@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Kong",
+    "prompt": "Kong from Yuanshen: Xumi CM Duanpian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/550747.jpg?s=aeacf398d5b32d74cea25ca1579341f8"
+  },
+  {
+    "name": "Nahida",
+    "prompt": "Nahida from Yuanshen: Xumi CM Duanpian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/547776.jpg?s=474c2dfe02aac884d1acdfed0153387a"
+  },
+  {
+    "name": "Alhaitham",
+    "prompt": "Alhaitham from Yuanshen: Xumi CM Duanpian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/549293.jpg?s=4c015e3fe9d18aa0f6fb2357772771a8"
+  },
+  {
+    "name": "Collei",
+    "prompt": "Collei from Yuanshen: Xumi CM Duanpian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/548648.jpg?s=497425955d6cb40c68d3583a1478c71a"
+  },
+  {
+    "name": "Cyno",
+    "prompt": "Cyno from Yuanshen: Xumi CM Duanpian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/547765.jpg?s=db9a377d44942746fc4e9579d594f979"
+  },
+  {
+    "name": "Dehya",
+    "prompt": "Dehya from Yuanshen: Xumi CM Duanpian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/550697.jpg?s=fc2fcd7a525a2a7eb64a0088d7fc12c1"
+  },
+  {
+    "name": "Dori",
+    "prompt": "Dori from Yuanshen: Xumi CM Duanpian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/540469.jpg?s=14f5e3e808cb7df8cde2e6ea84c1c297"
+  },
+  {
+    "name": "Nilou",
+    "prompt": "Nilou from Yuanshen: Xumi CM Duanpian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/550693.jpg?s=1f21563be322e10f759db68f21a31cc4"
+  },
+  {
+    "name": "Paimon",
+    "prompt": "Paimon from Yuanshen: Xumi CM Duanpian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/541304.jpg?s=3d6d3ed382cf57737e1fc8d3081c4a8e"
+  },
+  {
+    "name": "Tighnari",
+    "prompt": "Tighnari from Yuanshen: Xumi CM Duanpian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/550756.jpg?s=b6c1c8ab695b4b9331677822a7989979"
+  }
+]

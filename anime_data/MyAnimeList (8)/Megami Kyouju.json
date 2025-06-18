@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Kata",
+    "prompt": "Kata from Megami Kyouju",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/452650.jpg?s=d5118bc370fa72b8a63544c246403609"
+  },
+  {
+    "name": "Linda",
+    "prompt": "Linda from Megami Kyouju",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/452651.jpg?s=891bb3fbfe986a7edd5117149fa86cd4"
+  },
+  {
+    "name": "Mary",
+    "prompt": "Mary from Megami Kyouju",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/452653.jpg?s=b943cab41079109747cc661fdd5a24d8"
+  },
+  {
+    "name": "Brian",
+    "prompt": "Brian from Megami Kyouju",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/539262.jpg?s=ba532d92df9279c218677d53e0b70958"
+  },
+  {
+    "name": "Captain",
+    "prompt": "Captain from Megami Kyouju",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/539289.jpg?s=4c7fd092024cf08cab66179d3ed9108c"
+  },
+  {
+    "name": "Colonel",
+    "prompt": "Colonel from Megami Kyouju",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/539291.jpg?s=17a59895e748fff5d4179ae88a9e1ac1"
+  },
+  {
+    "name": "Keith",
+    "prompt": "Keith from Megami Kyouju",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/499366.jpg?s=139f3acc008ea1b989f6ca3a8d740bb8"
+  },
+  {
+    "name": "Mustang",
+    "prompt": "Mustang from Megami Kyouju",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/539286.jpg?s=c9dc6754307ff210a453a31fd2b8da74"
+  }
+]

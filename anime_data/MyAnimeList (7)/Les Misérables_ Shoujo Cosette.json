@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Cosette",
+    "prompt": "Cosette from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/344804.jpg?s=b457bcd18c480d2464f7710ce506c6c5"
+  },
+  {
+    "name": "Gavroche",
+    "prompt": "Gavroche from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/277422.jpg?s=a27432663d79ca7f86356d15ec798079"
+  },
+  {
+    "name": "Javert",
+    "prompt": "Javert from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/277541.jpg?s=8bf2cda0468eaff771549ece55e16d90"
+  },
+  {
+    "name": "Pontmercy, Marius",
+    "prompt": "Pontmercy, Marius from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/115647.jpg?s=55973e5eac420931682e566b82937f5e"
+  },
+  {
+    "name": "Thénardier, Éponine",
+    "prompt": "Thénardier, Éponine from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/89763.jpg?s=806078b36f2661fd1152b7fa1932a521"
+  },
+  {
+    "name": "Valjean, Jean",
+    "prompt": "Valjean, Jean from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/277518.jpg?s=10d2bbc4dc544403f5a02d0fc70e40e0"
+  },
+  {
+    "name": "Alan",
+    "prompt": "Alan from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/277421.jpg?s=eef6d9e74b85629fc3d9bd1dc905fc7e"
+  },
+  {
+    "name": "Audrey",
+    "prompt": "Audrey from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/123327.jpg?s=25070522d5912cc5eb64652f18cf2e6e"
+  },
+  {
+    "name": "Beatrice",
+    "prompt": "Beatrice from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/123291.jpg?s=2c49045900d471c96bdba9a7de4e07d5"
+  },
+  {
+    "name": "Celestine",
+    "prompt": "Celestine from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/198847.jpg?s=9e1dd47e598ac9995e460a1e5b5f15c2"
+  },
+  {
+    "name": "Charlotte",
+    "prompt": "Charlotte from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/123337.jpg?s=3b0c670defe096c76d0d4b7212066a53"
+  },
+  {
+    "name": "Combeferre",
+    "prompt": "Combeferre from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/123481.jpg?s=e26cb723ec77fa70bf5b90e86e79c3e2"
+  },
+  {
+    "name": "Courfeyrac",
+    "prompt": "Courfeyrac from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/277615.jpg?s=fa59bc84729704638b5e90c7c933e3b5"
+  },
+  {
+    "name": "Enjolras",
+    "prompt": "Enjolras from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/277565.jpg?s=0874c65dcd4106bcfc2eed1fa1b2a49b"
+  },
+  {
+    "name": "Fantine",
+    "prompt": "Fantine from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/277523.jpg?s=3365b0cebbf7dff141890f136973b3ce"
+  },
+  {
+    "name": "Fauchelevent",
+    "prompt": "Fauchelevent from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/277517.jpg?s=5db4223e137592725b9705cddeed49a2"
+  },
+  {
+    "name": "Gillenormand, Monsieur",
+    "prompt": "Gillenormand, Monsieur from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/123293.jpg?s=0dcd761a574328e4ab6bd4e5d77edec3"
+  },
+  {
+    "name": "Gillenormand, Mademoiselle",
+    "prompt": "Gillenormand, Mademoiselle from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/123295.jpg?s=e9618b158548681ab83f3c54945f0a7b"
+  },
+  {
+    "name": "Grantaire",
+    "prompt": "Grantaire from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/277564.jpg?s=8f142455ecb933cedaa97660194a98bc"
+  },
+  {
+    "name": "Mabeuf",
+    "prompt": "Mabeuf from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/123299.jpg?s=91e46a5eb46de404ebd0816948bf407b"
+  },
+  {
+    "name": "Montparnasse",
+    "prompt": "Montparnasse from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/264945.jpg?s=0544b351732179dd090bbcb7b65b71a8"
+  },
+  {
+    "name": "Mother Innocente",
+    "prompt": "Mother Innocente from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/123289.jpg?s=8758ebb88502b2b44a14f30be2f75d7d"
+  },
+  {
+    "name": "Myriel, Bishop",
+    "prompt": "Myriel, Bishop from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/121838.jpg?s=381404ea336873c9de42d78e85295327"
+  },
+  {
+    "name": "Pontmercy, Georges",
+    "prompt": "Pontmercy, Georges from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/123297.jpg?s=92d0ae5511d9643c0544ff6d2630f6e4"
+  },
+  {
+    "name": "Prouvaire, Jean",
+    "prompt": "Prouvaire, Jean from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/121866.jpg?s=25e61a11585ab317ff71c5bf32a4b5ee"
+  },
+  {
+    "name": "Sister Simplice",
+    "prompt": "Sister Simplice from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/121687.jpg?s=a6b853a8dd01ebc909b78f8410b71db8"
+  },
+  {
+    "name": "Thenardier, Monsieur",
+    "prompt": "Thenardier, Monsieur from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/277491.jpg?s=886cf9bbe248dfd0a5625a012bcdcd7b"
+  },
+  {
+    "name": "Thénardier, Azelma",
+    "prompt": "Thénardier, Azelma from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/89762.jpg?s=7012d566f9db302b1e2ae887e1a782a5"
+  },
+  {
+    "name": "Thénardier, Madame",
+    "prompt": "Thénardier, Madame from Les Misérables: Shoujo Cosette",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/277490.jpg?s=8d7894fc7f185f63e477c4fa396c3757"
+  }
+]

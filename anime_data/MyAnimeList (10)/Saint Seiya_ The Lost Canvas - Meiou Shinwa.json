@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Alone",
+    "prompt": "Alone from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/75332.jpg?s=8bade70e432eb7d7b696d27d1e282725"
+  },
+  {
+    "name": "Crane, Yuzuriha",
+    "prompt": "Crane, Yuzuriha from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/75001.jpg?s=28a5812f872fef29d7e3d7319bef2e81"
+  },
+  {
+    "name": "Pegasus, Tenma",
+    "prompt": "Pegasus, Tenma from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/141439.jpg?s=7897b7fb535449cbeacb9af5913ad311"
+  },
+  {
+    "name": "Sasha",
+    "prompt": "Sasha from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/75329.jpg?s=0320658e7271e294febc5228338e36be"
+  },
+  {
+    "name": "Unicorn, Yato",
+    "prompt": "Unicorn, Yato from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/47576.jpg?s=2b55ddb06dcc90ccbf79c9b24982afbb"
+  },
+  {
+    "name": "Agasha",
+    "prompt": "Agasha from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/75825.jpg?s=64116b9ea135d2051a4ef3fc49bba3f9"
+  },
+  {
+    "name": "Altar, Hakurei",
+    "prompt": "Altar, Hakurei from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/233541.jpg?s=ada2ee24043e470e56d920e4d4dcf32a"
+  },
+  {
+    "name": "Aries, Shion",
+    "prompt": "Aries, Shion from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/238303.jpg?s=3319cf739a2fdc44c2b75a914871e396"
+  },
+  {
+    "name": "Behemoth, Violate",
+    "prompt": "Behemoth, Violate from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/114528.jpg?s=54bc4dd67fcffe5f29774c563b879da0"
+  },
+  {
+    "name": "Bennu, Kagaho",
+    "prompt": "Bennu, Kagaho from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/120687.jpg?s=9102e143de0632b365482fbc9dcfd68c"
+  },
+  {
+    "name": "Cait Sith, Cheshire",
+    "prompt": "Cait Sith, Cheshire from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/177839.jpg?s=4f2c6d1ac6fbe6d01563314923c54009"
+  },
+  {
+    "name": "Cancer, Manigoldo",
+    "prompt": "Cancer, Manigoldo from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/115276.jpg?s=dc47c7315b81fe8f79cc8c6b9eadb33e"
+  },
+  {
+    "name": "Cancer, Sage",
+    "prompt": "Cancer, Sage from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/115277.jpg?s=585b389a7db3d2f25441d0946c2f469e"
+  },
+  {
+    "name": "Deep, Niobe",
+    "prompt": "Deep, Niobe from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/81880.jpg?s=654a8084e516d2cca4943f29bc0c7b37"
+  },
+  {
+    "name": "Frog, Zelos",
+    "prompt": "Frog, Zelos from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/463241.jpg?s=50d0d0c89ca66c9bc2f7f70299063e90"
+  },
+  {
+    "name": "Griffon, Minos",
+    "prompt": "Griffon, Minos from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/109272.jpg?s=863e7abaf68e6a08f47005df7a3309b5"
+  },
+  {
+    "name": "Hypnos",
+    "prompt": "Hypnos from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/294867.jpg?s=a1266d2797704adb7598a23c2ef6e060"
+  },
+  {
+    "name": "Leo, Regulus",
+    "prompt": "Leo, Regulus from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/81218.jpg?s=a3dae02a2c091c768103964b0f3b4787"
+  },
+  {
+    "name": "Libra, Douko",
+    "prompt": "Libra, Douko from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/120339.jpg?s=83bc56f4c7d0c3d850cc1914494c6130"
+  },
+  {
+    "name": "Lycaon, Phlegyas",
+    "prompt": "Lycaon, Phlegyas from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/463643.jpg?s=2fb706ff63ccb4ed9b6645cc9226deb3"
+  },
+  {
+    "name": "Mandrake, Fyodor",
+    "prompt": "Mandrake, Fyodor from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/145315.jpg?s=b90f4046b273882205fe5769ebcad7cb"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/242675.jpg?s=88742ee8c19f76432714b5b99010b113"
+  },
+  {
+    "name": "Necromancer, Byaku",
+    "prompt": "Necromancer, Byaku from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/181909.jpg?s=80144a109893d90558e10f499a322e3a"
+  },
+  {
+    "name": "Pandora",
+    "prompt": "Pandora from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/510172.jpg?s=6f29836655169da03dc46f013a0ef96e"
+  },
+  {
+    "name": "Pisces, Albafica",
+    "prompt": "Pisces, Albafica from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/141431.jpg?s=46d7f1cdc650b22ebf580a530180304f"
+  },
+  {
+    "name": "Sagittarius, Sisyphus",
+    "prompt": "Sagittarius, Sisyphus from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/92035.jpg?s=e8998737fc86853981c9a89371f64763"
+  },
+  {
+    "name": "Salinsa",
+    "prompt": "Salinsa from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/525708.jpg?s=e8e40cfbdc0676429a5798678b676831"
+  },
+  {
+    "name": "Saro",
+    "prompt": "Saro from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/525709.jpg?s=463f8ceef459f2a7bfaf8472c5a6f596"
+  },
+  {
+    "name": "Skeleton, Markino",
+    "prompt": "Skeleton, Markino from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/463644.jpg?s=8856ff48f5521a2a73c96996e01d1581"
+  },
+  {
+    "name": "Taurus, Hasgard",
+    "prompt": "Taurus, Hasgard from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/82436.jpg?s=af47f04fc2769610bb5606df57b2cbbc"
+  },
+  {
+    "name": "Teneo",
+    "prompt": "Teneo from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/526389.jpg?s=263b1c6091d6c861e9c19359658c374a"
+  },
+  {
+    "name": "Thanatos",
+    "prompt": "Thanatos from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/112068.jpg?s=3d8a26f99557cdac80f4ae526d55f92d"
+  },
+  {
+    "name": "Virgo, Asmita",
+    "prompt": "Virgo, Asmita from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/141423.jpg?s=c65291d7855552b0c72edaac0e797e19"
+  },
+  {
+    "name": "Wimber, Bat",
+    "prompt": "Wimber, Bat from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/525685.jpg?s=278d0c2047adec45b7551497524aaba4"
+  },
+  {
+    "name": "Worm, Raimi",
+    "prompt": "Worm, Raimi from Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/82817.jpg?s=2b7f070a78a886fb8245237b700db721"
+  }
+]

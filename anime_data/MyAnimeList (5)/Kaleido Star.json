@@ -1,0 +1,307 @@
+[
+  {
+    "name": "Fool",
+    "prompt": "Fool from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/75231.jpg?s=92fa6595c0bdc02ab1514abc8ee5b5c4"
+  },
+  {
+    "name": "Hamilton, Layla",
+    "prompt": "Hamilton, Layla from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/113891.jpg?s=bc1e15fb10acc635c6c5be87144e888f"
+  },
+  {
+    "name": "Naegino, Sora",
+    "prompt": "Naegino, Sora from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/111701.jpg?s=fbb4df831a547434c1fe255af5fdf704"
+  },
+  {
+    "name": "Alice",
+    "prompt": "Alice from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/268359.jpg?s=7e0604aecdda35f6a06354681ff5c225"
+  },
+  {
+    "name": "Andy",
+    "prompt": "Andy from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/268363.jpg?s=f5196d6463c2ad8ac26a4c1d6b93bfff"
+  },
+  {
+    "name": "Barbara",
+    "prompt": "Barbara from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/157271.jpg?s=35287d239b8f1d0c236495211901506d"
+  },
+  {
+    "name": "Baron, Jack",
+    "prompt": "Baron, Jack from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/157243.jpg?s=c00aa11ce26d61101d705df1695bff95"
+  },
+  {
+    "name": "Benigni, Jean",
+    "prompt": "Benigni, Jean from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/157237.jpg?s=2839f00d9497b0c59496e3d71ac4967a"
+  },
+  {
+    "name": "Benigni, Cynthia",
+    "prompt": "Benigni, Cynthia from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/268325.jpg?s=baf7bf2ced0c1d2dc50e1712131a4f19"
+  },
+  {
+    "name": "Benigni, Marion",
+    "prompt": "Benigni, Marion from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/65543.jpg?s=8532d919ee9af653939133611e57f177"
+  },
+  {
+    "name": "Brass, Arlon",
+    "prompt": "Brass, Arlon from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/110358.jpg?s=b2f4d02ca88110fcfb12a040764670af"
+  },
+  {
+    "name": "Charlotte",
+    "prompt": "Charlotte from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/157245.jpg?s=6695578335ecb61e16bab3fa6838ec84"
+  },
+  {
+    "name": "Chris",
+    "prompt": "Chris from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/268329.jpg?s=0b42d28c4f544ee5b8deeab912d0eb96"
+  },
+  {
+    "name": "Dio",
+    "prompt": "Dio from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/63268.jpg?s=f2e7941e51c00bd734cf2f436dc01a61"
+  },
+  {
+    "name": "Dominique",
+    "prompt": "Dominique from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/268335.jpg?s=31299d241338126bc2e5e85eea29014d"
+  },
+  {
+    "name": "Dupont, Sarah",
+    "prompt": "Dupont, Sarah from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/63667.jpg?s=07edd5c9f1577d2c9a447682000cb5db"
+  },
+  {
+    "name": "Eido, Kalos",
+    "prompt": "Eido, Kalos from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/63701.jpg?s=a0ffc082091fff0ee85ffeb4065fec0f"
+  },
+  {
+    "name": "Emma",
+    "prompt": "Emma from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/268365.jpg?s=024827ffd307e28cec1dd157fdf78b16"
+  },
+  {
+    "name": "Guillem, Mia",
+    "prompt": "Guillem, Mia from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/81827.jpg?s=ff9fa60db600759d26939b050fd7026f"
+  },
+  {
+    "name": "Hamilton, Kevin",
+    "prompt": "Hamilton, Kevin from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/157241.jpg?s=9169620a90d9f6c0e96b46db71190082"
+  },
+  {
+    "name": "Hanna",
+    "prompt": "Hanna from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/157269.jpg?s=8174b3026f238f7dd1f00d38ef4b1b2a"
+  },
+  {
+    "name": "Heart, Anna",
+    "prompt": "Heart, Anna from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/65542.jpg?s=aa7657f7ad2c6052d207f4dc2e322bd3"
+  },
+  {
+    "name": "Heart, Julia",
+    "prompt": "Heart, Julia from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/268331.jpg?s=8262f1ef5b69f0b1a1735d89e736d1e4"
+  },
+  {
+    "name": "Jerry",
+    "prompt": "Jerry from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/305483.jpg?s=e0908454016afffbecadc97df3ec52a4"
+  },
+  {
+    "name": "Jonathan",
+    "prompt": "Jonathan from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/63269.jpg?s=ca693b64c24efd99dff225ec7da93810"
+  },
+  {
+    "name": "Julie",
+    "prompt": "Julie from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/157247.jpg?s=560b7233d82fae8ccf7266c46b44595a"
+  },
+  {
+    "name": "Kate",
+    "prompt": "Kate from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/157227.jpg?s=a2b0023f354322315874f0dd7eefd94c"
+  },
+  {
+    "name": "Kenneth",
+    "prompt": "Kenneth from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/157239.jpg?s=8bc9f9c83a90ede17625a1c0cc56f680"
+  },
+  {
+    "name": "Killian, Yuri",
+    "prompt": "Killian, Yuri from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/63666.jpg?s=0dc14dab66ffe7a8304cd85a2c5be46c"
+  },
+  {
+    "name": "Low, Andy",
+    "prompt": "Low, Andy from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/564107.jpg?s=907df2a9a655554fbff9f8069ee33c0f"
+  },
+  {
+    "name": "Lune",
+    "prompt": "Lune from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/268355.jpg?s=f51b0242c7dc92f2f6baf3a175dad753"
+  },
+  {
+    "name": "Maggie",
+    "prompt": "Maggie from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/268361.jpg?s=b9d5784d2f9a3238f935a69081daa884"
+  },
+  {
+    "name": "Manami",
+    "prompt": "Manami from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/157249.jpg?s=ddcb94d81aeff3740653ea6d58e6aad8"
+  },
+  {
+    "name": "Master Linn",
+    "prompt": "Master Linn from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/268351.jpg?s=46c202ef07ad9db4df9b96f1cbea268b"
+  },
+  {
+    "name": "Meryl",
+    "prompt": "Meryl from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/157259.jpg?s=cdeef00d744837349f36c42d5e88ac56"
+  },
+  {
+    "name": "Miki",
+    "prompt": "Miki from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/157255.jpg?s=4daeb5378a6a70016a1574cfced6c3fe"
+  },
+  {
+    "name": "Mila & Milo",
+    "prompt": "Mila & Milo from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/64293.jpg?s=fbcb6660c4b2225de8e041c181c8c5e2"
+  },
+  {
+    "name": "Mute",
+    "prompt": "Mute from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/268357.jpg?s=02a9394defd9ef689fc3438c825b5508"
+  },
+  {
+    "name": "Naegino, Ben",
+    "prompt": "Naegino, Ben from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/424951.jpg?s=763051300b671c94dbd624de2dd1368c"
+  },
+  {
+    "name": "Naegino, Midori",
+    "prompt": "Naegino, Midori from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/63214.jpg?s=d31b403f0bac963aca62d614f572056f"
+  },
+  {
+    "name": "Naegino, Yume",
+    "prompt": "Naegino, Yume from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/64120.jpg?s=d4ef7150ad1350136d1c1971807c6bf2"
+  },
+  {
+    "name": "Oswald, Leon",
+    "prompt": "Oswald, Leon from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/271187.jpg?s=715cdd49cb875e3e40d7778f2cfe99f7"
+  },
+  {
+    "name": "Oswald, Sophie",
+    "prompt": "Oswald, Sophie from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/64119.jpg?s=c61cc1ed11331eb6bcf6b2d07571ef80"
+  },
+  {
+    "name": "Pamela",
+    "prompt": "Pamela from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/157273.jpg?s=34a3a265d21a066344be27c595d2fc10"
+  },
+  {
+    "name": "Park, Simon",
+    "prompt": "Park, Simon from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/268341.jpg?s=2bbe4901a2a5fb380195b8584861c3a8"
+  },
+  {
+    "name": "Passel, Rosetta",
+    "prompt": "Passel, Rosetta from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/52045.jpg?s=717d9d03f5a2cc809baeeb67b2c0f574"
+  },
+  {
+    "name": "Puck",
+    "prompt": "Puck from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/268323.jpg?s=5782ae2e329584cb35d94596cd9a3215"
+  },
+  {
+    "name": "Robbins, Lucy",
+    "prompt": "Robbins, Lucy from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/268343.jpg?s=068cc21d392fdb59af42c8f782bf0e3f"
+  },
+  {
+    "name": "Robbins, Ben",
+    "prompt": "Robbins, Ben from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/268347.jpg?s=36a7aa7bed5dcf0888d009c7653a59bb"
+  },
+  {
+    "name": "Robbins, Ken",
+    "prompt": "Robbins, Ken from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/63340.jpg?s=8dceee4a6aa56492960578b824f53682"
+  },
+  {
+    "name": "Robbins, Sheryl",
+    "prompt": "Robbins, Sheryl from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/268345.jpg?s=ae618f1bd8529acadd86f6f78cd5012f"
+  },
+  {
+    "name": "Rubel, Alain",
+    "prompt": "Rubel, Alain from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/157263.jpg?s=3d558d8a9ca5d6ab7dc39b262d3a32a5"
+  },
+  {
+    "name": "Sayaka",
+    "prompt": "Sayaka from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/157253.jpg?s=b73d19a9c8118bd26222615087fa80b7"
+  },
+  {
+    "name": "Sorp, Ian",
+    "prompt": "Sorp, Ian from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/268333.jpg?s=07b78f7d4045ab1ec10f874799c59da2"
+  },
+  {
+    "name": "Tank",
+    "prompt": "Tank from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/268337.jpg?s=03aa2744b5a869cfe0a9af3de1733c3c"
+  },
+  {
+    "name": "Taymor, Cathy",
+    "prompt": "Taymor, Cathy from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/63899.jpg?s=998f23550c1fadf6049d836f05e74096"
+  },
+  {
+    "name": "Thompson, Macquarie",
+    "prompt": "Thompson, Macquarie from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/63898.jpg?s=7e628caef1a1c6714f5ee8b7a95595fb"
+  },
+  {
+    "name": "Tim",
+    "prompt": "Tim from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/268327.jpg?s=ddffc74b128c874ef326401393174ed2"
+  },
+  {
+    "name": "Walker, Donna",
+    "prompt": "Walker, Donna from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/120585.jpg?s=9e68f1ad4ca91d5d0c8bd690ffcc2a97"
+  },
+  {
+    "name": "Wong, May",
+    "prompt": "Wong, May from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/81831.jpg?s=94045d5ed3e95306e293026212ab37d1"
+  },
+  {
+    "name": "Z Leader",
+    "prompt": "Z Leader from Kaleido Star",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/268353.jpg?s=4f0f489a421553ff25d32a6ac74d5196"
+  }
+]

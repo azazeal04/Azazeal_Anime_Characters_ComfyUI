@@ -1,0 +1,217 @@
+[
+  {
+    "name": "Joel",
+    "prompt": "Joel from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/458097.jpg?s=d630efdcbf667a6dc7e4d0d7501f21a3"
+  },
+  {
+    "name": "Neo Ranga",
+    "prompt": "Neo Ranga from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/127311.jpg?s=385b876a62fb0f6c1c099573c6cbacbd"
+  },
+  {
+    "name": "Shimabara, Minami",
+    "prompt": "Shimabara, Minami from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/438190.jpg?s=0e05cea14f8f8c14c6f725a0c313aa31"
+  },
+  {
+    "name": "Shimabara, Ushio",
+    "prompt": "Shimabara, Ushio from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/111816.jpg?s=8a99a2af5ef1f808537f14d7cb55c141"
+  },
+  {
+    "name": "Shimabara, Yuuhi",
+    "prompt": "Shimabara, Yuuhi from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/111815.jpg?s=3092fd125a400bc48862b2617d1a78cf"
+  },
+  {
+    "name": "Akiyama, Yasuharu",
+    "prompt": "Akiyama, Yasuharu from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/587679.jpg?s=879aa71ce9a463e1b40fd5c249d00cd5"
+  },
+  {
+    "name": "Amagi, Erina",
+    "prompt": "Amagi, Erina from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/587605.jpg?s=83e2b1230dd33197b54a7365deb691ca"
+  },
+  {
+    "name": "Andou, Junichi",
+    "prompt": "Andou, Junichi from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/587677.jpg?s=bf61c63559d25a7fb54cd32a62bd21b5"
+  },
+  {
+    "name": "Andou, Haruhiro",
+    "prompt": "Andou, Haruhiro from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/587678.jpg?s=c92cd564ad01d516ccf0d638ae447bd0"
+  },
+  {
+    "name": "Asoaka",
+    "prompt": "Asoaka from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/587609.jpg?s=aa5fa50ce052383569dcba7235a618b1"
+  },
+  {
+    "name": "Chikamatsu, Tomoko",
+    "prompt": "Chikamatsu, Tomoko from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/587683.jpg?s=2b182edc6832554732128481b9d170f3"
+  },
+  {
+    "name": "Fujiwara, Kazuo",
+    "prompt": "Fujiwara, Kazuo from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/587596.jpg?s=4944ad73c1adb671bdcca541b2d22db8"
+  },
+  {
+    "name": "Garu",
+    "prompt": "Garu from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/587606.jpg?s=eb4b74169b664a8235e9830df097b0c9"
+  },
+  {
+    "name": "Hara, Shouko",
+    "prompt": "Hara, Shouko from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/587686.jpg?s=838b0dd753cfe650d5b8b0c5153995d2"
+  },
+  {
+    "name": "Haseoka, Shougo",
+    "prompt": "Haseoka, Shougo from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/389787.jpg?s=cbf29bb4834343ab8fb7170372f01966"
+  },
+  {
+    "name": "Ichikawa, Honami",
+    "prompt": "Ichikawa, Honami from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/587682.jpg?s=735b7827001d94464fe0da6baba557a9"
+  },
+  {
+    "name": "Kaieda, Gorou",
+    "prompt": "Kaieda, Gorou from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/587676.jpg?s=5572e77cf44e1cc001569b16517cb315"
+  },
+  {
+    "name": "Kanzaki",
+    "prompt": "Kanzaki from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/587671.jpg?s=c0192f1eac42fa8d1e693b0958ff7832"
+  },
+  {
+    "name": "Kedoin, Takako",
+    "prompt": "Kedoin, Takako from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/587685.jpg?s=ebb3ff28b2d42486ef8d2af2b23cf0b5"
+  },
+  {
+    "name": "Kimuro, Takuya",
+    "prompt": "Kimuro, Takuya from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/587681.jpg?s=a4cf70e0b24d249907f1cb432d09f700"
+  },
+  {
+    "name": "Laburey",
+    "prompt": "Laburey from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/587598.jpg?s=53f85967739eedd45a0a27f06da8017a"
+  },
+  {
+    "name": "Masked Man",
+    "prompt": "Masked Man from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/587608.jpg?s=4d950563dc5d8ec1e44fa3a58f11c107"
+  },
+  {
+    "name": "Mbo",
+    "prompt": "Mbo from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/587610.jpg?s=bdafc5732c60da38ee5d3de5d9caa871"
+  },
+  {
+    "name": "Nakasato, Mizuki",
+    "prompt": "Nakasato, Mizuki from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/587688.jpg?s=7b418f948e26acfc820907cf99d6972c"
+  },
+  {
+    "name": "Nakata",
+    "prompt": "Nakata from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/587673.jpg?s=9ad0e7763833a9833c8070c1b66f3cbc"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nayel",
+    "prompt": "Nayel from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/587599.jpg?s=2f9ff1164204c3259f0a05038d976e48"
+  },
+  {
+    "name": "Niimura, Jirou",
+    "prompt": "Niimura, Jirou from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/587687.jpg?s=14abd9ebbbbeff0895962c228d35fabe"
+  },
+  {
+    "name": "Oomori, Mei",
+    "prompt": "Oomori, Mei from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/587600.jpg?s=2d82421a85a9ddc7f7607e92f7bdf128"
+  },
+  {
+    "name": "Prime Minister",
+    "prompt": "Prime Minister from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/587607.jpg?s=fc8b1f9e1fa3e58fb04d0356ae2c71b6"
+  },
+  {
+    "name": "Sasai, Yoshino",
+    "prompt": "Sasai, Yoshino from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/587689.jpg?s=d812dfb66d9581cebcbae3cec752bef5"
+  },
+  {
+    "name": "Sasai, Tsubasa",
+    "prompt": "Sasai, Tsubasa from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/587691.jpg?s=98920a086ce6e77e891e9425b5304b48"
+  },
+  {
+    "name": "Seike, Aya",
+    "prompt": "Seike, Aya from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/587684.jpg?s=bd586e5195df36deb5582a3015ee5150"
+  },
+  {
+    "name": "Senator Sasai",
+    "prompt": "Senator Sasai from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/587672.jpg?s=635b161f459cdbe32832f1d477006065"
+  },
+  {
+    "name": "Shimabara, Masaru",
+    "prompt": "Shimabara, Masaru from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/587601.jpg?s=e9c890ade9a3db0b17df4cd22006835c"
+  },
+  {
+    "name": "Takesue, Yoshiyuki",
+    "prompt": "Takesue, Yoshiyuki from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/456197.jpg?s=b3e760d290568c3cbdeeabcbdb683550"
+  },
+  {
+    "name": "Tetsu, Hayato",
+    "prompt": "Tetsu, Hayato from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/587597.jpg?s=c7da0d14cc5972204bed7ea49bdbf187"
+  },
+  {
+    "name": "Tojo, Samuel J.",
+    "prompt": "Tojo, Samuel J. from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/587715.jpg?s=1b8b97c734ec5ed61c5cec5d7d2b47e1"
+  },
+  {
+    "name": "Tokimi",
+    "prompt": "Tokimi from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/587675.jpg?s=f86a7e745d05fbab85e6373429259a60"
+  },
+  {
+    "name": "Tomabechi, Yoshie",
+    "prompt": "Tomabechi, Yoshie from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/587690.jpg?s=cadc7beedadb523aeb51ce80ded35bca"
+  },
+  {
+    "name": "Tomabechi, Tatsuji",
+    "prompt": "Tomabechi, Tatsuji from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/587680.jpg?s=96be591691e32d44e05fbfe17ff4887d"
+  },
+  {
+    "name": "Tribal Chief",
+    "prompt": "Tribal Chief from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/587611.jpg?s=ca7772f9ae08c0b4b60469fe467cbaf2"
+  },
+  {
+    "name": "Yamazaki",
+    "prompt": "Yamazaki from Neo Ranga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/587670.jpg?s=c7d9cc655d0eb6d1fab196e604488557"
+  }
+]

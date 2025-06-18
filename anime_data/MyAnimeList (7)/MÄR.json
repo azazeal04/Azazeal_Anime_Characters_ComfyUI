@@ -1,0 +1,412 @@
+[
+  {
+    "name": "Alan",
+    "prompt": "Alan from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/96229.jpg?s=1ceb2ae19a2d2c7a45f0a8669be9a42d"
+  },
+  {
+    "name": "Alviss",
+    "prompt": "Alviss from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/96585.jpg?s=073566a3f170ade5ff7cc41d46a9691d"
+  },
+  {
+    "name": "Babbo",
+    "prompt": "Babbo from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/96107.jpg?s=437c7a321a9f04d10147b2a0e2aba325"
+  },
+  {
+    "name": "Dorothy",
+    "prompt": "Dorothy from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/96234.jpg?s=0333604d7168fa7365aac56182c2ee11"
+  },
+  {
+    "name": "Jack",
+    "prompt": "Jack from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/95222.jpg?s=86101c6ad5f199c23b9fc71f6d0b9379"
+  },
+  {
+    "name": "Nanashi",
+    "prompt": "Nanashi from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/96582.jpg?s=3e643a498b62803979dd539d34601da1"
+  },
+  {
+    "name": "Snow",
+    "prompt": "Snow from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/96820.jpg?s=1b68e4d030b1f596a9a6cd22a6e6b08e"
+  },
+  {
+    "name": "Toramizu, Ginta",
+    "prompt": "Toramizu, Ginta from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/118088.jpg?s=52cde24e6d1344ef8a1fc70f152f7462"
+  },
+  {
+    "name": "Aidu, Misty",
+    "prompt": "Aidu, Misty from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/105370.jpg?s=c17f7e8b87ee601e67d99cf3f366272c"
+  },
+  {
+    "name": "Alibaba",
+    "prompt": "Alibaba from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/95533.jpg?s=ad2dbd973e23555f99fa956973c6ab4f"
+  },
+  {
+    "name": "Allegro",
+    "prompt": "Allegro from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/96594.jpg?s=bdcf9d4a6765ebbd9311cee2a68b94a9"
+  },
+  {
+    "name": "Alma",
+    "prompt": "Alma from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/96797.jpg?s=21e7c7251c464657ccf990952648d3cb"
+  },
+  {
+    "name": "Aqua",
+    "prompt": "Aqua from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/95532.jpg?s=630127468f562e8c59e8e1b60db44a40"
+  },
+  {
+    "name": "Ash",
+    "prompt": "Ash from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/95057.jpg?s=842947346b97f534c09e834b7480dc2c"
+  },
+  {
+    "name": "Avrutuu",
+    "prompt": "Avrutuu from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/546042.jpg?s=179106fb249b9109f5be3d136014e64a"
+  },
+  {
+    "name": "Band, Sara",
+    "prompt": "Band, Sara from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/96592.jpg?s=546f2416e5e4a9e3e098f4a1c54c15dc"
+  },
+  {
+    "name": "Belle",
+    "prompt": "Belle from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/95058.jpg?s=96d739d4184523c10d89d1101847bffa"
+  },
+  {
+    "name": "Bumolu",
+    "prompt": "Bumolu from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/74248.jpg?s=4f818f717eb57166c2581be8e73a9c37"
+  },
+  {
+    "name": "Cal",
+    "prompt": "Cal from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/95499.jpg?s=63cec6a3684f732f04fc9e7d9a8c8f41"
+  },
+  {
+    "name": "Candice",
+    "prompt": "Candice from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/95316.jpg?s=ed9f85856e8ecea8c76a0292478eff58"
+  },
+  {
+    "name": "Chappu",
+    "prompt": "Chappu from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/96224.jpg?s=bc099c3ef92f05842f3b58d863ec2e67"
+  },
+  {
+    "name": "Chaton",
+    "prompt": "Chaton from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/95330.jpg?s=a7b76cc6b646e321a555f97fc03be729"
+  },
+  {
+    "name": "Chimera",
+    "prompt": "Chimera from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/95658.jpg?s=fc0a9e6f604a819c56b65a6c4f750cc3"
+  },
+  {
+    "name": "Diana",
+    "prompt": "Diana from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/96811.jpg?s=eb4eea91ed6d2329d1153234f7044fff"
+  },
+  {
+    "name": "Edward",
+    "prompt": "Edward from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/95325.jpg?s=8235430a31ca46d26f96c22ebf485671"
+  },
+  {
+    "name": "Elder of Caldia",
+    "prompt": "Elder of Caldia from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/96525.jpg?s=c84873691cef4778d68588238f388376"
+  },
+  {
+    "name": "Emokis",
+    "prompt": "Emokis from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/95529.jpg?s=562415b88afb6b2a2e6d03f472ab4622"
+  },
+  {
+    "name": "Fuugi",
+    "prompt": "Fuugi from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/95534.jpg?s=6dbee22a87cf956eb7b135b559fbd047"
+  },
+  {
+    "name": "Gaira",
+    "prompt": "Gaira from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/95322.jpg?s=94eefc6965d9a17edface6366e7b14d9"
+  },
+  {
+    "name": "Galian",
+    "prompt": "Galian from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/95324.jpg?s=72507e3b9d3c4af830d306c2f5aa92c2"
+  },
+  {
+    "name": "General",
+    "prompt": "General from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/96596.jpg?s=e4086fe038d8e1588b4fd79fdc0010c3"
+  },
+  {
+    "name": "Gido",
+    "prompt": "Gido from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/96817.jpg?s=70f6d914fcae0685a5544ecb0d40d653"
+  },
+  {
+    "name": "Girom",
+    "prompt": "Girom from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/95531.jpg?s=c75a75a9199734c254aa135543da34b7"
+  },
+  {
+    "name": "Grave",
+    "prompt": "Grave from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/96593.jpg?s=eae3f3d1066643b152e01ce16c1ddf3e"
+  },
+  {
+    "name": "Halloween",
+    "prompt": "Halloween from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/95328.jpg?s=7f3ea64d4707c201ca4d80729420b1a6"
+  },
+  {
+    "name": "Hamelin",
+    "prompt": "Hamelin from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/95535.jpg?s=c3c3d2a43640314e74793db629c46d17"
+  },
+  {
+    "name": "Ian",
+    "prompt": "Ian from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/95319.jpg?s=2e9d8ff92fc56b42e92400cdd6f4b351"
+  },
+  {
+    "name": "Jack's Mother",
+    "prompt": "Jack's Mother from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/96105.jpg?s=5e9eb6d4cd34ceaefaf716101f7a251e"
+  },
+  {
+    "name": "Jake",
+    "prompt": "Jake from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/95652.jpg?s=7ad9dd8d042027e93e45b0ac59d22d3c"
+  },
+  {
+    "name": "Jupiter",
+    "prompt": "Jupiter from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/95248.jpg?s=e831726da7e2e47f767d5b2b7cb4ec92"
+  },
+  {
+    "name": "Kannochi",
+    "prompt": "Kannochi from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/96223.jpg?s=b36c599ac8dabda3503bea065dcf777a"
+  },
+  {
+    "name": "King",
+    "prompt": "King from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/96813.jpg?s=bde1c7e8f1ac09c76aef2cc96e735453"
+  },
+  {
+    "name": "Kouga",
+    "prompt": "Kouga from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/95320.jpg?s=3cad28b22cedec8a82520efaf54daa81"
+  },
+  {
+    "name": "Koyuki",
+    "prompt": "Koyuki from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/66804.jpg?s=fb9e76a826d4b16116055072b866fc28"
+  },
+  {
+    "name": "Lilith",
+    "prompt": "Lilith from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/95431.jpg?s=febc33410d2129148e798fee31618438"
+  },
+  {
+    "name": "Loco",
+    "prompt": "Loco from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/95536.jpg?s=1fce7fb5cba2e2aa11e2b2ef3c025c8b"
+  },
+  {
+    "name": "Maira",
+    "prompt": "Maira from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/96227.jpg?s=83450e0774f0930472bb7a11c573e82d"
+  },
+  {
+    "name": "Marco",
+    "prompt": "Marco from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/95660.jpg?s=1e05483f250450419fb28aa5e363abc7"
+  },
+  {
+    "name": "Mars",
+    "prompt": "Mars from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/95253.jpg?s=f78f38097a07273473950d214c92f071"
+  },
+  {
+    "name": "Meister, Kapel",
+    "prompt": "Meister, Kapel from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/96591.jpg?s=e7e3041158b3ddd6720646080c0d0ea8"
+  },
+  {
+    "name": "Mercury",
+    "prompt": "Mercury from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/95256.jpg?s=06b75e283a7a8c63d7e745ddf827b419"
+  },
+  {
+    "name": "Merilo",
+    "prompt": "Merilo from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/95323.jpg?s=24cc7b4bf95c234a4562e68b79f3518b"
+  },
+  {
+    "name": "Moderato",
+    "prompt": "Moderato from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/96595.jpg?s=954d5b68f6b8bd6a11ec0ba83a1e1dc2"
+  },
+  {
+    "name": "Mokku",
+    "prompt": "Mokku from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/74250.jpg?s=0e9b4e3a0886e7ce7003a91a49218273"
+  },
+  {
+    "name": "Mr. Hook",
+    "prompt": "Mr. Hook from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/96222.jpg?s=65570dceb5b021818986e34f54f91ba9"
+  },
+  {
+    "name": "Neptune",
+    "prompt": "Neptune from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/95259.jpg?s=b9c76d1132b769cb6aa2bc7ab05b5cdf"
+  },
+  {
+    "name": "Pause",
+    "prompt": "Pause from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/96597.jpg?s=c7affef669f0175b9035011fbdb8327d"
+  },
+  {
+    "name": "Peach, John",
+    "prompt": "Peach, John from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/69216.jpg?s=46229834f59ffd7ddf4e1192b42b845b"
+  },
+  {
+    "name": "Peta",
+    "prompt": "Peta from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/96220.jpg?s=a7f79214a3364f98b74fc0bc89eb7e1e"
+  },
+  {
+    "name": "Phantom",
+    "prompt": "Phantom from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/95434.jpg?s=0214d77c3d4a469997d2f858b0358bff"
+  },
+  {
+    "name": "Pinocchion",
+    "prompt": "Pinocchion from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/95321.jpg?s=4ed367d399ef1eed383880dcd26ef562"
+  },
+  {
+    "name": "Pirun",
+    "prompt": "Pirun from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/96216.jpg?s=3efe8724a6ae9907c59c64fc689baeb3"
+  },
+  {
+    "name": "Pluto",
+    "prompt": "Pluto from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/95260.jpg?s=e5c158a353fd99d3a8a90c428b1101c3"
+  },
+  {
+    "name": "Poco",
+    "prompt": "Poco from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/96363.jpg?s=3f299739d9399c38c3d76cb2de8ad5d5"
+  },
+  {
+    "name": "Porin",
+    "prompt": "Porin from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/96362.jpg?s=d8ae60fb6da9ad4bc9d08ecd5bdfcacc"
+  },
+  {
+    "name": "Pozun",
+    "prompt": "Pozun from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/95055.jpg?s=43bfdac4ce761ffb79d23b775f56fc8f"
+  },
+  {
+    "name": "Rapunzel",
+    "prompt": "Rapunzel from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/95053.jpg?s=d98bda11e4b20bf6accd203e0ef21f4c"
+  },
+  {
+    "name": "Reginleif, Princess",
+    "prompt": "Reginleif, Princess from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/95502.jpg?s=9512dbab0704f7f968708da72ff0f1db"
+  },
+  {
+    "name": "Rodokin, Garon",
+    "prompt": "Rodokin, Garon from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/70294.jpg?s=2f74b91856aeb93da338199f2e3ac92e"
+  },
+  {
+    "name": "Rodokin, Pano",
+    "prompt": "Rodokin, Pano from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/96588.jpg?s=1c2870fee2b7c8f15a005147e5e46b85"
+  },
+  {
+    "name": "Rodokin, Leno",
+    "prompt": "Rodokin, Leno from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/70293.jpg?s=b5fff576628f67290c3f6614d1450583"
+  },
+  {
+    "name": "Roe, Magical",
+    "prompt": "Roe, Magical from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/95327.jpg?s=a60730d42b980be73e5b69cca4c3fc31"
+  },
+  {
+    "name": "Rogelu, Ruga",
+    "prompt": "Rogelu, Ruga from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/70281.jpg?s=10e581317cad6328887959cc886b9422"
+  },
+  {
+    "name": "Rogelu, Garo",
+    "prompt": "Rogelu, Garo from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/70280.jpg?s=cce0335951d9eb2e7f61c36e2dab9a22"
+  },
+  {
+    "name": "Rolan",
+    "prompt": "Rolan from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/96111.jpg?s=1f5fd6ae88a5d37b91badb88f21602b4"
+  },
+  {
+    "name": "Saturn",
+    "prompt": "Saturn from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/95247.jpg?s=4003b941860b185f1c81b34e7e66b1a9"
+  },
+  {
+    "name": "Stanley",
+    "prompt": "Stanley from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/95329.jpg?s=7fe8d8f6d68ed58823c646e70b617b69"
+  },
+  {
+    "name": "Toramizu, Mother",
+    "prompt": "Toramizu, Mother from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/95054.jpg?s=d6191d1ebe2e9ef48a04090971fd7e3d"
+  },
+  {
+    "name": "Toramizu, Danna",
+    "prompt": "Toramizu, Danna from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/96808.jpg?s=ddd947152dc60f7e2894fadf9e907948"
+  },
+  {
+    "name": "Uranus",
+    "prompt": "Uranus from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/95258.jpg?s=c52c7c8669b22b3983e04172cf71479a"
+  },
+  {
+    "name": "Venus",
+    "prompt": "Venus from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/95251.jpg?s=002a8b2c804ad05a87e1ca2ec0038198"
+  },
+  {
+    "name": "Weasel",
+    "prompt": "Weasel from MÄR",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/96106.jpg?s=52f38665bf90fb4528722e4cf3ab7d48"
+  }
+]

@@ -1,0 +1,567 @@
+[
+  {
+    "name": "Kitarou",
+    "prompt": "Kitarou from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/386282.jpg?s=af96f8602a831daebffda37169001e08"
+  },
+  {
+    "name": "Medama Oyaji",
+    "prompt": "Medama Oyaji from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/348982.jpg?s=3aba02eee0829c9cf7bc4858a9f060e6"
+  },
+  {
+    "name": "Abura Sumashi",
+    "prompt": "Abura Sumashi from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/386167.jpg?s=763b2330aee2416cdcfe6e8143e5eb98"
+  },
+  {
+    "name": "Aka-Atama",
+    "prompt": "Aka-Atama from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/567239.jpg?s=f3c500924a418f929313e24caedb2d1c"
+  },
+  {
+    "name": "Akamata",
+    "prompt": "Akamata from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550204.jpg?s=27507dd5905789942033229170a23c87"
+  },
+  {
+    "name": "Akashita",
+    "prompt": "Akashita from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/551511.jpg?s=9e61770bc5a8d2f0c43b1a0dd4f36787"
+  },
+  {
+    "name": "Ama-no-Jaku",
+    "prompt": "Ama-no-Jaku from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/402737.jpg?s=845a6808eeab8546601371e6bceb47ef"
+  },
+  {
+    "name": "Amamehagi",
+    "prompt": "Amamehagi from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550180.jpg?s=4bdfd81ad62474ae626ac6e45a553e30"
+  },
+  {
+    "name": "Amefurikozou",
+    "prompt": "Amefurikozou from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/386169.jpg?s=c2071c0b5e965ad70c9f1db92df668f5"
+  },
+  {
+    "name": "Anagura-Nyuudou",
+    "prompt": "Anagura-Nyuudou from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/550290.jpg?s=433de8cae06403cacfcfc0d9c964ed07"
+  },
+  {
+    "name": "Aobouzu",
+    "prompt": "Aobouzu from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/482147.jpg?s=d59b8f8dd49d839a0d4d88e839d6b8de"
+  },
+  {
+    "name": "Aoko",
+    "prompt": "Aoko from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/551670.jpg?s=a5f690e5a9a7e0ef0f0b88244c051cbc"
+  },
+  {
+    "name": "Asanbosam",
+    "prompt": "Asanbosam from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/550325.jpg?s=a1f2f09b8166caee46a006d3d1278a6e"
+  },
+  {
+    "name": "Azuki Arai",
+    "prompt": "Azuki Arai from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/386170.jpg?s=a60a4f53b965327269de3b682584fa47"
+  },
+  {
+    "name": "Azuki Babaa",
+    "prompt": "Azuki Babaa from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/370669.jpg?s=98ae59b5bc868329b8f533073500e054"
+  },
+  {
+    "name": "Azuki Hakari",
+    "prompt": "Azuki Hakari from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/386172.jpg?s=86fe4e7f80cce6e56b574d0f5c8a71a0"
+  },
+  {
+    "name": "Babaa, Sunakake",
+    "prompt": "Babaa, Sunakake from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/348987.jpg?s=f41da1aef03bb9fef97d7f3eccd48022"
+  },
+  {
+    "name": "Backbeard",
+    "prompt": "Backbeard from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/370670.jpg?s=8002efa30f1f9a6367cae8845faea103"
+  },
+  {
+    "name": "Bake-Zouri",
+    "prompt": "Bake-Zouri from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/567268.jpg?s=3817a0b265c496bc8e48d02675a039fa"
+  },
+  {
+    "name": "Balmond",
+    "prompt": "Balmond from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/400289.jpg?s=7e9adc36f7620bfd589d1471d14eca3f"
+  },
+  {
+    "name": "Bucktooth Landlord",
+    "prompt": "Bucktooth Landlord from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550568.jpg?s=14f7a1c3b7bb85c6debb773fe8dde587"
+  },
+  {
+    "name": "Chinpo",
+    "prompt": "Chinpo from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/397767.jpg?s=f01afc6a1e7cdb7df0b71bf66f807072"
+  },
+  {
+    "name": "Dai-Tengu",
+    "prompt": "Dai-Tengu from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/402746.jpg?s=6a0e5bc5d4b14a1f3b1a7b8131e1a266"
+  },
+  {
+    "name": "Danzaburou-Danuki",
+    "prompt": "Danzaburou-Danuki from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/550093.jpg?s=309b8396527b8d6ee8c78da815e7e6f2"
+  },
+  {
+    "name": "Daruma",
+    "prompt": "Daruma from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550474.jpg?s=ef9e6f4341f5cfb36696649bf0460537"
+  },
+  {
+    "name": "Dorotabou",
+    "prompt": "Dorotabou from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550640.jpg?s=3b6416aa953f21ccf065f441dbf4fd9f"
+  },
+  {
+    "name": "Dracula",
+    "prompt": "Dracula from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/550044.jpg?s=69dd1806257241d558ebef734241f687"
+  },
+  {
+    "name": "Elite",
+    "prompt": "Elite from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/386188.jpg?s=47bc862fe9e97b44b3dd34ac89cca8b8"
+  },
+  {
+    "name": "Frankenstein",
+    "prompt": "Frankenstein from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550355.jpg?s=36ad5161be6d32e43249692a48eb7070"
+  },
+  {
+    "name": "Funa-Yuurei",
+    "prompt": "Funa-Yuurei from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/550153.jpg?s=73325b0dfefc6e630b430a82b0d0fcf7"
+  },
+  {
+    "name": "Futakuchi Onna",
+    "prompt": "Futakuchi Onna from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/386174.jpg?s=2af0c51fb0edd6aa5a2bd638d8e10383"
+  },
+  {
+    "name": "Fuujin",
+    "prompt": "Fuujin from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/566969.jpg?s=461fca44ca3f266354be62c80eb6f90a"
+  },
+  {
+    "name": "Gasha-Dokuro",
+    "prompt": "Gasha-Dokuro from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/566997.jpg?s=f2e2c3b0d3e648fa710b71fff44c9090"
+  },
+  {
+    "name": "Gyuuki",
+    "prompt": "Gyuuki from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/551301.jpg?s=4fbed20faed9154179defb876f9ee5d5"
+  },
+  {
+    "name": "Hakusanbo",
+    "prompt": "Hakusanbo from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/386189.jpg?s=aa957cb756d29782cc6fd80086a2b8b0"
+  },
+  {
+    "name": "Hata-Onryou",
+    "prompt": "Hata-Onryou from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/567017.jpg?s=220cdc5a7bbd0eae66ba59cb041be193"
+  },
+  {
+    "name": "Hiderigami",
+    "prompt": "Hiderigami from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/397764.jpg?s=04208eec12b64aba98b375c002711af9"
+  },
+  {
+    "name": "Hitotsume-Kozo",
+    "prompt": "Hitotsume-Kozo from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/402751.jpg?s=9783ac93f565ea4fcedd2a146e0d8e87"
+  },
+  {
+    "name": "Hone-onna",
+    "prompt": "Hone-onna from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/551448.jpg?s=86917e6b7642642d83a99308932387f2"
+  },
+  {
+    "name": "Honeta",
+    "prompt": "Honeta from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/551671.jpg?s=ee1d9c3dde91a32b2b765e1c2304e875"
+  },
+  {
+    "name": "Hyakume",
+    "prompt": "Hyakume from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/566976.jpg?s=2dc55f7551da2a664f5e3a392c0b33d2"
+  },
+  {
+    "name": "Ido-Sennin",
+    "prompt": "Ido-Sennin from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550646.jpg?s=8280d9fa32a3ba39706593aa0f5e570c"
+  },
+  {
+    "name": "Iso-Onna",
+    "prompt": "Iso-Onna from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/550365.jpg?s=97e0c57e1cd8b6edae702808d59a7dcc"
+  },
+  {
+    "name": "Isogashi",
+    "prompt": "Isogashi from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/386177.jpg?s=bacde165a2d52dc21003180810ad260b"
+  },
+  {
+    "name": "Ittan Momen",
+    "prompt": "Ittan Momen from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/348985.jpg?s=19757529d1e766afc8031dd56c658782"
+  },
+  {
+    "name": "Iwanabouzu",
+    "prompt": "Iwanabouzu from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/566806.jpg?s=b841979b4febccb787fa16a26e63740e"
+  },
+  {
+    "name": "Jakotsu-Babaa",
+    "prompt": "Jakotsu-Babaa from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/550061.jpg?s=9af8b7caa814f447e96efc430deefa0a"
+  },
+  {
+    "name": "Jami",
+    "prompt": "Jami from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/550285.jpg?s=8a087aa2701f207d05f7d55b1cd962dc"
+  },
+  {
+    "name": "Kagami-Jijii",
+    "prompt": "Kagami-Jijii from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/550034.jpg?s=0d9ef88a4ba50d794899b735ad650b65"
+  },
+  {
+    "name": "Kamaitachi",
+    "prompt": "Kamaitachi from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/549979.jpg?s=0fbb8123648808e09c2ef4b6b7581eda"
+  },
+  {
+    "name": "Kamanari",
+    "prompt": "Kamanari from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/551344.jpg?s=6c4c5965865c9dcf446e21c159d878f5"
+  },
+  {
+    "name": "Kami-sama",
+    "prompt": "Kami-sama from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/567007.jpg?s=5f474d3aeb87c668b4883d44d34790fd"
+  },
+  {
+    "name": "Kani Bouzu",
+    "prompt": "Kani Bouzu from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/370682.jpg?s=0703220c3693b58626d6464640c6f349"
+  },
+  {
+    "name": "Karakasa",
+    "prompt": "Karakasa from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/370680.jpg?s=c407dc32bfe797c2c608780017b0c036"
+  },
+  {
+    "name": "Kasha",
+    "prompt": "Kasha from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/386192.jpg?s=77853b637bc594ef2af3365f91d92ddd"
+  },
+  {
+    "name": "Kawauso",
+    "prompt": "Kawauso from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/397739.jpg?s=27e0c1089f450721697204330c6eb7ff"
+  },
+  {
+    "name": "Kemedama",
+    "prompt": "Kemedama from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/551035.jpg?s=784c3abf26105e2f3e288232117014c3"
+  },
+  {
+    "name": "Keukegen",
+    "prompt": "Keukegen from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/550360.jpg?s=b9132b30b2ca5ccea53db80b29865c93"
+  },
+  {
+    "name": "Kijimuna",
+    "prompt": "Kijimuna from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/567012.jpg?s=40a0e144a922c092076de01e8882ff86"
+  },
+  {
+    "name": "King Enma",
+    "prompt": "King Enma from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/397748.jpg?s=d0f3081b39040b0cb99b6c8eab363c91"
+  },
+  {
+    "name": "Konaki Jijii",
+    "prompt": "Konaki Jijii from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/348988.jpg?s=25eca03704f290aebe21421bb664bd31"
+  },
+  {
+    "name": "Kubire Oni",
+    "prompt": "Kubire Oni from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/370685.jpg?s=805fe3dcd10e760dfc36581c9cf1b772"
+  },
+  {
+    "name": "Kuro-Karasu",
+    "prompt": "Kuro-Karasu from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/444179.jpg?s=4bdfa2d8245882043dc5333f4443ab93"
+  },
+  {
+    "name": "Kurubozo",
+    "prompt": "Kurubozo from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/386194.jpg?s=2c3a06f6bdd5ff2fcc5e51992f585766"
+  },
+  {
+    "name": "Kyuuketsuju",
+    "prompt": "Kyuuketsuju from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/550323.jpg?s=30f55da8bc5a7285124d7f643a653f49"
+  },
+  {
+    "name": "Langsuyar",
+    "prompt": "Langsuyar from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/550322.jpg?s=1d5da379d8969da9f2966a79ff776ac1"
+  },
+  {
+    "name": "Makuragaeshi",
+    "prompt": "Makuragaeshi from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/386180.jpg?s=7e85a19cc2cc5f341364c5497a5b2eb9"
+  },
+  {
+    "name": "Mamezou",
+    "prompt": "Mamezou from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/550563.jpg?s=f7e0300fa58a502349f2f899ef00b740"
+  },
+  {
+    "name": "Maruge",
+    "prompt": "Maruge from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/550647.jpg?s=db3f27d90961bd39c64a3baccd9d29c8"
+  },
+  {
+    "name": "Miage-Nyuudou",
+    "prompt": "Miage-Nyuudou from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/355832.jpg?s=a9b96f1f9bf7260d0dc6f7333b6d2d0c"
+  },
+  {
+    "name": "Mokumokuren",
+    "prompt": "Mokumokuren from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/551514.jpg?s=577747738f721d372d92ca4f65777ab2"
+  },
+  {
+    "name": "Momon-Jii",
+    "prompt": "Momon-Jii from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/397751.jpg?s=c9a6a2f10208a477f1c351688a6dccb7"
+  },
+  {
+    "name": "Monroe",
+    "prompt": "Monroe from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/551443.jpg?s=566aa3be4842b6b951c072d55b4f3d3e"
+  },
+  {
+    "name": "Namahage",
+    "prompt": "Namahage from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/550488.jpg?s=8ddc1344e8d39adbc676fc651bcad1a9"
+  },
+  {
+    "name": "Neko Musume",
+    "prompt": "Neko Musume from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/364808.jpg?s=c8211705f1705bc9c3e90af2be5c40d4"
+  },
+  {
+    "name": "Nezumi Otoko",
+    "prompt": "Nezumi Otoko from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/352089.jpg?s=51eecbaee571dda4e0031e0b2248e785"
+  },
+  {
+    "name": "Nobiagari",
+    "prompt": "Nobiagari from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/550076.jpg?s=ba6382b4b9eefbf07d3c69e6beef2b85"
+  },
+  {
+    "name": "Nue",
+    "prompt": "Nue from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/397753.jpg?s=689ebd67c2891c98135666bbfb5d7c31"
+  },
+  {
+    "name": "Nurarihyon",
+    "prompt": "Nurarihyon from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/397743.jpg?s=74d0b63970021574e047b8ee7047f696"
+  },
+  {
+    "name": "Nurikabe",
+    "prompt": "Nurikabe from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/348986.jpg?s=53d0d63dbdd57bdc139c687240a3a48e"
+  },
+  {
+    "name": "Odoro-Odoro",
+    "prompt": "Odoro-Odoro from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550157.jpg?s=57c79646246ea10fdab611260f5185ff"
+  },
+  {
+    "name": "Onmoraki",
+    "prompt": "Onmoraki from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/397756.jpg?s=6113b0f3c179c714b291b6d0f8c0a35c"
+  },
+  {
+    "name": "Oomukade",
+    "prompt": "Oomukade from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/567011.jpg?s=af8290e42cad017ed69000201b89cad1"
+  },
+  {
+    "name": "Pii",
+    "prompt": "Pii from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/551444.jpg?s=33f791aaf0269e10791e8a00952a50fb"
+  },
+  {
+    "name": "Qi",
+    "prompt": "Qi from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/550645.jpg?s=d70388ce07e02ad63e8e9b153287d2ec"
+  },
+  {
+    "name": "Raijuu",
+    "prompt": "Raijuu from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/567288.jpg?s=9fe489a6d837bf57cd91104fc1a6776a"
+  },
+  {
+    "name": "Rokurokubi",
+    "prompt": "Rokurokubi from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/370687.jpg?s=65a55d5516b9cee71707d6251fa2ad76"
+  },
+  {
+    "name": "Sakabashira",
+    "prompt": "Sakabashira from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/566800.jpg?s=d3440cc5920978b223ac803c3d03b60b"
+  },
+  {
+    "name": "Sara-Kozou",
+    "prompt": "Sara-Kozou from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/550176.jpg?s=72a6831bd5963a6a51180332c89b9b50"
+  },
+  {
+    "name": "Sazae-Oni",
+    "prompt": "Sazae-Oni from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/402771.jpg?s=1bd95470dc85af3c664b07df74969756"
+  },
+  {
+    "name": "Shibito-Tsuki",
+    "prompt": "Shibito-Tsuki from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550911.jpg?s=4e5c87b9b19c6c9aded89972a91c5de1"
+  },
+  {
+    "name": "Shinigami",
+    "prompt": "Shinigami from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/551510.jpg?s=b54dfe36638d73be4480349cad875c1e"
+  },
+  {
+    "name": "Shisa",
+    "prompt": "Shisa from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/567010.jpg?s=9666ea3155e3c0601a9b8c887670ea4c"
+  },
+  {
+    "name": "Shu-no-Bon",
+    "prompt": "Shu-no-Bon from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/397744.jpg?s=8655a60ea90c84d150fd7da29574797b"
+  },
+  {
+    "name": "Suiko",
+    "prompt": "Suiko from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/550064.jpg?s=9512569671267726b82a0f627e9e7e9c"
+  },
+  {
+    "name": "Tantanbou",
+    "prompt": "Tantanbou from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/549980.jpg?s=6be576b44473b0f52af1c13983aa59f2"
+  },
+  {
+    "name": "Te-no-me",
+    "prompt": "Te-no-me from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/402774.jpg?s=afa7fbee3890d550ad64400b24b8cc80"
+  },
+  {
+    "name": "Tofu-Kozo",
+    "prompt": "Tofu-Kozo from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/402775.jpg?s=89f2fcf87b4f1bb36c70b76833e115f3"
+  },
+  {
+    "name": "Tsuchi-Korobi",
+    "prompt": "Tsuchi-Korobi from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/397766.jpg?s=5f41359a6fb7a9dea24ee18ab24cd1da"
+  },
+  {
+    "name": "Tsurube-Bi",
+    "prompt": "Tsurube-Bi from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/549971.jpg?s=93757d0f9d2263549e04bf29da4eccb3"
+  },
+  {
+    "name": "Tsurube-Otoshi",
+    "prompt": "Tsurube-Otoshi from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ubume",
+    "prompt": "Ubume from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/550270.jpg?s=beaabe6bc438540f035e93b4788b83b9"
+  },
+  {
+    "name": "Umizatou",
+    "prompt": "Umizatou from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/397742.jpg?s=0fbdbfc6cac8d57f3789dee2f92c670a"
+  },
+  {
+    "name": "Ushirogami",
+    "prompt": "Ushirogami from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550481.jpg?s=0220084d1584b5a17dbca8e625a5546d"
+  },
+  {
+    "name": "Wanyuudou",
+    "prompt": "Wanyuudou from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/370690.jpg?s=22794d75903152097d2fd3e00c6eabe0"
+  },
+  {
+    "name": "Witch",
+    "prompt": "Witch from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/550042.jpg?s=5cf29f2ba1b3448891a5e1fcdae14b56"
+  },
+  {
+    "name": "Wolfman",
+    "prompt": "Wolfman from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550043.jpg?s=70622bc93743d4ff77b0e3b3f29a1d21"
+  },
+  {
+    "name": "Yagyou-san",
+    "prompt": "Yagyou-san from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/567072.jpg?s=2724b7904e7e8e3f2ede09ee227054f3"
+  },
+  {
+    "name": "Yangtze Suiko",
+    "prompt": "Yangtze Suiko from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/550358.jpg?s=e90bd5471c23735cf823f8f093d3362d"
+  },
+  {
+    "name": "Yasha",
+    "prompt": "Yasha from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/549975.jpg?s=43bfbfdf6b0e5e07bea4ab793f4e67e3"
+  },
+  {
+    "name": "Yashi-Otoshi",
+    "prompt": "Yashi-Otoshi from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550205.jpg?s=a1bb193bcfeee8a7207639a5f153d846"
+  },
+  {
+    "name": "Yobuko",
+    "prompt": "Yobuko from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/550164.jpg?s=e9959ee820b87943770f1bed2c326127"
+  },
+  {
+    "name": "Zashiki-warashi",
+    "prompt": "Zashiki-warashi from Gegege no Kitarou (2007)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/550477.jpg?s=dade090e8aff40bfffa41b32d58bcc2f"
+  }
+]

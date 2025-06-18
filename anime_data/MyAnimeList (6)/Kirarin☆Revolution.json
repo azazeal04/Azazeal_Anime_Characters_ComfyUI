@@ -1,0 +1,877 @@
+[
+  {
+    "name": "Hiwatari, Seiji",
+    "prompt": "Hiwatari, Seiji from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/101142.jpg?s=db9ef44535d7661b84c77fcd19381aca"
+  },
+  {
+    "name": "Kazama, Hiroto",
+    "prompt": "Kazama, Hiroto from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/61312.jpg?s=6e09334a5b9be5476790e3355bb26872"
+  },
+  {
+    "name": "Naa-san",
+    "prompt": "Naa-san from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/452753.jpg?s=164ee4980cbc6f0f70dff6498c0fa9b7"
+  },
+  {
+    "name": "Tsukishima, Kirari",
+    "prompt": "Tsukishima, Kirari from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/102203.jpg?s=4bb2498dee1e9141838124bee68144ca"
+  },
+  {
+    "name": "A",
+    "prompt": "A from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/579308.jpg?s=705b1daa631c11a1da51969db8090e88"
+  },
+  {
+    "name": "Amakawa, Izumi",
+    "prompt": "Amakawa, Izumi from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/46488.jpg?s=32a45a1e103a1e744f6e14bd4e8075a7"
+  },
+  {
+    "name": "Amamiya, Arashi",
+    "prompt": "Amamiya, Arashi from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/456125.jpg?s=fb52dc53b13dd7e9915df0b07db87572"
+  },
+  {
+    "name": "Aoi's Stylist",
+    "prompt": "Aoi's Stylist from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/579313.jpg?s=281173d49b1b86a0c1a4d44b4f3be118"
+  },
+  {
+    "name": "Arihara, Kanna",
+    "prompt": "Arihara, Kanna from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/579525.jpg?s=776706ee900c8e3bdc2baac730d08b52"
+  },
+  {
+    "name": "Aseyama",
+    "prompt": "Aseyama from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/579314.jpg?s=3ab9f00ab35d4f544ebcfade56b244f5"
+  },
+  {
+    "name": "Atsui, Keiji",
+    "prompt": "Atsui, Keiji from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/579526.jpg?s=1f52973ce38dac117bc83e3d42c06fa4"
+  },
+  {
+    "name": "B",
+    "prompt": "B from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/579320.jpg?s=f9ec3ac3b72f33244ce418e7494c4bc0"
+  },
+  {
+    "name": "Bakusho, Tommy",
+    "prompt": "Bakusho, Tommy from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/580066.jpg?s=dba303b4ea9b3727212b9b212613a3f7"
+  },
+  {
+    "name": "Baseball Coach",
+    "prompt": "Baseball Coach from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/579319.jpg?s=de7aa18ab734a420cb5caa3740a70b63"
+  },
+  {
+    "name": "Boyfriend",
+    "prompt": "Boyfriend from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/579316.jpg?s=70e50af842bd2b7bb08b6bcb5f825859"
+  },
+  {
+    "name": "Bumya",
+    "prompt": "Bumya from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/579315.jpg?s=0315e6a298e3d11eb9475e0362d21c4e"
+  },
+  {
+    "name": "Buta-san",
+    "prompt": "Buta-san from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/579322.jpg?s=c9286ab00e7dd8f4572b6b74f27ab950"
+  },
+  {
+    "name": "Cappucino, Mark",
+    "prompt": "Cappucino, Mark from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/579698.jpg?s=7eaf87d068f91756b1836466c9da6946"
+  },
+  {
+    "name": "Cat Owner",
+    "prompt": "Cat Owner from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/579323.jpg?s=141c05f3752c7048e666f10133894950"
+  },
+  {
+    "name": "Children Magazine Editor",
+    "prompt": "Children Magazine Editor from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/579324.jpg?s=3467a475707f65b1d797c4a4c3a60c50"
+  },
+  {
+    "name": "Choux Cream, Sakata",
+    "prompt": "Choux Cream, Sakata from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/579976.jpg?s=5112bdcdf6af7d2b5c5192250b891332"
+  },
+  {
+    "name": "Cloudy",
+    "prompt": "Cloudy from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/579329.jpg?s=704bb1d1357f54c219db57178224427a"
+  },
+  {
+    "name": "Commercial Director",
+    "prompt": "Commercial Director from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/579332.jpg?s=d3ae415362c812db742eb4db526f0cd8"
+  },
+  {
+    "name": "Crocodile Magazine Female Reporter",
+    "prompt": "Crocodile Magazine Female Reporter from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/579333.jpg?s=2933a2bb4db0237eae1d37c9014b9576"
+  },
+  {
+    "name": "Crocodile Magazine Male Reporter",
+    "prompt": "Crocodile Magazine Male Reporter from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/579334.jpg?s=95d40b2e9194806ae37ccd2fc3fd0648"
+  },
+  {
+    "name": "Daimonji, Gengorou",
+    "prompt": "Daimonji, Gengorou from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/579368.jpg?s=7e855f014e28b123b394c0b2f0cf141c"
+  },
+  {
+    "name": "Doctor",
+    "prompt": "Doctor from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/579337.jpg?s=5dc60f27f92535ac11b3f5e689ccd13f"
+  },
+  {
+    "name": "Donut Vendor",
+    "prompt": "Donut Vendor from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/579338.jpg?s=5c424ecac7b54b94c984fabd9723dbd8"
+  },
+  {
+    "name": "Dotonbori",
+    "prompt": "Dotonbori from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/579339.jpg?s=464c38a2a4bba09a1a39ad1e02ebd8c7"
+  },
+  {
+    "name": "Editor",
+    "prompt": "Editor from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/579341.jpg?s=a747b6fa8736dc9ce1befdf216806dda"
+  },
+  {
+    "name": "Emiyama",
+    "prompt": "Emiyama from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/579347.jpg?s=b6fcc0014bd468c2a264eacf9391b5f2"
+  },
+  {
+    "name": "English Teacher",
+    "prompt": "English Teacher from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/579349.jpg?s=6f99eb2dfc74bfdc1b105ddd91b61496"
+  },
+  {
+    "name": "Female Journalist",
+    "prompt": "Female Journalist from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/579353.jpg?s=05eed1707894673e4329d4bd0fea9437"
+  },
+  {
+    "name": "Fitness Trainer",
+    "prompt": "Fitness Trainer from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/579355.jpg?s=0393240b227e764595ec945cb8dfb0b9"
+  },
+  {
+    "name": "Fukugute, Ichi",
+    "prompt": "Fukugute, Ichi from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/579397.jpg?s=927aa8b2ad6712a07e80f55b609c4c81"
+  },
+  {
+    "name": "Furuichi",
+    "prompt": "Furuichi from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/579357.jpg?s=f3ea7dea617b512ea452182f66d2589e"
+  },
+  {
+    "name": "Fuu-san",
+    "prompt": "Fuu-san from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/579359.jpg?s=61ad0edfbf9dba821c1639c48f5cdab4"
+  },
+  {
+    "name": "Gariben-chan",
+    "prompt": "Gariben-chan from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/579360.jpg?s=8358c7a5a2dcb226992d4548b9c0895b"
+  },
+  {
+    "name": "Garland, Tina",
+    "prompt": "Garland, Tina from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/580065.jpg?s=6a24455ff0669eb20b5a0b226b492e8d"
+  },
+  {
+    "name": "Gates",
+    "prompt": "Gates from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/579363.jpg?s=54b1c2ed23f24aa13d2c26f07d5200f7"
+  },
+  {
+    "name": "Girlfriend",
+    "prompt": "Girlfriend from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/579365.jpg?s=ee87ecfae496375208986260050793dd"
+  },
+  {
+    "name": "Goto, Scoop",
+    "prompt": "Goto, Scoop from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/579982.jpg?s=7853b6915db0a164fd0e4ceb802495fb"
+  },
+  {
+    "name": "Ground Attendant",
+    "prompt": "Ground Attendant from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/579367.jpg?s=913f072f80fb4373fe9546ce09e58146"
+  },
+  {
+    "name": "Haa-san",
+    "prompt": "Haa-san from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/579384.jpg?s=3fcc74bfdbb01cf68279cfad147db40d"
+  },
+  {
+    "name": "Hagiwara, Mai",
+    "prompt": "Hagiwara, Mai from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/579564.jpg?s=a168dc473f07ef24634042ddb9611eeb"
+  },
+  {
+    "name": "Hanasaki, Cobeni",
+    "prompt": "Hanasaki, Cobeni from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/45400.jpg?s=818f448c9efe1ccdc05921b05e6383f6"
+  },
+  {
+    "name": "Haruno, Tsurara",
+    "prompt": "Haruno, Tsurara from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/580067.jpg?s=3dd7d06fa55d568e3054b36042920ad7"
+  },
+  {
+    "name": "Hatena, Q-saburou",
+    "prompt": "Hatena, Q-saburou from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/579724.jpg?s=2276bf3c1a5e7aaa2f65b3cdc54cd6c6"
+  },
+  {
+    "name": "Hayami, Kiriya",
+    "prompt": "Hayami, Kiriya from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hetare, Pesuke",
+    "prompt": "Hetare, Pesuke from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/579722.jpg?s=a37c788cbd08668b418c68790bc384b1"
+  },
+  {
+    "name": "Higashiyama, Ginzo",
+    "prompt": "Higashiyama, Ginzo from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/579372.jpg?s=cad9a3dd399adcad4d658fe12f187d74"
+  },
+  {
+    "name": "Higashiyama, Kaoruko",
+    "prompt": "Higashiyama, Kaoruko from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/579305.jpg?s=e5aa5d11ef0f154c8b099bbdb135164e"
+  },
+  {
+    "name": "Hiroto's Father",
+    "prompt": "Hiroto's Father from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/579550.jpg?s=1a8062a6582e90ee8b3bfe15f014e4d6"
+  },
+  {
+    "name": "Hiroto's Mother",
+    "prompt": "Hiroto's Mother from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/579551.jpg?s=d2fb534ed334b74c5d232d789dba7619"
+  },
+  {
+    "name": "Homeroom Teacher",
+    "prompt": "Homeroom Teacher from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/579387.jpg?s=e1c524a338a9ea56c85f84be58b0f534"
+  },
+  {
+    "name": "Hotel Receptionist",
+    "prompt": "Hotel Receptionist from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/579388.jpg?s=70ec83d6fa3799f3684d8ac980c59386"
+  },
+  {
+    "name": "Interviewer",
+    "prompt": "Interviewer from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/579352.jpg?s=2a927be87c6ec03e612bff623f86d420"
+  },
+  {
+    "name": "Inujima",
+    "prompt": "Inujima from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/579390.jpg?s=d84854f25590f9e13332e35aa02f0af6"
+  },
+  {
+    "name": "Ishiyu, Ritsuko",
+    "prompt": "Ishiyu, Ritsuko from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/579974.jpg?s=f0de20cfebfbc29be20b4c83a238e2f2"
+  },
+  {
+    "name": "Kageura",
+    "prompt": "Kageura from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/579518.jpg?s=23b40f198c12d03deb82d71417158c41"
+  },
+  {
+    "name": "Kazama, Kai",
+    "prompt": "Kazama, Kai from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/579524.jpg?s=dc982f29c952d72f60fcda9065ee74cf"
+  },
+  {
+    "name": "Kazama, Nagumo",
+    "prompt": "Kazama, Nagumo from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/579709.jpg?s=cbccaa5dffe61a089087074235a6236c"
+  },
+  {
+    "name": "Kazama, Kouta",
+    "prompt": "Kazama, Kouta from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/579528.jpg?s=f2c8514c7c434d566442ba51356b418f"
+  },
+  {
+    "name": "Kazama, Sora",
+    "prompt": "Kazama, Sora from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/579933.jpg?s=cad8da59ee1f5bd7d988964bfa59069f"
+  },
+  {
+    "name": "Kirari's Grandmother",
+    "prompt": "Kirari's Grandmother from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/579519.jpg?s=8072ac96a88ccfe1f91cab7a471400f7"
+  },
+  {
+    "name": "Kirari's Ideal Boyfriend",
+    "prompt": "Kirari's Ideal Boyfriend from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/579520.jpg?s=af3eb12a4cbfa0aaa038ba300f6c9bf0"
+  },
+  {
+    "name": "Kirisawa, Aoi",
+    "prompt": "Kirisawa, Aoi from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/14108.jpg?s=7ebd87433cc2b18a73cd7354336562af"
+  },
+  {
+    "name": "Kitagawa",
+    "prompt": "Kitagawa from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/579521.jpg?s=4cfb7471627512ddd7aced73b586cad2"
+  },
+  {
+    "name": "Kumoi, Kasumi",
+    "prompt": "Kumoi, Kasumi from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/97223.jpg?s=99c05e4c6ebfe379a426cfa37f26b089"
+  },
+  {
+    "name": "Kuroki, Akira",
+    "prompt": "Kuroki, Akira from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/579312.jpg?s=b49327fb355b0eed89e3c9978c49159f"
+  },
+  {
+    "name": "Kusuhara, Natsuki",
+    "prompt": "Kusuhara, Natsuki from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/579710.jpg?s=16ade69bbffb17c34f8b5d803daa5fca"
+  },
+  {
+    "name": "Kuwada, Mineta",
+    "prompt": "Kuwada, Mineta from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/579699.jpg?s=06ef1253a1acd98ac6063e88c3f36f9b"
+  },
+  {
+    "name": "Landlady",
+    "prompt": "Landlady from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/579522.jpg?s=d5a6360883f23b50a5724b66c759107c"
+  },
+  {
+    "name": "Ma, Mao",
+    "prompt": "Ma, Mao from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/579568.jpg?s=02da1a18e978e767fdbb7b872075cd6f"
+  },
+  {
+    "name": "Male Journalist",
+    "prompt": "Male Journalist from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/579529.jpg?s=78830c8c318a002ccd13e2e4a1166b1e"
+  },
+  {
+    "name": "Mamiyama",
+    "prompt": "Mamiyama from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/579530.jpg?s=fd70b10d99882a2399dbdc6a73cd100b"
+  },
+  {
+    "name": "Manager Muranishi",
+    "prompt": "Manager Muranishi from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/453044.jpg?s=8015e8f271a2f8491d0dc1920a60c83b"
+  },
+  {
+    "name": "Mao",
+    "prompt": "Mao from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/579531.jpg?s=08c72bf67dcf00828df74d24e1de1643"
+  },
+  {
+    "name": "Mari",
+    "prompt": "Mari from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/579532.jpg?s=022929213e846e327a0047d5c7216ca9"
+  },
+  {
+    "name": "Matsuki",
+    "prompt": "Matsuki from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/579533.jpg?s=f9c06a191892d82fdd6e184fe7190f85"
+  },
+  {
+    "name": "Matsumoto",
+    "prompt": "Matsumoto from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/579534.jpg?s=46e94d59c61ab8fc0899a60483b70378"
+  },
+  {
+    "name": "Matsushima, Takashi",
+    "prompt": "Matsushima, Takashi from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/580058.jpg?s=e72665beb33401fe1dd59f69cbd453cd"
+  },
+  {
+    "name": "Michiru",
+    "prompt": "Michiru from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/579535.jpg?s=4f4d268557f800abcdfa5c3153a3fdce"
+  },
+  {
+    "name": "Mii-chan",
+    "prompt": "Mii-chan from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/579536.jpg?s=e005435fb9325d3c8a9d5f9c5cea0ca5"
+  },
+  {
+    "name": "Miku",
+    "prompt": "Miku from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/579538.jpg?s=f804a97210e07e3736507c89dfcc81b1"
+  },
+  {
+    "name": "Minami, Akane",
+    "prompt": "Minami, Akane from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/15423.jpg?s=ef9983ca9d050d3d3eedc185eb651e04"
+  },
+  {
+    "name": "Mio",
+    "prompt": "Mio from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/579543.jpg?s=6b1a60b36aa531850fd6e5167a3b5a93"
+  },
+  {
+    "name": "Misora, Haruko",
+    "prompt": "Misora, Haruko from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/579392.jpg?s=84913f8b20f0e082b7b21d210160f404"
+  },
+  {
+    "name": "Mizuki, Hikaru",
+    "prompt": "Mizuki, Hikaru from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/65040.jpg?s=14c7a0850cdf5a41a77940f5da02a955"
+  },
+  {
+    "name": "Mochida, Mochio",
+    "prompt": "Mochida, Mochio from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/579700.jpg?s=d32550f3c2eaf035697b3c89dce439fa"
+  },
+  {
+    "name": "Mori, Risako",
+    "prompt": "Mori, Risako from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/579967.jpg?s=53bdefc82a65365b90cbcfff3f97557c"
+  },
+  {
+    "name": "Mr. Dancho",
+    "prompt": "Mr. Dancho from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/579547.jpg?s=35143bb474e791f67ee050cd67e09ad0"
+  },
+  {
+    "name": "Mr. Knowledge",
+    "prompt": "Mr. Knowledge from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/579556.jpg?s=42660e3e32a3e7a9bbf017dc45cb789b"
+  },
+  {
+    "name": "Mr. Na",
+    "prompt": "Mr. Na from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/579559.jpg?s=d59ea2ed2a96a965b10a4f16b5549529"
+  },
+  {
+    "name": "Murakami, Megumi",
+    "prompt": "Murakami, Megumi from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/579695.jpg?s=6adb53cc5c5a7f5f1e2555072022551c"
+  },
+  {
+    "name": "Musashi, Nadako",
+    "prompt": "Musashi, Nadako from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/579708.jpg?s=6029578c07927b4cfb2125e2ffe27223"
+  },
+  {
+    "name": "Music Show Host",
+    "prompt": "Music Show Host from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/579554.jpg?s=7a5279d36ba2017c700a8200f347ac28"
+  },
+  {
+    "name": "Mya-ou",
+    "prompt": "Mya-ou from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/579560.jpg?s=9c11265fcf4884299cc7ea823679af42"
+  },
+  {
+    "name": "Mya-san",
+    "prompt": "Mya-san from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/579561.jpg?s=10ac77f862c9ee2033baf127b8e5a04d"
+  },
+  {
+    "name": "Myu-tan",
+    "prompt": "Myu-tan from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/579562.jpg?s=fbda76af151b6f2f09e1303610f010f6"
+  },
+  {
+    "name": "Naa-yan",
+    "prompt": "Naa-yan from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/103218.jpg?s=6301826bcc39f988b566e2b557ecbb96"
+  },
+  {
+    "name": "Naha",
+    "prompt": "Naha from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/579701.jpg?s=61b2baa1393d61d2c6cc54c8026857ac"
+  },
+  {
+    "name": "Nakajima, Saki",
+    "prompt": "Nakajima, Saki from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/579972.jpg?s=17fad59bf9789018ff377e3c97638127"
+  },
+  {
+    "name": "Nana",
+    "prompt": "Nana from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/579702.jpg?s=b5d860e5139df1575fa03bdd5067cfc2"
+  },
+  {
+    "name": "Nii-kun",
+    "prompt": "Nii-kun from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/579703.jpg?s=78522b7dd7bda5ae9455f7c9d0e7729e"
+  },
+  {
+    "name": "Nijikawa",
+    "prompt": "Nijikawa from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/579704.jpg?s=9e668c17893787fb3cc4363cce05a5d8"
+  },
+  {
+    "name": "Nijikawa's Secretary",
+    "prompt": "Nijikawa's Secretary from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/579705.jpg?s=e6dcb1d9cae576cd9dca4fa5ca12b6d7"
+  },
+  {
+    "name": "Nishikiori, Jirou",
+    "prompt": "Nishikiori, Jirou from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/579402.jpg?s=b86ed3c92548033df5405cdb5483cb24"
+  },
+  {
+    "name": "Ogura, Erina",
+    "prompt": "Ogura, Erina from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/12303.jpg?s=779554d77d392dbb1eb052abcb81da31"
+  },
+  {
+    "name": "Okai, Chisato",
+    "prompt": "Okai, Chisato from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/579326.jpg?s=238e29d37fc59c16601fad0bb5d7aaf5"
+  },
+  {
+    "name": "Okamoto, Pekaso",
+    "prompt": "Okamoto, Pekaso from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/579721.jpg?s=c06106ded84438c4ad81cfe4f70cb420"
+  },
+  {
+    "name": "Older Dachi Brother",
+    "prompt": "Older Dachi Brother from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/579706.jpg?s=9376dc630b33c69776d5cd779457d633"
+  },
+  {
+    "name": "Ookami",
+    "prompt": "Ookami from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/579707.jpg?s=20cf08af9df6fd6c27ebe24933610e5f"
+  },
+  {
+    "name": "Osada, Dasao",
+    "prompt": "Osada, Dasao from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/579336.jpg?s=88a0472a4bd213b9cfaadfe742853724"
+  },
+  {
+    "name": "Osakabe, Noriko",
+    "prompt": "Osakabe, Noriko from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/579711.jpg?s=2a8efe1ed3edfd226658388a42942ec3"
+  },
+  {
+    "name": "Patisserie Asagi TV Program Director",
+    "prompt": "Patisserie Asagi TV Program Director from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/579712.jpg?s=0477c0b695185b39404ac3703399a758"
+  },
+  {
+    "name": "Pegasus",
+    "prompt": "Pegasus from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/579713.jpg?s=1e443cbd182dd2b8a594d2b02dc1926d"
+  },
+  {
+    "name": "Pet Contest Referee",
+    "prompt": "Pet Contest Referee from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/579714.jpg?s=67210a2e569adfab71085c764279b903"
+  },
+  {
+    "name": "Phantom X",
+    "prompt": "Phantom X from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/579715.jpg?s=4c503647e40b66a7dbdbd09907e2b5c4"
+  },
+  {
+    "name": "Photographer",
+    "prompt": "Photographer from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/579716.jpg?s=cbe33bda0988e26f875e25944af5f8f1"
+  },
+  {
+    "name": "Police Chief",
+    "prompt": "Police Chief from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/579717.jpg?s=c0fa8c404593e26aecd11cd6bfa5baa0"
+  },
+  {
+    "name": "Prince",
+    "prompt": "Prince from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/579718.jpg?s=1ea32726d6ef167cef5da1dfdb216132"
+  },
+  {
+    "name": "Producer",
+    "prompt": "Producer from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/579719.jpg?s=a4133c060726030d1b79cedb4699b6ac"
+  },
+  {
+    "name": "Production Assistant",
+    "prompt": "Production Assistant from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/579720.jpg?s=525ea1c7686a75a9b05ce4def0cf883d"
+  },
+  {
+    "name": "Rai",
+    "prompt": "Rai from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/579938.jpg?s=e6c1d6ec3fcc924118faa4d71b71bab8"
+  },
+  {
+    "name": "Receptionist",
+    "prompt": "Receptionist from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/579940.jpg?s=36fc75d2f3d4ae060e1d74bb080eb6bc"
+  },
+  {
+    "name": "Record Store Manager",
+    "prompt": "Record Store Manager from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/579948.jpg?s=94949ae8858c17ebb61e1ff1e1c2e5f6"
+  },
+  {
+    "name": "Rococo, Marie",
+    "prompt": "Rococo, Marie from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/579697.jpg?s=77cbd2afb138b033f277db4141d12047"
+  },
+  {
+    "name": "Saotome, Himiko",
+    "prompt": "Saotome, Himiko from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/579395.jpg?s=92c54359893e727295b94ebb0208cb75"
+  },
+  {
+    "name": "Saruyama",
+    "prompt": "Saruyama from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/579949.jpg?s=d4f28ac422bb25ec6eb6f1eefb91e72a"
+  },
+  {
+    "name": "Sayaka",
+    "prompt": "Sayaka from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/579950.jpg?s=7ffa70beb0cab286be5e45224f283a67"
+  },
+  {
+    "name": "School Principal",
+    "prompt": "School Principal from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/579946.jpg?s=16c864171063d57fd9ca7925d06e72ee"
+  },
+  {
+    "name": "Shakuji, Yutaka",
+    "prompt": "Shakuji, Yutaka from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/580071.jpg?s=966cf5f72414dce361b4971fe6b38e46"
+  },
+  {
+    "name": "Stylist",
+    "prompt": "Stylist from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/579935.jpg?s=fe9cd21391abffea965241ca34b35a5c"
+  },
+  {
+    "name": "Suzuki, Airi",
+    "prompt": "Suzuki, Airi from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/579311.jpg?s=55b06c4ff0ee5e4d194b22e1c5f853c1"
+  },
+  {
+    "name": "Tabe Ranger Blue",
+    "prompt": "Tabe Ranger Blue from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/579989.jpg?s=ef612796206d71da09f7a63645d1c2f7"
+  },
+  {
+    "name": "Tabe Ranger Green",
+    "prompt": "Tabe Ranger Green from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/579990.jpg?s=759a745038d42374f7bd70ab0405dc1e"
+  },
+  {
+    "name": "Tabe Ranger Pink",
+    "prompt": "Tabe Ranger Pink from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/579993.jpg?s=5755dd437d9aedec45e053fd2a5f2f0b"
+  },
+  {
+    "name": "Tabe Ranger Red",
+    "prompt": "Tabe Ranger Red from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/579995.jpg?s=526c1eaa7bac24577252b6ae8d263edd"
+  },
+  {
+    "name": "Tabe Ranger Yellow",
+    "prompt": "Tabe Ranger Yellow from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/579996.jpg?s=a701c3c7497f916ee01d9d426dc16da6"
+  },
+  {
+    "name": "Takada, Pierre",
+    "prompt": "Takada, Pierre from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/579723.jpg?s=8183a01c9d09c0de50d8f739757d7e3b"
+  },
+  {
+    "name": "Takada, Adams",
+    "prompt": "Takada, Adams from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/579309.jpg?s=8b6a27ce3c48c43d21a0120daf82d881"
+  },
+  {
+    "name": "Tamotsu, Yuka",
+    "prompt": "Tamotsu, Yuka from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/580070.jpg?s=c9aa0a9bb500fbb0a68e520170e9e86c"
+  },
+  {
+    "name": "Tanaka, Eiko",
+    "prompt": "Tanaka, Eiko from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/579343.jpg?s=da72751a6602ef8d8126b612a30544d2"
+  },
+  {
+    "name": "Tanaka, Ichirou",
+    "prompt": "Tanaka, Ichirou from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/579400.jpg?s=33e4706163a0e909a525d003948919d2"
+  },
+  {
+    "name": "Tanaka, Maria",
+    "prompt": "Tanaka, Maria from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/579694.jpg?s=e83321eadb10a9307ee48a4e91a92054"
+  },
+  {
+    "name": "Tanba, Rintarou",
+    "prompt": "Tanba, Rintarou from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/579966.jpg?s=36f069e06c2c940529e85df547936257"
+  },
+  {
+    "name": "Tantan",
+    "prompt": "Tantan from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/579306.jpg?s=e4cd77b5b129905e197571509ceb971e"
+  },
+  {
+    "name": "Taruyama, Taruya",
+    "prompt": "Taruyama, Taruya from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/580064.jpg?s=78bdc8d0b346cb785090587bba2918c0"
+  },
+  {
+    "name": "Tempura Stall Clerk",
+    "prompt": "Tempura Stall Clerk from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/579998.jpg?s=2e92903f3277c69b093589842ec1c246"
+  },
+  {
+    "name": "Tomo",
+    "prompt": "Tomo from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/580004.jpg?s=b7344f9e6bd4f0ccd6aee0cf88287238"
+  },
+  {
+    "name": "Toudou, Fubuki",
+    "prompt": "Toudou, Fubuki from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/62665.jpg?s=bb057e27e3651b26850240733ed15c91"
+  },
+  {
+    "name": "Tsubasaki, Wataru",
+    "prompt": "Tsubasaki, Wataru from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/580069.jpg?s=8cd63165baf41cfe567af544034f20a1"
+  },
+  {
+    "name": "Tsukishima, Takashi",
+    "prompt": "Tsukishima, Takashi from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/24122.jpg?s=d143c3195fc35ec04ab1f075f537cbd7"
+  },
+  {
+    "name": "Tsukishima, Urara",
+    "prompt": "Tsukishima, Urara from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/580068.jpg?s=cf003c0e45c538e628344cb24b6a984e"
+  },
+  {
+    "name": "Tsukishima, Subaru",
+    "prompt": "Tsukishima, Subaru from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/62661.jpg?s=c6d59e02b0c07e9aa1c14f98874044c1"
+  },
+  {
+    "name": "TV Announcer",
+    "prompt": "TV Announcer from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/580005.jpg?s=c7e45e8bbf5417943c025272d48cf9c7"
+  },
+  {
+    "name": "Umeda, Erika",
+    "prompt": "Umeda, Erika from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/579350.jpg?s=a7c9b74180de4cc51281f90a7c431ce8"
+  },
+  {
+    "name": "Umemura, Sakura",
+    "prompt": "Umemura, Sakura from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/579978.jpg?s=5b2ea814448a8fa639164e2f667411a8"
+  },
+  {
+    "name": "Usui, Kinuko",
+    "prompt": "Usui, Kinuko from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/579527.jpg?s=c60ba0dbb15ef2f752b04321d76fca50"
+  },
+  {
+    "name": "Variety Show Host",
+    "prompt": "Variety Show Host from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/580010.jpg?s=4434a676015f5818a1ac7d2c4ec5e76a"
+  },
+  {
+    "name": "Wataru",
+    "prompt": "Wataru from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/580017.jpg?s=94625ff4c62f72d701e836da71095e85"
+  },
+  {
+    "name": "Wataru's Partner",
+    "prompt": "Wataru's Partner from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/580019.jpg?s=6d7d42c6014de37c894e418f36b19fc0"
+  },
+  {
+    "name": "Yajima, Maimi",
+    "prompt": "Yajima, Maimi from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/579567.jpg?s=b036e70eb8837949269b0cdcea82da37"
+  },
+  {
+    "name": "Yamada, Biko",
+    "prompt": "Yamada, Biko from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/579317.jpg?s=7161acbbc860519bfbf63ea64831cf8f"
+  },
+  {
+    "name": "Yamada, Tarou",
+    "prompt": "Yamada, Tarou from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/580061.jpg?s=0697379d959dee02016e93a22bdde7e9"
+  },
+  {
+    "name": "Yamatomi",
+    "prompt": "Yamatomi from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/580020.jpg?s=498997154e3cc098849bf9a2efac4b36"
+  },
+  {
+    "name": "Yoshizawa, Hitomi",
+    "prompt": "Yoshizawa, Hitomi from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/189554.jpg?s=d1487105f0819f8e294d35ad2247d5df"
+  },
+  {
+    "name": "Younger Dachi Brother",
+    "prompt": "Younger Dachi Brother from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/580021.jpg?s=bcde4ae8f52528e67559c660fbbb4de4"
+  },
+  {
+    "name": "Yuka's Brother",
+    "prompt": "Yuka's Brother from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/580022.jpg?s=7ca6c182005b439afb2903f16e322b1c"
+  },
+  {
+    "name": "Yukata Contest Host",
+    "prompt": "Yukata Contest Host from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/580023.jpg?s=30db063e42ef287b820174cdcf935631"
+  },
+  {
+    "name": "Yuki",
+    "prompt": "Yuki from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/580025.jpg?s=01772a10ea14f51c3e055213f94eb220"
+  },
+  {
+    "name": "Yukino, Noel",
+    "prompt": "Yukino, Noel from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/45399.jpg?s=3e6d9665ad1720fc47a870f14743aae8"
+  },
+  {
+    "name": "Yuu",
+    "prompt": "Yuu from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/580026.jpg?s=8ca3280cc3399aa32c6a6fb8cdf0ef14"
+  },
+  {
+    "name": "Zamami",
+    "prompt": "Zamami from Kirarin☆Revolution",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/580027.jpg?s=85e400ca4a16c19277ad0573d4c7ccd6"
+  }
+]

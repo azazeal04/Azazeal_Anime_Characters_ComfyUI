@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Chacha",
+    "prompt": "Chacha from Daisuki! BuBu ChaCha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/105376.jpg?s=779b043b3c8551b04d9f1fd5c73fa184"
+  },
+  {
+    "name": "Rand, Randy",
+    "prompt": "Rand, Randy from Daisuki! BuBu ChaCha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/105378.jpg?s=5710d7fafca9975a21eda204a53c43b5"
+  },
+  {
+    "name": "Catherine",
+    "prompt": "Catherine from Daisuki! BuBu ChaCha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/255455.jpg?s=74e686a1d8a3ea829c30eb399d963587"
+  },
+  {
+    "name": "Mary",
+    "prompt": "Mary from Daisuki! BuBu ChaCha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Daisuki! BuBu ChaCha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Rand, Forest",
+    "prompt": "Rand, Forest from Daisuki! BuBu ChaCha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

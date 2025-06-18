@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Boku",
+    "prompt": "Boku from Oppai ga Ippai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/277073.jpg?s=46b7f8f400348ebcb02bf18ee0fa40fd"
+  },
+  {
+    "name": "Imouto",
+    "prompt": "Imouto from Oppai ga Ippai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/277072.jpg?s=7680108097ac4c32570198d0ca7af75d"
+  },
+  {
+    "name": "Mama",
+    "prompt": "Mama from Oppai ga Ippai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/277071.jpg?s=28b8e8749f0a5c316f8d558d52df5051"
+  }
+]

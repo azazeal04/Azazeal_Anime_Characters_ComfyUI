@@ -1,0 +1,237 @@
+[
+  {
+    "name": "Ginji",
+    "prompt": "Ginji from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/432409.jpg?s=f46a526c83cc46b7303c0357dc44fefe"
+  },
+  {
+    "name": "Oodanna",
+    "prompt": "Oodanna from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/539573.jpg?s=489292d11eb12233e23d27e64c7417b0"
+  },
+  {
+    "name": "Tsubaki, Aoi",
+    "prompt": "Tsubaki, Aoi from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/354859.jpg?s=ca1d583d5251137731d95f973ec93c55"
+  },
+  {
+    "name": "Ai",
+    "prompt": "Ai from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/539675.jpg?s=f64acf075670b731ed1196274ee5a1f5"
+  },
+  {
+    "name": "Akatsuki",
+    "prompt": "Akatsuki from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/354863.jpg?s=fe9c0f6f8c2858acd799987824f1cf88"
+  },
+  {
+    "name": "Aoi's Mother",
+    "prompt": "Aoi's Mother from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ayakashi",
+    "prompt": "Ayakashi from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/574336.jpg?s=288c2214c10526a90708ce22a5be0116"
+  },
+  {
+    "name": "Byakuya",
+    "prompt": "Byakuya from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/354864.jpg?s=b6146178106ea31774d6887d5f44e97c"
+  },
+  {
+    "name": "Chiaki",
+    "prompt": "Chiaki from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/360685.jpg?s=0ef8da05be14e0587ccc809f91cfcf23"
+  },
+  {
+    "name": "Chibi",
+    "prompt": "Chibi from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/354865.jpg?s=111b94799a27cd5d9863c7f05bc1f604"
+  },
+  {
+    "name": "Daruma",
+    "prompt": "Daruma from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/574337.jpg?s=03ea4d61abb8264ad7fe31eca02558e1"
+  },
+  {
+    "name": "Hakkabou",
+    "prompt": "Hakkabou from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/361646.jpg?s=74da49cf4abc3f78e8394828145eaf04"
+  },
+  {
+    "name": "Hatori",
+    "prompt": "Hatori from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/361647.jpg?s=356d219f10dee334470647105c138768"
+  },
+  {
+    "name": "Hideyoshi",
+    "prompt": "Hideyoshi from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/361643.jpg?s=88cded8bfafe617f88a4c4d606f44708"
+  },
+  {
+    "name": "Hostess",
+    "prompt": "Hostess from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/574338.jpg?s=5e7df55eb50bdfc41613ce51d0b0e37b"
+  },
+  {
+    "name": "Iso-hime",
+    "prompt": "Iso-hime from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/513924.jpg?s=f1e39bf9758c6f41dafb42454349bb8c"
+  },
+  {
+    "name": "Kai",
+    "prompt": "Kai from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/539661.jpg?s=2ea8f3d2a3c60e0a6271eaa6fea98893"
+  },
+  {
+    "name": "Kasuga",
+    "prompt": "Kasuga from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/354868.jpg?s=e0aba96ab6c0a5d4391be0bdd1f1ddd6"
+  },
+  {
+    "name": "Kikuno",
+    "prompt": "Kikuno from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/574339.jpg?s=0d35f6036da586f1e0a62cc2221f6382"
+  },
+  {
+    "name": "Malicious Ogre",
+    "prompt": "Malicious Ogre from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/574340.jpg?s=94b8e1ae21c7f49833f3cbafa486ba1f"
+  },
+  {
+    "name": "Matsu",
+    "prompt": "Matsu from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/574318.jpg?s=d4034e89cd8500a465cc0d37da4dea6c"
+  },
+  {
+    "name": "Matsuba",
+    "prompt": "Matsuba from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/356030.jpg?s=35afcac8a8e7e8c77da3c426384c165d"
+  },
+  {
+    "name": "Mei",
+    "prompt": "Mei from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/539657.jpg?s=1dc3535693df1c1d79818e267fa21bcb"
+  },
+  {
+    "name": "Mitsunari",
+    "prompt": "Mitsunari from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/539666.jpg?s=bc15df9d580d9ee7d384890b71fbcd0a"
+  },
+  {
+    "name": "Nene",
+    "prompt": "Nene from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/361644.jpg?s=93f7cdb66c03575fa429202bfca3b357"
+  },
+  {
+    "name": "Nuinoin",
+    "prompt": "Nuinoin from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/360683.jpg?s=70c3430814429994006932786003c183"
+  },
+  {
+    "name": "Oryou",
+    "prompt": "Oryou from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/354862.jpg?s=e194848d82c949d222bd25f015113a9a"
+  },
+  {
+    "name": "Osono",
+    "prompt": "Osono from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/574319.jpg?s=840394ea5bf105686f3360277081a50f"
+  },
+  {
+    "name": "Ougon-douji",
+    "prompt": "Ougon-douji from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/539580.jpg?s=9660a67524455467994d708982058a5b"
+  },
+  {
+    "name": "Raijuu",
+    "prompt": "Raijuu from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/374187.jpg?s=77ba2ed17285190e9ab7ad06a829ba81"
+  },
+  {
+    "name": "Ranmaru",
+    "prompt": "Ranmaru from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/361649.jpg?s=62a7f224f4f6b55aa99914809860c7a8"
+  },
+  {
+    "name": "Ritsuko",
+    "prompt": "Ritsuko from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/539614.jpg?s=6fb864b9051c00e5cefda0052fbecb0d"
+  },
+  {
+    "name": "Rokusuke",
+    "prompt": "Rokusuke from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/574320.jpg?s=21c36464a73a95ad9c54d7dc0a0bfc47"
+  },
+  {
+    "name": "Saraku",
+    "prompt": "Saraku from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/360686.jpg?s=0451b005dac2035fc3a9c4675e3b4049"
+  },
+  {
+    "name": "Sasara",
+    "prompt": "Sasara from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/365698.jpg?s=ce928ad9fffec52e313e341a21911269"
+  },
+  {
+    "name": "Sasuke",
+    "prompt": "Sasuke from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/354869.jpg?s=8199b1d589e2a39702d1cc590871a58c"
+  },
+  {
+    "name": "Shizuna",
+    "prompt": "Shizuna from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/539635.jpg?s=8ac48c690e89b38d8fc2483566becdc5"
+  },
+  {
+    "name": "Suzuran",
+    "prompt": "Suzuran from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/356031.jpg?s=0096b5e6cb4e430de44bdfa33a6f9bde"
+  },
+  {
+    "name": "Taichi",
+    "prompt": "Taichi from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/361645.jpg?s=20dd2d6b56f4f0bd10e18515607b1ae6"
+  },
+  {
+    "name": "Take",
+    "prompt": "Take from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/574321.jpg?s=00cc3f052138a62843e7a2d249bca948"
+  },
+  {
+    "name": "Tannosuke",
+    "prompt": "Tannosuke from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/356032.jpg?s=7eb44893806590f1f3815a34832f8bba"
+  },
+  {
+    "name": "Tokihiko",
+    "prompt": "Tokihiko from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/361648.jpg?s=ed50dc4c87f8dbe6fc1d749bfe523a26"
+  },
+  {
+    "name": "Tsubaki, Shirou",
+    "prompt": "Tsubaki, Shirou from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/354866.jpg?s=79bb3143efc76869defd57fbab7f004a"
+  },
+  {
+    "name": "Ume",
+    "prompt": "Ume from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/574322.jpg?s=00540b35569a3b40cc12592c09979759"
+  },
+  {
+    "name": "Umibouzu",
+    "prompt": "Umibouzu from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/574341.jpg?s=09f2c2848754935eb63c7acee23a9b50"
+  },
+  {
+    "name": "Yodoko",
+    "prompt": "Yodoko from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/360687.jpg?s=736895f73be266b1b755fd755112d998"
+  },
+  {
+    "name": "Yukichi",
+    "prompt": "Yukichi from Kakuriyo no Yadomeshi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/574342.jpg?s=25b6863b316652fa62de2ab97adbfa2f"
+  }
+]

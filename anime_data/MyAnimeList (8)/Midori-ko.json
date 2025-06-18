@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Boss",
+    "prompt": "Boss from Midori-ko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/275252.jpg?s=ef8d91976b93bb6b962a4cbbdbdce987"
+  },
+  {
+    "name": "Fabre-kun",
+    "prompt": "Fabre-kun from Midori-ko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/275249.jpg?s=8f4211bcf0e077fe09eca94bead0f0a7"
+  },
+  {
+    "name": "Yamamoto",
+    "prompt": "Yamamoto from Midori-ko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/275250.jpg?s=df8bd1c0c2a96e6534cde87bd8da5e84"
+  }
+]

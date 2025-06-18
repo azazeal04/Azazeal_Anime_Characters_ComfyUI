@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Genos",
+    "prompt": "Genos from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/297329.jpg?s=1dd6cf2edbb45d8bd1e654541226901d"
+  },
+  {
+    "name": "Saitama",
+    "prompt": "Saitama from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/294388.jpg?s=a56fc5484b23811f3308aad1dc7b8b2e"
+  },
+  {
+    "name": "Amahare",
+    "prompt": "Amahare from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/381204.jpg?s=537b78b7e9e05662398ad46ca5461cc1"
+  },
+  {
+    "name": "Armored Gorilla",
+    "prompt": "Armored Gorilla from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/294840.jpg?s=914e660bc2c3d1f558ab17a019ff5d9c"
+  },
+  {
+    "name": "Atomic Samurai",
+    "prompt": "Atomic Samurai from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/296431.jpg?s=cfa2df2f41a128a0cb8f2cb98da32194"
+  },
+  {
+    "name": "Awakened Cockroach",
+    "prompt": "Awakened Cockroach from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/385476.jpg?s=b965cabb34d8043b43913b13c3fe845d"
+  },
+  {
+    "name": "Bakuzan",
+    "prompt": "Bakuzan from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/385477.jpg?s=5df92a7ae47d0fa568a3834a66c98e1a"
+  },
+  {
+    "name": "Bang",
+    "prompt": "Bang from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/492973.jpg?s=15c64fa6b5bb2b6f7eb680ea7febc551"
+  },
+  {
+    "name": "Bearded Worker",
+    "prompt": "Bearded Worker from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/296947.jpg?s=1af74ac144c98215fe6ad9ed6d72c146"
+  },
+  {
+    "name": "Benpatsu",
+    "prompt": "Benpatsu from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/381205.jpg?s=fb153a8cadcd1c3559f5af2a14240375"
+  },
+  {
+    "name": "Bespectacled Worker",
+    "prompt": "Bespectacled Worker from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/339735.jpg?s=65c9e4802f22dba1bd0e180c6bf5697f"
+  },
+  {
+    "name": "Blue Fire",
+    "prompt": "Blue Fire from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/403126.jpg?s=b9999272c047ed6c4c92d95c08a92df0"
+  },
+  {
+    "name": "Bofoy",
+    "prompt": "Bofoy from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/296948.jpg?s=53d942687626b66d6d783b0610b43930"
+  },
+  {
+    "name": "Bomb",
+    "prompt": "Bomb from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/371116.jpg?s=9787de5a43449a6c6df6156ac7016052"
+  },
+  {
+    "name": "Butterfly DX",
+    "prompt": "Butterfly DX from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/381206.jpg?s=5770194f97724a75a47eb6cccfeb088d"
+  },
+  {
+    "name": "Chain'n'toad",
+    "prompt": "Chain'n'toad from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/385160.jpg?s=96847898be09d133dccbdf96a9f442b2"
+  },
+  {
+    "name": "Charanko",
+    "prompt": "Charanko from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/296529.jpg?s=d50c10ad3dfc6e22d1027bb2dc1df716"
+  },
+  {
+    "name": "Child Emperor",
+    "prompt": "Child Emperor from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/296466.jpg?s=67ad651afb3c653a56f48dda5eca4526"
+  },
+  {
+    "name": "Choze",
+    "prompt": "Choze from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/381207.jpg?s=9c300a4f59ee1d3c85e318be9d2b9e16"
+  },
+  {
+    "name": "Darkness Blade",
+    "prompt": "Darkness Blade from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/207155.jpg?s=8d3fe4ff0f04b51429416063af44057a"
+  },
+  {
+    "name": "Death Gatling",
+    "prompt": "Death Gatling from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/385479.jpg?s=7698a551fbb2e379eb75c41cbe3a31d7"
+  },
+  {
+    "name": "Doctor Kuseno",
+    "prompt": "Doctor Kuseno from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/293989.jpg?s=87704f929a4e8b7d0883d82e5c59c40e"
+  },
+  {
+    "name": "Drive Knight",
+    "prompt": "Drive Knight from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/296949.jpg?s=47a61a0e5b5a6e6ec25bd4d7946d4220"
+  },
+  {
+    "name": "Elder Centipede",
+    "prompt": "Elder Centipede from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/385480.jpg?s=0850f6b5888501ce6ca5377ce4abde81"
+  },
+  {
+    "name": "Exma",
+    "prompt": "Exma from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/539867.jpg?s=2150c502580484a3f44cf6cb09d229dd"
+  },
+  {
+    "name": "Eyelashes",
+    "prompt": "Eyelashes from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/385482.jpg?s=f080770aa9c2ad1afbf231e1a46319d9"
+  },
+  {
+    "name": "Eyesight",
+    "prompt": "Eyesight from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/385483.jpg?s=a8df2b3cf8fd8926876eaa8597a1e0e4"
+  },
+  {
+    "name": "Face Ripper",
+    "prompt": "Face Ripper from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/381241.jpg?s=8ac28f5ab23fbef75decd828deef7bfe"
+  },
+  {
+    "name": "Flashy Flash",
+    "prompt": "Flashy Flash from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/337259.jpg?s=3357e874bd03e23186d8cb00c6b90e62"
+  },
+  {
+    "name": "Fubuki",
+    "prompt": "Fubuki from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/473637.jpg?s=7ed26a04a631d8f3175a8ee4b29932fa"
+  },
+  {
+    "name": "G4",
+    "prompt": "G4 from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/377700.jpg?s=f2cfca0cddab3c3a8b2e0aa438bdc1a5"
+  },
+  {
+    "name": "Gale Wind",
+    "prompt": "Gale Wind from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/387402.jpg?s=9614a76bb9f4481e1dbe786796b05c0e"
+  },
+  {
+    "name": "Garou",
+    "prompt": "Garou from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/381817.jpg?s=746f6c6dee054abbdcd26108816ace87"
+  },
+  {
+    "name": "Gatlin",
+    "prompt": "Gatlin from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/381242.jpg?s=e67bbb5e62e681667a89525bc2fb6dbd"
+  },
+  {
+    "name": "Glasses",
+    "prompt": "Glasses from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/385508.jpg?s=ca805ebade9c4b3aff6e4658c07d783f"
+  },
+  {
+    "name": "Golden Ball",
+    "prompt": "Golden Ball from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/294851.jpg?s=fc7e790d8ae74482d94f0312f2f1f9dc"
+  },
+  {
+    "name": "Gouketsu",
+    "prompt": "Gouketsu from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/385509.jpg?s=4d23c597653ad2039b1d2d0b76ebc38f"
+  },
+  {
+    "name": "Gun Gun",
+    "prompt": "Gun Gun from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/385510.jpg?s=403ecef0f6e4b70fde547647361b8bfa"
+  },
+  {
+    "name": "Gyoffrey",
+    "prompt": "Gyoffrey from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/381243.jpg?s=95fe6f0e90720c0aea7b6c79b9935c30"
+  },
+  {
+    "name": "Gyoro Gyoro",
+    "prompt": "Gyoro Gyoro from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/385778.jpg?s=0fada3b3d5e439ca2873f0284299834f"
+  },
+  {
+    "name": "Hamukichi",
+    "prompt": "Hamukichi from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/381244.jpg?s=ee936a6a3ca56f785a2563bd19a444cb"
+  },
+  {
+    "name": "Haragiri",
+    "prompt": "Haragiri from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/381240.jpg?s=e78fc074909f7b6fa62b4085eb39ce80"
+  },
+  {
+    "name": "Heavy Tank Loincloth",
+    "prompt": "Heavy Tank Loincloth from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/385511.jpg?s=801177f2c635adcf4f864fdff1313ac3"
+  },
+  {
+    "name": "Hellfire Flame",
+    "prompt": "Hellfire Flame from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/385512.jpg?s=dc7f50b04d16a4728cd845039cc55fbb"
+  },
+  {
+    "name": "Jakumen",
+    "prompt": "Jakumen from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/381239.jpg?s=5190a96f0ecfff50f93332f164fdeb4a"
+  },
+  {
+    "name": "Junior Centipede",
+    "prompt": "Junior Centipede from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/381238.jpg?s=7ed748bcc840a2c44529a9777721fc69"
+  },
+  {
+    "name": "King",
+    "prompt": "King from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/295005.jpg?s=68df50f95bd6ffeb1553a7a8e652e1b8"
+  },
+  {
+    "name": "Kuroi Seishi",
+    "prompt": "Kuroi Seishi from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/385336.jpg?s=1e70ebace8d0c34cc37dfe950a310cb4"
+  },
+  {
+    "name": "Lightning Genji",
+    "prompt": "Lightning Genji from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/385522.jpg?s=56633e7176ba94a1c763a9b2cb3c5358"
+  },
+  {
+    "name": "Lightning Max",
+    "prompt": "Lightning Max from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/295903.jpg?s=fe34ffa2288c9f486d1ff65e43eb21f4"
+  },
+  {
+    "name": "Lin Lin",
+    "prompt": "Lin Lin from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/385514.jpg?s=5b9e8e56eb26dda1958321bcbeb8d6fb"
+  },
+  {
+    "name": "Magic Trick Man",
+    "prompt": "Magic Trick Man from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/385028.jpg?s=0a211c8ef8c2a4a941dce59032f54520"
+  },
+  {
+    "name": "Maiko Plasma",
+    "prompt": "Maiko Plasma from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/381233.jpg?s=1587c4d45fbfe370b5799129936c6ace"
+  },
+  {
+    "name": "Marshall Gorilla",
+    "prompt": "Marshall Gorilla from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/381234.jpg?s=9442bf4f1d3a77fd0d95f75928dfcac0"
+  },
+  {
+    "name": "Mentai",
+    "prompt": "Mentai from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/381235.jpg?s=21c05703b76a95f07413944276f7194d"
+  },
+  {
+    "name": "Metal Bat",
+    "prompt": "Metal Bat from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/296538.jpg?s=8555fd08e39b12f1af6bdda61eb7f9df"
+  },
+  {
+    "name": "Mohican",
+    "prompt": "Mohican from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/381237.jpg?s=3f67d041cce9e3afea88fbd45dfd1d1c"
+  },
+  {
+    "name": "Monster Princess Super S",
+    "prompt": "Monster Princess Super S from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/379658.jpg?s=e572d65c8ad2acf69aab2140db3a20d5"
+  },
+  {
+    "name": "Mountain Ape",
+    "prompt": "Mountain Ape from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/381236.jpg?s=1c74a8af6d98aa2416c42cc59ab3187e"
+  },
+  {
+    "name": "Mumen Rider",
+    "prompt": "Mumen Rider from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/344059.jpg?s=a1f8f15abb64c481887dd4368e71f82d"
+  },
+  {
+    "name": "Narinki",
+    "prompt": "Narinki from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/385521.jpg?s=ca95aa4457bf49453a07676fd1b764cc"
+  },
+  {
+    "name": "Nichirin",
+    "prompt": "Nichirin from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/539868.jpg?s=92ceb1f6deae2cb0541f118208f269c0"
+  },
+  {
+    "name": "Nyan",
+    "prompt": "Nyan from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/377547.jpg?s=f230babd793c4c48498dec258756db51"
+  },
+  {
+    "name": "Orochi",
+    "prompt": "Orochi from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/385776.jpg?s=ba378cab75d0b69fa6bbcbfbe7e90a5b"
+  },
+  {
+    "name": "Phoenix Man",
+    "prompt": "Phoenix Man from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/385775.jpg?s=fbc125fc1c171e0b3914a978cfff14ea"
+  },
+  {
+    "name": "Pig God",
+    "prompt": "Pig God from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/338336.jpg?s=86dc3bb4a21c9239da258c5fa380c796"
+  },
+  {
+    "name": "Pineapple",
+    "prompt": "Pineapple from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/381232.jpg?s=40b96eb4d6b8c0e40f674d825c73cc3b"
+  },
+  {
+    "name": "Puri-Puri Prisoner",
+    "prompt": "Puri-Puri Prisoner from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/296951.jpg?s=67627c9c169a49e7c66799f82204a47b"
+  },
+  {
+    "name": "Rhino Wrestler",
+    "prompt": "Rhino Wrestler from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/403938.jpg?s=470892f65afab9aabde8cb60a86bc72c"
+  },
+  {
+    "name": "Rosie",
+    "prompt": "Rosie from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/381230.jpg?s=760030f3e8efd182d20dc80db1a8c72e"
+  },
+  {
+    "name": "Senior Centipede",
+    "prompt": "Senior Centipede from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/403937.jpg?s=53fa079a900c73d92e05370b9b84727d"
+  },
+  {
+    "name": "Shoulderpads",
+    "prompt": "Shoulderpads from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/381225.jpg?s=dd4e5172a59d12f81aa6b712ca7c3ef4"
+  },
+  {
+    "name": "Sitch",
+    "prompt": "Sitch from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/377699.jpg?s=67b2fb1baf128366bc43e7fc016d86b3"
+  },
+  {
+    "name": "Sludge Jellyfish",
+    "prompt": "Sludge Jellyfish from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/381217.jpg?s=b8e62d75480f9577248ae17589866321"
+  },
+  {
+    "name": "Smile Man",
+    "prompt": "Smile Man from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/338912.jpg?s=97786c6fbbd08afdd319c724ba22771a"
+  },
+  {
+    "name": "Snek",
+    "prompt": "Snek from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/294847.jpg?s=6781bd6a9ee6441b7b0543a6bf7c576c"
+  },
+  {
+    "name": "Sour Face",
+    "prompt": "Sour Face from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/385774.jpg?s=a3f07a4c4bb1c9b25080ebba5d29a758"
+  },
+  {
+    "name": "Speed-o'-Sound Sonic",
+    "prompt": "Speed-o'-Sound Sonic from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/294250.jpg?s=5cc41f3b4143928a0a665407b4db76be"
+  },
+  {
+    "name": "Spring Mustachio",
+    "prompt": "Spring Mustachio from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/294846.jpg?s=aa211efe00a6ffa1d9ee2a2abfd961aa"
+  },
+  {
+    "name": "Stinger",
+    "prompt": "Stinger from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/295550.jpg?s=4a895dd7d426e862f22ffba43ba9f974"
+  },
+  {
+    "name": "Suiryu",
+    "prompt": "Suiryu from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/385734.jpg?s=40a26b05f2a48187a3e6881ab18dc0de"
+  },
+  {
+    "name": "Superalloy Darkshine",
+    "prompt": "Superalloy Darkshine from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/296465.jpg?s=d144f76e2a846a8913fd4510e8bacccc"
+  },
+  {
+    "name": "Suppon",
+    "prompt": "Suppon from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/378064.jpg?s=b9bd20f52ec6368cd67fe9d8536bd682"
+  },
+  {
+    "name": "Sweet Mask",
+    "prompt": "Sweet Mask from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/294850.jpg?s=115fcfdfd7a7f418c78cb3ef6350a037"
+  },
+  {
+    "name": "Tanktop Black Hole",
+    "prompt": "Tanktop Black Hole from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/295935.jpg?s=5040bfe7f9089cb276132993b60b970d"
+  },
+  {
+    "name": "Tanktop Hatter",
+    "prompt": "Tanktop Hatter from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/381216.jpg?s=153404c96a798a918bb245dad60fb3ba"
+  },
+  {
+    "name": "Tanktop Master",
+    "prompt": "Tanktop Master from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/337260.jpg?s=2d5600c722c1a3b9483462ed3c21a30a"
+  },
+  {
+    "name": "Tanktop Tiger",
+    "prompt": "Tanktop Tiger from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/295905.jpg?s=6b3258a3bd4029d8133f8e8c320be667"
+  },
+  {
+    "name": "Tanktop Vegetarian",
+    "prompt": "Tanktop Vegetarian from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/381214.jpg?s=95adda0afce23ce109037d035dd94df2"
+  },
+  {
+    "name": "Tareo",
+    "prompt": "Tareo from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/385773.jpg?s=f05636080ed0d8ee3879357146c86bff"
+  },
+  {
+    "name": "Tatsumaki",
+    "prompt": "Tatsumaki from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/543830.jpg?s=3858a5427b608eacb5f5d689906711f1"
+  },
+  {
+    "name": "Tongue Stretcher",
+    "prompt": "Tongue Stretcher from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/377698.jpg?s=0f5a51dfd3c4fda564a5c52482636cec"
+  },
+  {
+    "name": "Venus Mantrap",
+    "prompt": "Venus Mantrap from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/381212.jpg?s=3546b883cdadba700e3cebf7dc4f82c4"
+  },
+  {
+    "name": "Volten",
+    "prompt": "Volten from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/381211.jpg?s=43d76c10646ec56c156bfbad0162a59a"
+  },
+  {
+    "name": "Waganma",
+    "prompt": "Waganma from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/385520.jpg?s=71c4bb184b19a1ed2887948bf01a7b3a"
+  },
+  {
+    "name": "Watchdog-man",
+    "prompt": "Watchdog-man from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/294845.jpg?s=47fb9827161b9d35d2238056fb4d1a87"
+  },
+  {
+    "name": "Wild Horn",
+    "prompt": "Wild Horn from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/403438.jpg?s=21058a251fa659a0847fbdb6be5d8ed9"
+  },
+  {
+    "name": "Zakos",
+    "prompt": "Zakos from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/456494.jpg?s=8f4fe1c9b5cd93e818a4d1b864f0a1bf"
+  },
+  {
+    "name": "Zanbai",
+    "prompt": "Zanbai from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/381210.jpg?s=bcf423d6d68b2aaa70ad946bad2613d3"
+  },
+  {
+    "name": "Zeimeet",
+    "prompt": "Zeimeet from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/381209.jpg?s=2afffea7bbddb202b8f3a5726d55e3f6"
+  },
+  {
+    "name": "Zenko",
+    "prompt": "Zenko from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/381203.jpg?s=c06026bf9ca34d15d4f8e4cd2c5930ee"
+  },
+  {
+    "name": "Zombieman",
+    "prompt": "Zombieman from One Punch Man 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/295004.jpg?s=815782ac5831639306c1e6d04ae9794d"
+  }
+]

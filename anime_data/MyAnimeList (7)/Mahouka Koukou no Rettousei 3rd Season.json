@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Sakurai, Minami",
+    "prompt": "Sakurai, Minami from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/312519.jpg?s=290cb0ecf7b43ce698863fef888a0864"
+  },
+  {
+    "name": "Shiba, Tatsuya",
+    "prompt": "Shiba, Tatsuya from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/236781.jpg?s=9f7943dd885f0d2a4ad7fa63c3f110eb"
+  },
+  {
+    "name": "Shiba, Miyuki",
+    "prompt": "Shiba, Miyuki from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/240187.jpg?s=8b2f548a4b9bd2dfbd7d06720c06c02a"
+  },
+  {
+    "name": "Akechi Goldie, Amelia Eimi",
+    "prompt": "Akechi Goldie, Amelia Eimi from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/465212.jpg?s=c672fad4eee5efb353bb62cfa558da2d"
+  },
+  {
+    "name": "Chiba, Erika",
+    "prompt": "Chiba, Erika from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/252891.jpg?s=54ac535ebbbefe8c7b39a1fba83ebed0"
+  },
+  {
+    "name": "Chikura, Tomoko",
+    "prompt": "Chikura, Tomoko from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Chiyoda, Kanon",
+    "prompt": "Chiyoda, Kanon from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/549557.jpg?s=c8f8117225ee0dc59830984046d53191"
+  },
+  {
+    "name": "Fujibayashi, Kyouko",
+    "prompt": "Fujibayashi, Kyouko from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/549560.jpg?s=6abe2f6d78163cba4a2bc1154984642d"
+  },
+  {
+    "name": "Gu, Jie",
+    "prompt": "Gu, Jie from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/312508.jpg?s=6fa91f27efcec294382ffc5ee5ebe933"
+  },
+  {
+    "name": "Hatae",
+    "prompt": "Hatae from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/554647.jpg?s=fca04fcbc606ee62fab93754dbd8e5c9"
+  },
+  {
+    "name": "Hattori, Hanzou Gyoubushoujo",
+    "prompt": "Hattori, Hanzou Gyoubushoujo from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/246915.jpg?s=7c6e2dec4af9b23032c84e815b623c51"
+  },
+  {
+    "name": "Hayama, Tadanori",
+    "prompt": "Hayama, Tadanori from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/324334.jpg?s=58b4c86d0743fbc3d9d58759ec640121"
+  },
+  {
+    "name": "Hirakawa, Chiaki",
+    "prompt": "Hirakawa, Chiaki from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/257237.jpg?s=ce09eda3b743c9ce9381ec69fdef2e2a"
+  },
+  {
+    "name": "Ichijou, Masaki",
+    "prompt": "Ichijou, Masaki from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/549563.jpg?s=6e2943f6bfb79184a9261e7fc1f473c9"
+  },
+  {
+    "name": "Isori, Kei",
+    "prompt": "Isori, Kei from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/257235.jpg?s=0622bfa025d3039d25052748c9980b90"
+  },
+  {
+    "name": "Juumonji, Katsuto",
+    "prompt": "Juumonji, Katsuto from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/252901.jpg?s=a0e1e1bd1c48466a54da19e6f7a534a4"
+  },
+  {
+    "name": "Kanda",
+    "prompt": "Kanda from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/546528.jpg?s=e7e64b38be3dfcd731b350c16ac651f0"
+  },
+  {
+    "name": "Kazama, Harunobu",
+    "prompt": "Kazama, Harunobu from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/253925.jpg?s=b268d24f7cea5d7ea007dca8b394b0d1"
+  },
+  {
+    "name": "Kichijouji, Shinkurou",
+    "prompt": "Kichijouji, Shinkurou from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/252903.jpg?s=efbe2491b70b8262fdb1c40e28c1bd73"
+  },
+  {
+    "name": "Kirihara, Takeaki",
+    "prompt": "Kirihara, Takeaki from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/243805.jpg?s=fa646cd4e41367ee00144ea80d7aa2c8"
+  },
+  {
+    "name": "Kitayama, Shizuku",
+    "prompt": "Kitayama, Shizuku from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/465210.jpg?s=e558518b2035a21c625cca3b035485b5"
+  },
+  {
+    "name": "Kokonoe, Yakumo",
+    "prompt": "Kokonoe, Yakumo from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/245505.jpg?s=0a41471815fce5438493a1373909a43a"
+  },
+  {
+    "name": "Kudou, Minoru",
+    "prompt": "Kudou, Minoru from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/548276.jpg?s=ead0f8cb9a1f29a4a072916bffa1d11b"
+  },
+  {
+    "name": "Kudou, Makoto",
+    "prompt": "Kudou, Makoto from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/550220.jpg?s=d8232a7fa281d74d01cdd48bde956239"
+  },
+  {
+    "name": "Kudou, Retsu",
+    "prompt": "Kudou, Retsu from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/253909.jpg?s=1bb5092d518d7b169d8ceacb9fdb9bd8"
+  },
+  {
+    "name": "Kudou Shields, Angelina",
+    "prompt": "Kudou Shields, Angelina from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/275802.jpg?s=a99094051958d3289655b8886c5d04df"
+  },
+  {
+    "name": "Kuki, Mamoru",
+    "prompt": "Kuki, Mamoru from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/548888.jpg?s=df55efcafa24bf5d2a68234201b9b235"
+  },
+  {
+    "name": "Kuroba, Mitsugu",
+    "prompt": "Kuroba, Mitsugu from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/548889.jpg?s=2b465fc92b0e7e6458b452e5a14d1a3e"
+  },
+  {
+    "name": "Kuroba, Ayako",
+    "prompt": "Kuroba, Ayako from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/548890.jpg?s=969a3fc3d38acd900015191aebde4b09"
+  },
+  {
+    "name": "Kuroba, Fumiya",
+    "prompt": "Kuroba, Fumiya from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/548891.jpg?s=6c0b0dbabfc807b77bf67fb9b0913a43"
+  },
+  {
+    "name": "Mashiba, Shinsuke",
+    "prompt": "Mashiba, Shinsuke from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mitsui, Honoka",
+    "prompt": "Mitsui, Honoka from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/549564.jpg?s=7ed4c1226cea716f7169525b063e10cb"
+  },
+  {
+    "name": "Momoyama, Azuma",
+    "prompt": "Momoyama, Azuma from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/546529.jpg?s=d7ee8c0977d39aba30c97e111427a3e5"
+  },
+  {
+    "name": "Morisaki, Shun",
+    "prompt": "Morisaki, Shun from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/243799.jpg?s=f1b4696042adbd2772e44406bc7d81ec"
+  },
+  {
+    "name": "Mugura, Asumi",
+    "prompt": "Mugura, Asumi from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nakajou, Azusa",
+    "prompt": "Nakajou, Azusa from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/243351.jpg?s=4d4eb738c605343489feed639c6db25d"
+  },
+  {
+    "name": "Nakura, Saburou",
+    "prompt": "Nakura, Saburou from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/548277.jpg?s=c9cc849c7c866e20973a09d26fc9b9ff"
+  },
+  {
+    "name": "Pixie",
+    "prompt": "Pixie from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/549561.jpg?s=94e1f6dd975649981ac21d9ee6e7aff3"
+  },
+  {
+    "name": "Rosen, Ernst",
+    "prompt": "Rosen, Ernst from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Saegusa, Mayumi",
+    "prompt": "Saegusa, Mayumi from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/465363.jpg?s=203afb9195d4df810d5e090da52c8774"
+  },
+  {
+    "name": "Saegusa, Izumi",
+    "prompt": "Saegusa, Izumi from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/549559.jpg?s=00637eec9f52cd7e6e744954dac79d8e"
+  },
+  {
+    "name": "Saegusa, Kouichi",
+    "prompt": "Saegusa, Kouichi from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/545474.jpg?s=311eac69f460570eeb750baeb984de91"
+  },
+  {
+    "name": "Saegusa, Kasumi",
+    "prompt": "Saegusa, Kasumi from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/549558.jpg?s=ddb3b02dd0748ef5e7d06c169d4077cc"
+  },
+  {
+    "name": "Saeki, Hiromi",
+    "prompt": "Saeki, Hiromi from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/548278.jpg?s=482dc3e9a8977950a5685b2629d9ee60"
+  },
+  {
+    "name": "Saijou, Leonhart",
+    "prompt": "Saijou, Leonhart from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/258965.jpg?s=dcd5fb93ac7b5c5061a86469e9cb43c3"
+  },
+  {
+    "name": "Sakai",
+    "prompt": "Sakai from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/550217.jpg?s=d0f39ee5a7b6428a4c000378cfa0794c"
+  },
+  {
+    "name": "Satomi, Subaru",
+    "prompt": "Satomi, Subaru from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/248331.jpg?s=768a1c0f23756601570dd1548afbfb69"
+  },
+  {
+    "name": "Sawaki, Midori",
+    "prompt": "Sawaki, Midori from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/243807.jpg?s=b7c81d91759f61859c33e125667c61c8"
+  },
+  {
+    "name": "Shibata, Mizuki",
+    "prompt": "Shibata, Mizuki from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/549562.jpg?s=aaa795ea4d792651d8d858ce2a426b3d"
+  },
+  {
+    "name": "Shibata, Osamu",
+    "prompt": "Shibata, Osamu from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Shiiba, Hidetsugu",
+    "prompt": "Shiiba, Hidetsugu from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Shippou, Takuma",
+    "prompt": "Shippou, Takuma from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/545475.jpg?s=d63925e5d36ac4329655b008ed170392"
+  },
+  {
+    "name": "Shippou, Takumi",
+    "prompt": "Shippou, Takumi from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/546530.jpg?s=23160a0d154edfeeaf6251368931adfc"
+  },
+  {
+    "name": "Shizuka, Haruto",
+    "prompt": "Shizuka, Haruto from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Smith, Kent",
+    "prompt": "Smith, Kent from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/547325.jpg?s=cf08952999e1c0f74cbb1f7cafd4fd99"
+  },
+  {
+    "name": "Tomitsuka, Hagane",
+    "prompt": "Tomitsuka, Hagane from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/312512.jpg?s=ffaf3d7a4c5aefc59b8164243574673d"
+  },
+  {
+    "name": "Tsukuba, Touka",
+    "prompt": "Tsukuba, Touka from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tsuzura, Kazuo",
+    "prompt": "Tsuzura, Kazuo from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/546532.jpg?s=23c2ec45c24e1198f869581cdb323010"
+  },
+  {
+    "name": "Watanabe, Mari",
+    "prompt": "Watanabe, Mari from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/252917.jpg?s=7ad6ede0a8cb5cbc6e6e9ddfbe285b7a"
+  },
+  {
+    "name": "Yaosaka",
+    "prompt": "Yaosaka from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/546531.jpg?s=32514846681210483ad61f4bbd010819"
+  },
+  {
+    "name": "Yoshida, Mikihiko",
+    "prompt": "Yoshida, Mikihiko from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/242133.jpg?s=aa222b656cc46ad8ed3fa748ba879612"
+  },
+  {
+    "name": "Yotsuba, Maya",
+    "prompt": "Yotsuba, Maya from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/546623.jpg?s=593dbe505789791d734da1eb05bb0b36"
+  },
+  {
+    "name": "Zhou, Gongjin",
+    "prompt": "Zhou, Gongjin from Mahouka Koukou no Rettousei 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/257937.jpg?s=88c9cdcb242ced63dcf383806c2a345b"
+  }
+]

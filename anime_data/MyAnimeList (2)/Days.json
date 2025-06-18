@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Kazama, Jin",
+    "prompt": "Kazama, Jin from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/306558.jpg?s=b031ab47973bc2f963dab685d15a1c76"
+  },
+  {
+    "name": "Tsukamoto, Tsukushi",
+    "prompt": "Tsukamoto, Tsukushi from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/306559.jpg?s=32ce9215ab81f0ce3c34305f8c41680f"
+  },
+  {
+    "name": "Haibara, Jirou",
+    "prompt": "Haibara, Jirou from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/306564.jpg?s=2218917d84f043d7f6789a5e2a1dc6e3"
+  },
+  {
+    "name": "Hayase, Takanobu",
+    "prompt": "Hayase, Takanobu from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/366783.jpg?s=a31d70cc8d5828f717f5bd94af7045ff"
+  },
+  {
+    "name": "Himura, Mayumi",
+    "prompt": "Himura, Mayumi from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/314590.jpg?s=3e1111bd0bc1bad0f237852008f57d37"
+  },
+  {
+    "name": "Hoshina, Takumi",
+    "prompt": "Hoshina, Takumi from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/315561.jpg?s=e4e9474f76cfcd471f39721c2a392e31"
+  },
+  {
+    "name": "Indou, Kaoru",
+    "prompt": "Indou, Kaoru from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/307822.jpg?s=f198fbf4fc79a311322ecb076c3ca5cf"
+  },
+  {
+    "name": "Inohara, Susumu",
+    "prompt": "Inohara, Susumu from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/306565.jpg?s=b8f4a5d0a1872b83783a7eb133ae7c15"
+  },
+  {
+    "name": "Isurugi, Atomu",
+    "prompt": "Isurugi, Atomu from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/315659.jpg?s=f70180f15120ce6035071bcdc6887575"
+  },
+  {
+    "name": "Kai, Takafumi",
+    "prompt": "Kai, Takafumi from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/316056.jpg?s=7a9814eabbb762cd48178d81bb07e65f"
+  },
+  {
+    "name": "Kasahara, Junpei",
+    "prompt": "Kasahara, Junpei from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/482978.jpg?s=0e77b4cbf6edf7f857f2a68552d05c94"
+  },
+  {
+    "name": "Kimishita, Atsushi",
+    "prompt": "Kimishita, Atsushi from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/306561.jpg?s=4a0916ed399424a5b5f90ddf9fb4d248"
+  },
+  {
+    "name": "Kisaragi, Tarou",
+    "prompt": "Kisaragi, Tarou from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/482981.jpg?s=2984088c2f6604f1454b38978acf310b"
+  },
+  {
+    "name": "Kokubo, Mitsuru",
+    "prompt": "Kokubo, Mitsuru from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/482979.jpg?s=79a6b8625089bd292d9ea686e50c0421"
+  },
+  {
+    "name": "Kondou, Ruka",
+    "prompt": "Kondou, Ruka from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/482980.jpg?s=32dad1d7a90791656b4a3c64632beeda"
+  },
+  {
+    "name": "Kurusu, Hiroyuki",
+    "prompt": "Kurusu, Hiroyuki from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/306566.jpg?s=7028397450811a96b933460d299ca636"
+  },
+  {
+    "name": "Maruoka, Yuuji",
+    "prompt": "Maruoka, Yuuji from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/316055.jpg?s=6c364fd7dc19a79ad7390f49a1b49353"
+  },
+  {
+    "name": "Mizuki, Hisahito",
+    "prompt": "Mizuki, Hisahito from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/306560.jpg?s=1de1ae8fba6ced6520f766b3044dcd25"
+  },
+  {
+    "name": "Nakazawa, Katsutoshi",
+    "prompt": "Nakazawa, Katsutoshi from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/306572.jpg?s=19e7d22871cd22f4135d245d5f366e2b"
+  },
+  {
+    "name": "Nakijin, Shou",
+    "prompt": "Nakijin, Shou from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/306569.jpg?s=61b2e5a0ee9de7e7d7a2246e1bec9801"
+  },
+  {
+    "name": "Narukami, Shuuji",
+    "prompt": "Narukami, Shuuji from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/307823.jpg?s=c2c335d54addd3cecaeecc7fa60e0c85"
+  },
+  {
+    "name": "Nitobe, Tetsuya",
+    "prompt": "Nitobe, Tetsuya from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/306567.jpg?s=8fcdefdde317393cbd85e2e95c2870b4"
+  },
+  {
+    "name": "Ooshiba, Kiichi",
+    "prompt": "Ooshiba, Kiichi from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/306562.jpg?s=40a47d04d356b43f7895a2456b7643d7"
+  },
+  {
+    "name": "Satou, Hideki",
+    "prompt": "Satou, Hideki from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/482977.jpg?s=a02d62b1a93f5741f66a8cbe19b2f4fa"
+  },
+  {
+    "name": "Shitatori, Naoki",
+    "prompt": "Shitatori, Naoki from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/306568.jpg?s=e7efe4438a650103f66b0ec1f8af8de0"
+  },
+  {
+    "name": "Suzuki, Eita",
+    "prompt": "Suzuki, Eita from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/482976.jpg?s=7ed852f840d5b6a23487de0949c8731c"
+  },
+  {
+    "name": "Tachibana, Sayuri",
+    "prompt": "Tachibana, Sayuri from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/306571.jpg?s=04eb75c50b4d23d7154231b51a03741a"
+  },
+  {
+    "name": "Taira, Genichirou",
+    "prompt": "Taira, Genichirou from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/314589.jpg?s=e033e86721ca04c4711cbb91d7723fb9"
+  },
+  {
+    "name": "Tsukamoto, Nozomi",
+    "prompt": "Tsukamoto, Nozomi from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/326888.jpg?s=904fafcc65ad3a629a2edb65f13f297c"
+  },
+  {
+    "name": "Ubukata, Chikako",
+    "prompt": "Ubukata, Chikako from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/311930.jpg?s=a46049c44f1d5ead719359dcbec2475c"
+  },
+  {
+    "name": "Ura, Shizuka",
+    "prompt": "Ura, Shizuka from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/315660.jpg?s=97a39cfbaff7d3572b2a506d1e2688e8"
+  },
+  {
+    "name": "Usui, Yuuta",
+    "prompt": "Usui, Yuuta from Days",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/306563.jpg?s=1141fafaeeef2ff194d275b62738b904"
+  }
+]

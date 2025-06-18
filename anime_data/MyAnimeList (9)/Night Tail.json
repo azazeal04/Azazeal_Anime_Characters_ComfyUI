@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Yoru",
+    "prompt": "Yoru from Night Tail",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/579611.jpg?s=7ff1e22f6a0b4aee99de7d3d22a579a7"
+  },
+  {
+    "name": "Asahi",
+    "prompt": "Asahi from Night Tail",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/579616.jpg?s=02e7073abcf8f7c01e480c00e1dec8a0"
+  },
+  {
+    "name": "Kouhei",
+    "prompt": "Kouhei from Night Tail",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/579617.jpg?s=1c94869a33fc39f2279134d383faab12"
+  },
+  {
+    "name": "Menou",
+    "prompt": "Menou from Night Tail",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/579615.jpg?s=c671fe4dd6a280935eaade87d640cf53"
+  },
+  {
+    "name": "Shirou",
+    "prompt": "Shirou from Night Tail",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/579618.jpg?s=9a7c1e06de6477707701e37a1f3207d5"
+  }
+]

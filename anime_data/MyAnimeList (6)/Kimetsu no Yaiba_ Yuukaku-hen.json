@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Agatsuma, Zenitsu",
+    "prompt": "Agatsuma, Zenitsu from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/459689.jpg?s=d5ccecc4a7b9e2118acb849a2062a84c"
+  },
+  {
+    "name": "Hashibira, Inosuke",
+    "prompt": "Hashibira, Inosuke from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/329560.jpg?s=5ef0629d3641cd02eaeaf7d4df9ea4c2"
+  },
+  {
+    "name": "Kamado, Tanjirou",
+    "prompt": "Kamado, Tanjirou from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/386735.jpg?s=7327e90f2310ececd18696cd4aa2ff4e"
+  },
+  {
+    "name": "Kamado, Nezuko",
+    "prompt": "Kamado, Nezuko from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/378254.jpg?s=c3cdc50f2d9f3b30e4453c8ca1f8460f"
+  },
+  {
+    "name": "Uzui, Tengen",
+    "prompt": "Uzui, Tengen from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/387706.jpg?s=c761782087650f5a1e98a21aa7635280"
+  },
+  {
+    "name": "Adoptive Father",
+    "prompt": "Adoptive Father from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/546817.jpg?s=90371def2b67021950eb0c65dfd99051"
+  },
+  {
+    "name": "Adoptive Mother",
+    "prompt": "Adoptive Mother from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/546814.jpg?s=bbec56ce01bfb1cb41b4685a0d0644ba"
+  },
+  {
+    "name": "Akaza",
+    "prompt": "Akaza from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/464775.jpg?s=a5edaaf57b8328c7796b99c76241a6e9"
+  },
+  {
+    "name": "Angry Man",
+    "prompt": "Angry Man from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/546831.jpg?s=03bc14573554ceb0dcc4ab26d883b2d8"
+  },
+  {
+    "name": "Blue-Robed Courtesan",
+    "prompt": "Blue-Robed Courtesan from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/546821.jpg?s=abc2e4f020ea54a2016b45520636525b"
+  },
+  {
+    "name": "Confronting Courtesan",
+    "prompt": "Confronting Courtesan from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/546825.jpg?s=4a63ffed32381dd403e1b1acbb7cbe56"
+  },
+  {
+    "name": "Daki",
+    "prompt": "Daki from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/464771.jpg?s=11e70e2b3e946029ea4f59d8584af86c"
+  },
+  {
+    "name": "Douma",
+    "prompt": "Douma from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/465011.jpg?s=1a737fcd133e89dabb7bb76340e3a9d6"
+  },
+  {
+    "name": "Female Neighbor",
+    "prompt": "Female Neighbor from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/546819.jpg?s=679d091497cad26fca13b7659c716bcb"
+  },
+  {
+    "name": "Gyuutarou",
+    "prompt": "Gyuutarou from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/462922.jpg?s=dee697702e7eb7d38560d84718765284"
+  },
+  {
+    "name": "Haganezuka, Hotaru",
+    "prompt": "Haganezuka, Hotaru from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/379207.jpg?s=3c7d46ae2ec328058158ba2fdfe3272c"
+  },
+  {
+    "name": "Himejima, Gyoumei",
+    "prompt": "Himejima, Gyoumei from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/550017.jpg?s=161a6d45c08fe0c74b24668fd665d79d"
+  },
+  {
+    "name": "Hinatsuru",
+    "prompt": "Hinatsuru from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/459860.jpg?s=de284ad626f6bff6e34bad5a94568cef"
+  },
+  {
+    "name": "Hiro's Lover",
+    "prompt": "Hiro's Lover from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/546832.jpg?s=81d7fce66eeebbf065584f849b83d936"
+  },
+  {
+    "name": "Iguro, Obanai",
+    "prompt": "Iguro, Obanai from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/466014.jpg?s=84acfcc6983f442cb4b968c78baf4f87"
+  },
+  {
+    "name": "Kamado, Kie",
+    "prompt": "Kamado, Kie from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/382215.jpg?s=60219faf71eb6cf8865617ec462e30f2"
+  },
+  {
+    "name": "Kamado, Takeo",
+    "prompt": "Kamado, Takeo from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/382220.jpg?s=80326c0802f6be7c6660ac3cd3523319"
+  },
+  {
+    "name": "Kamado, Tanjuurou",
+    "prompt": "Kamado, Tanjuurou from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/385444.jpg?s=38029074c6aaebd8cd81fca6f2edc8b1"
+  },
+  {
+    "name": "Kamado, Shigeru",
+    "prompt": "Kamado, Shigeru from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/382216.jpg?s=2db24cd69b58971d488e5b90bf799a51"
+  },
+  {
+    "name": "Kamado, Rokuta",
+    "prompt": "Kamado, Rokuta from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/382217.jpg?s=9e32b3eaa1f0edc767b0154a0fefc9d3"
+  },
+  {
+    "name": "Kamado, Hanako",
+    "prompt": "Kamado, Hanako from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/382218.jpg?s=73cbfe14ee593811d70d0a44de16ce01"
+  },
+  {
+    "name": "Kanzaki, Aoi",
+    "prompt": "Kanzaki, Aoi from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/388816.jpg?s=8edf4db221b9669a7360c07365b70d82"
+  },
+  {
+    "name": "Kazumi",
+    "prompt": "Kazumi from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/388802.jpg?s=b09c97c058e628855b780e0ffb697f47"
+  },
+  {
+    "name": "Kibutsuji, Muzan",
+    "prompt": "Kibutsuji, Muzan from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/384669.jpg?s=c9d7f04d71e6651de82cb1e56f52e8e0"
+  },
+  {
+    "name": "Kochou, Shinobu",
+    "prompt": "Kochou, Shinobu from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/386591.jpg?s=3c18dc65ee6cd3a032214d6a6e49ac9e"
+  },
+  {
+    "name": "Koinatsu",
+    "prompt": "Koinatsu from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/464878.jpg?s=53b713be1b60d616a4e520b30d859d56"
+  },
+  {
+    "name": "Kyogoku House Madam",
+    "prompt": "Kyogoku House Madam from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/546830.jpg?s=695daeb15de37c57793ac2ed5474e78d"
+  },
+  {
+    "name": "Kyogoku House Master",
+    "prompt": "Kyogoku House Master from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/546827.jpg?s=db62dd4aa64ae61a2e40af975b3f254d"
+  },
+  {
+    "name": "Lecherous Tourist",
+    "prompt": "Lecherous Tourist from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/546824.jpg?s=8e0b6d68a3fd9abf69620b1ec3e202c4"
+  },
+  {
+    "name": "Makio",
+    "prompt": "Makio from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/459853.jpg?s=e7ba1977491f6a6f65e3abae0ce1385d"
+  },
+  {
+    "name": "Male Neighbor",
+    "prompt": "Male Neighbor from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/546820.jpg?s=b4c96b313a8bdaa9953dfdefe3d426ba"
+  },
+  {
+    "name": "Man's Lover",
+    "prompt": "Man's Lover from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/546834.jpg?s=e1ab561ff7f918fa0edbb193b6aa9c9d"
+  },
+  {
+    "name": "Mantis Demon",
+    "prompt": "Mantis Demon from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/546818.jpg?s=54dab0ad0ad7c8aa0fdc7a9fbb5503c4"
+  },
+  {
+    "name": "Murata",
+    "prompt": "Murata from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/388807.jpg?s=5db86cfffbfb133ce9fa16599207961e"
+  },
+  {
+    "name": "Nakahara, Sumi",
+    "prompt": "Nakahara, Sumi from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/389758.jpg?s=efa785d5e5ef6e4b22398c99f3033fdd"
+  },
+  {
+    "name": "Nakime",
+    "prompt": "Nakime from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/551259.jpg?s=72bfdcb99a910a1f62b2ea3d08990407"
+  },
+  {
+    "name": "Omitsu",
+    "prompt": "Omitsu from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/516087.jpg?s=1e5ac164aa9181d01dfca596aff6df05"
+  },
+  {
+    "name": "Rashomon Madam",
+    "prompt": "Rashomon Madam from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/546835.jpg?s=13836d9990d5d915cd305bc27a9a6603"
+  },
+  {
+    "name": "Rashomon Samurai",
+    "prompt": "Rashomon Samurai from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/546836.jpg?s=8884d853fcd07a25b9d4c86ae90a0b08"
+  },
+  {
+    "name": "Red-Robed Courtesan",
+    "prompt": "Red-Robed Courtesan from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/546822.jpg?s=e564c378249a36fc01babb1284246af0"
+  },
+  {
+    "name": "Rengoku, Shinjurou",
+    "prompt": "Rengoku, Shinjurou from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/465501.jpg?s=2bb75df2f92ea90dec07adf0ffb7242d"
+  },
+  {
+    "name": "Rengoku, Kyoujurou",
+    "prompt": "Rengoku, Kyoujurou from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/423443.jpg?s=2f06005562d13647b1a8280b93db9d54"
+  },
+  {
+    "name": "Rengoku, Senjurou",
+    "prompt": "Rengoku, Senjurou from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/425323.jpg?s=8feda69a94206347e75f97ff875e4590"
+  },
+  {
+    "name": "Rengoku, Ruka",
+    "prompt": "Rengoku, Ruka from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/421789.jpg?s=bf91e18e72671b24d6ab6067ae130fe1"
+  },
+  {
+    "name": "Reporting Kyogoku Chaperone",
+    "prompt": "Reporting Kyogoku Chaperone from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/546826.jpg?s=735db43c082fdc1628c41f30af51a31a"
+  },
+  {
+    "name": "Sabito",
+    "prompt": "Sabito from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/382212.jpg?s=8900dfee4f9143faf1f19397063d29f4"
+  },
+  {
+    "name": "Scared Man",
+    "prompt": "Scared Man from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/546833.jpg?s=5ce0818ddf379a9d8478e5c60709528a"
+  },
+  {
+    "name": "Shinazugawa, Genya",
+    "prompt": "Shinazugawa, Genya from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/390152.jpg?s=cc66310ec90675724eaa4a626300a972"
+  },
+  {
+    "name": "Suma",
+    "prompt": "Suma from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/464879.jpg?s=75718922cef0ba857cd4e2b28e6a2f99"
+  },
+  {
+    "name": "Swamp Demon",
+    "prompt": "Swamp Demon from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/385332.jpg?s=c2f198f1fd208ad1516dde4f7ecca7e5"
+  },
+  {
+    "name": "Takada, Naho",
+    "prompt": "Takada, Naho from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/389757.jpg?s=4dc053e01410031c6521cc2f6ec2a333"
+  },
+  {
+    "name": "Tennouji, Matsuemon",
+    "prompt": "Tennouji, Matsuemon from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/494313.jpg?s=174a750d68fe386fa752789dfb53052c"
+  },
+  {
+    "name": "Terauchi, Kiyo",
+    "prompt": "Terauchi, Kiyo from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/389759.jpg?s=18a87efd5ce4b0ee8dbb6e3251c1fd61"
+  },
+  {
+    "name": "Tokito House Madam",
+    "prompt": "Tokito House Madam from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/546829.jpg?s=31cf0bc898d38f6a8cc8e19649049576"
+  },
+  {
+    "name": "Tokito House Master",
+    "prompt": "Tokito House Master from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/546828.jpg?s=3a2dadd76a61a3d29f5f1e53566a7aae"
+  },
+  {
+    "name": "Tokitou, Muichirou",
+    "prompt": "Tokitou, Muichirou from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/464903.jpg?s=8a4c1a500e00fe55746dd8d259401513"
+  },
+  {
+    "name": "Tomioka, Giyuu",
+    "prompt": "Tomioka, Giyuu from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/423445.jpg?s=a049de02a43de100a4b68b759a95fa41"
+  },
+  {
+    "name": "Tsugikuni, Yoriichi",
+    "prompt": "Tsugikuni, Yoriichi from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/394870.jpg?s=b0ac33b0b4fc18dbb38587ef170b6f27"
+  },
+  {
+    "name": "Tsuyuri, Kanao",
+    "prompt": "Tsuyuri, Kanao from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/384712.jpg?s=efa0d88902b290fa7a72e6287eaa3e2b"
+  },
+  {
+    "name": "Ubuyashiki, Kagaya",
+    "prompt": "Ubuyashiki, Kagaya from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/387497.jpg?s=e6703bc6bca651607032e86749bfdc2a"
+  },
+  {
+    "name": "Ubuyashiki, Amane",
+    "prompt": "Ubuyashiki, Amane from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/465502.jpg?s=e31dc8e2c430b11a215f6f911101a068"
+  },
+  {
+    "name": "Ubuyashiki, Hinaki",
+    "prompt": "Ubuyashiki, Hinaki from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/388815.jpg?s=b339587a0206e73bd5324bf28f7ee7ec"
+  },
+  {
+    "name": "Ubuyashiki, Nichika",
+    "prompt": "Ubuyashiki, Nichika from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/388814.jpg?s=fd12571ff8b84714571da21dcb948448"
+  },
+  {
+    "name": "Ubuyashiki, Kanata",
+    "prompt": "Ubuyashiki, Kanata from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/385316.jpg?s=08a9abb409b074d28444d6fc73d55f37"
+  },
+  {
+    "name": "Ubuyashiki, Kiriya",
+    "prompt": "Ubuyashiki, Kiriya from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/385248.jpg?s=002a91c17204fd9d8daa13150801c678"
+  },
+  {
+    "name": "Urokodaki, Sakonji",
+    "prompt": "Urokodaki, Sakonji from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/382214.jpg?s=c6e1deed4aaafdf7525e309c7b876502"
+  },
+  {
+    "name": "Yellow-Robed Courtesan",
+    "prompt": "Yellow-Robed Courtesan from Kimetsu no Yaiba: Yuukaku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/546823.jpg?s=78a723b7a3611700945e062f80c2224b"
+  }
+]

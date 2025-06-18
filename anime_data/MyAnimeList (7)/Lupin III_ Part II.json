@@ -1,0 +1,1547 @@
+[
+  {
+    "name": "Ishikawa XIII, Goemon",
+    "prompt": "Ishikawa XIII, Goemon from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/398036.jpg?s=1a45ef382f50bf29cc62736334b7e624"
+  },
+  {
+    "name": "Jigen, Daisuke",
+    "prompt": "Jigen, Daisuke from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/100876.jpg?s=7bde6fcd746ad8162df942cacb555d79"
+  },
+  {
+    "name": "Lupin III",
+    "prompt": "Lupin III from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/313502.jpg?s=4520031a2e5494f209b2101e7d1cc5c3"
+  },
+  {
+    "name": "Mine, Fujiko",
+    "prompt": "Mine, Fujiko from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/329615.jpg?s=3166ff6fd73ae28abcc486e3ecb7c6b5"
+  },
+  {
+    "name": "Zenigata, Kouichi",
+    "prompt": "Zenigata, Kouichi from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/380643.jpg?s=eaf7a7747ba815766d1adb22d0b6898d"
+  },
+  {
+    "name": "African National Jail Chief",
+    "prompt": "African National Jail Chief from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/457727.jpg?s=bb7d31ba99ee4ecc319202b2f5b70c23"
+  },
+  {
+    "name": "Akahaji, Juushou",
+    "prompt": "Akahaji, Juushou from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/461972.jpg?s=6f01af23a30f49ad075715531b1c1eca"
+  },
+  {
+    "name": "Ali, Sheik",
+    "prompt": "Ali, Sheik from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/457358.jpg?s=3700d7a5d8f4185c87753b5ba94d44bf"
+  },
+  {
+    "name": "Almighty",
+    "prompt": "Almighty from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/266947.jpg?s=dc43c8c9342cc197a3bb6bdccea88674"
+  },
+  {
+    "name": "Amore",
+    "prompt": "Amore from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/267153.jpg?s=936bcbb6a81df38ac5c614feffde04ab"
+  },
+  {
+    "name": "Angelica",
+    "prompt": "Angelica from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/266309.jpg?s=2ae20a0f24f470a03a1ece794b51f319"
+  },
+  {
+    "name": "Anita",
+    "prompt": "Anita from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/459514.jpg?s=b63e4338e9f76aaaa47c40356b073dd4"
+  },
+  {
+    "name": "Anti-Earthquake Chief",
+    "prompt": "Anti-Earthquake Chief from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/263511.jpg?s=53dead3d80316c099ff0cf1a50caa875"
+  },
+  {
+    "name": "Arantes do Nascimento, Edson",
+    "prompt": "Arantes do Nascimento, Edson from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/395195.jpg?s=1df67e9d56841858c23574720cc4f157"
+  },
+  {
+    "name": "Archer, Phillip",
+    "prompt": "Archer, Phillip from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/457332.jpg?s=251e0761758e80438dd422f8d1a7cb8a"
+  },
+  {
+    "name": "Asano, Superintendent General",
+    "prompt": "Asano, Superintendent General from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266961.jpg?s=c88fa8dcc41c740e525b306604d1a4d7"
+  },
+  {
+    "name": "Asshi",
+    "prompt": "Asshi from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/267297.jpg?s=4033cd1f544bd62c5f2061295d7f291c"
+  },
+  {
+    "name": "Baba, Ali",
+    "prompt": "Baba, Ali from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/275065.jpg?s=becf6bbe411116a0cd95b151400fdc77"
+  },
+  {
+    "name": "Baby",
+    "prompt": "Baby from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/266325.jpg?s=bd49306935442976460ff2f243c9f1d0"
+  },
+  {
+    "name": "Baron",
+    "prompt": "Baron from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/459517.jpg?s=a9e461e1cd2baa2f82cde0d07b417938"
+  },
+  {
+    "name": "Baron Gurmeru",
+    "prompt": "Baron Gurmeru from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/266793.jpg?s=94e3cc71f1a039ff800dba8c05fb6b40"
+  },
+  {
+    "name": "Barrow, Clyde",
+    "prompt": "Barrow, Clyde from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/266103.jpg?s=4ebda805d732722b0f48e2ae89874168"
+  },
+  {
+    "name": "Beauty",
+    "prompt": "Beauty from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/266079.jpg?s=9432cceb861e473643c7304a06306141"
+  },
+  {
+    "name": "Benten, Kikuko",
+    "prompt": "Benten, Kikuko from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/461970.jpg?s=7db19f78d20e165c6fb6922377d12ab1"
+  },
+  {
+    "name": "Bingel, J.",
+    "prompt": "Bingel, J. from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/267553.jpg?s=687267f5f3b9fb5a5a7295b45370cdb6"
+  },
+  {
+    "name": "Black Cat",
+    "prompt": "Black Cat from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/459518.jpg?s=33757d2483dc09c0ae5f8945d9ba5a25"
+  },
+  {
+    "name": "Black Magician",
+    "prompt": "Black Magician from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/457259.jpg?s=2c569c8b0039874435208d7c94171944"
+  },
+  {
+    "name": "Bonaparte XI, Napoleon",
+    "prompt": "Bonaparte XI, Napoleon from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/266629.jpg?s=a9278fe69c1b6120fe29e0b616c35181"
+  },
+  {
+    "name": "Bone",
+    "prompt": "Bone from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/267177.jpg?s=0965fd6a6d6dd7bfe3631d398d553dfc"
+  },
+  {
+    "name": "Bongore",
+    "prompt": "Bongore from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/267313.jpg?s=33a9d147bbe8db12b04a1bcab2bdfc65"
+  },
+  {
+    "name": "Bordeaux Police Chief",
+    "prompt": "Bordeaux Police Chief from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/263791.jpg?s=a8f8f0a56f2c9e34669835581e409eca"
+  },
+  {
+    "name": "Borgia, Galtan",
+    "prompt": "Borgia, Galtan from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/267305.jpg?s=adc8a9ce07c177f459a12b79a57c38b4"
+  },
+  {
+    "name": "Borgia IV, Lucrezia",
+    "prompt": "Borgia IV, Lucrezia from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/267307.jpg?s=0b28109bb5bcff39fb784234c33cb68d"
+  },
+  {
+    "name": "Bosmark",
+    "prompt": "Bosmark from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/266953.jpg?s=cee6be22f3f3f81941f782028fb6ef36"
+  },
+  {
+    "name": "Brenan",
+    "prompt": "Brenan from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266311.jpg?s=2875fb4500c9e3380e6128a6835acb78"
+  },
+  {
+    "name": "Buckingham",
+    "prompt": "Buckingham from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/267149.jpg?s=699027269d8e0c9edcd82aa1f6f99d22"
+  },
+  {
+    "name": "Bucky",
+    "prompt": "Bucky from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/266939.jpg?s=d5f51513c742dc391413ecf1d15d7b86"
+  },
+  {
+    "name": "Budonson, Alan",
+    "prompt": "Budonson, Alan from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/456702.jpg?s=7b49a35fa34cf3891748b2064dac2f8f"
+  },
+  {
+    "name": "Butler",
+    "prompt": "Butler from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/462189.jpg?s=d6acf8a8066c62c514876c422701aca4"
+  },
+  {
+    "name": "Cabane, Al",
+    "prompt": "Cabane, Al from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/266095.jpg?s=209f9cd683473eab73eb0489a7ceae3b"
+  },
+  {
+    "name": "Camilla",
+    "prompt": "Camilla from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/459520.jpg?s=9b3ddfc53f82c21fd23cad03b8f7f446"
+  },
+  {
+    "name": "Camone, Al",
+    "prompt": "Camone, Al from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/462438.jpg?s=e56f20a2e03794ddf24dbe1ad9489f0c"
+  },
+  {
+    "name": "Carnarvon, Lord",
+    "prompt": "Carnarvon, Lord from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/275055.jpg?s=f4e9f67479a98af8cc53d44d2205fac3"
+  },
+  {
+    "name": "Carter, Howard",
+    "prompt": "Carter, Howard from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/275054.jpg?s=3aeabe6f1f6b1160adc82c82349f8391"
+  },
+  {
+    "name": "Chantie",
+    "prompt": "Chantie from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/266783.jpg?s=666e9445f9f979a6dc6c0d2f01da1566"
+  },
+  {
+    "name": "Chico",
+    "prompt": "Chico from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/266663.jpg?s=9e19c64a1ab592148d7e3874ae247c2e"
+  },
+  {
+    "name": "Chief Gappert",
+    "prompt": "Chief Gappert from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/266949.jpg?s=d3b384f3f73fde8a8a66579f9ae3520a"
+  },
+  {
+    "name": "Chief of the Los Angeles Police Department",
+    "prompt": "Chief of the Los Angeles Police Department from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/266289.jpg?s=29de4c30966f73a06f9d150bf937e940"
+  },
+  {
+    "name": "Chief of the National Police",
+    "prompt": "Chief of the National Police from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/462068.jpg?s=662e8a239f5197a8a788c2e0be7e3167"
+  },
+  {
+    "name": "Chief Priest",
+    "prompt": "Chief Priest from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/459521.jpg?s=f3ec0c4d087045b11bc2d9b52db967f6"
+  },
+  {
+    "name": "Chief Shakil",
+    "prompt": "Chief Shakil from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/457436.jpg?s=0e9bce591a3516e7c7448d7aff2615d1"
+  },
+  {
+    "name": "Chourenpaoudoudomentanpin",
+    "prompt": "Chourenpaoudoudomentanpin from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/267173.jpg?s=7665f8cd46d79efa097d7f25fcedf270"
+  },
+  {
+    "name": "Claude",
+    "prompt": "Claude from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/266627.jpg?s=135d475d17fe0c8751ca8f1c274e083b"
+  },
+  {
+    "name": "Claudia",
+    "prompt": "Claudia from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/267303.jpg?s=f17b6b35a0a57a01aaf68eed1021ac55"
+  },
+  {
+    "name": "Colombo, Boronko",
+    "prompt": "Colombo, Boronko from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/266287.jpg?s=def1b573241abddf4086e9c283130fc2"
+  },
+  {
+    "name": "Consultant Lawyer",
+    "prompt": "Consultant Lawyer from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/267559.jpg?s=1dc5e448b845986c5ad207ea65d9b520"
+  },
+  {
+    "name": "Cornelia",
+    "prompt": "Cornelia from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/459786.jpg?s=20f79645b33a8a9e09ea42d01c51e5c9"
+  },
+  {
+    "name": "Count Johannes",
+    "prompt": "Count Johannes from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/266647.jpg?s=06ef12eea0379f4fab6f7722760e9746"
+  },
+  {
+    "name": "Count Le Monde",
+    "prompt": "Count Le Monde from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/266645.jpg?s=27f0bd9d25995f13c102952cc0ec27fd"
+  },
+  {
+    "name": "Daimangan",
+    "prompt": "Daimangan from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/459522.jpg?s=433a6b877075134c0f2c7d70cfb83939"
+  },
+  {
+    "name": "Dallet, Monsieur",
+    "prompt": "Dallet, Monsieur from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/267289.jpg?s=93b1c0e7cc2a356b37d1bfcac036cafb"
+  },
+  {
+    "name": "Danchone",
+    "prompt": "Danchone from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/267495.jpg?s=9846ff54794026f1f9af7bc4380391e0"
+  },
+  {
+    "name": "De Boose, Madame",
+    "prompt": "De Boose, Madame from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/267491.jpg?s=776a906a61f2a06968f36b9f21714f38"
+  },
+  {
+    "name": "Defender",
+    "prompt": "Defender from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/264435.jpg?s=e378ebe298cc31fbcbdfc894c6dee8a8"
+  },
+  {
+    "name": "Diamond Mine President",
+    "prompt": "Diamond Mine President from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/266303.jpg?s=ce4caa3cb941f5cc9080a698f7692965"
+  },
+  {
+    "name": "Director Toronbo",
+    "prompt": "Director Toronbo from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/459592.jpg?s=42e8f447f19c1e4db7299331fa67c19a"
+  },
+  {
+    "name": "Dobon, James",
+    "prompt": "Dobon, James from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266801.jpg?s=0faeb09ebda5447bd89428b660901f4e"
+  },
+  {
+    "name": "Doctor",
+    "prompt": "Doctor from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/265891.jpg?s=728847d3182103a0151efe258ad5a295"
+  },
+  {
+    "name": "Doctor",
+    "prompt": "Doctor from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/263795.jpg?s=81219e828e4a70b6262de999cff400b5"
+  },
+  {
+    "name": "Dokonjo, Mrs.",
+    "prompt": "Dokonjo, Mrs. from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/267279.jpg?s=c71ea4a9d38029d54305245d3f4b0155"
+  },
+  {
+    "name": "Dokonjo Jr., Benson",
+    "prompt": "Dokonjo Jr., Benson from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/267281.jpg?s=5764435de9821806a50222a9d95c810b"
+  },
+  {
+    "name": "Dom",
+    "prompt": "Dom from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/266081.jpg?s=06a0895dad058b51c9f55eaa0dece23b"
+  },
+  {
+    "name": "Domino",
+    "prompt": "Domino from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/266093.jpg?s=22065f0dbbb7cf9f79263fa84b59775b"
+  },
+  {
+    "name": "Don Kecchi",
+    "prompt": "Don Kecchi from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/265901.jpg?s=b2cfefad612eb2630f2ad8628b26da7e"
+  },
+  {
+    "name": "Dotan, Jisuboi",
+    "prompt": "Dotan, Jisuboi from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/267171.jpg?s=53b60c4babb1b08cbbc0b4c1bd3bc117"
+  },
+  {
+    "name": "Dr. Changer",
+    "prompt": "Dr. Changer from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/267489.jpg?s=45cb791194b2f3ef5c03245fe56e2592"
+  },
+  {
+    "name": "Dr. Mad",
+    "prompt": "Dr. Mad from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/459527.jpg?s=2db554cb1f15329b195fc51ad6c4ddf5"
+  },
+  {
+    "name": "Dr. Mumba",
+    "prompt": "Dr. Mumba from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266305.jpg?s=20c6ef620a36ac64d4525dd153a466af"
+  },
+  {
+    "name": "Dr. Paolo",
+    "prompt": "Dr. Paolo from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/263507.jpg?s=57e84f83835391f4ca584c3bd3af0668"
+  },
+  {
+    "name": "Dr. Pot",
+    "prompt": "Dr. Pot from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/266319.jpg?s=a3785b1967ad89e35881e4d982aae2c4"
+  },
+  {
+    "name": "Dr. Rombach",
+    "prompt": "Dr. Rombach from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/267515.jpg?s=365b53b5c7f503715fe58af8089bb388"
+  },
+  {
+    "name": "Dr. Zell",
+    "prompt": "Dr. Zell from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/459788.jpg?s=a436ab460ef66c9cad038dfb123895be"
+  },
+  {
+    "name": "Drill, Conan",
+    "prompt": "Drill, Conan from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/266639.jpg?s=8f1fe2f8fade50d9c045bf9c151f5d93"
+  },
+  {
+    "name": "Duke Weather",
+    "prompt": "Duke Weather from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/267503.jpg?s=493119b66ed521ba8f7dded6cada516a"
+  },
+  {
+    "name": "Duran, Marcel",
+    "prompt": "Duran, Marcel from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/456707.jpg?s=2cfd19c6fa344602132c0269bbde9dae"
+  },
+  {
+    "name": "DX",
+    "prompt": "DX from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/265589.jpg?s=ff4ac1639fcf2bb7d89e82fc55c992f9"
+  },
+  {
+    "name": "Earl Gabriel XIII",
+    "prompt": "Earl Gabriel XIII from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/457335.jpg?s=1713c7a5821ee81ba950d7eb9714bc9e"
+  },
+  {
+    "name": "Eschenbach, Albert",
+    "prompt": "Eschenbach, Albert from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/267569.jpg?s=d301dde21fc1f5b9c27933a3c8022c12"
+  },
+  {
+    "name": "F. Maniac",
+    "prompt": "F. Maniac from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/267309.jpg?s=c1ed67b19916bc1445166c62e19153a4"
+  },
+  {
+    "name": "Fake Lupin",
+    "prompt": "Fake Lupin from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/457349.jpg?s=1fefef300851e38ace9a914020e2dc72"
+  },
+  {
+    "name": "Fander",
+    "prompt": "Fander from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/267293.jpg?s=ba1695ad9f460a31b1158d6fe5639b18"
+  },
+  {
+    "name": "Fats, Minnesota",
+    "prompt": "Fats, Minnesota from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/267563.jpg?s=6b74be0e04120104612f52fae8ae0c45"
+  },
+  {
+    "name": "Foreign Legion Commander",
+    "prompt": "Foreign Legion Commander from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/459528.jpg?s=59f045605ee1f98d3d33db726dc913ce"
+  },
+  {
+    "name": "Franchir",
+    "prompt": "Franchir from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/457354.jpg?s=e8f27b18c3185f57bd2d2787978a804c"
+  },
+  {
+    "name": "Francois",
+    "prompt": "Francois from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/267175.jpg?s=9466602d098defb855f3a70df06e974d"
+  },
+  {
+    "name": "Frankenstein XV, Dr. Victor",
+    "prompt": "Frankenstein XV, Dr. Victor from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/267165.jpg?s=8d2224050402cf26f42efab66ce892bd"
+  },
+  {
+    "name": "Fujiko's subordinate",
+    "prompt": "Fujiko's subordinate from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/457244.jpg?s=9a8e7a8f2b74f6dee3af948a67e1ef76"
+  },
+  {
+    "name": "Fuuma, Shinobu",
+    "prompt": "Fuuma, Shinobu from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/459586.jpg?s=c0a8b576d12ce57e0e0c0ac5061f01a6"
+  },
+  {
+    "name": "Gacho",
+    "prompt": "Gacho from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/267295.jpg?s=6edd65250f3d9db5091135f11f1bbbb6"
+  },
+  {
+    "name": "Gaira",
+    "prompt": "Gaira from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/267285.jpg?s=7ed66fc53f62b13d7ce3e5d96fbb0c3a"
+  },
+  {
+    "name": "Ganimard, Melon",
+    "prompt": "Ganimard, Melon from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/459571.jpg?s=dc1eeb5b3bd6187c8390f22d904dd2c4"
+  },
+  {
+    "name": "Gappolini",
+    "prompt": "Gappolini from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/267565.jpg?s=0a19f73ddcd8495febceafd01e8f98b6"
+  },
+  {
+    "name": "Garlic",
+    "prompt": "Garlic from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/267507.jpg?s=d519cfaaf5bc5713e99c62dc4d0e5c2b"
+  },
+  {
+    "name": "Gasper",
+    "prompt": "Gasper from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/267151.jpg?s=add8051cb5c6a86fa8bbd368c0ace304"
+  },
+  {
+    "name": "Gauss",
+    "prompt": "Gauss from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/267571.jpg?s=17f5fbdbea83bc52ac029107d70dbb5e"
+  },
+  {
+    "name": "Gavott",
+    "prompt": "Gavott from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266317.jpg?s=bcd9b41c80966d54a17f4d5ae70c3132"
+  },
+  {
+    "name": "Gebobi",
+    "prompt": "Gebobi from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/265905.jpg?s=5dd92bdcf1da41c1f0e05bc5bc3410c5"
+  },
+  {
+    "name": "Genhard, Kreuzen",
+    "prompt": "Genhard, Kreuzen from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/456647.jpg?s=05872d737f0a56fe58d636ddced52717"
+  },
+  {
+    "name": "Genpaku",
+    "prompt": "Genpaku from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/266853.jpg?s=2598a3dad9fd4e04a13949c00e6f90c7"
+  },
+  {
+    "name": "Georg",
+    "prompt": "Georg from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/459551.jpg?s=877ad8376c439aa734aef50933e66ae6"
+  },
+  {
+    "name": "George",
+    "prompt": "George from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/266297.jpg?s=b394589d5579ce8bc9be88dccb27361f"
+  },
+  {
+    "name": "Ginkaku",
+    "prompt": "Ginkaku from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/266083.jpg?s=96ebd2eba21225ce4931a1f701c1130b"
+  },
+  {
+    "name": "Girani",
+    "prompt": "Girani from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/266779.jpg?s=3c7db48115f601b8f92a797049e34900"
+  },
+  {
+    "name": "Gregoire II, Johnny",
+    "prompt": "Gregoire II, Johnny from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/267167.jpg?s=f05436621994c0a4e0f1bec277ddbb14"
+  },
+  {
+    "name": "Gregoire III, Johnny",
+    "prompt": "Gregoire III, Johnny from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/267169.jpg?s=0992ccda6d46768fcd4bab7aa380a898"
+  },
+  {
+    "name": "Guide",
+    "prompt": "Guide from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/265561.jpg?s=6a6880d04bbdb55a4e5b59c8312cc746"
+  },
+  {
+    "name": "Guinness",
+    "prompt": "Guinness from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/266301.jpg?s=10f58a83248d3dca3b39834d06e158e5"
+  },
+  {
+    "name": "Hafner, William",
+    "prompt": "Hafner, William from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/266307.jpg?s=977d6d8f7217830c8d1431746c8275c8"
+  },
+  {
+    "name": "Hageito",
+    "prompt": "Hageito from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/457435.jpg?s=863de21606b37e43e510053074f91193"
+  },
+  {
+    "name": "Hagero, Don",
+    "prompt": "Hagero, Don from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/267561.jpg?s=73d4b9329216bdd4753476826104735c"
+  },
+  {
+    "name": "Hamanaka, Nami",
+    "prompt": "Hamanaka, Nami from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/266943.jpg?s=b54ac3960690d2d94247dd2bd578ff3e"
+  },
+  {
+    "name": "Hamanaka, Kajibee",
+    "prompt": "Hamanaka, Kajibee from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/266945.jpg?s=9184814d8384cc0dc2b797264a9b872d"
+  },
+  {
+    "name": "Hamegg",
+    "prompt": "Hamegg from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/267505.jpg?s=42d96801222c3acbfc19600fc6b51c84"
+  },
+  {
+    "name": "Hangman",
+    "prompt": "Hangman from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/459554.jpg?s=2e16c0749ad09f002a99e44de8f2f7f2"
+  },
+  {
+    "name": "Hatler",
+    "prompt": "Hatler from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/457498.jpg?s=51ac10df815c90a5ae8cc0b85bef2581"
+  },
+  {
+    "name": "Hayano, Kanpei",
+    "prompt": "Hayano, Kanpei from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/266965.jpg?s=76edc03878c786706b2929f97519b3a9"
+  },
+  {
+    "name": "Head of Science Lab",
+    "prompt": "Head of Science Lab from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/459555.jpg?s=d9c6c29e2f2c0aa88fecd3618bf337af"
+  },
+  {
+    "name": "Heath",
+    "prompt": "Heath from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266791.jpg?s=05eee8171667e44dd6455e0b317496d0"
+  },
+  {
+    "name": "Heese, Howard",
+    "prompt": "Heese, Howard from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/457260.jpg?s=9c034e0825f60da8a0fc94f651eb3022"
+  },
+  {
+    "name": "Heidelberg",
+    "prompt": "Heidelberg from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/266951.jpg?s=52793a6d344ba0d581c61ee4004822f5"
+  },
+  {
+    "name": "Helger",
+    "prompt": "Helger from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/267161.jpg?s=3ef6f9162a828c1a44789b86cc773ed6"
+  },
+  {
+    "name": "Henderson, Alice",
+    "prompt": "Henderson, Alice from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/459512.jpg?s=b7f8ae4167180cd3c2d8fee518d47c89"
+  },
+  {
+    "name": "Hess",
+    "prompt": "Hess from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/457497.jpg?s=26bddc2391fcd7965c44b5aec5f5eba2"
+  },
+  {
+    "name": "Hideki",
+    "prompt": "Hideki from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/267299.jpg?s=58226ca2c5f459cadd8b923106e65b12"
+  },
+  {
+    "name": "Hissatsu, Jinkurou",
+    "prompt": "Hissatsu, Jinkurou from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/457514.jpg?s=d8e8ec8d8c37183178732511f397339f"
+  },
+  {
+    "name": "Hoicchini, Samon",
+    "prompt": "Hoicchini, Samon from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/267493.jpg?s=8d456099f4a558f51d7bf9f423342c0b"
+  },
+  {
+    "name": "Holmes III, Sherlock",
+    "prompt": "Holmes III, Sherlock from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/457333.jpg?s=428e32aef12ba35ee7cbb184ae7d76ba"
+  },
+  {
+    "name": "Holmes The 3rd, Sharlock",
+    "prompt": "Holmes The 3rd, Sharlock from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/266797.jpg?s=ba9209a99856214820bbc4c968ec2a7b"
+  },
+  {
+    "name": "Hope Diamond Devil",
+    "prompt": "Hope Diamond Devil from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266941.jpg?s=1900d2ab5f599bddeabc6d8d4608c7b3"
+  },
+  {
+    "name": "Horibe, Yasubei",
+    "prompt": "Horibe, Yasubei from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/266963.jpg?s=00e0073770c70a83a8dff7b694454db4"
+  },
+  {
+    "name": "Hypnotic Puppet",
+    "prompt": "Hypnotic Puppet from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/266651.jpg?s=4a4e6267a088fabddcf07b42a995809d"
+  },
+  {
+    "name": "ICPO Chief",
+    "prompt": "ICPO Chief from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/459560.jpg?s=739e003454436643281f6d1d80c97aed"
+  },
+  {
+    "name": "Inspector Dover",
+    "prompt": "Inspector Dover from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/459562.jpg?s=ebfd91873ecbaf53e02e04317da03297"
+  },
+  {
+    "name": "Inspector Jose",
+    "prompt": "Inspector Jose from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/264581.jpg?s=cd54c242009ecdead04d43e088799d98"
+  },
+  {
+    "name": "Inspector Konaizo",
+    "prompt": "Inspector Konaizo from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/457430.jpg?s=68eb7135630f9a2ff32a436e5749546a"
+  },
+  {
+    "name": "Inspector Penguin",
+    "prompt": "Inspector Penguin from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/459563.jpg?s=fa1b7462a0045195414f4de7db90b93e"
+  },
+  {
+    "name": "Inspector Pepper",
+    "prompt": "Inspector Pepper from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/459564.jpg?s=14fd71e5874fbcdecc472ee17447b882"
+  },
+  {
+    "name": "Ippsou, Kimihiro",
+    "prompt": "Ippsou, Kimihiro from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/267155.jpg?s=e6b0ce3a505e5d80b225b7c124f83b6c"
+  },
+  {
+    "name": "Ivanov, Monica",
+    "prompt": "Ivanov, Monica from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/462067.jpg?s=267178b679baf655f6bae04cf2543140"
+  },
+  {
+    "name": "Jaguar",
+    "prompt": "Jaguar from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/459565.jpg?s=1513f543836dfbcdcedc5f25f3ecfdcb"
+  },
+  {
+    "name": "Jakob, Peter",
+    "prompt": "Jakob, Peter from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266653.jpg?s=40c11848f366d720e11bb849a6e452e5"
+  },
+  {
+    "name": "Jasmine",
+    "prompt": "Jasmine from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/266637.jpg?s=04b44cef5f527ae69f7dd232587ee95f"
+  },
+  {
+    "name": "Jaws, Pomade",
+    "prompt": "Jaws, Pomade from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/266097.jpg?s=00a02f6898a25d54d2880e5751621821"
+  },
+  {
+    "name": "Jaws, Laura",
+    "prompt": "Jaws, Laura from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/266099.jpg?s=b1d77adb811584d81d02e60469dccac4"
+  },
+  {
+    "name": "Jeanne",
+    "prompt": "Jeanne from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/266789.jpg?s=5c6ec7d337e4d5a83e6b4ebaa70135fb"
+  },
+  {
+    "name": "Jinen, Fuutarou",
+    "prompt": "Jinen, Fuutarou from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/457512.jpg?s=3d03c882a7521738152bf3d66c172088"
+  },
+  {
+    "name": "Joanna",
+    "prompt": "Joanna from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/267567.jpg?s=07e61097f16af6d0d6866776d564e242"
+  },
+  {
+    "name": "Joe",
+    "prompt": "Joe from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/266085.jpg?s=b3d6ab25640faaf15541c7ee627db05d"
+  },
+  {
+    "name": "John",
+    "prompt": "John from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/266105.jpg?s=b0f25932eecf6c6131064092ea13f31b"
+  },
+  {
+    "name": "Joutarou",
+    "prompt": "Joutarou from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/457488.jpg?s=cc0baec4cbdba50f16f87770bdf9c8e4"
+  },
+  {
+    "name": "Judge",
+    "prompt": "Judge from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/264473.jpg?s=6afca120e8722ed4f8e6ff7c32f1d51a"
+  },
+  {
+    "name": "Kaguya",
+    "prompt": "Kaguya from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/459566.jpg?s=65e57097b567b322727105b9a50182bb"
+  },
+  {
+    "name": "Kasim",
+    "prompt": "Kasim from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/266075.jpg?s=e0ac4521f33c518a647a8c04053e82c6"
+  },
+  {
+    "name": "Kerenskii",
+    "prompt": "Kerenskii from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/267557.jpg?s=a803351abd279bf3ec26cb5bd3edf41c"
+  },
+  {
+    "name": "Khan, Genghis",
+    "prompt": "Khan, Genghis from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/265523.jpg?s=7e149e904f4bbe02a6186efcc617cc97"
+  },
+  {
+    "name": "Kindani, Kousuke",
+    "prompt": "Kindani, Kousuke from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/457334.jpg?s=e8b2b970976455d041c3c06071728ae4"
+  },
+  {
+    "name": "King Wuerttemberg",
+    "prompt": "King Wuerttemberg from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kinkaku",
+    "prompt": "Kinkaku from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/266087.jpg?s=8a242acce50b4222e33bcfce88af6c5a"
+  },
+  {
+    "name": "Kira, Kouzukenosuke",
+    "prompt": "Kira, Kouzukenosuke from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/266967.jpg?s=f414615fda24869d694255edc4fb794a"
+  },
+  {
+    "name": "Kochinko",
+    "prompt": "Kochinko from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/459567.jpg?s=60ebe7276c7449d71d99c630574d8d5a"
+  },
+  {
+    "name": "Koh, Tei Sei",
+    "prompt": "Koh, Tei Sei from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/275062.jpg?s=23a38e43042968e9b4025c667cc926fb"
+  },
+  {
+    "name": "Kondou III, Isami",
+    "prompt": "Kondou III, Isami from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/266109.jpg?s=87d707c4f28f425a56a8ebedf78a32b8"
+  },
+  {
+    "name": "Kou, Shuuzen",
+    "prompt": "Kou, Shuuzen from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/265575.jpg?s=bb33b46a22234dac782607eea4cc4cdf"
+  },
+  {
+    "name": "Kurokumo",
+    "prompt": "Kurokumo from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/459519.jpg?s=38b4052a7f98dc92af9b8c6a5d96a73b"
+  },
+  {
+    "name": "Kyoransky, Momanitt",
+    "prompt": "Kyoransky, Momanitt from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/266327.jpg?s=d155b957813b55fc577c4d444171344e"
+  },
+  {
+    "name": "Lady Black",
+    "prompt": "Lady Black from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/267275.jpg?s=0e92f477ea683b194296f90058c6d5cc"
+  },
+  {
+    "name": "Largo",
+    "prompt": "Largo from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/267277.jpg?s=b3dc9d7dcd089fb37cb1dd12bbf85991"
+  },
+  {
+    "name": "Lasagna",
+    "prompt": "Lasagna from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/267315.jpg?s=b89dff7895eb0745ab477068d4419905"
+  },
+  {
+    "name": "Latika",
+    "prompt": "Latika from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/459569.jpg?s=0ef05291a5a36af529fd58ff64c13f21"
+  },
+  {
+    "name": "Lauda, Niki",
+    "prompt": "Lauda, Niki from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/275056.jpg?s=8bf3c813ca4b3396832e0e5af242ba69"
+  },
+  {
+    "name": "Lavina",
+    "prompt": "Lavina from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/462521.jpg?s=22e99db42732a72281cccba67c28c0e3"
+  },
+  {
+    "name": "Lawrence III",
+    "prompt": "Lawrence III from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/457357.jpg?s=65facba5babd1c021ff2a10035e0b2fe"
+  },
+  {
+    "name": "Lee, Vivian",
+    "prompt": "Lee, Vivian from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/266935.jpg?s=b5a1ced8265d28d6757354acafd2ac2b"
+  },
+  {
+    "name": "Linda",
+    "prompt": "Linda from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/457732.jpg?s=da5497440338fc51f33c4b6f7a060e97"
+  },
+  {
+    "name": "Lucia",
+    "prompt": "Lucia from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/267301.jpg?s=dd83502848e72586ed24357d7479643b"
+  },
+  {
+    "name": "Lupin II",
+    "prompt": "Lupin II from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/497117.jpg?s=4567056805a1538c2b6002fa111d72d4"
+  },
+  {
+    "name": "Macaroni",
+    "prompt": "Macaroni from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/267317.jpg?s=670882fcdee21a25facea589d0882145"
+  },
+  {
+    "name": "Madam X",
+    "prompt": "Madam X from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/462190.jpg?s=5a2b52d0d3c0547ff66bae501978ca13"
+  },
+  {
+    "name": "Magret , Police Inspector",
+    "prompt": "Magret , Police Inspector from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/267287.jpg?s=f7ea564cfb5204aafacdae5f8bbb92b0"
+  },
+  {
+    "name": "Margaret",
+    "prompt": "Margaret from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/266649.jpg?s=6ef741fb7793412d8408406b421ebd06"
+  },
+  {
+    "name": "Maria",
+    "prompt": "Maria from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/266635.jpg?s=7de01190249f6c8c13dfd57de58d6a69"
+  },
+  {
+    "name": "Marianne",
+    "prompt": "Marianne from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/266315.jpg?s=cf0cc7b6c768c20345da4e841f44f343"
+  },
+  {
+    "name": "Martin, Butcher T.",
+    "prompt": "Martin, Butcher T. from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/266937.jpg?s=2ffc8e034b60e0da97d83beb8457524f"
+  },
+  {
+    "name": "Martino, Don",
+    "prompt": "Martino, Don from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/456700.jpg?s=e950111019f6260d9a738141f9be17bc"
+  },
+  {
+    "name": "Marukane",
+    "prompt": "Marukane from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/266661.jpg?s=72464bd04605a7a8a738ed1e340d19c1"
+  },
+  {
+    "name": "Marukin",
+    "prompt": "Marukin from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/457489.jpg?s=c501599eae7097989206417bab2f975c"
+  },
+  {
+    "name": "Mayor of Bergen",
+    "prompt": "Mayor of Bergen from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/267549.jpg?s=2a09ed301233ab60acdc18670e8b1054"
+  },
+  {
+    "name": "McReed, Joe",
+    "prompt": "McReed, Joe from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/266785.jpg?s=6ff70180dc32f3963f1bdf842eecef04"
+  },
+  {
+    "name": "Metropolitan Bank Branch Manager",
+    "prompt": "Metropolitan Bank Branch Manager from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/459516.jpg?s=7ce2f97c8acb056a15c84152c62a06f3"
+  },
+  {
+    "name": "Mikawa, Hanshichi",
+    "prompt": "Mikawa, Hanshichi from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/460053.jpg?s=3d30e40a38dd507dc33f18ba6553219d"
+  },
+  {
+    "name": "Minister Kasim",
+    "prompt": "Minister Kasim from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/267271.jpg?s=a417a622aed88cedfcc487de0c1d1def"
+  },
+  {
+    "name": "Minister Mokeru",
+    "prompt": "Minister Mokeru from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/267513.jpg?s=969fe5c25396ba98d5d36dbfacea6ecf"
+  },
+  {
+    "name": "Miraka",
+    "prompt": "Miraka from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/267163.jpg?s=47b1f0eaebb156f81f31f70d78b134fd"
+  },
+  {
+    "name": "Miss Killer",
+    "prompt": "Miss Killer from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/459574.jpg?s=fd11edad82d6210a178977d0abad5574"
+  },
+  {
+    "name": "Mister X",
+    "prompt": "Mister X from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/191812.jpg?s=ea642f713f30bced6105fbfa42abcaf6"
+  },
+  {
+    "name": "Monja",
+    "prompt": "Monja from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/267511.jpg?s=92ea89567e59985b04627db4ecc4352f"
+  },
+  {
+    "name": "Morgan",
+    "prompt": "Morgan from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/266849.jpg?s=fdca084e386b578901b92ce77566832a"
+  },
+  {
+    "name": "Morrow, Catherine",
+    "prompt": "Morrow, Catherine from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266955.jpg?s=cdeb07be5042a2f96618034d376a138d"
+  },
+  {
+    "name": "Motomaro",
+    "prompt": "Motomaro from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/266851.jpg?s=5b06b73e597dab21e4b99ff0f099b036"
+  },
+  {
+    "name": "Mrs. Olivia",
+    "prompt": "Mrs. Olivia from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/267555.jpg?s=2fb80a76501833c34cf908e9c3587e61"
+  },
+  {
+    "name": "Murigan",
+    "prompt": "Murigan from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/459577.jpg?s=876c3bc85f65145cd779912ca9318663"
+  },
+  {
+    "name": "Museum Security Guard",
+    "prompt": "Museum Security Guard from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/457437.jpg?s=8e8e48eae8d170acee0fb2b8a985fc3d"
+  },
+  {
+    "name": "Naibaba, Alibaba",
+    "prompt": "Naibaba, Alibaba from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266815.jpg?s=89d292ee4cb3d908119183757e071606"
+  },
+  {
+    "name": "Nangou, Manmaru",
+    "prompt": "Nangou, Manmaru from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/265809.jpg?s=1a7c0fc176ce3b37091316f0a111c6dd"
+  },
+  {
+    "name": "Nanja",
+    "prompt": "Nanja from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/267509.jpg?s=2964e830fcb20a65a44a6c57046634fc"
+  },
+  {
+    "name": "Natasha",
+    "prompt": "Natasha from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/267501.jpg?s=74f431ee60c04566059cb03e73ada84a"
+  },
+  {
+    "name": "Net, Olivera",
+    "prompt": "Net, Olivera from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/456641.jpg?s=f8d9652e1a5ebf3e3a83eea9fb0a6006"
+  },
+  {
+    "name": "Nexus, Socrates",
+    "prompt": "Nexus, Socrates from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/456735.jpg?s=51ce3522479540cdf4c9bfaeb3b13c6d"
+  },
+  {
+    "name": "Nezumikozou IV, Jirokichi",
+    "prompt": "Nezumikozou IV, Jirokichi from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/457685.jpg?s=1b52a04072419770247a71e62a27aed5"
+  },
+  {
+    "name": "Nidaemon",
+    "prompt": "Nidaemon from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/267291.jpg?s=92e30619bcb69fe8e56f9e9050600aaa"
+  },
+  {
+    "name": "Nina",
+    "prompt": "Nina from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/266089.jpg?s=37cb4735811f77339b0445ace4da86d8"
+  },
+  {
+    "name": "Nippon, Dameemon",
+    "prompt": "Nippon, Dameemon from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/461969.jpg?s=3858f408d3608934d0ca5ae563e1824a"
+  },
+  {
+    "name": "No. X8",
+    "prompt": "No. X8 from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/459579.jpg?s=91ef853f142083498a4aa8127ced0ea2"
+  },
+  {
+    "name": "Nomil",
+    "prompt": "Nomil from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/457350.jpg?s=9942319b8e2c2f482b572a85bd5589f0"
+  },
+  {
+    "name": "Nova",
+    "prompt": "Nova from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266969.jpg?s=2fdd6da182bb0b71ea407dc7e9acf56a"
+  },
+  {
+    "name": "Nygaard, Detective",
+    "prompt": "Nygaard, Detective from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/267551.jpg?s=4f9ac4914aa7066e1885f4085efba606"
+  },
+  {
+    "name": "Okachimenko, Wairunya",
+    "prompt": "Okachimenko, Wairunya from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/267497.jpg?s=792dce0de90a2f7a3adf9dc0550c460c"
+  },
+  {
+    "name": "Okita III, Souji",
+    "prompt": "Okita III, Souji from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/266107.jpg?s=348045d26abe6978e36d5a63c77d3de4"
+  },
+  {
+    "name": "Onabes, Aristotle",
+    "prompt": "Onabes, Aristotle from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/459580.jpg?s=d2bab870605409daa9dc8b2acb21a8bb"
+  },
+  {
+    "name": "One-Eared Joe",
+    "prompt": "One-Eared Joe from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/266321.jpg?s=02f6da6af19926d86959768da8c662de"
+  },
+  {
+    "name": "Oscar",
+    "prompt": "Oscar from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/266817.jpg?s=fe1a68864d6dcbe1002a02be6a7ce4ba"
+  },
+  {
+    "name": "Oyamada, Maki",
+    "prompt": "Oyamada, Maki from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/267573.jpg?s=5edae8813927fe3df937bcd61d448f17"
+  },
+  {
+    "name": "Oz",
+    "prompt": "Oz from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/456652.jpg?s=d098c994b94a21f33fa646142a460f9c"
+  },
+  {
+    "name": "Pancho's Wife",
+    "prompt": "Pancho's Wife from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/267267.jpg?s=dc612e0ab2134d43025822fa4bd15025"
+  },
+  {
+    "name": "Parker, Bonnie",
+    "prompt": "Parker, Bonnie from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266101.jpg?s=a11df65cc064c4ded9ed40a6e3e32459"
+  },
+  {
+    "name": "Phantoma Mark III",
+    "prompt": "Phantoma Mark III from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/459864.jpg?s=5e5e0c906f29d68b2eeef44bf206e3bb"
+  },
+  {
+    "name": "Piccolo, Madam",
+    "prompt": "Piccolo, Madam from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266781.jpg?s=55a59bffb6186f763d15ab39fe5e97db"
+  },
+  {
+    "name": "Poirot, Emmanuelle",
+    "prompt": "Poirot, Emmanuelle from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/265785.jpg?s=49fd63496bf944c6825aa119b2b22ae1"
+  },
+  {
+    "name": "Police Officer",
+    "prompt": "Police Officer from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/456649.jpg?s=d45ffccdae8ad9f970fedebee58845b2"
+  },
+  {
+    "name": "President",
+    "prompt": "President from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266313.jpg?s=86499e238472b68e7cab45eca15eed92"
+  },
+  {
+    "name": "Prince",
+    "prompt": "Prince from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/265563.jpg?s=8f4802dcee30ef6e4aee536c2e74a70e"
+  },
+  {
+    "name": "Princess Giana",
+    "prompt": "Princess Giana from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/267269.jpg?s=e62f196a5a2d5e55c904036042951c09"
+  },
+  {
+    "name": "Princess Ianne",
+    "prompt": "Princess Ianne from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/266777.jpg?s=b760c7893b4312797791a00c8cbc377b"
+  },
+  {
+    "name": "Prison Officer",
+    "prompt": "Prison Officer from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/456644.jpg?s=11e1cbca5e2e2d8038d23f4fe897c9a3"
+  },
+  {
+    "name": "Professor Dolmen",
+    "prompt": "Professor Dolmen from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266643.jpg?s=cd590e39195c746200e83595ca3e610c"
+  },
+  {
+    "name": "Professor Faker",
+    "prompt": "Professor Faker from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/266971.jpg?s=c159090f7e01d15bb78bea306f3b6ea6"
+  },
+  {
+    "name": "Professor Hunter",
+    "prompt": "Professor Hunter from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/462019.jpg?s=71f5523729beadee7ed18d33f63727f8"
+  },
+  {
+    "name": "Professor Pancho",
+    "prompt": "Professor Pancho from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/267265.jpg?s=f18c3cc4e927ff99cb8db1bc8b85e633"
+  },
+  {
+    "name": "Prosecutor",
+    "prompt": "Prosecutor from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/264475.jpg?s=73b944f1fdc4dd25afe0b41f6cba4de9"
+  },
+  {
+    "name": "Puma",
+    "prompt": "Puma from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/459582.jpg?s=af32b1e1af832c0a93430f56588d6b0a"
+  },
+  {
+    "name": "Queen, Mrs.",
+    "prompt": "Queen, Mrs. from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/266293.jpg?s=7d4e8740a0328691383f3cfe7aba9d9d"
+  },
+  {
+    "name": "Queen, Mr.",
+    "prompt": "Queen, Mr. from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/266291.jpg?s=64c1668872eda45b8ba5dd01b17a33da"
+  },
+  {
+    "name": "Queen, Margaret",
+    "prompt": "Queen, Margaret from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/266295.jpg?s=ad09ddc33868b4a2c7d7f5bd31b39930"
+  },
+  {
+    "name": "Rabaan, Basara",
+    "prompt": "Rabaan, Basara from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/462192.jpg?s=79107b93f44a173ada003948a28d827a"
+  },
+  {
+    "name": "Rafura",
+    "prompt": "Rafura from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/459583.jpg?s=40bf0bcce33496f572008dbaa4a4e5ac"
+  },
+  {
+    "name": "Rasuputan",
+    "prompt": "Rasuputan from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/266803.jpg?s=b98f401c78ffb6d16b6cb741920d3f87"
+  },
+  {
+    "name": "Razin, Stenka",
+    "prompt": "Razin, Stenka from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/275066.jpg?s=5926e029e33d30f98c33bd4d7489488c"
+  },
+  {
+    "name": "Red Travel Group Leader",
+    "prompt": "Red Travel Group Leader from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266655.jpg?s=1c36e5293b22bff7b57ab4f434e2eb05"
+  },
+  {
+    "name": "Robert",
+    "prompt": "Robert from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/266091.jpg?s=00ccc6634bb738b6b3a4c0f75cf589df"
+  },
+  {
+    "name": "Romanov",
+    "prompt": "Romanov from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/267547.jpg?s=7a87257dc4573d511142af1026dab808"
+  },
+  {
+    "name": "Rose",
+    "prompt": "Rose from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/266959.jpg?s=8d4fa6ef0333d3a028d8a6aab79052bb"
+  },
+  {
+    "name": "Samejima",
+    "prompt": "Samejima from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/267159.jpg?s=bd3a92a49b69a0d6c6de33d57dce7ebc"
+  },
+  {
+    "name": "Sandra",
+    "prompt": "Sandra from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/267283.jpg?s=928eb67da33a7e5a9755f5e34ce26480"
+  },
+  {
+    "name": "Secretary of Ko Shuzen",
+    "prompt": "Secretary of Ko Shuzen from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/459581.jpg?s=31fda3d85a7b5234136361a614040446"
+  },
+  {
+    "name": "Security Department Head",
+    "prompt": "Security Department Head from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266659.jpg?s=d7bdeec9eecb189333e3c8215c206612"
+  },
+  {
+    "name": "Sergio",
+    "prompt": "Sergio from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/459789.jpg?s=f727023b59965c4b5556f8f50392ba6c"
+  },
+  {
+    "name": "Sherlock",
+    "prompt": "Sherlock from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/462440.jpg?s=7bbd4f265bee7a75fb7195504e932adc"
+  },
+  {
+    "name": "Shunran",
+    "prompt": "Shunran from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/459587.jpg?s=11d213f654676dcae0df38cbf33f3d3d"
+  },
+  {
+    "name": "Silver, John",
+    "prompt": "Silver, John from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/275059.jpg?s=199eef765134a1e8bcbcb6ad1cfb0278"
+  },
+  {
+    "name": "Silver",
+    "prompt": "Silver from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/266329.jpg?s=6643fb429a3564c44c8f0e348599896a"
+  },
+  {
+    "name": "Sister Lucia",
+    "prompt": "Sister Lucia from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/267311.jpg?s=bd6b7339088e1cc7ad2131c9d67fa999"
+  },
+  {
+    "name": "Smith",
+    "prompt": "Smith from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/266631.jpg?s=4515fe7fd79a8b6d31d006623d8fc0f3"
+  },
+  {
+    "name": "Smith, Major",
+    "prompt": "Smith, Major from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/265789.jpg?s=9db68a3bcb60ff43b9ba8fa2dbbf6589"
+  },
+  {
+    "name": "Spade Joe",
+    "prompt": "Spade Joe from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266633.jpg?s=084921de8cb9a28d0c42c9a63f34eb0b"
+  },
+  {
+    "name": "Steel",
+    "prompt": "Steel from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/267487.jpg?s=eb45b4efc257e33e45e9e85ce020b6c5"
+  },
+  {
+    "name": "Stoneman",
+    "prompt": "Stoneman from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/266809.jpg?s=bf79c944ce8bedfe588f58903f7e18e4"
+  },
+  {
+    "name": "Stuart",
+    "prompt": "Stuart from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/275058.jpg?s=644f138e718cf7ff8a629c3df9db101f"
+  },
+  {
+    "name": "Supermarket Owner",
+    "prompt": "Supermarket Owner from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/266787.jpg?s=3d0b23bf22a26c45b12c832f7b445cfd"
+  },
+  {
+    "name": "Supreme Ruler Buranko",
+    "prompt": "Supreme Ruler Buranko from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/266813.jpg?s=ca7a10e154790e49dcd1c6233fe28309"
+  },
+  {
+    "name": "Switzerland Bank President",
+    "prompt": "Switzerland Bank President from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/456659.jpg?s=7ee9a27b12515c02e5c235f60be950af"
+  },
+  {
+    "name": "Tadanori, Rihei",
+    "prompt": "Tadanori, Rihei from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/461971.jpg?s=6b2f3ec9979ffcf4f606fd398b70ea29"
+  },
+  {
+    "name": "Taira, Gorohachi",
+    "prompt": "Taira, Gorohachi from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/266855.jpg?s=8a55b8ef5c197db6cabb4aabbed60e16"
+  },
+  {
+    "name": "Tamo",
+    "prompt": "Tamo from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/266641.jpg?s=bfcbd5a6818acebbfdb20604fe9e9db2"
+  },
+  {
+    "name": "Tampin, Yves",
+    "prompt": "Tampin, Yves from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/267273.jpg?s=df94ddd72c30e466fa0e5dbb529dfa3c"
+  },
+  {
+    "name": "Tatsumaki",
+    "prompt": "Tatsumaki from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/459590.jpg?s=64c944cea62bffc4a3b7f3f1efd090a8"
+  },
+  {
+    "name": "Taxi Driver",
+    "prompt": "Taxi Driver from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/266323.jpg?s=dff4c17c2028b63f45977d1e7f207b60"
+  },
+  {
+    "name": "the Kid, Billy",
+    "prompt": "the Kid, Billy from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/275067.jpg?s=3eed9fb1442d7f82a95ba23c8bd4d21c"
+  },
+  {
+    "name": "Tiffany, Marguerite",
+    "prompt": "Tiffany, Marguerite from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/265903.jpg?s=85f55c5d330dd3aeca7ef38a05e8dbb7"
+  },
+  {
+    "name": "Tiger",
+    "prompt": "Tiger from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/459591.jpg?s=40c6c5ada1b79c95770e5dede8ac22c1"
+  },
+  {
+    "name": "Tokumitsu, Announcer",
+    "prompt": "Tokumitsu, Announcer from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/266299.jpg?s=a15a98bec2e40484aaacf6fb0bacbbed"
+  },
+  {
+    "name": "Truffaut, Police Superintendent",
+    "prompt": "Truffaut, Police Superintendent from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/266805.jpg?s=5e9fb15dd381f67d985cd646a76b4e5c"
+  },
+  {
+    "name": "Truffaut's Subordinate",
+    "prompt": "Truffaut's Subordinate from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/266807.jpg?s=6a740af0ef3482d00f1cd64f0c75f6d8"
+  },
+  {
+    "name": "Undertaker",
+    "prompt": "Undertaker from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/265019.jpg?s=6df39a47d5cc859702c9de854a7fe837"
+  },
+  {
+    "name": "von Meyer, Herbert",
+    "prompt": "von Meyer, Herbert from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/457733.jpg?s=51249e0798b56964f1fcdc1a2fe5d672"
+  },
+  {
+    "name": "Warden",
+    "prompt": "Warden from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266331.jpg?s=b93846608354ceb0276e5fd75ff94d19"
+  },
+  {
+    "name": "Whitman",
+    "prompt": "Whitman from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/275057.jpg?s=25edbc09ed718fb7312c877654e354aa"
+  },
+  {
+    "name": "Willhelm, Brillia",
+    "prompt": "Willhelm, Brillia from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/266843.jpg?s=f0bb9ffecd48f999fbf681cdebe6e730"
+  },
+  {
+    "name": "Wolf, Antonio",
+    "prompt": "Wolf, Antonio from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/267147.jpg?s=fc0a82b28538cadbb6a3681289a84a1a"
+  },
+  {
+    "name": "Wolf",
+    "prompt": "Wolf from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/266957.jpg?s=a5b365c52d169be525edc8bfab019969"
+  },
+  {
+    "name": "Women's House Head",
+    "prompt": "Women's House Head from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/457581.jpg?s=7904c1dad1755efe1c275d13bbd2cbe5"
+  },
+  {
+    "name": "Worldwide Crime Preventive Chairman",
+    "prompt": "Worldwide Crime Preventive Chairman from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/266657.jpg?s=7f4fcd3d0f8c6ee89c1ae95fca1a3dae"
+  },
+  {
+    "name": "Yamamoto, Isoroku",
+    "prompt": "Yamamoto, Isoroku from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/267157.jpg?s=40b331af63f8dd020b1df3931e10bbef"
+  },
+  {
+    "name": "Yasmin",
+    "prompt": "Yasmin from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/266077.jpg?s=9d8b8d0afc0c1a4834c39a77910feae9"
+  },
+  {
+    "name": "Zaclyne",
+    "prompt": "Zaclyne from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/459734.jpg?s=d535e41f1d89397ac1377b734e9b107c"
+  },
+  {
+    "name": "Zacqueline's Servant",
+    "prompt": "Zacqueline's Servant from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/265603.jpg?s=13971d38682e8f27dedec232efee4ac5"
+  },
+  {
+    "name": "Zattler, Harry",
+    "prompt": "Zattler, Harry from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266845.jpg?s=bcf5d5bd02a58fb0c24b7b7f9d4ccd35"
+  },
+  {
+    "name": "Zattler, Ellie",
+    "prompt": "Zattler, Ellie from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/266847.jpg?s=cadf67f7c9e8d0e136d3c25846b1cfb7"
+  },
+  {
+    "name": "Zenial",
+    "prompt": "Zenial from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/457356.jpg?s=4c67b4b73246a8d4e96cac9957dc3b3d"
+  },
+  {
+    "name": "Zero, Napoleon",
+    "prompt": "Zero, Napoleon from Lupin III: Part II",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/266799.jpg?s=028503c21c960427c75e6d88750f040d"
+  }
+]

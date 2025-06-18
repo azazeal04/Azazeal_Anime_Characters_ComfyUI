@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Hayashi",
+    "prompt": "Hayashi from Ninja Mono",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/245363.jpg?s=a3d863bd1312b07f8283b083eb7f7c54"
+  },
+  {
+    "name": "Kaoru",
+    "prompt": "Kaoru from Ninja Mono",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/245369.jpg?s=d148f36cfbfc91bd7fbdbdeac8e8361a"
+  },
+  {
+    "name": "Matsuri",
+    "prompt": "Matsuri from Ninja Mono",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/245361.jpg?s=4ffe188350da9c3f8caac9e8c1a1a182"
+  },
+  {
+    "name": "Pochi",
+    "prompt": "Pochi from Ninja Mono",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/245367.jpg?s=a9e6f428aee92a50e4a23add55f944ca"
+  },
+  {
+    "name": "Sakura",
+    "prompt": "Sakura from Ninja Mono",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/245365.jpg?s=cd991ea8fb6c614287b95c96efbd0b69"
+  },
+  {
+    "name": "Yume",
+    "prompt": "Yume from Ninja Mono",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/245371.jpg?s=c9dfcf477ee1068d2e10444806bfdc50"
+  },
+  {
+    "name": "Inaba",
+    "prompt": "Inaba from Ninja Mono",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/245357.jpg?s=73d0f8e5e2ea7307bee7b35457979838"
+  },
+  {
+    "name": "Jame",
+    "prompt": "Jame from Ninja Mono",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/245359.jpg?s=70be56348fa49e0455207d898b01bee9"
+  },
+  {
+    "name": "Matsuzaka",
+    "prompt": "Matsuzaka from Ninja Mono",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/245353.jpg?s=2072c8ceed73767f619bcb1d1bdeb3e0"
+  },
+  {
+    "name": "Nikko",
+    "prompt": "Nikko from Ninja Mono",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/245355.jpg?s=a6dc50d0b76515acef67b447d33c8487"
+  }
+]

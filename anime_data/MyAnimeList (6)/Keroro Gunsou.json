@@ -1,0 +1,447 @@
+[
+  {
+    "name": "Dororo",
+    "prompt": "Dororo from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/71814.jpg?s=f87a26f9e788b6d43130b3b79c0c01d1"
+  },
+  {
+    "name": "Giroro",
+    "prompt": "Giroro from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/111099.jpg?s=c789d26cba0badc159e3bbae0515ad4a"
+  },
+  {
+    "name": "Hinata, Natsumi",
+    "prompt": "Hinata, Natsumi from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/89654.jpg?s=8a7e1e5287b84a7174e94f6b058ea5a3"
+  },
+  {
+    "name": "Hinata, Fuyuki",
+    "prompt": "Hinata, Fuyuki from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/48840.jpg?s=962355f3c5587c08c870bedb1a430a92"
+  },
+  {
+    "name": "Keroro",
+    "prompt": "Keroro from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/111101.jpg?s=66a6a10773eb91ee72f4f6cafe21d143"
+  },
+  {
+    "name": "Kururu",
+    "prompt": "Kururu from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/111100.jpg?s=be3f7f491fc128620dc8f53aac07c45d"
+  },
+  {
+    "name": "Tamama",
+    "prompt": "Tamama from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/88599.jpg?s=f4a6c0a9849930c1bf542adbbf9abc50"
+  },
+  {
+    "name": "Asami",
+    "prompt": "Asami from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/315014.jpg?s=a303e0ff5b9dcbdd6bb23ef74da3d172"
+  },
+  {
+    "name": "Azumaya, Koyuki",
+    "prompt": "Azumaya, Koyuki from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/215087.jpg?s=16718b9da21433bd2c6a8d52aeac0228"
+  },
+  {
+    "name": "Bariri",
+    "prompt": "Bariri from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/300421.jpg?s=7bdc2c0f0c66c29df94e0559271f08d5"
+  },
+  {
+    "name": "Chiroro",
+    "prompt": "Chiroro from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/170995.jpg?s=3ccbcba7403d125d4893b6c0a22efa4f"
+  },
+  {
+    "name": "Darere",
+    "prompt": "Darere from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/300569.jpg?s=690844c980652dbbbb63753c0e37394e"
+  },
+  {
+    "name": "Dobaba",
+    "prompt": "Dobaba from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/300571.jpg?s=5643bfdc41ae4dd02d332d4d2e01913f"
+  },
+  {
+    "name": "Dokuku",
+    "prompt": "Dokuku from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/300570.jpg?s=35f21026b022e626b7bb0df9feaac753"
+  },
+  {
+    "name": "Dororo's mother",
+    "prompt": "Dororo's mother from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/300572.jpg?s=6cd1ae5676f908defe453b7aa4f1b4d2"
+  },
+  {
+    "name": "Dracoon, Félicitation du",
+    "prompt": "Dracoon, Félicitation du from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/82644.jpg?s=99ff6aa3b6713baa699052fc85683474"
+  },
+  {
+    "name": "Father, Giroro and Garuru's",
+    "prompt": "Father, Giroro and Garuru's from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Fear, Angol",
+    "prompt": "Fear, Angol from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/390485.jpg?s=387f40d14a8a3e1adfd59e3494b17a8d"
+  },
+  {
+    "name": "Garuru",
+    "prompt": "Garuru from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/71812.jpg?s=27b23fe5ad3f4b81af3c2615324b9947"
+  },
+  {
+    "name": "Geriri",
+    "prompt": "Geriri from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/300573.jpg?s=7d1b05b05394c784e5f9a61336606b14"
+  },
+  {
+    "name": "Giruru",
+    "prompt": "Giruru from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/300574.jpg?s=d0df81f898e32e486addcceb79bbb41c"
+  },
+  {
+    "name": "Goa, Angol",
+    "prompt": "Goa, Angol from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/300594.jpg?s=320553028628207c47f48cbe81ed2972"
+  },
+  {
+    "name": "Gray, R",
+    "prompt": "Gray, R from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/188184.jpg?s=dcf3fd45347b9fce9feca68dfcebbe1d"
+  },
+  {
+    "name": "Gururu",
+    "prompt": "Gururu from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/300575.jpg?s=62d5b6cf2d60db652769cdf61508543c"
+  },
+  {
+    "name": "Gyororo",
+    "prompt": "Gyororo from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/300576.jpg?s=388bdf94d33de3cc6ed9f886cec7a277"
+  },
+  {
+    "name": "Harpie, Jessica",
+    "prompt": "Harpie, Jessica from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/198185.jpg?s=c3730009ebcf5146f1d1270f6a0cfd8a"
+  },
+  {
+    "name": "Hinata, Akina",
+    "prompt": "Hinata, Akina from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hinata, Aki",
+    "prompt": "Hinata, Aki from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/71817.jpg?s=71afcbad4a90f36477a579a2fe1dde37"
+  },
+  {
+    "name": "Honey, Melody",
+    "prompt": "Honey, Melody from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/480557.jpg?s=c25724b77b9650dfb08fdaa645917502"
+  },
+  {
+    "name": "Imogo, Rie",
+    "prompt": "Imogo, Rie from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/202833.jpg?s=0650bd74d61baaaf225797a2916931b9"
+  },
+  {
+    "name": "Jirara",
+    "prompt": "Jirara from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/300577.jpg?s=028de20817018c09a4077a3e1b93b420"
+  },
+  {
+    "name": "Joriri",
+    "prompt": "Joriri from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/243057.jpg?s=653b91449f027730c1f45d878a3604e8"
+  },
+  {
+    "name": "Kagege",
+    "prompt": "Kagege from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/300578.jpg?s=70e5b40c08907cceb7ca782799ba12b3"
+  },
+  {
+    "name": "Kappa",
+    "prompt": "Kappa from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/300579.jpg?s=7b6c7a3754c934351256a5d032503b2f"
+  },
+  {
+    "name": "Karara",
+    "prompt": "Karara from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/88600.jpg?s=5e43b4be56d14302d44ad1e897d19472"
+  },
+  {
+    "name": "Keroro's father",
+    "prompt": "Keroro's father from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/300580.jpg?s=4ec983e2b528fedb4afd6b72986a6592"
+  },
+  {
+    "name": "Keroro's mother",
+    "prompt": "Keroro's mother from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/300581.jpg?s=95b28bdef1521207b07dc16767883e1d"
+  },
+  {
+    "name": "Kinoshita, Rei",
+    "prompt": "Kinoshita, Rei from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/198149.jpg?s=a96717d340ad942c246708d2b8563be9"
+  },
+  {
+    "name": "Kiruru.",
+    "prompt": "Kiruru. from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/111108.jpg?s=17657e8b6358372b1101cd87c7315934"
+  },
+  {
+    "name": "Kogoro",
+    "prompt": "Kogoro from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/111102.jpg?s=20cded9c7fc5f283fdb07c6a38f6b291"
+  },
+  {
+    "name": "Koneko",
+    "prompt": "Koneko from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/88595.jpg?s=8a7136cf53b625a8f33562e24a8328a7"
+  },
+  {
+    "name": "Lavie",
+    "prompt": "Lavie from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/88602.jpg?s=f339e171a13af28678467c0c325caa68"
+  },
+  {
+    "name": "Man, Dance",
+    "prompt": "Man, Dance from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/244083.jpg?s=f657df097c8a691991df4712bb373bc6"
+  },
+  {
+    "name": "Maso, Dansonu",
+    "prompt": "Maso, Dansonu from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/82029.jpg?s=ed7f9ccf3ac84e3a917c537546cb4428"
+  },
+  {
+    "name": "Mekeke",
+    "prompt": "Mekeke from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/116720.jpg?s=a04124972dce34a44752bb65312f71e9"
+  },
+  {
+    "name": "Meruru",
+    "prompt": "Meruru from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/241373.jpg?s=d55cbadba45847d6d84f00caa737ad21"
+  },
+  {
+    "name": "Mois, Angol",
+    "prompt": "Mois, Angol from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/48841.jpg?s=99585a41106e378422f48d33199f4db4"
+  },
+  {
+    "name": "Moriyama, Paul",
+    "prompt": "Moriyama, Paul from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/8551.jpg?s=c68f56af4a8a6c90a8f6bfbe1eb2264b"
+  },
+  {
+    "name": "Mukuro",
+    "prompt": "Mukuro from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mushishi",
+    "prompt": "Mushishi from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/300582.jpg?s=3a15e54e4ef8b653473aa90d5ab6751f"
+  },
+  {
+    "name": "Nabebe",
+    "prompt": "Nabebe from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/300583.jpg?s=7d81efd601483f58db4a6a6bf859fad4"
+  },
+  {
+    "name": "Nadeshiko, Yamato",
+    "prompt": "Nadeshiko, Yamato from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nakata, Joji",
+    "prompt": "Nakata, Joji from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/111107.jpg?s=ce1a36d038da8ed0fe7aac9bd6129572"
+  },
+  {
+    "name": "Nevula",
+    "prompt": "Nevula from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nishizawa, Oka",
+    "prompt": "Nishizawa, Oka from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/244537.jpg?s=4008f37c31757c81b1098a745f6ac1c3"
+  },
+  {
+    "name": "Nishizawa, Momoka",
+    "prompt": "Nishizawa, Momoka from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/486970.jpg?s=94d9cad6459203d3aafeeb5619481faa"
+  },
+  {
+    "name": "Nishizawa, Baio",
+    "prompt": "Nishizawa, Baio from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/18234.jpg?s=7689da4ca0f18776f044de9735e96f4c"
+  },
+  {
+    "name": "Nobibi",
+    "prompt": "Nobibi from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/300584.jpg?s=1b0f1beff67ec3c33e0d6ab39bac8eb8"
+  },
+  {
+    "name": "Nuii",
+    "prompt": "Nuii from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/300585.jpg?s=5dbd83ab99faa9ca9e1b1ff83d2018ad"
+  },
+  {
+    "name": "Nyororo",
+    "prompt": "Nyororo from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Obaba",
+    "prompt": "Obaba from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/300586.jpg?s=5abb86ccb45b6d9c8974467919274eaf"
+  },
+  {
+    "name": "Omiyo",
+    "prompt": "Omiyo from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/88603.jpg?s=d1fd320d6e84f85f10e829d4d8238fed"
+  },
+  {
+    "name": "Orara",
+    "prompt": "Orara from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/300587.jpg?s=14fd766eef6b9b347ac0f93962459779"
+  },
+  {
+    "name": "Poyan",
+    "prompt": "Poyan from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/236629.jpg?s=84c11ed06672ae6a0342c001d3651121"
+  },
+  {
+    "name": "Poyon",
+    "prompt": "Poyon from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/88601.jpg?s=90c76f5dafb40ea77ef989b0874eb7a3"
+  },
+  {
+    "name": "Pururu",
+    "prompt": "Pururu from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/71820.jpg?s=dbaa358bbf63aef6bc6c3253e7f6cba8"
+  },
+  {
+    "name": "Putata",
+    "prompt": "Putata from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/300588.jpg?s=c7bb2a62b4c0627ec82ba0498d12945c"
+  },
+  {
+    "name": "Robobo",
+    "prompt": "Robobo from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/300589.jpg?s=aa93969381691a891f6e58308db93ff7"
+  },
+  {
+    "name": "Sababa",
+    "prompt": "Sababa from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/300590.jpg?s=31a713697ceedad2f47e50de5343a822"
+  },
+  {
+    "name": "Saburo, Mutsumi",
+    "prompt": "Saburo, Mutsumi from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/71819.jpg?s=fe1718096d247ea890ce12a4c593aff4"
+  },
+  {
+    "name": "Sayuri",
+    "prompt": "Sayuri from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Shimotsuki, Yayoi",
+    "prompt": "Shimotsuki, Yayoi from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/186095.jpg?s=a797be6a1e6d313fe38fd17283606549"
+  },
+  {
+    "name": "Shiwasu, Satsuki",
+    "prompt": "Shiwasu, Satsuki from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/186097.jpg?s=da660752daef7b8d4a3f8df94e5af714"
+  },
+  {
+    "name": "Shurara",
+    "prompt": "Shurara from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/119078.jpg?s=f612d90bc165f7bfe9292f7add5f4d8f"
+  },
+  {
+    "name": "Southerncross, Alisa",
+    "prompt": "Southerncross, Alisa from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/71815.jpg?s=473d934815aaffd09de74a5d8b1ddef2"
+  },
+  {
+    "name": "Sumomo",
+    "prompt": "Sumomo from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/111106.jpg?s=939d0ac6eb77f3cdfd3755b76d30299f"
+  },
+  {
+    "name": "Taruru",
+    "prompt": "Taruru from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/111103.jpg?s=452c754706e2e12c61688335d074176d"
+  },
+  {
+    "name": "Tororo",
+    "prompt": "Tororo from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/111104.jpg?s=02b07acb22db8837cb2acce6a8dd5992"
+  },
+  {
+    "name": "Tsukigami, Chiruyo",
+    "prompt": "Tsukigami, Chiruyo from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/239547.jpg?s=c4a4591a5d411a546c26dd06da734263"
+  },
+  {
+    "name": "Urere",
+    "prompt": "Urere from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/300591.jpg?s=4bf90fe23c76fd04fbde93a0067d51fb"
+  },
+  {
+    "name": "Usanda, Hikari",
+    "prompt": "Usanda, Hikari from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Watanabe, Kumiko",
+    "prompt": "Watanabe, Kumiko from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Yamada",
+    "prompt": "Yamada from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/202885.jpg?s=dc61d9fbaa6a85425cf62b0c78e5bd55"
+  },
+  {
+    "name": "Yoshiokadaira, Masayoshi",
+    "prompt": "Yoshiokadaira, Masayoshi from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/187171.jpg?s=4d0095bf323d0e736dd8959891de1062"
+  },
+  {
+    "name": "Yukiki",
+    "prompt": "Yukiki from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/300592.jpg?s=f53c17a96399575cb5ec337b812d4432"
+  },
+  {
+    "name": "Zeroyasha",
+    "prompt": "Zeroyasha from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Zoruru",
+    "prompt": "Zoruru from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/111105.jpg?s=1a14391a996b8140bed507f249ca93f8"
+  },
+  {
+    "name": "Zurara",
+    "prompt": "Zurara from Keroro Gunsou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/300593.jpg?s=26c86bfe5c2e9b8576d4e2f970a6d549"
+  }
+]

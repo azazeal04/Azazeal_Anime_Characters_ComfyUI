@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Tempest, Rimuru",
+    "prompt": "Tempest, Rimuru from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/495795.jpg?s=4862dd29931674ce7accd715ff3c4a7d"
+  },
+  {
+    "name": "Abil",
+    "prompt": "Abil from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/401350.jpg?s=3342d5918a7f4f2b1a9d06728947526f"
+  },
+  {
+    "name": "Adalman",
+    "prompt": "Adalman from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/548877.jpg?s=4787eafb4168d58e997d4860980264d6"
+  },
+  {
+    "name": "Albis",
+    "prompt": "Albis from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/478563.jpg?s=fab706ffdda7c2ac46d68d44d5e9ae53"
+  },
+  {
+    "name": "Arze",
+    "prompt": "Arze from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Attley, Glenda",
+    "prompt": "Attley, Glenda from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/539055.jpg?s=b89665987625f4109483ee0f3853f0d9"
+  },
+  {
+    "name": "Aubert, Chloe",
+    "prompt": "Aubert, Chloe from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/559304.jpg?s=45e0e568c2c26b60399ffe54dce7002b"
+  },
+  {
+    "name": "Bacchus",
+    "prompt": "Bacchus from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/539048.jpg?s=f2136bedfab3b939776b4c64fd9f979c"
+  },
+  {
+    "name": "Basson",
+    "prompt": "Basson from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/562591.jpg?s=288bed87a8d286aa3fcf20691d16f32f"
+  },
+  {
+    "name": "Bauman, Arnaud",
+    "prompt": "Bauman, Arnaud from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/539047.jpg?s=2c2813f0f272cd62bbd82e7523f6c920"
+  },
+  {
+    "name": "Benimaru",
+    "prompt": "Benimaru from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/447550.jpg?s=65fbfe60f4c15c52e52e2f3b77b67573"
+  },
+  {
+    "name": "Beretta",
+    "prompt": "Beretta from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/479785.jpg?s=8aa2afff9d209ce767600aee4387aee6"
+  },
+  {
+    "name": "Bernie",
+    "prompt": "Bernie from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/557987.jpg?s=4aaa5ee0151fca18211939fccb1c7171"
+  },
+  {
+    "name": "Blumund, Drum",
+    "prompt": "Blumund, Drum from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/559307.jpg?s=4825d3e658ae90ce09f52f8bb1f9a9e4"
+  },
+  {
+    "name": "Carlos",
+    "prompt": "Carlos from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/544520.jpg?s=8e9a92786db43368aeb6172e74aa0200"
+  },
+  {
+    "name": "Carrion",
+    "prompt": "Carrion from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/437993.jpg?s=fd862988ed38cc43b95666e522f1f564"
+  },
+  {
+    "name": "Chonkra",
+    "prompt": "Chonkra from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/556809.jpg?s=09fa70a5b612e89075015458f71d8cc5"
+  },
+  {
+    "name": "Crimson, Guy",
+    "prompt": "Crimson, Guy from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/450871.jpg?s=353e6ad91a7ee1b7d6cb8256839ba182"
+  },
+  {
+    "name": "Cromwell, Leon",
+    "prompt": "Cromwell, Leon from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/373365.jpg?s=188bf088ae3b736f6e786f0e7b8fce1e"
+  },
+  {
+    "name": "Daggra",
+    "prompt": "Daggra from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/556810.jpg?s=3a883d3b42eeab5228d6c23438265a0a"
+  },
+  {
+    "name": "Dagruel",
+    "prompt": "Dagruel from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/484272.jpg?s=73ccf506ec0be28cf29cc4d33e8c0385"
+  },
+  {
+    "name": "Daikenja",
+    "prompt": "Daikenja from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/360785.jpg?s=1e04a1f9476688857ef08236892fae0b"
+  },
+  {
+    "name": "Damrada",
+    "prompt": "Damrada from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/537241.jpg?s=b215d64756150519720bd3a4c6e8c68b"
+  },
+  {
+    "name": "Dena",
+    "prompt": "Dena from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Diablo",
+    "prompt": "Diablo from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/476920.jpg?s=5803922f7222876fd34e948f38f130f3"
+  },
+  {
+    "name": "Dino",
+    "prompt": "Dino from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Dorf",
+    "prompt": "Dorf from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/560022.jpg?s=a8184e4b730239e7accc0bc6669d1fbb"
+  },
+  {
+    "name": "Doris",
+    "prompt": "Doris from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/556805.jpg?s=95cc36f47fbd751468af796269e703d8"
+  },
+  {
+    "name": "Dwargo, Gazeru",
+    "prompt": "Dwargo, Gazeru from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/368498.jpg?s=ee3e666eb16def301f932af3e3751f14"
+  },
+  {
+    "name": "Edgar",
+    "prompt": "Edgar from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/559303.jpg?s=121445f1360ff7ba115651031e15931e"
+  },
+  {
+    "name": "El-Ru Sarion, Elmesia",
+    "prompt": "El-Ru Sarion, Elmesia from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/552114.jpg?s=517fd2d1435ca259ca99afaf7b43cf18"
+  },
+  {
+    "name": "Eren",
+    "prompt": "Eren from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/381118.jpg?s=10597933416f5e030291fbd85c2455a3"
+  },
+  {
+    "name": "Falmuth, Edward",
+    "prompt": "Falmuth, Edward from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/545473.jpg?s=ea5e53e86111f630bb97c4bb8a7bfdc0"
+  },
+  {
+    "name": "Falmuth, Edmaris",
+    "prompt": "Falmuth, Edmaris from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/544518.jpg?s=118bd0c8c5333333fdf4426ed8542761"
+  },
+  {
+    "name": "Farmenas, Youm",
+    "prompt": "Farmenas, Youm from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/559301.jpg?s=7159c6e75d6c89ceacf798d8bd34702b"
+  },
+  {
+    "name": "Footman",
+    "prompt": "Footman from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/484139.jpg?s=45af752ed1bd12a4c29f1acba04f4ec9"
+  },
+  {
+    "name": "Frey",
+    "prompt": "Frey from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/560015.jpg?s=698cb1d18e2d3150c5481cf188847237"
+  },
+  {
+    "name": "Fritz",
+    "prompt": "Fritz from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/539052.jpg?s=a8957362ab4ab3b5d1c688d29d188db8"
+  },
+  {
+    "name": "Fuse",
+    "prompt": "Fuse from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/553729.jpg?s=2eba127fb14f2baa426e47506669bbea"
+  },
+  {
+    "name": "Gabiru",
+    "prompt": "Gabiru from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/381143.jpg?s=54587d87b49bc5dcfa254083275c97b8"
+  },
+  {
+    "name": "Gaiye",
+    "prompt": "Gaiye from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/561384.jpg?s=978d22c7ff02a02e01117503acc0fff4"
+  },
+  {
+    "name": "Garde",
+    "prompt": "Garde from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/539051.jpg?s=0e7ab564a98046f66eb8b80c1e334d7c"
+  },
+  {
+    "name": "Gaston",
+    "prompt": "Gaston from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/551101.jpg?s=c77e792ff667987b7be9377be0dbe1ab"
+  },
+  {
+    "name": "Geld",
+    "prompt": "Geld from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/373361.jpg?s=966ef795ef14dbf1ad5f24208e608cd9"
+  },
+  {
+    "name": "Gibson, Gale",
+    "prompt": "Gibson, Gale from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/462117.jpg?s=35556b4162e4cbafa93dcbc449f88d4a"
+  },
+  {
+    "name": "Gido",
+    "prompt": "Gido from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/381120.jpg?s=8fad1cc2518c750555efcfface49b0a6"
+  },
+  {
+    "name": "Gobkyuu",
+    "prompt": "Gobkyuu from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/554650.jpg?s=c462de83caeb05bdfe3096b7b966e230"
+  },
+  {
+    "name": "Gobta",
+    "prompt": "Gobta from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/381715.jpg?s=93d07ec184467d216d06b471b3e9c37e"
+  },
+  {
+    "name": "Gobuemon",
+    "prompt": "Gobuemon from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/556808.jpg?s=a3fce18f9b30367efd4d39f18ee1e38d"
+  },
+  {
+    "name": "Gobwa",
+    "prompt": "Gobwa from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/548878.jpg?s=9058aecfec79f8937899ff8b836a8225"
+  },
+  {
+    "name": "Gobzo",
+    "prompt": "Gobzo from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/462118.jpg?s=fccb23f107c40c3f84f8937f486c1001"
+  },
+  {
+    "name": "Gomez",
+    "prompt": "Gomez from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/562592.jpg?s=84ba417b9ce081fe223de85151a7d721"
+  },
+  {
+    "name": "Gozul",
+    "prompt": "Gozul from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/561385.jpg?s=5c681d92e40bfb41f1359aa0cf013e0d"
+  },
+  {
+    "name": "Grigori",
+    "prompt": "Grigori from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/539054.jpg?s=e8f0e2d2d0770add4cb908d0a8a0d33c"
+  },
+  {
+    "name": "Grimwald, Erald",
+    "prompt": "Grimwald, Erald from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/561992.jpg?s=7c8d24408cf4b9f741559c837d7c648a"
+  },
+  {
+    "name": "Grucius",
+    "prompt": "Grucius from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/422802.jpg?s=499fdceef69737d3bc021b9617fceacf"
+  },
+  {
+    "name": "Hakurou",
+    "prompt": "Hakurou from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/384886.jpg?s=5851e7913123409af3d1151592cc475a"
+  },
+  {
+    "name": "Haruna",
+    "prompt": "Haruna from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/378491.jpg?s=df5068938b3fbe57c1f1cf6e6395ca16"
+  },
+  {
+    "name": "Henrietta",
+    "prompt": "Henrietta from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/558859.jpg?s=1098fb7944364d81ec9fda3f3a515f5b"
+  },
+  {
+    "name": "Hermes",
+    "prompt": "Hermes from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/560026.jpg?s=9ddff7305db48e6f2620099da8cb1e65"
+  },
+  {
+    "name": "Honjou, Masayuki",
+    "prompt": "Honjou, Masayuki from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/552113.jpg?s=0d6ac97f0ca1c4cdf2e3970e3cf6d74d"
+  },
+  {
+    "name": "Izawa, Shizue",
+    "prompt": "Izawa, Shizue from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/360787.jpg?s=e6be0a6f5016cacd00a85be79c5a0863"
+  },
+  {
+    "name": "Jaine",
+    "prompt": "Jaine from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/486044.jpg?s=4fa45724897143d7ba5a2bcca2099bfc"
+  },
+  {
+    "name": "Jester, Renard",
+    "prompt": "Jester, Renard from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/539049.jpg?s=ed5ebed903670a1b5a76ffc6c151ba1a"
+  },
+  {
+    "name": "Jinrai",
+    "prompt": "Jinrai from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/557985.jpg?s=d47d27b19183d438f2c77349224358e6"
+  },
+  {
+    "name": "Jiwu",
+    "prompt": "Jiwu from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/557986.jpg?s=c087809312cee730a9493997aa4a5a3f"
+  },
+  {
+    "name": "Kaede",
+    "prompt": "Kaede from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/557394.jpg?s=847fa5cd5f56a7f6b3d7df2b255456c1"
+  },
+  {
+    "name": "Kagali",
+    "prompt": "Kagali from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/552746.jpg?s=6d1ba3964c0bd39e05113d2bd0da52cd"
+  },
+  {
+    "name": "Kagurazaka, Yuuki",
+    "prompt": "Kagurazaka, Yuuki from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/560024.jpg?s=db2a584a79f53e3d40246e52cb206c0a"
+  },
+  {
+    "name": "Kaijin",
+    "prompt": "Kaijin from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/366740.jpg?s=b1e23cc75ad2ff01d607a8965c27c790"
+  },
+  {
+    "name": "Kakushin",
+    "prompt": "Kakushin from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/556806.jpg?s=1f2dcc84898744e91e09adbd42aba21d"
+  },
+  {
+    "name": "Kaval",
+    "prompt": "Kaval from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/562648.jpg?s=a986cccca267d7aa624224b2e6fc3aad"
+  },
+  {
+    "name": "Kazak",
+    "prompt": "Kazak from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/553732.jpg?s=cc5afbed5e5a73a8a7aa42d5f33459aa"
+  },
+  {
+    "name": "Kumara",
+    "prompt": "Kumara from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/557984.jpg?s=36696a09b0e8b2ed68685a55f6158bf4"
+  },
+  {
+    "name": "Kurobee",
+    "prompt": "Kurobee from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/360794.jpg?s=a6fd8f3577daa3800010061e43fcd1cd"
+  },
+  {
+    "name": "Laplace",
+    "prompt": "Laplace from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/373363.jpg?s=f66d9940d5c6041a0806793306810717"
+  },
+  {
+    "name": "Liura",
+    "prompt": "Liura from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/556811.jpg?s=cf21a0dd77c8249b46179933245dd0c1"
+  },
+  {
+    "name": "Melis",
+    "prompt": "Melis from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mezul",
+    "prompt": "Mezul from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/561386.jpg?s=57009180087cb12221800df215bbecb5"
+  },
+  {
+    "name": "Middray",
+    "prompt": "Middray from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/560023.jpg?s=47b79ae352e8de5d2d2257e77e908adc"
+  },
+  {
+    "name": "Misaki, Kenya",
+    "prompt": "Misaki, Kenya from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/462112.jpg?s=378f95677bab28128a03f336d9d70945"
+  },
+  {
+    "name": "Misery",
+    "prompt": "Misery from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/474767.jpg?s=d67cf9c99c859d835304882218a3d9cc"
+  },
+  {
+    "name": "Mjurran",
+    "prompt": "Mjurran from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/559302.jpg?s=84082bb91fdfeb4135ab7a69a5db2532"
+  },
+  {
+    "name": "Mjöllmile, Gard",
+    "prompt": "Mjöllmile, Gard from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/553731.jpg?s=58b74599c6e5d63454233eaf5386aecf"
+  },
+  {
+    "name": "Momiji",
+    "prompt": "Momiji from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/552112.jpg?s=c9139c220d73e93b8feb2acd95f92524"
+  },
+  {
+    "name": "Muese",
+    "prompt": "Muese from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/563345.jpg?s=1501fc2821934d7bcbe28bad59d4e79c"
+  },
+  {
+    "name": "Muller",
+    "prompt": "Muller from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/544519.jpg?s=2c319ff7361756701dd28b01acd67eb3"
+  },
+  {
+    "name": "Nava, Milim",
+    "prompt": "Nava, Milim from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/447552.jpg?s=934801fa140aded774c7497110641c65"
+  },
+  {
+    "name": "Ramiris",
+    "prompt": "Ramiris from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/554648.jpg?s=1d3cc7b07eb3e52ba23429a1f7ce5f51"
+  },
+  {
+    "name": "Ranga",
+    "prompt": "Ranga from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/360795.jpg?s=5a31718ffc7921a66fdc1d3d30184721"
+  },
+  {
+    "name": "Razen",
+    "prompt": "Razen from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/544521.jpg?s=825ba0aaa5e002864fd510e02a11849b"
+  },
+  {
+    "name": "Reyheim",
+    "prompt": "Reyheim from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/544522.jpg?s=61bb08ac7d9ef96eb8fd9f73d8cd02fc"
+  },
+  {
+    "name": "Rigur",
+    "prompt": "Rigur from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/381137.jpg?s=bb11b09774898fd2f676ead40a1bc030"
+  },
+  {
+    "name": "Rigurd",
+    "prompt": "Rigurd from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/366737.jpg?s=1f2fe3b1589a208ca0744e370315ed72"
+  },
+  {
+    "name": "Ritus",
+    "prompt": "Ritus from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/557393.jpg?s=2e2418d449452f297a96359d645b962a"
+  },
+  {
+    "name": "Rondo, Alice",
+    "prompt": "Rondo, Alice from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/462122.jpg?s=f3bdd055c2f6bfd0a0f6859fcd5d55fa"
+  },
+  {
+    "name": "Rozzo, Granbell",
+    "prompt": "Rozzo, Granbell from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/537240.jpg?s=b237f51ae9244c367add9d9ca5b2401a"
+  },
+  {
+    "name": "Rozzo, Maribel",
+    "prompt": "Rozzo, Maribel from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/560025.jpg?s=2b3edf08bceafa8230b5758583ab01ce"
+  },
+  {
+    "name": "Saare",
+    "prompt": "Saare from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/539053.jpg?s=3624d036202bdf4b459423a17723503b"
+  },
+  {
+    "name": "Sakaguchi, Hinata",
+    "prompt": "Sakaguchi, Hinata from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/404036.jpg?s=e37714b8c5ed316089cfd5247ffde83e"
+  },
+  {
+    "name": "Segal, Jeff",
+    "prompt": "Segal, Jeff from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/560735.jpg?s=daba5212f57a3df8a184558be310076e"
+  },
+  {
+    "name": "Sekiguchi, Ryouta",
+    "prompt": "Sekiguchi, Ryouta from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/437820.jpg?s=60d32232d4540d1c40ced737b7ce8c1b"
+  },
+  {
+    "name": "Shion",
+    "prompt": "Shion from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/381150.jpg?s=28bfa2d00305977ee431672ea5d9b70d"
+  },
+  {
+    "name": "Shuna",
+    "prompt": "Shuna from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/384887.jpg?s=5f1594e8544d3cd0fd8bf9302c329bc2"
+  },
+  {
+    "name": "Souei",
+    "prompt": "Souei from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/360791.jpg?s=a21f5acacaa506f924a0e809c8c7581f"
+  },
+  {
+    "name": "Souka",
+    "prompt": "Souka from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/461430.jpg?s=6f9478ab3a47ba079d3d87d2fba6f13e"
+  },
+  {
+    "name": "Spertus, Nikolaus",
+    "prompt": "Spertus, Nikolaus from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/552019.jpg?s=95988666c37ca53a0674864b80d53871"
+  },
+  {
+    "name": "Strauss, Gunther",
+    "prompt": "Strauss, Gunther from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/582298.jpg?s=f60932925f35df932e4f10ad765f3384"
+  },
+  {
+    "name": "Sukerou",
+    "prompt": "Sukerou from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/556807.jpg?s=4fb1402430ff69603fd0f23c478cb8de"
+  },
+  {
+    "name": "Suphia",
+    "prompt": "Suphia from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/433550.jpg?s=de9a1f8beebafa7e1c982ff800067ec3"
+  },
+  {
+    "name": "Tear",
+    "prompt": "Tear from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/433953.jpg?s=a27dcf53cb9a6fd46db7c2b62808e4c7"
+  },
+  {
+    "name": "Tempest, Veldora",
+    "prompt": "Tempest, Veldora from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/360786.jpg?s=ca56ee0da0ffbd3caf253e768e34360b"
+  },
+  {
+    "name": "Thalun",
+    "prompt": "Thalun from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tiss",
+    "prompt": "Tiss from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/559306.jpg?s=f3f85e4389db88c6b1b596b734ff23ec"
+  },
+  {
+    "name": "Treyni",
+    "prompt": "Treyni from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/554649.jpg?s=b042fba9e2cd1fb38b117801ca8ec38c"
+  },
+  {
+    "name": "Trya",
+    "prompt": "Trya from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/479672.jpg?s=320f7f40af8def66cea77230534d5fb5"
+  },
+  {
+    "name": "Valentin, Louis",
+    "prompt": "Valentin, Louis from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/550267.jpg?s=1a5c8864fcd9a7bc009e8eb1d8c8c73e"
+  },
+  {
+    "name": "Valentin, Roy",
+    "prompt": "Valentin, Roy from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/478145.jpg?s=a0967daeb9a1e24d12cde972b082ed79"
+  },
+  {
+    "name": "Valentine, Luminous",
+    "prompt": "Valentine, Luminous from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/548631.jpg?s=c13a685ac57908dd78e7e283cf3c2af3"
+  },
+  {
+    "name": "Vaughn",
+    "prompt": "Vaughn from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/560096.jpg?s=0952ea4b4a82420698c7df10a5e65cc4"
+  },
+  {
+    "name": "Vena",
+    "prompt": "Vena from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Veryard",
+    "prompt": "Veryard from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/563344.jpg?s=c5ac2a594c8ba36788b16e4bb33d767f"
+  },
+  {
+    "name": "Vesta",
+    "prompt": "Vesta from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/563342.jpg?s=820f4ab1ff8df2a34373c5be7a632873"
+  },
+  {
+    "name": "Yashichi",
+    "prompt": "Yashichi from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/519284.jpg?s=5e2194d235e232c29f12883a76bed92e"
+  },
+  {
+    "name": "Yoshida, Kaoru",
+    "prompt": "Yoshida, Kaoru from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/553730.jpg?s=169bf314c77e97c8ce80b543ab75588e"
+  },
+  {
+    "name": "Zaus",
+    "prompt": "Zaus from Tensei shitara Slime Datta Ken 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

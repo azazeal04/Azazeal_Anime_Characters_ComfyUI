@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Dai",
+    "prompt": "Dai from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/457016.jpg?s=ae544403d5a415cc5b014e8aa910b345"
+  },
+  {
+    "name": "Leona",
+    "prompt": "Leona from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/409768.jpg?s=b99eeb6f9a0d9b0d2b5e21ae113b98f9"
+  },
+  {
+    "name": "Maam",
+    "prompt": "Maam from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/409766.jpg?s=b4a060a75c4f503726bbfa39d4432a04"
+  },
+  {
+    "name": "Popp",
+    "prompt": "Popp from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/486244.jpg?s=fed9811b83e4e97a30de68469406459e"
+  },
+  {
+    "name": "Amy",
+    "prompt": "Amy from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/545521.jpg?s=3bc3ce1f3e13f453a76a56250d7ac772"
+  },
+  {
+    "name": "Apollo",
+    "prompt": "Apollo from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/545518.jpg?s=a6a96b65ab5db4ab8c695c7e3ce8e3fd"
+  },
+  {
+    "name": "Baduck",
+    "prompt": "Baduck from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/545526.jpg?s=0796af8a3c94d3aa12e16013ccc4876a"
+  },
+  {
+    "name": "Beglom",
+    "prompt": "Beglom from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/546520.jpg?s=c1b36bc642aea4f1c133960890dafda4"
+  },
+  {
+    "name": "Breygun",
+    "prompt": "Breygun from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/546517.jpg?s=5c8b4422ad50dc4606715635e40dd9a7"
+  },
+  {
+    "name": "Crocodine",
+    "prompt": "Crocodine from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/416939.jpg?s=d676098119fdf952a3e9cea587c43826"
+  },
+  {
+    "name": "Deathskull",
+    "prompt": "Deathskull from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/546515.jpg?s=2203bd41bf6eaffcf7e0c62d9ad2fde3"
+  },
+  {
+    "name": "Double Dora",
+    "prompt": "Double Dora from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/546519.jpg?s=e291de2369570aa1d25fbd8b0aee3779"
+  },
+  {
+    "name": "Galvus",
+    "prompt": "Galvus from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/546514.jpg?s=ebb4177e2537a612b6864df8badbc514"
+  },
+  {
+    "name": "Gome",
+    "prompt": "Gome from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/415836.jpg?s=6fb83eb56f8afcdcd3beb856ac7c1752"
+  },
+  {
+    "name": "Hadlar",
+    "prompt": "Hadlar from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/416928.jpg?s=7da3e1cfef1f76130c820cd184a152d0"
+  },
+  {
+    "name": "Hyunckel",
+    "prompt": "Hyunckel from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/409765.jpg?s=30091eb1e4f63bc874dd4334eb1f0fb7"
+  },
+  {
+    "name": "Marin",
+    "prompt": "Marin from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/545520.jpg?s=c585ec3f84e7fcff7360ce6813df0e37"
+  },
+  {
+    "name": "Matoriv",
+    "prompt": "Matoriv from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/545519.jpg?s=66674832a7df1165644b7145e7ec78d1"
+  },
+  {
+    "name": "Menero",
+    "prompt": "Menero from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/546516.jpg?s=02d9d163daf236473b4d3023765b6128"
+  },
+  {
+    "name": "Zangrey",
+    "prompt": "Zangrey from Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/546518.jpg?s=c1036eee2a3b4b08d6df6e09d97bd3c7"
+  }
+]

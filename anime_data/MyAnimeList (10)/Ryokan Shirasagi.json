@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Kenji",
+    "prompt": "Kenji from Ryokan Shirasagi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/184997.jpg?s=e305cb7252de784b65383dd6d073792f"
+  },
+  {
+    "name": "Akisawa, Hibari",
+    "prompt": "Akisawa, Hibari from Ryokan Shirasagi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/185003.jpg?s=d3aa3a93abbd3c36c536efc6440c2230"
+  },
+  {
+    "name": "Misaki, Harumi",
+    "prompt": "Misaki, Harumi from Ryokan Shirasagi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/185001.jpg?s=f5840995048d6b03d464b6f2fbaeee16"
+  },
+  {
+    "name": "Shiratori, Yuriko",
+    "prompt": "Shiratori, Yuriko from Ryokan Shirasagi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/185005.jpg?s=e984a218372a409c6b79471cecb05e5c"
+  },
+  {
+    "name": "Shiratori, Fuyuka",
+    "prompt": "Shiratori, Fuyuka from Ryokan Shirasagi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/184999.jpg?s=667e27ae6fbfd60adcad686245ac013a"
+  }
+]

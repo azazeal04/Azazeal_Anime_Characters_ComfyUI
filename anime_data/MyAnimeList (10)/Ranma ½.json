@@ -1,0 +1,592 @@
+[
+  {
+    "name": "Saotome, Ranma",
+    "prompt": "Saotome, Ranma from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/77009.jpg?s=1eb8ffda5b0463275ff72d43a26f40ee"
+  },
+  {
+    "name": "Tendou, Akane",
+    "prompt": "Tendou, Akane from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/75770.jpg?s=8c75209c7e3ccce304c5a581afae9367"
+  },
+  {
+    "name": "Asami",
+    "prompt": "Asami from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/537900.jpg?s=88715b1153359ed903319f286f8f7ad6"
+  },
+  {
+    "name": "Brown, Anna",
+    "prompt": "Brown, Anna from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/157103.jpg?s=0fe74e6c15f313d706b787b9bb972b27"
+  },
+  {
+    "name": "Brown, Farmer",
+    "prompt": "Brown, Farmer from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/157099.jpg?s=560d345e89f3cafff97353b910c00178"
+  },
+  {
+    "name": "Chardin, Picolet",
+    "prompt": "Chardin, Picolet from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/157113.jpg?s=d4e5de17fc5e7b22282e2d58b86ddd83"
+  },
+  {
+    "name": "Chingensai",
+    "prompt": "Chingensai from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/156707.jpg?s=1d995d9f8705e10fb68e0b06fbbe19bc"
+  },
+  {
+    "name": "Cho",
+    "prompt": "Cho from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/540981.jpg?s=2097d04880f0690b16a2818fe2780fae"
+  },
+  {
+    "name": "Circus Announcer",
+    "prompt": "Circus Announcer from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/540934.jpg?s=296bb5ba57d540a5f7cf1303719c42ce"
+  },
+  {
+    "name": "Cologne",
+    "prompt": "Cologne from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/87922.jpg?s=60740f0538d06c93c8738adb63207280"
+  },
+  {
+    "name": "Competition Announcer",
+    "prompt": "Competition Announcer from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/540930.jpg?s=c120a1fb6e4c0d14d39264c0dd2e0ae1"
+  },
+  {
+    "name": "Copycat Ken",
+    "prompt": "Copycat Ken from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/156811.jpg?s=00babaebc5db81e3a5af6cae13c4f4e5"
+  },
+  {
+    "name": "Crepe no Joe",
+    "prompt": "Crepe no Joe from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/157091.jpg?s=7367e873a0db2a3a61fe9aab363d8113"
+  },
+  {
+    "name": "Daikoku, Kaori",
+    "prompt": "Daikoku, Kaori from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/157165.jpg?s=c906a8db14111fb532215e1299033d83"
+  },
+  {
+    "name": "Daimonji, Sentaro",
+    "prompt": "Daimonji, Sentaro from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/159349.jpg?s=bc9951eca3e01166f85fc64b6e2157ff"
+  },
+  {
+    "name": "Daisuke",
+    "prompt": "Daisuke from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/157355.jpg?s=5873154aaecb0123c974699e707be6f8"
+  },
+  {
+    "name": "Dojo Destroyer",
+    "prompt": "Dojo Destroyer from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/540933.jpg?s=d1d700d2f29587ae96de3d7bad6db0f0"
+  },
+  {
+    "name": "Drama Club President",
+    "prompt": "Drama Club President from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/540922.jpg?s=b9f8383d58602f28f681e2b643479b03"
+  },
+  {
+    "name": "Ex-Chairman",
+    "prompt": "Ex-Chairman from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/540941.jpg?s=ca927176fb383800d32c8cec5fad2849"
+  },
+  {
+    "name": "Female Healer",
+    "prompt": "Female Healer from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/540970.jpg?s=23b5532187794d4955741953042b4d38"
+  },
+  {
+    "name": "Frog Hermit",
+    "prompt": "Frog Hermit from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/156967.jpg?s=c1c2bc798776f5a8f9e0fdc3f83bf00d"
+  },
+  {
+    "name": "Gambling King",
+    "prompt": "Gambling King from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/156969.jpg?s=85baf01fdd2f476f601504193460584d"
+  },
+  {
+    "name": "Gendo",
+    "prompt": "Gendo from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/156957.jpg?s=247b62dc002a9724d21a3defc47d38b8"
+  },
+  {
+    "name": "Genji, Heita",
+    "prompt": "Genji, Heita from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/156817.jpg?s=fd55a0a8e14c8197ff986559dfc42975"
+  },
+  {
+    "name": "Gosunkugi, Hikaru",
+    "prompt": "Gosunkugi, Hikaru from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/537901.jpg?s=5825f765379fbddebe4bf72500849433"
+  },
+  {
+    "name": "Gyoko",
+    "prompt": "Gyoko from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/157307.jpg?s=3eec3a3d7adc3924b2a316db3889ecb6"
+  },
+  {
+    "name": "Happosai",
+    "prompt": "Happosai from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/486403.jpg?s=63dc0567e4856140e30c480ef100dbf7"
+  },
+  {
+    "name": "Harumaki",
+    "prompt": "Harumaki from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/157305.jpg?s=4b71635ec13863b4f3a4ff8e677bfa93"
+  },
+  {
+    "name": "Harumaki's Grandson",
+    "prompt": "Harumaki's Grandson from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/157303.jpg?s=89711f1150a9bdd9e565507dccb85b09"
+  },
+  {
+    "name": "Hibiki, Ryouga",
+    "prompt": "Hibiki, Ryouga from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/87297.jpg?s=a13f9fc16b93204705e625d65c206fe4"
+  },
+  {
+    "name": "Higuma, Torajirou",
+    "prompt": "Higuma, Torajirou from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/156813.jpg?s=cb8803a068e97a3f22acca51f3f36a0a"
+  },
+  {
+    "name": "Hiroko",
+    "prompt": "Hiroko from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/157347.jpg?s=43e18138d01545014047ba0192baf2af"
+  },
+  {
+    "name": "Hiroshi",
+    "prompt": "Hiroshi from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/157353.jpg?s=3da5e76fcec414cb7d845d7cb408653b"
+  },
+  {
+    "name": "Hotel Manager",
+    "prompt": "Hotel Manager from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/540960.jpg?s=2d185c8dfa48c9163a7525781dc0da15"
+  },
+  {
+    "name": "Ino",
+    "prompt": "Ino from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/540978.jpg?s=716df66ebad44e705dde18866b2d4995"
+  },
+  {
+    "name": "Jikeiin, Soutatsu",
+    "prompt": "Jikeiin, Soutatsu from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/157105.jpg?s=87976a647ca6292c71edf5bca8b00c38"
+  },
+  {
+    "name": "Jusenkyo Chairman",
+    "prompt": "Jusenkyo Chairman from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/540944.jpg?s=03ef5a43c034afeb5fd1079f2300c504"
+  },
+  {
+    "name": "Jusenkyo Guide",
+    "prompt": "Jusenkyo Guide from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/157315.jpg?s=4790c25815765c64b59e8616cd9e4430"
+  },
+  {
+    "name": "Kachidokibashi, Torahachi",
+    "prompt": "Kachidokibashi, Torahachi from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/540955.jpg?s=2b95a6a4b2d677f61b16e0c8b8b1c1da"
+  },
+  {
+    "name": "Kagura",
+    "prompt": "Kagura from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/540969.jpg?s=b50d5ccdbaabca3a7597b12842b6d81a"
+  },
+  {
+    "name": "Kaguya",
+    "prompt": "Kaguya from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/540968.jpg?s=f16388bbc36a9183aa38875ba99e7ebb"
+  },
+  {
+    "name": "Kaminarimon, Kumajiro",
+    "prompt": "Kaminarimon, Kumajiro from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/156963.jpg?s=4d7ae4799caed3ee5baffcad2d31c040"
+  },
+  {
+    "name": "Kaminarimon, Temari",
+    "prompt": "Kaminarimon, Temari from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/156961.jpg?s=62c91df7619b1c5f6c12b4a14ee1b874"
+  },
+  {
+    "name": "Kanna",
+    "prompt": "Kanna from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/540964.jpg?s=906713585ca520ce82f18d3bdf46f3ca"
+  },
+  {
+    "name": "Kengyu",
+    "prompt": "Kengyu from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/157311.jpg?s=86e26066142750c0a0efeafa4b6789b4"
+  },
+  {
+    "name": "Kikuko",
+    "prompt": "Kikuko from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/540512.jpg?s=2216094df691971b6fb32fd0dcc8ab81"
+  },
+  {
+    "name": "Kimiyasu, Daitokuji",
+    "prompt": "Kimiyasu, Daitokuji from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/540957.jpg?s=9e4b4edfcd2c371944f0ddf222d3bd7f"
+  },
+  {
+    "name": "Kinnii",
+    "prompt": "Kinnii from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/156603.jpg?s=070adc546ba08103b407907734933eed"
+  },
+  {
+    "name": "Kobayakawa, Toramasa",
+    "prompt": "Kobayakawa, Toramasa from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/157107.jpg?s=01f55788b3170369cc0d2da1ad07777a"
+  },
+  {
+    "name": "Konjo, Mariko",
+    "prompt": "Konjo, Mariko from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/157335.jpg?s=0d4f47391657cfabfd5221f08e99a9f6"
+  },
+  {
+    "name": "Kotarou",
+    "prompt": "Kotarou from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/540963.jpg?s=231a04ba6389da2bcce824d32055c53a"
+  },
+  {
+    "name": "Kunou, Tatewaki",
+    "prompt": "Kunou, Tatewaki from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/76692.jpg?s=bd62427c6135a39eecade54f22034cd8"
+  },
+  {
+    "name": "Kunou, Kodachi",
+    "prompt": "Kunou, Kodachi from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/568797.jpg?s=d06e3d76c4482ada98423cfced382449"
+  },
+  {
+    "name": "Kuonji, Ukyo",
+    "prompt": "Kuonji, Ukyo from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/75809.jpg?s=868fecee0c666ca6745288b0fc3473a3"
+  },
+  {
+    "name": "Kurenai, Tsubasa",
+    "prompt": "Kurenai, Tsubasa from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/200021.jpg?s=5b98c7008c0ceac7a2dea180b03b3df1"
+  },
+  {
+    "name": "Madame Saint Paul",
+    "prompt": "Madame Saint Paul from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/157309.jpg?s=0ed1db9fa8ba7cba132d0d5a8f299b14"
+  },
+  {
+    "name": "Makoto",
+    "prompt": "Makoto from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/540514.jpg?s=66ab9a4b1df51e7aeae4f84263893ce7"
+  },
+  {
+    "name": "Male Healer",
+    "prompt": "Male Healer from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/540971.jpg?s=c4513815bea271a09567f31e6ff2797e"
+  },
+  {
+    "name": "Maomolin",
+    "prompt": "Maomolin from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/537903.jpg?s=0206e4f89869e1ac3ebdcb93a7aa7d47"
+  },
+  {
+    "name": "Matsu",
+    "prompt": "Matsu from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/540918.jpg?s=089fc41789015ae920326cc373e69dfa"
+  },
+  {
+    "name": "Midori",
+    "prompt": "Midori from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/156557.jpg?s=ba5b44eb8484906a6996c1fe683000bb"
+  },
+  {
+    "name": "Mio",
+    "prompt": "Mio from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/156709.jpg?s=c812aad13de509a3e167b7b16c17106e"
+  },
+  {
+    "name": "Miyakoji, Satsuki",
+    "prompt": "Miyakoji, Satsuki from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/157339.jpg?s=95fb8b9a881438d5bdd7ea26bdae89d9"
+  },
+  {
+    "name": "Mousse",
+    "prompt": "Mousse from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/87358.jpg?s=cad493b9f63a5388f9a748aefe5fe676"
+  },
+  {
+    "name": "Mrs. Tendo",
+    "prompt": "Mrs. Tendo from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/537904.jpg?s=9108e2b750d4accfd6c203632c091b43"
+  },
+  {
+    "name": "Musashi, Kogane",
+    "prompt": "Musashi, Kogane from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/156559.jpg?s=ba794f60ca7af94c8768f8bf36f55b78"
+  },
+  {
+    "name": "Mushroom Priest",
+    "prompt": "Mushroom Priest from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/540974.jpg?s=6877e29bc4221fd6ca8fb85feca679d6"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Niku-men",
+    "prompt": "Niku-men from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/540516.jpg?s=0170d221a24106499469f5265d9adc60"
+  },
+  {
+    "name": "Old Washer Woman",
+    "prompt": "Old Washer Woman from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/157337.jpg?s=44cb4b89d7d1ea202c4bcfe4a9720463"
+  },
+  {
+    "name": "Ono, Kin",
+    "prompt": "Ono, Kin from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/156601.jpg?s=d165b4db1442498798ab7f76fd2077f7"
+  },
+  {
+    "name": "Ono, Toufuu",
+    "prompt": "Ono, Toufuu from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/87927.jpg?s=11030969d48d3521984689c81a0fe1e1"
+  },
+  {
+    "name": "Oshamanbe, Uchinosuke",
+    "prompt": "Oshamanbe, Uchinosuke from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/540961.jpg?s=36f018910b7be16312fe28d0b58e1b02"
+  },
+  {
+    "name": "Ousho",
+    "prompt": "Ousho from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/540950.jpg?s=a24e032b9c1da20232adf243065fe0c6"
+  },
+  {
+    "name": "Panda Artist",
+    "prompt": "Panda Artist from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/501472.jpg?s=8db0f2a59094eb7da039d4e31a61d954"
+  },
+  {
+    "name": "Pantyhose Taro",
+    "prompt": "Pantyhose Taro from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/50808.jpg?s=61e89f6f35cb730bff27f50876d2f90d"
+  },
+  {
+    "name": "Priest",
+    "prompt": "Priest from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/157093.jpg?s=a4c48250c8d51ec6643867703e342b25"
+  },
+  {
+    "name": "Princess Ori",
+    "prompt": "Princess Ori from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/30775.jpg?s=8b3b18cb93956603f741d029cd8b6cf4"
+  },
+  {
+    "name": "Principal Kuno",
+    "prompt": "Principal Kuno from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/282516.jpg?s=6703a25c4e7966d24ebae4f0c2c1d79f"
+  },
+  {
+    "name": "Ran Ran",
+    "prompt": "Ran Ran from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/156553.jpg?s=1e09fc1d45af22d540a35fe4e0f4d28a"
+  },
+  {
+    "name": "Restaurant Owner",
+    "prompt": "Restaurant Owner from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/540515.jpg?s=623d4f2c81085798947698cfc8b5efe2"
+  },
+  {
+    "name": "Rice Cake Salesman",
+    "prompt": "Rice Cake Salesman from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/540976.jpg?s=c169934f2138fd73ab4b4608070de628"
+  },
+  {
+    "name": "Rich Husband",
+    "prompt": "Rich Husband from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/540924.jpg?s=04ade63811a696c8eced0d9935553d04"
+  },
+  {
+    "name": "Rich Wife",
+    "prompt": "Rich Wife from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/540926.jpg?s=6a2360baf8388a10229562995cd4f562"
+  },
+  {
+    "name": "Rin Rin",
+    "prompt": "Rin Rin from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/156555.jpg?s=a85426947422363c0495c9d0668cf8bf"
+  },
+  {
+    "name": "Rinko",
+    "prompt": "Rinko from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/157109.jpg?s=ac2c7267a9694ed95b328bbb3dc89e60"
+  },
+  {
+    "name": "Ryonami",
+    "prompt": "Ryonami from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/540511.jpg?s=b512516bd8835e268c1c689ebde36beb"
+  },
+  {
+    "name": "Ryuujin, Hayato",
+    "prompt": "Ryuujin, Hayato from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/540966.jpg?s=2a22c6c5874e71ce130ecaa345bfc92f"
+  },
+  {
+    "name": "Sakura",
+    "prompt": "Sakura from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/156823.jpg?s=bd428231742e9bf0d018beeeeaf54556"
+  },
+  {
+    "name": "Sankichi, Uragishi",
+    "prompt": "Sankichi, Uragishi from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/157095.jpg?s=9812c323b9f8dce5f9f1f73227fb915c"
+  },
+  {
+    "name": "Sanzenin, Mikado",
+    "prompt": "Sanzenin, Mikado from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/87311.jpg?s=5a04d3ac0ad914aaab25a19d4d9c06ec"
+  },
+  {
+    "name": "Saotome, Nodoka",
+    "prompt": "Saotome, Nodoka from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/485740.jpg?s=42f3ad9987bd2f2ec23e4c6d5ed25e4d"
+  },
+  {
+    "name": "Saotome, Genma",
+    "prompt": "Saotome, Genma from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/87369.jpg?s=7626ac7a3155dd527462efd79c3d63f7"
+  },
+  {
+    "name": "Sarugakure, Sasuke",
+    "prompt": "Sarugakure, Sasuke from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/537898.jpg?s=0ecc1a8344ba546595435d838135222b"
+  },
+  {
+    "name": "Satori",
+    "prompt": "Satori from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/537905.jpg?s=6c78596e069844d32ce947b17268c66f"
+  },
+  {
+    "name": "Sayuri",
+    "prompt": "Sayuri from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/157349.jpg?s=26c8815c32d52a0c92d13e49eccb1dc0"
+  },
+  {
+    "name": "Scribbled Panda",
+    "prompt": "Scribbled Panda from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/157167.jpg?s=487f6cdfbbd2001a0ec5c0cdae68375c"
+  },
+  {
+    "name": "Seaweed Child",
+    "prompt": "Seaweed Child from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/540962.jpg?s=dab256484cfb1416b284b67642e26ff3"
+  },
+  {
+    "name": "Sentaro's Grand Mother",
+    "prompt": "Sentaro's Grand Mother from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/505045.jpg?s=89ffe9472ee0fe3de5f5a7e14acda90e"
+  },
+  {
+    "name": "Shampoo",
+    "prompt": "Shampoo from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/289923.jpg?s=90d4e3bc5241a912b33f5d8e8efed6ed"
+  },
+  {
+    "name": "Shika",
+    "prompt": "Shika from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/540980.jpg?s=acc40566fc512e9618b38768e4f7c240"
+  },
+  {
+    "name": "Shikako",
+    "prompt": "Shikako from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/540513.jpg?s=b84cd0fd759972eb36bece0eaccc8f2a"
+  },
+  {
+    "name": "Shiratori, Azusa",
+    "prompt": "Shiratori, Azusa from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/75771.jpg?s=589443b07b650830fef643dbb8da2cd0"
+  },
+  {
+    "name": "Take",
+    "prompt": "Take from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/540919.jpg?s=7299a7700a460a99fb01a8b6c124b80b"
+  },
+  {
+    "name": "Tendou, Kasumi",
+    "prompt": "Tendou, Kasumi from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/486410.jpg?s=694f47abc5d18f35c93abf3805b4df09"
+  },
+  {
+    "name": "Tendou, Nabiki",
+    "prompt": "Tendou, Nabiki from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/87285.jpg?s=6bd1a0c807bfa5007b9ebe09185ab74e"
+  },
+  {
+    "name": "Tendou, Soun",
+    "prompt": "Tendou, Soun from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/87296.jpg?s=37ac772b2db397a40cca6d60e516294a"
+  },
+  {
+    "name": "Tsukasa",
+    "prompt": "Tsukasa from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/157169.jpg?s=8802beac326d125dc8ee6e97f2c481ba"
+  },
+  {
+    "name": "Ukyo's Father",
+    "prompt": "Ukyo's Father from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/540939.jpg?s=26beac751b7548efe1d071b4e642c29b"
+  },
+  {
+    "name": "Ume",
+    "prompt": "Ume from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/540920.jpg?s=bbe3679fd9fce41381f5461615003f8e"
+  },
+  {
+    "name": "Uragishi, Koharu",
+    "prompt": "Uragishi, Koharu from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/157097.jpg?s=22b2ef5dc29b51456e49fc676a681d15"
+  },
+  {
+    "name": "Yang, Gui Fei",
+    "prompt": "Yang, Gui Fei from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/157313.jpg?s=58be58ea6f92d25306328408f8440811"
+  },
+  {
+    "name": "Yasukichi",
+    "prompt": "Yasukichi from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/156959.jpg?s=ce1f0ce3ceccf69fe084f596f2f52da3"
+  },
+  {
+    "name": "Yotaro",
+    "prompt": "Yotaro from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/537906.jpg?s=9b2c839569cee3a8e1f472ff2e833f12"
+  },
+  {
+    "name": "Yotaro's Mother",
+    "prompt": "Yotaro's Mother from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/156821.jpg?s=650dff6e4149118ca6995d478dd8a891"
+  },
+  {
+    "name": "Yudono, Yutaro",
+    "prompt": "Yudono, Yutaro from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/156965.jpg?s=4f4a07d99e8e5f79f60a735e9aa90677"
+  },
+  {
+    "name": "Yuka",
+    "prompt": "Yuka from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/537907.jpg?s=eaadd26a768811d0b5949d5529b91e14"
+  },
+  {
+    "name": "Yukinko",
+    "prompt": "Yukinko from Ranma ½",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/310511.jpg?s=6604fb2d4b54fe2ab8340c5ecd501aa6"
+  }
+]

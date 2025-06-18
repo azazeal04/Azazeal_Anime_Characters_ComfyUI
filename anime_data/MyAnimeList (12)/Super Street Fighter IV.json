@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Chun-Li",
+    "prompt": "Chun-Li from Super Street Fighter IV",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/473809.jpg?s=7e8c6d72fcfbe06e05c8820f72bce700"
+  },
+  {
+    "name": "Guile",
+    "prompt": "Guile from Super Street Fighter IV",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/105555.jpg?s=1dac58eee3acb4eb36a74eebeedeb6e9"
+  },
+  {
+    "name": "Han, Juri",
+    "prompt": "Han, Juri from Super Street Fighter IV",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/308935.jpg?s=494a80e93db4de0e50acac6b5efe6720"
+  },
+  {
+    "name": "White, Cammy",
+    "prompt": "White, Cammy from Super Street Fighter IV",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/80125.jpg?s=99a70186f495961043f9cc96f6413da8"
+  },
+  {
+    "name": "Seth",
+    "prompt": "Seth from Super Street Fighter IV",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/213315.jpg?s=dcea58b478a229781447d5ec90c051a3"
+  },
+  {
+    "name": "Viper, Crimson",
+    "prompt": "Viper, Crimson from Super Street Fighter IV",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/74138.jpg?s=edf0a0732c9420a8d501df073c2dcb89"
+  }
+]

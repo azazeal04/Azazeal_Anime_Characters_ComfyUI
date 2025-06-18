@@ -1,0 +1,572 @@
+[
+  {
+    "name": "Coco",
+    "prompt": "Coco from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/120421.jpg?s=fe0de4f0515f652261f96298d4d0fa1e"
+  },
+  {
+    "name": "Komatsu",
+    "prompt": "Komatsu from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/117998.jpg?s=8a3c8dbb3993c4191ef768c42525ce52"
+  },
+  {
+    "name": "Sunny",
+    "prompt": "Sunny from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/120424.jpg?s=e00a467cc39aa0b4bf29a23e60f32f6f"
+  },
+  {
+    "name": "Toriko",
+    "prompt": "Toriko from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/117042.jpg?s=8d28b85544e3649b21db621a86462c56"
+  },
+  {
+    "name": "Zebra",
+    "prompt": "Zebra from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/121165.jpg?s=a402ed578d299ac7b35651020d9a6a3d"
+  },
+  {
+    "name": "Acacia",
+    "prompt": "Acacia from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/122857.jpg?s=5556ec99b8950fdc859a6a196c6424e5"
+  },
+  {
+    "name": "Aimaru",
+    "prompt": "Aimaru from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/151029.jpg?s=c253dab2c56c7f2c41c95d528f7f908b"
+  },
+  {
+    "name": "Akimaru",
+    "prompt": "Akimaru from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/356255.jpg?s=88985e9edee0b7fc19d6ab14a4f44197"
+  },
+  {
+    "name": "Alfaro",
+    "prompt": "Alfaro from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/146673.jpg?s=7db0f2788a698c4b7d1d28690dea73bf"
+  },
+  {
+    "name": "Atashino",
+    "prompt": "Atashino from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/356141.jpg?s=2963b05d44195e54fceb093071006d6c"
+  },
+  {
+    "name": "Baidan",
+    "prompt": "Baidan from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/351297.jpg?s=cb78e36b1e845449285e8f099a832f72"
+  },
+  {
+    "name": "Barrygamon",
+    "prompt": "Barrygamon from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/140277.jpg?s=f74875f58e7025b2f7edfa1015c4960b"
+  },
+  {
+    "name": "Bei",
+    "prompt": "Bei from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/120410.jpg?s=184a824167a9fdd768d477ebea92ac4e"
+  },
+  {
+    "name": "Boogieyuz",
+    "prompt": "Boogieyuz from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/140279.jpg?s=1893f0a11415c8a8c73efc227840b09f"
+  },
+  {
+    "name": "Boono",
+    "prompt": "Boono from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/324843.jpg?s=35dd698496d47c79493783f46e083e98"
+  },
+  {
+    "name": "Brunch",
+    "prompt": "Brunch from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/224559.jpg?s=9a6d3ce284a2e7fda360bb677dcabb37"
+  },
+  {
+    "name": "Caretaker",
+    "prompt": "Caretaker from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/319811.jpg?s=e4cdaf6a702cff2e17c829e9b6af2842"
+  },
+  {
+    "name": "Chief",
+    "prompt": "Chief from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/574005.jpg?s=784f652eb36591a9ccb1799b55d3753c"
+  },
+  {
+    "name": "Chinchin, Chin",
+    "prompt": "Chinchin, Chin from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/357634.jpg?s=776baa567f655fe1bf4d7246c2b2fe84"
+  },
+  {
+    "name": "Chirin",
+    "prompt": "Chirin from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/356256.jpg?s=c7829794537f51a97aa7590a0d76ef84"
+  },
+  {
+    "name": "Chiru",
+    "prompt": "Chiru from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/356257.jpg?s=824bd98ba3df383d1b32728ce63e92e7"
+  },
+  {
+    "name": "Chiyo",
+    "prompt": "Chiyo from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/356065.jpg?s=e195e9eec97260f4b8856cb1537fa794"
+  },
+  {
+    "name": "Chuparii",
+    "prompt": "Chuparii from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/324844.jpg?s=9043242254e4d7e34838c5eb660aef8c"
+  },
+  {
+    "name": "Cook",
+    "prompt": "Cook from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/574006.jpg?s=63ae34bfdd6d6265512da8fcebe7b236"
+  },
+  {
+    "name": "Cumin",
+    "prompt": "Cumin from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/351504.jpg?s=22920148146c0489622dc4795b58c42d"
+  },
+  {
+    "name": "Director",
+    "prompt": "Director from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/319805.jpg?s=2b8b72b731c0c3478e071224e5fde5ce"
+  },
+  {
+    "name": "Dohem",
+    "prompt": "Dohem from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/146675.jpg?s=93e49a791d5a93d653b24f3b4f5911b0"
+  },
+  {
+    "name": "Drunker",
+    "prompt": "Drunker from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/574010.jpg?s=f4d3820b86b2b3f988b228a67ffdf951"
+  },
+  {
+    "name": "Elbow",
+    "prompt": "Elbow from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/574011.jpg?s=9779c891ae9915d71bff420a2b4ea248"
+  },
+  {
+    "name": "Elg",
+    "prompt": "Elg from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/238579.jpg?s=80c9fd3a1d3d75f65cbb7bd04cf1b7c9"
+  },
+  {
+    "name": "Froese",
+    "prompt": "Froese from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/238627.jpg?s=0e99a8ec4b2d244c56d334f7e0cf31b6"
+  },
+  {
+    "name": "Gido",
+    "prompt": "Gido from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/120413.jpg?s=d00aaa2f07f5c637a1a2f62a95d96acc"
+  },
+  {
+    "name": "Glass",
+    "prompt": "Glass from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/574008.jpg?s=a76312b8b60174a177ccf92f37879dce"
+  },
+  {
+    "name": "Gourmet SP",
+    "prompt": "Gourmet SP from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Grinpatch",
+    "prompt": "Grinpatch from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/132707.jpg?s=ce3daa30352b93d6d9fcf8c079b93cf9"
+  },
+  {
+    "name": "Guemon",
+    "prompt": "Guemon from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/356128.jpg?s=3a094178c337d31069c5b2cffcb6a3de"
+  },
+  {
+    "name": "Hatch",
+    "prompt": "Hatch from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/574009.jpg?s=386d8dae975ff9388dbcaa89419626d8"
+  },
+  {
+    "name": "Ichiryuu",
+    "prompt": "Ichiryuu from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/356145.jpg?s=ce630dce728639e7e620418134e648b3"
+  },
+  {
+    "name": "Jerryboy",
+    "prompt": "Jerryboy from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/132705.jpg?s=92f24fc1cc292c9cf6fc4c9413d7e0ca"
+  },
+  {
+    "name": "Jirou",
+    "prompt": "Jirou from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/115913.jpg?s=9975197a84523f241f035133a15a50e7"
+  },
+  {
+    "name": "Joa",
+    "prompt": "Joa from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/238703.jpg?s=704a55dff9370b5032b86e43615ff4cc"
+  },
+  {
+    "name": "Joejoe",
+    "prompt": "Joejoe from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/120415.jpg?s=f58e18abd9b1af06464f1efcd36144f4"
+  },
+  {
+    "name": "Johannes",
+    "prompt": "Johannes from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/146677.jpg?s=701a458165534d6cc5c3a6da19f53ab0"
+  },
+  {
+    "name": "Kagemaru",
+    "prompt": "Kagemaru from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/356258.jpg?s=8e68db6d54f1bbf639cc639a4576096f"
+  },
+  {
+    "name": "Kapow",
+    "prompt": "Kapow from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/356146.jpg?s=0202822b5c481c79aa097664de1c7ac5"
+  },
+  {
+    "name": "Kawagoe, Tachiino",
+    "prompt": "Kawagoe, Tachiino from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/574012.jpg?s=6b56742e5728da447b36b02652ac415c"
+  },
+  {
+    "name": "Khan, Darnil",
+    "prompt": "Khan, Darnil from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/354755.jpg?s=a451166f7f967222fa3cd96f573be137"
+  },
+  {
+    "name": "Kosairo",
+    "prompt": "Kosairo from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/356143.jpg?s=82539c64f0edb7b47e0f195e1dab46c7"
+  },
+  {
+    "name": "Kuribo",
+    "prompt": "Kuribo from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/356142.jpg?s=83735937c41a6bf218d7e22866259f8f"
+  },
+  {
+    "name": "Kuromado",
+    "prompt": "Kuromado from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/132703.jpg?s=2989aa3a368c0013b52b5929c469e542"
+  },
+  {
+    "name": "Livebearer",
+    "prompt": "Livebearer from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/238497.jpg?s=05b694c8f83ffc8b7442bb25cd684077"
+  },
+  {
+    "name": "Love",
+    "prompt": "Love from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/186083.jpg?s=b1806c74c28d8ec691ff3e3a8786064b"
+  },
+  {
+    "name": "Malee",
+    "prompt": "Malee from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/356135.jpg?s=5272719e22d0cb640598adff0bac73e6"
+  },
+  {
+    "name": "Malisman",
+    "prompt": "Malisman from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/356134.jpg?s=289411b448d8665a511cc3626993b776"
+  },
+  {
+    "name": "Man in Market",
+    "prompt": "Man in Market from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/319806.jpg?s=b2547bd057287ea2b9093a63d727cf68"
+  },
+  {
+    "name": "Manager Smith",
+    "prompt": "Manager Smith from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/574013.jpg?s=7a1bdcabe7e191f3f8906cfcb7d7622e"
+  },
+  {
+    "name": "Manan",
+    "prompt": "Manan from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/356136.jpg?s=54cfd101c78262a542b0c60045eb67c9"
+  },
+  {
+    "name": "Mansam",
+    "prompt": "Mansam from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/120419.jpg?s=94267f7310b7610c3782899633f04f23"
+  },
+  {
+    "name": "Maririn",
+    "prompt": "Maririn from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/319812.jpg?s=69cca73137b62b3d7a6a3354efbc8091"
+  },
+  {
+    "name": "Match",
+    "prompt": "Match from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/135311.jpg?s=494b774adb236e17a0fff5f64867f12b"
+  },
+  {
+    "name": "Megarodras",
+    "prompt": "Megarodras from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/356138.jpg?s=7c704e279336346ba59915ef0bde324b"
+  },
+  {
+    "name": "Melk I",
+    "prompt": "Melk I from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/186223.jpg?s=00b40097bcbce101a7416c9523ee6e12"
+  },
+  {
+    "name": "Melk II",
+    "prompt": "Melk II from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/351274.jpg?s=21db553b0bb49454f795a627b874d761"
+  },
+  {
+    "name": "Meria",
+    "prompt": "Meria from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/351506.jpg?s=cce1b7cb6d7135f7b21e187fd443921e"
+  },
+  {
+    "name": "Midora",
+    "prompt": "Midora from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/275530.jpg?s=fbd60e12863ed36762a41222d66343b0"
+  },
+  {
+    "name": "Miko",
+    "prompt": "Miko from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/351656.jpg?s=c511baf0a56919aefb1b2687f1575444"
+  },
+  {
+    "name": "Mokkoi, Colonel",
+    "prompt": "Mokkoi, Colonel from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/135305.jpg?s=0845d081efba2d8b67201ee53de646eb"
+  },
+  {
+    "name": "Morijii",
+    "prompt": "Morijii from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/135307.jpg?s=4d7ab947ca94c307c1a6e74c33c47f1e"
+  },
+  {
+    "name": "Morita",
+    "prompt": "Morita from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/354756.jpg?s=63d8bd7a879e7d97235e9542f31d1b37"
+  },
+  {
+    "name": "Mortan",
+    "prompt": "Mortan from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/574014.jpg?s=4d861019f482b5bae41f67776354684d"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Niceny",
+    "prompt": "Niceny from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/354753.jpg?s=70f9147f4fb8d62bcf5ab32cf6f1010a"
+  },
+  {
+    "name": "Nonchy",
+    "prompt": "Nonchy from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/371557.jpg?s=d1f6bf006baef95b8b20f9f75ee54f6e"
+  },
+  {
+    "name": "Nono",
+    "prompt": "Nono from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/356144.jpg?s=c0a57b3a7dddde339c975cc9e4d22754"
+  },
+  {
+    "name": "Norisuke",
+    "prompt": "Norisuke from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/324846.jpg?s=4350a4f37b2a7ee1e1d9f10d65db3c66"
+  },
+  {
+    "name": "Ooban",
+    "prompt": "Ooban from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/324847.jpg?s=a68b007b09587f299b9bcdaf87b5158e"
+  },
+  {
+    "name": "Ootake",
+    "prompt": "Ootake from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/279718.jpg?s=955e135c185f8d802faca924f4abe87e"
+  },
+  {
+    "name": "Patch",
+    "prompt": "Patch from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/574019.jpg?s=9b026dbafcb062387ba6ce62aaf2fae7"
+  },
+  {
+    "name": "Pricomb",
+    "prompt": "Pricomb from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/574015.jpg?s=2cf586a563ae557fb14a4c0adc9d3e89"
+  },
+  {
+    "name": "Raimaru",
+    "prompt": "Raimaru from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/356259.jpg?s=e49203640fe6c7a792f28c58e34bee3e"
+  },
+  {
+    "name": "Rala",
+    "prompt": "Rala from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/356140.jpg?s=25ba23c9449dce26c49146220544d43f"
+  },
+  {
+    "name": "Ramon, Goblin",
+    "prompt": "Ramon, Goblin from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/356137.jpg?s=dd7aa544cdda757d276e6f9d14363519"
+  },
+  {
+    "name": "Rapp",
+    "prompt": "Rapp from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/356131.jpg?s=910e93e96af4aae3c7ce72d8bc46ec78"
+  },
+  {
+    "name": "Rick",
+    "prompt": "Rick from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/324845.jpg?s=09628c8e0945bfae6ffe2d13c0eed84b"
+  },
+  {
+    "name": "Rin",
+    "prompt": "Rin from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/120416.jpg?s=07fa31f0985c929d627e42ba37613351"
+  },
+  {
+    "name": "Ryu",
+    "prompt": "Ryu from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/356132.jpg?s=3aefb9f27665631f06ebf4c6a2db1d18"
+  },
+  {
+    "name": "Safla",
+    "prompt": "Safla from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/351505.jpg?s=85ecf55570e57d3e46eec9cf6d4f1e55"
+  },
+  {
+    "name": "Sakura",
+    "prompt": "Sakura from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/356139.jpg?s=4fa0b1329c35e4c42cc3f9a11e3c354a"
+  },
+  {
+    "name": "Sedoru",
+    "prompt": "Sedoru from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/132709.jpg?s=d58b596d2aca1f76b8ffe38710bba7e7"
+  },
+  {
+    "name": "Setsuno",
+    "prompt": "Setsuno from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/132717.jpg?s=e2397ee8032f44cbb5d22ecbcbb0a150"
+  },
+  {
+    "name": "Shigematsu",
+    "prompt": "Shigematsu from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/126005.jpg?s=8b3f70fc0db38ba63c01d20863c3a3af"
+  },
+  {
+    "name": "Shin",
+    "prompt": "Shin from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/574018.jpg?s=7ffefd3765e3ff2a2d19cf2d1d3782b3"
+  },
+  {
+    "name": "Shu",
+    "prompt": "Shu from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/356332.jpg?s=24616cbed379a8be442ffb408ea04bf0"
+  },
+  {
+    "name": "Smile",
+    "prompt": "Smile from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/574016.jpg?s=b9605eb66da8c709e6f44c7d7786baae"
+  },
+  {
+    "name": "Starjun",
+    "prompt": "Starjun from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/120411.jpg?s=08397d40d80247f0e3dd21916f8fd30f"
+  },
+  {
+    "name": "Tack",
+    "prompt": "Tack from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/356133.jpg?s=0ab40b9e5112710917a46d8ef7f800f9"
+  },
+  {
+    "name": "Takimaru",
+    "prompt": "Takimaru from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/135309.jpg?s=21415b501b9c6e7459fbe45e75339b99"
+  },
+  {
+    "name": "Teppei",
+    "prompt": "Teppei from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/151027.jpg?s=1742e09d50b5d777cb824671331944ab"
+  },
+  {
+    "name": "Terry Cloth",
+    "prompt": "Terry Cloth from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/132713.jpg?s=5a495f94076dce236788874177fbd34e"
+  },
+  {
+    "name": "Tina",
+    "prompt": "Tina from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/114008.jpg?s=9e4e8643ed1dbd2b0c8ea5e3b7551e46"
+  },
+  {
+    "name": "Tom",
+    "prompt": "Tom from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/92459.jpg?s=1e0ff348c054a60c83dc269160b8b82e"
+  },
+  {
+    "name": "Tommyrod",
+    "prompt": "Tommyrod from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/138653.jpg?s=d0f6726778336e104a098bc063e71962"
+  },
+  {
+    "name": "Tsukimaru",
+    "prompt": "Tsukimaru from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/356260.jpg?s=727e204311274c790b57d02e1e091949"
+  },
+  {
+    "name": "Uumen, Umeda",
+    "prompt": "Uumen, Umeda from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/132715.jpg?s=1039b2af9171d815a867ebab596ff346"
+  },
+  {
+    "name": "Wagon",
+    "prompt": "Wagon from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/356261.jpg?s=3947201b28ab96beb13db301885c0d6c"
+  },
+  {
+    "name": "Wine",
+    "prompt": "Wine from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/319809.jpg?s=59f06f466eab0c946b6e52dc728b15c2"
+  },
+  {
+    "name": "Yamashita, Tomohisa",
+    "prompt": "Yamashita, Tomohisa from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/186087.jpg?s=f9e938bdf9d8e54e0da6e3fc7c0c2d81"
+  },
+  {
+    "name": "Yosaku",
+    "prompt": "Yosaku from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/149239.jpg?s=bb8955d6bfca72744a2c8dcd05c2d9aa"
+  },
+  {
+    "name": "Yuda",
+    "prompt": "Yuda from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/356130.jpg?s=b67584957e4839abad9a7e0bcebbf138"
+  },
+  {
+    "name": "Yukimaru",
+    "prompt": "Yukimaru from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/356262.jpg?s=e2d160701ed96055abbd03d124aa086d"
+  },
+  {
+    "name": "Yun",
+    "prompt": "Yun from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/354754.jpg?s=8fb773b18d34b5808f3f0a96afde3d81"
+  },
+  {
+    "name": "Yuu",
+    "prompt": "Yuu from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/356129.jpg?s=813c7e35928afe0d46cc71e782f82c00"
+  },
+  {
+    "name": "Zaiper",
+    "prompt": "Zaiper from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/120414.jpg?s=4f8995418efe05f7bd1d3e1f803250a6"
+  },
+  {
+    "name": "Zonge",
+    "prompt": "Zonge from Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/120412.jpg?s=288a5b4d157e7a7b64935c13bc759a0a"
+  }
+]

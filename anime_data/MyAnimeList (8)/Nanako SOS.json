@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Iidabashi, Hiroshi",
+    "prompt": "Iidabashi, Hiroshi from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/473421.jpg?s=7eed7ee8a8ec192e9cee1b25b878aea9"
+  },
+  {
+    "name": "Nanako",
+    "prompt": "Nanako from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/473420.jpg?s=4cab0ca7ec8cc6247eb3630e62d37c4b"
+  },
+  {
+    "name": "Tomoshige, Yotsuya",
+    "prompt": "Tomoshige, Yotsuya from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/473354.jpg?s=8245d445148a7546ca168253e4ebdb80"
+  },
+  {
+    "name": "Agnes",
+    "prompt": "Agnes from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/546137.jpg?s=64677b315bd7437834b9522266a2c14d"
+  },
+  {
+    "name": "Announcer",
+    "prompt": "Announcer from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/546786.jpg?s=4e1ca301be3e3fac8f56c1496b8b5b9c"
+  },
+  {
+    "name": "Ant Queen",
+    "prompt": "Ant Queen from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/545821.jpg?s=91d284dc55f2515673b6017ab3d37de8"
+  },
+  {
+    "name": "Aya",
+    "prompt": "Aya from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/546138.jpg?s=02806f0b6bbb62540408231624e57274"
+  },
+  {
+    "name": "Beautiful Woman",
+    "prompt": "Beautiful Woman from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/545998.jpg?s=6f54e1714ed83d2b943009088134bde1"
+  },
+  {
+    "name": "Boss",
+    "prompt": "Boss from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/547612.jpg?s=c663f53ddff44f9633d5ced0695bbc34"
+  },
+  {
+    "name": "Boss",
+    "prompt": "Boss from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/545726.jpg?s=b1b4662d6a838026725c285330ebdaa0"
+  },
+  {
+    "name": "Boy",
+    "prompt": "Boy from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/545983.jpg?s=5f5c209ddbb48b7b5bcedd5f99eea308"
+  },
+  {
+    "name": "Capo Nero",
+    "prompt": "Capo Nero from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/545735.jpg?s=c9f339e7208f2d9bf60ddc58d990e069"
+  },
+  {
+    "name": "Chien",
+    "prompt": "Chien from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/545995.jpg?s=b30eddea0ec5e43d3d84981222a70a73"
+  },
+  {
+    "name": "Chousan",
+    "prompt": "Chousan from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/546254.jpg?s=4c10210d16635a3ea61fea84f74c65bf"
+  },
+  {
+    "name": "Cook",
+    "prompt": "Cook from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/546952.jpg?s=c36f76254ebfb7e4f6d95adb72875fe4"
+  },
+  {
+    "name": "Crusoe, Dodginson",
+    "prompt": "Crusoe, Dodginson from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/546742.jpg?s=354771ccd04f67391bf17a2d4542af41"
+  },
+  {
+    "name": "Detective",
+    "prompt": "Detective from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/546592.jpg?s=147f48a71d9982f80c9da2da2aef7038"
+  },
+  {
+    "name": "Detective Barry",
+    "prompt": "Detective Barry from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/546876.jpg?s=00fdd98e55218b1a0b7cac8c36467dfc"
+  },
+  {
+    "name": "Director",
+    "prompt": "Director from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/547066.jpg?s=5052a49e87d5e1c06b5f8e3d7bba89a7"
+  },
+  {
+    "name": "Dr. Fluid",
+    "prompt": "Dr. Fluid from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/546593.jpg?s=e8eae135dfb034fb010fe05b083f2728"
+  },
+  {
+    "name": "Dr. Ishikawa",
+    "prompt": "Dr. Ishikawa from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/545357.jpg?s=82aa596c32f0f9dfaf3bcdb02bf71970"
+  },
+  {
+    "name": "Dr. Ishikawa's Mother",
+    "prompt": "Dr. Ishikawa's Mother from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/546953.jpg?s=6b9cdea4fe50856e49f305e0695f8de1"
+  },
+  {
+    "name": "Dracula Boy",
+    "prompt": "Dracula Boy from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/545460.jpg?s=6a715c0c8f21bfe73fd3c4c91a511b27"
+  },
+  {
+    "name": "Eleven",
+    "prompt": "Eleven from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/545353.jpg?s=6cf9364a213c2886aacbcab7d9b3e7e6"
+  },
+  {
+    "name": "Emily",
+    "prompt": "Emily from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/546248.jpg?s=dd5ea1700a305d38f7c9dcd173f39091"
+  },
+  {
+    "name": "Eros",
+    "prompt": "Eros from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/473339.jpg?s=a1332882ab3d4c4b98f566e3f62e5382"
+  },
+  {
+    "name": "Female Coach",
+    "prompt": "Female Coach from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/545727.jpg?s=fedbac0a51ef8bb21a957b2fd76b5b13"
+  },
+  {
+    "name": "Gina",
+    "prompt": "Gina from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/545741.jpg?s=ef7b23114b53be02ea4df872604fdb35"
+  },
+  {
+    "name": "Gindaichi, Kyousuke",
+    "prompt": "Gindaichi, Kyousuke from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/546737.jpg?s=00668158d29179d2a65650588480679e"
+  },
+  {
+    "name": "Gotanda",
+    "prompt": "Gotanda from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/545458.jpg?s=9754f3c4aabe72e00c51649843d17f78"
+  },
+  {
+    "name": "Granny",
+    "prompt": "Granny from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/545459.jpg?s=af8c53bcd5563e62383fb14f950434e4"
+  },
+  {
+    "name": "Guard Chief",
+    "prompt": "Guard Chief from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/547312.jpg?s=85ba1917fae78999ac5770754af48fcc"
+  },
+  {
+    "name": "Haganaini",
+    "prompt": "Haganaini from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/547294.jpg?s=fd716252ec449172713b97af71817132"
+  },
+  {
+    "name": "Hayasaka, Maya",
+    "prompt": "Hayasaka, Maya from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/546880.jpg?s=33b02d6048d1d5862076d980102132ff"
+  },
+  {
+    "name": "Hazim",
+    "prompt": "Hazim from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/546140.jpg?s=38f60ac79bcc63b5c447f72251e47f37"
+  },
+  {
+    "name": "Henchman",
+    "prompt": "Henchman from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/545732.jpg?s=7cf132a75f2b4813329f8540bb02ebef"
+  },
+  {
+    "name": "Horace",
+    "prompt": "Horace from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/547053.jpg?s=b47207ac59ce4519a3b27116ba8425d2"
+  },
+  {
+    "name": "Hyakumen, Shou",
+    "prompt": "Hyakumen, Shou from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/546594.jpg?s=c3c2ab529ef12eb5b6ba32115619b77b"
+  },
+  {
+    "name": "Ice Queen",
+    "prompt": "Ice Queen from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/545809.jpg?s=46a229929e3a587debc57d7671871a25"
+  },
+  {
+    "name": "Kassim",
+    "prompt": "Kassim from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/546139.jpg?s=9dbd5daa296627a9649cd691973a4f06"
+  },
+  {
+    "name": "Kouenji",
+    "prompt": "Kouenji from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/547330.jpg?s=9a7c33c630a7487be250095d62b573ed"
+  },
+  {
+    "name": "Kyouko",
+    "prompt": "Kyouko from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/547849.jpg?s=1fa4a565937f21fe99fdbd37b718acdc"
+  },
+  {
+    "name": "Lady",
+    "prompt": "Lady from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/547331.jpg?s=c7b53deda19a0c63e39612a889fbba47"
+  },
+  {
+    "name": "Li",
+    "prompt": "Li from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/545996.jpg?s=88e3f35b125dd59cf629ad434272c3ea"
+  },
+  {
+    "name": "Marin",
+    "prompt": "Marin from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/546788.jpg?s=31228f882b923e6e855b4938864fbdfe"
+  },
+  {
+    "name": "Math Teacher",
+    "prompt": "Math Teacher from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/545355.jpg?s=59fcf9ee5ebf2a9a8a329c190130e903"
+  },
+  {
+    "name": "Matsudo",
+    "prompt": "Matsudo from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/545992.jpg?s=172e85b6b90d3de6e275e2f23a97be31"
+  },
+  {
+    "name": "Michaeli",
+    "prompt": "Michaeli from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/547310.jpg?s=5e9b2a62c8e4ba19d4731857d3305e47"
+  },
+  {
+    "name": "Miyamura",
+    "prompt": "Miyamura from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/547068.jpg?s=ee344e689b02f8d14765da6326437645"
+  },
+  {
+    "name": "Mother",
+    "prompt": "Mother from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/545984.jpg?s=cc90e29fa5ccffa07054e83682f20d68"
+  },
+  {
+    "name": "Mr. Bukimi",
+    "prompt": "Mr. Bukimi from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/547613.jpg?s=5810756c63ac2f82f97d5d814be5011f"
+  },
+  {
+    "name": "Mr. Hayasaka",
+    "prompt": "Mr. Hayasaka from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/546879.jpg?s=a384bea030c7939845c5112a511c9b6e"
+  },
+  {
+    "name": "Nakano",
+    "prompt": "Nakano from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/547327.jpg?s=41c1b36ef4451d79777376e65c17fad1"
+  },
+  {
+    "name": "Nanao",
+    "prompt": "Nanao from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/547326.jpg?s=ee9e335c58a76485ce8af292d6ce4d4c"
+  },
+  {
+    "name": "NG",
+    "prompt": "NG from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/545457.jpg?s=805745233026573ff7817612c2402b95"
+  },
+  {
+    "name": "Nikawa",
+    "prompt": "Nikawa from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/546144.jpg?s=4a0d8481e420f399daa1971649c7cf3f"
+  },
+  {
+    "name": "Nippori",
+    "prompt": "Nippori from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/545991.jpg?s=cfb097c29b6b4f12a7e031ed74dce00e"
+  },
+  {
+    "name": "Noboribetsu",
+    "prompt": "Noboribetsu from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/547611.jpg?s=a977470c5351d79641f7d87cf00361fe"
+  },
+  {
+    "name": "Nozawano",
+    "prompt": "Nozawano from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/546255.jpg?s=a2064dcfb1b37d1888ccf07331cc1c79"
+  },
+  {
+    "name": "Ogura",
+    "prompt": "Ogura from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/546143.jpg?s=bfab7cfd4c4a1758e9e33e6ed6273756"
+  },
+  {
+    "name": "Ogura's Mother",
+    "prompt": "Ogura's Mother from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/547614.jpg?s=7dc9126facd92802e871f8370027c6a0"
+  },
+  {
+    "name": "Oshamambe",
+    "prompt": "Oshamambe from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/545456.jpg?s=d9acf4c10554320ea697c11641b2c7f6"
+  },
+  {
+    "name": "Pitcher",
+    "prompt": "Pitcher from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/546257.jpg?s=83842e678d3737d61e1747887c43325e"
+  },
+  {
+    "name": "Police Inspector Bolonco",
+    "prompt": "Police Inspector Bolonco from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/546878.jpg?s=2456a8070949f3ec846ec88e39089a2a"
+  },
+  {
+    "name": "Pollon",
+    "prompt": "Pollon from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/473340.jpg?s=2e2c65713fa8502baa6782e83d1432c5"
+  },
+  {
+    "name": "Pride",
+    "prompt": "Pride from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/545728.jpg?s=5e6f9620bc5557a63d06da1ce3d04fcd"
+  },
+  {
+    "name": "Priest",
+    "prompt": "Priest from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/545742.jpg?s=b641da8e2ea1291e82f670b9c353f8fc"
+  },
+  {
+    "name": "Princess Anne",
+    "prompt": "Princess Anne from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/545822.jpg?s=b37d48cdd354f401076f9b9628ce5326"
+  },
+  {
+    "name": "Princess Lolita",
+    "prompt": "Princess Lolita from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/547308.jpg?s=674888944b6d9d1db0118e28046ce2ca"
+  },
+  {
+    "name": "Sandaille",
+    "prompt": "Sandaille from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/547306.jpg?s=d214e670144d6b5dd3c71ce0459923d3"
+  },
+  {
+    "name": "Scientist",
+    "prompt": "Scientist from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/545810.jpg?s=17e1426e074e0ceb5d2d3b212a7d3392"
+  },
+  {
+    "name": "Seiko",
+    "prompt": "Seiko from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/545993.jpg?s=3f3bad44a60e480fe47fd9e8fad1ffc7"
+  },
+  {
+    "name": "Seven",
+    "prompt": "Seven from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/545354.jpg?s=ee2279b4f5d8e354aebc27df7b3e2da6"
+  },
+  {
+    "name": "Shiginon",
+    "prompt": "Shiginon from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/547067.jpg?s=72a8eaf14cb7b28cf488d2a1fbc8773a"
+  },
+  {
+    "name": "Sofia",
+    "prompt": "Sofia from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/545740.jpg?s=15af479775b942aa2af6fc7faa3ce99c"
+  },
+  {
+    "name": "Student",
+    "prompt": "Student from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/546256.jpg?s=3c5dfffbc82fdb66b7fbf5c443bf0ac6"
+  },
+  {
+    "name": "Sunou",
+    "prompt": "Sunou from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/546250.jpg?s=f0aea8123e407f5fa7c579e30f2f2cdb"
+  },
+  {
+    "name": "The Boy",
+    "prompt": "The Boy from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/547847.jpg?s=7906918e9a292eaec061bd5c3c9a4037"
+  },
+  {
+    "name": "Time Queen",
+    "prompt": "Time Queen from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/547970.jpg?s=85cf143c4ac475ee7a94ed0d7933fc25"
+  },
+  {
+    "name": "Tokio",
+    "prompt": "Tokio from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/547969.jpg?s=6c88d49e310cf176c417a362b4cb4576"
+  },
+  {
+    "name": "Tomakomai",
+    "prompt": "Tomakomai from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/547971.jpg?s=ceb14e430bfa0743a6b6371286bd07fa"
+  },
+  {
+    "name": "Ushida, Ushio",
+    "prompt": "Ushida, Ushio from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/546787.jpg?s=a1592a003ae2653fc9e90f17359d7c9e"
+  },
+  {
+    "name": "Valz, Silk",
+    "prompt": "Valz, Silk from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/546877.jpg?s=070946040e716fc43011f87828679365"
+  },
+  {
+    "name": "Wolfman",
+    "prompt": "Wolfman from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/546590.jpg?s=5a689b3daf27d27202a58617980c592f"
+  },
+  {
+    "name": "Woman A",
+    "prompt": "Woman A from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/547972.jpg?s=04c16cd9e7c495ec0ad2620f9de0c3ff"
+  },
+  {
+    "name": "Woman B",
+    "prompt": "Woman B from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/547973.jpg?s=caf0090790e89cb4b08f0a885ce9a8eb"
+  },
+  {
+    "name": "Yahata",
+    "prompt": "Yahata from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/546141.jpg?s=bd64b28ff338546aafc686a94e6ed41f"
+  },
+  {
+    "name": "Yond, James",
+    "prompt": "Yond, James from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/547069.jpg?s=b38705c0202713f492f859c97fdb1d6d"
+  },
+  {
+    "name": "Yoshie",
+    "prompt": "Yoshie from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/545994.jpg?s=dc2e417c3765bb93f4ed6fd8c7591867"
+  },
+  {
+    "name": "Yuuko",
+    "prompt": "Yuuko from Nanako SOS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/546142.jpg?s=b4f9c2c896e9f2ad5c52d81260693988"
+  }
+]

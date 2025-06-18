@@ -1,0 +1,292 @@
+[
+  {
+    "name": "Emilia",
+    "prompt": "Emilia from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/551926.jpg?s=22728d0269f40fb353a31a54545ded00"
+  },
+  {
+    "name": "Natsuki, Subaru",
+    "prompt": "Natsuki, Subaru from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/315153.jpg?s=48e475fa71e56bb47eb93594fe10359d"
+  },
+  {
+    "name": "Aldebaran",
+    "prompt": "Aldebaran from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/268229.jpg?s=b56892395016938e10832be0aea88100"
+  },
+  {
+    "name": "Alphard, Roy",
+    "prompt": "Alphard, Roy from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/565870.jpg?s=fc4d907cbda4dfa9fd97fba43e38c4dd"
+  },
+  {
+    "name": "Argyle, Felix",
+    "prompt": "Argyle, Felix from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/563864.jpg?s=5a4ddc6aa8062f7f1033b366dfb87655"
+  },
+  {
+    "name": "Arneb, Rui",
+    "prompt": "Arneb, Rui from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/462992.jpg?s=08f8da2932ea75b01d7e984e15050f8e"
+  },
+  {
+    "name": "Astrea, Heinkel",
+    "prompt": "Astrea, Heinkel from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/563862.jpg?s=8ec6cdec5071dcc3078ed945b69c4761"
+  },
+  {
+    "name": "Astrea, Thames",
+    "prompt": "Astrea, Thames from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/587747.jpg?s=bba29dea33d362dded03a88dd09c48a7"
+  },
+  {
+    "name": "Astrea, Casilles",
+    "prompt": "Astrea, Casilles from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/587745.jpg?s=773b38ef9e9f6440a7e88181b4c07c12"
+  },
+  {
+    "name": "Astrea, Carlan",
+    "prompt": "Astrea, Carlan from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/587749.jpg?s=ad2a624730f2c88e14018fc87e7cd06a"
+  },
+  {
+    "name": "Barielle, Priscilla",
+    "prompt": "Barielle, Priscilla from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/563865.jpg?s=29783ad5f42c00511a4c4d2f9266e696"
+  },
+  {
+    "name": "Batenkaitos, Lye",
+    "prompt": "Batenkaitos, Lye from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/413734.jpg?s=c63b7825c3e2a49fcd4fde189e555ac8"
+  },
+  {
+    "name": "Baumann, Frederica",
+    "prompt": "Baumann, Frederica from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/318344.jpg?s=4b58bbf13dc1e8f32a5f202fcffcc3ed"
+  },
+  {
+    "name": "Beatrice",
+    "prompt": "Beatrice from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/591066.jpg?s=c8b21170c013b5b286d0ee1345052236"
+  },
+  {
+    "name": "Corneas, Regulus",
+    "prompt": "Corneas, Regulus from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/560847.jpg?s=0d5a1dbd70aa664f4e4d8db953e08032"
+  },
+  {
+    "name": "Elmart, Sylphy",
+    "prompt": "Elmart, Sylphy from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/566513.jpg?s=576c5c178f533b71ee873e0e51b95063"
+  },
+  {
+    "name": "Euclius, Julius",
+    "prompt": "Euclius, Julius from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/480481.jpg?s=abe9942fc7985c6d3eea6c771df017a8"
+  },
+  {
+    "name": "Euclius, Joshua",
+    "prompt": "Euclius, Joshua from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/563825.jpg?s=47689528b8ad6ac616246381abe81b51"
+  },
+  {
+    "name": "Felt",
+    "prompt": "Felt from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/315231.jpg?s=1bef1ff41ee3049d7e71a91242bf42da"
+  },
+  {
+    "name": "Gaston",
+    "prompt": "Gaston from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/303068.jpg?s=e29ec35c1a8115c9496595895a968331"
+  },
+  {
+    "name": "Granhiert, Elsa",
+    "prompt": "Granhiert, Elsa from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/324239.jpg?s=03e10ed43c2a928188259e4ea7ef1272"
+  },
+  {
+    "name": "Hoffman, Rachins",
+    "prompt": "Hoffman, Rachins from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/563875.jpg?s=3a2e7a913fa75cf8ab24869bdb1b6351"
+  },
+  {
+    "name": "Hoshin, Anastasia",
+    "prompt": "Hoshin, Anastasia from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/316407.jpg?s=fef1ce5f3639b48b8e69700a3447b79a"
+  },
+  {
+    "name": "Kallard, Lusbel",
+    "prompt": "Kallard, Lusbel from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/563874.jpg?s=a7c4483fa4e7d9e4e5bb7228ddd2034c"
+  },
+  {
+    "name": "Kanbarry",
+    "prompt": "Kanbarry from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/303070.jpg?s=0a6a5a06f8a76ed45579b77af1c5b3de"
+  },
+  {
+    "name": "Karsten, Crusch",
+    "prompt": "Karsten, Crusch from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/477333.jpg?s=906c6aacc5a8dc5db4cf6c0312c12127"
+  },
+  {
+    "name": "Kurgan",
+    "prompt": "Kurgan from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/422827.jpg?s=c12ecf7b23ab8891e2daca90e2555afc"
+  },
+  {
+    "name": "Leyte, Petra",
+    "prompt": "Leyte, Petra from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/563878.jpg?s=af299108787701356cdf3f3fac5c107c"
+  },
+  {
+    "name": "Liliana's Father",
+    "prompt": "Liliana's Father from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/592404.jpg?s=1bb8330945cf606932542679c439f66c"
+  },
+  {
+    "name": "Liliana's Mother",
+    "prompt": "Liliana's Mother from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/592403.jpg?s=4a2896413a7f2669ee937f6ae42bcba7"
+  },
+  {
+    "name": "Little Girl",
+    "prompt": "Little Girl from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/571691.jpg?s=14f5939bad0301701862d800aaa07dd9"
+  },
+  {
+    "name": "Lugunica, Capella Emerada",
+    "prompt": "Lugunica, Capella Emerada from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/560844.jpg?s=178f2702ba7270f48387d730fdebe822"
+  },
+  {
+    "name": "Masquerade, Liliana",
+    "prompt": "Masquerade, Liliana from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/563867.jpg?s=4fd0558fb0db64d06d9ce98d312dabf9"
+  },
+  {
+    "name": "Mathers, Roswaal L.",
+    "prompt": "Mathers, Roswaal L. from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/512960.jpg?s=57cd78d00a986bcfef15e0f09cb35a14"
+  },
+  {
+    "name": "Muse, Kiritaka",
+    "prompt": "Muse, Kiritaka from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/563853.jpg?s=8402863127f4d07fdc44d17070aacd66"
+  },
+  {
+    "name": "Pandora",
+    "prompt": "Pandora from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/468595.jpg?s=3a117e5e58b57126ad6e8df40551e2e1"
+  },
+  {
+    "name": "Pearlbaton, Mimi",
+    "prompt": "Pearlbaton, Mimi from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/577612.jpg?s=08cdbeae3b2b7640637b1e99ea644670"
+  },
+  {
+    "name": "Pearlbaton, Tivey",
+    "prompt": "Pearlbaton, Tivey from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/577613.jpg?s=9c17dca5fe5616b4b6d6ec83bd4a5e19"
+  },
+  {
+    "name": "Pearlbaton, Hetaro",
+    "prompt": "Pearlbaton, Hetaro from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/577611.jpg?s=abac94f689a5ab2d692fee96c0074a5f"
+  },
+  {
+    "name": "Ram",
+    "prompt": "Ram from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/306390.jpg?s=c627953e35df76da593d931548b7e646"
+  },
+  {
+    "name": "Rem",
+    "prompt": "Rem from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/311327.jpg?s=3246595cd08261824d0dbf11a44c7229"
+  },
+  {
+    "name": "Romanée-Conti, Petelgeuse",
+    "prompt": "Romanée-Conti, Petelgeuse from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/433803.jpg?s=ea96d10316206d8bee58ed1e85daa58b"
+  },
+  {
+    "name": "Romanée-Conti, Sirius",
+    "prompt": "Romanée-Conti, Sirius from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/560846.jpg?s=074da811d8cb15e250f0f597fd34445d"
+  },
+  {
+    "name": "Satella",
+    "prompt": "Satella from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/333682.jpg?s=d51df16debe182247eb3c6796ee4b1df"
+  },
+  {
+    "name": "Schult",
+    "prompt": "Schult from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/569108.jpg?s=dea9b19a49efb2ded41bce9f69edafe7"
+  },
+  {
+    "name": "Suwen, Otto",
+    "prompt": "Suwen, Otto from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/438832.jpg?s=a4b29f3ba09228b9adae8f3326575b92"
+  },
+  {
+    "name": "Thompson, Reala",
+    "prompt": "Thompson, Reala from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/565612.jpg?s=7166c68f18de54176c05a52c40a7b74c"
+  },
+  {
+    "name": "Thompson, Garek",
+    "prompt": "Thompson, Garek from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/565613.jpg?s=78be9ed16c6f15d2802222c386df1ea1"
+  },
+  {
+    "name": "Thompson, Rafiel",
+    "prompt": "Thompson, Rafiel from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/565611.jpg?s=053275002b26c516524075832626350a"
+  },
+  {
+    "name": "Thompson, Fred",
+    "prompt": "Thompson, Fred from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/421307.jpg?s=816552d6b1d9b18e0eb2af36864ba974"
+  },
+  {
+    "name": "Tina",
+    "prompt": "Tina from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/587807.jpg?s=a4237f0c3c72953cd00435919ee30d88"
+  },
+  {
+    "name": "Tinsel, Garfiel",
+    "prompt": "Tinsel, Garfiel from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/563872.jpg?s=339c309c60df78477a91d2b20fb055f7"
+  },
+  {
+    "name": "Trussardi, Dynas",
+    "prompt": "Trussardi, Dynas from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/580789.jpg?s=d9d4d6ae3fdbd3f100c55cb397ba186b"
+  },
+  {
+    "name": "van Astrea, Wilhelm",
+    "prompt": "van Astrea, Wilhelm from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/365139.jpg?s=400e950105421a3d6596993e600604ba"
+  },
+  {
+    "name": "van Astrea, Fribal",
+    "prompt": "van Astrea, Fribal from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/585852.jpg?s=ba11e0bafc810c165679f49a2dee4210"
+  },
+  {
+    "name": "van Astrea, Theresia",
+    "prompt": "van Astrea, Theresia from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/318346.jpg?s=5fccc0ba2ad7215da1d9ef9ead57de28"
+  },
+  {
+    "name": "van Astrea, Reinhard",
+    "prompt": "van Astrea, Reinhard from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/480482.jpg?s=f80ad8379f9a33fed291c3f684d7e4ce"
+  },
+  {
+    "name": "Welkin, Ricardo",
+    "prompt": "Welkin, Ricardo from Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/382154.jpg?s=ae428c542f1e30f0731fb5cd5bfdbc3f"
+  }
+]

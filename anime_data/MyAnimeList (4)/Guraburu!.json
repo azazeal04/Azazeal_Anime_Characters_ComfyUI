@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Lyria",
+    "prompt": "Lyria from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/310765.jpg?s=c5bbcc8c7fb96ae521139469dd4bd247"
+  },
+  {
+    "name": "Vyrn",
+    "prompt": "Vyrn from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/310766.jpg?s=3ef823396247384bc62e60bd07a4c5dd"
+  },
+  {
+    "name": "Alec",
+    "prompt": "Alec from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/415707.jpg?s=46afecedabe192cc3cf7dd9b5bb4c864"
+  },
+  {
+    "name": "Alize, Katalina",
+    "prompt": "Alize, Katalina from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/310767.jpg?s=a35b8ec7ddac2f29eee2d15ce13144fe"
+  },
+  {
+    "name": "Anne",
+    "prompt": "Anne from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/365601.jpg?s=b7bb193f9422cd610010e39e1eb284d0"
+  },
+  {
+    "name": "Beatrix",
+    "prompt": "Beatrix from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/405365.jpg?s=393d90ee02baa1a010d307336e6f0d35"
+  },
+  {
+    "name": "Belial",
+    "prompt": "Belial from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/508628.jpg?s=50944b65c42ed28e707339473e7dbd7e"
+  },
+  {
+    "name": "Cagliostro",
+    "prompt": "Cagliostro from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/345336.jpg?s=b5b175fefb23951eb49c0d81479bd484"
+  },
+  {
+    "name": "Cain",
+    "prompt": "Cain from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/508623.jpg?s=18dad8dc9d64d65788c387abea18f17d"
+  },
+  {
+    "name": "Camieux",
+    "prompt": "Camieux from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/508241.jpg?s=075c36ee2520b1a9ce1269bea00bac5d"
+  },
+  {
+    "name": "Canna",
+    "prompt": "Canna from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/415815.jpg?s=5452c693c45b3264ea89120a8eccfaef"
+  },
+  {
+    "name": "Clarisse",
+    "prompt": "Clarisse from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/508240.jpg?s=51ace8fa70c46c794ed24845d420f0b6"
+  },
+  {
+    "name": "Cucouroux",
+    "prompt": "Cucouroux from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/508229.jpg?s=dcc06ccde422756e3413d6cfaa03f7ca"
+  },
+  {
+    "name": "d'Arc, Jeanne",
+    "prompt": "d'Arc, Jeanne from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/508231.jpg?s=6e4ce62c8ff9f682e6916c46e8ce8dba"
+  },
+  {
+    "name": "Dante",
+    "prompt": "Dante from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/508618.jpg?s=09ee7a4d6da6075e90f5f62844efdf2e"
+  },
+  {
+    "name": "Diantha",
+    "prompt": "Diantha from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/467126.jpg?s=1f0f802234df945a56d11b1890068652"
+  },
+  {
+    "name": "Diola",
+    "prompt": "Diola from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/508632.jpg?s=ecc66aac71841c45209f846e40481e8f"
+  },
+  {
+    "name": "Elmott",
+    "prompt": "Elmott from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/415719.jpg?s=8f5e1e0ae00100386afb0358b920bfbd"
+  },
+  {
+    "name": "Eser",
+    "prompt": "Eser from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/508602.jpg?s=368f47af2258cc6f223402220a843be0"
+  },
+  {
+    "name": "Euclase, Io",
+    "prompt": "Euclase, Io from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/310769.jpg?s=33a8fdd3dbffd849271a611f4681af1c"
+  },
+  {
+    "name": "Eugen",
+    "prompt": "Eugen from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/368845.jpg?s=75ba2ef7484b07aeb6df8bea8460d319"
+  },
+  {
+    "name": "Eustace",
+    "prompt": "Eustace from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/508605.jpg?s=39a759d0ec2ab3d48bcbe60096797660"
+  },
+  {
+    "name": "Ferry",
+    "prompt": "Ferry from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/345338.jpg?s=550241c2cc5ad6289b6afb683f3684cd"
+  },
+  {
+    "name": "Grea",
+    "prompt": "Grea from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/365602.jpg?s=cbdcb629b75c0ae6dcafebec3993a3f4"
+  },
+  {
+    "name": "Hallessena",
+    "prompt": "Hallessena from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/415739.jpg?s=faee7f1287bac45cbd5e4b7c4d845bf1"
+  },
+  {
+    "name": "Harie",
+    "prompt": "Harie from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/508631.jpg?s=446eaeea46b24c1961f6de3c90683fee"
+  },
+  {
+    "name": "Heles",
+    "prompt": "Heles from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/415735.jpg?s=afd2c7376825b0e8b6d5c9ffa6d92f2e"
+  },
+  {
+    "name": "Jessica",
+    "prompt": "Jessica from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/333256.jpg?s=56d30bd7ebdb3c02e4a5e56529d42199"
+  },
+  {
+    "name": "Jin",
+    "prompt": "Jin from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/508233.jpg?s=4924f585407401e4cfe45d24d3398b82"
+  },
+  {
+    "name": "Kattakuri",
+    "prompt": "Kattakuri from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/508630.jpg?s=0e6a1766fe77b88bb18bc6417a6ea3c4"
+  },
+  {
+    "name": "Lancelot",
+    "prompt": "Lancelot from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/368247.jpg?s=57f7345ad68d47f0f0aeb57ebc03990e"
+  },
+  {
+    "name": "Lao, Sahli",
+    "prompt": "Lao, Sahli from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/508625.jpg?s=67d2a8d376af36bbdcaab2b06151f74d"
+  },
+  {
+    "name": "Lecia",
+    "prompt": "Lecia from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/396927.jpg?s=f3fd76ca46d5a5b7ba0b77259d810861"
+  },
+  {
+    "name": "Lily",
+    "prompt": "Lily from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/415729.jpg?s=6b4b4cde3ee661a70fdc8602cc3c282b"
+  },
+  {
+    "name": "Linaria",
+    "prompt": "Linaria from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/508232.jpg?s=a3a686e490088ba61ff51abd3d1abaa8"
+  },
+  {
+    "name": "Lunalu",
+    "prompt": "Lunalu from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/415807.jpg?s=2e01dd32a1432d551670f493913342d8"
+  },
+  {
+    "name": "Mahira",
+    "prompt": "Mahira from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/508626.jpg?s=547f46089ffa42cfe22b1aef002a4ce2"
+  },
+  {
+    "name": "Melissabelle",
+    "prompt": "Melissabelle from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/415989.jpg?s=995769e4a3c9ae7617179bc62ac31e1f"
+  },
+  {
+    "name": "Metera",
+    "prompt": "Metera from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/415721.jpg?s=ad2b74f102befa5abac098e0e74b8276"
+  },
+  {
+    "name": "Michael",
+    "prompt": "Michael from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/508601.jpg?s=4891467643eb66394756e2c784824325"
+  },
+  {
+    "name": "Milleore",
+    "prompt": "Milleore from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/508624.jpg?s=0e36244eeb68a82b6e799801aef780c2"
+  },
+  {
+    "name": "Monika",
+    "prompt": "Monika from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/464686.jpg?s=e544a098782b53b28b2b88e6c78d0909"
+  },
+  {
+    "name": "Morphe",
+    "prompt": "Morphe from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/415905.jpg?s=09925918c32a59e27e44c390dd1cae6a"
+  },
+  {
+    "name": "Narmaya",
+    "prompt": "Narmaya from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/333244.jpg?s=5481c28fc52b3062f25b9ca03066c5e8"
+  },
+  {
+    "name": "Narration",
+    "prompt": "Narration from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nemone",
+    "prompt": "Nemone from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/415898.jpg?s=32911ddb865433af1f2430e611112ea1"
+  },
+  {
+    "name": "Old Man",
+    "prompt": "Old Man from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/508604.jpg?s=eb3d370d7daa1e97091e49030a54228c"
+  },
+  {
+    "name": "Order of the White Dragons' Member A",
+    "prompt": "Order of the White Dragons' Member A from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/508613.jpg?s=6afdb7d812f5cb75bb237aa2bbf7dc2d"
+  },
+  {
+    "name": "Order of the White Dragons' Member B",
+    "prompt": "Order of the White Dragons' Member B from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/508614.jpg?s=a65b8d32939a1a1d77f86ab310d459e6"
+  },
+  {
+    "name": "Owen",
+    "prompt": "Owen from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/467147.jpg?s=3aa67d721615d0236a5eafdcdbd0836f"
+  },
+  {
+    "name": "Percival",
+    "prompt": "Percival from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/368245.jpg?s=45915732dbc83039c638a99080b67787"
+  },
+  {
+    "name": "Phoebe",
+    "prompt": "Phoebe from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/415902.jpg?s=1338cdde445eed188623b1e547d0f19e"
+  },
+  {
+    "name": "Rackam",
+    "prompt": "Rackam from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/310768.jpg?s=acd0daaaaf1d8b18879cdca651d22e69"
+  },
+  {
+    "name": "Rosetta",
+    "prompt": "Rosetta from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/310771.jpg?s=79996de62b53db4d9f45367d18d796c7"
+  },
+  {
+    "name": "Ryan",
+    "prompt": "Ryan from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/508620.jpg?s=c7f2724e8b09ef406fb9b9bc681c8c9a"
+  },
+  {
+    "name": "Sandalphon",
+    "prompt": "Sandalphon from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/508627.jpg?s=3cf95dafede312bae76416335047a228"
+  },
+  {
+    "name": "Siegfried",
+    "prompt": "Siegfried from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/368246.jpg?s=3ccd90abc82df2b5285b56aa8a712174"
+  },
+  {
+    "name": "Sierokarte",
+    "prompt": "Sierokarte from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/332411.jpg?s=64fe64a03033fc80458fccd961ac6ddf"
+  },
+  {
+    "name": "Silva",
+    "prompt": "Silva from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/355322.jpg?s=13ae43deb5506e3ca3770f72745f86b0"
+  },
+  {
+    "name": "Skull",
+    "prompt": "Skull from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/508619.jpg?s=2da3ec319fad8078d71a8cc9799ce1d4"
+  },
+  {
+    "name": "Soriz",
+    "prompt": "Soriz from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/333245.jpg?s=ab4673c462384d06ef988741a70f66cd"
+  },
+  {
+    "name": "Tweyen",
+    "prompt": "Tweyen from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/415799.jpg?s=0ee419ee6f480019c466fb524764d726"
+  },
+  {
+    "name": "Vane",
+    "prompt": "Vane from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/368244.jpg?s=7fab98bf9576456cbf22ad84971281e6"
+  },
+  {
+    "name": "Vania",
+    "prompt": "Vania from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/415770.jpg?s=967fcb7157075e4e833c037ad5a2e7f0"
+  },
+  {
+    "name": "Vaseraga",
+    "prompt": "Vaseraga from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/508621.jpg?s=f59f376dc6d1df3d795f9ea3d47bdf56"
+  },
+  {
+    "name": "Will",
+    "prompt": "Will from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/508603.jpg?s=c309f7091c92356b9755b069bd01e6e6"
+  },
+  {
+    "name": "Yggdrasil",
+    "prompt": "Yggdrasil from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/415782.jpg?s=b564596f8e2412e4547c6f5785fc6a82"
+  },
+  {
+    "name": "Zeta",
+    "prompt": "Zeta from Guraburu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/333257.jpg?s=3154d1ebc6638866dc1313d1518597a5"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Honomi",
+    "prompt": "Honomi from Kyoto Animation: Ajisai-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/198839.jpg?s=7b70c4545ff05b59b43a8eda83fb9f06"
+  },
+  {
+    "name": "Mahana",
+    "prompt": "Mahana from Kyoto Animation: Ajisai-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/198841.jpg?s=af455a8cadbe58f6f9cd2b02b8a64022"
+  },
+  {
+    "name": "Miyuu",
+    "prompt": "Miyuu from Kyoto Animation: Ajisai-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/198843.jpg?s=a92cbaef636ad2ac0337e91f567cb19d"
+  },
+  {
+    "name": "Sarasa",
+    "prompt": "Sarasa from Kyoto Animation: Ajisai-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/198845.jpg?s=18c748b5c0eaf0c4b700a08dadea48ac"
+  }
+]

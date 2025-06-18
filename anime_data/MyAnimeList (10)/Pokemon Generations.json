@@ -1,0 +1,557 @@
+[
+  {
+    "name": "Handsome",
+    "prompt": "Handsome from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/423147.jpg?s=da70505751ea02624eac0fee8ef335c6"
+  },
+  {
+    "name": "Mari",
+    "prompt": "Mari from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/326971.jpg?s=d146b2ef808085d5d5a110ca343bd620"
+  },
+  {
+    "name": "Ookido, Green",
+    "prompt": "Ookido, Green from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/222131.jpg?s=ef3ac34890e280f60591c1fb0a5f33be"
+  },
+  {
+    "name": "Pikachu",
+    "prompt": "Pikachu from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/289627.jpg?s=b97db39e3126c4cc184a764059abe0f6"
+  },
+  {
+    "name": "Wataru",
+    "prompt": "Wataru from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/325053.jpg?s=405aa866a0870f41a5304eefdda0f5ef"
+  },
+  {
+    "name": "Achroma",
+    "prompt": "Achroma from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/382098.jpg?s=7106358ea21149728cbfb4e3d08840e2"
+  },
+  {
+    "name": "Akagi",
+    "prompt": "Akagi from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/370172.jpg?s=74975d2197e44a0bb04440d6a62dfcab"
+  },
+  {
+    "name": "Aloe",
+    "prompt": "Aloe from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/106962.jpg?s=dd9bb7f8dea5fcd075d8106013018cb7"
+  },
+  {
+    "name": "Aogiri",
+    "prompt": "Aogiri from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/249429.jpg?s=21ced938ede802b35e0870e7e3833766"
+  },
+  {
+    "name": "Arbok",
+    "prompt": "Arbok from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/499143.jpg?s=45d73098814e473fad10d9927d9a6c87"
+  },
+  {
+    "name": "Arti",
+    "prompt": "Arti from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/116236.jpg?s=6d3614f0c06767fe66ddb8f7c544f4db"
+  },
+  {
+    "name": "AZ",
+    "prompt": "AZ from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/325136.jpg?s=ee10a98daefc5ab142d5df45c34a4819"
+  },
+  {
+    "name": "Azula",
+    "prompt": "Azula from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/329680.jpg?s=b18733988f2ef34ebebbafdef74280c1"
+  },
+  {
+    "name": "Baku",
+    "prompt": "Baku from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/356831.jpg?s=0fb7410589088ce4327b0d0eb7630af4"
+  },
+  {
+    "name": "Betbeter",
+    "prompt": "Betbeter from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/498611.jpg?s=e3991e33b9d709396c17e2ba1ea41763"
+  },
+  {
+    "name": "Black",
+    "prompt": "Black from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/218221.jpg?s=ccd6632d1e263b47aaa0759cc5f806e1"
+  },
+  {
+    "name": "Calme",
+    "prompt": "Calme from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/324678.jpg?s=0e74ff89102738357a0df40519a8ba06"
+  },
+  {
+    "name": "Carne",
+    "prompt": "Carne from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/488471.jpg?s=e479e108eb203fe403d5768c23bd2b53"
+  },
+  {
+    "name": "Caterpie",
+    "prompt": "Caterpie from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/503661.jpg?s=8da993ac7bcde374acf69e205f779b05"
+  },
+  {
+    "name": "Coil",
+    "prompt": "Coil from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498605.jpg?s=21c5d42c79b5cab5eb0eb3159de929c5"
+  },
+  {
+    "name": "Crimgan",
+    "prompt": "Crimgan from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/497193.jpg?s=e5ce5529e475630a7db4724395b083e8"
+  },
+  {
+    "name": "Dai",
+    "prompt": "Dai from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/326972.jpg?s=6abcf201a57937d2cacca5b5e89388f4"
+  },
+  {
+    "name": "Deoxys",
+    "prompt": "Deoxys from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/282126.jpg?s=28576f876d67e9db3b31e77f3c7c5b73"
+  },
+  {
+    "name": "Dialga",
+    "prompt": "Dialga from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/500498.jpg?s=4ccc4c8a1fb9f1b5fad4eb0b6cec1615"
+  },
+  {
+    "name": "Doctor Platane",
+    "prompt": "Doctor Platane from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/463666.jpg?s=ad4b8c1f91a9b8d699149227eb114825"
+  },
+  {
+    "name": "Dogars",
+    "prompt": "Dogars from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/484898.jpg?s=b6a1b67cad713f8a3c11dd9b575ec365"
+  },
+  {
+    "name": "Eneko",
+    "prompt": "Eneko from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/517163.jpg?s=bdc3cda13c0f7709f43cc570f09aee7b"
+  },
+  {
+    "name": "Entei",
+    "prompt": "Entei from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/254423.jpg?s=2c7bf7ebfe47cd735429de74d8664114"
+  },
+  {
+    "name": "Fleur-de-lis",
+    "prompt": "Fleur-de-lis from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/370173.jpg?s=0825a2be96c3f09519fd4d70b587398c"
+  },
+  {
+    "name": "Foodin",
+    "prompt": "Foodin from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/578815.jpg?s=056a62ffca72e11d9e059ba2c9ef9645"
+  },
+  {
+    "name": "Fushigidane",
+    "prompt": "Fushigidane from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/484349.jpg?s=80dee90bc9f5ffc5a36db98e0f47d065"
+  },
+  {
+    "name": "Fuuro",
+    "prompt": "Fuuro from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/160767.jpg?s=0b36ac6d54a8f542242f76b41d66f3c9"
+  },
+  {
+    "name": "Gaburiasu",
+    "prompt": "Gaburiasu from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/498081.jpg?s=b09110d6c311d7500faf00434534c453"
+  },
+  {
+    "name": "Gardie",
+    "prompt": "Gardie from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497179.jpg?s=190a0d99d19fe1b73e2a5e6b544a4b2f"
+  },
+  {
+    "name": "Gengar",
+    "prompt": "Gengar from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497724.jpg?s=5e6079f80a75912bc0139b8a95dc54fa"
+  },
+  {
+    "name": "Giallo",
+    "prompt": "Giallo from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/329647.jpg?s=3b72589aae2ed33e401c98996c1422ce"
+  },
+  {
+    "name": "Giratina",
+    "prompt": "Giratina from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/500500.jpg?s=6ef53aafde1cc8aeeea6ab4822505679"
+  },
+  {
+    "name": "Graena",
+    "prompt": "Graena from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/500159.jpg?s=d00a3061d666068f71743713c3dfe736"
+  },
+  {
+    "name": "Granbull",
+    "prompt": "Granbull from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/499984.jpg?s=5335715f3edf4d40749c2f1a45694f5a"
+  },
+  {
+    "name": "Groudon",
+    "prompt": "Groudon from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/500162.jpg?s=cc6d6f057f1e207858e32e3ba3c10127"
+  },
+  {
+    "name": "Gyarados",
+    "prompt": "Gyarados from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/528249.jpg?s=a62ca3c62d1d023218389e1337abb3ec"
+  },
+  {
+    "name": "Hachiku",
+    "prompt": "Hachiku from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/167455.jpg?s=d67ef4c0dc576e9b94d6ca7e0ded1a09"
+  },
+  {
+    "name": "Harmonia, Ghetsis",
+    "prompt": "Harmonia, Ghetsis from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/370174.jpg?s=0dada49ceff384e2e48d791fc246ecbc"
+  },
+  {
+    "name": "Harmonia Gropius, Natural",
+    "prompt": "Harmonia Gropius, Natural from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/200783.jpg?s=a84f2f718d32a870630d6ff26e396e37"
+  },
+  {
+    "name": "Hassboh",
+    "prompt": "Hassboh from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/534554.jpg?s=3c8bcf4b92b975cb27f3385bcca1e824"
+  },
+  {
+    "name": "Hibiki",
+    "prompt": "Hibiki from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/324574.jpg?s=9939c585da3ad5af8d3e0eb6263bc054"
+  },
+  {
+    "name": "Hitokage",
+    "prompt": "Hitokage from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497725.jpg?s=d7b0e60b71876679b6a20161fc2260d0"
+  },
+  {
+    "name": "Homura",
+    "prompt": "Homura from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/324571.jpg?s=9f91bc1edb8a127214361b095b72318d"
+  },
+  {
+    "name": "Houou",
+    "prompt": "Houou from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/498325.jpg?s=244b949a48461ccbddf6937c883b5851"
+  },
+  {
+    "name": "Iris",
+    "prompt": "Iris from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/442059.jpg?s=242500cdb747f0b8a2b0ba80fa7b532b"
+  },
+  {
+    "name": "Izumi",
+    "prompt": "Izumi from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/327531.jpg?s=150d23aca26275bbd77b866abe2cc036"
+  },
+  {
+    "name": "Jukain",
+    "prompt": "Jukain from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/504428.jpg?s=4fc844286eea770a78fe10c391b2d1e8"
+  },
+  {
+    "name": "Jupiter",
+    "prompt": "Jupiter from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/459623.jpg?s=14f1044c6ff4359aafacfe645bd019f8"
+  },
+  {
+    "name": "Kagari",
+    "prompt": "Kagari from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/324533.jpg?s=85839bfa9f8bf7b0809548d0fca9464b"
+  },
+  {
+    "name": "Kairiki",
+    "prompt": "Kairiki from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/497612.jpg?s=1ba68cd71979517efb37db292d21ba5e"
+  },
+  {
+    "name": "Kairyuu",
+    "prompt": "Kairyuu from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/528913.jpg?s=7e9c8cf303fd1acf883ae73eccd5c633"
+  },
+  {
+    "name": "Kamex",
+    "prompt": "Kamex from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/497455.jpg?s=be5b72efb98a91b4f2075fd9831c75aa"
+  },
+  {
+    "name": "Kamitsure",
+    "prompt": "Kamitsure from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/149501.jpg?s=aad640dc6a87832acfb90a084551dd92"
+  },
+  {
+    "name": "Kanna",
+    "prompt": "Kanna from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/530362.jpg?s=5a4b93dccde886a4fb6b599830832218"
+  },
+  {
+    "name": "Kikuko",
+    "prompt": "Kikuko from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/336001.jpg?s=1e574900cba1315c42fe12c0afc89052"
+  },
+  {
+    "name": "Koiking",
+    "prompt": "Koiking from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/497181.jpg?s=1f9c9acf07db69f74afac5a47c5b0a59"
+  },
+  {
+    "name": "Koratta",
+    "prompt": "Koratta from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498475.jpg?s=8705af4423acafef2593f11f28f92881"
+  },
+  {
+    "name": "Kyurem",
+    "prompt": "Kyurem from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/493931.jpg?s=86495bf26224ce246c987cce5c50fedf"
+  },
+  {
+    "name": "Lambda",
+    "prompt": "Lambda from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/325044.jpg?s=9a2e4092acedeb7e372c3595385f3dc4"
+  },
+  {
+    "name": "Laplace",
+    "prompt": "Laplace from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/504790.jpg?s=b8ebdbc6f45ccdb2b0022c8b010a1e17"
+  },
+  {
+    "name": "Latias",
+    "prompt": "Latias from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/396594.jpg?s=2c67daed02a1ac52d3ae9c199e6f5af9"
+  },
+  {
+    "name": "Latios",
+    "prompt": "Latios from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/396593.jpg?s=8ca8f23a7f1b6faf55aa1e02e4dc6714"
+  },
+  {
+    "name": "Lizardon",
+    "prompt": "Lizardon from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497453.jpg?s=4ac403651eb19d691c4dd36ef2848119"
+  },
+  {
+    "name": "Lucky",
+    "prompt": "Lucky from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/553422.jpg?s=5528201e18f3679114e253f0a0e252a1"
+  },
+  {
+    "name": "Lugia",
+    "prompt": "Lugia from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/394888.jpg?s=42c5de5026403386739b0a3d1615251e"
+  },
+  {
+    "name": "Makunoshita",
+    "prompt": "Makunoshita from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/560253.jpg?s=22f587b37dd4d10af9884648886704fb"
+  },
+  {
+    "name": "Mars",
+    "prompt": "Mars from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/463672.jpg?s=75c21e709d42cf6b3315a03fca93876e"
+  },
+  {
+    "name": "Matadogas",
+    "prompt": "Matadogas from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/499144.jpg?s=4bda67370d1878b3c6427ad31482e7db"
+  },
+  {
+    "name": "Matiere",
+    "prompt": "Matiere from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/324682.jpg?s=34cbfbc35356e5a859da4d731652a526"
+  },
+  {
+    "name": "Matsubusa",
+    "prompt": "Matsubusa from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/249385.jpg?s=7cd1f03ca5997aa3c836b1132f443d68"
+  },
+  {
+    "name": "Menokurage",
+    "prompt": "Menokurage from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497606.jpg?s=b9d9bcca4dd4e85bac64dc0c0e11893e"
+  },
+  {
+    "name": "Minaki",
+    "prompt": "Minaki from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/396615.jpg?s=5cc3d771e9f52e58c54cd854007652d5"
+  },
+  {
+    "name": "Momi",
+    "prompt": "Momi from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/325057.jpg?s=3caf36de4da39582539a664a0f98fd22"
+  },
+  {
+    "name": "Nyasper",
+    "prompt": "Nyasper from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/521894.jpg?s=e1cf73ddf91e89543e312795da5658a0"
+  },
+  {
+    "name": "Odoshishi",
+    "prompt": "Odoshishi from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/497692.jpg?s=9d0ad3e5f5db64a676627fe012571481"
+  },
+  {
+    "name": "Pachira",
+    "prompt": "Pachira from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/324675.jpg?s=9345ab9e2e9498cc60ae7f754cfab442"
+  },
+  {
+    "name": "Palkia",
+    "prompt": "Palkia from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/500499.jpg?s=c2f5ee66c6a1451b5e285f23319c4617"
+  },
+  {
+    "name": "Pluto",
+    "prompt": "Pluto from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/458419.jpg?s=3820543774c47b5e8e63e51351a450b6"
+  },
+  {
+    "name": "Pochiena",
+    "prompt": "Pochiena from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/500158.jpg?s=b36b08861ebfc9b3e600e48cbcf4da5e"
+  },
+  {
+    "name": "Poppo",
+    "prompt": "Poppo from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/498326.jpg?s=7195d699709848dc904ab88508b63f75"
+  },
+  {
+    "name": "Raikou",
+    "prompt": "Raikou from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/101497.jpg?s=313c05226fed67601ebf9357e9a9f3ff"
+  },
+  {
+    "name": "Ratta",
+    "prompt": "Ratta from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/498476.jpg?s=2ac15f2d6f786e9fe302a3cdf5acba49"
+  },
+  {
+    "name": "Rayquaza",
+    "prompt": "Rayquaza from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/500163.jpg?s=68594470f44b047ae001f41a64615f25"
+  },
+  {
+    "name": "Red",
+    "prompt": "Red from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/181949.jpg?s=162829640f3576d3cecbc199ec0b07c0"
+  },
+  {
+    "name": "Reshiram",
+    "prompt": "Reshiram from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/161231.jpg?s=73e5d660a94d559eb52b2b4c499ce59b"
+  },
+  {
+    "name": "Rokon",
+    "prompt": "Rokon from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497649.jpg?s=3a9a4ebe42b6033278669b00d1ac6637"
+  },
+  {
+    "name": "Rot",
+    "prompt": "Rot from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/329292.jpg?s=9a1b242c7218bf014782d32662050c72"
+  },
+  {
+    "name": "Ryokushi",
+    "prompt": "Ryokushi from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/329679.jpg?s=ae87190a78379452d0f91878ba5584b5"
+  },
+  {
+    "name": "Sakaki",
+    "prompt": "Sakaki from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/222133.jpg?s=b6503c67934b3c802476cc661913c35b"
+  },
+  {
+    "name": "Saturn",
+    "prompt": "Saturn from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/463673.jpg?s=45929daa93549169562d490b48921239"
+  },
+  {
+    "name": "Shaga",
+    "prompt": "Shaga from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/450859.jpg?s=ccf5112dc879dbc9c332cc1b8b1885b8"
+  },
+  {
+    "name": "Shiba",
+    "prompt": "Shiba from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/333673.jpg?s=e5c5a0eb60ae413911d8a08f22c660d3"
+  },
+  {
+    "name": "Shirona",
+    "prompt": "Shirona from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/464007.jpg?s=de9beb0eafad0f93186190e0554219ff"
+  },
+  {
+    "name": "Sidon",
+    "prompt": "Sidon from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498920.jpg?s=a23393720e15347761ee21645cac23ac"
+  },
+  {
+    "name": "Silver",
+    "prompt": "Silver from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/390378.jpg?s=e3997ce72d4ae4c5338e60b9c227ace0"
+  },
+  {
+    "name": "Soraishi, Doctor",
+    "prompt": "Soraishi, Doctor from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/498202.jpg?s=f243c4353d458b82a8592ca6531fec1c"
+  },
+  {
+    "name": "Suicune",
+    "prompt": "Suicune from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/471479.jpg?s=1c8c89fad83457a5b4348d69f5a20577"
+  },
+  {
+    "name": "Sumra",
+    "prompt": "Sumra from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/329677.jpg?s=a693987dda6ae5cf8b731d375924d5cb"
+  },
+  {
+    "name": "Thunder",
+    "prompt": "Thunder from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/421556.jpg?s=e8cb8deaa2ad148c2d915816a52228a7"
+  },
+  {
+    "name": "Touya",
+    "prompt": "Touya from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/324677.jpg?s=5de1b89d676b4eeeaecafd633b3621bd"
+  },
+  {
+    "name": "Upah",
+    "prompt": "Upah from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/484755.jpg?s=c9fcc5f37870b668fd26c3fc7a9188be"
+  },
+  {
+    "name": "Vio",
+    "prompt": "Vio from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/329668.jpg?s=b1c2ecfd84bf7d3a110a490348db53fc"
+  },
+  {
+    "name": "Windie",
+    "prompt": "Windie from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497293.jpg?s=fe3838d37a43fb15e65edcbcfd068112"
+  },
+  {
+    "name": "Yacon",
+    "prompt": "Yacon from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/156209.jpg?s=d3a1d6873f82ff12019bcc335d6bfd19"
+  },
+  {
+    "name": "Yuuki",
+    "prompt": "Yuuki from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/268603.jpg?s=b4ac9a19f9486dfc254aedf6a9a1fca7"
+  },
+  {
+    "name": "Zekrom",
+    "prompt": "Zekrom from Pokemon Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/161229.jpg?s=1a754198d6bf4e08a6869fa0ba9a1f3f"
+  }
+]

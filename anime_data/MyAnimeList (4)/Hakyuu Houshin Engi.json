@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Taikoubou",
+    "prompt": "Taikoubou from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/346020.jpg?s=4ce5e8a35af98b1210edc66929589c7b"
+  },
+  {
+    "name": "Bukichi",
+    "prompt": "Bukichi from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/346019.jpg?s=6bfd32aa0cabadd2e6dddefd72994629"
+  },
+  {
+    "name": "Bunchuu",
+    "prompt": "Bunchuu from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/346017.jpg?s=68e9915278395d156298dee3531ef316"
+  },
+  {
+    "name": "Cho Tenkun",
+    "prompt": "Cho Tenkun from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/361345.jpg?s=812fc41132d88e56ef49e026dea288b4"
+  },
+  {
+    "name": "Chou Hou",
+    "prompt": "Chou Hou from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/369054.jpg?s=220ad411a5405542b9425d5fc1bad657"
+  },
+  {
+    "name": "Chou Kou Mei",
+    "prompt": "Chou Kou Mei from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/361079.jpg?s=8f40576cd32340de3f6ca7e45de16c9d"
+  },
+  {
+    "name": "Chou Tenkun",
+    "prompt": "Chou Tenkun from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/352354.jpg?s=7d7abff42903dad31317ff28eeb2f635"
+  },
+  {
+    "name": "Chuuou",
+    "prompt": "Chuuou from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/348397.jpg?s=5d768a14ddf921ae856793fd88223434"
+  },
+  {
+    "name": "Dakki",
+    "prompt": "Dakki from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/349152.jpg?s=42759d00b0fa5c8c8a31e7ab51857060"
+  },
+  {
+    "name": "Dokouson",
+    "prompt": "Dokouson from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/355761.jpg?s=777b654abadbfe2a12400ede237c989f"
+  },
+  {
+    "name": "Doujin, Nentou",
+    "prompt": "Doujin, Nentou from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/361072.jpg?s=97fa3d43b230a19387f16e47637a6433"
+  },
+  {
+    "name": "Doukou Tenson",
+    "prompt": "Doukou Tenson from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/361067.jpg?s=138a1fc34d3ece724bf80c1000919f42"
+  },
+  {
+    "name": "En Tenkun",
+    "prompt": "En Tenkun from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/355003.jpg?s=f6abb40f7d22044bde14183a56c0a01e"
+  },
+  {
+    "name": "Fugen Shinjin",
+    "prompt": "Fugen Shinjin from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/346021.jpg?s=05bf96bd41d0862b9d1c1a231b9b8625"
+  },
+  {
+    "name": "Fukki",
+    "prompt": "Fukki from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/361073.jpg?s=14d289e7e054c6805fd12b15eab56d9c"
+  },
+  {
+    "name": "Gaku, Suu",
+    "prompt": "Gaku, Suu from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/361383.jpg?s=d545c26603ece09d76562b973c4b7072"
+  },
+  {
+    "name": "Genshi Tenson",
+    "prompt": "Genshi Tenson from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/346022.jpg?s=7af85acd22729a8bfad213c4a0f8a082"
+  },
+  {
+    "name": "Go, Ken",
+    "prompt": "Go, Ken from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/361351.jpg?s=a08883ee3c39863f6ae15e107143bca7"
+  },
+  {
+    "name": "Gouhei",
+    "prompt": "Gouhei from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/361380.jpg?s=0ec1c4f3abecb3cc3fbfdc0e903fea29"
+  },
+  {
+    "name": "Gyakutei Shinjin",
+    "prompt": "Gyakutei Shinjin from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/352337.jpg?s=370c22ed18a2c4f3d560dd480e80b45f"
+  },
+  {
+    "name": "Haku Tenkun (Female)",
+    "prompt": "Haku Tenkun (Female) from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/361343.jpg?s=51ec97975f1517f30bba14af3867d1a1"
+  },
+  {
+    "name": "Haku Tenkun (Male)",
+    "prompt": "Haku Tenkun (Male) from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/361342.jpg?s=abd6a8cd3b92dc215dd1eef3518b89f0"
+  },
+  {
+    "name": "Hakutsuru Doji",
+    "prompt": "Hakutsuru Doji from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/348399.jpg?s=c2d71eb46533597390027aa0e2e94f00"
+  },
+  {
+    "name": "Hekishou",
+    "prompt": "Hekishou from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/352330.jpg?s=490faf3900415fb195629b02320bd983"
+  },
+  {
+    "name": "Hekiun",
+    "prompt": "Hekiun from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/361329.jpg?s=d12a82d8b45516f8c402d1b4dc9c307a"
+  },
+  {
+    "name": "Igo",
+    "prompt": "Igo from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/356833.jpg?s=5e472ddb4435c6dd80bf4800a88e56ac"
+  },
+  {
+    "name": "Inshi",
+    "prompt": "Inshi from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/349151.jpg?s=0ba8ca712c9697d86e7563cdd2b5d310"
+  },
+  {
+    "name": "Jikou Doujin",
+    "prompt": "Jikou Doujin from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/361317.jpg?s=d127068c41edb49804b9a228316b24d5"
+  },
+  {
+    "name": "Joka",
+    "prompt": "Joka from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/356832.jpg?s=21266a1c46433221f3ab6f26bc0a4d43"
+  },
+  {
+    "name": "Kashi",
+    "prompt": "Kashi from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/349601.jpg?s=1379cdc66890c7b56401770e5bf1e485"
+  },
+  {
+    "name": "Keishou",
+    "prompt": "Keishou from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/352332.jpg?s=3103ccd53f8917a38f6533ac189881cd"
+  },
+  {
+    "name": "Ki, Hatsu",
+    "prompt": "Ki, Hatsu from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/361068.jpg?s=6ecce0846b8f4ab43b476de972aa99c8"
+  },
+  {
+    "name": "Ki, Hakuyuukou",
+    "prompt": "Ki, Hakuyuukou from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/350672.jpg?s=37087edda4bc5142b536fd210039f61a"
+  },
+  {
+    "name": "Ki, Shou",
+    "prompt": "Ki, Shou from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/350674.jpg?s=88c84ecf53b06871e2a87bf47eee27f1"
+  },
+  {
+    "name": "Ki, Tan",
+    "prompt": "Ki, Tan from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/351959.jpg?s=07a58bc373e2bb1c7a444c9720481cc8"
+  },
+  {
+    "name": "Kinkou, Seibo",
+    "prompt": "Kinkou, Seibo from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/356835.jpg?s=b77f2d2e3b717eaa5f6786d78825db88"
+  },
+  {
+    "name": "Ko Kibi",
+    "prompt": "Ko Kibi from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/287870.jpg?s=7c5363207b635410decc09646802bc51"
+  },
+  {
+    "name": "Kokukirin",
+    "prompt": "Kokukirin from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/349603.jpg?s=1eb088d1ce5a35932941347cb3ebb05e"
+  },
+  {
+    "name": "Kokutenko",
+    "prompt": "Kokutenko from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/369750.jpg?s=c245056f2f2163ddfbed20e51d868e7d"
+  },
+  {
+    "name": "Koso",
+    "prompt": "Koso from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/361388.jpg?s=c1184583be75798c4c58ad0f7d42530b"
+  },
+  {
+    "name": "Kou, Hiko",
+    "prompt": "Kou, Hiko from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/346025.jpg?s=c661adf1e5886ccfc865c0e48c576eef"
+  },
+  {
+    "name": "Kou, Tenka",
+    "prompt": "Kou, Tenka from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/356829.jpg?s=a7775129f37d11ffa9c9261721a87639"
+  },
+  {
+    "name": "Kou, Kon",
+    "prompt": "Kou, Kon from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/361347.jpg?s=5e828ed8abbc9aba64691cf8b801306d"
+  },
+  {
+    "name": "Kou, Tenshou",
+    "prompt": "Kou, Tenshou from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/350676.jpg?s=352a28319915dc0dea9223f7349c1e02"
+  },
+  {
+    "name": "Kou, Mei",
+    "prompt": "Kou, Mei from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/361348.jpg?s=0a041c875585f53ec4dfd229520ce4a5"
+  },
+  {
+    "name": "Kouryuu Shinjin",
+    "prompt": "Kouryuu Shinjin from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/361316.jpg?s=5c1b1c5275134b28860f0f7744eee4cb"
+  },
+  {
+    "name": "Kouseishi",
+    "prompt": "Kouseishi from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/361312.jpg?s=d03470aabf128449a9854c267ef1499e"
+  },
+  {
+    "name": "Koushi",
+    "prompt": "Koushi from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/349602.jpg?s=a86688c0dbf8dcee5b6269da11c7f95b"
+  },
+  {
+    "name": "Koyuken",
+    "prompt": "Koyuken from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/351092.jpg?s=4a6363411f9b1d0a9ed2fae61553bca6"
+  },
+  {
+    "name": "Kuryuuson",
+    "prompt": "Kuryuuson from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/361315.jpg?s=1c6fcd821be1d2bc4dfb8dcf5b8f40c0"
+  },
+  {
+    "name": "Kyou, Bunkan",
+    "prompt": "Kyou, Bunkan from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/361387.jpg?s=fb5309bc6f3acfb1d41d3d44c886510a"
+  },
+  {
+    "name": "Kyou, Kanso",
+    "prompt": "Kyou, Kanso from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/361386.jpg?s=681a2d661bdad24a7ab6cc6f47197f4f"
+  },
+  {
+    "name": "Li, Kintaku",
+    "prompt": "Li, Kintaku from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/361327.jpg?s=d1746edb452bec3ce3e90690c16269c8"
+  },
+  {
+    "name": "Li, Nataku",
+    "prompt": "Li, Nataku from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/350677.jpg?s=dae133f194a25412da45ed4d4b1e6f4a"
+  },
+  {
+    "name": "Li, Sei",
+    "prompt": "Li, Sei from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/346026.jpg?s=fe79bbc05266080133ef080bd06cffd6"
+  },
+  {
+    "name": "Li, Mokutaku",
+    "prompt": "Li, Mokutaku from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/361328.jpg?s=5de5a849e01d4d87478002593e7f0d03"
+  },
+  {
+    "name": "Likouha",
+    "prompt": "Likouha from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/351090.jpg?s=1a08bc1e35594f1fc7ea431c25493da8"
+  },
+  {
+    "name": "Monju Koho Tenson",
+    "prompt": "Monju Koho Tenson from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/361313.jpg?s=cc52bb8546c5cb77f88aa69a070c2f52"
+  },
+  {
+    "name": "Ou Kijin",
+    "prompt": "Ou Kijin from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/352719.jpg?s=fc126f5e0dcffd60387d5395bfc9564c"
+  },
+  {
+    "name": "Ou Tenkun",
+    "prompt": "Ou Tenkun from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/351961.jpg?s=911e946842658f1562c99cdfe1122af6"
+  },
+  {
+    "name": "Ouma",
+    "prompt": "Ouma from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/350678.jpg?s=480317caede7028b2f7023656c7073ef"
+  },
+  {
+    "name": "Raishinshi",
+    "prompt": "Raishinshi from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/361081.jpg?s=3e3ab6108d8c218de5a1d1405f55d79e"
+  },
+  {
+    "name": "Reihou Daihoshi",
+    "prompt": "Reihou Daihoshi from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/361314.jpg?s=6e2259d453c8d0b75a2e25ffba510d64"
+  },
+  {
+    "name": "Ryonou",
+    "prompt": "Ryonou from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/351087.jpg?s=0f139857f011a68bdf324bf47c3623aa"
+  },
+  {
+    "name": "Ryuu, Kan",
+    "prompt": "Ryuu, Kan from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/361350.jpg?s=35c3a8c6f0c270fbce4df97ed191aa0d"
+  },
+  {
+    "name": "Ryuukitsu Koushu",
+    "prompt": "Ryuukitsu Koushu from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/352718.jpg?s=2f700c8e00a9ce1214fb418c2519e599"
+  },
+  {
+    "name": "Ryuushuko",
+    "prompt": "Ryuushuko from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/369088.jpg?s=529ed78378cdaaf691c21e3ff97ed123"
+  },
+  {
+    "name": "Seikyo Doutoku Shinkun",
+    "prompt": "Seikyo Doutoku Shinkun from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/350680.jpg?s=12afc0a21cdc4e23236c5d01e22d0d96"
+  },
+  {
+    "name": "Sekiseishi",
+    "prompt": "Sekiseishi from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/361074.jpg?s=4328acd161ab1a2e45ad4837d030006d"
+  },
+  {
+    "name": "Sekiun",
+    "prompt": "Sekiun from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/361330.jpg?s=d8a65be2e8a9f6ce16ef999dd22a4d29"
+  },
+  {
+    "name": "Shin Tenkun",
+    "prompt": "Shin Tenkun from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/361344.jpg?s=fb057fe3f4db4a2a3ffa4bd9b738c180"
+  },
+  {
+    "name": "Shinkohyou",
+    "prompt": "Shinkohyou from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/346029.jpg?s=c45a19b48ca26c439401faad4b0153f8"
+  },
+  {
+    "name": "Shinyou",
+    "prompt": "Shinyou from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/369087.jpg?s=52d00deb13573c2185e541e0fdc3cdd1"
+  },
+  {
+    "name": "Shushi",
+    "prompt": "Shushi from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/369069.jpg?s=20c25dbb9e490e2ff20f98d1c7297074"
+  },
+  {
+    "name": "Shuu, Ki",
+    "prompt": "Shuu, Ki from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/361349.jpg?s=897ab9dfbbe7523c6a020931bcaeb256"
+  },
+  {
+    "name": "Sibuxiang",
+    "prompt": "Sibuxiang from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/353604.jpg?s=072ff0c96f53658343ab8727d9a26730"
+  },
+  {
+    "name": "So, Dakki",
+    "prompt": "So, Dakki from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/361371.jpg?s=6d4e0a3341c6326e2db88f207ab2299d"
+  },
+  {
+    "name": "So, Go",
+    "prompt": "So, Go from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/361372.jpg?s=befcbb64e4ff7f80f8ec5a376e9c755b"
+  },
+  {
+    "name": "Son Tenkun",
+    "prompt": "Son Tenkun from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/356838.jpg?s=dc39d9883b86881e9f3ff98ec6786921"
+  },
+  {
+    "name": "Su, Koko",
+    "prompt": "Su, Koko from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/361385.jpg?s=6c48c8ee1e87268d93fd1fa402420c56"
+  },
+  {
+    "name": "Su, Kokuko",
+    "prompt": "Su, Kokuko from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/361080.jpg?s=dd4fcf9efe941fab6a0a98c3bef3d6d7"
+  },
+  {
+    "name": "Suupuupapa",
+    "prompt": "Suupuupapa from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/361403.jpg?s=7516f02bc84a3d4ab9ffdfb29313c8e0"
+  },
+  {
+    "name": "Taiitsu Shinjin",
+    "prompt": "Taiitsu Shinjin from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/346030.jpg?s=c520848aa84614ad4d46f4b220f286da"
+  },
+  {
+    "name": "Taijou Roukun",
+    "prompt": "Taijou Roukun from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/348400.jpg?s=433335d0f9f3667729b0db031c4a7356"
+  },
+  {
+    "name": "Tou, Kyuukou",
+    "prompt": "Tou, Kyuukou from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/361377.jpg?s=a417759dd1c3e4f31edab474be2c00be"
+  },
+  {
+    "name": "Tou, Sengyoku",
+    "prompt": "Tou, Sengyoku from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/355760.jpg?s=8c9fca4c3a54d1b51633d1aa7f42b6c5"
+  },
+  {
+    "name": "Tou Tenkun",
+    "prompt": "Tou Tenkun from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/356839.jpg?s=2e6d4a76a00e52f23a613c5076ed5e2a"
+  },
+  {
+    "name": "Tsuuten Kyoushu",
+    "prompt": "Tsuuten Kyoushu from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/348401.jpg?s=96a91900b89a6beefa08aa58e0c7e9d1"
+  },
+  {
+    "name": "Unchushi",
+    "prompt": "Unchushi from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/290222.jpg?s=6887e73e09fe143113b942419838c206"
+  },
+  {
+    "name": "Unshou",
+    "prompt": "Unshou from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/352333.jpg?s=baaca0038635fad845f37728fd9e9c41"
+  },
+  {
+    "name": "Wood Seller",
+    "prompt": "Wood Seller from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/361379.jpg?s=756fe9deead0786874b4cfb306c29c7d"
+  },
+  {
+    "name": "Yoshin",
+    "prompt": "Yoshin from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/351088.jpg?s=5f2e5ea1c2cb3ebd271181a4f6b46729"
+  },
+  {
+    "name": "You Tenkun",
+    "prompt": "You Tenkun from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/356830.jpg?s=af1394d281d4d50bf467d3ad3dffa9cb"
+  },
+  {
+    "name": "Youzen",
+    "prompt": "Youzen from Hakyuu Houshin Engi",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/346031.jpg?s=ddd7c161b1b7fef97928faa8bcb348ba"
+  }
+]

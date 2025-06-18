@@ -1,0 +1,867 @@
+[
+  {
+    "name": "Atlas",
+    "prompt": "Atlas from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/504328.jpg?s=72ef639571bca687241c8ffc44d7ccbd"
+  },
+  {
+    "name": "Atom",
+    "prompt": "Atom from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/118363.jpg?s=146036fa1ad96ee371e8af1e24fe0883"
+  },
+  {
+    "name": "Dr. Ochanomizu",
+    "prompt": "Dr. Ochanomizu from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/410673.jpg?s=53455123ff4d4c28733e4fbd7f07fe75"
+  },
+  {
+    "name": "Abra",
+    "prompt": "Abra from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/537371.jpg?s=9f6de0b444495ce953dd6916ac592ca0"
+  },
+  {
+    "name": "Alvin's Father",
+    "prompt": "Alvin's Father from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/537033.jpg?s=45ac962631c89a5b66f1ab36a030e601"
+  },
+  {
+    "name": "Alvin's Mother",
+    "prompt": "Alvin's Mother from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/537031.jpg?s=34e5d89366d658be11458d3b95a4f1f4"
+  },
+  {
+    "name": "Announcer",
+    "prompt": "Announcer from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/537097.jpg?s=ec1dc36bd567f534e9dcc7f6cf7a4cc1"
+  },
+  {
+    "name": "Aurora",
+    "prompt": "Aurora from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/537411.jpg?s=bbc9c8167d3a11b3ff7f2c37291b413c"
+  },
+  {
+    "name": "Ballast",
+    "prompt": "Ballast from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/537088.jpg?s=ba4c6b33f7ff80d8c05d335ea1a70a57"
+  },
+  {
+    "name": "Becky",
+    "prompt": "Becky from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/537416.jpg?s=b263ebcaa88e229cdf1a198038ac7429"
+  },
+  {
+    "name": "Becky's Mother",
+    "prompt": "Becky's Mother from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/537421.jpg?s=dcb8b95483e591963861ad34e3df4d37"
+  },
+  {
+    "name": "Ben",
+    "prompt": "Ben from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/537074.jpg?s=831d5ce65fd3e2e1cbf2b0d1ae325eaa"
+  },
+  {
+    "name": "Blaine",
+    "prompt": "Blaine from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/537071.jpg?s=a6a277d6e86677cda86f1486456d43de"
+  },
+  {
+    "name": "Boss Robot",
+    "prompt": "Boss Robot from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/537419.jpg?s=5eab02113582aaf310867f12c5fac06a"
+  },
+  {
+    "name": "Brando",
+    "prompt": "Brando from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/527730.jpg?s=8cdb9388ea4aeb5e77fb3c75063cd423"
+  },
+  {
+    "name": "Buck",
+    "prompt": "Buck from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/537089.jpg?s=9e26dd62d4ed50a63fa0a67b2af61287"
+  },
+  {
+    "name": "Bus Driver",
+    "prompt": "Bus Driver from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/537413.jpg?s=988337b863a29c0d87eb09cbcef394b1"
+  },
+  {
+    "name": "Caesar",
+    "prompt": "Caesar from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/537392.jpg?s=86ea10b61e5ca3eb17058b95760b8aeb"
+  },
+  {
+    "name": "Captain Claud",
+    "prompt": "Captain Claud from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/537449.jpg?s=02789890603ff08e8ae1c5ff48372245"
+  },
+  {
+    "name": "Captain Keely",
+    "prompt": "Captain Keely from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/537423.jpg?s=f291cfdc65eb286ba6bd5899ce54ba50"
+  },
+  {
+    "name": "Captain Parou",
+    "prompt": "Captain Parou from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/537406.jpg?s=66df687c9314c491606247d65c1ec692"
+  },
+  {
+    "name": "Carlena",
+    "prompt": "Carlena from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/537083.jpg?s=1bc0829e12afdda1f17bb1cd0f5ced66"
+  },
+  {
+    "name": "Carlos",
+    "prompt": "Carlos from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/537457.jpg?s=9b6c7a94c3f26d99384a7ab45e91d2a9"
+  },
+  {
+    "name": "Chico",
+    "prompt": "Chico from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/537456.jpg?s=49a5ab023ed119f05836ed318bbe3da4"
+  },
+  {
+    "name": "Chieftain",
+    "prompt": "Chieftain from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/537422.jpg?s=c2c97d16b874c9152fc1e9300dd36815"
+  },
+  {
+    "name": "Cleopatra",
+    "prompt": "Cleopatra from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/537391.jpg?s=c0d5a0afa52b03a6aa1c35968b4992d7"
+  },
+  {
+    "name": "Construction Minister",
+    "prompt": "Construction Minister from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/537059.jpg?s=6a0ae8000af32b2f472d1e07af9efc00"
+  },
+  {
+    "name": "Cross Island Administrator",
+    "prompt": "Cross Island Administrator from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/537093.jpg?s=5f22481d9f866c35528a8d305f38e415"
+  },
+  {
+    "name": "Director Watson",
+    "prompt": "Director Watson from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/537055.jpg?s=de15256f0778aaf0a57165c2e94e6eb2"
+  },
+  {
+    "name": "Doctor",
+    "prompt": "Doctor from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/537415.jpg?s=b4c7d28faf1a8243e3a02f57c1481906"
+  },
+  {
+    "name": "Dolphin",
+    "prompt": "Dolphin from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/537401.jpg?s=f0d119a1e88b33ddf3d83e9da1d35c23"
+  },
+  {
+    "name": "Dr. Baribari",
+    "prompt": "Dr. Baribari from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/537390.jpg?s=e277b15792c08e1329ec05906dd958f1"
+  },
+  {
+    "name": "Dr. Castle",
+    "prompt": "Dr. Castle from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/537372.jpg?s=4d5e6f5f4aa68bd04ac51a9f4338d253"
+  },
+  {
+    "name": "Dr. Huntley",
+    "prompt": "Dr. Huntley from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/537395.jpg?s=8016e81d84c32a7a5e3c7c8c9d32447c"
+  },
+  {
+    "name": "Dr. Leopold",
+    "prompt": "Dr. Leopold from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/537051.jpg?s=ba2e507ab849335a38f86d8674ef4582"
+  },
+  {
+    "name": "Dr. Mitsuda",
+    "prompt": "Dr. Mitsuda from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/537398.jpg?s=99dad34e3e616872af0d306c6a231dd3"
+  },
+  {
+    "name": "Dr. Ushiyama",
+    "prompt": "Dr. Ushiyama from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/537025.jpg?s=0d7d10c8f8b9c96ded42199d62f83ab4"
+  },
+  {
+    "name": "Dr. Winston",
+    "prompt": "Dr. Winston from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/537408.jpg?s=a7f83b11a4e3c687161f2c877867e8dc"
+  },
+  {
+    "name": "Dr. Zar",
+    "prompt": "Dr. Zar from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/537428.jpg?s=f60e270e968186cba73babde51de2525"
+  },
+  {
+    "name": "Duke",
+    "prompt": "Duke from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/537417.jpg?s=90a4357b668e3e0ceba551eaff38b126"
+  },
+  {
+    "name": "Epsilon",
+    "prompt": "Epsilon from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/527737.jpg?s=82c2568eb50eb728d1fa98d68c2d3af7"
+  },
+  {
+    "name": "Factory President",
+    "prompt": "Factory President from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/537420.jpg?s=cf4808007e0be0caf00b18b7101f9c8f"
+  },
+  {
+    "name": "Feeny",
+    "prompt": "Feeny from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/537424.jpg?s=548823ee3279d68af5176aa08205871e"
+  },
+  {
+    "name": "Fireball",
+    "prompt": "Fireball from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/537439.jpg?s=0202f64a0cdf96bbcff41a06f63e7ae2"
+  },
+  {
+    "name": "Gene",
+    "prompt": "Gene from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/537086.jpg?s=17f060af5fa1d4bbdb5f4f4192c7ba09"
+  },
+  {
+    "name": "Gesicht",
+    "prompt": "Gesicht from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/527725.jpg?s=e7a5043b5c01dba0ca88aa25fb0be00d"
+  },
+  {
+    "name": "Goliath",
+    "prompt": "Goliath from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/537068.jpg?s=9a187cc27d224c87875d8f3aa94587e5"
+  },
+  {
+    "name": "Gor",
+    "prompt": "Gor from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/537378.jpg?s=474b95ec98c87cbf7cb5096bf6a6ed2e"
+  },
+  {
+    "name": "Gordon, Alvin",
+    "prompt": "Gordon, Alvin from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/536907.jpg?s=0b4be92f06c501b9077ee9b138112575"
+  },
+  {
+    "name": "Grand Chamberlain",
+    "prompt": "Grand Chamberlain from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/537377.jpg?s=53574ff45bc0c70b04c925d82de7af58"
+  },
+  {
+    "name": "Grandpa",
+    "prompt": "Grandpa from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/537389.jpg?s=db1b9973869e15c742a52bf6e28d9a21"
+  },
+  {
+    "name": "Guiss, Walpur",
+    "prompt": "Guiss, Walpur from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/537027.jpg?s=34610782a7e510ad10ae4f25e2610045"
+  },
+  {
+    "name": "Ham Egg",
+    "prompt": "Ham Egg from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/118365.jpg?s=ea21ab80d85fc836286716548101f24a"
+  },
+  {
+    "name": "Hamill",
+    "prompt": "Hamill from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/537070.jpg?s=991e5c844e50a8ebf7c18d0be768a838"
+  },
+  {
+    "name": "Hazama, Kuroo",
+    "prompt": "Hazama, Kuroo from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/302564.jpg?s=d9ccc0fe85b620df1c9bc267ba0e5a4c"
+  },
+  {
+    "name": "Heck, Ben",
+    "prompt": "Heck, Ben from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/537460.jpg?s=1c66dd4e5b7b838408ae529f5e1c298f"
+  },
+  {
+    "name": "Hellywood Studios Boss",
+    "prompt": "Hellywood Studios Boss from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/537384.jpg?s=6364bf181c83edf0b700d155e29045a2"
+  },
+  {
+    "name": "Heracles",
+    "prompt": "Heracles from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/527741.jpg?s=14234ae8183e7d58af0784a28da08a6b"
+  },
+  {
+    "name": "Hige Oyaji",
+    "prompt": "Hige Oyaji from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/118366.jpg?s=7ff94db08af9777cad7ed1aa85a8b1c8"
+  },
+  {
+    "name": "Hijacker",
+    "prompt": "Hijacker from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/537435.jpg?s=418d2c3bb13f85a640f198098dd2d2bf"
+  },
+  {
+    "name": "Kathy",
+    "prompt": "Kathy from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/537028.jpg?s=810f1074a5f66b7aa5ea73cf30294fa0"
+  },
+  {
+    "name": "Kazue",
+    "prompt": "Kazue from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/537356.jpg?s=4b1d6eb455e8be1e38baa2bd76fff9ea"
+  },
+  {
+    "name": "Keel",
+    "prompt": "Keel from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/537063.jpg?s=3eef0c69c4afe5750d2b5f135d967a71"
+  },
+  {
+    "name": "Kenichi",
+    "prompt": "Kenichi from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/536905.jpg?s=ef98031093279a28aab5a8e6382a0019"
+  },
+  {
+    "name": "Kenji",
+    "prompt": "Kenji from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/537352.jpg?s=0e7b0912bf865c671437e4f49373fa06"
+  },
+  {
+    "name": "Kibalt",
+    "prompt": "Kibalt from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/537077.jpg?s=5824ba86a4743d55c9885d99311d9e58"
+  },
+  {
+    "name": "Koichi",
+    "prompt": "Koichi from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/537061.jpg?s=0226fc75f38c393c71160284ddd980f3"
+  },
+  {
+    "name": "Larson",
+    "prompt": "Larson from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/537409.jpg?s=3c71a52682596a88d258f6b22304f2c9"
+  },
+  {
+    "name": "Lieutenant Blackstone",
+    "prompt": "Lieutenant Blackstone from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/537082.jpg?s=450616b230e90dc91f69530c600e95f9"
+  },
+  {
+    "name": "Light Ray Robot",
+    "prompt": "Light Ray Robot from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/537069.jpg?s=e4cf2e4184cd003ee17fd074f80a4698"
+  },
+  {
+    "name": "Lily",
+    "prompt": "Lily from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/537404.jpg?s=34565cc7e5b4cc8f6298d91bef0d95a4"
+  },
+  {
+    "name": "Lily's Father",
+    "prompt": "Lily's Father from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/537405.jpg?s=30dce67e12929d5514099a4d8d89f5b5"
+  },
+  {
+    "name": "Livian",
+    "prompt": "Livian from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/496288.jpg?s=23480b19d320a60ec9010b4b6ce8cfba"
+  },
+  {
+    "name": "Lord Dead Cross",
+    "prompt": "Lord Dead Cross from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/537066.jpg?s=9a0de24a4173ea7a5cf3b3592fc0397b"
+  },
+  {
+    "name": "Mama",
+    "prompt": "Mama from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/536902.jpg?s=2b250769f278787dc1a37a5d96140d13"
+  },
+  {
+    "name": "Manager",
+    "prompt": "Manager from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/537383.jpg?s=9a46a3c279e14aef6490c7edcf410b68"
+  },
+  {
+    "name": "Mandrake IV",
+    "prompt": "Mandrake IV from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/537091.jpg?s=0832e925f6cf7ad296ada250a6df1642"
+  },
+  {
+    "name": "Michilovna, Minya",
+    "prompt": "Michilovna, Minya from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/537354.jpg?s=814687b0ee31e5c1233234eae8ed0a48"
+  },
+  {
+    "name": "Midori",
+    "prompt": "Midori from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/536908.jpg?s=77234a90be52c8c588a5f8a2bb06444a"
+  },
+  {
+    "name": "Mitsuko",
+    "prompt": "Mitsuko from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/537062.jpg?s=4a3922656d6f43b1c241794ec2432596"
+  },
+  {
+    "name": "Mitsuru",
+    "prompt": "Mitsuru from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/537396.jpg?s=4fb446b62e3946a5ad7cf5ceec809856"
+  },
+  {
+    "name": "Montblanc",
+    "prompt": "Montblanc from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/527744.jpg?s=814924dc0144841aa3276a869ee1c0ff"
+  },
+  {
+    "name": "Morry",
+    "prompt": "Morry from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/537425.jpg?s=cda5bd5ff5277d1a8d29af5c73941a54"
+  },
+  {
+    "name": "Morry's Father",
+    "prompt": "Morry's Father from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/537427.jpg?s=256c06400ca9170c4641e761272f5d68"
+  },
+  {
+    "name": "Morry's Mother",
+    "prompt": "Morry's Mother from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/537426.jpg?s=ca89288a555511e40b5a41d2cdb038ef"
+  },
+  {
+    "name": "Mosquito",
+    "prompt": "Mosquito from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/537079.jpg?s=bc2d30869c05d143dfbcd1092c0fab11"
+  },
+  {
+    "name": "Mr. Hamper",
+    "prompt": "Mr. Hamper from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/537064.jpg?s=41a27febd3db7858bdfe92414b338903"
+  },
+  {
+    "name": "Ms. Honda",
+    "prompt": "Ms. Honda from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/537024.jpg?s=f1c11993f728ea52871287300773f56a"
+  },
+  {
+    "name": "Nanairo Inko",
+    "prompt": "Nanairo Inko from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/496853.jpg?s=4bd011dfe410f3aa8c9cbf16927285a8"
+  },
+  {
+    "name": "Neal",
+    "prompt": "Neal from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/537085.jpg?s=c092b971d13d4de16600ef2b5f573649"
+  },
+  {
+    "name": "Nelson, William",
+    "prompt": "Nelson, William from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/537084.jpg?s=e20773a8bd46d029b1b9044e683c64f7"
+  },
+  {
+    "name": "Nishiyama, Narikane",
+    "prompt": "Nishiyama, Narikane from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/537098.jpg?s=e15d0a2db69c9d054c147f512af664e2"
+  },
+  {
+    "name": "Noriko",
+    "prompt": "Noriko from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/537351.jpg?s=59167d712c3c16991ec98662969c9ddf"
+  },
+  {
+    "name": "North #2",
+    "prompt": "North #2 from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/527745.jpg?s=5ae42e142ac8250cb5638f9896e09a8a"
+  },
+  {
+    "name": "Nyoka",
+    "prompt": "Nyoka from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/537462.jpg?s=5bf15cdacca73e64bc2fddf1bfca7a33"
+  },
+  {
+    "name": "Odette",
+    "prompt": "Odette from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/537042.jpg?s=c708559dbd2998abc26665de6f4515b1"
+  },
+  {
+    "name": "Odin",
+    "prompt": "Odin from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/537454.jpg?s=1a641032060653b68d61920ac121aaba"
+  },
+  {
+    "name": "Orion 108 Captain",
+    "prompt": "Orion 108 Captain from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/537087.jpg?s=20827313f2651ea8dc76eb0513b2546c"
+  },
+  {
+    "name": "Ox",
+    "prompt": "Ox from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/537078.jpg?s=69f54e3857373476787e4b0a258912e0"
+  },
+  {
+    "name": "Papa",
+    "prompt": "Papa from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/536903.jpg?s=1c9e7d733109e32e7b6539fd56ab9b6b"
+  },
+  {
+    "name": "Pepi",
+    "prompt": "Pepi from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/537400.jpg?s=da55c11005aed499b95ee50b404461c5"
+  },
+  {
+    "name": "Perez, Fernando",
+    "prompt": "Perez, Fernando from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/537461.jpg?s=c37563ae00df02c370ce705b7aa18d5b"
+  },
+  {
+    "name": "Pete, Pecos",
+    "prompt": "Pete, Pecos from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/537060.jpg?s=c2bc9650ec0eac1901dba99cc4c87d6c"
+  },
+  {
+    "name": "Peter",
+    "prompt": "Peter from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/537418.jpg?s=ef47b8288ee01342d10f2a2715833211"
+  },
+  {
+    "name": "Pilat",
+    "prompt": "Pilat from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/537041.jpg?s=547ddbc492d065810c8ec6b3c1acd9b2"
+  },
+  {
+    "name": "Pinoko",
+    "prompt": "Pinoko from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/334452.jpg?s=d87b74fd185f74796a82d35b764eb0a1"
+  },
+  {
+    "name": "Pluto",
+    "prompt": "Pluto from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/527875.jpg?s=61bb536f18c611908cb4cea71c5faa5d"
+  },
+  {
+    "name": "President Ricci",
+    "prompt": "President Ricci from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/537065.jpg?s=7f6ee5d8ec903c696fad49f0033fd19c"
+  },
+  {
+    "name": "Prime Minister",
+    "prompt": "Prime Minister from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/537026.jpg?s=39da0979eacee23f108a517b9dcd9ca6"
+  },
+  {
+    "name": "Principal",
+    "prompt": "Principal from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/537040.jpg?s=9dc10758f05797f5f02ad39bf6f99903"
+  },
+  {
+    "name": "Prisoner",
+    "prompt": "Prisoner from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/537414.jpg?s=1d2d8b2b79e111d132d63fa2685ce9bc"
+  },
+  {
+    "name": "Professor",
+    "prompt": "Professor from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/537455.jpg?s=32d00f622744ea877f831c06d4b10f0b"
+  },
+  {
+    "name": "Professor Cavoltet",
+    "prompt": "Professor Cavoltet from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/537080.jpg?s=330f809e4cefaf488d8d10839a95766d"
+  },
+  {
+    "name": "Professor Donahue",
+    "prompt": "Professor Donahue from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/537072.jpg?s=3665d73619ba55bad76bac6180424c65"
+  },
+  {
+    "name": "Professor Farrell",
+    "prompt": "Professor Farrell from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/537357.jpg?s=55803f0d04180e6503f44cddb77cd3ec"
+  },
+  {
+    "name": "Professor Gould",
+    "prompt": "Professor Gould from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/537448.jpg?s=0c83c317a342268ec2bf954fc452c286"
+  },
+  {
+    "name": "Professor Haggerty",
+    "prompt": "Professor Haggerty from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/537386.jpg?s=a7b664e2eefc4d230865de154dff848d"
+  },
+  {
+    "name": "Professor Hyde",
+    "prompt": "Professor Hyde from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/537049.jpg?s=69f4f96aa74ca590ea3f368b2f2368d0"
+  },
+  {
+    "name": "Professor Lewis",
+    "prompt": "Professor Lewis from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/537437.jpg?s=fad54f86f6ea3ec008ddc5e0c7daccce"
+  },
+  {
+    "name": "Professor Maxim",
+    "prompt": "Professor Maxim from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/537067.jpg?s=3481b46d53e070f2880c2ac9e71f4844"
+  },
+  {
+    "name": "Professor Moss",
+    "prompt": "Professor Moss from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/537081.jpg?s=1e266798232593aad3fcdc68e71a0ed9"
+  },
+  {
+    "name": "Professor Rindolph",
+    "prompt": "Professor Rindolph from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/537463.jpg?s=bd81b4e1bcc98c4427d9d682491371ea"
+  },
+  {
+    "name": "Professor Tozawa",
+    "prompt": "Professor Tozawa from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/537090.jpg?s=724818e0cf7e2513e0291a235e37b1ef"
+  },
+  {
+    "name": "Pukko",
+    "prompt": "Pukko from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/87395.jpg?s=54fd75986d5bef7efcfd3b93abbb3694"
+  },
+  {
+    "name": "Queen Mary",
+    "prompt": "Queen Mary from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/537399.jpg?s=a18e05108bdba5de05eb70e76451c8bf"
+  },
+  {
+    "name": "Queen of Peligro Island",
+    "prompt": "Queen of Peligro Island from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/537402.jpg?s=d1c14885ce05063f39d1b6bffda9a077"
+  },
+  {
+    "name": "Rad",
+    "prompt": "Rad from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/537073.jpg?s=e7671a6b9f4a18475f6f3ea768421d3e"
+  },
+  {
+    "name": "Rancher",
+    "prompt": "Rancher from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/537412.jpg?s=d6a95799d4425f1226e7c4f1c1d06634"
+  },
+  {
+    "name": "Roast Ham",
+    "prompt": "Roast Ham from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/537432.jpg?s=8de7786332e337aad98faa3f8926b3bd"
+  },
+  {
+    "name": "Robiette",
+    "prompt": "Robiette from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/537076.jpg?s=498f2efbe2644ac8aa69c15492f918e3"
+  },
+  {
+    "name": "Robio",
+    "prompt": "Robio from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/537075.jpg?s=7edbcdf23e8b91ca822bc570ef58ebbf"
+  },
+  {
+    "name": "Robita",
+    "prompt": "Robita from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/527878.jpg?s=b3b77aed8f8c0108a6471e40286aacb4"
+  },
+  {
+    "name": "Robot Teacher",
+    "prompt": "Robot Teacher from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/537094.jpg?s=6408493437df46aa8b465e49e8cf4425"
+  },
+  {
+    "name": "Rock",
+    "prompt": "Rock from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/537376.jpg?s=2dd6c4720e5346d77581917de7dc3313"
+  },
+  {
+    "name": "RP-3",
+    "prompt": "RP-3 from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/537397.jpg?s=e9af17f25b3fe8048e14e2f4a9795cee"
+  },
+  {
+    "name": "Sakura",
+    "prompt": "Sakura from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/537388.jpg?s=575f44b4b8ca4576a38a9d3db81df6b7"
+  },
+  {
+    "name": "Sapphire",
+    "prompt": "Sapphire from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/118396.jpg?s=6546cb3e3e34f772a23a689102a8eb9d"
+  },
+  {
+    "name": "Saturn",
+    "prompt": "Saturn from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/537046.jpg?s=57fd3b20fbdacc7ce2cb2c285ddf663a"
+  },
+  {
+    "name": "Savi",
+    "prompt": "Savi from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/537453.jpg?s=fa4244dfe27ca924dcacc49d9970b57f"
+  },
+  {
+    "name": "Secretary General",
+    "prompt": "Secretary General from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/537407.jpg?s=8acfc7f9853a4c7f2176b9c5e01a96b0"
+  },
+  {
+    "name": "Senor Garcia",
+    "prompt": "Senor Garcia from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/537459.jpg?s=4e7a270fc2f8a0c089be7521dceb8208"
+  },
+  {
+    "name": "Skunk Kusai",
+    "prompt": "Skunk Kusai from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/221093.jpg?s=76c28d227e60b893b35c77fb1f40b13d"
+  },
+  {
+    "name": "Snare",
+    "prompt": "Snare from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/537092.jpg?s=ea48089764f764a65276c002ea51a8b4"
+  },
+  {
+    "name": "Space Pirate",
+    "prompt": "Space Pirate from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/537434.jpg?s=22ac799e4a74b2469f35b2e038f5f713"
+  },
+  {
+    "name": "Sphinx",
+    "prompt": "Sphinx from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/537458.jpg?s=3979f9eb74a725093ebee80c0e39c643"
+  },
+  {
+    "name": "Stadium Boss",
+    "prompt": "Stadium Boss from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/537387.jpg?s=05dd52a65c5ebfe3c81610c757a8635d"
+  },
+  {
+    "name": "Stanton, Tom",
+    "prompt": "Stanton, Tom from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/537379.jpg?s=a1eb8f113a1dd97eb1bdb31f68a26ed7"
+  },
+  {
+    "name": "Stanton, Sam",
+    "prompt": "Stanton, Sam from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/537380.jpg?s=e75a041144f0cfc4b2f5c189f762c28b"
+  },
+  {
+    "name": "Sultan",
+    "prompt": "Sultan from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/537370.jpg?s=a5df584213ca7a89ffb8f954cc050ab8"
+  },
+  {
+    "name": "Tac",
+    "prompt": "Tac from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/537431.jpg?s=de86a272344d239f34284a49c4875a9f"
+  },
+  {
+    "name": "Takashi",
+    "prompt": "Takashi from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/537030.jpg?s=bfb1dfd89717f3f73f8f0a673d8b72d4"
+  },
+  {
+    "name": "Tamao",
+    "prompt": "Tamao from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/118402.jpg?s=d1024d292392153b7190c7687aefef76"
+  },
+  {
+    "name": "Tarui, Futoshi",
+    "prompt": "Tarui, Futoshi from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/537104.jpg?s=8a921afeab566c5fe562a6e5a64844e1"
+  },
+  {
+    "name": "Tenma, Tobio",
+    "prompt": "Tenma, Tobio from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/133847.jpg?s=ae3c4d7178afbb0f11fb5eeeb9cdacf7"
+  },
+  {
+    "name": "Tenma, Umatarou",
+    "prompt": "Tenma, Umatarou from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/410674.jpg?s=235051854c76cbdfb863cb5ab7500990"
+  },
+  {
+    "name": "Tennyson, Eldridge",
+    "prompt": "Tennyson, Eldridge from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/537433.jpg?s=455a310412af89d8033a6654b055ee67"
+  },
+  {
+    "name": "Tennyson, Matthew",
+    "prompt": "Tennyson, Matthew from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/537429.jpg?s=c305edb9e87c7b0c67e212f25d3a7207"
+  },
+  {
+    "name": "Thompson, Mark",
+    "prompt": "Thompson, Mark from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/537101.jpg?s=9931b3e5f6c651ef739f635c957f0aee"
+  },
+  {
+    "name": "Tic",
+    "prompt": "Tic from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/537430.jpg?s=b590231c457be6c586bf01727a53c05d"
+  },
+  {
+    "name": "Titan Captain",
+    "prompt": "Titan Captain from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/537103.jpg?s=e93b4c5232c96dbf4647b68af9dfb5ff"
+  },
+  {
+    "name": "Tornado",
+    "prompt": "Tornado from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/537029.jpg?s=369979a3258c0cc0098ad335150cf968"
+  },
+  {
+    "name": "Tour Guide",
+    "prompt": "Tour Guide from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/537440.jpg?s=e393c1dec4568eae10608e95dfab2f8c"
+  },
+  {
+    "name": "True",
+    "prompt": "True from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/537355.jpg?s=1b968b2550e4b256a35077bdd421bf8b"
+  },
+  {
+    "name": "Undersea Labor Prison Boss",
+    "prompt": "Undersea Labor Prison Boss from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/537403.jpg?s=412be46b25da8951d3994bc79c27b3b4"
+  },
+  {
+    "name": "Uran",
+    "prompt": "Uran from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/133705.jpg?s=c846c59f163ead432a11854139f9edf2"
+  },
+  {
+    "name": "Veterinarian",
+    "prompt": "Veterinarian from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/537375.jpg?s=25ecd22a182852aa057f27b3d73b8644"
+  },
+  {
+    "name": "Violet",
+    "prompt": "Violet from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/537369.jpg?s=3e03ca9595f82d61405a204741e0ae01"
+  },
+  {
+    "name": "Yamazaki, Goro",
+    "prompt": "Yamazaki, Goro from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/537436.jpg?s=d88d301d21087c154e3080eb26faa26b"
+  },
+  {
+    "name": "Yoshio",
+    "prompt": "Yoshio from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/537353.jpg?s=1a02ccc308ae3a0a7afa295a16ad373a"
+  },
+  {
+    "name": "Young, Blackie",
+    "prompt": "Young, Blackie from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/537410.jpg?s=682449f70659337f0426ef665408e2cb"
+  },
+  {
+    "name": "Zamara",
+    "prompt": "Zamara from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/537451.jpg?s=1d8a2277816737bb6cb760f5fcc05963"
+  },
+  {
+    "name": "Zeus",
+    "prompt": "Zeus from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/537443.jpg?s=e1c8fcd46fbb5fc14bbf305a4a8e74d9"
+  },
+  {
+    "name": "Ziegfried",
+    "prompt": "Ziegfried from Tetsuwan Atom (1980)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/537044.jpg?s=1a7cedb6fce4264c9f23641e622ac467"
+  }
+]

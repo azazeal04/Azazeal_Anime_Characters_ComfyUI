@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Kiruko",
+    "prompt": "Kiruko from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/487926.jpg?s=53490abd13c97e43c1e309c62615fb48"
+  },
+  {
+    "name": "Maru",
+    "prompt": "Maru from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/502336.jpg?s=8f39f9ce8c80397e4a0f6791f02d1501"
+  },
+  {
+    "name": "Abiko, Hiroyasu",
+    "prompt": "Abiko, Hiroyasu from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/552724.jpg?s=94c59085864440c9c22f977645ea471c"
+  },
+  {
+    "name": "Anzu",
+    "prompt": "Anzu from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/502341.jpg?s=f26064f55004fd93682c7741c26eddfc"
+  },
+  {
+    "name": "Aoshima, Yuuko",
+    "prompt": "Aoshima, Yuuko from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/509930.jpg?s=d8337931f46072ca311c9e8cc9c13614"
+  },
+  {
+    "name": "Asura",
+    "prompt": "Asura from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/512663.jpg?s=ee553f14a389accae4ed768822a474d5"
+  },
+  {
+    "name": "Baba",
+    "prompt": "Baba from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/575770.jpg?s=245affc158d678502b1fc7ec77b7bc9f"
+  },
+  {
+    "name": "Bad Guy A",
+    "prompt": "Bad Guy A from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/588101.jpg?s=b53fc2002882f0310ae966807c58b7fb"
+  },
+  {
+    "name": "Breeding Boar #10",
+    "prompt": "Breeding Boar #10 from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/552719.jpg?s=de736e21ef5912d9663be1dba77de16f"
+  },
+  {
+    "name": "Breeding Boar #13",
+    "prompt": "Breeding Boar #13 from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/552720.jpg?s=bc30a2af40abbdd2c3f3ff71125e3f5c"
+  },
+  {
+    "name": "Breeding Boar #14",
+    "prompt": "Breeding Boar #14 from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/552721.jpg?s=32b48c5cc7316dfaee171281bc8caf43"
+  },
+  {
+    "name": "Breeding Boar #6",
+    "prompt": "Breeding Boar #6 from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/552717.jpg?s=a2067c8a1006bd66a41bbcfc9f049e4f"
+  },
+  {
+    "name": "Breeding Boar #9",
+    "prompt": "Breeding Boar #9 from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/552718.jpg?s=c133092053d5737a83e9a73c8edf54ad"
+  },
+  {
+    "name": "Chief of Ibaraki",
+    "prompt": "Chief of Ibaraki from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/547352.jpg?s=aa1486f1ed46af9fbced72c4f3e04ae6"
+  },
+  {
+    "name": "Chief Technician",
+    "prompt": "Chief Technician from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/547567.jpg?s=661de9cbb661b2596849386ac0b44209"
+  },
+  {
+    "name": "Gondawara, Sakuzou",
+    "prompt": "Gondawara, Sakuzou from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/554984.jpg?s=1abc9caad19be6ab5ff00e593e53d3d6"
+  },
+  {
+    "name": "Hani",
+    "prompt": "Hani from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/557437.jpg?s=c763126329a959ec4d6c62ee338f44c6"
+  },
+  {
+    "name": "Heima",
+    "prompt": "Heima from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/557435.jpg?s=18cb6cb3f010b5c61935907c3b51983d"
+  },
+  {
+    "name": "Immortalite A",
+    "prompt": "Immortalite A from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/558168.jpg?s=1a9e4bb46a8f1413396799bc7f4f83f0"
+  },
+  {
+    "name": "Immortalite B",
+    "prompt": "Immortalite B from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/558169.jpg?s=d7a543e763b148a1231573dc6194a4af"
+  },
+  {
+    "name": "Immortalite C",
+    "prompt": "Immortalite C from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/558170.jpg?s=d40056fd1e2f45c1d0e3aab56e780883"
+  },
+  {
+    "name": "Immortalite D",
+    "prompt": "Immortalite D from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/558171.jpg?s=11a12a863f5914855e9b0606910db3a3"
+  },
+  {
+    "name": "Inazaki, Robin",
+    "prompt": "Inazaki, Robin from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/509852.jpg?s=875c873cc6f333e4077a2ea6cd54c959"
+  },
+  {
+    "name": "Innkeeper",
+    "prompt": "Innkeeper from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/547568.jpg?s=6d245cd4e6398c0a8a9850b0cb3b7dfd"
+  },
+  {
+    "name": "Iwa",
+    "prompt": "Iwa from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/510606.jpg?s=ffba62e15a9ccc3765e15f01b1350322"
+  },
+  {
+    "name": "Iwata",
+    "prompt": "Iwata from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/546982.jpg?s=7c06fbfa692d8f77a3ab46ed7de602f0"
+  },
+  {
+    "name": "Jugo",
+    "prompt": "Jugo from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/547355.jpg?s=ce92b2f1b29f0eaa18e2f8e97e324d67"
+  },
+  {
+    "name": "Juuichi",
+    "prompt": "Juuichi from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/512664.jpg?s=7a86132a07d660eeaa89ca515ee6892a"
+  },
+  {
+    "name": "Kaminaka, Eikichi",
+    "prompt": "Kaminaka, Eikichi from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/546973.jpg?s=82fe12ac1a8b591ed7a17ccb7ba5c454"
+  },
+  {
+    "name": "Kaminaka, Shino",
+    "prompt": "Kaminaka, Shino from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/508373.jpg?s=7d3863b16ec20cb2d5268a4de31033ab"
+  },
+  {
+    "name": "Katayama",
+    "prompt": "Katayama from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/555545.jpg?s=4574e7fe8e3723651d1e8d57ee06dde7"
+  },
+  {
+    "name": "Katou",
+    "prompt": "Katou from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/546978.jpg?s=ee07eb1ea5469aa41904eca79cfa6b56"
+  },
+  {
+    "name": "Kawashima, Ran",
+    "prompt": "Kawashima, Ran from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/510610.jpg?s=5a23e1a3b77a215e78a328ad8256af35"
+  },
+  {
+    "name": "Kinjo",
+    "prompt": "Kinjo from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/564435.jpg?s=2d42b253737c6e83b1e8a8276539d82f"
+  },
+  {
+    "name": "Kiriko's Fan",
+    "prompt": "Kiriko's Fan from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/547353.jpg?s=d0c2cf7a5f6c2b67187786f681902ef0"
+  },
+  {
+    "name": "Kona",
+    "prompt": "Kona from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/502338.jpg?s=8d73283291688eb0d6b7791a1f1ec92b"
+  },
+  {
+    "name": "Kondou",
+    "prompt": "Kondou from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/546975.jpg?s=31dd59179eacf423eefc5cd2ed463c54"
+  },
+  {
+    "name": "Kuku",
+    "prompt": "Kuku from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/502339.jpg?s=f2a2db925a4069c9fad99e5f0f0f4cbe"
+  },
+  {
+    "name": "Kusakabe",
+    "prompt": "Kusakabe from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/508388.jpg?s=37d469b2da1dc77a80e709928549091a"
+  },
+  {
+    "name": "Kuwata",
+    "prompt": "Kuwata from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/546971.jpg?s=4051128068ba2648848bfcfc22fb7717"
+  },
+  {
+    "name": "Kuwata's Second",
+    "prompt": "Kuwata's Second from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/547559.jpg?s=53d071bcb1cb2f78f093fe05d3a77ee6"
+  },
+  {
+    "name": "Laima",
+    "prompt": "Laima from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/557436.jpg?s=ce417ca992a7174caf782905e71cf1bb"
+  },
+  {
+    "name": "Mako",
+    "prompt": "Mako from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/515599.jpg?s=5a997aa451de8443ae0b96c9f6fa8bd3"
+  },
+  {
+    "name": "Matsumoto",
+    "prompt": "Matsumoto from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/564436.jpg?s=c04f4a8a035eaaf51001e24add526851"
+  },
+  {
+    "name": "Men in Coat",
+    "prompt": "Men in Coat from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/558176.jpg?s=a292b706d672b445f810fc06ad7077a2"
+  },
+  {
+    "name": "Michael",
+    "prompt": "Michael from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/558150.jpg?s=f5def67b284a3d2f65afceeac7b7f0f4"
+  },
+  {
+    "name": "Miina",
+    "prompt": "Miina from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/510608.jpg?s=a647ef1ea2efe05ce3ad4c0e191283a1"
+  },
+  {
+    "name": "Mikura, Manaka",
+    "prompt": "Mikura, Manaka from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/546970.jpg?s=21e3c1655dd195444581271c581bc881"
+  },
+  {
+    "name": "Mimihime",
+    "prompt": "Mimihime from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/502337.jpg?s=9c3c0530543f7d73852a75a4c800ab58"
+  },
+  {
+    "name": "Ministry of Reconstruction Female Employee",
+    "prompt": "Ministry of Reconstruction Female Employee from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/547570.jpg?s=90389b1ad9bfb6c2e36391f239e7c044"
+  },
+  {
+    "name": "Ministry of Reconstruction Receptionist",
+    "prompt": "Ministry of Reconstruction Receptionist from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/547569.jpg?s=b1391b3fcdc8cfc09a9e3acf32940ccb"
+  },
+  {
+    "name": "Mizuhashi",
+    "prompt": "Mizuhashi from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/511969.jpg?s=957c2dc62faaa2b6db18d896b0781748"
+  },
+  {
+    "name": "Momoika",
+    "prompt": "Momoika from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/557438.jpg?s=31fd838e542903619b5358f65cbb670c"
+  },
+  {
+    "name": "Momoko",
+    "prompt": "Momoko from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/508389.jpg?s=46616e1e22a21bd24b35a352a9858671"
+  },
+  {
+    "name": "Naitou",
+    "prompt": "Naitou from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/546980.jpg?s=3b6fb9d7daa94604dd13a6814e8446c6"
+  },
+  {
+    "name": "Nanaki",
+    "prompt": "Nanaki from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/510607.jpg?s=8fb4e599ffb877cb7aacc0705ae20f88"
+  },
+  {
+    "name": "Nata",
+    "prompt": "Nata from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/546979.jpg?s=5496164a77e50c02068bccc0d825a95c"
+  },
+  {
+    "name": "Nikaidou",
+    "prompt": "Nikaidou from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/555345.jpg?s=9fb4712cdc57fb5608994036d74e9d7d"
+  },
+  {
+    "name": "Nurse A",
+    "prompt": "Nurse A from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/575768.jpg?s=539b48b9003a69954c39f214c847471a"
+  },
+  {
+    "name": "Nurse B",
+    "prompt": "Nurse B from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/575769.jpg?s=a1e5fdc81c4a6d322443f72d7f847cc8"
+  },
+  {
+    "name": "Programmer",
+    "prompt": "Programmer from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/552723.jpg?s=fdabe28f713b3b51bb6445d44ef02542"
+  },
+  {
+    "name": "Race Association Man",
+    "prompt": "Race Association Man from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/552722.jpg?s=8ce42d726a20f064491f3ab45f4abb26"
+  },
+  {
+    "name": "Robin's Lackey A",
+    "prompt": "Robin's Lackey A from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/558179.jpg?s=d84641da7944e82dc0ff0b7f6b4643f6"
+  },
+  {
+    "name": "Robin's Lackey B",
+    "prompt": "Robin's Lackey B from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/558180.jpg?s=5afc1e894dc130c1999bc1297fd5c781"
+  },
+  {
+    "name": "Robin's Lackey C",
+    "prompt": "Robin's Lackey C from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/558181.jpg?s=1d01785e9218b3f90ccffe27f45a8034"
+  },
+  {
+    "name": "Robot Teacher",
+    "prompt": "Robot Teacher from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/552139.jpg?s=30b650e3f91a769fb13770cfe71cf7b5"
+  },
+  {
+    "name": "Sakae",
+    "prompt": "Sakae from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/547215.jpg?s=368e114f7281a2ceee29b69ae5585dea"
+  },
+  {
+    "name": "Sakota, Teruhiko",
+    "prompt": "Sakota, Teruhiko from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/510611.jpg?s=72a5a948d58a4a0bbeffa2719ab1e593"
+  },
+  {
+    "name": "Sakuya",
+    "prompt": "Sakuya from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/515601.jpg?s=e97546d48003f61286626e47e6e35846"
+  },
+  {
+    "name": "Sawatari, Teruhiko",
+    "prompt": "Sawatari, Teruhiko from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/509853.jpg?s=37b1ecbfe08e579f43cb4b6b75d1a090"
+  },
+  {
+    "name": "Shimazaki, Nobuo",
+    "prompt": "Shimazaki, Nobuo from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/546974.jpg?s=a1a7e687af5c98edb2493fca760b95f1"
+  },
+  {
+    "name": "Shimomoto",
+    "prompt": "Shimomoto from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/546983.jpg?s=4937a85ef4dd271521c9cdbb0f6a7fa3"
+  },
+  {
+    "name": "Ship Captain",
+    "prompt": "Ship Captain from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/554988.jpg?s=c771d959ca2420c0e2e9c6023047676b"
+  },
+  {
+    "name": "Ship Henchman",
+    "prompt": "Ship Henchman from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/554989.jpg?s=4e2860f670fcaa797b724e0b6d03d430"
+  },
+  {
+    "name": "Ship Passenger",
+    "prompt": "Ship Passenger from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/558173.jpg?s=6de5ce9e8845014c822911161e4aca3d"
+  },
+  {
+    "name": "Ship Stalker",
+    "prompt": "Ship Stalker from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/558175.jpg?s=e7422e8ebf1f2ee3df3ea21c4b6f6ccd"
+  },
+  {
+    "name": "Shiro",
+    "prompt": "Shiro from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/502343.jpg?s=6d40e67a31e64ca664ff20a4b4e29e39"
+  },
+  {
+    "name": "Street Food Man",
+    "prompt": "Street Food Man from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/566545.jpg?s=4c41ecf0ff74d653affeeb8b780cb6a8"
+  },
+  {
+    "name": "Tachibana, Ken",
+    "prompt": "Tachibana, Ken from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/510609.jpg?s=ed001b6bd8ecae94f6b5d3dc5c0fec1a"
+  },
+  {
+    "name": "Taka",
+    "prompt": "Taka from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/502340.jpg?s=62a3ce09d783d6764cda9a75412532b5"
+  },
+  {
+    "name": "Takagi",
+    "prompt": "Takagi from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/546977.jpg?s=f6cbd97b1a76205ce9fca70b9f3a13b1"
+  },
+  {
+    "name": "Takehaya, Haruki",
+    "prompt": "Takehaya, Haruki from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/513032.jpg?s=b3daab264dec4b632d78a7327f145a90"
+  },
+  {
+    "name": "Takehaya, Kiriko",
+    "prompt": "Takehaya, Kiriko from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/530455.jpg?s=211d217f7b892677fe30ee2a50c201b2"
+  },
+  {
+    "name": "Takeuchi",
+    "prompt": "Takeuchi from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/546976.jpg?s=0e5e3e7e569799b4280794e458852468"
+  },
+  {
+    "name": "Takezuka, Michika",
+    "prompt": "Takezuka, Michika from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/515600.jpg?s=4522e19033c0de752387e6099442042f"
+  },
+  {
+    "name": "Takezuka, Ooma",
+    "prompt": "Takezuka, Ooma from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/514160.jpg?s=c4d63ac58bc8d03f8f123e070bfd2f95"
+  },
+  {
+    "name": "Tarao",
+    "prompt": "Tarao from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/508386.jpg?s=5b4d53b971f073bdbc397ad1cd5fee7e"
+  },
+  {
+    "name": "Tokio",
+    "prompt": "Tokio from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/502342.jpg?s=c535ffaa5169d18f8caeb4d76dd2ea06"
+  },
+  {
+    "name": "Tokuda",
+    "prompt": "Tokuda from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/546981.jpg?s=b374387015dcf24c95ee56d851008ea8"
+  },
+  {
+    "name": "Totori",
+    "prompt": "Totori from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/510991.jpg?s=b08e08a2a84aca572ccd5bd1aa6b9573"
+  },
+  {
+    "name": "Usami, Shun",
+    "prompt": "Usami, Shun from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/511968.jpg?s=85830b8c838a0a565a1130bed3632488"
+  },
+  {
+    "name": "Watch Girl",
+    "prompt": "Watch Girl from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/558177.jpg?s=1ddea0aa4649e89aeb1b91214fa48661"
+  },
+  {
+    "name": "Yoneda",
+    "prompt": "Yoneda from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/547354.jpg?s=8933990bcc1dfd1eea632a8307ed8212"
+  },
+  {
+    "name": "Yoshino, Naoko",
+    "prompt": "Yoshino, Naoko from Tengoku Daimakyou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/547356.jpg?s=596ad608eb03236520a344ef14a7d1cf"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Art",
+    "prompt": "Art from Mini Hama: Minimum Hamatora",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/240763.jpg?s=5181fc0f4a222a3610b5cb16988407f4"
+  },
+  {
+    "name": "Birthday",
+    "prompt": "Birthday from Mini Hama: Minimum Hamatora",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/259025.jpg?s=d8d9520def04084b4b643f48f3b6a736"
+  },
+  {
+    "name": "Hajime",
+    "prompt": "Hajime from Mini Hama: Minimum Hamatora",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/241763.jpg?s=2de2df2e8500d5bea5a38d1ef6b2f0e5"
+  },
+  {
+    "name": "Murasaki",
+    "prompt": "Murasaki from Mini Hama: Minimum Hamatora",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/235647.jpg?s=4131f39b0b75eb935965de80badd00be"
+  },
+  {
+    "name": "Nice",
+    "prompt": "Nice from Mini Hama: Minimum Hamatora",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/231475.jpg?s=3a6adbc3d4f3b5a5f048075e698eb77f"
+  },
+  {
+    "name": "Ratio",
+    "prompt": "Ratio from Mini Hama: Minimum Hamatora",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/235659.jpg?s=19beccc7c648651c22ee6141dedb67f8"
+  }
+]

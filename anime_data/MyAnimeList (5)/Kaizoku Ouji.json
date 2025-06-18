@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Kid",
+    "prompt": "Kid from Kaizoku Ouji",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/216351.jpg?s=cf24c65fef278965a5140e9b8a0db6ec"
+  },
+  {
+    "name": "Clapp",
+    "prompt": "Clapp from Kaizoku Ouji",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tora Fugu",
+    "prompt": "Tora Fugu from Kaizoku Ouji",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

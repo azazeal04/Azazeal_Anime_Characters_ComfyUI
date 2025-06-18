@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Komiya",
+    "prompt": "Komiya from Hyakuemu.",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/590208.jpg?s=b8de5a216c33ed166e0979cdbdf3d3e2"
+  },
+  {
+    "name": "Togashi",
+    "prompt": "Togashi from Hyakuemu.",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/590207.jpg?s=b968d2290a51ccb25ca4959025dc71fe"
+  },
+  {
+    "name": "Kaidou",
+    "prompt": "Kaidou from Hyakuemu.",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Zaitsu",
+    "prompt": "Zaitsu from Hyakuemu.",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

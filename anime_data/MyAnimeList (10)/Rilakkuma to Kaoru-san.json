@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Kaoru",
+    "prompt": "Kaoru from Rilakkuma to Kaoru-san",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/423985.jpg?s=b01a5e05bcca97c7b0d602e2b06259f4"
+  },
+  {
+    "name": "Kiiroitori",
+    "prompt": "Kiiroitori from Rilakkuma to Kaoru-san",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/406171.jpg?s=c8e3deccab17f61b3cec450c9707ea46"
+  },
+  {
+    "name": "Korilakkuma",
+    "prompt": "Korilakkuma from Rilakkuma to Kaoru-san",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/406170.jpg?s=fb3a0d837adc20fe1ee5ff9351bda6ea"
+  },
+  {
+    "name": "Rilakkuma",
+    "prompt": "Rilakkuma from Rilakkuma to Kaoru-san",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/383141.jpg?s=f12cd3c48d8d21da8e314cacafe09db9"
+  },
+  {
+    "name": "Sayu",
+    "prompt": "Sayu from Rilakkuma to Kaoru-san",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/408155.jpg?s=9218ea328436173cd55b8d743b3ed081"
+  },
+  {
+    "name": "Tokio",
+    "prompt": "Tokio from Rilakkuma to Kaoru-san",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/378992.jpg?s=89255872ca0e8c7ec7344a3c637ca95a"
+  }
+]

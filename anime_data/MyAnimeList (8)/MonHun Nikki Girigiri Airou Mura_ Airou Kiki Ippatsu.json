@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Instructor",
+    "prompt": "Instructor from MonHun Nikki Girigiri Airou Mura: Airou Kiki Ippatsu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/97912.jpg?s=f5e607072dd3ce7bdf82148beca9f23a"
+  },
+  {
+    "name": "Leader",
+    "prompt": "Leader from MonHun Nikki Girigiri Airou Mura: Airou Kiki Ippatsu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/97910.jpg?s=cf0a87c2270a41c8daa35ad8ba247867"
+  },
+  {
+    "name": "Nyaito",
+    "prompt": "Nyaito from MonHun Nikki Girigiri Airou Mura: Airou Kiki Ippatsu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/97903.jpg?s=d3d56b9446d169387589bc2303255a74"
+  },
+  {
+    "name": "Nyami",
+    "prompt": "Nyami from MonHun Nikki Girigiri Airou Mura: Airou Kiki Ippatsu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/97906.jpg?s=dd9740817afeb1969a6de88bc81167cf"
+  },
+  {
+    "name": "Nyasuta",
+    "prompt": "Nyasuta from MonHun Nikki Girigiri Airou Mura: Airou Kiki Ippatsu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/97904.jpg?s=1c4153bfa005de09de4a1868440648dd"
+  },
+  {
+    "name": "Pakase",
+    "prompt": "Pakase from MonHun Nikki Girigiri Airou Mura: Airou Kiki Ippatsu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/97907.jpg?s=a939a0414d8854443a20f985b07f8551"
+  },
+  {
+    "name": "Pugi",
+    "prompt": "Pugi from MonHun Nikki Girigiri Airou Mura: Airou Kiki Ippatsu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/97905.jpg?s=77c48e397f39b9dc40456676d0c961eb"
+  },
+  {
+    "name": "Puni",
+    "prompt": "Puni from MonHun Nikki Girigiri Airou Mura: Airou Kiki Ippatsu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/97911.jpg?s=cc97d6c529ac3b5936a6382905104581"
+  }
+]

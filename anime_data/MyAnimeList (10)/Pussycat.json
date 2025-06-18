@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cat",
+    "prompt": "Cat from Pussycat",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/355542.jpg?s=14bcbd25db053aff832f0fe65739f7ae"
+  },
+  {
+    "name": "Pig",
+    "prompt": "Pig from Pussycat",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/420580.jpg?s=b6b6d793808c9ab852fbce79afb44531"
+  },
+  {
+    "name": "Wolf",
+    "prompt": "Wolf from Pussycat",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/221321.jpg?s=0e2949df0d5719d888e943fe5bb7025e"
+  }
+]

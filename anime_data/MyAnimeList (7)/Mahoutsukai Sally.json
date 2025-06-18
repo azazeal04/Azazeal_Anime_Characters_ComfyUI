@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Kabu",
+    "prompt": "Kabu from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/567392.jpg?s=79b38d96a9be0b34c9cec0f2c6f0b42d"
+  },
+  {
+    "name": "Kasugano, Sumire",
+    "prompt": "Kasugano, Sumire from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/567847.jpg?s=8896d7b37897eac66132c237f677d361"
+  },
+  {
+    "name": "Yumeno, Sally",
+    "prompt": "Yumeno, Sally from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/257621.jpg?s=b30bf75486b1c652077fb253f58477dd"
+  },
+  {
+    "name": "Abe",
+    "prompt": "Abe from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/568177.jpg?s=5f20a09f8eccfe3acf1afb292f3e5b08"
+  },
+  {
+    "name": "Akio",
+    "prompt": "Akio from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/568093.jpg?s=9927a2a989086db0973c476d4019546f"
+  },
+  {
+    "name": "Amefuri-jiisan",
+    "prompt": "Amefuri-jiisan from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/568345.jpg?s=1335854093b66b6b941d629bcd5a4cd3"
+  },
+  {
+    "name": "Araki",
+    "prompt": "Araki from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/569717.jpg?s=6a8f67b42403fb51d7130090b3ef87fe"
+  },
+  {
+    "name": "Bakery Owner",
+    "prompt": "Bakery Owner from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/568120.jpg?s=521bb4092fdb57a87909d8ef65e919b1"
+  },
+  {
+    "name": "Banchou",
+    "prompt": "Banchou from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/567814.jpg?s=eb5969e424ae2b4797963d615f4b1648"
+  },
+  {
+    "name": "Banchou's Henchman",
+    "prompt": "Banchou's Henchman from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/567815.jpg?s=0f9de4d526f63a64b0e27c7e26746691"
+  },
+  {
+    "name": "Barbara",
+    "prompt": "Barbara from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/567932.jpg?s=5dffacd53628318cb3ad66d2365462fc"
+  },
+  {
+    "name": "Binbougami",
+    "prompt": "Binbougami from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/567837.jpg?s=d0c9c34ef98978cd30717571d68ebf12"
+  },
+  {
+    "name": "Bus Guide",
+    "prompt": "Bus Guide from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/568343.jpg?s=ca09bde317bf06d3515680abc928cf9d"
+  },
+  {
+    "name": "Busuo",
+    "prompt": "Busuo from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/568354.jpg?s=eb6dfd65663dc7c38c42f36d8ab40648"
+  },
+  {
+    "name": "Butler Higeta",
+    "prompt": "Butler Higeta from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/568341.jpg?s=568700e29444d1b8de7a867eabf3339a"
+  },
+  {
+    "name": "Catholic Priest",
+    "prompt": "Catholic Priest from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/567957.jpg?s=d1d64e7dc5e15dad845e33cfceefb5e9"
+  },
+  {
+    "name": "Chaochao",
+    "prompt": "Chaochao from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/568471.jpg?s=c3601b559af6b9d8dd3654af4e3e75d1"
+  },
+  {
+    "name": "Chief Enma",
+    "prompt": "Chief Enma from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/567953.jpg?s=89ba0ce74d82277b52a18c467e12fc22"
+  },
+  {
+    "name": "Circus Leader",
+    "prompt": "Circus Leader from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/567996.jpg?s=15f51169b73a0b3598867d31b534147b"
+  },
+  {
+    "name": "Clown",
+    "prompt": "Clown from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/567995.jpg?s=94cbc40f4aeb72ed9a3e33a1e363c888"
+  },
+  {
+    "name": "Cupid",
+    "prompt": "Cupid from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/567852.jpg?s=9882632515a26192b24fb717253eff7c"
+  },
+  {
+    "name": "Daimaou",
+    "prompt": "Daimaou from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/568473.jpg?s=f141d1ca9e1f6b59d63d8fa186d114d3"
+  },
+  {
+    "name": "Denko",
+    "prompt": "Denko from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/568116.jpg?s=49a1b48bfad2626c039b9a5bc7c04510"
+  },
+  {
+    "name": "Don",
+    "prompt": "Don from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/567959.jpg?s=d18370c1e0b440721427ad04e5c9481d"
+  },
+  {
+    "name": "Dump Truck Driver",
+    "prompt": "Dump Truck Driver from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/567955.jpg?s=751f7ca8018f337b6e795fe843c75da6"
+  },
+  {
+    "name": "Fumio",
+    "prompt": "Fumio from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/567831.jpg?s=e9ff95e38da7a81107b52e990de048b4"
+  },
+  {
+    "name": "Gasari",
+    "prompt": "Gasari from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/567832.jpg?s=14ef94fd1522f73526538cf814f0b27d"
+  },
+  {
+    "name": "God of Disease",
+    "prompt": "God of Disease from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/568115.jpg?s=aaa27ba80feba92752068b568304fd6f"
+  },
+  {
+    "name": "Gorou",
+    "prompt": "Gorou from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/568399.jpg?s=51f4bf63e65bfed2282163d37e8ee87d"
+  },
+  {
+    "name": "Gosori",
+    "prompt": "Gosori from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/567833.jpg?s=23adf7b7ea3ecd935b8782ae42a4f462"
+  },
+  {
+    "name": "Granny",
+    "prompt": "Granny from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/568456.jpg?s=9d0e43b1d88c8c4a9fdfc7be4c32c438"
+  },
+  {
+    "name": "Hanamura, Yoshiko",
+    "prompt": "Hanamura, Yoshiko from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/286266.jpg?s=b659825317d6479d5db3a1e54bed1864"
+  },
+  {
+    "name": "Hanamura, Toshio",
+    "prompt": "Hanamura, Toshio from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/567552.jpg?s=33ef7bd90e2cffb7e6a503a8b21750ea"
+  },
+  {
+    "name": "Hanamura, Kanta",
+    "prompt": "Hanamura, Kanta from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/567568.jpg?s=dc0078aee646d682984fa92747ac0c44"
+  },
+  {
+    "name": "Hanamura, Tonkichi",
+    "prompt": "Hanamura, Tonkichi from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/567565.jpg?s=ea1772c9e22440bab2b3f9d2731b80ad"
+  },
+  {
+    "name": "Hanamura, Chinpei",
+    "prompt": "Hanamura, Chinpei from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/567566.jpg?s=e22d536970bd1f942cc5bbaa894c5548"
+  },
+  {
+    "name": "Haruo",
+    "prompt": "Haruo from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/568361.jpg?s=af82b54fbb6ba4c1b928f89ee25a996d"
+  },
+  {
+    "name": "Hitomi",
+    "prompt": "Hitomi from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/568118.jpg?s=fefb243a32150ba532bccccb13f9e682"
+  },
+  {
+    "name": "Judge",
+    "prompt": "Judge from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/568190.jpg?s=65da13218a8d550041e23858b9777de6"
+  },
+  {
+    "name": "Kanagawa, Ken",
+    "prompt": "Kanagawa, Ken from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/567829.jpg?s=8340f97f220a5afdbc5a2b8d0a3de7ee"
+  },
+  {
+    "name": "Kanna",
+    "prompt": "Kanna from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/568352.jpg?s=ed487cb5626b7efee16f007d3048b667"
+  },
+  {
+    "name": "Kaoru's Father",
+    "prompt": "Kaoru's Father from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/568462.jpg?s=6ac696028ef8b80d992c5bbc92605cc4"
+  },
+  {
+    "name": "Kaoru's Mother",
+    "prompt": "Kaoru's Mother from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/568463.jpg?s=0ceee5fafb08869755ca8158fafca940"
+  },
+  {
+    "name": "Kasugano, Masahiko",
+    "prompt": "Kasugano, Masahiko from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/568654.jpg?s=982680b5a3ed9848f32d8820b73511ca"
+  },
+  {
+    "name": "Kenta",
+    "prompt": "Kenta from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/568491.jpg?s=388438f862e6df15aaae1ea71ed8827d"
+  },
+  {
+    "name": "Kintarou",
+    "prompt": "Kintarou from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/568340.jpg?s=0e4bf6f97d2b3edb5438bae1e679378e"
+  },
+  {
+    "name": "Little Girl",
+    "prompt": "Little Girl from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/568360.jpg?s=84f33255cbf884bf3e54fad32026b6af"
+  },
+  {
+    "name": "Madame",
+    "prompt": "Madame from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/567997.jpg?s=6a3b60e74bbb003d749a67e3957aead5"
+  },
+  {
+    "name": "Manzou",
+    "prompt": "Manzou from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/568359.jpg?s=2dbc8972e02cc7d7f5f3b9a0de4883dd"
+  },
+  {
+    "name": "Maou's Attendant",
+    "prompt": "Maou's Attendant from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/568465.jpg?s=7b3a7b406aa75d702ff1add7a40e6c92"
+  },
+  {
+    "name": "Maou's Servant",
+    "prompt": "Maou's Servant from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/567817.jpg?s=f0d99402db0253b611fad17628500cd8"
+  },
+  {
+    "name": "Mariko",
+    "prompt": "Mariko from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/567571.jpg?s=88b64012a3162c3a8425a770e4cbbff7"
+  },
+  {
+    "name": "Mary",
+    "prompt": "Mary from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/568114.jpg?s=5ee0c445f6279845c55c31f0e5c2faf3"
+  },
+  {
+    "name": "Mephisto",
+    "prompt": "Mephisto from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/567813.jpg?s=d545b9dad6313163c32ab8b504c60e00"
+  },
+  {
+    "name": "Midori",
+    "prompt": "Midori from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/568168.jpg?s=dc13dfd54bb9928ada55415a6fba398d"
+  },
+  {
+    "name": "Mitsuko",
+    "prompt": "Mitsuko from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/567970.jpg?s=a338d7a54a9610c43545eba9ceebff03"
+  },
+  {
+    "name": "Monk",
+    "prompt": "Monk from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/568402.jpg?s=a607cd3222644a38a20427553b0b97d7"
+  },
+  {
+    "name": "Mr. Yumeno",
+    "prompt": "Mr. Yumeno from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/568567.jpg?s=d05510aaada9c78ba8af319734c246b3"
+  },
+  {
+    "name": "Mrs. Yumeno",
+    "prompt": "Mrs. Yumeno from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/568568.jpg?s=1cf97019700133a8785e3a2258526af2"
+  },
+  {
+    "name": "Nakano",
+    "prompt": "Nakano from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/568091.jpg?s=b5c1c6f4d6ff9db8accac491f5017e77"
+  },
+  {
+    "name": "Ono, Mitsuru",
+    "prompt": "Ono, Mitsuru from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/567818.jpg?s=09de773f8aaaf30324f2471e82028e9f"
+  },
+  {
+    "name": "Oohashi",
+    "prompt": "Oohashi from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Osamu",
+    "prompt": "Osamu from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/567998.jpg?s=973a83ff91618d2c8d56bcb91c291c62"
+  },
+  {
+    "name": "Painter",
+    "prompt": "Painter from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/568117.jpg?s=0320d6a6fd00df6e1cc6df41752d7612"
+  },
+  {
+    "name": "Pesu",
+    "prompt": "Pesu from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/568166.jpg?s=b9cada9c481d238344ce4c322db9aa28"
+  },
+  {
+    "name": "Pharmacy Owner",
+    "prompt": "Pharmacy Owner from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/568090.jpg?s=4ea489a91f20c6bcfccb1c064272d8a7"
+  },
+  {
+    "name": "Pochi",
+    "prompt": "Pochi from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/567841.jpg?s=7da0ad038983df06ead9ba75623289a6"
+  },
+  {
+    "name": "Police Constable",
+    "prompt": "Police Constable from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/568112.jpg?s=dbffedd1f84c57363eda789217581fd9"
+  },
+  {
+    "name": "Police Officer",
+    "prompt": "Police Officer from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/568400.jpg?s=8252bf9d5a35bcf717276c589c63f972"
+  },
+  {
+    "name": "Pony",
+    "prompt": "Pony from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/568094.jpg?s=02cd690b17bdb2657cef747ffb549d2b"
+  },
+  {
+    "name": "Poppy",
+    "prompt": "Poppy from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/567812.jpg?s=3e623b7393da911d88f82ec3fa91f302"
+  },
+  {
+    "name": "Poron",
+    "prompt": "Poron from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/343219.jpg?s=c6fa9ba5bc81c3c9ba64876610c07f18"
+  },
+  {
+    "name": "Princess Laura",
+    "prompt": "Princess Laura from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/567834.jpg?s=95b46059785bfaeeedae32bd5818dc94"
+  },
+  {
+    "name": "Puutan",
+    "prompt": "Puutan from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/568342.jpg?s=4e421b08b7ea4fe1fb0cb62815f97394"
+  },
+  {
+    "name": "Rakugaki Obaasan",
+    "prompt": "Rakugaki Obaasan from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/567973.jpg?s=19dc18c91276aa26b65116596e7278c4"
+  },
+  {
+    "name": "Reiko",
+    "prompt": "Reiko from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/567952.jpg?s=f082a5dd47eeff988d88656f5ba72a18"
+  },
+  {
+    "name": "Shibuya",
+    "prompt": "Shibuya from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/568092.jpg?s=17e4a4a9d457670350e33de75f18e3a2"
+  },
+  {
+    "name": "Shinnyo",
+    "prompt": "Shinnyo from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/568401.jpg?s=aaaec481a2f65be4768925a53df2f2a0"
+  },
+  {
+    "name": "Snowman",
+    "prompt": "Snowman from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/568089.jpg?s=754942cd794724f4bd0dccdc91655399"
+  },
+  {
+    "name": "Takeshi",
+    "prompt": "Takeshi from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/567954.jpg?s=ec8773fb102746a9de8fae7917d0ebb0"
+  },
+  {
+    "name": "Takigawa, Ruriko",
+    "prompt": "Takigawa, Ruriko from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/567994.jpg?s=05da4a6a0c6edf1850096c66e6fea2e9"
+  },
+  {
+    "name": "Tarou",
+    "prompt": "Tarou from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/567963.jpg?s=eb313a46a6533302b4bcaa94dfedf549"
+  },
+  {
+    "name": "Trickster",
+    "prompt": "Trickster from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/567967.jpg?s=1f8705921d7e8e257304f51addd73167"
+  },
+  {
+    "name": "Truck Driver",
+    "prompt": "Truck Driver from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/567816.jpg?s=1748049a4222068565711fffc890534d"
+  },
+  {
+    "name": "Tsujimoto, Yukari",
+    "prompt": "Tsujimoto, Yukari from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/567971.jpg?s=d2f637e2e9b97e2ea6c42a19e72a2da4"
+  },
+  {
+    "name": "Tsunko",
+    "prompt": "Tsunko from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/568346.jpg?s=1b2ac91f76cbc39bbacf58fc31604a17"
+  },
+  {
+    "name": "Tsunko's Father",
+    "prompt": "Tsunko's Father from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/568347.jpg?s=8fef6f75ae9a4d8f2443e59735f70045"
+  },
+  {
+    "name": "Tsutomu",
+    "prompt": "Tsutomu from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/568461.jpg?s=6542054716bc1fc71313b1369cd494b0"
+  },
+  {
+    "name": "Ultra Baasan",
+    "prompt": "Ultra Baasan from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/567830.jpg?s=ea787574d966fc70904d8a937db62cbb"
+  },
+  {
+    "name": "Vic",
+    "prompt": "Vic from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/568188.jpg?s=1318b24b0c0429068ae4bdf0021f750f"
+  },
+  {
+    "name": "Yamabe, Sumiko",
+    "prompt": "Yamabe, Sumiko from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/569769.jpg?s=507cc240e4c3b7c0a9e2fd52c0266d6a"
+  },
+  {
+    "name": "Yamabe, Akira",
+    "prompt": "Yamabe, Akira from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/568655.jpg?s=3b8eeb7b6924b388f448989415aaaf0a"
+  },
+  {
+    "name": "Yamamoto, Eikichi",
+    "prompt": "Yamamoto, Eikichi from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/568476.jpg?s=9166f27f9d533c670a60fede11a4e799"
+  },
+  {
+    "name": "Yanaka, Hajime",
+    "prompt": "Yanaka, Hajime from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/568119.jpg?s=bbda6f29dc8dd5362c8f9eac0adfb3f1"
+  },
+  {
+    "name": "Yoshiko's Grandfather",
+    "prompt": "Yoshiko's Grandfather from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/568344.jpg?s=11dceebd57bc23202290523629a14944"
+  },
+  {
+    "name": "Yukio",
+    "prompt": "Yukio from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/567960.jpg?s=c6f3870b6495aeb112d84a88a63ff4c1"
+  },
+  {
+    "name": "Yumiko",
+    "prompt": "Yumiko from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/567853.jpg?s=2a861fd2b34cd1f649854f571011ea5a"
+  },
+  {
+    "name": "Yuuko",
+    "prompt": "Yuuko from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/568338.jpg?s=6d0d402b4e722419b39884f704ec2b53"
+  },
+  {
+    "name": "Zuppe",
+    "prompt": "Zuppe from Mahoutsukai Sally",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/568113.jpg?s=a8d1810e5fcf29633eaa8bc1205e4a4f"
+  }
+]

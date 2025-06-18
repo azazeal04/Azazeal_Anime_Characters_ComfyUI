@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Ex",
+    "prompt": "Ex from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/526417.jpg?s=994f3d908209bf7025c309fc36e02081"
+  },
+  {
+    "name": "Hime",
+    "prompt": "Hime from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/526415.jpg?s=be32427653cd20dc068080a7f3ae4c97"
+  },
+  {
+    "name": "Tortura, Torture",
+    "prompt": "Tortura, Torture from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/526414.jpg?s=3fe3162f234498987f0a901973d7ee1f"
+  },
+  {
+    "name": "Brittan, Louch",
+    "prompt": "Brittan, Louch from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/536488.jpg?s=79d19bd50d227a511e0b21a7c5c7d876"
+  },
+  {
+    "name": "Datarma",
+    "prompt": "Datarma from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/539755.jpg?s=dcb614ff093a3e0c7d21fff94c00e0b7"
+  },
+  {
+    "name": "Gekkou",
+    "prompt": "Gekkou from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/543518.jpg?s=45ea5750297c6323574e2f3f95e64852"
+  },
+  {
+    "name": "Giant",
+    "prompt": "Giant from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/528872.jpg?s=c61c82eda22bb8719bb3bc4b97548c1e"
+  },
+  {
+    "name": "Gilga",
+    "prompt": "Gilga from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/531527.jpg?s=9d016b1f228e1428228ba9af583f6e61"
+  },
+  {
+    "name": "Horned Giant",
+    "prompt": "Horned Giant from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/539758.jpg?s=51974cb0020c82425dc0835f74afcea3"
+  },
+  {
+    "name": "Inki",
+    "prompt": "Inki from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/528038.jpg?s=5525d28fb0be08862dbeb4486c665832"
+  },
+  {
+    "name": "Insuke",
+    "prompt": "Insuke from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/538976.jpg?s=e5145bd92ff5d5b89c2445be1dbfdf33"
+  },
+  {
+    "name": "Jimochi",
+    "prompt": "Jimochi from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/531528.jpg?s=f7d7739e8d435b179c491e04e1111e4a"
+  },
+  {
+    "name": "Kanajji",
+    "prompt": "Kanajji from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/531529.jpg?s=c56e8e9bed502c047b761bf9f39dac71"
+  },
+  {
+    "name": "Krall",
+    "prompt": "Krall from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/528870.jpg?s=081684953e446d84f29ca4183f1cfbd6"
+  },
+  {
+    "name": "Lulune",
+    "prompt": "Lulune from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/528871.jpg?s=a5ae75c211037a69a9b51138e09c9c2c"
+  },
+  {
+    "name": "Maomao-chan",
+    "prompt": "Maomao-chan from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/404750.jpg?s=5cc4298a047daf6e04383b9c7b73ad6a"
+  },
+  {
+    "name": "Maou",
+    "prompt": "Maou from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/526416.jpg?s=5f773abb7be3ca39980c79d162920e06"
+  },
+  {
+    "name": "Peschutz, Vanilla",
+    "prompt": "Peschutz, Vanilla from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/531530.jpg?s=25b3bb63a3c0e153d97634ee81ffc856"
+  },
+  {
+    "name": "Peschutz, Extrac",
+    "prompt": "Peschutz, Extrac from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/543517.jpg?s=b928d7b61725b81193835b5f9d6a7ec3"
+  },
+  {
+    "name": "Peschutz, Aliotto",
+    "prompt": "Peschutz, Aliotto from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/543516.jpg?s=0397f58dc7a05c92b433ca63319f0d39"
+  },
+  {
+    "name": "Youki",
+    "prompt": "Youki from Himesama \"Goumon\" no Jikan desu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/528037.jpg?s=895d7ce19ef7a7b14e3312e509114701"
+  }
+]

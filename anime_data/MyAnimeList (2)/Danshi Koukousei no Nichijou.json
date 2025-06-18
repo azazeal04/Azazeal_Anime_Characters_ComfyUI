@@ -1,0 +1,287 @@
+[
+  {
+    "name": "Tabata, Hidenori",
+    "prompt": "Tabata, Hidenori from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/159561.jpg?s=eea58da4c59cce0f89360f91e53aa1c0"
+  },
+  {
+    "name": "Tadakuni",
+    "prompt": "Tadakuni from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/150423.jpg?s=d2733b5020972d016aa217cd30b95844"
+  },
+  {
+    "name": "Tanaka, Yoshitake",
+    "prompt": "Tanaka, Yoshitake from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/150425.jpg?s=3549e918710ba4f1d4c352d9062a1954"
+  },
+  {
+    "name": "Arcade Center Worker",
+    "prompt": "Arcade Center Worker from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/327336.jpg?s=121f3e105fc85b4297fdd676e8f7bc36"
+  },
+  {
+    "name": "Basketball Guy",
+    "prompt": "Basketball Guy from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/263067.jpg?s=60fec0fa9166e0062b5006f7002f47b4"
+  },
+  {
+    "name": "Bully",
+    "prompt": "Bully from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/158559.jpg?s=318724b60cde5f8e5721e9118cb69c17"
+  },
+  {
+    "name": "Butler Asano",
+    "prompt": "Butler Asano from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/263077.jpg?s=2b92c5680d68de0420c5fb65e0de5441"
+  },
+  {
+    "name": "Butler Nagase",
+    "prompt": "Butler Nagase from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/263075.jpg?s=20976d504722ab7b8b9e92505e09b133"
+  },
+  {
+    "name": "Butler Toyogawa",
+    "prompt": "Butler Toyogawa from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/263085.jpg?s=c6af4ea5c19b6bb0c94d964369bf13f9"
+  },
+  {
+    "name": "Central High Student Council Vice President",
+    "prompt": "Central High Student Council Vice President from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/199439.jpg?s=eff4ce7d4076dcd635431d6d2ed9cfef"
+  },
+  {
+    "name": "Chapatsu",
+    "prompt": "Chapatsu from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/158769.jpg?s=9e0dcac933918c5443a82c4d38ce162f"
+  },
+  {
+    "name": "Chemistry Club President",
+    "prompt": "Chemistry Club President from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/255395.jpg?s=c5c08e3098a05e245ee47e98f40f3658"
+  },
+  {
+    "name": "Computer Club Member",
+    "prompt": "Computer Club Member from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/255399.jpg?s=31559065715c99f1f32d4be6b797f455"
+  },
+  {
+    "name": "Emi",
+    "prompt": "Emi from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/158775.jpg?s=17e9b34245aa7fc7cf0831aba13978dc"
+  },
+  {
+    "name": "Fake Hidenori",
+    "prompt": "Fake Hidenori from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/263061.jpg?s=8b143dbc9d9c9b93ccf9e7c9834a3785"
+  },
+  {
+    "name": "Fake Yoshitake",
+    "prompt": "Fake Yoshitake from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/263079.jpg?s=9fe65a0c0dd0268f52840058b5c3c11d"
+  },
+  {
+    "name": "Film Research Club President",
+    "prompt": "Film Research Club President from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/255397.jpg?s=f81fa03406ce5b393c02a02be03fa28d"
+  },
+  {
+    "name": "Girl A",
+    "prompt": "Girl A from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/263063.jpg?s=a79ae9c2a3c0e604e586dfb2ab18d351"
+  },
+  {
+    "name": "Girl B",
+    "prompt": "Girl B from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/263081.jpg?s=05279b246c5622206ab6cefad6ba95ce"
+  },
+  {
+    "name": "Habara",
+    "prompt": "Habara from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/158621.jpg?s=1cb3e591d5dbf0209f45b3f2e1a090de"
+  },
+  {
+    "name": "Habara's Older Brother",
+    "prompt": "Habara's Older Brother from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/263071.jpg?s=33ad69ea20284ed1a52ade78cf7c5907"
+  },
+  {
+    "name": "High School Girl",
+    "prompt": "High School Girl from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/263065.jpg?s=120a33a53bdadcd0953e7a9d01a451e1"
+  },
+  {
+    "name": "High School Girl Looking for Her Dog",
+    "prompt": "High School Girl Looking for Her Dog from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/158591.jpg?s=cbfdf9dafa0f9c8733afd47b9a39aac3"
+  },
+  {
+    "name": "High School Girl Neighbor",
+    "prompt": "High School Girl Neighbor from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/159653.jpg?s=04ceddaf18d0e7be65448275c48794fb"
+  },
+  {
+    "name": "Homeroom Teacher",
+    "prompt": "Homeroom Teacher from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/158837.jpg?s=e28d9ea798b9fb9fe36644fe6dd06c3b"
+  },
+  {
+    "name": "Ikushima",
+    "prompt": "Ikushima from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/327214.jpg?s=70df18e7a6804e71cfd91d7f56e0612f"
+  },
+  {
+    "name": "Ikushima's Senpai",
+    "prompt": "Ikushima's Senpai from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/255381.jpg?s=34d66e35d8fb9a6cd9c7da85c160c01c"
+  },
+  {
+    "name": "Karasawa, Toshiyuki",
+    "prompt": "Karasawa, Toshiyuki from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/327195.jpg?s=75d6396083bb5791b75d00850f95e731"
+  },
+  {
+    "name": "Kiyohiko",
+    "prompt": "Kiyohiko from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/327106.jpg?s=1e022f1b905a627d8bc93a3eec69c77c"
+  },
+  {
+    "name": "Kiyotaka",
+    "prompt": "Kiyotaka from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/158569.jpg?s=648efc4eccb8d502385f98d06485f080"
+  },
+  {
+    "name": "Kiyotaka's Little Sister",
+    "prompt": "Kiyotaka's Little Sister from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/161761.jpg?s=b9d135920a5ec5cad5f803877ed0b16a"
+  },
+  {
+    "name": "Kugihiko",
+    "prompt": "Kugihiko from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/263059.jpg?s=b50c5dacc5f09052e9c8385e17e1bef2"
+  },
+  {
+    "name": "Kyuuseishu",
+    "prompt": "Kyuuseishu from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/158565.jpg?s=0e3a6de22f62275b63bcb506dddc7ce7"
+  },
+  {
+    "name": "Matsumoto, Takahiro",
+    "prompt": "Matsumoto, Takahiro from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/327198.jpg?s=969bfdbf2babb13a9512e8d00545d508"
+  },
+  {
+    "name": "Megane",
+    "prompt": "Megane from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/327115.jpg?s=0cb996f704cf22b6765082445d7689b7"
+  },
+  {
+    "name": "Mitsuo",
+    "prompt": "Mitsuo from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/327200.jpg?s=fb446eb5f5ae4e4ca8d473a02a905b8c"
+  },
+  {
+    "name": "Motoharu",
+    "prompt": "Motoharu from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/327120.jpg?s=9df8062317bbc07c236408649021f86c"
+  },
+  {
+    "name": "Motoharu's Older Sister",
+    "prompt": "Motoharu's Older Sister from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/327122.jpg?s=3752f1b058bccc238513cb5301d1352a"
+  },
+  {
+    "name": "Nago-san",
+    "prompt": "Nago-san from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/327201.jpg?s=f5d53adbd09ac35f26ed8c52907e8b6f"
+  },
+  {
+    "name": "Overly Self-conscious Girl",
+    "prompt": "Overly Self-conscious Girl from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/327126.jpg?s=a2a1475fc673e0300cff69995c863e20"
+  },
+  {
+    "name": "Part-timer",
+    "prompt": "Part-timer from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/263087.jpg?s=14aa877d3da5260df3acf8e73ada1ffc"
+  },
+  {
+    "name": "President",
+    "prompt": "President from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/327203.jpg?s=44b4dffdcbe73876bc498209d2c1fa1c"
+  },
+  {
+    "name": "Principal",
+    "prompt": "Principal from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/327204.jpg?s=20572be0c30d9697c3cec7d7f339040d"
+  },
+  {
+    "name": "Provisional Club Applicant",
+    "prompt": "Provisional Club Applicant from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/263073.jpg?s=4d128d93605a46d32560622fa29cab9f"
+  },
+  {
+    "name": "Ringo",
+    "prompt": "Ringo from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/327207.jpg?s=5df1c624f5aa2de233e08e801887f396"
+  },
+  {
+    "name": "Tabata, Father",
+    "prompt": "Tabata, Father from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/327206.jpg?s=a20d5da947ea0819a98473fe508a18bc"
+  },
+  {
+    "name": "Tabata, Yuusuke",
+    "prompt": "Tabata, Yuusuke from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/158851.jpg?s=e291baded301b5cdf97d8eb5e399b144"
+  },
+  {
+    "name": "Tadakuni's Little Sister",
+    "prompt": "Tadakuni's Little Sister from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/327208.jpg?s=91c1d0c7851aec183ce6ca77d6722766"
+  },
+  {
+    "name": "Takahiro's Friend",
+    "prompt": "Takahiro's Friend from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/327209.jpg?s=70524c3002e2284bc6ac582ee981808a"
+  },
+  {
+    "name": "Theater Club Member",
+    "prompt": "Theater Club Member from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/263069.jpg?s=7c868d809371d5446f1ccab916fe01d7"
+  },
+  {
+    "name": "Vice President",
+    "prompt": "Vice President from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/327148.jpg?s=b4268f19ad5d740eccf25461e0c01a75"
+  },
+  {
+    "name": "Yanagi",
+    "prompt": "Yanagi from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/327150.jpg?s=31e88a645efa9f4b51ec4ed99e5ca593"
+  },
+  {
+    "name": "Yanagi's Senpai",
+    "prompt": "Yanagi's Senpai from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/327211.jpg?s=832d6f768c539c0f79ba24acb5380f04"
+  },
+  {
+    "name": "Yassan",
+    "prompt": "Yassan from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/327213.jpg?s=83782e064f8fab8d7b61d55766ee85ea"
+  },
+  {
+    "name": "Yasunori",
+    "prompt": "Yasunori from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/160891.jpg?s=c2b29f43d09fc07a49c49dc648448d3b"
+  },
+  {
+    "name": "Yoshitake's Older Sister",
+    "prompt": "Yoshitake's Older Sister from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/264607.jpg?s=f6905eabd91d97d4a1482562fa86aa02"
+  },
+  {
+    "name": "Yukana",
+    "prompt": "Yukana from Danshi Koukousei no Nichijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/153549.jpg?s=273a025e545fde4bb1dcc04b1f6af230"
+  }
+]

@@ -1,0 +1,972 @@
+[
+  {
+    "name": "Higurashi, Kagome",
+    "prompt": "Higurashi, Kagome from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/41189.jpg?s=4911c839a746a8cc6b4ce590ebd55f72"
+  },
+  {
+    "name": "Inuyasha",
+    "prompt": "Inuyasha from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/89606.jpg?s=39d20ee65f3b5bff949e2072757c02a0"
+  },
+  {
+    "name": "Miroku",
+    "prompt": "Miroku from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/93510.jpg?s=10d1f319f3b92701c16f5ba4a921f01b"
+  },
+  {
+    "name": "Sango",
+    "prompt": "Sango from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/41187.jpg?s=9f4cd75a09b139ca6a03b0deae92979a"
+  },
+  {
+    "name": "Shippou",
+    "prompt": "Shippou from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/53722.jpg?s=7179bb82fe4f3b55d08ca6743c9832e8"
+  },
+  {
+    "name": "Abi",
+    "prompt": "Abi from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/92750.jpg?s=143157ab16054abd0c1c614905f3a728"
+  },
+  {
+    "name": "Amari, Nobunaga",
+    "prompt": "Amari, Nobunaga from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/56934.jpg?s=833243ae555eba538fa1ed2412b9deb9"
+  },
+  {
+    "name": "Asano, Souju",
+    "prompt": "Asano, Souju from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/575340.jpg?s=f3bad0ab22123640fe0f59fbeba9fbe5"
+  },
+  {
+    "name": "Asano, Sara",
+    "prompt": "Asano, Sara from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/93495.jpg?s=14af8f4f87ff928fab9d2f0393894707"
+  },
+  {
+    "name": "Asuka",
+    "prompt": "Asuka from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/575080.jpg?s=b74e1381592ed8c460d78f8afc8fab94"
+  },
+  {
+    "name": "Ayame",
+    "prompt": "Ayame from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/57005.jpg?s=8677fe452885e90233aad905c0602bcb"
+  },
+  {
+    "name": "Ayumi",
+    "prompt": "Ayumi from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/144537.jpg?s=01ffabae4672d2645ae7b2d8f7b40ada"
+  },
+  {
+    "name": "Bankotsu",
+    "prompt": "Bankotsu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/93493.jpg?s=7c184274689afc6c3836f3dc1f6d830e"
+  },
+  {
+    "name": "Bokusen-Oh",
+    "prompt": "Bokusen-Oh from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/575089.jpg?s=f40f133b7da343786a7558807de07273"
+  },
+  {
+    "name": "Botan",
+    "prompt": "Botan from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/144379.jpg?s=7eed6669fcbd7daeb0aa2dd5104e19cf"
+  },
+  {
+    "name": "Buddhist Priest Mushin",
+    "prompt": "Buddhist Priest Mushin from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/249685.jpg?s=f5c9edd50b0c8e34a8d804d25e0b6548"
+  },
+  {
+    "name": "Bun",
+    "prompt": "Bun from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/575090.jpg?s=766ffff2a2c1e07f88b8d3729c209164"
+  },
+  {
+    "name": "Bunza",
+    "prompt": "Bunza from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/215635.jpg?s=400b7f08a7980af348b1e5f26c65e911"
+  },
+  {
+    "name": "Buyo",
+    "prompt": "Buyo from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/64999.jpg?s=8f0b5ad3235a8a3c16156e35e29cd9ef"
+  },
+  {
+    "name": "Byakko",
+    "prompt": "Byakko from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/575091.jpg?s=aca648fb52442ca1cd7cb5e77b65fda2"
+  },
+  {
+    "name": "Centipede, Mistress",
+    "prompt": "Centipede, Mistress from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/248289.jpg?s=421d70e820142a8ed895f10b483b0655"
+  },
+  {
+    "name": "Chief of Hajiri Village",
+    "prompt": "Chief of Hajiri Village from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/575092.jpg?s=69bc9317680986389dcf4c8053c749ca"
+  },
+  {
+    "name": "Chiyo",
+    "prompt": "Chiyo from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/575093.jpg?s=f4f95df6de3f173f0da9513ee65b6ad1"
+  },
+  {
+    "name": "Chokyukai",
+    "prompt": "Chokyukai from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/575094.jpg?s=603fc045d50d124775f8896497326072"
+  },
+  {
+    "name": "Daija",
+    "prompt": "Daija from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/575097.jpg?s=127a7dfcdda475948bd93375b9987231"
+  },
+  {
+    "name": "Enju",
+    "prompt": "Enju from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/218061.jpg?s=63300790888f4567cc641d562822730c"
+  },
+  {
+    "name": "Entei",
+    "prompt": "Entei from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/65003.jpg?s=daf5083ff9de5e18d78f7c2fd685750e"
+  },
+  {
+    "name": "Eri",
+    "prompt": "Eri from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/144531.jpg?s=fae476d83595ad86554af7a9645a1ad4"
+  },
+  {
+    "name": "Gakusanjin",
+    "prompt": "Gakusanjin from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/575184.jpg?s=815d03eb10c4547dbf9a56311d1f7514"
+  },
+  {
+    "name": "Garamaru",
+    "prompt": "Garamaru from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/65122.jpg?s=b0f8b388f2abf9916fe35a514987c418"
+  },
+  {
+    "name": "Gatenmaru",
+    "prompt": "Gatenmaru from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/57320.jpg?s=95db923804562e89ff033dac4e59efe8"
+  },
+  {
+    "name": "Genbu",
+    "prompt": "Genbu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/575185.jpg?s=297f45d06b8d186525f34a933011759b"
+  },
+  {
+    "name": "Getsu",
+    "prompt": "Getsu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/575186.jpg?s=77bc40403154dc3e397b46cbc93bf411"
+  },
+  {
+    "name": "Ginkotsu",
+    "prompt": "Ginkotsu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/93487.jpg?s=8dde4959f04f42d254f7ac4590872885"
+  },
+  {
+    "name": "Ginta",
+    "prompt": "Ginta from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/117909.jpg?s=74034103cffd2281a4a1f72e42b73b35"
+  },
+  {
+    "name": "Gohou",
+    "prompt": "Gohou from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/177135.jpg?s=a3a93ac19a9c99ba2fb47a193a28f05c"
+  },
+  {
+    "name": "Gon",
+    "prompt": "Gon from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/575187.jpg?s=008ce80db6bc576758cb3361ba33adf1"
+  },
+  {
+    "name": "Goryomaru",
+    "prompt": "Goryomaru from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/575188.jpg?s=99b8b96e995d5007df9ccb5a3d97ec6a"
+  },
+  {
+    "name": "Goshinki",
+    "prompt": "Goshinki from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/59632.jpg?s=0b80f290e245d36d23ab8c975f2ea094"
+  },
+  {
+    "name": "Gozu",
+    "prompt": "Gozu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/575189.jpg?s=6a70fca5f4eb164677d073ab9169b706"
+  },
+  {
+    "name": "Hachiemon",
+    "prompt": "Hachiemon from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/64982.jpg?s=4431f847e8c6ca4b08b4ddf11f04f3c4"
+  },
+  {
+    "name": "Hair Monster",
+    "prompt": "Hair Monster from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/575190.jpg?s=e3fb101b4ac248d9ba067b9a313587e9"
+  },
+  {
+    "name": "Hakkaku",
+    "prompt": "Hakkaku from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/57157.jpg?s=c1011ed438af4b9103db6b1959e61c21"
+  },
+  {
+    "name": "Hakudoushi",
+    "prompt": "Hakudoushi from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/93067.jpg?s=a64d017f361a5750079558044992b347"
+  },
+  {
+    "name": "Hakushin",
+    "prompt": "Hakushin from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/575191.jpg?s=b371d3332eaa7d04e3cedafd814be3f2"
+  },
+  {
+    "name": "Hana",
+    "prompt": "Hana from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/575192.jpg?s=2d3336b6202888b916983ac2b7d98d83"
+  },
+  {
+    "name": "Higurashi, Souta",
+    "prompt": "Higurashi, Souta from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/117911.jpg?s=939cb82c6bfc885e6a9caa807f19ac5e"
+  },
+  {
+    "name": "Higurashi, Grandpa",
+    "prompt": "Higurashi, Grandpa from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/144539.jpg?s=8c4d63f34fe85eb751cb80aeb7b410df"
+  },
+  {
+    "name": "Higurashi, Mama",
+    "prompt": "Higurashi, Mama from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/110152.jpg?s=65d36d7b06c0207f8cb882cbd7080dcc"
+  },
+  {
+    "name": "Hirakimichi",
+    "prompt": "Hirakimichi from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/575368.jpg?s=871548208f0984a259fe19f01b0d8c0e"
+  },
+  {
+    "name": "Hitomi, Kagewaki",
+    "prompt": "Hitomi, Kagewaki from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/574873.jpg?s=6bb5e9db56be402319518519df455b51"
+  },
+  {
+    "name": "Hitomi, Nagasaki",
+    "prompt": "Hitomi, Nagasaki from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/574875.jpg?s=cd8fe3a5330981ea886569bacd61927f"
+  },
+  {
+    "name": "Hitomi",
+    "prompt": "Hitomi from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/575193.jpg?s=b14c46a9d40705d342e2d7d3bec97b42"
+  },
+  {
+    "name": "Hiyoshimaru",
+    "prompt": "Hiyoshimaru from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/65001.jpg?s=9fae7a821e404b5f27fff5216aaefa5e"
+  },
+  {
+    "name": "Hosenki I",
+    "prompt": "Hosenki I from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/575083.jpg?s=95881e60f8e186d24ec96e0b097719b0"
+  },
+  {
+    "name": "Hosenki II",
+    "prompt": "Hosenki II from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/575086.jpg?s=e8badbd9cf1583132721a0232ddb23fd"
+  },
+  {
+    "name": "Hoshiyomi",
+    "prompt": "Hoshiyomi from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/92650.jpg?s=21bc731c6b316e793aef61615a2b77b5"
+  },
+  {
+    "name": "Houjou",
+    "prompt": "Houjou from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/65006.jpg?s=d2b3a6cd465e44d6e926a792afdc9b32"
+  },
+  {
+    "name": "Houjou, Akitoki",
+    "prompt": "Houjou, Akitoki from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/92653.jpg?s=dfe7796eeb369cdac5981b2175af7897"
+  },
+  {
+    "name": "Ikeda, Satoru",
+    "prompt": "Ikeda, Satoru from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/575315.jpg?s=e4f2171c97acde6225c7b10b6efa6335"
+  },
+  {
+    "name": "Ikeda, Mayu",
+    "prompt": "Ikeda, Mayu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/169185.jpg?s=34d566ac7d45b86ae764177f051b94df"
+  },
+  {
+    "name": "Ipoh",
+    "prompt": "Ipoh from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/575074.jpg?s=2bdc0347007f6e578c1f32ccb58b08b7"
+  },
+  {
+    "name": "Izayoi",
+    "prompt": "Izayoi from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/56822.jpg?s=e6e9bee4cad9a93b3cb7b9439304f9aa"
+  },
+  {
+    "name": "Izumo",
+    "prompt": "Izumo from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/117920.jpg?s=f6776bab2eb3f202c7deb20d77717cea"
+  },
+  {
+    "name": "Jaken",
+    "prompt": "Jaken from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/54200.jpg?s=a21b9f307c0e35343e7509f2b6a6c4e9"
+  },
+  {
+    "name": "Jakotsu",
+    "prompt": "Jakotsu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/53920.jpg?s=33ddd73fd609dfa129b1714909395bdc"
+  },
+  {
+    "name": "Jinenji",
+    "prompt": "Jinenji from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/170257.jpg?s=3cd1562d0c3015a29ff28dc2d2641747"
+  },
+  {
+    "name": "Jinenji's Mother",
+    "prompt": "Jinenji's Mother from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/562160.jpg?s=5f76b83a9a05e969948bf113211a272f"
+  },
+  {
+    "name": "Jippou",
+    "prompt": "Jippou from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/575200.jpg?s=42c2ae4a3fc031c2cd645186d43d6efb"
+  },
+  {
+    "name": "Juuroumaru",
+    "prompt": "Juuroumaru from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/144387.jpg?s=4744f21c9c829a81623f811e1a7b9a4d"
+  },
+  {
+    "name": "Kaede",
+    "prompt": "Kaede from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/57358.jpg?s=bf403f5bceb5a0975a7a62c857d50c67"
+  },
+  {
+    "name": "Kageroumaru",
+    "prompt": "Kageroumaru from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/518446.jpg?s=7d5ee8cef21adbe3b16f8d89565dad28"
+  },
+  {
+    "name": "Kagura",
+    "prompt": "Kagura from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/93064.jpg?s=74ce3bddf1322276afb4631bd8b6882f"
+  },
+  {
+    "name": "Kaijinbo",
+    "prompt": "Kaijinbo from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/575194.jpg?s=6d2fc191a310e34c6e003d53b2b23efd"
+  },
+  {
+    "name": "Kanna",
+    "prompt": "Kanna from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/117913.jpg?s=eae78e9ddbc613bef95ca767ac38db3a"
+  },
+  {
+    "name": "Kansuke",
+    "prompt": "Kansuke from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/575195.jpg?s=f99525f0de804ef3aa6a789967d0a872"
+  },
+  {
+    "name": "Kanta",
+    "prompt": "Kanta from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/117919.jpg?s=4d7e0cace7edaf0b26cec297b8fec0db"
+  },
+  {
+    "name": "Kanta's Father",
+    "prompt": "Kanta's Father from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/575196.jpg?s=ce46f17e622c27a46e206f55b55195e2"
+  },
+  {
+    "name": "Karan",
+    "prompt": "Karan from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/217605.jpg?s=2250932b1f8b105c428b48b2671f15a2"
+  },
+  {
+    "name": "Kawaramaru",
+    "prompt": "Kawaramaru from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/575197.jpg?s=38f6767f14b2d7918c8a409b7333e02a"
+  },
+  {
+    "name": "Ken",
+    "prompt": "Ken from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/575198.jpg?s=cb5b334bcd850dfb8b12bf91f44735d4"
+  },
+  {
+    "name": "Kikyou",
+    "prompt": "Kikyou from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/123385.jpg?s=cae9179976b6c8805dea244c946afb10"
+  },
+  {
+    "name": "Kirara",
+    "prompt": "Kirara from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/64973.jpg?s=88f951b31f553ee3339ca54d77a43edc"
+  },
+  {
+    "name": "Kisuke",
+    "prompt": "Kisuke from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/575204.jpg?s=15542090f53ffe154429146de6942303"
+  },
+  {
+    "name": "Kochou",
+    "prompt": "Kochou from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/575077.jpg?s=242ad75c0bc2d0d79c8f4a27e8ef9026"
+  },
+  {
+    "name": "Kohaku",
+    "prompt": "Kohaku from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/93066.jpg?s=8cc3d4b504f0a23221c5db8569bb2713"
+  },
+  {
+    "name": "Koharu",
+    "prompt": "Koharu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/144527.jpg?s=22203dc0e1049954854c7c650be48d88"
+  },
+  {
+    "name": "Kokichi",
+    "prompt": "Kokichi from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/575208.jpg?s=a8e96102eac84587fd6c6c8b88415e05"
+  },
+  {
+    "name": "Kouga",
+    "prompt": "Kouga from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/93494.jpg?s=a7ee12cf75ca0b166f1e2d663c3454d7"
+  },
+  {
+    "name": "Koume",
+    "prompt": "Koume from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/218039.jpg?s=60f2d57b8c462a7545d621c7a04c8593"
+  },
+  {
+    "name": "Kouryuu",
+    "prompt": "Kouryuu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/214775.jpg?s=ae627053b38c1022a017bf2e17acfafe"
+  },
+  {
+    "name": "Koutatsu",
+    "prompt": "Koutatsu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/575076.jpg?s=be38e97da09cb0deeadfaa210048418f"
+  },
+  {
+    "name": "Koyuki",
+    "prompt": "Koyuki from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/144375.jpg?s=92f669d0ddef4ff05b3aee40a2d5c615"
+  },
+  {
+    "name": "Kuroro",
+    "prompt": "Kuroro from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/575209.jpg?s=c578ef702a5ae52ac7071f6fbb5aa57b"
+  },
+  {
+    "name": "Kyoukotsu",
+    "prompt": "Kyoukotsu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/93486.jpg?s=5820ede511297920aec4fa6d4e57ba68"
+  },
+  {
+    "name": "Lady of The Infant's Castle",
+    "prompt": "Lady of The Infant's Castle from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/575210.jpg?s=53502ae3098075303a0f10168fff5232"
+  },
+  {
+    "name": "Lizard Demon",
+    "prompt": "Lizard Demon from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/575211.jpg?s=50a499bd857e16ef30128ca44c2417ab"
+  },
+  {
+    "name": "Madame Exorcist",
+    "prompt": "Madame Exorcist from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/575212.jpg?s=283ba845d4e0e037edf1a9204396b3e7"
+  },
+  {
+    "name": "Mantis Youkai",
+    "prompt": "Mantis Youkai from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/575216.jpg?s=da90c4f306814bc3479ab68d3179ed74"
+  },
+  {
+    "name": "Mask, Noh",
+    "prompt": "Mask, Noh from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/575231.jpg?s=1e289f94285ce8dcaf23bc545202b6dd"
+  },
+  {
+    "name": "Mayu's Mother",
+    "prompt": "Mayu's Mother from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/575219.jpg?s=df6454e1962586cdf88a2d21251f3a36"
+  },
+  {
+    "name": "Mezu",
+    "prompt": "Mezu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/575223.jpg?s=e5acfbd5dd07ee6c95437820f4f25005"
+  },
+  {
+    "name": "Midoriko",
+    "prompt": "Midoriko from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/77230.jpg?s=dff5ccc3aea406be4a80066622b22b31"
+  },
+  {
+    "name": "Mimisenri",
+    "prompt": "Mimisenri from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/575251.jpg?s=3e37cbaf8b66de7b11b23625cc5d626b"
+  },
+  {
+    "name": "Mizuki",
+    "prompt": "Mizuki from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/63729.jpg?s=07338232beb88fb71d30b48ffdbdb11a"
+  },
+  {
+    "name": "Momiji",
+    "prompt": "Momiji from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/214675.jpg?s=53018756af63e2ea25f3fa177b3916fa"
+  },
+  {
+    "name": "Mouryoumaru",
+    "prompt": "Mouryoumaru from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/117903.jpg?s=bb305eaa3a69da10b220a4620d08bec5"
+  },
+  {
+    "name": "Mu-onna",
+    "prompt": "Mu-onna from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/575245.jpg?s=73eb36e384f528d888fd459ab904be9a"
+  },
+  {
+    "name": "Mu-otoko",
+    "prompt": "Mu-otoko from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/575246.jpg?s=66712209ea2dba810d6d995b7bf7470d"
+  },
+  {
+    "name": "Mukotsu",
+    "prompt": "Mukotsu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/93488.jpg?s=2b3c9f276822fbd1f10ed552285480f9"
+  },
+  {
+    "name": "Muso",
+    "prompt": "Muso from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/575257.jpg?s=2be8d5f1c16ec8b45059778292e015b1"
+  },
+  {
+    "name": "Musou",
+    "prompt": "Musou from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/214805.jpg?s=50f8c08fd9b8c47683cf3ef5500993a7"
+  },
+  {
+    "name": "Myouga",
+    "prompt": "Myouga from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/59630.jpg?s=ce8c72cbfece68c34595277a165b0841"
+  },
+  {
+    "name": "Naraku",
+    "prompt": "Naraku from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/54204.jpg?s=61a57383867cf8965aed20bd1e348f2b"
+  },
+  {
+    "name": "Nazuna",
+    "prompt": "Nazuna from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/575225.jpg?s=2f578299e1469a5d651dfcdc54b9df00"
+  },
+  {
+    "name": "Nazuna's Master",
+    "prompt": "Nazuna's Master from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/575227.jpg?s=d8d12732e2b07364d6e3f3ad96a860cd"
+  },
+  {
+    "name": "Ninmeka",
+    "prompt": "Ninmeka from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/575229.jpg?s=c955b7e9f211253c1c9b4073a836e71b"
+  },
+  {
+    "name": "Nushi",
+    "prompt": "Nushi from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/575232.jpg?s=4ccb60a8f350dcad191476cc64a6c037"
+  },
+  {
+    "name": "O-Yakata",
+    "prompt": "O-Yakata from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/575236.jpg?s=cfb52c3743c3d4f52c149bf2ee1bc35d"
+  },
+  {
+    "name": "Ongokuki",
+    "prompt": "Ongokuki from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/575233.jpg?s=7107654b8d5979e28b6af6644226dc1c"
+  },
+  {
+    "name": "Oni's Head",
+    "prompt": "Oni's Head from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/575234.jpg?s=64942fa0242aa93a364bfb493cf4f25f"
+  },
+  {
+    "name": "Onigumo",
+    "prompt": "Onigumo from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/518447.jpg?s=425809c0f5092ea91cdc4e64b638b493"
+  },
+  {
+    "name": "Orochidayuu",
+    "prompt": "Orochidayuu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/575235.jpg?s=97b97abe2c54598ddc7cdffe23c27a83"
+  },
+  {
+    "name": "Panther King",
+    "prompt": "Panther King from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/575239.jpg?s=18af6f1d28614781622ed71083194129"
+  },
+  {
+    "name": "Princess Tsuyu",
+    "prompt": "Princess Tsuyu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/45405.jpg?s=1aff310c8d140477afc48f9f52581ef1"
+  },
+  {
+    "name": "Raijou, Hiten",
+    "prompt": "Raijou, Hiten from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/117921.jpg?s=50b17a136cf56713bcf94dc03086f39a"
+  },
+  {
+    "name": "Raijou, Manten",
+    "prompt": "Raijou, Manten from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/65007.jpg?s=c7b332394d7353c958a9d7f9786abfed"
+  },
+  {
+    "name": "Rengokuki",
+    "prompt": "Rengokuki from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/575242.jpg?s=32d8556aa56775203f0bdd9d17342ee4"
+  },
+  {
+    "name": "Renkotsu",
+    "prompt": "Renkotsu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/93490.jpg?s=cb36fd8007794c300cf028758d3733ae"
+  },
+  {
+    "name": "Rikichi",
+    "prompt": "Rikichi from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/575243.jpg?s=761aac97507da819c5945553c197087a"
+  },
+  {
+    "name": "Rin",
+    "prompt": "Rin from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/93504.jpg?s=d71e487340d2cb0199a3319bdb8b6335"
+  },
+  {
+    "name": "Rouyou",
+    "prompt": "Rouyou from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/575244.jpg?s=150a0262bdc731863d08ace9c1e759f0"
+  },
+  {
+    "name": "Royakan",
+    "prompt": "Royakan from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/571915.jpg?s=75a9f7ff7bebf1cb2241ab941bc7e7d7"
+  },
+  {
+    "name": "Ryuukotsusei",
+    "prompt": "Ryuukotsusei from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/46909.jpg?s=6faff7473b2c33d2742885971364e8f4"
+  },
+  {
+    "name": "Salamander",
+    "prompt": "Salamander from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/575308.jpg?s=2049718c28f6face3ec7abf78b0fc7e2"
+  },
+  {
+    "name": "Sango and Kohaku's Father",
+    "prompt": "Sango and Kohaku's Father from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/575075.jpg?s=43a4100367d9e7044c439444bb0097f2"
+  },
+  {
+    "name": "Sanpou",
+    "prompt": "Sanpou from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/575309.jpg?s=69ac69dafb2ece744a09d8eaa91b4414"
+  },
+  {
+    "name": "Sarugami",
+    "prompt": "Sarugami from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/575312.jpg?s=e4a6f34359739431b9d9116dfd43de72"
+  },
+  {
+    "name": "Satsuki",
+    "prompt": "Satsuki from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/214267.jpg?s=2cb49a3ccd30138742686e5f3d4c5212"
+  },
+  {
+    "name": "Sayo",
+    "prompt": "Sayo from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/575316.jpg?s=adc8eba87b32260050ce50f8fbaba69f"
+  },
+  {
+    "name": "Sayo the Apprentice",
+    "prompt": "Sayo the Apprentice from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/575317.jpg?s=fb0973f9f7a1da2dafb8819f208044f2"
+  },
+  {
+    "name": "Scroll Youkai",
+    "prompt": "Scroll Youkai from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/575319.jpg?s=f0e422e9b1cce21a870e026cd65bef48"
+  },
+  {
+    "name": "Seikai",
+    "prompt": "Seikai from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/575320.jpg?s=95a6f31d0898228beaf7529e54083977"
+  },
+  {
+    "name": "Seiryu",
+    "prompt": "Seiryu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/575321.jpg?s=3d0ef4e2f96b583f8d6958670051066b"
+  },
+  {
+    "name": "Sennin",
+    "prompt": "Sennin from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/575322.jpg?s=b805e2d5d80d5e51dde3bfd333c64b7d"
+  },
+  {
+    "name": "Serina",
+    "prompt": "Serina from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/575324.jpg?s=07b60df2fda80c305c92fa62424ab2a0"
+  },
+  {
+    "name": "Sesshoumaru",
+    "prompt": "Sesshoumaru from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/41081.jpg?s=99ec992330f4b9834263b5dd54d5c855"
+  },
+  {
+    "name": "Seukichi",
+    "prompt": "Seukichi from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/575325.jpg?s=30c15a70279846d0cc1f2c9ca41c8e26"
+  },
+  {
+    "name": "Shihou",
+    "prompt": "Shihou from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/575326.jpg?s=2af5979c55d850b107573fad3a24d07f"
+  },
+  {
+    "name": "Shima",
+    "prompt": "Shima from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/478499.jpg?s=b6e574377eefc738e73164f219931311"
+  },
+  {
+    "name": "Shima's Father",
+    "prompt": "Shima's Father from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/575327.jpg?s=ac2c0680f918e9dbb2629cf0613bce2a"
+  },
+  {
+    "name": "Shima's Mother",
+    "prompt": "Shima's Mother from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/575328.jpg?s=b0cd3035060ce90da3ed4dd1f44e0a57"
+  },
+  {
+    "name": "Shinosuke",
+    "prompt": "Shinosuke from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/575329.jpg?s=248077c6c31a0e548be752ba8f474f06"
+  },
+  {
+    "name": "Shinsen",
+    "prompt": "Shinsen from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/575331.jpg?s=3ef9def30ae2db7124121386605a4369"
+  },
+  {
+    "name": "Shintarou",
+    "prompt": "Shintarou from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/575336.jpg?s=b1ca02b0e398a80e21343b3c222cae24"
+  },
+  {
+    "name": "Shiori",
+    "prompt": "Shiori from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/217569.jpg?s=790304deebb26fcdbe238e7716d730e0"
+  },
+  {
+    "name": "Shizu",
+    "prompt": "Shizu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/217573.jpg?s=13939235bc885da59562c08154904e60"
+  },
+  {
+    "name": "Shoga",
+    "prompt": "Shoga from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/575337.jpg?s=b0cfe7d4f66dfbcc792c092310189bd9"
+  },
+  {
+    "name": "Shousuke",
+    "prompt": "Shousuke from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/575339.jpg?s=6ab89176e3f3204a70edc96f8c0d782d"
+  },
+  {
+    "name": "Shunran",
+    "prompt": "Shunran from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/144377.jpg?s=55c22586882e3bff0b55cd8834a27f27"
+  },
+  {
+    "name": "Shuran",
+    "prompt": "Shuran from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/217609.jpg?s=6b521997faf84ad914d76c1b742eb273"
+  },
+  {
+    "name": "Soten",
+    "prompt": "Soten from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/214773.jpg?s=77c0b278441ff18064b3d2ba2c2b27b4"
+  },
+  {
+    "name": "Suijin",
+    "prompt": "Suijin from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/57158.jpg?s=96ff0f61dbc12494204472849fc84851"
+  },
+  {
+    "name": "Suikotsu",
+    "prompt": "Suikotsu from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/93489.jpg?s=909a1cee0d3fdfcb001f82726f8b6b96"
+  },
+  {
+    "name": "Suzaku of the Flower",
+    "prompt": "Suzaku of the Flower from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/56972.jpg?s=7a55d56abb6305858b1d6586c98cc12f"
+  },
+  {
+    "name": "Suzuna",
+    "prompt": "Suzuna from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/575341.jpg?s=74b890f3dffde05df92d4bfc499e8076"
+  },
+  {
+    "name": "Taigokumaru",
+    "prompt": "Taigokumaru from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/575342.jpg?s=61419786c92aec4a24900d9301cf2356"
+  },
+  {
+    "name": "Taishou, Inu no",
+    "prompt": "Taishou, Inu no from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/58610.jpg?s=34709236956f6f28f5fce96df314dc70"
+  },
+  {
+    "name": "Takeda, Kuranosuke",
+    "prompt": "Takeda, Kuranosuke from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/217613.jpg?s=67f04406416a69435b549b2d89b0d3f2"
+  },
+  {
+    "name": "Taromaru",
+    "prompt": "Taromaru from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/575343.jpg?s=bfc2f7551437d617a507a9e12ac4f3d5"
+  },
+  {
+    "name": "Tekkei",
+    "prompt": "Tekkei from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/571916.jpg?s=26e0d31b76df485c5cbdcf52a816f499"
+  },
+  {
+    "name": "Tesso",
+    "prompt": "Tesso from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/575344.jpg?s=eca04d74567ad60fb04997bc5f26442a"
+  },
+  {
+    "name": "Toran",
+    "prompt": "Toran from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/217607.jpg?s=11d600bbbde8e1a99f3cc02a26d10d3d"
+  },
+  {
+    "name": "Toukajin",
+    "prompt": "Toukajin from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/519126.jpg?s=b4d35034b6d5e33bee7dcaa5fde4f125"
+  },
+  {
+    "name": "Toutousai",
+    "prompt": "Toutousai from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/117912.jpg?s=83ce3db888fc7601b9e774315f0c99b7"
+  },
+  {
+    "name": "Tsubaki",
+    "prompt": "Tsubaki from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/58395.jpg?s=f6e69f2b7058355d8f0574d8254706e6"
+  },
+  {
+    "name": "Tsubaki's Master",
+    "prompt": "Tsubaki's Master from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/575345.jpg?s=5e633aa2ae42bbb309a9f0de02d59583"
+  },
+  {
+    "name": "Tsukiyomi",
+    "prompt": "Tsukiyomi from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/92652.jpg?s=5483e48da0f3a40a986de401c52f2d2e"
+  },
+  {
+    "name": "Tsukumo, Gamajirou",
+    "prompt": "Tsukumo, Gamajirou from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/371686.jpg?s=3432ce4340469240f4464092245748f3"
+  },
+  {
+    "name": "Tsukuyomaru",
+    "prompt": "Tsukuyomaru from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/575348.jpg?s=6d68bc004c7e7cd4205af6133a70ada5"
+  },
+  {
+    "name": "Tsuyu's Husband",
+    "prompt": "Tsuyu's Husband from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/575351.jpg?s=5cdab4260e1d7f65e196fa1b608aaeb9"
+  },
+  {
+    "name": "Ungai",
+    "prompt": "Ungai from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/575353.jpg?s=ad1908515f1c970bd0a260342783467c"
+  },
+  {
+    "name": "Urasue",
+    "prompt": "Urasue from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/518059.jpg?s=85990e8536e4493011cd0c8d3087bd7c"
+  },
+  {
+    "name": "Vixen",
+    "prompt": "Vixen from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/575355.jpg?s=9ac3fcda97631df47face6fec540e08c"
+  },
+  {
+    "name": "Wakana",
+    "prompt": "Wakana from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/178329.jpg?s=81ff11b8f6f0646687ba6b5ef8e79d90"
+  },
+  {
+    "name": "Water Goddess",
+    "prompt": "Water Goddess from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/575357.jpg?s=1789d0983c510594f9c71ff967a89bf1"
+  },
+  {
+    "name": "Weasel Youkai",
+    "prompt": "Weasel Youkai from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/575359.jpg?s=b956d4a317e02e025caf0344eed95f08"
+  },
+  {
+    "name": "Wolf Elder",
+    "prompt": "Wolf Elder from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/575360.jpg?s=11c9d8d13a58f63409b810fc0897e620"
+  },
+  {
+    "name": "Yuka",
+    "prompt": "Yuka from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/144533.jpg?s=faf837ffa5cf25095889eed9d5fef5da"
+  },
+  {
+    "name": "Yuki",
+    "prompt": "Yuki from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/575363.jpg?s=d9c5008442ba6f3342fbfccc0d985217"
+  },
+  {
+    "name": "Yuki-onna",
+    "prompt": "Yuki-onna from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/575365.jpg?s=5777efcb1d5e9977ee16d84a4bf1fcc1"
+  },
+  {
+    "name": "Yura",
+    "prompt": "Yura from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/89359.jpg?s=39a0cfa7bc9306eb9f7afa4a69f801ef"
+  },
+  {
+    "name": "Yuuta",
+    "prompt": "Yuuta from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/575366.jpg?s=13270573d09d483a797cc675e571fe67"
+  },
+  {
+    "name": "Zushinezumi",
+    "prompt": "Zushinezumi from InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/575367.jpg?s=b6c59297cfb787a13fad5cbc382b180b"
+  }
+]

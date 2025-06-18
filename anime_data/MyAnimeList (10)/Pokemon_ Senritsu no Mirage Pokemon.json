@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Haruka",
+    "prompt": "Haruka from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/110076.jpg?s=c88321436d309e1f12ce49393bec883c"
+  },
+  {
+    "name": "Kasumi",
+    "prompt": "Kasumi from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/104997.jpg?s=9ec835645bde808be53cddb2c06d33bf"
+  },
+  {
+    "name": "Masato",
+    "prompt": "Masato from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/69304.jpg?s=cbd19ab24eb9c0f1e322fb7a1d22a814"
+  },
+  {
+    "name": "Mew",
+    "prompt": "Mew from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/100986.jpg?s=fb05612288e26621730ef0b50671aaab"
+  },
+  {
+    "name": "Pikachu",
+    "prompt": "Pikachu from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/289627.jpg?s=b97db39e3126c4cc184a764059abe0f6"
+  },
+  {
+    "name": "Satoshi",
+    "prompt": "Satoshi from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/100701.jpg?s=e0c6afbdb021ec02343675ebb587d488"
+  },
+  {
+    "name": "Takeshi",
+    "prompt": "Takeshi from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/364663.jpg?s=d0df6688560613a126a8a9149d32d8e8"
+  },
+  {
+    "name": "Absol",
+    "prompt": "Absol from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/453814.jpg?s=6bb190ca08273c1bfa7e3008d0e62724"
+  },
+  {
+    "name": "Coil",
+    "prompt": "Coil from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498605.jpg?s=21c5d42c79b5cab5eb0eb3159de929c5"
+  },
+  {
+    "name": "Entei",
+    "prompt": "Entei from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/254423.jpg?s=2c7bf7ebfe47cd735429de74d8664114"
+  },
+  {
+    "name": "Freezer",
+    "prompt": "Freezer from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/393186.jpg?s=3676f432dd404892d1fb72ce119c7704"
+  },
+  {
+    "name": "Goriki",
+    "prompt": "Goriki from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/497605.jpg?s=a37679a4a60feb23a4f13033dca0e008"
+  },
+  {
+    "name": "Graena",
+    "prompt": "Graena from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/500159.jpg?s=d00a3061d666068f71743713c3dfe736"
+  },
+  {
+    "name": "Gyarados",
+    "prompt": "Gyarados from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/528249.jpg?s=a62ca3c62d1d023218389e1337abb3ec"
+  },
+  {
+    "name": "Hitodeman",
+    "prompt": "Hitodeman from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/497608.jpg?s=b9b711e1d756ad2d944a211e97a6d3c0"
+  },
+  {
+    "name": "Joy",
+    "prompt": "Joy from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/215001.jpg?s=4709a6ce2788588427805e93172b07e7"
+  },
+  {
+    "name": "Junsa",
+    "prompt": "Junsa from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/84019.jpg?s=b533f0a782484bfd2d5c1fc40b1a3425"
+  },
+  {
+    "name": "Kairiki",
+    "prompt": "Kairiki from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/497612.jpg?s=1ba68cd71979517efb37db292d21ba5e"
+  },
+  {
+    "name": "Kairyuu",
+    "prompt": "Kairyuu from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/528913.jpg?s=7e9c8cf303fd1acf883ae73eccd5c633"
+  },
+  {
+    "name": "Kojirou",
+    "prompt": "Kojirou from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/502950.jpg?s=c2fd0729a93d9635e946946b3d49e5b2"
+  },
+  {
+    "name": "Laglarge",
+    "prompt": "Laglarge from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/504430.jpg?s=dbf841557c0ce799af3aca547121c1b6"
+  },
+  {
+    "name": "Latias",
+    "prompt": "Latias from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/396594.jpg?s=2c67daed02a1ac52d3ae9c199e6f5af9"
+  },
+  {
+    "name": "Latios",
+    "prompt": "Latios from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/396593.jpg?s=8ca8f23a7f1b6faf55aa1e02e4dc6714"
+  },
+  {
+    "name": "Lugia",
+    "prompt": "Lugia from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/394888.jpg?s=42c5de5026403386739b0a3d1615251e"
+  },
+  {
+    "name": "Mewtwo",
+    "prompt": "Mewtwo from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/196511.jpg?s=081cea019d3f820f5c853c0489551653"
+  },
+  {
+    "name": "Musashi",
+    "prompt": "Musashi from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/278096.jpg?s=051ae458066175cfe4bf0f07bb2df11d"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/511553.jpg?s=a57d2a41fe40f1e203b06d3d9218f4b5"
+  },
+  {
+    "name": "Nyarth",
+    "prompt": "Nyarth from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/131981.jpg?s=d7734d4cd42e72435749110ba1953798"
+  },
+  {
+    "name": "Omnite",
+    "prompt": "Omnite from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/499083.jpg?s=73d93301e57ed03f97928e38861df46b"
+  },
+  {
+    "name": "Omstar",
+    "prompt": "Omstar from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/499084.jpg?s=51e24ca5d8b38284a2fa25865b0dc66b"
+  },
+  {
+    "name": "Ookido, Yukinari",
+    "prompt": "Ookido, Yukinari from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/101947.jpg?s=01478fadc2b8b7238e03d3612a3a731e"
+  },
+  {
+    "name": "Pokemon Zukan",
+    "prompt": "Pokemon Zukan from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/284318.jpg?s=bdc8446c95348fbb93324d4e51edb3de"
+  },
+  {
+    "name": "Professor Utsugi",
+    "prompt": "Professor Utsugi from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/252633.jpg?s=d19ad7c469715acbc8e909df53c71cee"
+  },
+  {
+    "name": "Ptera",
+    "prompt": "Ptera from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/528819.jpg?s=ffd21ba50b389008e6430ff61d05d2d3"
+  },
+  {
+    "name": "Soonansu",
+    "prompt": "Soonansu from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/391861.jpg?s=b56eadae29d5aea53f07fc8aed666ec4"
+  },
+  {
+    "name": "Thunder",
+    "prompt": "Thunder from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/421556.jpg?s=e8cb8deaa2ad148c2d915816a52228a7"
+  },
+  {
+    "name": "Unown",
+    "prompt": "Unown from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/497292.jpg?s=b409f2b3941ff3f5a1a3b5c28e84788e"
+  },
+  {
+    "name": "Yung, Doctor",
+    "prompt": "Yung, Doctor from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/98060.jpg?s=733d82b21ba1281e933ccbcfb710342f"
+  },
+  {
+    "name": "Zenigame",
+    "prompt": "Zenigame from Pokemon: Senritsu no Mirage Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497728.jpg?s=6456634d4f296b5f7d271dee4c867d15"
+  }
+]

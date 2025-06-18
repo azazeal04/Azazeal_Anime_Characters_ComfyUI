@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Furuya, Satoru",
+    "prompt": "Furuya, Satoru from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/225749.jpg?s=e2ae42f7227b4d2804ab68d3ffb17da3"
+  },
+  {
+    "name": "Kominato, Haruichi",
+    "prompt": "Kominato, Haruichi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/225753.jpg?s=9084d888735831d7e6b056e168974a44"
+  },
+  {
+    "name": "Miyuki, Kazuya",
+    "prompt": "Miyuki, Kazuya from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/225757.jpg?s=e59944dcda5203d1f4867e24d3816be0"
+  },
+  {
+    "name": "Sawamura, Eijun",
+    "prompt": "Sawamura, Eijun from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/235393.jpg?s=60ecdffd9bb2b04e67cb7b03963c5f0f"
+  },
+  {
+    "name": "Akiba, Kazuma",
+    "prompt": "Akiba, Kazuma from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/274613.jpg?s=a84d384433511e00f9d14e30cd523f2c"
+  },
+  {
+    "name": "Akio",
+    "prompt": "Akio from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Animal M., J.",
+    "prompt": "Animal M., J. from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/274229.jpg?s=6fa283ca7806d7f43c6eab01a4bbc39b"
+  },
+  {
+    "name": "Aotsuki, Wakana",
+    "prompt": "Aotsuki, Wakana from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/222799.jpg?s=01c66a9827c866ee0006f15f13acfcca"
+  },
+  {
+    "name": "Asou, Takeru",
+    "prompt": "Asou, Takeru from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/286769.jpg?s=26320e28eed16f834f1abe70c48071d9"
+  },
+  {
+    "name": "Azuma, Kiyokuni",
+    "prompt": "Azuma, Kiyokuni from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/222797.jpg?s=e66d2297bc9d572fb2f7569519e311db"
+  },
+  {
+    "name": "Chiba, Junichi",
+    "prompt": "Chiba, Junichi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/254109.jpg?s=82309bf98feabe06ecf845ee8599eb6e"
+  },
+  {
+    "name": "Fujiwara, Takako",
+    "prompt": "Fujiwara, Takako from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/299994.jpg?s=afbac2a2cfd914a3779489dc3ecc7398"
+  },
+  {
+    "name": "Fukuda, Daiki",
+    "prompt": "Fukuda, Daiki from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/274781.jpg?s=702dc1152ad392773d6aa2cd742fb3ac"
+  },
+  {
+    "name": "Fukui, Kento",
+    "prompt": "Fukui, Kento from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/280095.jpg?s=8c0331985ea335ec08d0c9ac57319c8c"
+  },
+  {
+    "name": "Harada, Masatoshi",
+    "prompt": "Harada, Masatoshi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/240059.jpg?s=9e4691ab5b581ce9ac2ceba5d441b324"
+  },
+  {
+    "name": "Hidokoro, Yoshimi",
+    "prompt": "Hidokoro, Yoshimi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/274261.jpg?s=62dc5405b7acb2b0698c187166342ccd"
+  },
+  {
+    "name": "Higasa, Shouji",
+    "prompt": "Higasa, Shouji from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/275174.jpg?s=d7bb4cb618f945efc13f4e3a128b4c16"
+  },
+  {
+    "name": "Hino",
+    "prompt": "Hino from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/254497.jpg?s=1b907117c680842f0e76d9afd5c5c9b1"
+  },
+  {
+    "name": "Hirai, Tsubasa",
+    "prompt": "Hirai, Tsubasa from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/299996.jpg?s=66e6e41e8bec0d568fc43722ab8db2e0"
+  },
+  {
+    "name": "Hirakawa, Takahiro",
+    "prompt": "Hirakawa, Takahiro from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/249649.jpg?s=bcbdca9c2f5b4b6634ee51863eb18d50"
+  },
+  {
+    "name": "Hoshida, Mamoru",
+    "prompt": "Hoshida, Mamoru from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/286910.jpg?s=8ddf1c8095b99b94e43fba46e3abea2c"
+  },
+  {
+    "name": "Iguchi, Yuudai",
+    "prompt": "Iguchi, Yuudai from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/258819.jpg?s=b4694953f9964a894ed1b5a10b276d0f"
+  },
+  {
+    "name": "Inamoto, Masaaki",
+    "prompt": "Inamoto, Masaaki from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/274259.jpg?s=d722097004e38fdc1f1f205cb5277334"
+  },
+  {
+    "name": "Isashiki, Jun",
+    "prompt": "Isashiki, Jun from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/235381.jpg?s=cb09b305f63c7ab3447a97dfc6a484f0"
+  },
+  {
+    "name": "Kadota, Masaaki",
+    "prompt": "Kadota, Masaaki from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/254643.jpg?s=90ad3d7b8cc87769e66818337062ff51"
+  },
+  {
+    "name": "Kamiya, Carlos Toshiki",
+    "prompt": "Kamiya, Carlos Toshiki from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/275366.jpg?s=bfe0d511c950117931922f1d79184f84"
+  },
+  {
+    "name": "Kaneda, Tadahiro",
+    "prompt": "Kaneda, Tadahiro from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/279873.jpg?s=d495af6c74f9bcfaa9bb9210d747b3f2"
+  },
+  {
+    "name": "Kanemaru, Shinji",
+    "prompt": "Kanemaru, Shinji from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/235389.jpg?s=c45d41f864fd0961ffa14472b8b52a7a"
+  },
+  {
+    "name": "Kariba, Wataru",
+    "prompt": "Kariba, Wataru from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/299995.jpg?s=23997fc6945efb5e9017b5b7526a72fa"
+  },
+  {
+    "name": "Kataoka, Tesshin",
+    "prompt": "Kataoka, Tesshin from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/224659.jpg?s=ed46fb767f8f0f006dee744e97435803"
+  },
+  {
+    "name": "Kawakami, Norifumi",
+    "prompt": "Kawakami, Norifumi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/235391.jpg?s=b94438ea49157a33a36c658113209a12"
+  },
+  {
+    "name": "Kawashima, Kengo",
+    "prompt": "Kawashima, Kengo from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/279874.jpg?s=7a6c750be0f94562752823d9597609c2"
+  },
+  {
+    "name": "Kenta",
+    "prompt": "Kenta from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kikukawa, Sanae",
+    "prompt": "Kikukawa, Sanae from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/274267.jpg?s=fb7cab82060b48ea5ec5cc3e71cea466"
+  },
+  {
+    "name": "Kikunaga, Masaaki",
+    "prompt": "Kikunaga, Masaaki from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/274603.jpg?s=a614337e0a0807f84bfe586e47d5f165"
+  },
+  {
+    "name": "Kobayashi, Keisuke",
+    "prompt": "Kobayashi, Keisuke from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/286909.jpg?s=2e19b6f9582e1b7e5168f983d4f1af32"
+  },
+  {
+    "name": "Kominato, Ryousuke",
+    "prompt": "Kominato, Ryousuke from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/225755.jpg?s=d74fc2a1c069f6617d67776ab93cf666"
+  },
+  {
+    "name": "Kunimi",
+    "prompt": "Kunimi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/274699.jpg?s=c5e2070a9cc999f33dbee315c657d5bd"
+  },
+  {
+    "name": "Kunitomo, Hiroshige",
+    "prompt": "Kunitomo, Hiroshige from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/274223.jpg?s=1992ba9fb87523877b0bd0adda2874f2"
+  },
+  {
+    "name": "Kuramochi, Youichi",
+    "prompt": "Kuramochi, Youichi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/224655.jpg?s=e89deb0f0c0d1db18d01e728eeaead38"
+  },
+  {
+    "name": "Kusunoki, Fumiya",
+    "prompt": "Kusunoki, Fumiya from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/278815.jpg?s=e290423e778f815dd68eb34d3457d881"
+  },
+  {
+    "name": "Kuwata, Masaki",
+    "prompt": "Kuwata, Masaki from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/274700.jpg?s=6b0a2ed66013b0207be4d4c6bdb28bfa"
+  },
+  {
+    "name": "Maezono, Kenta",
+    "prompt": "Maezono, Kenta from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/276217.jpg?s=96175d6a907d5900d8e52a615644373a"
+  },
+  {
+    "name": "Maki, Yousuke",
+    "prompt": "Maki, Yousuke from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/261765.jpg?s=be23c5bf362242d4dbf43faf55708524"
+  },
+  {
+    "name": "Makihara, Masumi",
+    "prompt": "Makihara, Masumi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/274701.jpg?s=13e1bb7e8791a451eaf56eff352fb0f2"
+  },
+  {
+    "name": "Manaka, Kaname",
+    "prompt": "Manaka, Kaname from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/254689.jpg?s=d452526f96a85134bf30b5909ac535b2"
+  },
+  {
+    "name": "Masuko, Tooru",
+    "prompt": "Masuko, Tooru from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/224653.jpg?s=36a46290ab38644c0200fe885596a75a"
+  },
+  {
+    "name": "Minamidaira, Mamoru",
+    "prompt": "Minamidaira, Mamoru from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/274607.jpg?s=dcb50c91a2c4335035e6b2ec4e8cca7f"
+  },
+  {
+    "name": "Mine, Fujio",
+    "prompt": "Mine, Fujio from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/254721.jpg?s=0b263339a51472f198f5855ff329a4cd"
+  },
+  {
+    "name": "Mino, Yuuto",
+    "prompt": "Mino, Yuuto from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/287282.jpg?s=4701bdf1eddf33afedec83675377a9e8"
+  },
+  {
+    "name": "Mishima, Yuuta",
+    "prompt": "Mishima, Yuuta from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/274225.jpg?s=acd4cc4ef85d2f05c6cbb7d85620213c"
+  },
+  {
+    "name": "Miyata",
+    "prompt": "Miyata from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/274702.jpg?s=1f46bf1b007eb97745e7c5b3d210ebd1"
+  },
+  {
+    "name": "Miyauchi, Keisuke",
+    "prompt": "Miyauchi, Keisuke from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/236205.jpg?s=eea98d0b0de2c4e16db7fcfc4e45b786"
+  },
+  {
+    "name": "Murata",
+    "prompt": "Murata from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/274698.jpg?s=305af537e2ec9bcefbebe066184d8617"
+  },
+  {
+    "name": "Mutou",
+    "prompt": "Mutou from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nagao, Akira",
+    "prompt": "Nagao, Akira from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/274263.jpg?s=5b238211cf89282b79d78bb9c836514a"
+  },
+  {
+    "name": "Nakai",
+    "prompt": "Nakai from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/279542.jpg?s=c4a9a7e2a3f5f3a829e60d30689f9c4a"
+  },
+  {
+    "name": "Nakanishi",
+    "prompt": "Nakanishi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nakata, Ataru",
+    "prompt": "Nakata, Ataru from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/274779.jpg?s=e1648ebccbf1ecdfd32ba5f092fb506c"
+  },
+  {
+    "name": "Narumiya, Mei",
+    "prompt": "Narumiya, Mei from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/278614.jpg?s=4c7968fa0db1efa2c1be35caa8fc8c1c"
+  },
+  {
+    "name": "Natsukawa, Yui",
+    "prompt": "Natsukawa, Yui from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/300284.jpg?s=d01b6a6c6b3f8a142a80e4002db86eab"
+  },
+  {
+    "name": "Ninomiya",
+    "prompt": "Ninomiya from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/274685.jpg?s=c5bdf2a8e44c71ee105adc52a5c13f63"
+  },
+  {
+    "name": "Nobu",
+    "prompt": "Nobu from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/279225.jpg?s=baae401cee0d5e1d997c04c302223e7a"
+  },
+  {
+    "name": "Ochiai, Hiromitsu",
+    "prompt": "Ochiai, Hiromitsu from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/276218.jpg?s=dfe274c45d5ffba9bebbe50ddd6c6eff"
+  },
+  {
+    "name": "Ogata, Kazunari",
+    "prompt": "Ogata, Kazunari from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/274703.jpg?s=133bc18e9cc3cec85616a1913c276837"
+  },
+  {
+    "name": "Ono, Hiroshi",
+    "prompt": "Ono, Hiroshi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/274687.jpg?s=e608ba577bbeecd92c0bd8bdb9770b71"
+  },
+  {
+    "name": "Oomae, Takahiro",
+    "prompt": "Oomae, Takahiro from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/246417.jpg?s=84163bc0ea42fdec8b2fbc3f77b41cb8"
+  },
+  {
+    "name": "Oonishi",
+    "prompt": "Oonishi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/274688.jpg?s=8ed294e4a3fad0c7984b8055133677d6"
+  },
+  {
+    "name": "Ooshima, Hiro",
+    "prompt": "Ooshima, Hiro from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Oota, Isao",
+    "prompt": "Oota, Isao from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/286911.jpg?s=2e61cdbcfbfa91bde4e816075b12a91f"
+  },
+  {
+    "name": "Oota, Kazuyoshi",
+    "prompt": "Oota, Kazuyoshi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/279192.jpg?s=78b11e1ed3a427101f5955884809aff1"
+  },
+  {
+    "name": "Oowada, Akiko",
+    "prompt": "Oowada, Akiko from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/254719.jpg?s=d5e7930b65bc110d5d8d1a8ed12ff254"
+  },
+  {
+    "name": "Saitou, Hiromi",
+    "prompt": "Saitou, Hiromi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/274704.jpg?s=82ac8a9aa45326f22f9e769a16d84a6d"
+  },
+  {
+    "name": "Sakai, Ichirou",
+    "prompt": "Sakai, Ichirou from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/254647.jpg?s=7db6a0647fe46166ea243267f340e44e"
+  },
+  {
+    "name": "Sanada, Shunpei",
+    "prompt": "Sanada, Shunpei from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/299109.jpg?s=61a90ab8fd07674c9fcedab2d30c8f8f"
+  },
+  {
+    "name": "Sawamura, Mother",
+    "prompt": "Sawamura, Mother from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/274611.jpg?s=9bbd89c60aae57e0acdf60f2dc9c6007"
+  },
+  {
+    "name": "Sawamura, Eitoku",
+    "prompt": "Sawamura, Eitoku from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/274445.jpg?s=235a85c51e8b791ea8030fb59d052d1d"
+  },
+  {
+    "name": "Sawamura, Father",
+    "prompt": "Sawamura, Father from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/245897.jpg?s=60302e92d1d3d721d4f8f7cf4e2d2c82"
+  },
+  {
+    "name": "Seiichi",
+    "prompt": "Seiichi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Seki, Naomichi",
+    "prompt": "Seki, Naomichi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/275638.jpg?s=ae15fdfc91720107c96b04ed3d59adf7"
+  },
+  {
+    "name": "Sekiguchi, Junzou",
+    "prompt": "Sekiguchi, Junzou from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/274705.jpg?s=421df6461178a6e0bdbdd5b2b4c2fa1a"
+  },
+  {
+    "name": "Shibata, Kyouhei",
+    "prompt": "Shibata, Kyouhei from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Shirakawa, Katsuyuki",
+    "prompt": "Shirakawa, Katsuyuki from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/274269.jpg?s=807fb0c5362cf2145caf71824d6342a0"
+  },
+  {
+    "name": "Shirasu, Kenjirou",
+    "prompt": "Shirasu, Kenjirou from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/254645.jpg?s=fb1980e86bbdc17635efede8b0d7cf2f"
+  },
+  {
+    "name": "Shouta",
+    "prompt": "Shouta from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tachi, Hiromi",
+    "prompt": "Tachi, Hiromi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/236207.jpg?s=52d8361016c11fa8f644d00c1347ab86"
+  },
+  {
+    "name": "Tadano, Itsuki",
+    "prompt": "Tadano, Itsuki from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/274589.jpg?s=4291fe9f51a464d752ebef2a13af7439"
+  },
+  {
+    "name": "Tahara, Toshihiko",
+    "prompt": "Tahara, Toshihiko from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/279831.jpg?s=e255432d8a84c8a7b331d3b216aa8726"
+  },
+  {
+    "name": "Takahiro, Matsumoto",
+    "prompt": "Takahiro, Matsumoto from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/253001.jpg?s=0aed8f04392576b8478c2598c92a35d9"
+  },
+  {
+    "name": "Takashima, Rei",
+    "prompt": "Takashima, Rei from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/222801.jpg?s=79c0e68e4300d1922bcd575a5812c5a3"
+  },
+  {
+    "name": "Takemoto, Atushi",
+    "prompt": "Takemoto, Atushi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Takigawa, Chris Yuu",
+    "prompt": "Takigawa, Chris Yuu from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/236201.jpg?s=4a947969d53320996531cd65bb436216"
+  },
+  {
+    "name": "Tanaka, Shin",
+    "prompt": "Tanaka, Shin from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/254653.jpg?s=df816eca3e075276d8ec93a521cb71bc"
+  },
+  {
+    "name": "Tanba, Kouichirou",
+    "prompt": "Tanba, Kouichirou from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/224651.jpg?s=ef3a65e590b800c6bd2cada699f770e3"
+  },
+  {
+    "name": "Tanokura",
+    "prompt": "Tanokura from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Todoroki, Raizou",
+    "prompt": "Todoroki, Raizou from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/250923.jpg?s=70b578bb25c2ef0c8654a91e7fd50591"
+  },
+  {
+    "name": "Todoroki, Raichi",
+    "prompt": "Todoroki, Raichi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/250931.jpg?s=187bf81c8c5df52e538a2a4001159db0"
+  },
+  {
+    "name": "Toujou, Hideaki",
+    "prompt": "Toujou, Hideaki from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/280844.jpg?s=dee958df103225607f05b62e251569b5"
+  },
+  {
+    "name": "Ugai, Kazuyoshi",
+    "prompt": "Ugai, Kazuyoshi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/291691.jpg?s=c49da27c5ed34ef45a8329b6f8e3fa31"
+  },
+  {
+    "name": "Umemoto, Sachiko",
+    "prompt": "Umemoto, Sachiko from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/239793.jpg?s=ee5401e191628adcf27da45fcdfb9c67"
+  },
+  {
+    "name": "Yabe, Kouji",
+    "prompt": "Yabe, Kouji from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/274679.jpg?s=712239d3df084e82ab47acf05ab1145c"
+  },
+  {
+    "name": "Yagi, Megumi",
+    "prompt": "Yagi, Megumi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/274227.jpg?s=4dd45bad79b0e9d801522d9a4aedbfd5"
+  },
+  {
+    "name": "Yamaoka, Riku",
+    "prompt": "Yamaoka, Riku from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/274683.jpg?s=0f37d5b13bf74dd5b5b6d14778d16065"
+  },
+  {
+    "name": "Yamauchi, Yutaka",
+    "prompt": "Yamauchi, Yutaka from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/286912.jpg?s=c5c3a23ff097fb049255d7345ae79adc"
+  },
+  {
+    "name": "Yamazaki, Kunio",
+    "prompt": "Yamazaki, Kunio from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/254655.jpg?s=64a3f3034a4c214a06b3554b4464e54d"
+  },
+  {
+    "name": "Yoshikawa, Haruno",
+    "prompt": "Yoshikawa, Haruno from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/224647.jpg?s=99278e9ddcbedcb5891d834236739afd"
+  },
+  {
+    "name": "Yoshizawa, Hideaki",
+    "prompt": "Yoshizawa, Hideaki from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/274593.jpg?s=c2c199709c9ef512276511a5cc7f094b"
+  },
+  {
+    "name": "You, Shunshin",
+    "prompt": "You, Shunshin from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/240175.jpg?s=3109041cf88231d7218b0f160ef74f4f"
+  },
+  {
+    "name": "Yuuichi",
+    "prompt": "Yuuichi from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Yuuki, Tetsuya",
+    "prompt": "Yuuki, Tetsuya from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/235383.jpg?s=4a47fce3346fc2613678832d65c9a9dc"
+  },
+  {
+    "name": "Yuuya",
+    "prompt": "Yuuya from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Zaizen, Naoyuki",
+    "prompt": "Zaizen, Naoyuki from Diamond no Ace",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/235379.jpg?s=ffb19b4fef8f43d3934bafb1c1e70182"
+  }
+]

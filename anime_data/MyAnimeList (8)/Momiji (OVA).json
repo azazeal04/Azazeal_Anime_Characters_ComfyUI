@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Kazuto",
+    "prompt": "Kazuto from Momiji (OVA)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/142215.jpg?s=095c5a4ed4ab7f696b1205d6a8fdd351"
+  },
+  {
+    "name": "Momiji",
+    "prompt": "Momiji from Momiji (OVA)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/142213.jpg?s=71db41b2003e83ad1850753723f7db89"
+  },
+  {
+    "name": "Ayane",
+    "prompt": "Ayane from Momiji (OVA)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/142221.jpg?s=af64891dbbdf98d8474755c15a531b1a"
+  },
+  {
+    "name": "Mari",
+    "prompt": "Mari from Momiji (OVA)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/142219.jpg?s=b3cf41da91279b909197c2d2f549f426"
+  },
+  {
+    "name": "Shizuru",
+    "prompt": "Shizuru from Momiji (OVA)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/142217.jpg?s=778a2dc81efb160d623729a6a2718eb5"
+  }
+]

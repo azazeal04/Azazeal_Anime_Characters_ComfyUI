@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Pac-Man",
+    "prompt": "Pac-Man from We Are PAC-MAN!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/390963.jpg?s=f35c68980cb37eb935f570e4d5d3f529"
+  },
+  {
+    "name": "Blinky",
+    "prompt": "Blinky from We Are PAC-MAN!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/503307.jpg?s=1968e71ae30388d95a01121c3ef01dad"
+  },
+  {
+    "name": "Clyde",
+    "prompt": "Clyde from We Are PAC-MAN!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/493447.jpg?s=b548f128a7aa3a4ad9f0f67d9dd68d73"
+  },
+  {
+    "name": "Pinky",
+    "prompt": "Pinky from We Are PAC-MAN!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/494690.jpg?s=d1e4d55e1ea5c7399f50052d10c23d93"
+  }
+]

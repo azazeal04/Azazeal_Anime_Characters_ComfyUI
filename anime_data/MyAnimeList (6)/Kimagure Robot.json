@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Assistant",
+    "prompt": "Assistant from Kimagure Robot",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/70548.jpg?s=f4ff56d310656c43ff4e0fd58b1de0db"
+  },
+  {
+    "name": "The Doctor",
+    "prompt": "The Doctor from Kimagure Robot",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/70547.jpg?s=dfe4c0df5bd0cd2f8290aed962043972"
+  }
+]

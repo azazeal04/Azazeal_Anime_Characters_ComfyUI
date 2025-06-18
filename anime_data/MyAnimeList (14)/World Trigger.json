@@ -1,0 +1,582 @@
+[
+  {
+    "name": "Amatori, Chika",
+    "prompt": "Amatori, Chika from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/294718.jpg?s=27a0f2792aa97314de12155376b3dfb5"
+  },
+  {
+    "name": "Jin, Yuuichi",
+    "prompt": "Jin, Yuuichi from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/268547.jpg?s=10a9ab046c2d74538bc1e9e292a200da"
+  },
+  {
+    "name": "Kuga, Yuuma",
+    "prompt": "Kuga, Yuuma from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/325835.jpg?s=358f814bc0c02d41767af75c9a9a0ef1"
+  },
+  {
+    "name": "Mikumo, Osamu",
+    "prompt": "Mikumo, Osamu from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/264753.jpg?s=396004c761ee080588b622795b9a599c"
+  },
+  {
+    "name": "Amatori, Rinji",
+    "prompt": "Amatori, Rinji from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/268591.jpg?s=f893d9341d4baa2ae838c11939408cf9"
+  },
+  {
+    "name": "Amou, Tsukihiko",
+    "prompt": "Amou, Tsukihiko from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/287501.jpg?s=0463607d06029585e9749c5da61f77fa"
+  },
+  {
+    "name": "Arafune, Tetsuji",
+    "prompt": "Arafune, Tetsuji from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/434732.jpg?s=e8c4b58c886daa4c80e89029b379d734"
+  },
+  {
+    "name": "Arashiyama, Jun",
+    "prompt": "Arashiyama, Jun from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/430695.jpg?s=950fdf2a64c84613704284387c4e3160"
+  },
+  {
+    "name": "Arashiyama, Saho",
+    "prompt": "Arashiyama, Saho from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/268867.jpg?s=8efd8cf8a3de9a4be955e6edb79ab982"
+  },
+  {
+    "name": "Arashiyama, Fuku",
+    "prompt": "Arashiyama, Fuku from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/268869.jpg?s=637a478f6941fcfae61f3ef3f11736fc"
+  },
+  {
+    "name": "Ayatsuji, Haruka",
+    "prompt": "Ayatsuji, Haruka from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/250547.jpg?s=db3e377b04a7e8ab41e8217681bec7b8"
+  },
+  {
+    "name": "Azuma, Haruaki",
+    "prompt": "Azuma, Haruaki from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/434721.jpg?s=673e51e6e605db4c4250611e96b97c8d"
+  },
+  {
+    "name": "Betsuyaku, Taichi",
+    "prompt": "Betsuyaku, Taichi from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/434731.jpg?s=9892e00f3835486c3a4892ba57867bcf"
+  },
+  {
+    "name": "Bitou",
+    "prompt": "Bitou from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/306858.jpg?s=fedaca92fe5ba1fa9c42ec69b393c820"
+  },
+  {
+    "name": "Chano, Makoto",
+    "prompt": "Chano, Makoto from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/285313.jpg?s=e11f1d37ef8e45c9a3f046afa3a702ec"
+  },
+  {
+    "name": "Charon",
+    "prompt": "Charon from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/298868.jpg?s=9f1f5fe710260f2eae98eb9d4be5da62"
+  },
+  {
+    "name": "Eida",
+    "prompt": "Eida from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/306425.jpg?s=91ce95064cf7a2921af93b20f7d037c7"
+  },
+  {
+    "name": "Ema, Yuzuru",
+    "prompt": "Ema, Yuzuru from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/434737.jpg?s=20d93684b1a7aa8906fd8a79dfa20c23"
+  },
+  {
+    "name": "Enedra",
+    "prompt": "Enedra from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/434728.jpg?s=ea1c2b9362a4d8890f9671b932765482"
+  },
+  {
+    "name": "Fudetani",
+    "prompt": "Fudetani from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/595573.jpg?s=d9d0b74eff2c120717d73ee74d8fe703"
+  },
+  {
+    "name": "Fujisawa, Itsuki",
+    "prompt": "Fujisawa, Itsuki from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/279334.jpg?s=a68baafcbe56917ec7561b80ca0336a4"
+  },
+  {
+    "name": "Futatsugi",
+    "prompt": "Futatsugi from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/268881.jpg?s=a742a274cdd41d31453462872f19f698"
+  },
+  {
+    "name": "Fuyushima, Shinji",
+    "prompt": "Fuyushima, Shinji from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/431860.jpg?s=67f1dbe6b24ee6abb0e39cfe0bf92ffa"
+  },
+  {
+    "name": "Gatlin",
+    "prompt": "Gatlin from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/475377.jpg?s=935a223ec7f0018a5210b669a65e2d17"
+  },
+  {
+    "name": "Gieve",
+    "prompt": "Gieve from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/297164.jpg?s=58317bc041521acc063498cbbf446f74"
+  },
+  {
+    "name": "Hanzaki, Yoshito",
+    "prompt": "Hanzaki, Yoshito from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/434734.jpg?s=96b3a978334a44970c5680469547ca6e"
+  },
+  {
+    "name": "Harukawa, Aoba",
+    "prompt": "Harukawa, Aoba from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/268593.jpg?s=8603c02a24d35c49980d290e47ee6475"
+  },
+  {
+    "name": "Hatohara, Mirai",
+    "prompt": "Hatohara, Mirai from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/299278.jpg?s=9a97a48aee9ce74542ffb0df407d0913"
+  },
+  {
+    "name": "Hinoe, Hidehide",
+    "prompt": "Hinoe, Hidehide from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/595572.jpg?s=001ff26ea85a8cb78acb11ae2b252ec0"
+  },
+  {
+    "name": "Hitomi, Mako",
+    "prompt": "Hitomi, Mako from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/299583.jpg?s=0b68e43d47f5b3ad8619bc6d3edc8bd0"
+  },
+  {
+    "name": "Hiura, Akane",
+    "prompt": "Hiura, Akane from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/289291.jpg?s=6b6b62db765755aa8d0a3fa5880653fa"
+  },
+  {
+    "name": "Hiyami, Aki",
+    "prompt": "Hiyami, Aki from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/300391.jpg?s=4c535fc9543c36bb720dcaddc6c90781"
+  },
+  {
+    "name": "Hokari, Atsushi",
+    "prompt": "Hokari, Atsushi from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/434733.jpg?s=a050a9ff96d1d70f6d86d12202c233b6"
+  },
+  {
+    "name": "Hyrein",
+    "prompt": "Hyrein from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/430699.jpg?s=7b96090c2b602ec4dc139cbe8d75c64a"
+  },
+  {
+    "name": "Hyuse",
+    "prompt": "Hyuse from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/311591.jpg?s=3d7bb2b3b829900f856b7ba412b7fd39"
+  },
+  {
+    "name": "Ichijou, Yukimaru",
+    "prompt": "Ichijou, Yukimaru from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/512793.jpg?s=6e63eafca93db2233216f200fd476c4b"
+  },
+  {
+    "name": "Ichinose",
+    "prompt": "Ichinose from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/268879.jpg?s=2d7a63fe00ed49e3ddf99e67e220f7d4"
+  },
+  {
+    "name": "Inukai, Sumiharu",
+    "prompt": "Inukai, Sumiharu from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/476363.jpg?s=607c9a1832d680ce6c88e8880551baff"
+  },
+  {
+    "name": "Izumi, Kouhei",
+    "prompt": "Izumi, Kouhei from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/430682.jpg?s=9e21c7adb9eacf20068af3a33fb18e5c"
+  },
+  {
+    "name": "Kagami, Rin",
+    "prompt": "Kagami, Rin from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/287646.jpg?s=d9545b9e7eacdbf8feaa04a4ee60b487"
+  },
+  {
+    "name": "Kageura, Masato",
+    "prompt": "Kageura, Masato from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/431876.jpg?s=deb55c6d40d7f1bd610f7a2978c72b59"
+  },
+  {
+    "name": "Kakizaki, Kuniharu",
+    "prompt": "Kakizaki, Kuniharu from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/285840.jpg?s=a2f1c055fa1d4f1e2a4f50e09ab563da"
+  },
+  {
+    "name": "Kako, Nozomi",
+    "prompt": "Kako, Nozomi from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/285328.jpg?s=cbd9d53df69c58501177d3391a39ead1"
+  },
+  {
+    "name": "Karasawa, Katsumi",
+    "prompt": "Karasawa, Katsumi from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/269485.jpg?s=3c8dd2c9e01f4211cbe63903215dadb5"
+  },
+  {
+    "name": "Karasuma, Kyousuke",
+    "prompt": "Karasuma, Kyousuke from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/271987.jpg?s=73ac422243b8c71841d9f726d168ebef"
+  },
+  {
+    "name": "Katagiri, Takaaki",
+    "prompt": "Katagiri, Takaaki from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/285844.jpg?s=cc91898be0be8df23e92c8c3667412a6"
+  },
+  {
+    "name": "Kazama, Souya",
+    "prompt": "Kazama, Souya from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/280438.jpg?s=92f69c464d59c33aec004f134f8d0fe4"
+  },
+  {
+    "name": "Kido, Masamune",
+    "prompt": "Kido, Masamune from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/431857.jpg?s=a3f61adb7dcfc57981d579c7bb1ffd4b"
+  },
+  {
+    "name": "Kikuchihara, Shirou",
+    "prompt": "Kikuchihara, Shirou from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/476792.jpg?s=e637c3b01fa91444501d72bd77ba7ef8"
+  },
+  {
+    "name": "Kinuta, Motokichi",
+    "prompt": "Kinuta, Motokichi from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/269477.jpg?s=3cd2a1ee5f988bb58c2dc1dd062f87b9"
+  },
+  {
+    "name": "Kitazoe, Hiro",
+    "prompt": "Kitazoe, Hiro from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/300079.jpg?s=789d3f346bec4ed0b2a1d2d473e1e9d6"
+  },
+  {
+    "name": "Kitora, Ai",
+    "prompt": "Kitora, Ai from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/247553.jpg?s=0385e1c3f22c4dfe1c3aa2bdc5795349"
+  },
+  {
+    "name": "Kizaki, Reiji",
+    "prompt": "Kizaki, Reiji from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/271985.jpg?s=0eac241cfb3ae8e82984cf98bcfc23f1"
+  },
+  {
+    "name": "Koarai, Noboru",
+    "prompt": "Koarai, Noboru from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/434726.jpg?s=ddf86a612abe2570ad7834c88531a0d6"
+  },
+  {
+    "name": "Kodera, Shouhei",
+    "prompt": "Kodera, Shouhei from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/269493.jpg?s=174551a3a61263d3e4d50d30d7f0f65d"
+  },
+  {
+    "name": "Kon, Yuka",
+    "prompt": "Kon, Yuka from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/289920.jpg?s=1d18a257c4ecdf849c62d9fe5ec9bf8d"
+  },
+  {
+    "name": "Konami, Kirie",
+    "prompt": "Konami, Kirie from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/434738.jpg?s=f1b86b9eba2c132a4e2324766950256a"
+  },
+  {
+    "name": "Kouda, Teruteru",
+    "prompt": "Kouda, Teruteru from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/595545.jpg?s=034048c8171bf5e12bf39f2f20a563ca"
+  },
+  {
+    "name": "Kuga, Yuugo",
+    "prompt": "Kuga, Yuugo from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/285842.jpg?s=bc75121078b3f4137fac12e995f325a1"
+  },
+  {
+    "name": "Kumagai, Yuuko",
+    "prompt": "Kumagai, Yuuko from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/289919.jpg?s=46b1f9259028189ba1e02fca0b9a06c2"
+  },
+  {
+    "name": "Kunichika, Yuu",
+    "prompt": "Kunichika, Yuu from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/284876.jpg?s=49c5ab3397c39263ca849324faddc69a"
+  },
+  {
+    "name": "Kuroe, Futaba",
+    "prompt": "Kuroe, Futaba from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/284884.jpg?s=a6c97beafef6e6e0adcc71e422494c98"
+  },
+  {
+    "name": "Kuruma, Tatsuya",
+    "prompt": "Kuruma, Tatsuya from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/434730.jpg?s=b5c19a45ecd0a805c4ac6c1c8137cb86"
+  },
+  {
+    "name": "Lamia",
+    "prompt": "Lamia from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/297049.jpg?s=de59e98317513ba75c04382c704db0ae"
+  },
+  {
+    "name": "Lilith",
+    "prompt": "Lilith from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/297162.jpg?s=792fb0e7c5717740acbb66ab7b7edda0"
+  },
+  {
+    "name": "Midorikawa, Shun",
+    "prompt": "Midorikawa, Shun from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/268891.jpg?s=f8ee73c882d25f42756c013e63d07e4e"
+  },
+  {
+    "name": "Mikami, Kaho",
+    "prompt": "Mikami, Kaho from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/275210.jpg?s=853d1846fb35fceedf2c5c33c743a789"
+  },
+  {
+    "name": "Mikumo, Kasumi",
+    "prompt": "Mikumo, Kasumi from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/285849.jpg?s=c041dae333295d37418432d3a2bd2119"
+  },
+  {
+    "name": "Mira",
+    "prompt": "Mira from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/284883.jpg?s=251d39ece69e4415c5b254ab5698b2ca"
+  },
+  {
+    "name": "Miwa, Shuuji",
+    "prompt": "Miwa, Shuuji from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/430685.jpg?s=31ac744751a3432bbc36e26c636b7fc1"
+  },
+  {
+    "name": "Miyoshi",
+    "prompt": "Miyoshi from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/268925.jpg?s=8b2fc3dd91735483b7d34aa86ab856c7"
+  },
+  {
+    "name": "Mizunuma-sensei",
+    "prompt": "Mizunuma-sensei from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/268929.jpg?s=7883fe16b8c08180a446048f7738c92a"
+  },
+  {
+    "name": "Moribayashi-sensei",
+    "prompt": "Moribayashi-sensei from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/268973.jpg?s=138c4e1b0ff3fa34352b6b59bde242a3"
+  },
+  {
+    "name": "Murakami, Kou",
+    "prompt": "Murakami, Kou from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/434729.jpg?s=0dd00d15be48abb0f895702f439442be"
+  },
+  {
+    "name": "Narasaka, Tooru",
+    "prompt": "Narasaka, Tooru from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/269469.jpg?s=b15de198f719e1757fd145b4158d82db"
+  },
+  {
+    "name": "Narration",
+    "prompt": "Narration from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nasu, Rei",
+    "prompt": "Nasu, Rei from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/430705.jpg?s=403a43fcecc9c4421261322bb3716327"
+  },
+  {
+    "name": "Natsume, Izuho",
+    "prompt": "Natsume, Izuho from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/285846.jpg?s=f7ae24a815f1d26eb552c582940f917e"
+  },
+  {
+    "name": "Netsuki, Eizou",
+    "prompt": "Netsuki, Eizou from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/269465.jpg?s=a1a928abf1d65334650019a16a37c634"
+  },
+  {
+    "name": "Ninomiya, Masataka",
+    "prompt": "Ninomiya, Masataka from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/300392.jpg?s=763e20a488386fa8713b437ade497e56"
+  },
+  {
+    "name": "Nire, Hikari",
+    "prompt": "Nire, Hikari from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/300388.jpg?s=dec7c8aca2a42820885c88fe1328000b"
+  },
+  {
+    "name": "Okudera, Tsuneyuki",
+    "prompt": "Okudera, Tsuneyuki from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/434727.jpg?s=37cd6c60d489ba75d6d1415e7ed57ff5"
+  },
+  {
+    "name": "Osano, Rui",
+    "prompt": "Osano, Rui from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/284875.jpg?s=fd4ed23016d592f3d1fe0b3670da0cf1"
+  },
+  {
+    "name": "Ranbanein",
+    "prompt": "Ranbanein from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/430702.jpg?s=961d7d98b838ef539a3aa53207ffc7d5"
+  },
+  {
+    "name": "Raymond",
+    "prompt": "Raymond from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/595574.jpg?s=6607f00b67f2491d7d8f45bfe0f49779"
+  },
+  {
+    "name": "Replica",
+    "prompt": "Replica from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/262365.jpg?s=5f8e0e2024d278bf1178e625720b8861"
+  },
+  {
+    "name": "Rindou, Youtarou",
+    "prompt": "Rindou, Youtarou from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/270061.jpg?s=1f51d18b03fc1059d5ac7a28ada1846d"
+  },
+  {
+    "name": "Rindou, Takumi",
+    "prompt": "Rindou, Takumi from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/270063.jpg?s=b51ddfc2e12dcd3bf102c4eee176f663"
+  },
+  {
+    "name": "Saotome, Fumifumi",
+    "prompt": "Saotome, Fumifumi from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/595535.jpg?s=bbc8100e439392f3ba9a7b77ae6c16fc"
+  },
+  {
+    "name": "Sasamori, Hisato",
+    "prompt": "Sasamori, Hisato from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/285880.jpg?s=540f66698fb93bc2169c81a6bd117aba"
+  },
+  {
+    "name": "Satori, Ken",
+    "prompt": "Satori, Ken from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/430696.jpg?s=746930e4e8325d8bd07dc815aadfcbca"
+  },
+  {
+    "name": "Sawamura, Kyouko",
+    "prompt": "Sawamura, Kyouko from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/268951.jpg?s=6df76382b7309d0ba0e227a6d250f738"
+  },
+  {
+    "name": "Shiihara",
+    "prompt": "Shiihara from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/306427.jpg?s=bb06bf084c55f806f3ab3bf34bdaf95f"
+  },
+  {
+    "name": "Shiki, Sayoko",
+    "prompt": "Shiki, Sayoko from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/289352.jpg?s=2535229084e90d173880a7b500611202"
+  },
+  {
+    "name": "Shinoda, Masafumi",
+    "prompt": "Shinoda, Masafumi from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/269479.jpg?s=724ccd2dafaac14893d406cf0d7e062c"
+  },
+  {
+    "name": "Suwa, Koutarou",
+    "prompt": "Suwa, Koutarou from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/434719.jpg?s=b0f8b23222e2aceafaa60ef4fee2ef74"
+  },
+  {
+    "name": "Tachikawa, Kei",
+    "prompt": "Tachikawa, Kei from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/284873.jpg?s=56f2c8e1d4029736a5c5d0d215e2fb7f"
+  },
+  {
+    "name": "Takeda, Kokoa",
+    "prompt": "Takeda, Kokoa from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/297251.jpg?s=66c68fb588af4aee46b9f36baef1d862"
+  },
+  {
+    "name": "Taketomi, Sakurako",
+    "prompt": "Taketomi, Sakurako from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/287098.jpg?s=2d41635364f3f8a7fea3b70ec4127dfb"
+  },
+  {
+    "name": "Terashima, Raizou",
+    "prompt": "Terashima, Raizou from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/299276.jpg?s=e89821bb60bfeddbc199843fa3fcb961"
+  },
+  {
+    "name": "Teruya, Fumika",
+    "prompt": "Teruya, Fumika from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/432266.jpg?s=e984e06675f8e0effa306a50ef560e89"
+  },
+  {
+    "name": "Tokieda, Mitsuru",
+    "prompt": "Tokieda, Mitsuru from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/268873.jpg?s=82c737fe465e1269e0fd293132c9638b"
+  },
+  {
+    "name": "Tomoe, Kotarou",
+    "prompt": "Tomoe, Kotarou from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/432268.jpg?s=5ece82034cfbbdb7e1bdcf5810036c7d"
+  },
+  {
+    "name": "Touma, Isami",
+    "prompt": "Touma, Isami from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/430706.jpg?s=39c4505d312e5f5cd74931e3b7f8bd4a"
+  },
+  {
+    "name": "Tsuji, Shinnosuke",
+    "prompt": "Tsuji, Shinnosuke from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/300076.jpg?s=28da751d1ebcb72fcdf8ff400c9c74d5"
+  },
+  {
+    "name": "Tsukimi, Ren",
+    "prompt": "Tsukimi, Ren from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/284877.jpg?s=a855c7587dd150e83455d6c47ffd77ed"
+  },
+  {
+    "name": "Tsutsumi, Daichi",
+    "prompt": "Tsutsumi, Daichi from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/284871.jpg?s=dcfa10a5134f8ababc4c4a75e0a065f9"
+  },
+  {
+    "name": "Usami, Shiori",
+    "prompt": "Usami, Shiori from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/287650.jpg?s=be624e4980480ee10d23b5a8ba3fc047"
+  },
+  {
+    "name": "Utagawa, Ryou",
+    "prompt": "Utagawa, Ryou from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/286741.jpg?s=e213aa7dad5601346ce5901f1d6fcbcd"
+  },
+  {
+    "name": "Vittano",
+    "prompt": "Vittano from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/595575.jpg?s=37ec6a153dd6269a37d874ac15059672"
+  },
+  {
+    "name": "Viza",
+    "prompt": "Viza from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/430703.jpg?s=f26be7a887941412c6d11689db8fb092"
+  },
+  {
+    "name": "Xeno",
+    "prompt": "Xeno from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/297163.jpg?s=6637639a5090ed655a65b96d2b69f9d3"
+  },
+  {
+    "name": "Yoneya, Yousuke",
+    "prompt": "Yoneya, Yousuke from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/268545.jpg?s=22b53bf2d32fe81c6eb974fdcac1bfe6"
+  },
+  {
+    "name": "Yotsuya",
+    "prompt": "Yotsuya from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/268927.jpg?s=59208153c270c9a08d8605c50a8f5c55"
+  },
+  {
+    "name": "Yuiga, Takeru",
+    "prompt": "Yuiga, Takeru from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/300080.jpg?s=f496c6643488f117e52000d4feee7f6f"
+  },
+  {
+    "name": "Yuitsuka, Karin",
+    "prompt": "Yuitsuka, Karin from World Trigger",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/475385.jpg?s=29658d91fc00c8844e43394268bce2f1"
+  }
+]

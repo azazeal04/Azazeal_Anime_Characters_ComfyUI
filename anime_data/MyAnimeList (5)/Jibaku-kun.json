@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Baku",
+    "prompt": "Baku from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/556001.jpg?s=b1ab1e4687635843a6f73638e543fdd1"
+  },
+  {
+    "name": "Jibaku-kun",
+    "prompt": "Jibaku-kun from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/187585.jpg?s=74260961d89ef965c77e6320036112b2"
+  },
+  {
+    "name": "Kai",
+    "prompt": "Kai from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/553655.jpg?s=e33832f6a847ae0b3fde92c808c4fa1c"
+  },
+  {
+    "name": "Pink",
+    "prompt": "Pink from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/553763.jpg?s=a47f2a27920aee0d5222d9dd2b5b4e56"
+  },
+  {
+    "name": "Alibaba",
+    "prompt": "Alibaba from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/552800.jpg?s=bfe557d27481e2cb08baa9e04a417909"
+  },
+  {
+    "name": "Amano",
+    "prompt": "Amano from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/552864.jpg?s=de58ff281de4e230cb16511ab0b0ac8c"
+  },
+  {
+    "name": "Ash",
+    "prompt": "Ash from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/472192.jpg?s=fbe85de7323f19f0575c9cb7bda4c62c"
+  },
+  {
+    "name": "Baku's Father",
+    "prompt": "Baku's Father from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/552916.jpg?s=ac30e7781f0b938a81583cba4396cfa4"
+  },
+  {
+    "name": "Chara",
+    "prompt": "Chara from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/552923.jpg?s=63ef3dd8f83ad2566f60614a6c28dbaf"
+  },
+  {
+    "name": "Chicky",
+    "prompt": "Chicky from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/553334.jpg?s=6e98774aa7f94ad7d6eb5f2fee3c49bd"
+  },
+  {
+    "name": "D'Artagnan",
+    "prompt": "D'Artagnan from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/305073.jpg?s=86b9e844d8253e0ec3db1a266f2c3f73"
+  },
+  {
+    "name": "Dead",
+    "prompt": "Dead from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/553006.jpg?s=aad9981f0673f0caca6fb35346c7cab3"
+  },
+  {
+    "name": "En",
+    "prompt": "En from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/552251.jpg?s=52307f69ac5c827f43c86444cc445aae"
+  },
+  {
+    "name": "Hayate",
+    "prompt": "Hayate from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/349585.jpg?s=bdb7f3aa1acd6ba207edf58fd77a6749"
+  },
+  {
+    "name": "Hyou",
+    "prompt": "Hyou from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/553234.jpg?s=cba591258164a5be4866445c570e3185"
+  },
+  {
+    "name": "Jann",
+    "prompt": "Jann from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/552848.jpg?s=f3d7574a5f927f91197b7e77926ee8e7"
+  },
+  {
+    "name": "Jibaku Ou",
+    "prompt": "Jibaku Ou from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/553105.jpg?s=1087c4b73eb64db435ac1dc0242a397c"
+  },
+  {
+    "name": "Live",
+    "prompt": "Live from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/553004.jpg?s=43ffa76fd33310b689632436b3c22155"
+  },
+  {
+    "name": "Lucy",
+    "prompt": "Lucy from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/553155.jpg?s=c79d54cebc4aa5cb043092a36e34c7c9"
+  },
+  {
+    "name": "Master Funen",
+    "prompt": "Master Funen from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/552930.jpg?s=3a7de126133b8b642780fb3f41cbf945"
+  },
+  {
+    "name": "Purim",
+    "prompt": "Purim from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/552995.jpg?s=1a28bcdad0d933386ec55f7e623338b9"
+  },
+  {
+    "name": "Ranmaru",
+    "prompt": "Ranmaru from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/553102.jpg?s=3c7a5f090c0127f183b23af719455747"
+  },
+  {
+    "name": "Silva",
+    "prompt": "Silva from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/552781.jpg?s=0094c29729277cdcc0f34456fd9f8126"
+  },
+  {
+    "name": "Sizma",
+    "prompt": "Sizma from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/552924.jpg?s=75b41a3363bfe56d8486a8165fd28138"
+  },
+  {
+    "name": "Zan",
+    "prompt": "Zan from Jibaku-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/552866.jpg?s=5778d46f4fdad68febe344a4f8218e6c"
+  }
+]

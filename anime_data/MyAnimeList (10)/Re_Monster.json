@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Kichi",
+    "prompt": "Kichi from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/530394.jpg?s=e6bf18e4d8239eb756e9b9db28865a24"
+  },
+  {
+    "name": "Mi",
+    "prompt": "Mi from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/530395.jpg?s=d93d7f6458c52ccf7d93f48ef1596e2d"
+  },
+  {
+    "name": "Rou",
+    "prompt": "Rou from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/576064.jpg?s=4d7b6c086b35606f93e23a8cb4f74d62"
+  },
+  {
+    "name": "Akitainu",
+    "prompt": "Akitainu from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/549803.jpg?s=0af1b7626d556a52bc2542e68b26585d"
+  },
+  {
+    "name": "Apeman",
+    "prompt": "Apeman from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/549826.jpg?s=de18c86ea0277d371ced7ce3b0fc7833"
+  },
+  {
+    "name": "Argento",
+    "prompt": "Argento from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/551596.jpg?s=095f8e9fb874423d360777c8e305c52c"
+  },
+  {
+    "name": "Arue",
+    "prompt": "Arue from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/546810.jpg?s=4f388477fa7aeebf0a1506d036b6d77f"
+  },
+  {
+    "name": "Auro",
+    "prompt": "Auro from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/551653.jpg?s=d29f38e6df1554adf25284538eedf1cc"
+  },
+  {
+    "name": "Clelia",
+    "prompt": "Clelia from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/551591.jpg?s=1acae323d8928a3addee47c93d4619f2"
+  },
+  {
+    "name": "Corail",
+    "prompt": "Corail from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/551446.jpg?s=9110844ff0a9d427a22b00da285490e3"
+  },
+  {
+    "name": "Crowback, Steel",
+    "prompt": "Crowback, Steel from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/548485.jpg?s=04f146913cafd6e3a8e1c02d9fd8d45f"
+  },
+  {
+    "name": "Duboué, Doriane",
+    "prompt": "Duboué, Doriane from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/550015.jpg?s=136d9c839aa817b861e6c3a84fcbf9d3"
+  },
+  {
+    "name": "E",
+    "prompt": "E from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/530392.jpg?s=777b4eb72ed6a586e6a9558f7a5962f7"
+  },
+  {
+    "name": "Eckermann, Therese East",
+    "prompt": "Eckermann, Therese East from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/548486.jpg?s=928a09dd9f2bb7c6de643918834ef5ff"
+  },
+  {
+    "name": "Edmond, Luke Ildana",
+    "prompt": "Edmond, Luke Ildana from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/551335.jpg?s=18e53251d158d598a770d3a1cb2a3cde"
+  },
+  {
+    "name": "Elf Ambassador",
+    "prompt": "Elf Ambassador from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/548509.jpg?s=376966b877a439d85cf92267398c18f5"
+  },
+  {
+    "name": "Elf Chief",
+    "prompt": "Elf Chief from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/546808.jpg?s=5d51a1f3a847e81fb0fb36d0109ce522"
+  },
+  {
+    "name": "Fean, Spinel",
+    "prompt": "Fean, Spinel from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/540319.jpg?s=bc51228117700dfffdd016267bc9d4a4"
+  },
+  {
+    "name": "Fu",
+    "prompt": "Fu from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/553177.jpg?s=9f42580ea170fb3c67058ebcf2bc4086"
+  },
+  {
+    "name": "Furado, Emery",
+    "prompt": "Furado, Emery from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/540318.jpg?s=87c5ed5f550a588220a73cd919d155a3"
+  },
+  {
+    "name": "Fuuki",
+    "prompt": "Fuuki from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/552314.jpg?s=ecad91cc41d451e361deb0dedf2a5a04"
+  },
+  {
+    "name": "Genki",
+    "prompt": "Genki from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/552313.jpg?s=23846beeee096c546cf333082f4a7bb0"
+  },
+  {
+    "name": "Gob Ken",
+    "prompt": "Gob Ken from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/544731.jpg?s=b97e3225c8bb5768fe3d720a144f09a4"
+  },
+  {
+    "name": "Ji",
+    "prompt": "Ji from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/546755.jpg?s=43f171541c92cec340cdba5902643b61"
+  },
+  {
+    "name": "Jii",
+    "prompt": "Jii from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/283355.jpg?s=53753e20a59964be3fc067cece1f7948"
+  },
+  {
+    "name": "Kirue",
+    "prompt": "Kirue from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/546811.jpg?s=d3fc96b2a7a459a2a013a75e549f6f24"
+  },
+  {
+    "name": "Lokkarta, Phillippo Berd",
+    "prompt": "Lokkarta, Phillippo Berd from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/549119.jpg?s=ea1633af589151cc0cd46a30f9756bf0"
+  },
+  {
+    "name": "Me",
+    "prompt": "Me from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/553172.jpg?s=4dfab58629f1a2cd3aecbc56a445e976"
+  },
+  {
+    "name": "Netsuki",
+    "prompt": "Netsuki from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/549823.jpg?s=90f3ac2eeca31781c67d70eca0e45895"
+  },
+  {
+    "name": "Returner",
+    "prompt": "Returner from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/545701.jpg?s=5924513c65cb9a599b1365aac90b7c7d"
+  },
+  {
+    "name": "Rheinfall, Esseba Failo",
+    "prompt": "Rheinfall, Esseba Failo from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/547583.jpg?s=d56be5c18d46089cec5bf749b29c3461"
+  },
+  {
+    "name": "Rheinfall, Mail Failo",
+    "prompt": "Rheinfall, Mail Failo from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/547584.jpg?s=86f802c942837c863cf0bede0499f5e4"
+  },
+  {
+    "name": "Rin",
+    "prompt": "Rin from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/552312.jpg?s=292842c0192dc944880cfb7b5e9ec250"
+  },
+  {
+    "name": "Rubiria",
+    "prompt": "Rubiria from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/543244.jpg?s=f44f10eaff0a4f4a623454a7a83d049a"
+  },
+  {
+    "name": "Sato",
+    "prompt": "Sato from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/540317.jpg?s=bbb1437a4b6010796044646052c310c7"
+  },
+  {
+    "name": "Sei",
+    "prompt": "Sei from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/540316.jpg?s=2e2ac9112a4161b15c12b3c593c53df2"
+  },
+  {
+    "name": "Shay, McCool",
+    "prompt": "Shay, McCool from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/550530.jpg?s=f8e7312eac3b5c4b709f9f25df627668"
+  },
+  {
+    "name": "Timiano, Felicia",
+    "prompt": "Timiano, Felicia from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/540314.jpg?s=c2faec28692b2c2a21b37cc7a2b2a0b8"
+  },
+  {
+    "name": "Timiano, Alma",
+    "prompt": "Timiano, Alma from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/540313.jpg?s=42a273a1ac3954e85ba056dcaf19ccfa"
+  },
+  {
+    "name": "Walline, Rubellia",
+    "prompt": "Walline, Rubellia from Re:Monster",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/530396.jpg?s=a3d9bae8d76ee43443e9165335ac6294"
+  }
+]

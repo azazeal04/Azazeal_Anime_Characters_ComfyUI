@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Carla",
+    "prompt": "Carla from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/550098.jpg?s=9a84d8c6b0818d11efb7a0762ad31c2f"
+  },
+  {
+    "name": "Lum",
+    "prompt": "Lum from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498938.jpg?s=c7f9df1cf99bdd63df896e1b0b6bbaeb"
+  },
+  {
+    "name": "Mendou, Shuutarou",
+    "prompt": "Mendou, Shuutarou from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/474083.jpg?s=a3c18306602610eaf019e09ef53f0021"
+  },
+  {
+    "name": "Moroboshi, Ataru",
+    "prompt": "Moroboshi, Ataru from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/461388.jpg?s=b6f173c46d0055ba8984a1b1b8aa9e24"
+  },
+  {
+    "name": "Rupa",
+    "prompt": "Rupa from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/374421.jpg?s=1a78203237489cbe7d15481feca6c848"
+  },
+  {
+    "name": "Akira",
+    "prompt": "Akira from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/114470.jpg?s=2c43a00bb336f8f8022ddc2ae5253448"
+  },
+  {
+    "name": "Ataru's Father",
+    "prompt": "Ataru's Father from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/374359.jpg?s=7f08c41ab5eb981f0886d1212c373ea2"
+  },
+  {
+    "name": "Ataru's Mother",
+    "prompt": "Ataru's Mother from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/163339.jpg?s=a121c12071a28682d71e2973971199e2"
+  },
+  {
+    "name": "Benten",
+    "prompt": "Benten from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/498946.jpg?s=a34a90107e82ef9914103932e90a9ac8"
+  },
+  {
+    "name": "Fujinami, Ryuunosuke",
+    "prompt": "Fujinami, Ryuunosuke from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498935.jpg?s=d6321a9eb936d9a132d73f7fb6347a86"
+  },
+  {
+    "name": "Hiroyuki",
+    "prompt": "Hiroyuki from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/341963.jpg?s=8d71fff82c7ae4cf033639eae2ec93f3"
+  },
+  {
+    "name": "Inaba",
+    "prompt": "Inaba from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/374407.jpg?s=c2f81ae0dd609cfbe8995a9b7a81980e"
+  },
+  {
+    "name": "Lum's Father",
+    "prompt": "Lum's Father from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/338012.jpg?s=cc62e8b3c087ef271efef4d995ffe8eb"
+  },
+  {
+    "name": "Lum's Mother",
+    "prompt": "Lum's Mother from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/374344.jpg?s=ff4088ecdc06d7906a9d3e8162cb0b7c"
+  },
+  {
+    "name": "Lum's Great-Grandfather",
+    "prompt": "Lum's Great-Grandfather from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/338171.jpg?s=ae1b772626a9c8ed81f5878c77a10bed"
+  },
+  {
+    "name": "Miyake, Shinobu",
+    "prompt": "Miyake, Shinobu from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/474085.jpg?s=a862be4f78d5272b503f18f95a010fbf"
+  },
+  {
+    "name": "Onsen-Mark",
+    "prompt": "Onsen-Mark from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498947.jpg?s=60eaaa201f8eae964561f6bdc47493c6"
+  },
+  {
+    "name": "Oyuki",
+    "prompt": "Oyuki from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/498945.jpg?s=7f0a50f53774264bd7bcc76cb308ed7e"
+  },
+  {
+    "name": "Perm",
+    "prompt": "Perm from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/341964.jpg?s=fa5d2be482078848ed4fe1ceb8478c84"
+  },
+  {
+    "name": "Principal",
+    "prompt": "Principal from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/374376.jpg?s=7c66c717ff3fa6daaffeba5d46679b89"
+  },
+  {
+    "name": "Ran",
+    "prompt": "Ran from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/483386.jpg?s=ced87f5ff74ca90ca9a9c4647adece7b"
+  },
+  {
+    "name": "Rei",
+    "prompt": "Rei from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/498944.jpg?s=c7217e53739e7bfc8a37e3133e53a1b7"
+  },
+  {
+    "name": "Ryuunosuke's Father",
+    "prompt": "Ryuunosuke's Father from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/341518.jpg?s=4e556dabeda5035f06ca59fd6f9b4346"
+  },
+  {
+    "name": "Sakura",
+    "prompt": "Sakura from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/474086.jpg?s=5ffa6f10c7dbb98923ee94736558ca80"
+  },
+  {
+    "name": "Sakuranbou",
+    "prompt": "Sakuranbou from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/474088.jpg?s=5d5a299ef8f023f9ff83cf00dd8f5196"
+  },
+  {
+    "name": "Satoshi",
+    "prompt": "Satoshi from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/500393.jpg?s=8f7a0a6ca2cc00501e831121826bffd9"
+  },
+  {
+    "name": "Shirai, Kousuke",
+    "prompt": "Shirai, Kousuke from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/437797.jpg?s=6a394e8e6f3a5ee6704e98ded2f1ec7c"
+  },
+  {
+    "name": "Ten",
+    "prompt": "Ten from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/498940.jpg?s=c3985dad4a47da4250458eb402866556"
+  },
+  {
+    "name": "Upa",
+    "prompt": "Upa from Urusei Yatsura Movie 5: Kanketsu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/550097.jpg?s=6e2d28d6be984c0271c44f09a76de707"
+  }
+]

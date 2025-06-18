@@ -1,0 +1,267 @@
+[
+  {
+    "name": "Andou, Takashi",
+    "prompt": "Andou, Takashi from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/412157.jpg?s=49f200b52d18ea96276c4b7b86255846"
+  },
+  {
+    "name": "Majima, Makoto",
+    "prompt": "Majima, Makoto from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/574706.jpg?s=418fba7031d2d86e8c58ec0eea880b4b"
+  },
+  {
+    "name": "Ozaki, Kyouichi",
+    "prompt": "Ozaki, Kyouichi from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/412159.jpg?s=9af054495aa5a77cf81bf21eaf86ee21"
+  },
+  {
+    "name": "140★Ryuusei",
+    "prompt": "140★Ryuusei from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/447759.jpg?s=818fe61db4d9f55608503f1926e0d2f2"
+  },
+  {
+    "name": "Crow",
+    "prompt": "Crow from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/542035.jpg?s=96bc2bd6e58b4de8948912d28d221074"
+  },
+  {
+    "name": "Fujimoto, Mitsuki",
+    "prompt": "Fujimoto, Mitsuki from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/423626.jpg?s=cad78c7e6bb39ddc13352fc9e4c250fd"
+  },
+  {
+    "name": "Guo, Shungui",
+    "prompt": "Guo, Shungui from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/542101.jpg?s=1799eb438b85ddb1ddda474ae3074080"
+  },
+  {
+    "name": "Hayama, Tsukasa",
+    "prompt": "Hayama, Tsukasa from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/542161.jpg?s=0de1de19ebc8eb76a67d1ce65e7e7b02"
+  },
+  {
+    "name": "Hayama, Chihiro",
+    "prompt": "Hayama, Chihiro from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/542160.jpg?s=8ce800254ced7dc477de62cb009472f3"
+  },
+  {
+    "name": "Hisano, Toshiki",
+    "prompt": "Hisano, Toshiki from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/542154.jpg?s=a6110aa8c7820b077eafd7ec2bc105eb"
+  },
+  {
+    "name": "Ikeuchi, Hiroto",
+    "prompt": "Ikeuchi, Hiroto from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/412160.jpg?s=265d0b46bc2ade1c395dc12f81d4b324"
+  },
+  {
+    "name": "Interviewer",
+    "prompt": "Interviewer from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/542165.jpg?s=fe393ba2e9363e9efdd20d16df623fc1"
+  },
+  {
+    "name": "Isogai, Tomomi",
+    "prompt": "Isogai, Tomomi from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/412156.jpg?s=363441a81b1adc931900d37556ee0f14"
+  },
+  {
+    "name": "Jouchi, Fumika",
+    "prompt": "Jouchi, Fumika from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/542155.jpg?s=1be647676dc21e0b55905c1cb853c7ec"
+  },
+  {
+    "name": "Kurashina, Mion",
+    "prompt": "Kurashina, Mion from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/458984.jpg?s=57a9c88d21988dca381644c57b2b858a"
+  },
+  {
+    "name": "Lin, Gaotai",
+    "prompt": "Lin, Gaotai from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/542097.jpg?s=9e5278cbab0a49c1a991d7214cbf8724"
+  },
+  {
+    "name": "Majima, Ritsuko",
+    "prompt": "Majima, Ritsuko from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/542146.jpg?s=593ebd37e249a119bf33474f7df6ad4f"
+  },
+  {
+    "name": "Matsuda, Akihiro",
+    "prompt": "Matsuda, Akihiro from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/542134.jpg?s=4f0ea22cca9db10eff1b481796cfa41f"
+  },
+  {
+    "name": "Matsuda, Harumi",
+    "prompt": "Matsuda, Harumi from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/542135.jpg?s=09a13ff38692ad15760398ea47f418bd"
+  },
+  {
+    "name": "Matsuoka, Misako",
+    "prompt": "Matsuoka, Misako from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/542105.jpg?s=cdd33f072f7a8cb3e6a5a41de4552b81"
+  },
+  {
+    "name": "Mion's Mother",
+    "prompt": "Mion's Mother from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/542147.jpg?s=3bfbed0536ccad53fdea71249951eb01"
+  },
+  {
+    "name": "Misako's Husband",
+    "prompt": "Misako's Husband from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/542104.jpg?s=7707be620d9840e08bfa35d1fdfdea23"
+  },
+  {
+    "name": "Mori, Masa",
+    "prompt": "Mori, Masa from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nagai, Rintarou",
+    "prompt": "Nagai, Rintarou from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/542109.jpg?s=0ce569f8e1ee69fffdb6e5a949cb13b1"
+  },
+  {
+    "name": "Naganuma, Shinji",
+    "prompt": "Naganuma, Shinji from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/542153.jpg?s=a294a963b9a903ad46fd2028d5e3e485"
+  },
+  {
+    "name": "Nanjou, Yasuhiro",
+    "prompt": "Nanjou, Yasuhiro from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/542136.jpg?s=af3214f5d379459a4501684769b348e4"
+  },
+  {
+    "name": "Old Man Torii",
+    "prompt": "Old Man Torii from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/542158.jpg?s=f5f61b328d64caecd8d4eaf57892465c"
+  },
+  {
+    "name": "Ookoshi",
+    "prompt": "Ookoshi from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/542148.jpg?s=ad159527ec86e9694691e05791d50d57"
+  },
+  {
+    "name": "Oonuki, Kazushi",
+    "prompt": "Oonuki, Kazushi from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/542152.jpg?s=11eada9326a50c91b07e99baa5a3a792"
+  },
+  {
+    "name": "Oonuki, Yui",
+    "prompt": "Oonuki, Yui from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/542151.jpg?s=1f8156f2033e26669146a4c336fba0f4"
+  },
+  {
+    "name": "Otokawa, Eiji",
+    "prompt": "Otokawa, Eiji from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/542162.jpg?s=33398104f28f477e1e6f18b42eb8c515"
+  },
+  {
+    "name": "President Ooki",
+    "prompt": "President Ooki from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/542145.jpg?s=cc641a02e864efb1d4230df8a24af748"
+  },
+  {
+    "name": "Saitou, Fujio",
+    "prompt": "Saitou, Fujio from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/542150.jpg?s=8120758bcef399e00184b7f40fb640ba"
+  },
+  {
+    "name": "Saitou, Gong",
+    "prompt": "Saitou, Gong from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/542143.jpg?s=1faa2a4ca4ee187a22b787959c2d6220"
+  },
+  {
+    "name": "Shadow",
+    "prompt": "Shadow from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/425232.jpg?s=f43789c83500944ef37c8ccef0a2a0a5"
+  },
+  {
+    "name": "Tamotsu, Minoru",
+    "prompt": "Tamotsu, Minoru from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/542067.jpg?s=de8bee92648f349b1563e484a7b6da49"
+  },
+  {
+    "name": "Taniguchi, Masaru",
+    "prompt": "Taniguchi, Masaru from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/435222.jpg?s=1e93b955528ed45ef8be8d2990840b99"
+  },
+  {
+    "name": "ToDoBaShi Destroyer Z1",
+    "prompt": "ToDoBaShi Destroyer Z1 from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/542141.jpg?s=fcd40ed5763047e6886b299384106178"
+  },
+  {
+    "name": "ToDoBaShi Destroyer Z2",
+    "prompt": "ToDoBaShi Destroyer Z2 from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/542140.jpg?s=074ef9bf41140d8d7f3050cf9ba8abb5"
+  },
+  {
+    "name": "ToDoBaShi Destroyer Z3",
+    "prompt": "ToDoBaShi Destroyer Z3 from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/542138.jpg?s=e0a9463d15725f805667f17cb25c869b"
+  },
+  {
+    "name": "ToDoBaShi Destroyer Z4",
+    "prompt": "ToDoBaShi Destroyer Z4 from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/542137.jpg?s=768a45870f007555be9c018bee445dcf"
+  },
+  {
+    "name": "Toshiaki",
+    "prompt": "Toshiaki from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/542149.jpg?s=2d08b479d11c096e60dc9ad9e2c48ad5"
+  },
+  {
+    "name": "Tsukamoto, Kouzou",
+    "prompt": "Tsukamoto, Kouzou from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/542159.jpg?s=817a4bc5811634620c67338915e4d99d"
+  },
+  {
+    "name": "Utsumi, Shigeyuki",
+    "prompt": "Utsumi, Shigeyuki from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/542163.jpg?s=6ea78c9794db1ef2d5bd736b0e58b5b5"
+  },
+  {
+    "name": "Yamamoto",
+    "prompt": "Yamamoto from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/542144.jpg?s=0eb89d37dde172be5fd1cd33eb3f9d3f"
+  },
+  {
+    "name": "Yamashita",
+    "prompt": "Yamashita from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/542157.jpg?s=103e461c827b84941b5c5aa04369446a"
+  },
+  {
+    "name": "Yamashita, Meifaa",
+    "prompt": "Yamashita, Meifaa from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/542156.jpg?s=5b767562bb49917313f1d8b06ffcb369"
+  },
+  {
+    "name": "Yang, Feng",
+    "prompt": "Yang, Feng from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/542103.jpg?s=16d550f663abd3f8b26d8061f8e1d912"
+  },
+  {
+    "name": "Yokoi, Cheadle",
+    "prompt": "Yokoi, Cheadle from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/542142.jpg?s=8b550be2a2b330976b24b2ca35e2e2fa"
+  },
+  {
+    "name": "Yokoyama, Reiichirou",
+    "prompt": "Yokoyama, Reiichirou from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/423625.jpg?s=2f05d910403b50b2224789eb7173bc34"
+  },
+  {
+    "name": "Yoshimatsu, Tooru",
+    "prompt": "Yoshimatsu, Tooru from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/542164.jpg?s=47041b5f4fdec0c08189410331e48ca6"
+  },
+  {
+    "name": "Yoshioka",
+    "prompt": "Yoshioka from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/423627.jpg?s=00aa2133af382cb8ba995bf9e0865936"
+  },
+  {
+    "name": "Zero One",
+    "prompt": "Zero One from Ikebukuro West Gate Park",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/542068.jpg?s=387cf5d42f6e3f70e1db4bde945b092d"
+  }
+]

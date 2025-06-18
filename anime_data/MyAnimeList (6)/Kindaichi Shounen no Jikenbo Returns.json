@@ -1,0 +1,397 @@
+[
+  {
+    "name": "Kindaichi, Hajime",
+    "prompt": "Kindaichi, Hajime from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/289646.jpg?s=d03f0546ec434fcd208b970de73f514b"
+  },
+  {
+    "name": "Nanase, Miyuki",
+    "prompt": "Nanase, Miyuki from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/289645.jpg?s=fbc47c71f7c75b213823bcf52580541a"
+  },
+  {
+    "name": "Aino, Shuuji",
+    "prompt": "Aino, Shuuji from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/262139.jpg?s=5c659e47ee45e9997a21bddcae5c00d5"
+  },
+  {
+    "name": "Akashiba, Daiki",
+    "prompt": "Akashiba, Daiki from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/247387.jpg?s=b67aa1543fdf604a3c56e082437612bd"
+  },
+  {
+    "name": "Akechi, Kengo",
+    "prompt": "Akechi, Kengo from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/297262.jpg?s=0bd81c6bca25a9ab4d2e3e010ede743e"
+  },
+  {
+    "name": "Akimine, Akane",
+    "prompt": "Akimine, Akane from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/262311.jpg?s=e07592fd726f176702e45a1b6d81acd0"
+  },
+  {
+    "name": "Aoi, Reiji",
+    "prompt": "Aoi, Reiji from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/262337.jpg?s=3d43afd384c8c8535fc97f4cf7ef467d"
+  },
+  {
+    "name": "Busujima, Riku",
+    "prompt": "Busujima, Riku from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/262335.jpg?s=9f93bb86a5daa91bf31df51d930f1931"
+  },
+  {
+    "name": "Chan, Yongu",
+    "prompt": "Chan, Yongu from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/241811.jpg?s=4a9f1921422cac0432b3d82b7c0f3f6b"
+  },
+  {
+    "name": "Daigo, Maki",
+    "prompt": "Daigo, Maki from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/249013.jpg?s=8a521726182e52e8bea7ae5bf7f1b2a2"
+  },
+  {
+    "name": "Enami, Yurika",
+    "prompt": "Enami, Yurika from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/262123.jpg?s=adfe4956a28a6355e31b256cc3920192"
+  },
+  {
+    "name": "Enkouji, Shinobu",
+    "prompt": "Enkouji, Shinobu from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/247379.jpg?s=cce6b29f89ef8c0d0474e7de66b2274c"
+  },
+  {
+    "name": "Fan",
+    "prompt": "Fan from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/248911.jpg?s=80e07b627039078dec81756586fcc327"
+  },
+  {
+    "name": "Fujimori, Akira",
+    "prompt": "Fujimori, Akira from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/247391.jpg?s=5467ee4c1e6e5833619ad4e778883214"
+  },
+  {
+    "name": "Fukamori, Hotaru",
+    "prompt": "Fukamori, Hotaru from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/247383.jpg?s=0910d6e5e7e114bfb86fa28ed4b63ead"
+  },
+  {
+    "name": "Hama, Akiko",
+    "prompt": "Hama, Akiko from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/262127.jpg?s=cc103506a4d676738b7aea2fad4a5c99"
+  },
+  {
+    "name": "Han",
+    "prompt": "Han from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/248913.jpg?s=8e0d21189d67c1e2f6327613c59a6c51"
+  },
+  {
+    "name": "Hayami, Reika",
+    "prompt": "Hayami, Reika from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/247389.jpg?s=adb0e5161adffd9c68bb3231129aeebe"
+  },
+  {
+    "name": "Hayamiya, Aoi",
+    "prompt": "Hayamiya, Aoi from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/262319.jpg?s=37c42720eec41148367d2598b977cf86"
+  },
+  {
+    "name": "Ishida, Maria",
+    "prompt": "Ishida, Maria from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/262301.jpg?s=a17522c98215a0f3e1b67dc7b50a7618"
+  },
+  {
+    "name": "Isshiki, Rikako",
+    "prompt": "Isshiki, Rikako from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/247393.jpg?s=03d99daf92de535f486165a1324e43f9"
+  },
+  {
+    "name": "Itsukushima, Ranko",
+    "prompt": "Itsukushima, Ranko from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/262129.jpg?s=c2a1f15b7b6d7032d25131e55948d14e"
+  },
+  {
+    "name": "Kagaya, Yui",
+    "prompt": "Kagaya, Yui from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/262297.jpg?s=61ba85db1478cfd40dd9f07cf8d4d0e6"
+  },
+  {
+    "name": "Kaidou, Hitomi",
+    "prompt": "Kaidou, Hitomi from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/262131.jpg?s=d10c0ff53fa45519851113f0969a7df9"
+  },
+  {
+    "name": "Kamioka, Fuuma",
+    "prompt": "Kamioka, Fuuma from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/247373.jpg?s=032ddd4c0613c29432720a5c13f95bea"
+  },
+  {
+    "name": "Kenmochi, Kazue",
+    "prompt": "Kenmochi, Kazue from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/362149.jpg?s=4acc9d413a809668db4e406ecc54a65f"
+  },
+  {
+    "name": "Kenmochi, Isamu",
+    "prompt": "Kenmochi, Isamu from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/105380.jpg?s=54f932726b56bebbe7918009571beea1"
+  },
+  {
+    "name": "Kikukawa, Kozue",
+    "prompt": "Kikukawa, Kozue from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/262347.jpg?s=e53fe25c32802726e413b0f1bb375dae"
+  },
+  {
+    "name": "Kim, Long Dong",
+    "prompt": "Kim, Long Dong from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/242835.jpg?s=877288fa6018eb9bf6212bb6dcf97af5"
+  },
+  {
+    "name": "Kirisawa, Tooru",
+    "prompt": "Kirisawa, Tooru from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/262133.jpg?s=918c3f815c88e844d5d532a54b8f4844"
+  },
+  {
+    "name": "Koganei, Mamoru",
+    "prompt": "Koganei, Mamoru from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/262305.jpg?s=f904abab297965c023b45f87a9832aaa"
+  },
+  {
+    "name": "Komori, Ryousuke",
+    "prompt": "Komori, Ryousuke from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/262333.jpg?s=3f80691384ea16719e802810a011a95c"
+  },
+  {
+    "name": "Konoe, Motohiko",
+    "prompt": "Konoe, Motohiko from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/262135.jpg?s=8eae83e291ccb148ab5026d738d07a7d"
+  },
+  {
+    "name": "Kuchinuma, Suekichi",
+    "prompt": "Kuchinuma, Suekichi from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/247371.jpg?s=0a468c998eb9a78271017cff71c39105"
+  },
+  {
+    "name": "Kujiragi, Daisuke",
+    "prompt": "Kujiragi, Daisuke from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/262137.jpg?s=2379a82725baefe984e6313c2eece51f"
+  },
+  {
+    "name": "Li, Pai Long",
+    "prompt": "Li, Pai Long from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/241807.jpg?s=84d8bb3b32e52c9c8a199bd94c903c46"
+  },
+  {
+    "name": "Liu, Ivy",
+    "prompt": "Liu, Ivy from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/241809.jpg?s=9a1f28dd99a5a531841cc72942410d5b"
+  },
+  {
+    "name": "Master",
+    "prompt": "Master from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/262309.jpg?s=732d2d5294f1eabb71fd1fc1f4ae05e6"
+  },
+  {
+    "name": "Mayumura, Takuya",
+    "prompt": "Mayumura, Takuya from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/247381.jpg?s=62be115023f8190ba520352eeb33378c"
+  },
+  {
+    "name": "Mei, Jin",
+    "prompt": "Mei, Jin from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/248905.jpg?s=efc6f7e90fe9766ffc140bf29057008c"
+  },
+  {
+    "name": "Mikage, Satsuki",
+    "prompt": "Mikage, Satsuki from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/247375.jpg?s=b9d6966df792be0df1ef251acd9c294e"
+  },
+  {
+    "name": "Mitarai, Yukio",
+    "prompt": "Mitarai, Yukio from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/248909.jpg?s=812dea82d8522782625f914eeba055f0"
+  },
+  {
+    "name": "Mizogishi",
+    "prompt": "Mizogishi from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/262141.jpg?s=783422e0037f54d2034cdb6394d7e1da"
+  },
+  {
+    "name": "Mizuki, Runa",
+    "prompt": "Mizuki, Runa from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/262323.jpg?s=389defd81bdc499d16926aeaf286f81a"
+  },
+  {
+    "name": "Momoyama, Akari",
+    "prompt": "Momoyama, Akari from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/262295.jpg?s=09688af013db0ff77739276d19812398"
+  },
+  {
+    "name": "Moroi, Ren",
+    "prompt": "Moroi, Ren from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/262143.jpg?s=762ebe9932ad07b18f569e29b32e7db6"
+  },
+  {
+    "name": "Mother Kindaichi",
+    "prompt": "Mother Kindaichi from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/157873.jpg?s=3d650872a5d1800088ec8e2e308dc78d"
+  },
+  {
+    "name": "Mugibayashi, Mika",
+    "prompt": "Mugibayashi, Mika from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/262343.jpg?s=23cff6ad7e31e4253792062f20e19b11"
+  },
+  {
+    "name": "Murakami, Souta",
+    "prompt": "Murakami, Souta from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/262121.jpg?s=779370a7cb517d6030e30e7a44ba3852"
+  },
+  {
+    "name": "Nakayashiki, Manabu",
+    "prompt": "Nakayashiki, Manabu from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/262145.jpg?s=95190812cac6bcddfc8f62b314915e61"
+  },
+  {
+    "name": "Nijieda, Mitsuyo",
+    "prompt": "Nijieda, Mitsuyo from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/262317.jpg?s=9dd761faa1e42bde8c28ce79bd90754b"
+  },
+  {
+    "name": "Okazaki, Koujirou",
+    "prompt": "Okazaki, Koujirou from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/262315.jpg?s=9a435ef677d319952d1983374b6ee940"
+  },
+  {
+    "name": "Onizawa, Ryuuko",
+    "prompt": "Onizawa, Ryuuko from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/247385.jpg?s=5a819ac8d1afd65d69c576b09ec4a10c"
+  },
+  {
+    "name": "Oogoshi, Yutaka",
+    "prompt": "Oogoshi, Yutaka from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/262303.jpg?s=e39e0e03944223b054f6b24ba5f2d79a"
+  },
+  {
+    "name": "Saki, Ryuuta",
+    "prompt": "Saki, Ryuuta from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/242233.jpg?s=4ff09aed4c8037cb63288cb63215ddff"
+  },
+  {
+    "name": "Sakuma, Takeru",
+    "prompt": "Sakuma, Takeru from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/241815.jpg?s=8abaf63226b38922a24da93807e53aaa"
+  },
+  {
+    "name": "Sekiguchi, Shinobu",
+    "prompt": "Sekiguchi, Shinobu from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/262307.jpg?s=36c1fc5fe13b791b9cf4d3a5f8c2c0be"
+  },
+  {
+    "name": "Shida, Tomoaki",
+    "prompt": "Shida, Tomoaki from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/262299.jpg?s=e6c0ea9afc4204f6763461c895398b69"
+  },
+  {
+    "name": "Shikibu, Seiko",
+    "prompt": "Shikibu, Seiko from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/262147.jpg?s=264da12e96f8dc3e5814c7545d21538f"
+  },
+  {
+    "name": "Shimomura, Ikuma",
+    "prompt": "Shimomura, Ikuma from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/262349.jpg?s=07861a226e73a2bd992a1dbc018b685c"
+  },
+  {
+    "name": "Shimomura, Shiho",
+    "prompt": "Shimomura, Shiho from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/262351.jpg?s=52a510f5122550f10e579950b54f32fe"
+  },
+  {
+    "name": "Shin, Li",
+    "prompt": "Shin, Li from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/241813.jpg?s=9f46d665a2cb1b3196e8152077251c2a"
+  },
+  {
+    "name": "Sugimoto, Jun",
+    "prompt": "Sugimoto, Jun from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/262339.jpg?s=9e4bd0929012e11f54fc321a823f3abf"
+  },
+  {
+    "name": "Tadano",
+    "prompt": "Tadano from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/262357.jpg?s=85f91328aeb43001647d45bd01930da3"
+  },
+  {
+    "name": "Takano, Juri",
+    "prompt": "Takano, Juri from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/262313.jpg?s=09b5d31bbc89f77aae1794a1d4248f18"
+  },
+  {
+    "name": "Takaragi, Shigeru",
+    "prompt": "Takaragi, Shigeru from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/262345.jpg?s=42c78c829b714f7e9e9f1bf2860bc20c"
+  },
+  {
+    "name": "Takatoo, Youichi",
+    "prompt": "Takatoo, Youichi from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/298496.jpg?s=5b59e4125557dcafc4f1d8255f891117"
+  },
+  {
+    "name": "Takigawa, Ryuuta",
+    "prompt": "Takigawa, Ryuuta from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/241799.jpg?s=d4d5cc099f6dc3a19e837a3d63838d19"
+  },
+  {
+    "name": "Tamaki, Takumi",
+    "prompt": "Tamaki, Takumi from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/262325.jpg?s=6be9653983fe93a7fc8e553903847fc7"
+  },
+  {
+    "name": "Tanigawa, Christina",
+    "prompt": "Tanigawa, Christina from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/247377.jpg?s=385be6ef66f1774017f36f38b26239d3"
+  },
+  {
+    "name": "Togami, Marina",
+    "prompt": "Togami, Marina from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/262355.jpg?s=75c63a919b2739362297ec0e5a47abf7"
+  },
+  {
+    "name": "Togami, Erina",
+    "prompt": "Togami, Erina from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/262327.jpg?s=44d03c9f21677b4dd23df2d35a0b4ca6"
+  },
+  {
+    "name": "Ujiie, Takayuki",
+    "prompt": "Ujiie, Takayuki from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/262149.jpg?s=716e70529788e9fea3bf150f59310b28"
+  },
+  {
+    "name": "Uozaki, Youhei",
+    "prompt": "Uozaki, Youhei from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/262329.jpg?s=68028870a162adb78263fcf5cd17250d"
+  },
+  {
+    "name": "Ushio, Miharu",
+    "prompt": "Ushio, Miharu from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/262321.jpg?s=8b7262a627757681bee88e165ea37e00"
+  },
+  {
+    "name": "Wan, Ron",
+    "prompt": "Wan, Ron from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/248907.jpg?s=5a7131c24f56369a205b84387d41c17f"
+  },
+  {
+    "name": "Yan, Ran",
+    "prompt": "Yan, Ran from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/241823.jpg?s=42452c9e5596d9d7487214c587c13d1b"
+  },
+  {
+    "name": "Yoshinaga",
+    "prompt": "Yoshinaga from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/248915.jpg?s=812c0dd7af169d9dab11859dffa36263"
+  },
+  {
+    "name": "Yuunagi, Haruka",
+    "prompt": "Yuunagi, Haruka from Kindaichi Shounen no Jikenbo Returns",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/248903.jpg?s=a4e34378b615f83d4f6868c69a89158c"
+  }
+]

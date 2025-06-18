@@ -1,0 +1,587 @@
+[
+  {
+    "name": "Inokuma, Jigorou",
+    "prompt": "Inokuma, Jigorou from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/336802.jpg?s=312066bda96a56829d2532c7611898d1"
+  },
+  {
+    "name": "Inokuma, Yawara",
+    "prompt": "Inokuma, Yawara from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/308263.jpg?s=a07d0ac4528eb87b0002218129de2c17"
+  },
+  {
+    "name": "Adams, Kristin",
+    "prompt": "Adams, Kristin from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/162123.jpg?s=6df20d78ab6398bb3e4870a95e911238"
+  },
+  {
+    "name": "Arakawa, Seinosuke",
+    "prompt": "Arakawa, Seinosuke from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/266283.jpg?s=d163b47c69b5b3af9e8533725e20ffa5"
+  },
+  {
+    "name": "Belkens",
+    "prompt": "Belkens from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/159211.jpg?s=9bf31fd90ab07863279662521a160e68"
+  },
+  {
+    "name": "Davis",
+    "prompt": "Davis from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/266769.jpg?s=e54e05d70bbd863db713dd828dd6d91f"
+  },
+  {
+    "name": "Deneuve",
+    "prompt": "Deneuve from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/266763.jpg?s=ba910ec7e459c7b626781b0f3b6be081"
+  },
+  {
+    "name": "Fujiwara",
+    "prompt": "Fujiwara from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/266621.jpg?s=2c3a3f3d9c12b06b6e52b17c5a9e54db"
+  },
+  {
+    "name": "Gen-san",
+    "prompt": "Gen-san from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/266059.jpg?s=7329de67e2a97f6bb6ae83a23f5302e9"
+  },
+  {
+    "name": "Gonzales",
+    "prompt": "Gonzales from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/265909.jpg?s=06784f93079e2e3ffcb3621b4677a20e"
+  },
+  {
+    "name": "Gotou, Megumi",
+    "prompt": "Gotou, Megumi from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/266927.jpg?s=a08b630c0869633c5da726d581c1c922"
+  },
+  {
+    "name": "Gotouda, Sumire",
+    "prompt": "Gotouda, Sumire from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/266599.jpg?s=70fdab077bdf2e7435cea7329e56c8b8"
+  },
+  {
+    "name": "Hagoromo, Wife",
+    "prompt": "Hagoromo, Wife from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/266915.jpg?s=0bdce661ee691f50034182a6584b874c"
+  },
+  {
+    "name": "Hagoromo, Chief Clerk",
+    "prompt": "Hagoromo, Chief Clerk from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/254345.jpg?s=8a97f502e1f5205bd399157a04801a53"
+  },
+  {
+    "name": "Hagoromo, Katsuo",
+    "prompt": "Hagoromo, Katsuo from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/266917.jpg?s=0ba5c219a58ebd1b92d694711a38a14e"
+  },
+  {
+    "name": "Hanazono, Fukuko",
+    "prompt": "Hanazono, Fukuko from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/265911.jpg?s=68ee8dd3e239d2ef51cfb6b5d53e3035"
+  },
+  {
+    "name": "Hanazono, Kaoru",
+    "prompt": "Hanazono, Kaoru from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/158457.jpg?s=7d6b7501f8514ebee68745683fcd48bd"
+  },
+  {
+    "name": "Hatakeyama",
+    "prompt": "Hatakeyama from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/159219.jpg?s=3192d01d5f1672f61a367f6b31c9ce71"
+  },
+  {
+    "name": "Hikage, Kyoko",
+    "prompt": "Hikage, Kyoko from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/159997.jpg?s=ae1def83306936f7785d562df39d0e85"
+  },
+  {
+    "name": "Honami, Mother",
+    "prompt": "Honami, Mother from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/267687.jpg?s=e8f62bc3c348cc42502ace93ebe416c5"
+  },
+  {
+    "name": "Honami, Kinnosuke",
+    "prompt": "Honami, Kinnosuke from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/160001.jpg?s=321bdfc5dd608a4fef778131605a49e2"
+  },
+  {
+    "name": "Honami, Sayaka",
+    "prompt": "Honami, Sayaka from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/265743.jpg?s=178b5da6c5bcc93aad6a4194788b7474"
+  },
+  {
+    "name": "Igarashi",
+    "prompt": "Igarashi from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Inagaki",
+    "prompt": "Inagaki from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/265723.jpg?s=b415b25109558768bfaa362fbf1e0576"
+  },
+  {
+    "name": "Inokuma, Kojiro",
+    "prompt": "Inokuma, Kojiro from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/159787.jpg?s=8cf8008a01f3cc705833b1c8419d8fcc"
+  },
+  {
+    "name": "Inokuma, Kaneko",
+    "prompt": "Inokuma, Kaneko from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/159785.jpg?s=11dac3f46331cd6010a05dbd04418145"
+  },
+  {
+    "name": "Inokuma, Tamao",
+    "prompt": "Inokuma, Tamao from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/158463.jpg?s=cde593329dc38dfec948f60dc8882350"
+  },
+  {
+    "name": "Ishikura, Coach",
+    "prompt": "Ishikura, Coach from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/266447.jpg?s=b505d0ba35ade4f68352e04e8f0be5d2"
+  },
+  {
+    "name": "Itou, Mother",
+    "prompt": "Itou, Mother from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/168319.jpg?s=a7a2dd95d4e5ca6b2397228b12786dd4"
+  },
+  {
+    "name": "Itou, Father",
+    "prompt": "Itou, Father from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/266931.jpg?s=bb4ba6bbb8bd3d7fbace1b4f2b119dee"
+  },
+  {
+    "name": "Itou, Fujiko",
+    "prompt": "Itou, Fujiko from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/159711.jpg?s=e23b84234aed96987bdebf63334c0259"
+  },
+  {
+    "name": "Juujou, Michiko",
+    "prompt": "Juujou, Michiko from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/266603.jpg?s=fcd615ff26bf08717c9ed8434625fbab"
+  },
+  {
+    "name": "Kaga, Kuniko",
+    "prompt": "Kaga, Kuniko from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/159713.jpg?s=2c0daa2ae11c93920f70dac7e3f75c80"
+  },
+  {
+    "name": "Kaizuka, Teacher",
+    "prompt": "Kaizuka, Teacher from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/265925.jpg?s=f1a8f85d19c7cbb35257e604a7af9766"
+  },
+  {
+    "name": "Kamata",
+    "prompt": "Kamata from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/265915.jpg?s=b25d6146620891807417edee712b8395"
+  },
+  {
+    "name": "Kamoda",
+    "prompt": "Kamoda from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/158455.jpg?s=f95b8c5053f888de57a845d88e58d1e4"
+  },
+  {
+    "name": "Kaori",
+    "prompt": "Kaori from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/158483.jpg?s=e80e0689eb8565eb10f6decff78f5534"
+  },
+  {
+    "name": "Katagiri",
+    "prompt": "Katagiri from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/265713.jpg?s=da2457c438c17076bfb958a2210a8dd9"
+  },
+  {
+    "name": "Katori, Shinobu",
+    "prompt": "Katori, Shinobu from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/266349.jpg?s=eef57ca2a4f4a9e2b7893d1b4514b2a1"
+  },
+  {
+    "name": "Katsuragi",
+    "prompt": "Katsuragi from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/266611.jpg?s=7c02475a82b30efe294833f92245c441"
+  },
+  {
+    "name": "Kawakami, Teacher",
+    "prompt": "Kawakami, Teacher from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/265933.jpg?s=6e5cc90f73e9222042b4742c752d4017"
+  },
+  {
+    "name": "Kazamatsuri, Father",
+    "prompt": "Kazamatsuri, Father from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kazamatsuri, Shinnosuke",
+    "prompt": "Kazamatsuri, Shinnosuke from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/266929.jpg?s=21bdf2836b173b7ec207451b5d2aaa88"
+  },
+  {
+    "name": "Kazumi",
+    "prompt": "Kazumi from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/159215.jpg?s=c47b6321cc14f5bef9376991413a3fb8"
+  },
+  {
+    "name": "Khrushcheva",
+    "prompt": "Khrushcheva from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/265927.jpg?s=2d24f6d740e6ee73ab98b5d17f0b967c"
+  },
+  {
+    "name": "Kimura",
+    "prompt": "Kimura from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/266909.jpg?s=d5ea9898f037b03491daf4faa780bc8c"
+  },
+  {
+    "name": "Kobayashi",
+    "prompt": "Kobayashi from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/266061.jpg?s=c48f70eb99c497202b747684ff532d3b"
+  },
+  {
+    "name": "Kodama",
+    "prompt": "Kodama from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/266743.jpg?s=4f8514a3415558b9e1dec210f72bf00f"
+  },
+  {
+    "name": "Komiya, Yukari",
+    "prompt": "Komiya, Yukari from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/159999.jpg?s=1636eda2f0e064ab677b74f917b19300"
+  },
+  {
+    "name": "Konoike, Reiko",
+    "prompt": "Konoike, Reiko from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/266605.jpg?s=b57e1edfdfb56f809190ae75813e6041"
+  },
+  {
+    "name": "Kouno",
+    "prompt": "Kouno from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/159217.jpg?s=a28f471a662d34d49e19d15e0a2fcdbc"
+  },
+  {
+    "name": "Kousaka",
+    "prompt": "Kousaka from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/266067.jpg?s=a523c01f3a41fba8734522c1febe5c2d"
+  },
+  {
+    "name": "Kujiraoka",
+    "prompt": "Kujiraoka from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/266277.jpg?s=fa0aa3e415725ac4d97d7967959b18fb"
+  },
+  {
+    "name": "Kunihiko",
+    "prompt": "Kunihiko from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266279.jpg?s=5b5984dbc16a58e3452490e8e8f5248f"
+  },
+  {
+    "name": "Kuramochi",
+    "prompt": "Kuramochi from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/265959.jpg?s=84c6273c0711ca28b6d6257c80ae379e"
+  },
+  {
+    "name": "Kurokawa, Tomoko",
+    "prompt": "Kurokawa, Tomoko from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/266345.jpg?s=d4519c99b51cb73ea6462bcd509819c2"
+  },
+  {
+    "name": "Li",
+    "prompt": "Li from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/265907.jpg?s=c6c9d5b5df677c8c26d50d7137601a08"
+  },
+  {
+    "name": "Makita",
+    "prompt": "Makita from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/265961.jpg?s=a7c06d34621d2642b2cc1c2e5ad5b2a2"
+  },
+  {
+    "name": "Martinez",
+    "prompt": "Martinez from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/266759.jpg?s=fdfb1fb6afc69afae220ab69fd8e4783"
+  },
+  {
+    "name": "Matsuda, Mother",
+    "prompt": "Matsuda, Mother from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/266341.jpg?s=2720f312d9e521bb48deef8d9c5b2622"
+  },
+  {
+    "name": "Matsuda, Kousaku",
+    "prompt": "Matsuda, Kousaku from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/266933.jpg?s=2e637efddb2594f02a3bb8fd9ae90b86"
+  },
+  {
+    "name": "Matsuda, Father",
+    "prompt": "Matsuda, Father from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/266449.jpg?s=3dad419acdf5e88717372fc612cc5d8e"
+  },
+  {
+    "name": "Mimieux",
+    "prompt": "Mimieux from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/266773.jpg?s=0ff2e92f9bfcf6bdb748b02606cebdaa"
+  },
+  {
+    "name": "Minamida, Youko",
+    "prompt": "Minamida, Youko from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/162125.jpg?s=646454778fcbbed908c56454b5780e4d"
+  },
+  {
+    "name": "Mitsuhashi, Yoshiko",
+    "prompt": "Mitsuhashi, Yoshiko from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/266925.jpg?s=de5055d71b2e7c20f80450bd13f5f39d"
+  },
+  {
+    "name": "Mochida, Noriko",
+    "prompt": "Mochida, Noriko from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/266751.jpg?s=aed892465b3bd50c393a0746db10fe36"
+  },
+  {
+    "name": "Morechand",
+    "prompt": "Morechand from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/266771.jpg?s=8ccf9734d58125abae7bba28878763ac"
+  },
+  {
+    "name": "Murai",
+    "prompt": "Murai from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/266071.jpg?s=37a69052c39ee30780e7af3d8155a668"
+  },
+  {
+    "name": "Murakami, Manager",
+    "prompt": "Murakami, Manager from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/266765.jpg?s=7bfc5d2d4fe66533b7545006f33ac007"
+  },
+  {
+    "name": "Nikkan Every's Editor-in-Chief",
+    "prompt": "Nikkan Every's Editor-in-Chief from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/159991.jpg?s=f72f322e7c6b103a2f52c685ef06cbff"
+  },
+  {
+    "name": "Nishikimori",
+    "prompt": "Nishikimori from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/265913.jpg?s=23ace7bd7198e0ed018416cae45534ee"
+  },
+  {
+    "name": "Oda, Mari",
+    "prompt": "Oda, Mari from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/159789.jpg?s=a8d0fd3c69f4f2986550a4d7ad3d10a8"
+  },
+  {
+    "name": "Ogaki, Noriko",
+    "prompt": "Ogaki, Noriko from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/266351.jpg?s=87a56f3c3942f3f1900b2139456763cd"
+  },
+  {
+    "name": "Ogami, Kasumi",
+    "prompt": "Ogami, Kasumi from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/266601.jpg?s=02faa3092d59ddf05a0ad892fd5b825d"
+  },
+  {
+    "name": "Ogata, Coach",
+    "prompt": "Ogata, Coach from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/266921.jpg?s=834d10cd18166f01f9de9c4efa9ec621"
+  },
+  {
+    "name": "Ogawa, Tamami",
+    "prompt": "Ogawa, Tamami from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/266063.jpg?s=4b18410b64e776ca9a30644c757707aa"
+  },
+  {
+    "name": "Ogawa",
+    "prompt": "Ogawa from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/266285.jpg?s=6b20b0b51dcd940f28788f1e88360983"
+  },
+  {
+    "name": "Onoda",
+    "prompt": "Onoda from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266923.jpg?s=c56bc705cd3a473284d70649bbd47fb6"
+  },
+  {
+    "name": "Oobayashi, Takayo",
+    "prompt": "Oobayashi, Takayo from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/266755.jpg?s=61e156222c5ddd1b232f9ffec3f672c1"
+  },
+  {
+    "name": "Ootaguro, President",
+    "prompt": "Ootaguro, President from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/266741.jpg?s=7a6679070a3bbf6ead55130bdacc73a2"
+  },
+  {
+    "name": "Ootawara, Older Sister",
+    "prompt": "Ootawara, Older Sister from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/266919.jpg?s=9368c4cf4d8475545d407cc24906166c"
+  },
+  {
+    "name": "Ootawara, Miyoko",
+    "prompt": "Ootawara, Miyoko from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ozaki",
+    "prompt": "Ozaki from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/266749.jpg?s=b818898cdf164f93b999ef0eec164e35"
+  },
+  {
+    "name": "Polnareff",
+    "prompt": "Polnareff from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/229919.jpg?s=b49c31c6d836e753398b73b8e53264bd"
+  },
+  {
+    "name": "Prost",
+    "prompt": "Prost from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/266775.jpg?s=85ce258d2c2294d1c5957e172eec42c7"
+  },
+  {
+    "name": "Rockwell, Jody",
+    "prompt": "Rockwell, Jody from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/159823.jpg?s=f9bb788979f43e063baea7fe5432d64c"
+  },
+  {
+    "name": "Saitou",
+    "prompt": "Saitou from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/265711.jpg?s=e6124ccbcdcec0727918bb89941bf87a"
+  },
+  {
+    "name": "Sasaki",
+    "prompt": "Sasaki from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/162385.jpg?s=b54ca6db91c9fe16c2aa1d8e289a698d"
+  },
+  {
+    "name": "Sei-san",
+    "prompt": "Sei-san from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/266057.jpg?s=d537d85b2847234de28a74b7271d3105"
+  },
+  {
+    "name": "Shimizu",
+    "prompt": "Shimizu from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/230071.jpg?s=bd3af532751c9bbbadbfe0eb4c6df516"
+  },
+  {
+    "name": "Simard, Rene",
+    "prompt": "Simard, Rene from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/266337.jpg?s=7dda0b57b921e95db9fae42fdaf2721e"
+  },
+  {
+    "name": "Soviet Coach",
+    "prompt": "Soviet Coach from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/266767.jpg?s=7d8f18bbc89a2982cc17b9c259575963"
+  },
+  {
+    "name": "Sudou",
+    "prompt": "Sudou from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/158459.jpg?s=e9baf0453051ecf3566b5d5e92c780db"
+  },
+  {
+    "name": "Sugai, Branch Manager",
+    "prompt": "Sugai, Branch Manager from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/266913.jpg?s=c35f8774b8b9a01efdd7a436dc7c62b3"
+  },
+  {
+    "name": "Tamaranch, President",
+    "prompt": "Tamaranch, President from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/159709.jpg?s=2822a3f44eb5a0ad8140b88bfe3f7c6a"
+  },
+  {
+    "name": "Tao",
+    "prompt": "Tao from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/266339.jpg?s=bf1cbcb1c81a40030f86c0f02cd99dc0"
+  },
+  {
+    "name": "Teleshikova, Anna",
+    "prompt": "Teleshikova, Anna from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/159209.jpg?s=78b752567ba83c9de562ee1690cabb0a"
+  },
+  {
+    "name": "Todo, Yuki",
+    "prompt": "Todo, Yuki from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/159213.jpg?s=1e86643adb2d70f341c9b9766d5d0ae9"
+  },
+  {
+    "name": "Tokunaga",
+    "prompt": "Tokunaga from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/158473.jpg?s=2e5b2030e1229c822edcc3c7aab39df6"
+  },
+  {
+    "name": "Tomioka",
+    "prompt": "Tomioka from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/159221.jpg?s=1f9d404d4a220642f419eab9b1b454bd"
+  },
+  {
+    "name": "Ueda",
+    "prompt": "Ueda from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/265963.jpg?s=630867dfb091ce08dd2fefd73fb5a673"
+  },
+  {
+    "name": "Usami",
+    "prompt": "Usami from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/266745.jpg?s=59c360e9df8699208453b1730ecb891a"
+  },
+  {
+    "name": "Ushio, Umanosuke",
+    "prompt": "Ushio, Umanosuke from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/266275.jpg?s=c3b4417d1899fe3c5ffa6145ea16aeb3"
+  },
+  {
+    "name": "Ushio, Toranosuke",
+    "prompt": "Ushio, Toranosuke from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/266273.jpg?s=bead3f81c3d14cf47adc6d4dda50c3a9"
+  },
+  {
+    "name": "Uzaki, Megumi",
+    "prompt": "Uzaki, Megumi from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/266347.jpg?s=054b49b3d73a11d6dae797b1ff387b93"
+  },
+  {
+    "name": "Yamada, Kaori",
+    "prompt": "Yamada, Kaori from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/266343.jpg?s=a2aecb37069d52a70186181219dceedb"
+  },
+  {
+    "name": "Yamashita, Yasuhiro",
+    "prompt": "Yamashita, Yasuhiro from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/266055.jpg?s=90fcf698953dbd90c8f2a9f3919654bd"
+  },
+  {
+    "name": "Yanagisawa, Coach",
+    "prompt": "Yanagisawa, Coach from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/266757.jpg?s=716b89a6591871e2b000efaa9a0d70dc"
+  },
+  {
+    "name": "Yasui",
+    "prompt": "Yasui from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/159207.jpg?s=7f93c39180d7389b7361340b6fc30460"
+  },
+  {
+    "name": "Yoshida",
+    "prompt": "Yoshida from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/265721.jpg?s=2d8dda53f418b956b402fe937531de58"
+  },
+  {
+    "name": "Yoshida",
+    "prompt": "Yoshida from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/266911.jpg?s=c760c9eeb8a1d3e6d64824b615d4b277"
+  },
+  {
+    "name": "Yoshinagawa, Sayuri",
+    "prompt": "Yoshinagawa, Sayuri from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/162127.jpg?s=b8272905dd584faf97440c17dd7da2b5"
+  },
+  {
+    "name": "Young-suk, Kim",
+    "prompt": "Young-suk, Kim from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/266053.jpg?s=2b10bf1a6e903608a1304c036e357878"
+  },
+  {
+    "name": "Yugoslavian Taxi Driver",
+    "prompt": "Yugoslavian Taxi Driver from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/266761.jpg?s=b8fe2d577b84675c5fc893ae2410ffd5"
+  },
+  {
+    "name": "Yumioka, Mayumi",
+    "prompt": "Yumioka, Mayumi from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/266753.jpg?s=32fa083eca67607f500c589bf9a6aff8"
+  },
+  {
+    "name": "Yuutenji, Gouzou",
+    "prompt": "Yuutenji, Gouzou from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/159995.jpg?s=98441290972cd3014d3375641e1ef0f8"
+  },
+  {
+    "name": "Zen-san",
+    "prompt": "Zen-san from Yawara!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/266065.jpg?s=fc9de570a85b38042eaa2a2b50e55266"
+  }
+]

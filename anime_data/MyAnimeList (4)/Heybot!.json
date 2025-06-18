@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Heybot",
+    "prompt": "Heybot from Heybot!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/312324.jpg?s=00075f39f9db77ab5da3fd74b82f24c9"
+  },
+  {
+    "name": "Negil, Nejiru",
+    "prompt": "Negil, Nejiru from Heybot!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/312326.jpg?s=ad580bd5ccc5d6f04aff7573002c2dec"
+  },
+  {
+    "name": "Chigiiru, Chigiru",
+    "prompt": "Chigiiru, Chigiru from Heybot!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/440387.jpg?s=0995f822a86266c473ab84ab26c006b0"
+  },
+  {
+    "name": "Macaroni",
+    "prompt": "Macaroni from Heybot!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/415011.jpg?s=9fda1e236fa36c4521757856c959b748"
+  },
+  {
+    "name": "Nejiyanagi, Yuuko",
+    "prompt": "Nejiyanagi, Yuuko from Heybot!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/424374.jpg?s=ce293551a4ee25c26266b47cc291569c"
+  },
+  {
+    "name": "Peyket",
+    "prompt": "Peyket from Heybot!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/437438.jpg?s=a544af9f5cce86bb688019cbfe59c05f"
+  },
+  {
+    "name": "Suchat",
+    "prompt": "Suchat from Heybot!",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Vocammy",
+    "prompt": "Vocammy from Heybot!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/343614.jpg?s=6f6e8b8ad827e020f6c5a95f4d302cd0"
+  }
+]

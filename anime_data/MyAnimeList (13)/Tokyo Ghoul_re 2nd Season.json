@@ -1,0 +1,412 @@
+[
+  {
+    "name": "Kaneki, Ken",
+    "prompt": "Kaneki, Ken from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/307255.jpg?s=a3b352a4950d3231677668626b1a95f4"
+  },
+  {
+    "name": "Mutsuki, Tooru",
+    "prompt": "Mutsuki, Tooru from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/484468.jpg?s=0fe13a20aa34bc236bc5a5535e9a9024"
+  },
+  {
+    "name": "Sasaki, Haise",
+    "prompt": "Sasaki, Haise from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/484466.jpg?s=f34eb23d5a1d387a9109460279051cdf"
+  },
+  {
+    "name": "Urie, Kuki",
+    "prompt": "Urie, Kuki from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/484467.jpg?s=226da64fe25dc12ca2eda304ce53ebce"
+  },
+  {
+    "name": "Yonebayashi, Saiko",
+    "prompt": "Yonebayashi, Saiko from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/362131.jpg?s=adcc75f4505e3634bc4876ca76cfba0a"
+  },
+  {
+    "name": "Amon, Koutarou",
+    "prompt": "Amon, Koutarou from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/251453.jpg?s=cf7bdc7cb409357d69720b0aee488ff6"
+  },
+  {
+    "name": "Arima, Kishou",
+    "prompt": "Arima, Kishou from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/257935.jpg?s=774409608456392dcaca31f53234bb53"
+  },
+  {
+    "name": "Arima, Yusa",
+    "prompt": "Arima, Yusa from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/369316.jpg?s=33cb78ad2f71bc689a00fe03ee5cd6d8"
+  },
+  {
+    "name": "Aura, Shinsanpei",
+    "prompt": "Aura, Shinsanpei from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/368385.jpg?s=46965f92c8089815c746ca78d3643621"
+  },
+  {
+    "name": "Banjou, Kazuichi",
+    "prompt": "Banjou, Kazuichi from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/258499.jpg?s=f4c8bd78f37677f38a47a8e28b8e7056"
+  },
+  {
+    "name": "Enji, Koma",
+    "prompt": "Enji, Koma from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/257941.jpg?s=f6702db6de1a2f2829577a566d3e43ce"
+  },
+  {
+    "name": "Eto",
+    "prompt": "Eto from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/276501.jpg?s=6bd3d1eda8082217b36d0e2ff2d8775f"
+  },
+  {
+    "name": "Fueguchi, Hinami",
+    "prompt": "Fueguchi, Hinami from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/263269.jpg?s=847a2a380804cf8e0c70b2dc2d5e2f17"
+  },
+  {
+    "name": "Fura, Taishi",
+    "prompt": "Fura, Taishi from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/293712.jpg?s=fc5cf682dd484a249a3eeea286b2f981"
+  },
+  {
+    "name": "Furuta, Nimura",
+    "prompt": "Furuta, Nimura from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/359236.jpg?s=db935be926dfef1a7553deba629ef295"
+  },
+  {
+    "name": "Hachikawa, Chuu",
+    "prompt": "Hachikawa, Chuu from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/368394.jpg?s=a73511aa1adc6aa26563cc7f224d166b"
+  },
+  {
+    "name": "Haisaki, Shinme",
+    "prompt": "Haisaki, Shinme from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/369805.jpg?s=32f1499e8d9fd0438a5f9324d72f6bcb"
+  },
+  {
+    "name": "Hanbee, Abara",
+    "prompt": "Hanbee, Abara from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/357866.jpg?s=a132a025461f06854224d42f968ef4c9"
+  },
+  {
+    "name": "Hazuki, Hajime",
+    "prompt": "Hazuki, Hajime from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/371119.jpg?s=ae2d18dc5326d700334bc22395e421c1"
+  },
+  {
+    "name": "Higemaru, Touma",
+    "prompt": "Higemaru, Touma from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/448819.jpg?s=b6029b63a1be9eaed54ec7c4f79e0273"
+  },
+  {
+    "name": "Hirako, Take",
+    "prompt": "Hirako, Take from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/356024.jpg?s=ad15601aa4f81a12c46a380b0650a533"
+  },
+  {
+    "name": "Hogi, Ayumu",
+    "prompt": "Hogi, Ayumu from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/368387.jpg?s=7a019e1eb287803aeacbadcbf64a3eb3"
+  },
+  {
+    "name": "Hoito, Roma",
+    "prompt": "Hoito, Roma from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/320517.jpg?s=d7104803cfaad1999eb1b76a3f1cf209"
+  },
+  {
+    "name": "Hooguro",
+    "prompt": "Hooguro from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/361264.jpg?s=60b50a1cea032e76d5d86b990e8faae9"
+  },
+  {
+    "name": "Hori, Chie",
+    "prompt": "Hori, Chie from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/297386.jpg?s=eb0b9e059a10733b023b5db7d254a94e"
+  },
+  {
+    "name": "Houji, Kousuke",
+    "prompt": "Houji, Kousuke from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/276349.jpg?s=2a5681ed8c678474ecb20cc2861f7ace"
+  },
+  {
+    "name": "Hsiao, Ching-Li",
+    "prompt": "Hsiao, Ching-Li from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/368388.jpg?s=4d830802a7164f4a837936f1048ecb6b"
+  },
+  {
+    "name": "Ichimi",
+    "prompt": "Ichimi from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/260097.jpg?s=3deafaabb4deb26a158208439dc348a8"
+  },
+  {
+    "name": "Idera, Shousei",
+    "prompt": "Idera, Shousei from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/368393.jpg?s=d45ebba606e9f3d039226ed33d66685a"
+  },
+  {
+    "name": "Ihei, Shio",
+    "prompt": "Ihei, Shio from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/369317.jpg?s=6a820783f21ee081c47952d15d2525ee"
+  },
+  {
+    "name": "Irimi, Kaya",
+    "prompt": "Irimi, Kaya from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/274837.jpg?s=9ff4e20b10596ddcc082bb7ea3626818"
+  },
+  {
+    "name": "Itori",
+    "prompt": "Itori from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/254475.jpg?s=2254f6b076a1b434cd0d658722c2df0c"
+  },
+  {
+    "name": "Itou, Kuramoto",
+    "prompt": "Itou, Kuramoto from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/356022.jpg?s=5150dd33d4ed418f42717900eb3a1705"
+  },
+  {
+    "name": "Jiro",
+    "prompt": "Jiro from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/260099.jpg?s=78400039402ae0e23c86e1d8154dd0e6"
+  },
+  {
+    "name": "Kaiko",
+    "prompt": "Kaiko from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/373315.jpg?s=a1c5614ef6c12d5cd6c11ec3827ca603"
+  },
+  {
+    "name": "Kamishiro, Rize",
+    "prompt": "Kamishiro, Rize from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/251965.jpg?s=57d66947438e9fc0d9935c61be760a70"
+  },
+  {
+    "name": "Kamishiro, Matasaka",
+    "prompt": "Kamishiro, Matasaka from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/276511.jpg?s=1cc406aa7c32ebcfc4d95a7bcb636080"
+  },
+  {
+    "name": "Kaneki, Ichika",
+    "prompt": "Kaneki, Ichika from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/444795.jpg?s=bfc1a8138cc58bff7a453d57e051a0f6"
+  },
+  {
+    "name": "Kanou, Akihiro",
+    "prompt": "Kanou, Akihiro from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/339852.jpg?s=bedd8a6492bed4f6cbfe97d57118015d"
+  },
+  {
+    "name": "Kirishima, Hikari",
+    "prompt": "Kirishima, Hikari from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/301922.jpg?s=b612658026984ea4946b2b711d7c1f9a"
+  },
+  {
+    "name": "Kirishima, Touka",
+    "prompt": "Kirishima, Touka from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/234699.jpg?s=10ef474344779135236911013b0925fc"
+  },
+  {
+    "name": "Kirishima, Arata",
+    "prompt": "Kirishima, Arata from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/257939.jpg?s=981db328545db4da789e8ff5f4830535"
+  },
+  {
+    "name": "Kirishima, Ayato",
+    "prompt": "Kirishima, Ayato from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/258501.jpg?s=c45a7939e0741dcc583be3cf50b1adca"
+  },
+  {
+    "name": "Kuroiwa, Takeomi",
+    "prompt": "Kuroiwa, Takeomi from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/356017.jpg?s=9b9bdfc07065da7ce6b4e9eb15fee35b"
+  },
+  {
+    "name": "Kuroiwa, Iwao",
+    "prompt": "Kuroiwa, Iwao from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/276505.jpg?s=bd76793fff97527213f6f19962346b45"
+  },
+  {
+    "name": "Kusakari, Miza",
+    "prompt": "Kusakari, Miza from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/357625.jpg?s=c13f98cc6151e675b0313920c59a0bfa"
+  },
+  {
+    "name": "Mabuchi, Katsuya",
+    "prompt": "Mabuchi, Katsuya from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/370091.jpg?s=fd3a334eb7a27307f344fb5d0cc55859"
+  },
+  {
+    "name": "Mado, Akira",
+    "prompt": "Mado, Akira from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/276517.jpg?s=dc071c84b523361357f4faa0a605a517"
+  },
+  {
+    "name": "Marude, Itsuki",
+    "prompt": "Marude, Itsuki from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/298436.jpg?s=f15b4596245c5c8928051606446a69fc"
+  },
+  {
+    "name": "Mikage, Miyuki",
+    "prompt": "Mikage, Miyuki from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/359238.jpg?s=6e7e9eb5a7a35a6952da1a1c2cc1805b"
+  },
+  {
+    "name": "Nagachika, Hideyoshi",
+    "prompt": "Nagachika, Hideyoshi from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/290838.jpg?s=631b2803bd832aab25b443203e05e4d2"
+  },
+  {
+    "name": "Nakarai, Keijin",
+    "prompt": "Nakarai, Keijin from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/359235.jpg?s=9a4eb7d0605e42176f9d48084052cde2"
+  },
+  {
+    "name": "Naki",
+    "prompt": "Naki from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/276500.jpg?s=ee8c251ccf6e0a50a63fcc0b992eb3e2"
+  },
+  {
+    "name": "Nico",
+    "prompt": "Nico from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/258485.jpg?s=298f3d4b5cbfaf39c52c2c9ff18363b2"
+  },
+  {
+    "name": "Nishino, Kimi",
+    "prompt": "Nishino, Kimi from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/262473.jpg?s=03d9c43a0897f1a91c6ecf2c0f274812"
+  },
+  {
+    "name": "Nishio, Nishiki",
+    "prompt": "Nishio, Nishiki from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/259333.jpg?s=1b62f45068a28795c3cb331463e75e49"
+  },
+  {
+    "name": "Ogura, Hisashi",
+    "prompt": "Ogura, Hisashi from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/368390.jpg?s=5dfc2473adc11c480adfb79d912bfd49"
+  },
+  {
+    "name": "Okahira",
+    "prompt": "Okahira from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/369804.jpg?s=f478b0c01de83b00f743c3dd0c54dfb2"
+  },
+  {
+    "name": "Porpora, Donato",
+    "prompt": "Porpora, Donato from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/276502.jpg?s=391f798ce4acba05c370ebf368d000ce"
+  },
+  {
+    "name": "Ruizawa",
+    "prompt": "Ruizawa from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Saeki, Karao",
+    "prompt": "Saeki, Karao from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/356019.jpg?s=c9e5a03e7b8645420c2ff24c0999bb35"
+  },
+  {
+    "name": "Sante",
+    "prompt": "Sante from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/260095.jpg?s=4f41fd3c85a181d3ad9b933c498e936a"
+  },
+  {
+    "name": "Shikorae",
+    "prompt": "Shikorae from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/359813.jpg?s=0151241dbb4f33ab5289ef48ea0be3c1"
+  },
+  {
+    "name": "Shinohara, Yukinori",
+    "prompt": "Shinohara, Yukinori from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/303584.jpg?s=7dfe00ebd9223b723f595722ac64c97b"
+  },
+  {
+    "name": "Shirazu, Ginshi",
+    "prompt": "Shirazu, Ginshi from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/370180.jpg?s=42aae3593f25dfe70c91ff1f5b9e83c8"
+  },
+  {
+    "name": "Shunji, Shiono",
+    "prompt": "Shunji, Shiono from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/369806.jpg?s=5e57f4593fb48fc7022b176e2494d75b"
+  },
+  {
+    "name": "Suzuya, Juuzou",
+    "prompt": "Suzuya, Juuzou from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/275843.jpg?s=a56227409808edb48f5e9cb3c85211b0"
+  },
+  {
+    "name": "Takatsuki, Sen",
+    "prompt": "Takatsuki, Sen from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/285247.jpg?s=8b5ca78f31b4fe51140ae50a27f10ed4"
+  },
+  {
+    "name": "Takizawa, Seidou",
+    "prompt": "Takizawa, Seidou from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/276528.jpg?s=430409ced1eda2ccb54d17b27abf3784"
+  },
+  {
+    "name": "Tamaki, Mizurou",
+    "prompt": "Tamaki, Mizurou from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/362888.jpg?s=4f13832c6caa88e505014dcbf1ad3537"
+  },
+  {
+    "name": "Tanakamaru, Mougan",
+    "prompt": "Tanakamaru, Mougan from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/276532.jpg?s=6ed3dd6ba80758c24970758a9ec1f7fb"
+  },
+  {
+    "name": "Tatara",
+    "prompt": "Tatara from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/258515.jpg?s=c408ee12eaea890a301e2d4512367175"
+  },
+  {
+    "name": "Tsukiyama, Shuu",
+    "prompt": "Tsukiyama, Shuu from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/296873.jpg?s=775d67102b007899c75d8d76490bd0c7"
+  },
+  {
+    "name": "Tsukiyama, Mirumo",
+    "prompt": "Tsukiyama, Mirumo from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/365057.jpg?s=43274e9fb78282b27257944d4b72cd67"
+  },
+  {
+    "name": "Ui, Koori",
+    "prompt": "Ui, Koori from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/298447.jpg?s=fb51fcfab3e9cba5dd14bd7624989956"
+  },
+  {
+    "name": "Urie, Mikito",
+    "prompt": "Urie, Mikito from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/400813.jpg?s=493772aa47bcb35fbd11bfd315ca205e"
+  },
+  {
+    "name": "Uta",
+    "prompt": "Uta from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/259327.jpg?s=aa8d9d2ead39a6add9b0c2cc36bb69b5"
+  },
+  {
+    "name": "Washuu, Yoshitoki",
+    "prompt": "Washuu, Yoshitoki from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/306142.jpg?s=fe371512a054dcba8dd1507785452327"
+  },
+  {
+    "name": "Washuu, Matsuri",
+    "prompt": "Washuu, Matsuri from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/358217.jpg?s=ee94c00bab8b88fd9a6e3a4755db25b1"
+  },
+  {
+    "name": "Yasuhisa, Kurona",
+    "prompt": "Yasuhisa, Kurona from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/275993.jpg?s=8e2d230848f169df628cd6bce7382784"
+  },
+  {
+    "name": "Yomo, Renji",
+    "prompt": "Yomo, Renji from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/259329.jpg?s=2529443c4b9622dfdf093b260cfd68ca"
+  },
+  {
+    "name": "Yoshimura",
+    "prompt": "Yoshimura from Tokyo Ghoul:re 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/256459.jpg?s=b6027f0b98c937a088762554edaec4f5"
+  }
+]

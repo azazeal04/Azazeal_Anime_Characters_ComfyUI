@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Clare",
+    "prompt": "Clare from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/72662.jpg?s=f04218b33471d91e894f02c0f44ebfbb"
+  },
+  {
+    "name": "Raki",
+    "prompt": "Raki from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/90866.jpg?s=1fea3646bac8c20a829f11be569b6ac4"
+  },
+  {
+    "name": "Bandit Leader",
+    "prompt": "Bandit Leader from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/209025.jpg?s=64bd586f371363cfc8142dc6b124d1fd"
+  },
+  {
+    "name": "Claudia",
+    "prompt": "Claudia from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/117144.jpg?s=55ddb93e5e88b8079a49200a13ae13fb"
+  },
+  {
+    "name": "Cynthia",
+    "prompt": "Cynthia from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/292536.jpg?s=9d46b3d0c5b33282012e9c04806ff182"
+  },
+  {
+    "name": "Dauf",
+    "prompt": "Dauf from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/4675.jpg?s=875a401343af9c8f64cfcc8c890384c9"
+  },
+  {
+    "name": "Deneve",
+    "prompt": "Deneve from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/100966.jpg?s=d34043a6b0166a8f23ce54b50d54ab0b"
+  },
+  {
+    "name": "Elena",
+    "prompt": "Elena from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/75473.jpg?s=b62766ca04bbe2862be389c52bd46de6"
+  },
+  {
+    "name": "Ermita",
+    "prompt": "Ermita from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/3576.jpg?s=a2f5c915df7f05c6225d04c049c67d31"
+  },
+  {
+    "name": "Eva",
+    "prompt": "Eva from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/18229.jpg?s=f51feb4d149087793cc58892fc583480"
+  },
+  {
+    "name": "Flora",
+    "prompt": "Flora from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/60887.jpg?s=0472ab1ae0cbd3f177951218fbe2d9a8"
+  },
+  {
+    "name": "Galatea",
+    "prompt": "Galatea from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/37478.jpg?s=a45a8a0c2535da03fd17130be941a915"
+  },
+  {
+    "name": "Galk",
+    "prompt": "Galk from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/106569.jpg?s=92cbf5157bcfa432737e43e1008c28a2"
+  },
+  {
+    "name": "Helen",
+    "prompt": "Helen from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/153169.jpg?s=e6237016cffa35ad8daa7c3d520a1d9f"
+  },
+  {
+    "name": "Hilda",
+    "prompt": "Hilda from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/18225.jpg?s=f575058d00b60e9795c5f2e8d9f9360b"
+  },
+  {
+    "name": "Irene",
+    "prompt": "Irene from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/100965.jpg?s=d631aabe3897519f1c8064dc6c93ca03"
+  },
+  {
+    "name": "Isley",
+    "prompt": "Isley from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/37479.jpg?s=7e8974d9c14fdf94980965304525936a"
+  },
+  {
+    "name": "Jean",
+    "prompt": "Jean from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/36729.jpg?s=0ca01ab4fd1de14fade3772cc1d13de1"
+  },
+  {
+    "name": "Kathia",
+    "prompt": "Kathia from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/18227.jpg?s=6de4af2156c436314c0968e466c49e64"
+  },
+  {
+    "name": "Miria",
+    "prompt": "Miria from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/317745.jpg?s=9c17f7e55efdf620b2c240cefb63029a"
+  },
+  {
+    "name": "Noel",
+    "prompt": "Noel from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/315312.jpg?s=97ac962551877c70fb1a2b8c4c66725c"
+  },
+  {
+    "name": "Ophelia",
+    "prompt": "Ophelia from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/152421.jpg?s=bb539bdbc34912a7a5d7b66a1fb5f4e9"
+  },
+  {
+    "name": "Orsay",
+    "prompt": "Orsay from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/90551.jpg?s=7e01209ed8eeb77cd239b316ed144b66"
+  },
+  {
+    "name": "Priscilla",
+    "prompt": "Priscilla from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/60952.jpg?s=3854c1fcb75fe9739c6073701cbac005"
+  },
+  {
+    "name": "Rafaela",
+    "prompt": "Rafaela from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/222069.jpg?s=2a4fafbf59e75fd692f07f6f733bb32d"
+  },
+  {
+    "name": "Raquel",
+    "prompt": "Raquel from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/18224.jpg?s=55a123fe162f2a27a356f825776ebed8"
+  },
+  {
+    "name": "Riful",
+    "prompt": "Riful from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/305121.jpg?s=0940e729685cb6b69cdf38aa8b40851f"
+  },
+  {
+    "name": "Rigardo",
+    "prompt": "Rigardo from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/60957.jpg?s=05d59f278434d90448bf1568b3843118"
+  },
+  {
+    "name": "Rimuto",
+    "prompt": "Rimuto from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/4679.jpg?s=fa820417570c86cd38ea41cb2a947ba4"
+  },
+  {
+    "name": "Rubel",
+    "prompt": "Rubel from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/325422.jpg?s=df234e4814028e55fb4d094b3a0c0e79"
+  },
+  {
+    "name": "Sid",
+    "prompt": "Sid from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/243133.jpg?s=7c04b79a99d3fec1e0662be18a625237"
+  },
+  {
+    "name": "Sophia",
+    "prompt": "Sophia from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/177535.jpg?s=d998924423f6ee1012f0006278c621a8"
+  },
+  {
+    "name": "Tabitha",
+    "prompt": "Tabitha from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/292511.jpg?s=1559ea5de0d220aedd5ad601478959f4"
+  },
+  {
+    "name": "Teresa",
+    "prompt": "Teresa from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/309238.jpg?s=6c448b3f21166f22e488475b7ac41c68"
+  },
+  {
+    "name": "Undine",
+    "prompt": "Undine from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/311032.jpg?s=a2bf441a5fc388079a355bc2289831de"
+  },
+  {
+    "name": "Veronica",
+    "prompt": "Veronica from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/89046.jpg?s=d08731eb411dcf877b01167137c2f218"
+  },
+  {
+    "name": "Yuma",
+    "prompt": "Yuma from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/294282.jpg?s=8c173f54acd835f7245b7930fc028dc8"
+  },
+  {
+    "name": "Zaki",
+    "prompt": "Zaki from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/103720.jpg?s=d4b34b522d189f28089b1dabe90c7e38"
+  },
+  {
+    "name": "Zelda",
+    "prompt": "Zelda from Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/194905.jpg?s=5aa0e811372d7c695894db1bed395306"
+  }
+]

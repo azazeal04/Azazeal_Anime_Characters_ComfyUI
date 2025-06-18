@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Assistant",
+    "prompt": "Assistant from Tejina-senpai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/385517.jpg?s=ada3923029ee6bb08fae412c8a20d8a5"
+  },
+  {
+    "name": "Senpai",
+    "prompt": "Senpai from Tejina-senpai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/308355.jpg?s=ba999ca6daeacc4b56c7b95bb7985115"
+  },
+  {
+    "name": "Madara-san",
+    "prompt": "Madara-san from Tejina-senpai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/385236.jpg?s=7095dae69f21ff6f77d2367b8212f76f"
+  },
+  {
+    "name": "Masashi",
+    "prompt": "Masashi from Tejina-senpai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/398926.jpg?s=6e4b9425a3d506c61209d970ff6a4009"
+  },
+  {
+    "name": "Mimura",
+    "prompt": "Mimura from Tejina-senpai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/388555.jpg?s=719436c63dd02227390df8ef036087d1"
+  },
+  {
+    "name": "Saki-chan",
+    "prompt": "Saki-chan from Tejina-senpai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/385518.jpg?s=6cfd9acec560d01a4037a0b2ca6ab1c5"
+  },
+  {
+    "name": "Tejina's Sister",
+    "prompt": "Tejina's Sister from Tejina-senpai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/398996.jpg?s=bc5c61e96df07a406d2c1b412958e58c"
+  }
+]

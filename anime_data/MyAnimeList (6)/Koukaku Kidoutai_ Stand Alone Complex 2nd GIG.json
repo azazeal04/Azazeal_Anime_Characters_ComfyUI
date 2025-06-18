@@ -1,0 +1,447 @@
+[
+  {
+    "name": "Aramaki, Daisuke",
+    "prompt": "Aramaki, Daisuke from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/87617.jpg?s=5608efb3c36afddda32ab2951b99807c"
+  },
+  {
+    "name": "Batou",
+    "prompt": "Batou from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/43821.jpg?s=3858b1b79a5f2eabae60221828da5faf"
+  },
+  {
+    "name": "Kusanagi, Motoko",
+    "prompt": "Kusanagi, Motoko from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/314931.jpg?s=1a214c65f95a3528edab6cb4f748261b"
+  },
+  {
+    "name": "Togusa",
+    "prompt": "Togusa from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/463109.jpg?s=5b3681655acd049958ecb569d1219d6d"
+  },
+  {
+    "name": "Adjutant",
+    "prompt": "Adjutant from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/296046.jpg?s=b0c5c96a7bfee6154202a772e4e0c73b"
+  },
+  {
+    "name": "Akafuku",
+    "prompt": "Akafuku from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/282247.jpg?s=f82162fbc5d1e6470cf61a1f051a6066"
+  },
+  {
+    "name": "Akane, Narita",
+    "prompt": "Akane, Narita from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/296041.jpg?s=e6b7d0414fd4ddde55f878b1db967668"
+  },
+  {
+    "name": "Akio, Asuda",
+    "prompt": "Akio, Asuda from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/295955.jpg?s=f6b4e16625bdef81747b7ac57a7b85f1"
+  },
+  {
+    "name": "Analyst",
+    "prompt": "Analyst from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/296032.jpg?s=eb0b9da1f37378473f6a5c256a7ad9d5"
+  },
+  {
+    "name": "Angelica",
+    "prompt": "Angelica from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/295961.jpg?s=fac2176757b25291b84c5d01f2f3bf14"
+  },
+  {
+    "name": "Aonuma",
+    "prompt": "Aonuma from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/295998.jpg?s=9113a9b27540c4c26f20941e50d4734f"
+  },
+  {
+    "name": "Aramaki, Yousuke",
+    "prompt": "Aramaki, Yousuke from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/296051.jpg?s=8a52cc0a15e38eef331d4a548ec2e6e3"
+  },
+  {
+    "name": "Asagi, Ruriko",
+    "prompt": "Asagi, Ruriko from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/292402.jpg?s=b1b6ae752eb0bb3cc7f2151825af1790"
+  },
+  {
+    "name": "Azuma",
+    "prompt": "Azuma from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/380998.jpg?s=0465de9d4eee20335ab93207363f35fa"
+  },
+  {
+    "name": "Borma",
+    "prompt": "Borma from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/295941.jpg?s=86b683b8fd10daa8001a55f56f5e2a7c"
+  },
+  {
+    "name": "Boy",
+    "prompt": "Boy from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/296049.jpg?s=fd8e610617690b8a640543c7ce9c57b3"
+  },
+  {
+    "name": "Captain",
+    "prompt": "Captain from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/296044.jpg?s=fa5011890f6e8371eec5886c7b8f175f"
+  },
+  {
+    "name": "Chai",
+    "prompt": "Chai from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/295959.jpg?s=aa558ca13063137b8db8c744eb6a9ae3"
+  },
+  {
+    "name": "Chief of Security Section",
+    "prompt": "Chief of Security Section from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/296007.jpg?s=44275360d3c065fc51bb49db28bcd1b5"
+  },
+  {
+    "name": "Combat Photographer",
+    "prompt": "Combat Photographer from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/296035.jpg?s=bb35e6952df5f4385b6352bcac0e9469"
+  },
+  {
+    "name": "Commandant of Japan Coast Guard",
+    "prompt": "Commandant of Japan Coast Guard from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/296033.jpg?s=ed53a41e9e58250280620c5a9281b31b"
+  },
+  {
+    "name": "Detective",
+    "prompt": "Detective from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/296037.jpg?s=68de913febe6c286cb04a2502599ca9b"
+  },
+  {
+    "name": "Dobashi, Fumiya",
+    "prompt": "Dobashi, Fumiya from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/296004.jpg?s=f2e1da1f599b06f159cbfaddffce2b3f"
+  },
+  {
+    "name": "Ginger",
+    "prompt": "Ginger from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/296029.jpg?s=d096c623dc6ead3bf8f8ebdd145248b1"
+  },
+  {
+    "name": "Hisashi , Mikari",
+    "prompt": "Hisashi , Mikari from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/296012.jpg?s=97ba384eac40e96708121d44eddfef76"
+  },
+  {
+    "name": "Humimari , Yaku",
+    "prompt": "Humimari , Yaku from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/296016.jpg?s=fa2e0494d73f7d1c0f465fb178f65ea2"
+  },
+  {
+    "name": "Inspector",
+    "prompt": "Inspector from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/296026.jpg?s=a2b721007e77dbf7021df42da2427cd7"
+  },
+  {
+    "name": "Ishikawa",
+    "prompt": "Ishikawa from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/295796.jpg?s=791d7045f1ba64760496ed5472670701"
+  },
+  {
+    "name": "JGSDA Commander",
+    "prompt": "JGSDA Commander from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/296003.jpg?s=c547e12431150a54bcb28b792beef547"
+  },
+  {
+    "name": "Jiro, Kuki",
+    "prompt": "Jiro, Kuki from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/296021.jpg?s=8171373c90b94192a94d70607f8ab8ef"
+  },
+  {
+    "name": "Katakura",
+    "prompt": "Katakura from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/553189.jpg?s=ed1112e3f206b78277828746de99bb13"
+  },
+  {
+    "name": "Katsuhiko, Izumi",
+    "prompt": "Katsuhiko, Izumi from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/292401.jpg?s=709493390f9db1065c77235b7abee420"
+  },
+  {
+    "name": "Kawashima, Shou",
+    "prompt": "Kawashima, Shou from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/296006.jpg?s=5adb242ada7b1cbb0bd7d2327c0be3e5"
+  },
+  {
+    "name": "Kawashima, Kaori",
+    "prompt": "Kawashima, Kaori from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/295943.jpg?s=8b3e470671193405a870b8e9f0f6b1a5"
+  },
+  {
+    "name": "Kayabuki, Youko",
+    "prompt": "Kayabuki, Youko from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/87618.jpg?s=c23937d34bb61b205bed36fed6efe8b2"
+  },
+  {
+    "name": "Kazundo, Gouda",
+    "prompt": "Kazundo, Gouda from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/87616.jpg?s=9a457e31883979dcb563599c1b57021f"
+  },
+  {
+    "name": "Kosuke , Zama",
+    "prompt": "Kosuke , Zama from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/296020.jpg?s=7026b35165cc41b624c2ef8d674d8223"
+  },
+  {
+    "name": "Krasnov, Koil",
+    "prompt": "Krasnov, Koil from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/296043.jpg?s=605106c736b12dd5fc9937c3fc2dc3e4"
+  },
+  {
+    "name": "Kubota",
+    "prompt": "Kubota from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/295962.jpg?s=d3515b15eb0463027b33db88c9748db8"
+  },
+  {
+    "name": "Kujiro , Mogi",
+    "prompt": "Kujiro , Mogi from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/296015.jpg?s=0d868541cbb656397efb307c5993a07c"
+  },
+  {
+    "name": "Kuze, Hideo",
+    "prompt": "Kuze, Hideo from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/181445.jpg?s=cd1745929d5736d66bf48be7e062ad8c"
+  },
+  {
+    "name": "Laoban",
+    "prompt": "Laoban from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/296039.jpg?s=0c839f53aca260dc23eb5761cec8eba5"
+  },
+  {
+    "name": "Masoki , Kitora",
+    "prompt": "Masoki , Kitora from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/296019.jpg?s=60d9b247da6ec904426f66f2d911dd4b"
+  },
+  {
+    "name": "Midoriyama",
+    "prompt": "Midoriyama from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/295999.jpg?s=dad4c5454d3d5b6461622efb361f215c"
+  },
+  {
+    "name": "Mihashi, Takashi",
+    "prompt": "Mihashi, Takashi from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/296024.jpg?s=46af3a3ba5d40c48291601f4d0d6b28a"
+  },
+  {
+    "name": "Minimi",
+    "prompt": "Minimi from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/296027.jpg?s=6dd4c71a0476a48240277347839420ef"
+  },
+  {
+    "name": "Minister of Defence",
+    "prompt": "Minister of Defence from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/296034.jpg?s=81c521fdf88e9ed6c761782f4e98de1d"
+  },
+  {
+    "name": "Minister of Home Affairs",
+    "prompt": "Minister of Home Affairs from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/553167.jpg?s=72ac7d0b40aea49afac242b1f6a29dc2"
+  },
+  {
+    "name": "Momose",
+    "prompt": "Momose from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/295997.jpg?s=990efbcbda609a62ace756cdf2e6df93"
+  },
+  {
+    "name": "Mori, Kazuomi",
+    "prompt": "Mori, Kazuomi from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/296009.jpg?s=abfc6fc9fc4d5371d2baf6b31c5a4798"
+  },
+  {
+    "name": "Mother",
+    "prompt": "Mother from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/296028.jpg?s=c0a5d0d31b67682d8bf6d1ebbcc060f1"
+  },
+  {
+    "name": "Nasami, Kurta",
+    "prompt": "Nasami, Kurta from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/295790.jpg?s=49809f9f1201774a43d1644d934c5ef3"
+  },
+  {
+    "name": "Odunu , Kagari",
+    "prompt": "Odunu , Kagari from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/296011.jpg?s=de12a8183888352df30a9259b3846fb6"
+  },
+  {
+    "name": "Operator",
+    "prompt": "Operator from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/295777.jpg?s=f4a62a66120a3852bcd682c8824e4f51"
+  },
+  {
+    "name": "Otoko",
+    "prompt": "Otoko from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/315637.jpg?s=2635c1e62bc7eed0e30ba12eb99ee816"
+  },
+  {
+    "name": "Pazu",
+    "prompt": "Pazu from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/295942.jpg?s=366c0b49baa137e22eca618297d85c57"
+  },
+  {
+    "name": "Pickles",
+    "prompt": "Pickles from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/313238.jpg?s=ddeecdd1a9900d9d2bb47d7d3d7a035e"
+  },
+  {
+    "name": "Proto",
+    "prompt": "Proto from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/181447.jpg?s=2d8689b69934893d4b82dd4facd13fba"
+  },
+  {
+    "name": "Ran",
+    "prompt": "Ran from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/295570.jpg?s=a83c9a00c52d7e9e7e082843a0b10ba2"
+  },
+  {
+    "name": "Refugee A",
+    "prompt": "Refugee A from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/296047.jpg?s=6798863413cc16fa9e2c87ff101120dc"
+  },
+  {
+    "name": "Refugee B",
+    "prompt": "Refugee B from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/296048.jpg?s=b328cdf63a4f425b17e02196ebc684d2"
+  },
+  {
+    "name": "Rod",
+    "prompt": "Rod from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/296030.jpg?s=0535681d3007f008127480833f040a9f"
+  },
+  {
+    "name": "Roland",
+    "prompt": "Roland from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/296040.jpg?s=932f9f89b374d67a5659ac12daff6d60"
+  },
+  {
+    "name": "Saito",
+    "prompt": "Saito from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/214019.jpg?s=ef04ec0c010a5277c5e13a9dc3de7884"
+  },
+  {
+    "name": "Section 1 Operative",
+    "prompt": "Section 1 Operative from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/296005.jpg?s=2b97381cd7c05aa1b6d21ff138dbbfbf"
+  },
+  {
+    "name": "Shizuno, Yukari",
+    "prompt": "Shizuno, Yukari from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/296008.jpg?s=c5f6b30a3561f189a04c768546e69d41"
+  },
+  {
+    "name": "Snow",
+    "prompt": "Snow from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/296031.jpg?s=37a50f2415f74d038496db3dad5851b6"
+  },
+  {
+    "name": "Sokichi , Renjo",
+    "prompt": "Sokichi , Renjo from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/296017.jpg?s=70e85e8fea9397db429fe2ee0b3d0bbc"
+  },
+  {
+    "name": "Store Owner",
+    "prompt": "Store Owner from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/295940.jpg?s=a17fffbbf090b0d9d799f89200fd6e75"
+  },
+  {
+    "name": "Submarine Captain",
+    "prompt": "Submarine Captain from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/296045.jpg?s=c8f4ddfc8d157ad31f34bfa2c19e163a"
+  },
+  {
+    "name": "Sugi",
+    "prompt": "Sugi from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/295610.jpg?s=91c58b3985f270af2431b416fdbab9c2"
+  },
+  {
+    "name": "Suzuki, Satou",
+    "prompt": "Suzuki, Satou from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/295589.jpg?s=34d4bfe224f7324f827d9877c433f66d"
+  },
+  {
+    "name": "Tachikoma",
+    "prompt": "Tachikoma from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/98448.jpg?s=fad4047038eef648762138ca38e61e85"
+  },
+  {
+    "name": "Tadashi, Gino",
+    "prompt": "Tadashi, Gino from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/295939.jpg?s=b7ccc4b0395bd780143f17d20405b5f9"
+  },
+  {
+    "name": "Tadokoro, Tsutomo",
+    "prompt": "Tadokoro, Tsutomo from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/295995.jpg?s=928843e34ed76bf7752728498714cfb4"
+  },
+  {
+    "name": "Taiwanese Refugee",
+    "prompt": "Taiwanese Refugee from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/296036.jpg?s=c9eb23902ee0801e1a18b08db2d1f08a"
+  },
+  {
+    "name": "Takakura",
+    "prompt": "Takakura from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/296052.jpg?s=9ec9dcf8f05696a56e25113387ac10ca"
+  },
+  {
+    "name": "Tamaki , Banba",
+    "prompt": "Tamaki , Banba from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/296013.jpg?s=08fcaf26cf952cfe3e7dfbb127c9a087"
+  },
+  {
+    "name": "Tanaka , Watanabe",
+    "prompt": "Tanaka , Watanabe from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/295590.jpg?s=c44714a83105a6e318079a61bbc5e972"
+  },
+  {
+    "name": "Theresa",
+    "prompt": "Theresa from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/295960.jpg?s=1668a7b789e59639aa40dea0c5430c30"
+  },
+  {
+    "name": "Togusa's Wife",
+    "prompt": "Togusa's Wife from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/295784.jpg?s=2d87a92383002cefba930051a05704db"
+  },
+  {
+    "name": "Trainee",
+    "prompt": "Trainee from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/296010.jpg?s=504ca594ecb7f3c9b2126534be24035c"
+  },
+  {
+    "name": "Uchikoma",
+    "prompt": "Uchikoma from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/148813.jpg?s=e8bd7a9a35daec42b88ea1438d216142"
+  },
+  {
+    "name": "Ueda",
+    "prompt": "Ueda from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/295938.jpg?s=9ebf6c2646c4b8301cb8cc7f61153464"
+  },
+  {
+    "name": "Unnamed Individual Eleven",
+    "prompt": "Unnamed Individual Eleven from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/296022.jpg?s=4ff2221f41ac2094e9cbfe10ec34cbc0"
+  },
+  {
+    "name": "Uno",
+    "prompt": "Uno from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/296025.jpg?s=f09d02c39744d2080485810d5226967f"
+  },
+  {
+    "name": "Xiaojie",
+    "prompt": "Xiaojie from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/296038.jpg?s=cde84f54df91316f0c80f9c8b0bbbba5"
+  },
+  {
+    "name": "Yano",
+    "prompt": "Yano from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/296042.jpg?s=4d0834ad8a39b6d7584588782ff2cba4"
+  },
+  {
+    "name": "Yohiko , Seina",
+    "prompt": "Yohiko , Seina from Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/296018.jpg?s=7b5bec0b53e41862eddc714fa99f0355"
+  }
+]

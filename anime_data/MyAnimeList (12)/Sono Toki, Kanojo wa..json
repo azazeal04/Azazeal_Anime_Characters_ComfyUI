@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Aiko",
+    "prompt": "Aiko from Sono Toki, Kanojo wa.",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/365015.jpg?s=55bc1c83cd8b45c6e03e03590e7c32cb"
+  },
+  {
+    "name": "Kousuke",
+    "prompt": "Kousuke from Sono Toki, Kanojo wa.",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/365009.jpg?s=ab21f9e08a6f066d196f15e3b867c2de"
+  },
+  {
+    "name": "Miwako",
+    "prompt": "Miwako from Sono Toki, Kanojo wa.",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/365012.jpg?s=6870220be7c6d51a0f3daa33ebf35b85"
+  },
+  {
+    "name": "Moe",
+    "prompt": "Moe from Sono Toki, Kanojo wa.",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/365014.jpg?s=4d2d7efb4cae1d65dc280ff7c481b4af"
+  },
+  {
+    "name": "Tecchan",
+    "prompt": "Tecchan from Sono Toki, Kanojo wa.",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/365008.jpg?s=aacbb5ed1c425fd164dd0da50aef1865"
+  },
+  {
+    "name": "Tomonori",
+    "prompt": "Tomonori from Sono Toki, Kanojo wa.",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/365010.jpg?s=24d2cefe8b6a3850599b3b8c118a032e"
+  },
+  {
+    "name": "Yukari",
+    "prompt": "Yukari from Sono Toki, Kanojo wa.",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/365013.jpg?s=10baf23a2f783858dc54bbe28abd775b"
+  },
+  {
+    "name": "Yuuta",
+    "prompt": "Yuuta from Sono Toki, Kanojo wa.",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/365011.jpg?s=31aeaeeb634f4c35b2412b18914f55c9"
+  }
+]

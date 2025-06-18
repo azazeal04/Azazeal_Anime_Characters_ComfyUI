@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Jinshi",
+    "prompt": "Jinshi from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/511065.jpg?s=f4f467d7803e3309b3b691745b899039"
+  },
+  {
+    "name": "Maomao",
+    "prompt": "Maomao from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/371204.jpg?s=7fa8ef42e1c29ef776c96ea61f864bbd"
+  },
+  {
+    "name": "Ah-Duo",
+    "prompt": "Ah-Duo from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/538290.jpg?s=18da58de168cdae8d64ead2156eef3b3"
+  },
+  {
+    "name": "Ailan",
+    "prompt": "Ailan from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/525782.jpg?s=9aada15ff81e40f7bba191aa3e5229be"
+  },
+  {
+    "name": "Anshi",
+    "prompt": "Anshi from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/583045.jpg?s=19c302103c3d8bda916410a32ca85ccd"
+  },
+  {
+    "name": "Archivist",
+    "prompt": "Archivist from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/575880.jpg?s=cae0f966400cf40a230b8fde3c7b7a6f"
+  },
+  {
+    "name": "Basen",
+    "prompt": "Basen from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/586387.jpg?s=c7748cc7ce7a3d333894c916f1198382"
+  },
+  {
+    "name": "Chang",
+    "prompt": "Chang from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/542680.jpg?s=de40981f57084d780daca1f62523d1d5"
+  },
+  {
+    "name": "Emperor",
+    "prompt": "Emperor from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/581002.jpg?s=f2f48219b923f4f6d75be45e58a8e2da"
+  },
+  {
+    "name": "Fengming",
+    "prompt": "Fengming from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/530562.jpg?s=593e9f4beb0907739322c09d6b159d7c"
+  },
+  {
+    "name": "Fengxian",
+    "prompt": "Fengxian from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/551582.jpg?s=586f8ec77f4d06cd3ef5f63af53f5a95"
+  },
+  {
+    "name": "Fuyou",
+    "prompt": "Fuyou from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/525781.jpg?s=62cfb570b7a3f86527739da5db7ff631"
+  },
+  {
+    "name": "Gaoshun",
+    "prompt": "Gaoshun from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/525777.jpg?s=f70ef291eef896f16e0c44b8fdc3a1e3"
+  },
+  {
+    "name": "Guen",
+    "prompt": "Guen from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/525776.jpg?s=e852f44b48d6fc63a731ab090e6ba1dc"
+  },
+  {
+    "name": "Guiyuan",
+    "prompt": "Guiyuan from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/525801.jpg?s=1e648ed5959d196e08d56fce85286326"
+  },
+  {
+    "name": "Gyokuyou",
+    "prompt": "Gyokuyou from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/468711.jpg?s=429699847a25c46a9561c0b490ad6828"
+  },
+  {
+    "name": "Hongniang",
+    "prompt": "Hongniang from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/525780.jpg?s=e8a531553f1d43ba9d772fd2f2340303"
+  },
+  {
+    "name": "Joka",
+    "prompt": "Joka from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/533406.jpg?s=06b2c9b7097c7e1db7197236ad5c317b"
+  },
+  {
+    "name": "Kan, Lakan",
+    "prompt": "Kan, Lakan from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/531876.jpg?s=824dbaed8928d4551a6444fc277ff9f5"
+  },
+  {
+    "name": "Kanan",
+    "prompt": "Kanan from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/527807.jpg?s=ef5e3a46856747f80cab4ab2e479e121"
+  },
+  {
+    "name": "Kounen",
+    "prompt": "Kounen from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/542675.jpg?s=155dc136499b4ae24dab5ac8b95fe79f"
+  },
+  {
+    "name": "Lihaku",
+    "prompt": "Lihaku from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/527810.jpg?s=f3dffd2a8bbd6cfb6fa05d25348fff5d"
+  },
+  {
+    "name": "Lihua",
+    "prompt": "Lihua from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/468708.jpg?s=ce76eeea73c42939d5434f0130a014ce"
+  },
+  {
+    "name": "Lingli",
+    "prompt": "Lingli from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/576102.jpg?s=f84000b2d1e66ce6b74f9cb5589666b0"
+  },
+  {
+    "name": "Lishu",
+    "prompt": "Lishu from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/574072.jpg?s=fb202ff7e2c8f1ab82f59e6daedec454"
+  },
+  {
+    "name": "Loulan",
+    "prompt": "Loulan from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/574073.jpg?s=26277bab612a0e664f441423edf4e394"
+  },
+  {
+    "name": "Luomen",
+    "prompt": "Luomen from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/589867.jpg?s=c41d4cff4623c8909ac522ac7530cfa9"
+  },
+  {
+    "name": "Madam",
+    "prompt": "Madam from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/525774.jpg?s=632d46fa134327dfff9f886e62965240"
+  },
+  {
+    "name": "Meimei",
+    "prompt": "Meimei from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/533407.jpg?s=f0bffa456f63ca189a5adaf30443af90"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Pairin",
+    "prompt": "Pairin from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/525778.jpg?s=a957b4126216b4a425797ad4ee386d45"
+  },
+  {
+    "name": "Rikuson",
+    "prompt": "Rikuson from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/540772.jpg?s=ad7814b3c5efdb51cbc5eb8c1397c645"
+  },
+  {
+    "name": "Shin",
+    "prompt": "Shin from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/576965.jpg?s=40fabfd5427736f97c6aefd09e3d8390"
+  },
+  {
+    "name": "Shishou",
+    "prompt": "Shishou from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/541454.jpg?s=ed4ceba2cfc5901d56b18381fcb0a3e8"
+  },
+  {
+    "name": "Suirei",
+    "prompt": "Suirei from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/531714.jpg?s=b97181eea1eff7adeae74c24a58b68b2"
+  },
+  {
+    "name": "Suiren",
+    "prompt": "Suiren from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/533412.jpg?s=30f5c8dba37447826f87e64eaff705f8"
+  },
+  {
+    "name": "Tzu",
+    "prompt": "Tzu from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/542681.jpg?s=47a72102c935d355641caa3e822aa05d"
+  },
+  {
+    "name": "Ukyou",
+    "prompt": "Ukyou from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/575812.jpg?s=e9c9c083a29214ec06fafa4e913c5bda"
+  },
+  {
+    "name": "Xiaolan",
+    "prompt": "Xiaolan from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/574075.jpg?s=409d6e92d41f09f67f1e1c0cabac5a29"
+  },
+  {
+    "name": "Yinghua",
+    "prompt": "Yinghua from Kusuriya no Hitorigoto",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/525800.jpg?s=7ea81257fe96d75e2c28f29a3cc7f00c"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Kaishin no Kuuro",
+    "prompt": "Kaishin no Kuuro from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/561714.jpg?s=89e51e71d497f64c2bc7edcc87b97415"
+  },
+  {
+    "name": "Akai Shisen no Elea",
+    "prompt": "Akai Shisen no Elea from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/513613.jpg?s=09ce8bd501911bc38fcd16164e44b8c8"
+  },
+  {
+    "name": "Asa no Shizuku no Milieu",
+    "prompt": "Asa no Shizuku no Milieu from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/584064.jpg?s=4e12c8693030c9b097d2045a8446088a"
+  },
+  {
+    "name": "Asaaruki Heng",
+    "prompt": "Asaaruki Heng from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/581648.jpg?s=3bf1aea2fb5f5e7263c6e4c2b76f97d7"
+  },
+  {
+    "name": "Aya no Kiseki no Leforgid",
+    "prompt": "Aya no Kiseki no Leforgid from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/584066.jpg?s=91ac521c3ea0af9fe9640d6fbd7f7c34"
+  },
+  {
+    "name": "Canute",
+    "prompt": "Canute from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/581649.jpg?s=4e2f3d857b32326b69f586c1626d839a"
+  },
+  {
+    "name": "Chiheihou Mele",
+    "prompt": "Chiheihou Mele from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/561710.jpg?s=7df7c316e75c87da395e0a1013c1f252"
+  },
+  {
+    "name": "Dankagen no Hardy",
+    "prompt": "Dankagen no Hardy from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/576581.jpg?s=84913429b3f5930846326007e9f351df"
+  },
+  {
+    "name": "Entaku no Kaete",
+    "prompt": "Entaku no Kaete from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/580792.jpg?s=09b63792a727a5673a5d0d824d451d37"
+  },
+  {
+    "name": "Fugon no Uhak",
+    "prompt": "Fugon no Uhak from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/564420.jpg?s=53a62f52a7a095026bb954d2de8df1ad"
+  },
+  {
+    "name": "Futou no Tsuka no Lalaki",
+    "prompt": "Futou no Tsuka no Lalaki from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/581647.jpg?s=e6ec494960897f9c5d904c7551e8c935"
+  },
+  {
+    "name": "Fuyu no Lucnoca",
+    "prompt": "Fuyu no Lucnoca from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/563688.jpg?s=96abd74264e7d1d26b0045eb72ecde13"
+  },
+  {
+    "name": "Gyakuri no Hiroto",
+    "prompt": "Gyakuri no Hiroto from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/563005.jpg?s=673729dfc64eb72d95a1f045b2a49acd"
+  },
+  {
+    "name": "Gyouten no Wint",
+    "prompt": "Gyouten no Wint from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/584067.jpg?s=d0753c6acfe4721e9b19760700721a2e"
+  },
+  {
+    "name": "Hajou no Gilnes",
+    "prompt": "Hajou no Gilnes from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/580791.jpg?s=103820c3f7948f32e44833925e6eae2a"
+  },
+  {
+    "name": "Hayakisumi Jelky",
+    "prompt": "Hayakisumi Jelky from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/520483.jpg?s=b9d4ed386b080e414226843015b557ac"
+  },
+  {
+    "name": "Hendou no Wieze",
+    "prompt": "Hendou no Wieze from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/576588.jpg?s=51e27fd0cd49cdfad93fd443193dc059"
+  },
+  {
+    "name": "Higan no Neft",
+    "prompt": "Higan no Neft from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/563689.jpg?s=ae06cc15794ed41a5746e1ac33142bdc"
+  },
+  {
+    "name": "Hikaritsumi no Hartl",
+    "prompt": "Hikaritsumi no Hartl from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hitsugi no Fukoku no Miluzi",
+    "prompt": "Hitsugi no Fukoku no Miluzi from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/577629.jpg?s=07971f4a1f2d4fda7646d0331e201560"
+  },
+  {
+    "name": "Hone no Tsugai no Onoperal",
+    "prompt": "Hone no Tsugai no Onoperal from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hoshihase Alus",
+    "prompt": "Hoshihase Alus from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/505933.jpg?s=83827e68d21e0ca7af3d706e16f9abe7"
+  },
+  {
+    "name": "Iska",
+    "prompt": "Iska from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/580793.jpg?s=1526cc3b7b1ba29f2e0ce061135c1478"
+  },
+  {
+    "name": "Jiku no Kiyazuna",
+    "prompt": "Jiku no Kiyazuna from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/563004.jpg?s=7574bd5cf9e54e866ba9cfdc36718105"
+  },
+  {
+    "name": "Kage Komo no Hilca",
+    "prompt": "Kage Komo no Hilca from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/584065.jpg?s=81ff04c4ea305650fbef5a2d9b26197f"
+  },
+  {
+    "name": "Kanza no Cunodey",
+    "prompt": "Kanza no Cunodey from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/582669.jpg?s=0ddfa0540dd36e33a769b400ed6ee272"
+  },
+  {
+    "name": "Kasugai no Hidow",
+    "prompt": "Kasugai no Hidow from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/520484.jpg?s=4c3f3c5e4d96b0b2bc78ddf210482fe5"
+  },
+  {
+    "name": "Kegaretachi no Lumelly",
+    "prompt": "Kegaretachi no Lumelly from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/586940.jpg?s=d3c3836555758f66bc4b0ee40e9f4ed2"
+  },
+  {
+    "name": "Kessen no Ekilege",
+    "prompt": "Kessen no Ekilege from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kizamisanshin no Rook",
+    "prompt": "Kizamisanshin no Rook from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kizu no Grasse",
+    "prompt": "Kizu no Grasse from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kokuyou Linaris",
+    "prompt": "Kokuyou Linaris from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/563001.jpg?s=ea85c1026c7743b1a6fcc0c866647128"
+  },
+  {
+    "name": "Kouya no Wadachi no Dant",
+    "prompt": "Kouya no Wadachi no Dant from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/586098.jpg?s=1ea0a49d38084aea8b0b51ebe50423b5"
+  },
+  {
+    "name": "Kuroi Neiro no Kazuki",
+    "prompt": "Kuroi Neiro no Kazuki from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/564422.jpg?s=cc7c38f582a9610f4fe60716378db33b"
+  },
+  {
+    "name": "Kuurai no Kayon",
+    "prompt": "Kuurai no Kayon from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/576580.jpg?s=825f222e242d1b54022e571a82a5f87c"
+  },
+  {
+    "name": "Kyuuchi no Hako no Mestelexil",
+    "prompt": "Kyuuchi no Hako no Mestelexil from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/563003.jpg?s=a034925d3f95a64031dea88788f2d13a"
+  },
+  {
+    "name": "Mahou no Tu",
+    "prompt": "Mahou no Tu from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/564998.jpg?s=98f3a58f11000b027db9eddcfce91fe1"
+  },
+  {
+    "name": "Mayoi no Cuneigh",
+    "prompt": "Mayoi no Cuneigh from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/561713.jpg?s=ec9d9d86b034ccca94d780546ab7a36b"
+  },
+  {
+    "name": "Mezame no Frey",
+    "prompt": "Mezame no Frey from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/576586.jpg?s=050a724daf5496189a757353a912c18f"
+  },
+  {
+    "name": "Mihari no Morio",
+    "prompt": "Mihari no Morio from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/586099.jpg?s=c58305cf56c61b844841c1c41b586f69"
+  },
+  {
+    "name": "Mijin Arashi Atrazek",
+    "prompt": "Mijin Arashi Atrazek from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/579506.jpg?s=5e5c46892b3347a4e4ce7e995f3cb161"
+  },
+  {
+    "name": "Mujin Muryuu no Psianop",
+    "prompt": "Mujin Muryuu no Psianop from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/563686.jpg?s=a475690bfa4d1620b458d154d7b7fca6"
+  },
+  {
+    "name": "Mumyou no Hakufuu Alena",
+    "prompt": "Mumyou no Hakufuu Alena from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/586938.jpg?s=08bd753240d8020e3931ba13915baebb"
+  },
+  {
+    "name": "Naraku no Tsuami no Zeljirga",
+    "prompt": "Naraku no Tsuami no Zeljirga from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/576587.jpg?s=09c0875a328d8b2fd173c07b297a00a4"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Otogiri Shalk",
+    "prompt": "Otogiri Shalk from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/517056.jpg?s=b5a52c29d7af5f8d730b2c1701b0da40"
+  },
+  {
+    "name": "Ozomashiki Toroa",
+    "prompt": "Ozomashiki Toroa from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/563002.jpg?s=84c030dc2566544dd07d97f1391bb8ee"
+  },
+  {
+    "name": "Ozomashiki Toroa",
+    "prompt": "Ozomashiki Toroa from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/580368.jpg?s=049a6500e9d713cf5de58133503b427f"
+  },
+  {
+    "name": "Rankai Ryoureki Nihilo",
+    "prompt": "Rankai Ryoureki Nihilo from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/513614.jpg?s=470f2237b00df064517096807578552d"
+  },
+  {
+    "name": "Resshin no Belka",
+    "prompt": "Resshin no Belka from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/582670.jpg?s=2d3696b91d47568ac14a1d8f9a8f9d87"
+  },
+  {
+    "name": "Rokubungi no Shirok",
+    "prompt": "Rokubungi no Shirok from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/576577.jpg?s=62d94f541dcb1131ff52de581d5f39e9"
+  },
+  {
+    "name": "Sakibure no Frinsda",
+    "prompt": "Sakibure no Frinsda from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/586932.jpg?s=c50a597fa89f6dcd9bd01a4e599ddc7a"
+  },
+  {
+    "name": "Sazameki no Viga",
+    "prompt": "Sazameki no Viga from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/580963.jpg?s=f3e05de62ae897e32b07447d24e0094d"
+  },
+  {
+    "name": "Seijakunaru Harghent",
+    "prompt": "Seijakunaru Harghent from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/505934.jpg?s=5f8c2360cf426c28f27cce1f92e56ddc"
+  },
+  {
+    "name": "Seiretsu no Antel",
+    "prompt": "Seiretsu no Antel from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/580962.jpg?s=07f33b51a51dd59b2e1fcedf5040f4c3"
+  },
+  {
+    "name": "Seizu no Romzo",
+    "prompt": "Seizu no Romzo from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/564421.jpg?s=b58ac75708fe91c303f4147ad1595928"
+  },
+  {
+    "name": "Sekaishi no Kia",
+    "prompt": "Sekaishi no Kia from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/513612.jpg?s=49e0f1ce3c3beb9fb53696ffa4dc2e71"
+  },
+  {
+    "name": "Senichihikime no Zigita Zogi",
+    "prompt": "Senichihikime no Zigita Zogi from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/565000.jpg?s=897ff537bf4cdc8ae311d9d453bee092"
+  },
+  {
+    "name": "Senrikyou no Enu",
+    "prompt": "Senrikyou no Enu from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/576578.jpg?s=74851de54c817dd9bc0c3d859e5d8548"
+  },
+  {
+    "name": "Sephite",
+    "prompt": "Sephite from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/559569.jpg?s=78e7781dff4af60eef187d5de6e1140e"
+  },
+  {
+    "name": "Shikisai no Izick",
+    "prompt": "Shikisai no Izick from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/586944.jpg?s=bd134c2f8c706446c0af2e24f8d1d0e6"
+  },
+  {
+    "name": "Shinri no Futa no Krafnir",
+    "prompt": "Shinri no Futa no Krafnir from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/565001.jpg?s=c94a0d9824a7ef5dea899a5ff4c1dfa4"
+  },
+  {
+    "name": "Shizuka ni Utau Nastique",
+    "prompt": "Shizuka ni Utau Nastique from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/526112.jpg?s=99bff67741a0a9bf0c52985d1f2a6068"
+  },
+  {
+    "name": "Shourei no Zizma",
+    "prompt": "Shourei no Zizma from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/576582.jpg?s=f448b4cf28b274ba045536c2c92da8b9"
+  },
+  {
+    "name": "Sora no Komen no Maqure",
+    "prompt": "Sora no Komen no Maqure from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Subete no Teki, Shiki",
+    "prompt": "Subete no Teki, Shiki from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/586933.jpg?s=fb88f4d6bcf14d8ebd031608f3e39b8e"
+  },
+  {
+    "name": "Tadayou Rashin no Olukt",
+    "prompt": "Tadayou Rashin no Olukt from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/584965.jpg?s=428d7752cce8ca1ea279bc1368df04ef"
+  },
+  {
+    "name": "Tagane no Yaniegiz",
+    "prompt": "Tagane no Yaniegiz from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/586931.jpg?s=5452a775546ac10b1c5d395bf73926fc"
+  },
+  {
+    "name": "Tasogaremoguri Yukiharu",
+    "prompt": "Tasogaremoguri Yukiharu from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/564419.jpg?s=a9f0ea93dd2b880b16ebff5bac39f593"
+  },
+  {
+    "name": "Tekka no Kaniya",
+    "prompt": "Tekka no Kaniya from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/586100.jpg?s=b206d4484ae3b4e123a61938fd2fc42b"
+  },
+  {
+    "name": "Tekkanuei no Mizial",
+    "prompt": "Tekkanuei no Mizial from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/578505.jpg?s=845452fa66e00424f2fd8c272b222000"
+  },
+  {
+    "name": "Ten no Fralik",
+    "prompt": "Ten no Fralik from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/586946.jpg?s=b33f377ba40090a054607d09da557d2f"
+  },
+  {
+    "name": "Tenkyuu no Yushid",
+    "prompt": "Tenkyuu no Yushid from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/581645.jpg?s=665e6e225114df616f7d212448980f28"
+  },
+  {
+    "name": "Tooi Kagizume no Yuno",
+    "prompt": "Tooi Kagizume no Yuno from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/503081.jpg?s=5fe7eb8540325b44f95aab0d5fab6d90"
+  },
+  {
+    "name": "Toorika no Kuze",
+    "prompt": "Toorika no Kuze from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/526113.jpg?s=eef9fe0873339137899a259506de586f"
+  },
+  {
+    "name": "Tou no Hyakrai",
+    "prompt": "Tou no Hyakrai from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/576585.jpg?s=eb9ce3f3be20422d64e9806f285b2da0"
+  },
+  {
+    "name": "Toukai no Lena",
+    "prompt": "Toukai no Lena from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/576583.jpg?s=a6ad4516f75b1c13f6ec03b6d96698ed"
+  },
+  {
+    "name": "Tozanhouryou Lagrex",
+    "prompt": "Tozanhouryou Lagrex from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/581644.jpg?s=1238137b96c53b718173481aeb528bc5"
+  },
+  {
+    "name": "Tsumasaki Furue no Pagireshe",
+    "prompt": "Tsumasaki Furue no Pagireshe from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/584068.jpg?s=c8cf2b1658df85bacb99e9736fe4adfd"
+  },
+  {
+    "name": "Urei no Kaze no Nofelt",
+    "prompt": "Urei no Kaze no Nofelt from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/582668.jpg?s=74e9c2bea244b6aa4dac7c9f3d46fe80"
+  },
+  {
+    "name": "Utsuri Kakuken no Yuugo",
+    "prompt": "Utsuri Kakuken no Yuugo from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/586942.jpg?s=cc2d6232480067dcb7c2f13afb66f0d1"
+  },
+  {
+    "name": "Utsurigina Ozonezma",
+    "prompt": "Utsurigina Ozonezma from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/567541.jpg?s=2cef8b44779633ab696d5495bf50c1e6"
+  },
+  {
+    "name": "Yagyuu, Soujirou",
+    "prompt": "Yagyuu, Soujirou from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/503082.jpg?s=36e2a7411fa102a8e25d3a68247bbd11"
+  },
+  {
+    "name": "Yakuun no Rique",
+    "prompt": "Yakuun no Rique from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/584966.jpg?s=7e5f619dccae6f8c47ec5f39870d990a"
+  },
+  {
+    "name": "Yokuken no Giza",
+    "prompt": "Yokuken no Giza from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Yonagumori no Elgite",
+    "prompt": "Yonagumori no Elgite from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/577630.jpg?s=c4eb0519e42e9e3b83e4a248c89327ee"
+  },
+  {
+    "name": "Zanmu no Sakai no Eswilda",
+    "prompt": "Zanmu no Sakai no Eswilda from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/581646.jpg?s=349058671fa678bdcad72a0032db7a0b"
+  },
+  {
+    "name": "Zettainaru Rosclay",
+    "prompt": "Zettainaru Rosclay from Ishura 2nd Season",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/563687.jpg?s=71918268a375352730cf1c2f0f1c2c47"
+  }
+]

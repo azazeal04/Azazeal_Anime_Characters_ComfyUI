@@ -1,0 +1,672 @@
+[
+  {
+    "name": "Charlés",
+    "prompt": "Charlés from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/365290.jpg?s=eefd5fe0dca97c356d0d5448f25c7561"
+  },
+  {
+    "name": "Dragneel, Natsu",
+    "prompt": "Dragneel, Natsu from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/594274.jpg?s=f1ff02a766b85bd0623f4ee539c1b7a4"
+  },
+  {
+    "name": "Fullbuster, Gray",
+    "prompt": "Fullbuster, Gray from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/278602.jpg?s=87553874d5dd1b8ffcaeee57b777cd9c"
+  },
+  {
+    "name": "Happy",
+    "prompt": "Happy from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/365287.jpg?s=9bd8f1ed7cf392d689238608f13286a7"
+  },
+  {
+    "name": "Heartfilia, Lucy",
+    "prompt": "Heartfilia, Lucy from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/67774.jpg?s=a5aa66540ec3bb6463bda909781da36a"
+  },
+  {
+    "name": "Marvell, Wendy",
+    "prompt": "Marvell, Wendy from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/196497.jpg?s=dd93974ccb821624cc71eb789025b7cf"
+  },
+  {
+    "name": "Scarlet, Erza",
+    "prompt": "Scarlet, Erza from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/492254.jpg?s=7e17a45b638c2b7f12bf1f699b2b5c82"
+  },
+  {
+    "name": "Abel",
+    "prompt": "Abel from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/369142.jpg?s=481ed9d01ca4c1ff7b47af9789331b93"
+  },
+  {
+    "name": "Acnologia",
+    "prompt": "Acnologia from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/255391.jpg?s=b27f1e7ddeb8bc745a646032edb7468f"
+  },
+  {
+    "name": "Aguria, Yukino",
+    "prompt": "Aguria, Yukino from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/259355.jpg?s=10389c4391d05feeb8b997f43a2db131"
+  },
+  {
+    "name": "Akatsuki, Ren",
+    "prompt": "Akatsuki, Ren from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/106467.jpg?s=b10197d22195dd1e586a7941403d9ad4"
+  },
+  {
+    "name": "Alberona, Cana",
+    "prompt": "Alberona, Cana from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/107176.jpg?s=7b566ce6c7e55ed1beb923de0e07118f"
+  },
+  {
+    "name": "Alors, Max",
+    "prompt": "Alors, Max from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/186861.jpg?s=0ca02e97f0d081855ff4eeb051d53df6"
+  },
+  {
+    "name": "Angel",
+    "prompt": "Angel from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/208601.jpg?s=1af80c27c4fc56172076cfbd53c4d1b4"
+  },
+  {
+    "name": "Aquarius",
+    "prompt": "Aquarius from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/67021.jpg?s=5c37dab4ff3183eae162a036e83b724b"
+  },
+  {
+    "name": "Arcadios",
+    "prompt": "Arcadios from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/188224.jpg?s=fe807029999d8ef69b8eeb792816bf3b"
+  },
+  {
+    "name": "Arlock",
+    "prompt": "Arlock from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/369135.jpg?s=76a8e061e7276c88063f17b6fd5f345e"
+  },
+  {
+    "name": "August",
+    "prompt": "August from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/371054.jpg?s=8ba598f326c0e21b9f0e26ff07188346"
+  },
+  {
+    "name": "Azuma",
+    "prompt": "Azuma from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/147297.jpg?s=bd29280f8176a6dc25746fd3be1ad983"
+  },
+  {
+    "name": "Babasaama, Ooba",
+    "prompt": "Babasaama, Ooba from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/186121.jpg?s=4ac6954825573638f323ad4d06852e01"
+  },
+  {
+    "name": "Bakel",
+    "prompt": "Bakel from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/372814.jpg?s=302c6c24916f6334ec33eafe8ff92b48"
+  },
+  {
+    "name": "Belserion, Irene",
+    "prompt": "Belserion, Irene from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/384775.jpg?s=cf0cd1eea6117b5ddd811fb05a3fb795"
+  },
+  {
+    "name": "Belserion",
+    "prompt": "Belserion from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/384684.jpg?s=415f4e0e321bab028d46a01ae74ebc4b"
+  },
+  {
+    "name": "Bickslow",
+    "prompt": "Bickslow from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/380012.jpg?s=83ec7d2db1eafebb8c1e0a87f50a2f53"
+  },
+  {
+    "name": "Blendy, Chelia",
+    "prompt": "Blendy, Chelia from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/197003.jpg?s=c69c54c2af1dc65e52587e394c8b0f9c"
+  },
+  {
+    "name": "Bloodman",
+    "prompt": "Bloodman from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/384745.jpg?s=c584e89ea99fbd8dc232dbe0857be393"
+  },
+  {
+    "name": "Brandish μ",
+    "prompt": "Brandish μ from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/371590.jpg?s=7ac8ab97fc83c50f75d70ce5ff977999"
+  },
+  {
+    "name": "Briar",
+    "prompt": "Briar from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/369136.jpg?s=f51bda3c310bca6f89e1b528e688fe8e"
+  },
+  {
+    "name": "Cheney, Rogue",
+    "prompt": "Cheney, Rogue from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/189194.jpg?s=3c851138f149c7bf7b7317cd8b3e9856"
+  },
+  {
+    "name": "Clive, Gildarts",
+    "prompt": "Clive, Gildarts from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/196483.jpg?s=4aa74f40d6ffa2e59da3120996cd7333"
+  },
+  {
+    "name": "Cobra",
+    "prompt": "Cobra from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/106576.jpg?s=07229564640041cd7d2ca941943803ae"
+  },
+  {
+    "name": "Conbolt, Romeo",
+    "prompt": "Conbolt, Romeo from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/82978.jpg?s=b606fe870a5220fab24d795d7ecc8d0f"
+  },
+  {
+    "name": "Conbolt, Macao",
+    "prompt": "Conbolt, Macao from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/82980.jpg?s=9c3ef79d403e24ce2499c95b354c2133"
+  },
+  {
+    "name": "Connell, Alzack",
+    "prompt": "Connell, Alzack from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/83753.jpg?s=6a4169c33fdfb64315ad6f5f550979c5"
+  },
+  {
+    "name": "Connell, Asuka",
+    "prompt": "Connell, Asuka from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/188220.jpg?s=5fd724b248c9dd41ca8dd3d25f9ff33f"
+  },
+  {
+    "name": "D-6",
+    "prompt": "D-6 from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/369137.jpg?s=ab9d1a2d185f2a6e1d39498d92133174"
+  },
+  {
+    "name": "Doranbalt",
+    "prompt": "Doranbalt from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/255133.jpg?s=a3347bd63d9561a32608af984a8fda3e"
+  },
+  {
+    "name": "Dragneel, Larcade",
+    "prompt": "Dragneel, Larcade from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/384784.jpg?s=0fba49f47832524856ff9c953dcc6b7e"
+  },
+  {
+    "name": "Dreyar, Yury",
+    "prompt": "Dreyar, Yury from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/369515.jpg?s=4451ef7d6b878496dcf2ece1b3a0c5ef"
+  },
+  {
+    "name": "Dreyar, Laxus",
+    "prompt": "Dreyar, Laxus from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/294797.jpg?s=afdb45936b79508131e16919d50ffb90"
+  },
+  {
+    "name": "Dreyar, Makarov",
+    "prompt": "Dreyar, Makarov from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/72475.jpg?s=7ef0007f53563a9dbf476722d2646b22"
+  },
+  {
+    "name": "Droy",
+    "prompt": "Droy from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/135767.jpg?s=dabaec4eaf096ba0b21c3d4ac867c9e5"
+  },
+  {
+    "name": "Ecor, Vijeeter",
+    "prompt": "Ecor, Vijeeter from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/118325.jpg?s=2e9adeb9a757eb0974d2687a122f6b8e"
+  },
+  {
+    "name": "Eucliffe, Sting",
+    "prompt": "Eucliffe, Sting from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/210003.jpg?s=3b51e4655e35362d741b78e00f2095bb"
+  },
+  {
+    "name": "Evergreen",
+    "prompt": "Evergreen from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/101639.jpg?s=57d4d4cbb67e46b7ba1ebfd00d435258"
+  },
+  {
+    "name": "Ezel",
+    "prompt": "Ezel from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/318682.jpg?s=572780b6a53edf998120426a6629c3a0"
+  },
+  {
+    "name": "Fernandes, Jellal",
+    "prompt": "Fernandes, Jellal from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/80782.jpg?s=3cfa9e107e76c8708736fe90dbecde14"
+  },
+  {
+    "name": "Fiore, Toma E.",
+    "prompt": "Fiore, Toma E. from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/255119.jpg?s=1c0afbef82694099feb7973b1ad548f2"
+  },
+  {
+    "name": "Fiore, Hisui E.",
+    "prompt": "Fiore, Hisui E. from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/243621.jpg?s=4cc1bd49283731c4ecc82b8028b85072"
+  },
+  {
+    "name": "Frosch",
+    "prompt": "Frosch from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/206939.jpg?s=a0196aa280cc5263f3492f039538abec"
+  },
+  {
+    "name": "Gaebolg, Precht",
+    "prompt": "Gaebolg, Precht from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/141001.jpg?s=31a872482bfc1f94b4588b1d6d6b3f0c"
+  },
+  {
+    "name": "God Serena",
+    "prompt": "God Serena from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/372062.jpg?s=02000c44125202b602be31fc62b15bd3"
+  },
+  {
+    "name": "Goumon",
+    "prompt": "Goumon from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/369139.jpg?s=aa2b03d34ff14c3f703c0d8429b8bd1f"
+  },
+  {
+    "name": "Grammi",
+    "prompt": "Grammi from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/384965.jpg?s=d78e2e1d543447821f3f0b7c02791d6a"
+  },
+  {
+    "name": "Groh, Bacchus",
+    "prompt": "Groh, Bacchus from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/182887.jpg?s=37368c4a3e82dc74407276cd5fed5656"
+  },
+  {
+    "name": "Heartfilia, Layla",
+    "prompt": "Heartfilia, Layla from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/189228.jpg?s=c2ff8e551a01d447a23094c4f7edd93b"
+  },
+  {
+    "name": "Heartfilia, Anna",
+    "prompt": "Heartfilia, Anna from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/384776.jpg?s=0eae7dd56d9dde90f20985a4de67a472"
+  },
+  {
+    "name": "Hollow, Marin",
+    "prompt": "Hollow, Marin from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/369919.jpg?s=45dd23ac13823c5bdfd98fae456c329b"
+  },
+  {
+    "name": "Horhorta, Toby",
+    "prompt": "Horhorta, Toby from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/90801.jpg?s=373e3647797e446d245ddf6c1900ebef"
+  },
+  {
+    "name": "Horologium",
+    "prompt": "Horologium from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/82979.jpg?s=f7ad0aed67ac10b43560088e4bb33f40"
+  },
+  {
+    "name": "Hoteye",
+    "prompt": "Hoteye from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/103620.jpg?s=dd5b5cae032b42ef0b06f468a281ecb1"
+  },
+  {
+    "name": "Hyberion, Draculos",
+    "prompt": "Hyberion, Draculos from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/369918.jpg?s=caa633f655d7a78e194cbb5f44b8a03c"
+  },
+  {
+    "name": "Icht, Wahl",
+    "prompt": "Icht, Wahl from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/372818.jpg?s=fdd16ce022334aace317171c0f3fcbf2"
+  },
+  {
+    "name": "Igneel",
+    "prompt": "Igneel from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/369326.jpg?s=be5d9cac1eebf1f93c59d73a5c3b49cf"
+  },
+  {
+    "name": "Ikaruga",
+    "prompt": "Ikaruga from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/372819.jpg?s=0bbbf66c1177cfc854e38f05fbcf312c"
+  },
+  {
+    "name": "Jerome",
+    "prompt": "Jerome from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/369140.jpg?s=d016be8d709b6c82162e8683050dab8c"
+  },
+  {
+    "name": "Jet",
+    "prompt": "Jet from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/82266.jpg?s=7ba43cc5fcd32880b2f0742cc02b19f7"
+  },
+  {
+    "name": "Jonah, Reedus",
+    "prompt": "Jonah, Reedus from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/82990.jpg?s=9e8b5927b3dbe093e578f6bf7932c4cc"
+  },
+  {
+    "name": "Justine, Freed",
+    "prompt": "Justine, Freed from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/101637.jpg?s=702895262579d380a2daf6e90fb3b43f"
+  },
+  {
+    "name": "Kareem",
+    "prompt": "Kareem from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/372815.jpg?s=333c7f31158a9c749d3ad0157f03603a"
+  },
+  {
+    "name": "Keyes",
+    "prompt": "Keyes from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/318679.jpg?s=35d17af646e4f6e953fc0f9b05ac8f2b"
+  },
+  {
+    "name": "Kinana",
+    "prompt": "Kinana from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/247221.jpg?s=d2993d60d1c52c7e429e4572db113fe5"
+  },
+  {
+    "name": "Kyouka",
+    "prompt": "Kyouka from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/303650.jpg?s=803783a6dc2f308a0ed5d95f3b69c41e"
+  },
+  {
+    "name": "Lahar",
+    "prompt": "Lahar from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/110724.jpg?s=a955b8b89bbd81a69865072f289200aa"
+  },
+  {
+    "name": "Lasaro, Nab",
+    "prompt": "Lasaro, Nab from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/82986.jpg?s=a84341cccb7882745e9aa0c60d0c216b"
+  },
+  {
+    "name": "Law, Risley",
+    "prompt": "Law, Risley from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/183653.jpg?s=153d4e23b4e4b3899d4ced06fe75984f"
+  },
+  {
+    "name": "Laytis, Hibiki",
+    "prompt": "Laytis, Hibiki from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/105858.jpg?s=e2fdec50f205adf5089302abf1a48ef4"
+  },
+  {
+    "name": "Lector",
+    "prompt": "Lector from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/206937.jpg?s=9fe2d0a2d05f62766d613281f5d166e7"
+  },
+  {
+    "name": "Lessio, Jacob",
+    "prompt": "Lessio, Jacob from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/378817.jpg?s=40f60a5ac82d4b76f3f6736e17998a8c"
+  },
+  {
+    "name": "Lockser, Juvia",
+    "prompt": "Lockser, Juvia from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/262225.jpg?s=2c5b0e04b609b523739e948a83632899"
+  },
+  {
+    "name": "Loki",
+    "prompt": "Loki from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/84140.jpg?s=af9c24e54805c7fc20c80140d23437f5"
+  },
+  {
+    "name": "Lore, Rufus",
+    "prompt": "Lore, Rufus from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/155503.jpg?s=60601f27a80245ecc0bcce51c8aa6d78"
+  },
+  {
+    "name": "Lunasea, Heine",
+    "prompt": "Lunasea, Heine from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/384728.jpg?s=697198a64608629b5d00bbd7743fa916"
+  },
+  {
+    "name": "Mary",
+    "prompt": "Mary from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/369141.jpg?s=49ebc49f63ece49fc2ca5ed58d7d535e"
+  },
+  {
+    "name": "McGarden, Levy",
+    "prompt": "McGarden, Levy from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/186859.jpg?s=068b6c8dd82cd65706d9d09e2593d232"
+  },
+  {
+    "name": "Meredy",
+    "prompt": "Meredy from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/315499.jpg?s=bae135a677fe82df5daedae4c6441ae2"
+  },
+  {
+    "name": "Midnight",
+    "prompt": "Midnight from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/259225.jpg?s=d5b93b2b932afc2167188624083526af"
+  },
+  {
+    "name": "Mikazuchi, Kagura",
+    "prompt": "Mikazuchi, Kagura from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/199003.jpg?s=890ceb19ef66158d1ac3ea705b7758b1"
+  },
+  {
+    "name": "Milkovich, Ultear",
+    "prompt": "Milkovich, Ultear from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/189334.jpg?s=b4a7f1e4836871f71cac4b5751c3f77f"
+  },
+  {
+    "name": "Millianna",
+    "prompt": "Millianna from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/278426.jpg?s=39ce08211613263f8d284e2110027cc7"
+  },
+  {
+    "name": "Mine, Wakaba",
+    "prompt": "Mine, Wakaba from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/82985.jpg?s=705251ffffeea52039dbb33a871fb921"
+  },
+  {
+    "name": "Mulan, Bisca",
+    "prompt": "Mulan, Bisca from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/97916.jpg?s=1d16f8bce94ccba5ad5a5e171d7b73bf"
+  },
+  {
+    "name": "Nanagear, Orga",
+    "prompt": "Nanagear, Orga from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/369992.jpg?s=ffaa887d90626cd52d439389c7aea9b1"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/135979.jpg?s=c2221938a6ce7e874e1bf82e548612b5"
+  },
+  {
+    "name": "Neinhart",
+    "prompt": "Neinhart from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/384748.jpg?s=791021070640f07f2cb4948917cf568a"
+  },
+  {
+    "name": "Nekis, Jura",
+    "prompt": "Nekis, Jura from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/295190.jpg?s=8c3b01cf54c5680c6a0e4fc55d5e253c"
+  },
+  {
+    "name": "Olietta, Laki",
+    "prompt": "Olietta, Laki from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/98590.jpg?s=94e32875929dd90798e727befa42cd51"
+  },
+  {
+    "name": "Orland, Minerva",
+    "prompt": "Orland, Minerva from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/509792.jpg?s=65986130ed5ade6378e730996e8ec0a7"
+  },
+  {
+    "name": "Orochi Head",
+    "prompt": "Orochi Head from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/365887.jpg?s=b7b13d4c9d24d64a7f8dba8c53e42c51"
+  },
+  {
+    "name": "Pantherlily",
+    "prompt": "Pantherlily from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/130687.jpg?s=b46f64218d1d7d36fed902257d660966"
+  },
+  {
+    "name": "Plue",
+    "prompt": "Plue from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/44743.jpg?s=212370130fc07caf8fa716094e76e41c"
+  },
+  {
+    "name": "Porlyusica",
+    "prompt": "Porlyusica from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/84211.jpg?s=a02b73fd81f7b6e695c37e29abdaf008"
+  },
+  {
+    "name": "Racer",
+    "prompt": "Racer from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/103619.jpg?s=e3a4e2766c5c1c95caba8488782f280f"
+  },
+  {
+    "name": "Ramal, Ajeel",
+    "prompt": "Ramal, Ajeel from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/370344.jpg?s=3961315c1e51f1bc9a22d5f30e93f5cd"
+  },
+  {
+    "name": "Realight, Jenny",
+    "prompt": "Realight, Jenny from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/192531.jpg?s=0a7eb2646ef811fcce2db58f624eb97f"
+  },
+  {
+    "name": "Redfox, Gajeel",
+    "prompt": "Redfox, Gajeel from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/99350.jpg?s=9d43e35fdbbf7e6f78e877669167a3a9"
+  },
+  {
+    "name": "Rita",
+    "prompt": "Rita from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/371109.jpg?s=c515e59e0086cdebb4924f2691baad60"
+  },
+  {
+    "name": "Rocko, Warren",
+    "prompt": "Rocko, Warren from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/130703.jpg?s=76904f32963c6e8d92abc7a080e7307a"
+  },
+  {
+    "name": "Rung",
+    "prompt": "Rung from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/394125.jpg?s=65ebe2884c61ead01cd9687b03053a6e"
+  },
+  {
+    "name": "Scorpio",
+    "prompt": "Scorpio from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/106809.jpg?s=f98b0882f7e207e7ddeb0a473fcbf81a"
+  },
+  {
+    "name": "Sequen, Warrod",
+    "prompt": "Sequen, Warrod from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/369133.jpg?s=17a9045b4b5c97eea07fd52b1541981c"
+  },
+  {
+    "name": "Simon",
+    "prompt": "Simon from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/94564.jpg?s=a00ce32741e5deb327af5eb85e6eab4e"
+  },
+  {
+    "name": "Stinger, Bluenote",
+    "prompt": "Stinger, Bluenote from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/206961.jpg?s=39f209bc6441d5cf966e8b2074ca34ca"
+  },
+  {
+    "name": "Strauss, Mirajane",
+    "prompt": "Strauss, Mirajane from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/196491.jpg?s=58aaaff21992e90d5604a05543709193"
+  },
+  {
+    "name": "Strauss, Lisanna",
+    "prompt": "Strauss, Lisanna from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/196493.jpg?s=ff9bb1426a8349d38c32a8a4082b5827"
+  },
+  {
+    "name": "Strauss, Elfman",
+    "prompt": "Strauss, Elfman from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/150001.jpg?s=73f92c07517683c90cd00a24d0a989b8"
+  },
+  {
+    "name": "Sun, Juliet",
+    "prompt": "Sun, Juliet from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/385875.jpg?s=810eb021b51a6711251449bb90624182"
+  },
+  {
+    "name": "Suzuki, Yuka",
+    "prompt": "Suzuki, Yuka from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/90800.jpg?s=d818cba041963c33489bf72663f342a9"
+  },
+  {
+    "name": "Taurus",
+    "prompt": "Taurus from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/73221.jpg?s=478e4ed53b5d415a1c2a9ae5b0a9c348"
+  },
+  {
+    "name": "Tilm, Eve",
+    "prompt": "Tilm, Eve from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/192579.jpg?s=4bfb328ff226711732e66442a1e9a72f"
+  },
+  {
+    "name": "Ul",
+    "prompt": "Ul from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/75938.jpg?s=70989f34970d7d56a8c4f96b3aa3bc2a"
+  },
+  {
+    "name": "Vandalay Kotobuki, Ichiya",
+    "prompt": "Vandalay Kotobuki, Ichiya from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/103078.jpg?s=4bf24e27f6240103acd232560a639e89"
+  },
+  {
+    "name": "Vanderwood, Beth",
+    "prompt": "Vanderwood, Beth from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/183651.jpg?s=a379f02f836d6c1fe4422020c824d9ad"
+  },
+  {
+    "name": "Vastia, Lyon",
+    "prompt": "Vastia, Lyon from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/77308.jpg?s=fa49b4e6e6d996718d0967f4b2d70997"
+  },
+  {
+    "name": "Vermillion, Mavis",
+    "prompt": "Vermillion, Mavis from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/204797.jpg?s=7965307fc37ad33c9488c90e348689f2"
+  },
+  {
+    "name": "Virgo",
+    "prompt": "Virgo from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/71790.jpg?s=64a3c2fc858470aca3946863e6755568"
+  },
+  {
+    "name": "Wolfheim",
+    "prompt": "Wolfheim from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/369917.jpg?s=b11383a7152c9ef6665d99e79c46dead"
+  },
+  {
+    "name": "Yajeel",
+    "prompt": "Yajeel from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/370231.jpg?s=09b41991edc29fbc73779a6b9ee7f598"
+  },
+  {
+    "name": "Yesta, Dimaria",
+    "prompt": "Yesta, Dimaria from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/370630.jpg?s=6042fe1615ad41494c02311e2c537848"
+  },
+  {
+    "name": "Yura, Invel",
+    "prompt": "Yura, Invel from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/371056.jpg?s=3b9b851f1075c2e83b9e9922d020cbd7"
+  },
+  {
+    "name": "Zancrow",
+    "prompt": "Zancrow from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/143417.jpg?s=c3f8cd7222c0308039fa8e31fe293aea"
+  },
+  {
+    "name": "Zera",
+    "prompt": "Zera from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/369321.jpg?s=1c85759b3e1d8edf2d2cf090acaafac0"
+  },
+  {
+    "name": "Zeref",
+    "prompt": "Zeref from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/327914.jpg?s=c9c1cd0a58d71f457abcd7dcda32d567"
+  },
+  {
+    "name": "Zoldeo",
+    "prompt": "Zoldeo from Fairy Tail: Final Series",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/206951.jpg?s=5b1438677083e65942172236f113b323"
+  }
+]

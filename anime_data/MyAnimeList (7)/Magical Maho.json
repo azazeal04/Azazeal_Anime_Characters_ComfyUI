@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Maho",
+    "prompt": "Maho from Magical Maho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/494218.jpg?s=01568bd0ff33fa13b04d23881909ecaf"
+  },
+  {
+    "name": "Grandma",
+    "prompt": "Grandma from Magical Maho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/494219.jpg?s=5e584281bef286983d13c9391634b0cb"
+  },
+  {
+    "name": "Grandpa",
+    "prompt": "Grandpa from Magical Maho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/494220.jpg?s=fb21335e92fc845d1163dd8e9041820d"
+  },
+  {
+    "name": "Mama",
+    "prompt": "Mama from Magical Maho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/494221.jpg?s=b7bb03bff7832a898bdf7fbe361e469f"
+  },
+  {
+    "name": "Papa",
+    "prompt": "Papa from Magical Maho",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/494223.jpg?s=9cb40b1b6f2ee7270a1f6196451582f1"
+  }
+]

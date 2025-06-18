@@ -1,0 +1,237 @@
+[
+  {
+    "name": "Fuurinji, Miu",
+    "prompt": "Fuurinji, Miu from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/85060.jpg?s=ca238bf6c2e88d45b406e7c7304cde8e"
+  },
+  {
+    "name": "Shirahama, Kenichi",
+    "prompt": "Shirahama, Kenichi from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/106190.jpg?s=57adeb5f8de5edabcb1e58b911f769c3"
+  },
+  {
+    "name": "Carlo, Diego",
+    "prompt": "Carlo, Diego from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/63412.jpg?s=98b9a7b6ebd64aa71e299a90fa99a3a4"
+  },
+  {
+    "name": "Eclair, Christopher",
+    "prompt": "Eclair, Christopher from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/228175.jpg?s=74eabd68a7b6304afd8a3aa9fc1a9346"
+  },
+  {
+    "name": "Fuurinji, Hayato",
+    "prompt": "Fuurinji, Hayato from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/85635.jpg?s=3ae202db5feb4bc87e9e61530e3aa4d6"
+  },
+  {
+    "name": "Fuurinji, Shizuha",
+    "prompt": "Fuurinji, Shizuha from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/64154.jpg?s=56e66d5d09580f1c847f3c11ace705ac"
+  },
+  {
+    "name": "Gaidar, Alexander",
+    "prompt": "Gaidar, Alexander from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/63408.jpg?s=217d4ba4bee41f94230deae00e339e2c"
+  },
+  {
+    "name": "Gauche, Wynne",
+    "prompt": "Gauche, Wynne from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/540124.jpg?s=2af9b9f34d4d10b08eb7a2c970285062"
+  },
+  {
+    "name": "Hongou, Akira",
+    "prompt": "Hongou, Akira from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/230817.jpg?s=dd4b0f770685a1d12f4d52174c6a3914"
+  },
+  {
+    "name": "Hopachai, Apachai",
+    "prompt": "Hopachai, Apachai from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/85630.jpg?s=d207ee61565515aaaee4d3e0e197d656"
+  },
+  {
+    "name": "Ivanov, Boris",
+    "prompt": "Ivanov, Boris from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/176215.jpg?s=8e24c99e47857da1c57837e3df74e9a8"
+  },
+  {
+    "name": "Izumi, Yuuka",
+    "prompt": "Izumi, Yuuka from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/4236.jpg?s=f62dab83d7822c041bc215a5fb43871a"
+  },
+  {
+    "name": "Jenazad, Silcardo",
+    "prompt": "Jenazad, Silcardo from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/282942.jpg?s=3688ffc6d977a8b3c90f7cc505445501"
+  },
+  {
+    "name": "Jum Sai, Agaard",
+    "prompt": "Jum Sai, Agaard from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/258951.jpg?s=c6dfa0fcbdd29e2f24599d66b402d533"
+  },
+  {
+    "name": "Kamioka",
+    "prompt": "Kamioka from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/42489.jpg?s=d972142327f48ffd53aa268856de3de6"
+  },
+  {
+    "name": "Kanou, Shou",
+    "prompt": "Kanou, Shou from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/258949.jpg?s=7668ffa0755258efddbfbf23157a560e"
+  },
+  {
+    "name": "Koetsuji, Akisame",
+    "prompt": "Koetsuji, Akisame from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/258799.jpg?s=646dcb031867136750ee360c92f9b358"
+  },
+  {
+    "name": "Kousaka, Shigure",
+    "prompt": "Kousaka, Shigure from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/85639.jpg?s=ae9a882d10ccc493ad4664be7f15d8c4"
+  },
+  {
+    "name": "Kugatachi, Kaname",
+    "prompt": "Kugatachi, Kaname from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/74044.jpg?s=2180179d940dd2aa1db9460a364487c8"
+  },
+  {
+    "name": "Kugenin, Hibiki",
+    "prompt": "Kugenin, Hibiki from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/178237.jpg?s=4e6498cec50ac9b371c2f2bca7e4442e"
+  },
+  {
+    "name": "Kushinada, Mikumo",
+    "prompt": "Kushinada, Mikumo from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/130173.jpg?s=bf590ddfe8e7efc22c0e5fac11fbe55e"
+  },
+  {
+    "name": "Li, Tenmon",
+    "prompt": "Li, Tenmon from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/64310.jpg?s=afef82d549e03bb61e88a7326cb41fc5"
+  },
+  {
+    "name": "Li, Raichi",
+    "prompt": "Li, Raichi from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/77319.jpg?s=ff83ce17fe7a993d943d328ebdf212c7"
+  },
+  {
+    "name": "Ma, Renka",
+    "prompt": "Ma, Renka from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/85631.jpg?s=1a9e59e0ccd5435811e200f2a35a8f4f"
+  },
+  {
+    "name": "Ma, Kensei",
+    "prompt": "Ma, Kensei from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/258801.jpg?s=d0535df65ca84924886eb74a692cf119"
+  },
+  {
+    "name": "Matsui",
+    "prompt": "Matsui from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/241191.jpg?s=dd9d1b5c18d5e480a21e4eac71f8f628"
+  },
+  {
+    "name": "Nanjou, Kisara",
+    "prompt": "Nanjou, Kisara from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/71518.jpg?s=286df22e355fdb87aa52815883721f1d"
+  },
+  {
+    "name": "Niijima, Haruo",
+    "prompt": "Niijima, Haruo from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/282151.jpg?s=a7ef1cf85559ab50352a1e918d82519c"
+  },
+  {
+    "name": "Ogata, Isshinsai",
+    "prompt": "Ogata, Isshinsai from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/389783.jpg?s=4b70dbcf9db0e7dea7fd341f33f7a3b3"
+  },
+  {
+    "name": "Ono, Kyoko",
+    "prompt": "Ono, Kyoko from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/72998.jpg?s=358d77e5aac1fc998313decb1213e5fc"
+  },
+  {
+    "name": "Radin Tidat, Jihan",
+    "prompt": "Radin Tidat, Jihan from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/176211.jpg?s=9e7fd9c1d703131fbf35d5e87ced736f"
+  },
+  {
+    "name": "Rahman, Sehrul",
+    "prompt": "Rahman, Sehrul from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/64318.jpg?s=0fd627debbe85c7340457aff771a9d6e"
+  },
+  {
+    "name": "Ro, Jisei",
+    "prompt": "Ro, Jisei from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/176425.jpg?s=8df55871d9d9d10e4a10506602e85937"
+  },
+  {
+    "name": "Sakaki, Shio",
+    "prompt": "Sakaki, Shio from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/230807.jpg?s=21b2659a98902cbf6262d02c9482d15e"
+  },
+  {
+    "name": "Shiba, James",
+    "prompt": "Shiba, James from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/258313.jpg?s=18f840d906c7870ae8d49b19a10ba6bc"
+  },
+  {
+    "name": "Shirahama, Honoka",
+    "prompt": "Shirahama, Honoka from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/258795.jpg?s=efff70190f8a3c75c2717b6a75d36a0f"
+  },
+  {
+    "name": "Shiratori",
+    "prompt": "Shiratori from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/63907.jpg?s=cbb1250356cfedfe61c3e44d2ed4f516"
+  },
+  {
+    "name": "Stanley, Ethan",
+    "prompt": "Stanley, Ethan from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/64314.jpg?s=2de2ebada5a8ac4d26c846ebd292bf1c"
+  },
+  {
+    "name": "Stanley, Rachel",
+    "prompt": "Stanley, Rachel from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/258789.jpg?s=8a560187ef0edaec24a571dabf9ee9b2"
+  },
+  {
+    "name": "Takashima, Chihiro",
+    "prompt": "Takashima, Chihiro from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/72997.jpg?s=9cb65358aa419c3a9bcd1a529ea4b28c"
+  },
+  {
+    "name": "Takeda, Ikki",
+    "prompt": "Takeda, Ikki from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/71517.jpg?s=41e1471c714960b5fa8e6bda535979a5"
+  },
+  {
+    "name": "Tanimoto, Kaede",
+    "prompt": "Tanimoto, Kaede from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/73724.jpg?s=39bbdd18bad34557187ab34e67c4aa66"
+  },
+  {
+    "name": "Tanimoto, Natsu",
+    "prompt": "Tanimoto, Natsu from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/121986.jpg?s=1c2d562f48c5b0ec37547bad8bb1df11"
+  },
+  {
+    "name": "Touchuumaru",
+    "prompt": "Touchuumaru from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/71466.jpg?s=07affa403d0cc2d2c806b4daa5036ab1"
+  },
+  {
+    "name": "Ukita, Kouzou",
+    "prompt": "Ukita, Kouzou from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/258327.jpg?s=bb196e09c472249b748a235abb36a2cf"
+  },
+  {
+    "name": "Yakabe, Kurando",
+    "prompt": "Yakabe, Kurando from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Yasunaga, Fukujiro",
+    "prompt": "Yasunaga, Fukujiro from Shijou Saikyou no Deshi Kenichi OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/92166.jpg?s=eabe478935206820f6926d8ebc4f0248"
+  }
+]

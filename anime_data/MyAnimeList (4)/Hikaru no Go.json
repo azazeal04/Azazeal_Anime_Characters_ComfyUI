@@ -1,0 +1,432 @@
+[
+  {
+    "name": "Fujiwara no, Sai",
+    "prompt": "Fujiwara no, Sai from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/44575.jpg?s=7690626e9181356af675ff7601491b56"
+  },
+  {
+    "name": "Shindou, Hikaru",
+    "prompt": "Shindou, Hikaru from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/208207.jpg?s=3000a45324734199c0c8d666e8988b59"
+  },
+  {
+    "name": "Touya, Akira",
+    "prompt": "Touya, Akira from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/28051.jpg?s=d0003dd264e5afdc3164ebe0bf27534c"
+  },
+  {
+    "name": "Adachi, Toshiki",
+    "prompt": "Adachi, Toshiki from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/562598.jpg?s=0e901c369ceddb064adfd7e7acf82020"
+  },
+  {
+    "name": "Akota",
+    "prompt": "Akota from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/560328.jpg?s=a6ec0f1f9362325960adea8a7612de2e"
+  },
+  {
+    "name": "Amano",
+    "prompt": "Amano from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/561618.jpg?s=141a93e6cee72b060bef5e23c2491e73"
+  },
+  {
+    "name": "American Player",
+    "prompt": "American Player from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/561069.jpg?s=f04ba26609be674244d347521b155ae5"
+  },
+  {
+    "name": "Aoki",
+    "prompt": "Aoki from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/560572.jpg?s=2cbb4aea40006057b84c365cca2e70e7"
+  },
+  {
+    "name": "Ashiwara, Hiroyuki",
+    "prompt": "Ashiwara, Hiroyuki from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/561619.jpg?s=0c29c4e99998731f40b8e793352f5f47"
+  },
+  {
+    "name": "Blue Hair Girl",
+    "prompt": "Blue Hair Girl from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/560569.jpg?s=1059b689f503fd204cf0220d3e508aa6"
+  },
+  {
+    "name": "Chao",
+    "prompt": "Chao from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/564522.jpg?s=77926d3d7a1eeabfa5826d9c753ceaba"
+  },
+  {
+    "name": "Dake-san",
+    "prompt": "Dake-san from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/270295.jpg?s=4b3d0b24a24962bc2806de0bc199715f"
+  },
+  {
+    "name": "Domoto",
+    "prompt": "Domoto from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Emperor",
+    "prompt": "Emperor from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/560330.jpg?s=fc8257a44ffcde790528a0d4ceac4045"
+  },
+  {
+    "name": "Franck",
+    "prompt": "Franck from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/561070.jpg?s=3d81e2cef3be4afc37640ee30ba645ea"
+  },
+  {
+    "name": "Fujisaki, Akari",
+    "prompt": "Fujisaki, Akari from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/28057.jpg?s=0e4f6d982a4e63b8e0ab0b1546e6af33"
+  },
+  {
+    "name": "Fukui, Yuta",
+    "prompt": "Fukui, Yuta from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/75252.jpg?s=021007d0e5980e768ddde46b09de6d86"
+  },
+  {
+    "name": "Go Club Owner",
+    "prompt": "Go Club Owner from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/562266.jpg?s=94c0af09d8c6d422dd62f5c373237b61"
+  },
+  {
+    "name": "Go Merchant",
+    "prompt": "Go Merchant from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/563347.jpg?s=c5020d6387eec005e254b201f0987bfc"
+  },
+  {
+    "name": "Gokiso",
+    "prompt": "Gokiso from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/563346.jpg?s=7f45baa8e651692f91a58c7a6955e45a"
+  },
+  {
+    "name": "Hauguel",
+    "prompt": "Hauguel from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/563636.jpg?s=1e173105a65285f5a448cc5706b4622a"
+  },
+  {
+    "name": "Hidaka, Yui",
+    "prompt": "Hidaka, Yui from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/560726.jpg?s=d27c171364e36c2f84badbb2de551e20"
+  },
+  {
+    "name": "Hirabayashi",
+    "prompt": "Hirabayashi from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/562020.jpg?s=400579b02efac51d0305386c90526117"
+  },
+  {
+    "name": "Honda, Toshinori",
+    "prompt": "Honda, Toshinori from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/277470.jpg?s=e91c730baf44f75c4d7fcdf9068f45fe"
+  },
+  {
+    "name": "Hong, Suyong",
+    "prompt": "Hong, Suyong from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/75098.jpg?s=6031eed65bf33272c5135a5883a427cf"
+  },
+  {
+    "name": "Ichikawa, Harumi",
+    "prompt": "Ichikawa, Harumi from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/535646.jpg?s=5dbdf6a8561b999753241fbd5ff9d7cb"
+  },
+  {
+    "name": "Ichiryuu",
+    "prompt": "Ichiryuu from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/563894.jpg?s=27a909f04b49e669ace030d5e0741df3"
+  },
+  {
+    "name": "Ijima, Ryou",
+    "prompt": "Ijima, Ryou from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/338229.jpg?s=1be379202fc303762bbfc8b7d232845d"
+  },
+  {
+    "name": "Isobe, Hideki",
+    "prompt": "Isobe, Hideki from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/564458.jpg?s=32728787a74cfcbfe58e896a92e35f34"
+  },
+  {
+    "name": "Isumi, Shinichiro",
+    "prompt": "Isumi, Shinichiro from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/75095.jpg?s=8a74f4c6b601c4bc09b09395fcb114ed"
+  },
+  {
+    "name": "Ito",
+    "prompt": "Ito from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/560471.jpg?s=1a204dac9703d7671f35f36a7fdf9746"
+  },
+  {
+    "name": "Kadowaki",
+    "prompt": "Kadowaki from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/561969.jpg?s=e66ff2e5fd1317859826709181474a5e"
+  },
+  {
+    "name": "Kaga, Tetsuo",
+    "prompt": "Kaga, Tetsuo from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/75072.jpg?s=824ada5ee8d816bdb14cf2ede6c00fd1"
+  },
+  {
+    "name": "Kaga's Father",
+    "prompt": "Kaga's Father from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/560332.jpg?s=d0d68c5e787493d0fde6aa3d70e9edbe"
+  },
+  {
+    "name": "Kaioh Jr. High School Principal",
+    "prompt": "Kaioh Jr. High School Principal from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/560476.jpg?s=7cc9bbe09076745835cdf32ec9e0f186"
+  },
+  {
+    "name": "Kakimoto",
+    "prompt": "Kakimoto from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/562904.jpg?s=976018ccc3f8c0edccc9a842acc430e8"
+  },
+  {
+    "name": "Kaneko, Masako",
+    "prompt": "Kaneko, Masako from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/561187.jpg?s=223b2a6fae47f77898145fe0bbf277aa"
+  },
+  {
+    "name": "Kawai",
+    "prompt": "Kawai from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/562264.jpg?s=1500d8063c1dadf6bc3a26a33ed9a096"
+  },
+  {
+    "name": "Kishimoto, Kaoru",
+    "prompt": "Kishimoto, Kaoru from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/256831.jpg?s=6d0c02b5dfe34caa050e4ea53f85fb0e"
+  },
+  {
+    "name": "Koike, Hitoshi",
+    "prompt": "Koike, Hitoshi from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/563164.jpg?s=f267dfd1df8dc434dec03006d6590f02"
+  },
+  {
+    "name": "Kojima",
+    "prompt": "Kojima from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/560574.jpg?s=7e48c6b0132d89107b09d651efa01a63"
+  },
+  {
+    "name": "Komiya, Eiji",
+    "prompt": "Komiya, Eiji from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/562599.jpg?s=e8c0afae2e1e44500e8db301f7c5f01e"
+  },
+  {
+    "name": "Kurata, Atsushi",
+    "prompt": "Kurata, Atsushi from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/144861.jpg?s=36ed5cff226e5fc27bb54bd89429dd77"
+  },
+  {
+    "name": "Kurimoto, Shosuke",
+    "prompt": "Kurimoto, Shosuke from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/562281.jpg?s=d3250762870065bf72ef5d8119b82edb"
+  },
+  {
+    "name": "Kushimoto's Secretary",
+    "prompt": "Kushimoto's Secretary from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/562282.jpg?s=1f95cb7b94e1f4fa6a18166e03485758"
+  },
+  {
+    "name": "Kuwabara, Honinbou",
+    "prompt": "Kuwabara, Honinbou from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/7257.jpg?s=e5dfdae5a00e76227bc61be6cce2ef3e"
+  },
+  {
+    "name": "Le-Ping",
+    "prompt": "Le-Ping from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/564453.jpg?s=fbd868d9831416e6d3ab12ab62648ceb"
+  },
+  {
+    "name": "Mashiba, Mitsura",
+    "prompt": "Mashiba, Mitsura from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/144859.jpg?s=8a40ae1f7402aa16c08a3fd4bf04699f"
+  },
+  {
+    "name": "Mister Akota",
+    "prompt": "Mister Akota from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/561312.jpg?s=580c0909c74d48d7faaf07d805e958ec"
+  },
+  {
+    "name": "Mitani, Yuki",
+    "prompt": "Mitani, Yuki from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/75070.jpg?s=85d665db077b0aa9643e5d5be2da8a37"
+  },
+  {
+    "name": "Mitani's Sister",
+    "prompt": "Mitani's Sister from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/86146.jpg?s=59895d555b5cb4118571ce8f71d65517"
+  },
+  {
+    "name": "Morishita, Shigeo",
+    "prompt": "Morishita, Shigeo from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/70910.jpg?s=bca08ee014e35a0b6d509cad833035cb"
+  },
+  {
+    "name": "Moriyama",
+    "prompt": "Moriyama from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/560467.jpg?s=5e4772daceb2c66a8d762fa05dea69ab"
+  },
+  {
+    "name": "Murakami, Shinichi",
+    "prompt": "Murakami, Shinichi from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/561968.jpg?s=ca9bc4b102c4b41959dd98f114d859e7"
+  },
+  {
+    "name": "Nase, Asumi",
+    "prompt": "Nase, Asumi from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/75113.jpg?s=4eb65f264613019de5b1ef55e820fde3"
+  },
+  {
+    "name": "Natsume",
+    "prompt": "Natsume from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/561313.jpg?s=1321595cf3d2bb465d1028ddc624bb74"
+  },
+  {
+    "name": "Nogi",
+    "prompt": "Nogi from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/564692.jpg?s=487cef0f3b8b320e0fd49008362f2c6d"
+  },
+  {
+    "name": "Ochi, Kousuke",
+    "prompt": "Ochi, Kousuke from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/337808.jpg?s=17305b53f7149619d67cde65c8f88c3e"
+  },
+  {
+    "name": "Ochi's Grandfather",
+    "prompt": "Ochi's Grandfather from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/562907.jpg?s=db4394226f927420dde59180af2a6741"
+  },
+  {
+    "name": "Ogata, Seiji",
+    "prompt": "Ogata, Seiji from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/75076.jpg?s=47f23d69e3402bb4285d0739ac26f7c7"
+  },
+  {
+    "name": "Ogata's Friend",
+    "prompt": "Ogata's Friend from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/564791.jpg?s=65735f0e8cbd45abca3ca0788354e8d8"
+  },
+  {
+    "name": "Okumura",
+    "prompt": "Okumura from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/560573.jpg?s=f004acfd8dad07fe03bff66ea8314a73"
+  },
+  {
+    "name": "Player with Glasses",
+    "prompt": "Player with Glasses from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/562467.jpg?s=5b70de8ef3c8d2d7824a630dda93890f"
+  },
+  {
+    "name": "Player with Green Sweat",
+    "prompt": "Player with Green Sweat from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/562280.jpg?s=94e51a74d9a48a9f6c40f752b867ca6e"
+  },
+  {
+    "name": "Ryu",
+    "prompt": "Ryu from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/564452.jpg?s=7ddb8d4f2c9b64c1f7713394677b4d0f"
+  },
+  {
+    "name": "Sakamaki",
+    "prompt": "Sakamaki from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/564617.jpg?s=bfba8b9f06be7ad536f46d2a75ad9a24"
+  },
+  {
+    "name": "Sakurano, Chieko",
+    "prompt": "Sakurano, Chieko from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/562905.jpg?s=30f8ed2bb271c6e96a2c82296a05c8c3"
+  },
+  {
+    "name": "Second Instructor",
+    "prompt": "Second Instructor from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/560326.jpg?s=c95de61e6cb4455f7834d5053281339b"
+  },
+  {
+    "name": "Shindou, Father",
+    "prompt": "Shindou, Father from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/145541.jpg?s=f67905e7a0d63683e9248ebd19038e4d"
+  },
+  {
+    "name": "Shindou, Heihachi",
+    "prompt": "Shindou, Heihachi from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/561311.jpg?s=9f9cd29303e9dd7c0adaf09fefd55d2b"
+  },
+  {
+    "name": "Shindou, Mitsuko",
+    "prompt": "Shindou, Mitsuko from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/144863.jpg?s=7add6da9f354a69a84ce35c6fb6a664b"
+  },
+  {
+    "name": "Shirakawa, Michio",
+    "prompt": "Shirakawa, Michio from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/560325.jpg?s=3e0f8612f98c065acb2a8dc8bd1d1eb2"
+  },
+  {
+    "name": "Shu-san",
+    "prompt": "Shu-san from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/560729.jpg?s=a88b85c717d60d230fe44bde89f13ecd"
+  },
+  {
+    "name": "Shuuhei",
+    "prompt": "Shuuhei from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/563995.jpg?s=75573a272d2a848b85df00c7adb19162"
+  },
+  {
+    "name": "Soga",
+    "prompt": "Soga from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/562265.jpg?s=4af5f330334b21d0228661f6d02c64d6"
+  },
+  {
+    "name": "Suyong's Master",
+    "prompt": "Suyong's Master from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/562374.jpg?s=a60c81b986f6751039e68bd6eb15d401"
+  },
+  {
+    "name": "Touya, Kouyou",
+    "prompt": "Touya, Kouyou from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/75075.jpg?s=5ec46b761b5aeff90fa8d8071424f17a"
+  },
+  {
+    "name": "Toya, Akiko",
+    "prompt": "Toya, Akiko from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/144857.jpg?s=62209770495d494b0dbacc17bd4f1b28"
+  },
+  {
+    "name": "Tsubaki, Toshirou",
+    "prompt": "Tsubaki, Toshirou from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/76964.jpg?s=181bcbaa4b7e4ab9d436abf3b3e03908"
+  },
+  {
+    "name": "Tsuda, Kumiko",
+    "prompt": "Tsuda, Kumiko from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/563230.jpg?s=59d2f8ee62ba8c238990e6a6498e8532"
+  },
+  {
+    "name": "Tsutsui, Kimihiro",
+    "prompt": "Tsutsui, Kimihiro from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/75251.jpg?s=0173dba4d4b8da0c72bc2fff1a95529e"
+  },
+  {
+    "name": "Waya, Yoshitaka",
+    "prompt": "Waya, Yoshitaka from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/75068.jpg?s=4859092e9490ffde67a5c0ee83edbc01"
+  },
+  {
+    "name": "Yamada",
+    "prompt": "Yamada from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/560571.jpg?s=c2aa750dc4fb3f685a53b6410a30551e"
+  },
+  {
+    "name": "Yang, Hai",
+    "prompt": "Yang, Hai from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/145583.jpg?s=c0de675b8f4de63d93da57e8ca22be80"
+  },
+  {
+    "name": "Yun",
+    "prompt": "Yun from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/560460.jpg?s=4aefd82e72b535b783ca75f435d95a17"
+  },
+  {
+    "name": "Zama",
+    "prompt": "Zama from Hikaru no Go",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/561617.jpg?s=ca9536d8ec2393f35cd1318ff3d3c150"
+  }
+]

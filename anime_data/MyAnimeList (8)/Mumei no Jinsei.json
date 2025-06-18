@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Protagonist",
+    "prompt": "Protagonist from Mumei no Jinsei",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hime",
+    "prompt": "Hime from Mumei no Jinsei",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/586052.jpg?s=b86ba48a07c9f8793734863120dd3535"
+  },
+  {
+    "name": "Hiroshi",
+    "prompt": "Hiroshi from Mumei no Jinsei",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/586054.jpg?s=b61e57d6e9df9f4c49555d9386a995b3"
+  },
+  {
+    "name": "Kanemitsu, Kintarou",
+    "prompt": "Kanemitsu, Kintarou from Mumei no Jinsei",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/586055.jpg?s=a33c48a0cb5daddcdb10f999eda4c92c"
+  },
+  {
+    "name": "Kin's Mom",
+    "prompt": "Kin's Mom from Mumei no Jinsei",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/586056.jpg?s=e90258824ee34dc832f28bb073e07634"
+  },
+  {
+    "name": "Kuzu",
+    "prompt": "Kuzu from Mumei no Jinsei",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/586057.jpg?s=9768dc15106ccd77bf01fc17f24a0220"
+  },
+  {
+    "name": "Sakura",
+    "prompt": "Sakura from Mumei no Jinsei",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/586058.jpg?s=961290e2221a877f02ac3d17eb246ea6"
+  },
+  {
+    "name": "Shiratori",
+    "prompt": "Shiratori from Mumei no Jinsei",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/586059.jpg?s=c6e14cf878ba6300d2c68fa63d12052e"
+  },
+  {
+    "name": "Smile",
+    "prompt": "Smile from Mumei no Jinsei",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/586060.jpg?s=c0e8f2c2b0bca00d2f257f635c763a6a"
+  },
+  {
+    "name": "Yamato",
+    "prompt": "Yamato from Mumei no Jinsei",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/586061.jpg?s=f6929936572050c3ed423e98de48d10d"
+  },
+  {
+    "name": "Youko",
+    "prompt": "Youko from Mumei no Jinsei",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/586062.jpg?s=f93c93e5adeede9dfbd90ad317546738"
+  }
+]

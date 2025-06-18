@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Edogawa, Conan",
+    "prompt": "Edogawa, Conan from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/308347.jpg?s=64a1c90d214d76cb4901d83ae78b4630"
+  },
+  {
+    "name": "Fujii, Nanami",
+    "prompt": "Fujii, Nanami from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/240629.jpg?s=f2f407bf29f3501ec6cfa560ad10df9b"
+  },
+  {
+    "name": "Mouri, Kogorou",
+    "prompt": "Mouri, Kogorou from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/146129.jpg?s=178bce8864670a5538020a699737bada"
+  },
+  {
+    "name": "Mouri, Ran",
+    "prompt": "Mouri, Ran from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/308335.jpg?s=4585548345e643b80bbf3dfc0596ee30"
+  },
+  {
+    "name": "Agasa, Hiroshi",
+    "prompt": "Agasa, Hiroshi from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/146131.jpg?s=095018c467e4b38a01aaad1dc07d8c9f"
+  },
+  {
+    "name": "Amemiya, Yuuki",
+    "prompt": "Amemiya, Yuuki from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/240641.jpg?s=bdeb88aa681a33d118ac0c1a3d9c11b0"
+  },
+  {
+    "name": "Ayanokouji, Fumimaro",
+    "prompt": "Ayanokouji, Fumimaro from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/145679.jpg?s=298563a29c4a2c2b1d0cf1051b6d3453"
+  },
+  {
+    "name": "Haibara, Ai",
+    "prompt": "Haibara, Ai from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/146141.jpg?s=5ee426d03c7d0f377a9cd99b6a5f7122"
+  },
+  {
+    "name": "Hattori, Heiji",
+    "prompt": "Hattori, Heiji from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/308399.jpg?s=fc5ab43ddd60a451bc72f3b311148211"
+  },
+  {
+    "name": "Hattori, Heizou",
+    "prompt": "Hattori, Heizou from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/149643.jpg?s=c4d41539de90bd31a19c0b768cc531ac"
+  },
+  {
+    "name": "Inoue, Fumitada",
+    "prompt": "Inoue, Fumitada from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/240631.jpg?s=de4fa9098587edaa139ddc31bfc2d05e"
+  },
+  {
+    "name": "Kojima, Genta",
+    "prompt": "Kojima, Genta from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/238943.jpg?s=5e318df1ccc695b183aeb964897c8c4d"
+  },
+  {
+    "name": "Kurata, Masaki",
+    "prompt": "Kurata, Masaki from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/240637.jpg?s=218dd10cdf57aaaf58055172cf4f04f4"
+  },
+  {
+    "name": "Kurumazaki",
+    "prompt": "Kurumazaki from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/221027.jpg?s=1ce913236fa0ed20905c322300dc5973"
+  },
+  {
+    "name": "Megure, Juuzou",
+    "prompt": "Megure, Juuzou from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/71297.jpg?s=d9640ce9698be3aab3b3d55e3234afbb"
+  },
+  {
+    "name": "Munekawa, Tsutomu",
+    "prompt": "Munekawa, Tsutomu from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/240647.jpg?s=ba113d5f7c2aeb997d1c2c7754db3dd1"
+  },
+  {
+    "name": "Ootaki, Gorou",
+    "prompt": "Ootaki, Gorou from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/134853.jpg?s=53469e3075e8f506a0159eee4ad9e4e7"
+  },
+  {
+    "name": "Sasaura, Yousuke",
+    "prompt": "Sasaura, Yousuke from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/240635.jpg?s=90e63d20e610574695438f3dab44f30c"
+  },
+  {
+    "name": "Satou, Miwako",
+    "prompt": "Satou, Miwako from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/238949.jpg?s=56f832329714b0ab41c20260afdd3218"
+  },
+  {
+    "name": "Sekiguchi, Makoto",
+    "prompt": "Sekiguchi, Makoto from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/240633.jpg?s=b9111b18600fdbe35ca8b8246c056893"
+  },
+  {
+    "name": "Suzuki, Sonoko",
+    "prompt": "Suzuki, Sonoko from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/149839.jpg?s=a21536fcb1ea7166ed631af6d1788277"
+  },
+  {
+    "name": "Takagi, Wataru",
+    "prompt": "Takagi, Wataru from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/249511.jpg?s=2e40d7845dad79d39cf8bb20f5e5ff2e"
+  },
+  {
+    "name": "Takekawa",
+    "prompt": "Takekawa from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/240645.jpg?s=e8615c49239f90ab75f3e42d1e01e316"
+  },
+  {
+    "name": "Tateishi, Yukio",
+    "prompt": "Tateishi, Yukio from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/240627.jpg?s=d809d96b15740023175de042535c4cc8"
+  },
+  {
+    "name": "Tooyama, Ginshirou",
+    "prompt": "Tooyama, Ginshirou from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/149637.jpg?s=41ec9a235007303c35d653940f87ec83"
+  },
+  {
+    "name": "Tooyama, Kazuha",
+    "prompt": "Tooyama, Kazuha from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/249515.jpg?s=82bda30a7f95f9daeefacb0423bbe404"
+  },
+  {
+    "name": "Tsuburaya, Mitsuhiko",
+    "prompt": "Tsuburaya, Mitsuhiko from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/146211.jpg?s=acdc2ccf557d9cf0c7142869ca97a94e"
+  },
+  {
+    "name": "X",
+    "prompt": "X from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/240643.jpg?s=25429bd70fe72ab696d0c03434e1e577"
+  },
+  {
+    "name": "Yoshida, Ayumi",
+    "prompt": "Yoshida, Ayumi from Meitantei Conan Movie 17: Zekkai no Private Eye",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/146209.jpg?s=2ebe72c3b1634b2759bddcc5d879dd05"
+  }
+]

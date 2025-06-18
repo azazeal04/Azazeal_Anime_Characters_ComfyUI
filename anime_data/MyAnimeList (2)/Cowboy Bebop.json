@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Black, Jet",
+    "prompt": "Black, Jet from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/253723.jpg?s=6c8a19a79a88c46ae15f30e3ef5fd839"
+  },
+  {
+    "name": "Spiegel, Spike",
+    "prompt": "Spiegel, Spike from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/516853.jpg?s=c73c8218a6f307bfb0b4e5e35029991a"
+  },
+  {
+    "name": "Valentine, Faye",
+    "prompt": "Valentine, Faye from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/264961.jpg?s=60034cf967aa97dfeffb3ef7d2454114"
+  },
+  {
+    "name": "Wong Hau Pepelu Tivrusky IV, Edward",
+    "prompt": "Wong Hau Pepelu Tivrusky IV, Edward from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/30533.jpg?s=fc89cb0fbd316aafd62acc0c70f873ad"
+  },
+  {
+    "name": "Actress",
+    "prompt": "Actress from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/287119.jpg?s=239af59eba57fd3c62f90f582ae532ca"
+  },
+  {
+    "name": "Alisa",
+    "prompt": "Alisa from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/287120.jpg?s=46b85a9b2548beeebe8d1c530e7df543"
+  },
+  {
+    "name": "Amjad",
+    "prompt": "Amjad from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/297959.jpg?s=0f87cbaaff33665fc7cec662cabd9d2b"
+  },
+  {
+    "name": "Angel",
+    "prompt": "Angel from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/297966.jpg?s=2c141c8c3342be7943975c1ab7d1a271"
+  },
+  {
+    "name": "Annie",
+    "prompt": "Annie from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/287122.jpg?s=3ffd3993ca8fce74847b9d73b9086614"
+  },
+  {
+    "name": "Antonio",
+    "prompt": "Antonio from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/282425.jpg?s=accc6f3cf34a0b676f61820ec287a2a5"
+  },
+  {
+    "name": "Bartender A",
+    "prompt": "Bartender A from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/297960.jpg?s=43e496e8b5d1d157a955fd27a2a75627"
+  },
+  {
+    "name": "Bartender B",
+    "prompt": "Bartender B from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/297961.jpg?s=8872234675114aa507963a3c4ac49300"
+  },
+  {
+    "name": "Bartender C",
+    "prompt": "Bartender C from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/297962.jpg?s=c247f77bf66fb3228e3580439de9662e"
+  },
+  {
+    "name": "Blakely, David",
+    "prompt": "Blakely, David from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/471694.jpg?s=96e41a8c2c54bff33236a9e8b04b0b18"
+  },
+  {
+    "name": "Bob",
+    "prompt": "Bob from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/282266.jpg?s=2845512b94b1fda15c60294fad9c2458"
+  },
+  {
+    "name": "Bonnaro, Rocco",
+    "prompt": "Bonnaro, Rocco from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/100599.jpg?s=232c5509daf5153f9d4fbdc96f1df2c9"
+  },
+  {
+    "name": "Bonnaro, Stella",
+    "prompt": "Bonnaro, Stella from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/225531.jpg?s=3e7ab3941f5e76efd7e894e52a3dc207"
+  },
+  {
+    "name": "Bower, Ted",
+    "prompt": "Bower, Ted from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/143249.jpg?s=48d3132db6cca4f9e7d5cdf7828f0eec"
+  },
+  {
+    "name": "Bum",
+    "prompt": "Bum from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/287127.jpg?s=5685688c79b5dcb7fb0ef91e5a48c036"
+  },
+  {
+    "name": "Calvino, Piccaro",
+    "prompt": "Calvino, Piccaro from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/287161.jpg?s=235d1dfa5c5442ab876edd8457c72622"
+  },
+  {
+    "name": "Carlos",
+    "prompt": "Carlos from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/282426.jpg?s=6b5291b069f8d01b17d475fcce91ebf2"
+  },
+  {
+    "name": "Celonias, Rhint",
+    "prompt": "Celonias, Rhint from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/100593.jpg?s=64c858d60257f59b97b85d2242937cc0"
+  },
+  {
+    "name": "Chief Minister",
+    "prompt": "Chief Minister from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/287182.jpg?s=1951a2671073f4710fc1305ba1f56738"
+  },
+  {
+    "name": "Coffee",
+    "prompt": "Coffee from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/422312.jpg?s=89add6d85d1375e7e9a79220216fe224"
+  },
+  {
+    "name": "Curio Shop Owner",
+    "prompt": "Curio Shop Owner from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/287129.jpg?s=3acf1ba0aad91f44e9425a52d6cefb59"
+  },
+  {
+    "name": "Decker",
+    "prompt": "Decker from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/287130.jpg?s=16fe3a0dac5e8eeb794746af78d77376"
+  },
+  {
+    "name": "Dewey",
+    "prompt": "Dewey from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/295800.jpg?s=8f3e510cf084334dc385668aaeae95c8"
+  },
+  {
+    "name": "Dig",
+    "prompt": "Dig from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/292097.jpg?s=9c6f673e1b87d508d1f0c611903c5172"
+  },
+  {
+    "name": "Doctor",
+    "prompt": "Doctor from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/282845.jpg?s=d3f4180525e14373e8dd35bc6f23f12a"
+  },
+  {
+    "name": "Doctor Baccus",
+    "prompt": "Doctor Baccus from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/287132.jpg?s=8571ef27212d1143351c4f2feceab083"
+  },
+  {
+    "name": "Donnelly",
+    "prompt": "Donnelly from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/287134.jpg?s=533570953e10ba063bc8596cbce2053e"
+  },
+  {
+    "name": "Doohan",
+    "prompt": "Doohan from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/285091.jpg?s=2b3a1d6b81d400eef3e0a491b2337e39"
+  },
+  {
+    "name": "Dr. Londes",
+    "prompt": "Dr. Londes from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/100610.jpg?s=32f1981aed92ea6d2a8989185e671bce"
+  },
+  {
+    "name": "Eckener, Grencia Mars Elijah Guo",
+    "prompt": "Eckener, Grencia Mars Elijah Guo from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/213557.jpg?s=8a71be7ffee2acd2d9b06e56e772f69b"
+  },
+  {
+    "name": "Ein",
+    "prompt": "Ein from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/30624.jpg?s=0f1b1ed12edc0e065b1908089e029259"
+  },
+  {
+    "name": "Elroy",
+    "prompt": "Elroy from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/292099.jpg?s=9fb8c23489b719b2954b8bffc8b53112"
+  },
+  {
+    "name": "Fad",
+    "prompt": "Fad from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/282617.jpg?s=d37ed829ee25f9d81d91355888e77e8c"
+  },
+  {
+    "name": "Frank, Jeffly",
+    "prompt": "Frank, Jeffly from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/287164.jpg?s=f73949cf83df3f02a762683ed0915ff4"
+  },
+  {
+    "name": "Gang Boss",
+    "prompt": "Gang Boss from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/287138.jpg?s=68908ebaab8c6c810e9478c6e092b497"
+  },
+  {
+    "name": "Gate Chairman",
+    "prompt": "Gate Chairman from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/287137.jpg?s=3722f9fd06e9a078ee307fe021c779ac"
+  },
+  {
+    "name": "George",
+    "prompt": "George from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/287142.jpg?s=079323c997c5fbcc8fe3b41ddf01b9fd"
+  },
+  {
+    "name": "Giraffe",
+    "prompt": "Giraffe from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/287139.jpg?s=210ac1222d15dedb3ee8c7abf53434c7"
+  },
+  {
+    "name": "Gordon",
+    "prompt": "Gordon from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/287141.jpg?s=66aab82b3c70d849985fdea9d0ea52f9"
+  },
+  {
+    "name": "Hakim, Abdul",
+    "prompt": "Hakim, Abdul from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/100586.jpg?s=79808e7282230c8e879fdd9cdb55ed69"
+  },
+  {
+    "name": "Harman",
+    "prompt": "Harman from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/287143.jpg?s=f044e0c41bf2278c567c80203990226f"
+  },
+  {
+    "name": "Harrison",
+    "prompt": "Harrison from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/287145.jpg?s=0c3421b4823f3a0b8387d3a22fdca390"
+  },
+  {
+    "name": "Hesap Lütfen, Afedersiniz",
+    "prompt": "Hesap Lütfen, Afedersiniz from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/213555.jpg?s=a79e3a674ff68b3ae3a4c3a5ed6965de"
+  },
+  {
+    "name": "Hex, Chessmaster",
+    "prompt": "Hex, Chessmaster from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/225147.jpg?s=6a28a59e7482ee7b795fe47e3a1eaf66"
+  },
+  {
+    "name": "Hippie",
+    "prompt": "Hippie from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/287149.jpg?s=731c88a01a6b887fecad688337134d82"
+  },
+  {
+    "name": "Homeless Man",
+    "prompt": "Homeless Man from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/287147.jpg?s=57f875524eea3fe465c80dd9ea688ad3"
+  },
+  {
+    "name": "Hospice Guard",
+    "prompt": "Hospice Guard from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/287165.jpg?s=0ef48b21402e1aa87e4c7db2e27c70d2"
+  },
+  {
+    "name": "Huey",
+    "prompt": "Huey from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/287151.jpg?s=b4a5818f6b5b322ec75b19bdd53421bf"
+  },
+  {
+    "name": "Indian Child",
+    "prompt": "Indian Child from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/287156.jpg?s=41bb3f2c80775a7d1961465f97a96ad3"
+  },
+  {
+    "name": "Jobim",
+    "prompt": "Jobim from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/282427.jpg?s=ab1fd7b7a54bf8375c32afe486c2f17e"
+  },
+  {
+    "name": "Jonathan",
+    "prompt": "Jonathan from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/287158.jpg?s=71722fbfa26edb874ea7c7349d71f6c1"
+  },
+  {
+    "name": "Judy",
+    "prompt": "Judy from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/53576.jpg?s=4b6fd39e0f01224808d2755adb095018"
+  },
+  {
+    "name": "Julia",
+    "prompt": "Julia from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/52297.jpg?s=e17977bed5f3f40514ba95aa7c43614a"
+  },
+  {
+    "name": "Julius",
+    "prompt": "Julius from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/287157.jpg?s=1577f0ec8e9403ad47db0588fc9aa633"
+  },
+  {
+    "name": "Kellerman, Yuri",
+    "prompt": "Kellerman, Yuri from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/287178.jpg?s=37dc11bd31ec0962f0d4f9d23ec6215d"
+  },
+  {
+    "name": "Laughing Bull",
+    "prompt": "Laughing Bull from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/284451.jpg?s=99f8a1792c606f4b110a9632b44846f4"
+  },
+  {
+    "name": "Levinsonn, David",
+    "prompt": "Levinsonn, David from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/287136.jpg?s=06f239a658e2b27cd4fd7808a27376d6"
+  },
+  {
+    "name": "Lin",
+    "prompt": "Lin from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/284941.jpg?s=580ea6a308ea66c15956633cf3f2fde1"
+  },
+  {
+    "name": "Long, Ping",
+    "prompt": "Long, Ping from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/292103.jpg?s=846259301122a5ec866d14bb94831617"
+  },
+  {
+    "name": "Long, Wang",
+    "prompt": "Long, Wang from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/292101.jpg?s=c2d9418fc42e25067f8b332305610c23"
+  },
+  {
+    "name": "Long, Sou",
+    "prompt": "Long, Sou from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/292102.jpg?s=9ad3bd2b586d25c16abc8be97a4b28e1"
+  },
+  {
+    "name": "Louie",
+    "prompt": "Louie from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/287152.jpg?s=b02f09d68a90b33f2a0dd4a37d8a62d5"
+  },
+  {
+    "name": "Love Machine",
+    "prompt": "Love Machine from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/287154.jpg?s=6e84958abe22ea5e203f90bad2537f76"
+  },
+  {
+    "name": "Mac",
+    "prompt": "Mac from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/287126.jpg?s=77b5aa4ac9cb4b4dfbd40d94fb75990e"
+  },
+  {
+    "name": "Macho",
+    "prompt": "Macho from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/287131.jpg?s=967a61d02116b8f68fe0b0aac5450112"
+  },
+  {
+    "name": "MacIntire",
+    "prompt": "MacIntire from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/287172.jpg?s=b644bd7a9e31adb4cb5359e9cc8de77d"
+  },
+  {
+    "name": "Mad Pierrot",
+    "prompt": "Mad Pierrot from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/212087.jpg?s=bdf4cf3e64e53d9acff7b3fd9b23cdcf"
+  },
+  {
+    "name": "Matsumoto, Whitney Hagas",
+    "prompt": "Matsumoto, Whitney Hagas from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/282867.jpg?s=4b2e05d429d83a988cacfcf470a1672a"
+  },
+  {
+    "name": "Melon Vendor",
+    "prompt": "Melon Vendor from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/287166.jpg?s=aea3a9607eb1333abbe06079649abfaf"
+  },
+  {
+    "name": "Miles",
+    "prompt": "Miles from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/285092.jpg?s=2a582025f6129e1fa714aa66f0b55224"
+  },
+  {
+    "name": "Miss Manley",
+    "prompt": "Miss Manley from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/287159.jpg?s=500fcf5a7e5f6eccd620a079707c79c4"
+  },
+  {
+    "name": "Morgan",
+    "prompt": "Morgan from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/284393.jpg?s=b37d00e8722ef26bd8c4cf4cdfc2f889"
+  },
+  {
+    "name": "MPU",
+    "prompt": "MPU from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/204187.jpg?s=e1c74b960aee49d32f65d33b315d8313"
+  },
+  {
+    "name": "Murdock, Maria",
+    "prompt": "Murdock, Maria from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/287184.jpg?s=e50ff14f20f0aa968143a9de31865e60"
+  },
+  {
+    "name": "Muriel",
+    "prompt": "Muriel from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/284497.jpg?s=04ad3cb8d4033b70f416386b7ca3c7b7"
+  },
+  {
+    "name": "Nero",
+    "prompt": "Nero from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/292098.jpg?s=077e838a91ed238bc0876e4fef5ba691"
+  },
+  {
+    "name": "Old Man",
+    "prompt": "Old Man from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/282611.jpg?s=c64e772ba4845a442de37b06b5a3e241"
+  },
+  {
+    "name": "Otto",
+    "prompt": "Otto from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/287162.jpg?s=9c08b1633389c32e3504ab60cc1b93aa"
+  },
+  {
+    "name": "Panchorero, Baker",
+    "prompt": "Panchorero, Baker from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/287123.jpg?s=ca9d8472a4973747c92c0f58ef74c831"
+  },
+  {
+    "name": "Paolo, Carpi",
+    "prompt": "Paolo, Carpi from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/287128.jpg?s=7384942b4ec729a69107caad25695a1f"
+  },
+  {
+    "name": "Pet Store Owner",
+    "prompt": "Pet Store Owner from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/197325.jpg?s=bd24609ed0bc91abb58396c8b06d9190"
+  },
+  {
+    "name": "Pilot",
+    "prompt": "Pilot from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/297963.jpg?s=5cabad43ca2830a1d2bebfad2ec28f5c"
+  },
+  {
+    "name": "Piyoko Seller",
+    "prompt": "Piyoko Seller from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/287148.jpg?s=4224498e4ac94445cadebd81957d1b1e"
+  },
+  {
+    "name": "Punch",
+    "prompt": "Punch from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/53577.jpg?s=ee7aa662c729f58378fa8ca32a6a5bf4"
+  },
+  {
+    "name": "Punch's Mother",
+    "prompt": "Punch's Mother from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/287160.jpg?s=a0c421e72cd7883f6b0b10a362e7562d"
+  },
+  {
+    "name": "Puzi, Pao",
+    "prompt": "Puzi, Pao from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/287181.jpg?s=f0c8ceb42e8b2c301aa5a7f50e28a260"
+  },
+  {
+    "name": "Puzi, Meifa",
+    "prompt": "Puzi, Meifa from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/213559.jpg?s=f5d54cbf064dffcd5efd2898fac7c876"
+  },
+  {
+    "name": "Rather, Mark",
+    "prompt": "Rather, Mark from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/283084.jpg?s=392d2180bc43ebbcf0e41236c3c896eb"
+  },
+  {
+    "name": "Reggie",
+    "prompt": "Reggie from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/287135.jpg?s=37ff632630c7fa887ebedb1de59e31be"
+  },
+  {
+    "name": "Reporter",
+    "prompt": "Reporter from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/297964.jpg?s=460b543600a2c8b79608c7e0033e17a3"
+  },
+  {
+    "name": "Rinou Tea House Owner",
+    "prompt": "Rinou Tea House Owner from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/287150.jpg?s=435c19f32413a60423ac41578a1d9922"
+  },
+  {
+    "name": "River, Fatty",
+    "prompt": "River, Fatty from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/143251.jpg?s=bdf274f95c8a76f688a4b5ba92ffdb3b"
+  },
+  {
+    "name": "Ruth",
+    "prompt": "Ruth from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/287144.jpg?s=24a8a10e1df9bc0c63f8a7cef3ee7769"
+  },
+  {
+    "name": "Sally's Granddaughter",
+    "prompt": "Sally's Granddaughter from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/287171.jpg?s=0cd7a2adcc0bb037056b4172bc786710"
+  },
+  {
+    "name": "Scratch Hostess",
+    "prompt": "Scratch Hostess from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/287174.jpg?s=76f8297045623e76c6d8998e0f3273c5"
+  },
+  {
+    "name": "Scratch Member",
+    "prompt": "Scratch Member from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/287173.jpg?s=3d43da2ef37e999a5454276ebb69bbd9"
+  },
+  {
+    "name": "Shaft",
+    "prompt": "Shaft from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/227899.jpg?s=97c03f69df6341957a2dca8f921b4841"
+  },
+  {
+    "name": "Shin",
+    "prompt": "Shin from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/285079.jpg?s=408e4716613f5abf6de89ddd1f527569"
+  },
+  {
+    "name": "Sister Clara",
+    "prompt": "Sister Clara from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/287169.jpg?s=d6f6293b147fc518e432ef8bf13426d8"
+  },
+  {
+    "name": "Sneaky Snake",
+    "prompt": "Sneaky Snake from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/287153.jpg?s=646e104bd90238b44e620c27fa41abf4"
+  },
+  {
+    "name": "Solensan, Asimov",
+    "prompt": "Solensan, Asimov from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/195375.jpg?s=8441d17edb909ce8ce8cac26f5e31137"
+  },
+  {
+    "name": "Solensan, Katerina",
+    "prompt": "Solensan, Katerina from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/196035.jpg?s=6b98cd8051131a2e10d0ef1d20768ca1"
+  },
+  {
+    "name": "Space Warrior",
+    "prompt": "Space Warrior from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/377637.jpg?s=4011d459b333d0c06e71a0760a3805f4"
+  },
+  {
+    "name": "Spanngen, Ronny",
+    "prompt": "Spanngen, Ronny from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/297965.jpg?s=e9aeba93017875f56f8eeaf8559c32d1"
+  },
+  {
+    "name": "Spider Mike",
+    "prompt": "Spider Mike from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/287155.jpg?s=20e1a8b96b48c4348e379cb3d6fe6015"
+  },
+  {
+    "name": "Taxim, Udai",
+    "prompt": "Taxim, Udai from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/282445.jpg?s=f916306b4cb6ed32aec52cd2415d24a2"
+  },
+  {
+    "name": "Terpsichore, Victoria",
+    "prompt": "Terpsichore, Victoria from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/270619.jpg?s=76aad5023bf2a6aab916dc57dac62163"
+  },
+  {
+    "name": "Thief",
+    "prompt": "Thief from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/287140.jpg?s=7994d3ae2200e1521a0e6185db8ae7d7"
+  },
+  {
+    "name": "Tucan",
+    "prompt": "Tucan from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/282608.jpg?s=f7409803cc2f4673fd784c7b56dd2716"
+  },
+  {
+    "name": "TV Host (Female)",
+    "prompt": "TV Host (Female) from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/292096.jpg?s=4f881c8319ae3f9295496ced370e1e5d"
+  },
+  {
+    "name": "TV Host (Male)",
+    "prompt": "TV Host (Male) from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/287176.jpg?s=affe757d6536780d0d124a881c68c966"
+  },
+  {
+    "name": "Vicious",
+    "prompt": "Vicious from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/284773.jpg?s=796fb2c0ad56c850a88dd16f9b94acac"
+  },
+  {
+    "name": "Video Store Owner",
+    "prompt": "Video Store Owner from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/287179.jpg?s=6660be5fc99ee597c037ef1059ae3074"
+  },
+  {
+    "name": "Von de Oniyate, Andy",
+    "prompt": "Von de Oniyate, Andy from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/213563.jpg?s=93322fbde99262e1f6f38909d28edf96"
+  },
+  {
+    "name": "Waiter",
+    "prompt": "Waiter from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/287180.jpg?s=e234948ad350e231f726b4afd6f195e4"
+  },
+  {
+    "name": "Walker, Domino",
+    "prompt": "Walker, Domino from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/287133.jpg?s=3577cc4596f462bed86f0a1d1d6103cd"
+  },
+  {
+    "name": "Weapon Shop Owner",
+    "prompt": "Weapon Shop Owner from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/282610.jpg?s=12c30fc74b915eb5ea189c22783ae0d7"
+  },
+  {
+    "name": "Wen",
+    "prompt": "Wen from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/289618.jpg?s=eed01b89ab7d3556b44911032dc9b796"
+  },
+  {
+    "name": "White Tiger Representative",
+    "prompt": "White Tiger Representative from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/287168.jpg?s=708476a2fe28c09fc696462c20cae1a9"
+  },
+  {
+    "name": "Wiles, Tom",
+    "prompt": "Wiles, Tom from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/287177.jpg?s=00ae10b992728deba2dd3111b77e9b6b"
+  },
+  {
+    "name": "Yenrai, Mao",
+    "prompt": "Yenrai, Mao from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/287167.jpg?s=51875debae025357a762fb885a89473a"
+  },
+  {
+    "name": "Yung, Sally",
+    "prompt": "Yung, Sally from Cowboy Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/287170.jpg?s=fc601da3c0ce5ae39990f9ccd7c52080"
+  }
+]

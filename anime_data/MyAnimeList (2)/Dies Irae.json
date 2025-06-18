@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Fujii, Ren",
+    "prompt": "Fujii, Ren from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/494522.jpg?s=249e230308a06ed6f5eceed3a66210f5"
+  },
+  {
+    "name": "Marie",
+    "prompt": "Marie from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/334346.jpg?s=256a7d50e2356732b2cca06c4a01f3b9"
+  },
+  {
+    "name": "Tristan Eugen Heydrich, Reinhard",
+    "prompt": "Tristan Eugen Heydrich, Reinhard from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/382947.jpg?s=94a25bf73e4234e71ae164b54c121d74"
+  },
+  {
+    "name": "Ayase, Kasumi",
+    "prompt": "Ayase, Kasumi from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/338182.jpg?s=df26ed9466e617f5ec6e9eca5402298f"
+  },
+  {
+    "name": "Brenner, Riza",
+    "prompt": "Brenner, Riza from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/338198.jpg?s=a57948491a277872cdd1290d883cfad0"
+  },
+  {
+    "name": "Ehrenburg, Helga",
+    "prompt": "Ehrenburg, Helga from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ehrenburg, Wilhelm",
+    "prompt": "Ehrenburg, Wilhelm from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/338189.jpg?s=f5eea1a86bef65c403562df4a3ea6a54"
+  },
+  {
+    "name": "Himuro, Rea",
+    "prompt": "Himuro, Rea from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/338183.jpg?s=66fcf05c672f8bf17ef2db62bae73a01"
+  },
+  {
+    "name": "Honjou, Erii",
+    "prompt": "Honjou, Erii from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/396500.jpg?s=7eda3d781e55c0cd6b558d3e5689691a"
+  },
+  {
+    "name": "Isaak",
+    "prompt": "Isaak from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/345517.jpg?s=f968a9960f46939e33db78dce508f46b"
+  },
+  {
+    "name": "Mercurius",
+    "prompt": "Mercurius from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/363056.jpg?s=b484e3dceed57fc2931c362a301ceda6"
+  },
+  {
+    "name": "Reichhart, Lotus",
+    "prompt": "Reichhart, Lotus from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/340507.jpg?s=3f76cefe3dac9feb6d21f7fe5427058f"
+  },
+  {
+    "name": "Sakurai, Kai",
+    "prompt": "Sakurai, Kai from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/571833.jpg?s=267f194c7b4c44b906dc500fff0f25af"
+  },
+  {
+    "name": "Sakurai, Kei",
+    "prompt": "Sakurai, Kei from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/333299.jpg?s=04a2838d780892f4bac91ba678304fa7"
+  },
+  {
+    "name": "Schreiber, Wolfgang",
+    "prompt": "Schreiber, Wolfgang from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/338199.jpg?s=0b4f986633a3d798b7c954b78a905724"
+  },
+  {
+    "name": "Schwägelin, Rusalka",
+    "prompt": "Schwägelin, Rusalka from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/336722.jpg?s=ee271b12abb315c7cca0c63ccfdcbe6b"
+  },
+  {
+    "name": "Spinne, Rot",
+    "prompt": "Spinne, Rot from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/338197.jpg?s=4f6fb165c4162f120392237166bd1225"
+  },
+  {
+    "name": "Trifa, Valeria",
+    "prompt": "Trifa, Valeria from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/363060.jpg?s=05641a22bd6be7cba3c4873e82d175f1"
+  },
+  {
+    "name": "von Berlichingen, Göetz",
+    "prompt": "von Berlichingen, Göetz from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/338191.jpg?s=062d63471a2ffe1dd86336f2dc8b018b"
+  },
+  {
+    "name": "von Kircheisen, Beatrice Waltrud",
+    "prompt": "von Kircheisen, Beatrice Waltrud from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/351122.jpg?s=f05532a6ef0981b3990452434785fb34"
+  },
+  {
+    "name": "von Wittenburg, Eleonore",
+    "prompt": "von Wittenburg, Eleonore from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/319443.jpg?s=b74f6829dedcccea0308f2357e8e4eaa"
+  },
+  {
+    "name": "Yusa, Shirou",
+    "prompt": "Yusa, Shirou from Dies Irae",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/343570.jpg?s=6f9418c945d75a884472ca714201ebf5"
+  }
+]

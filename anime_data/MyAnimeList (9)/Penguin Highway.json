@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Aoyama",
+    "prompt": "Aoyama from Penguin Highway",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/362779.jpg?s=4c4e4cbeb7856db6e71b6db4760d4c89"
+  },
+  {
+    "name": "Lady",
+    "prompt": "Lady from Penguin Highway",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/362778.jpg?s=181e542e62469be612793c6de0ba582b"
+  },
+  {
+    "name": "Aoyama, Sister",
+    "prompt": "Aoyama, Sister from Penguin Highway",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/408826.jpg?s=b5392840c20a6a87db06cbd6b6ce58ab"
+  },
+  {
+    "name": "Aoyama, Mother",
+    "prompt": "Aoyama, Mother from Penguin Highway",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/408823.jpg?s=b8faec63b0a366de716b9d63fad38603"
+  },
+  {
+    "name": "Aoyama, Father",
+    "prompt": "Aoyama, Father from Penguin Highway",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/362774.jpg?s=2e6062e59387f2ee8235d427dace5105"
+  },
+  {
+    "name": "Hamamoto",
+    "prompt": "Hamamoto from Penguin Highway",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/362776.jpg?s=a425c2c4cd6f72ac328e07728cd51b0f"
+  },
+  {
+    "name": "Hamamoto, Father",
+    "prompt": "Hamamoto, Father from Penguin Highway",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/362773.jpg?s=619f66cbd9caaa5badc0ebe07fe53624"
+  },
+  {
+    "name": "Suzuki",
+    "prompt": "Suzuki from Penguin Highway",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/362775.jpg?s=33f66e67d4a448221dd19f4db3662c8c"
+  },
+  {
+    "name": "Uchida",
+    "prompt": "Uchida from Penguin Highway",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/362777.jpg?s=3bf82cb72d58f289fe2190bd8394b6ec"
+  }
+]

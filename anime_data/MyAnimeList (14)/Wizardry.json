@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Albert",
+    "prompt": "Albert from Wizardry",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/82908.jpg?s=656fd2c0b6f58cd5b7bf143f451f0d27"
+  },
+  {
+    "name": "Alex",
+    "prompt": "Alex from Wizardry",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/82904.jpg?s=b544317b4f66324c04a1d8c04bd902c6"
+  },
+  {
+    "name": "Hawkwind",
+    "prompt": "Hawkwind from Wizardry",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/82906.jpg?s=cb032679eb9c71f4fd52260ad54c445d"
+  },
+  {
+    "name": "Joeza",
+    "prompt": "Joeza from Wizardry",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/82907.jpg?s=0f9d5ee183f8846d573c56b2dec33993"
+  },
+  {
+    "name": "Shiela",
+    "prompt": "Shiela from Wizardry",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/82910.jpg?s=9bf28f8223e7df94fe49b5a6552d56a0"
+  },
+  {
+    "name": "Shin",
+    "prompt": "Shin from Wizardry",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/82905.jpg?s=69f97490c3ee59c5e7c20aa7abc4bb88"
+  },
+  {
+    "name": "Werdna",
+    "prompt": "Werdna from Wizardry",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/82909.jpg?s=433cf9541b466534d1ad6743df42a2f6"
+  },
+  {
+    "name": "Flack",
+    "prompt": "Flack from Wizardry",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/82911.jpg?s=1c9b6b10a1bc889de4a3e0928a166605"
+  },
+  {
+    "name": "Randy",
+    "prompt": "Randy from Wizardry",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/82912.jpg?s=482c945a69483c16e0a215f32a76b747"
+  },
+  {
+    "name": "Vampire Lord",
+    "prompt": "Vampire Lord from Wizardry",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/82913.jpg?s=a0f0487e7b6c145e2b0b1905a93cb6a1"
+  }
+]

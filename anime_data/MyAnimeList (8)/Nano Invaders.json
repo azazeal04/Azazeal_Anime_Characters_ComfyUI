@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Hikaru",
+    "prompt": "Hikaru from Nano Invaders",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/274823.jpg?s=e96737b38369af7e24fc743079a1cd7d"
+  },
+  {
+    "name": "Lee",
+    "prompt": "Lee from Nano Invaders",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/274583.jpg?s=a3eafc9a3fa423a43263f03b9c4e10cb"
+  },
+  {
+    "name": "Mimi",
+    "prompt": "Mimi from Nano Invaders",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/276442.jpg?s=6bcb3e8ccbdf017a9adcb6b68dc4e79c"
+  },
+  {
+    "name": "Anna",
+    "prompt": "Anna from Nano Invaders",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/276446.jpg?s=f92443c338fca067fb3d1109e42d6ef8"
+  },
+  {
+    "name": "David",
+    "prompt": "David from Nano Invaders",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/276451.jpg?s=5c5412b8e3c75628c3f41d480ea3635f"
+  }
+]

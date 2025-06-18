@@ -1,0 +1,552 @@
+[
+  {
+    "name": "Big Bad Wolf",
+    "prompt": "Big Bad Wolf from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/532159.jpg?s=31a1420d9f81d89d99c953c06262b053"
+  },
+  {
+    "name": "Bluebeard",
+    "prompt": "Bluebeard from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532227.jpg?s=770036835d5a6bd39d56dc59463a5e73"
+  },
+  {
+    "name": "Cinderella",
+    "prompt": "Cinderella from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/461693.jpg?s=70f3ef886b490a06cd17111cd1743a5b"
+  },
+  {
+    "name": "Deserter #1",
+    "prompt": "Deserter #1 from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/532256.jpg?s=0c5d51bc2ab0d31fd53814c9423f075a"
+  },
+  {
+    "name": "Frog Prince",
+    "prompt": "Frog Prince from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/532157.jpg?s=802a7e369d7f1ac73d68440271502e2f"
+  },
+  {
+    "name": "Gretel",
+    "prompt": "Gretel from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/461694.jpg?s=9f471cb8a165f2c3b314aca16aa5c4eb"
+  },
+  {
+    "name": "Hans",
+    "prompt": "Hans from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/532154.jpg?s=0a030d65620cb97b6176f5652697e154"
+  },
+  {
+    "name": "Hansel",
+    "prompt": "Hansel from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/531946.jpg?s=2b637c7c0b410de161a14e98bcdaa1ef"
+  },
+  {
+    "name": "Hero",
+    "prompt": "Hero from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/532215.jpg?s=e386f8f3ea88334cfa4a6db5f364ed8c"
+  },
+  {
+    "name": "Jorinda",
+    "prompt": "Jorinda from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/532228.jpg?s=c7a4c5504d544fbe2856b533c2957c18"
+  },
+  {
+    "name": "Joringel",
+    "prompt": "Joringel from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/532229.jpg?s=dc2ef191f1281a0756fd5aa13d6da636"
+  },
+  {
+    "name": "Josephine",
+    "prompt": "Josephine from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/532236.jpg?s=7c9f8a9194668815abc2f027cdbd0e1b"
+  },
+  {
+    "name": "Little Red Riding Hood",
+    "prompt": "Little Red Riding Hood from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/215323.jpg?s=abe18f4081c685c83631b5c287e8e1be"
+  },
+  {
+    "name": "Max",
+    "prompt": "Max from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/532166.jpg?s=38399715d8685d096cf5f753f19d9af7"
+  },
+  {
+    "name": "Peter",
+    "prompt": "Peter from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/532272.jpg?s=3f5ad093a2eefea1b1e13b7b26c583c9"
+  },
+  {
+    "name": "Prince Joseph",
+    "prompt": "Prince Joseph from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/532231.jpg?s=8edad48ebaa92099d060eebf1e461714"
+  },
+  {
+    "name": "Princess (Frog Prince)",
+    "prompt": "Princess (Frog Prince) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/532158.jpg?s=6c6ceabb9023b8be54b11a7ae309dd7d"
+  },
+  {
+    "name": "Princess Elena",
+    "prompt": "Princess Elena from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532254.jpg?s=3b1318408e9bd87a6a973c57aa6428f1"
+  },
+  {
+    "name": "Puss in Boots",
+    "prompt": "Puss in Boots from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/532167.jpg?s=2296256236ba55180b39579ada9f8858"
+  },
+  {
+    "name": "Queen (Snow White)",
+    "prompt": "Queen (Snow White) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/532203.jpg?s=0424af9a2430714308c3b2776d647753"
+  },
+  {
+    "name": "Rose-Red",
+    "prompt": "Rose-Red from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/532173.jpg?s=1eee203343b8bd82aaecbccbb3df1ca6"
+  },
+  {
+    "name": "Sleeping Beauty",
+    "prompt": "Sleeping Beauty from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532243.jpg?s=487e9ccc09674138b8a0bccb9cf64cf7"
+  },
+  {
+    "name": "Snow White",
+    "prompt": "Snow White from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/461692.jpg?s=9ffcbe04b9e5bd54fed6929e4a10f38e"
+  },
+  {
+    "name": "Snow-White",
+    "prompt": "Snow-White from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532153.jpg?s=87c6ee4efb1035832e04891790058608"
+  },
+  {
+    "name": "Algernon",
+    "prompt": "Algernon from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/532370.jpg?s=175a90939f7d21ec9009a2ed98805872"
+  },
+  {
+    "name": "Bear (Rose-Red)",
+    "prompt": "Bear (Rose-Red) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/532174.jpg?s=15b55f9e0f435c3fc2a8db468fcd1507"
+  },
+  {
+    "name": "Cat (Bremen)",
+    "prompt": "Cat (Bremen) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/531948.jpg?s=208ec96bfb4efefd4a1e92754ddc937a"
+  },
+  {
+    "name": "Chick",
+    "prompt": "Chick from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/532207.jpg?s=8240948c117fcd5f8eb3fc0c69b4a3eb"
+  },
+  {
+    "name": "Complainer",
+    "prompt": "Complainer from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/532211.jpg?s=bac6ec72f536dd64d8442de7cf63df5f"
+  },
+  {
+    "name": "Demon King",
+    "prompt": "Demon King from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/532262.jpg?s=8c632ef9d222d5ceb5f7fa333f8a67b4"
+  },
+  {
+    "name": "Deserter #2",
+    "prompt": "Deserter #2 from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/532257.jpg?s=709c2791c5948dc6c67b5301efcf05e7"
+  },
+  {
+    "name": "Deserter #3",
+    "prompt": "Deserter #3 from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/532258.jpg?s=bb5f31937cf81b14f4784d23952428ee"
+  },
+  {
+    "name": "Dog (Bremen)",
+    "prompt": "Dog (Bremen) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/531950.jpg?s=5cf54a01bb19e84551734802419ae5d7"
+  },
+  {
+    "name": "Donkey (Bremen)",
+    "prompt": "Donkey (Bremen) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/531947.jpg?s=69222d2403ba1488a5e9fde543dd4cb7"
+  },
+  {
+    "name": "Doris",
+    "prompt": "Doris from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/532205.jpg?s=5fdc3474468ac108861c7cb3d31a980f"
+  },
+  {
+    "name": "Elder",
+    "prompt": "Elder from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/532199.jpg?s=41f8af2389262e433b9e68714c14cc44"
+  },
+  {
+    "name": "Enchantress",
+    "prompt": "Enchantress from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/532242.jpg?s=834532557da42873f262c1b4d6d531fc"
+  },
+  {
+    "name": "Farmer (Old Sultan)",
+    "prompt": "Farmer (Old Sultan) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532252.jpg?s=667a962f3c8bdaf138b599aea706a021"
+  },
+  {
+    "name": "Farmer's Baby (Old Sultan)",
+    "prompt": "Farmer's Baby (Old Sultan) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/532250.jpg?s=9de373155cd7535f14517dc0bd7aab31"
+  },
+  {
+    "name": "Farmer's Wife (Old Sultan)",
+    "prompt": "Farmer's Wife (Old Sultan) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/532251.jpg?s=4187c45a25dd142b4bde4d5d1d3426c8"
+  },
+  {
+    "name": "Frosty",
+    "prompt": "Frosty from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532219.jpg?s=4e834c833545d71e26153f69415b061c"
+  },
+  {
+    "name": "Gnome (Rose-Red)",
+    "prompt": "Gnome (Rose-Red) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/532175.jpg?s=4dfd61e673f17c1283afa869e793c7ce"
+  },
+  {
+    "name": "Golden Goose",
+    "prompt": "Golden Goose from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/532164.jpg?s=2fae069cd3b3a2a395fa38a98532efbc"
+  },
+  {
+    "name": "Grizelda",
+    "prompt": "Grizelda from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/532378.jpg?s=b1b0c7f8daa577dfb77e046efbf8e43d"
+  },
+  {
+    "name": "Gwendolyn",
+    "prompt": "Gwendolyn from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532369.jpg?s=29100d8f58afca9b189634d43553d155"
+  },
+  {
+    "name": "Hansel & Gretel's Father",
+    "prompt": "Hansel & Gretel's Father from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/531955.jpg?s=bf086e637200540935ba4745dbc04861"
+  },
+  {
+    "name": "Hansel & Gretel's Stepmother",
+    "prompt": "Hansel & Gretel's Stepmother from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/531954.jpg?s=eb3c5b9fbef097187b315dd7e62eff17"
+  },
+  {
+    "name": "Head Thief (Bremen)",
+    "prompt": "Head Thief (Bremen) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/531953.jpg?s=a03bc757da5761f031312f037f73b1fa"
+  },
+  {
+    "name": "Heinrich",
+    "prompt": "Heinrich from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/532155.jpg?s=b8e923be3ce659820f3bd9022c625d84"
+  },
+  {
+    "name": "Hunter (Hooded Red)",
+    "prompt": "Hunter (Hooded Red) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/532160.jpg?s=b1f33ad81353994f1b6c69669aba6cb1"
+  },
+  {
+    "name": "Hunter (Snow White)",
+    "prompt": "Hunter (Snow White) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/532208.jpg?s=54a75284fff1fe039c6be8d383a2d462"
+  },
+  {
+    "name": "Ignatz",
+    "prompt": "Ignatz from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/532375.jpg?s=c8ad6661c69b356d045a6fbbca5dd017"
+  },
+  {
+    "name": "Josephine's Brother #1",
+    "prompt": "Josephine's Brother #1 from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/532237.jpg?s=3f8d1391aa1cb5b260ee8df912915a83"
+  },
+  {
+    "name": "Josephine's Brother #2",
+    "prompt": "Josephine's Brother #2 from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532238.jpg?s=9522b83479173d12add2ee61d6e97098"
+  },
+  {
+    "name": "Josephine's Brother #3",
+    "prompt": "Josephine's Brother #3 from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/532239.jpg?s=411f96671a23d68915cb54fc6b5a76f7"
+  },
+  {
+    "name": "Kasia",
+    "prompt": "Kasia from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/532240.jpg?s=33d20917153c56646043ab1c870cb7f7"
+  },
+  {
+    "name": "King (Cinderella)",
+    "prompt": "King (Cinderella) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/532374.jpg?s=75aa469e70776547a8caa36c2836545b"
+  },
+  {
+    "name": "King (Dancing Shoes)",
+    "prompt": "King (Dancing Shoes) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/532270.jpg?s=ca479abdf389d16d722604070802217f"
+  },
+  {
+    "name": "King (Frog Prince)",
+    "prompt": "King (Frog Prince) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/532156.jpg?s=991750e445c922ea31a6ca4a872854ac"
+  },
+  {
+    "name": "King (King Thrushbeard)",
+    "prompt": "King (King Thrushbeard) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/532255.jpg?s=5241c8b67eeee05793fb172258d2b909"
+  },
+  {
+    "name": "King (Puss in Boots)",
+    "prompt": "King (Puss in Boots) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/532168.jpg?s=56f19171ce8bf34b67f5bcb748402ba4"
+  },
+  {
+    "name": "King (Six Men)",
+    "prompt": "King (Six Men) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/532214.jpg?s=6c3466e9d139749d943c2503d80a6fea"
+  },
+  {
+    "name": "King (Sleeping Beauty)",
+    "prompt": "King (Sleeping Beauty) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/532245.jpg?s=541e13322442e4bb1497ef9527d64369"
+  },
+  {
+    "name": "King (Water of Life)",
+    "prompt": "King (Water of Life) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/532234.jpg?s=f2bad33566ace5ad75b24a450ce16c3f"
+  },
+  {
+    "name": "King Thrushbeard",
+    "prompt": "King Thrushbeard from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532253.jpg?s=7b1248179cf4da80f881cc8b89103e49"
+  },
+  {
+    "name": "Klaus",
+    "prompt": "Klaus from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/532204.jpg?s=aa17f3518ab0d325859dd776ad6dc2d3"
+  },
+  {
+    "name": "Knight (Water of Life)",
+    "prompt": "Knight (Water of Life) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/532235.jpg?s=468cd2ff93d216390b1e228c786afae3"
+  },
+  {
+    "name": "Little Red Riding Hood's Grandmother",
+    "prompt": "Little Red Riding Hood's Grandmother from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532162.jpg?s=b78b7d765d173a24b9dcb35f20b1df31"
+  },
+  {
+    "name": "Little Red Riding Hood's Mother",
+    "prompt": "Little Red Riding Hood's Mother from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/532161.jpg?s=c4a889aa256dfce1df0829db15cf8cdf"
+  },
+  {
+    "name": "Madame Pompadour",
+    "prompt": "Madame Pompadour from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/532376.jpg?s=c36193c93ab67b25b14953c954de7634"
+  },
+  {
+    "name": "Magic Mirror (Snow White)",
+    "prompt": "Magic Mirror (Snow White) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/532561.jpg?s=1b190771fac7c907c243b3b475f8bf01"
+  },
+  {
+    "name": "Maleficent Witch (Sleeping Beauty)",
+    "prompt": "Maleficent Witch (Sleeping Beauty) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/532247.jpg?s=c07ce22bdfb5581b168a0d1614501f6c"
+  },
+  {
+    "name": "Master",
+    "prompt": "Master from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/532206.jpg?s=c5d3d7917ba371758e82a274b1f963fa"
+  },
+  {
+    "name": "Mercenary (Dancing Shoes)",
+    "prompt": "Mercenary (Dancing Shoes) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532271.jpg?s=9216d72e96f8c307eb942a62e332368a"
+  },
+  {
+    "name": "Mukimuki",
+    "prompt": "Mukimuki from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/532200.jpg?s=45d7b7489433b6c428ff20045e2edee0"
+  },
+  {
+    "name": "Muscles",
+    "prompt": "Muscles from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/532216.jpg?s=38051d18f9efaf74d10b7fcae7f7dfa9"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Oddball",
+    "prompt": "Oddball from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/532202.jpg?s=e015afe3976faea731844ef44b9a46c3"
+  },
+  {
+    "name": "Old Cat",
+    "prompt": "Old Cat from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532249.jpg?s=0c405ab0d03727dbcfbbae3f15d4b327"
+  },
+  {
+    "name": "Old Wolf",
+    "prompt": "Old Wolf from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/532248.jpg?s=401fe3de60eefe16e351145a59b2c022"
+  },
+  {
+    "name": "Owner of the Golden Goose",
+    "prompt": "Owner of the Golden Goose from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/532165.jpg?s=51b5e955c5a63c12db98284dec54eaa4"
+  },
+  {
+    "name": "Peasant (Bremen)",
+    "prompt": "Peasant (Bremen) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/531951.jpg?s=fdc941c96501aaad03e819bd7837c3b3"
+  },
+  {
+    "name": "Peasant's Wife (Bremen)",
+    "prompt": "Peasant's Wife (Bremen) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/531952.jpg?s=ed70340e626f1778a672a964ee8e7445"
+  },
+  {
+    "name": "Phoebe",
+    "prompt": "Phoebe from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/532377.jpg?s=b3749ef9345b0d5886b1b6c82cccedf0"
+  },
+  {
+    "name": "Prince (Cinderella)",
+    "prompt": "Prince (Cinderella) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532372.jpg?s=96acf732059412bd12f009d92759154a"
+  },
+  {
+    "name": "Prince (Sleeping Beauty)",
+    "prompt": "Prince (Sleeping Beauty) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/532244.jpg?s=c76945726775929669d403f55551fe4a"
+  },
+  {
+    "name": "Prince Franz",
+    "prompt": "Prince Franz from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/532232.jpg?s=1fe6cdb24f894bc7d643e2820559061e"
+  },
+  {
+    "name": "Prince's Brother (Rose-Red)",
+    "prompt": "Prince's Brother (Rose-Red) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/532171.jpg?s=1e789b19b9decaabdb92aa71e8856a16"
+  },
+  {
+    "name": "Princess (Puss in Boots)",
+    "prompt": "Princess (Puss in Boots) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/532170.jpg?s=1ed486ccb3aa81b6d2ac23f0e6ad07ea"
+  },
+  {
+    "name": "Princess (Six Men)",
+    "prompt": "Princess (Six Men) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/532213.jpg?s=2698c5a7b0ab0436b1bd558d1de16449"
+  },
+  {
+    "name": "Princess Anna",
+    "prompt": "Princess Anna from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/532233.jpg?s=3a7335c134471d8f3de3750b471e12d7"
+  },
+  {
+    "name": "Princess Genevieve",
+    "prompt": "Princess Genevieve from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/532266.jpg?s=d71fe386fb9f69c91d424db3f0a7ae8d"
+  },
+  {
+    "name": "Princess Julia",
+    "prompt": "Princess Julia from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/532274.jpg?s=c88816d716abafd35f203bf3e49604a6"
+  },
+  {
+    "name": "Princess Louise",
+    "prompt": "Princess Louise from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/532267.jpg?s=8b102fd06924de63782ca8f9ce25d725"
+  },
+  {
+    "name": "Professor",
+    "prompt": "Professor from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/532201.jpg?s=7c11a770a916f0781b026949cb301258"
+  },
+  {
+    "name": "Puffer",
+    "prompt": "Puffer from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532218.jpg?s=3228725d21f5c834cbd330554d78a9b1"
+  },
+  {
+    "name": "Queen (Cinderella)",
+    "prompt": "Queen (Cinderella) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/532373.jpg?s=85ce04f1fa32496b762489ccf3235295"
+  },
+  {
+    "name": "Queen (Sleeping Beauty)",
+    "prompt": "Queen (Sleeping Beauty) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/532246.jpg?s=e3a640ceede086a21abdba895f002f91"
+  },
+  {
+    "name": "Rooster (Bremen)",
+    "prompt": "Rooster (Bremen) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/531949.jpg?s=5e9718eb7814a0ee3958ea544591511e"
+  },
+  {
+    "name": "Sniper",
+    "prompt": "Sniper from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/532217.jpg?s=15cebaf4f87e69707673f3b5d9b30032"
+  },
+  {
+    "name": "Snow-White & Rose-Red's Mother",
+    "prompt": "Snow-White & Rose-Red's Mother from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/532172.jpg?s=817ed9cec0f99ba994014cd134a78559"
+  },
+  {
+    "name": "Sorcerer (Puss in Boots)",
+    "prompt": "Sorcerer (Puss in Boots) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/532169.jpg?s=a0905c473dd8800061ec24d4c8689789"
+  },
+  {
+    "name": "Soul Thief",
+    "prompt": "Soul Thief from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/532259.jpg?s=eb9eef52d3637ca19b45903f738fe390"
+  },
+  {
+    "name": "Speedy",
+    "prompt": "Speedy from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/532220.jpg?s=4377f81feb7a224ca569080137916b44"
+  },
+  {
+    "name": "Sultan",
+    "prompt": "Sultan from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/532230.jpg?s=5ead8000d2bcfd2dd5c8d94fa972587f"
+  },
+  {
+    "name": "Witch (Hansel & Gretel)",
+    "prompt": "Witch (Hansel & Gretel) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/531956.jpg?s=6735a5b6b08667945f2029d69221bbca"
+  },
+  {
+    "name": "Witch (Jorinde & Joringel)",
+    "prompt": "Witch (Jorinde & Joringel) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/532241.jpg?s=fda4e81341ffbd590f604504c50829a4"
+  },
+  {
+    "name": "Witch (Snow White)",
+    "prompt": "Witch (Snow White) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/532210.jpg?s=85696b2f2289a3853f00be1d449a2408"
+  },
+  {
+    "name": "Woodcutter (Cinderella)",
+    "prompt": "Woodcutter (Cinderella) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/532371.jpg?s=d4b217b13b08e4660bb5298a394e4597"
+  },
+  {
+    "name": "Woodcutter (Hooded Red)",
+    "prompt": "Woodcutter (Hooded Red) from Grimm Meisaku Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/532163.jpg?s=926a3de6a7adf43afcf182800d3d653b"
+  }
+]

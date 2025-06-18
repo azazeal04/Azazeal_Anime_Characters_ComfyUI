@@ -1,0 +1,237 @@
+[
+  {
+    "name": "Kagami, Taiga",
+    "prompt": "Kagami, Taiga from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/169361.jpg?s=f512a9ee4fc65da1f7a472c5880a252b"
+  },
+  {
+    "name": "Kuroko, Tetsuya",
+    "prompt": "Kuroko, Tetsuya from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/258381.jpg?s=48b1c05a2e426be1ad1726cbbb5e210b"
+  },
+  {
+    "name": "Aida, Kagetora",
+    "prompt": "Aida, Kagetora from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/232137.jpg?s=1868801b59fb18e071570b51fe7d95d5"
+  },
+  {
+    "name": "Aida, Riko",
+    "prompt": "Aida, Riko from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/163313.jpg?s=1f0e8bba2bff933c69b158ff795ace30"
+  },
+  {
+    "name": "Akashi, Seijuurou",
+    "prompt": "Akashi, Seijuurou from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/275813.jpg?s=516396f259b08c9bdcd400f0ac86afde"
+  },
+  {
+    "name": "Aomine, Daiki",
+    "prompt": "Aomine, Daiki from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/246745.jpg?s=d52cc81c1470ab893dd2b389070a871e"
+  },
+  {
+    "name": "Fukuda, Hiroshi",
+    "prompt": "Fukuda, Hiroshi from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/166677.jpg?s=ea5726ce6b8f205af591c5aaec459585"
+  },
+  {
+    "name": "Furihata, Kouki",
+    "prompt": "Furihata, Kouki from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/166675.jpg?s=baab7a412afab39c9e499f4a77bb95dc"
+  },
+  {
+    "name": "Harasawa, Katsunori",
+    "prompt": "Harasawa, Katsunori from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/175257.jpg?s=dbe3c5b48bb28437baa95d6effb19fb5"
+  },
+  {
+    "name": "Hayakawa, Mitsuhiro",
+    "prompt": "Hayakawa, Mitsuhiro from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/181531.jpg?s=a696b9866bd95c694cb37dd5eb5f1655"
+  },
+  {
+    "name": "Hiraiwa, Kouji",
+    "prompt": "Hiraiwa, Kouji from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hyuuga, Junpei",
+    "prompt": "Hyuuga, Junpei from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/165261.jpg?s=15fb45ccb5feb058d7d591bb30398158"
+  },
+  {
+    "name": "Imayoshi, Shoichi",
+    "prompt": "Imayoshi, Shoichi from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/242941.jpg?s=01fbcdb4af5f0fa8070c97bc1e4aa521"
+  },
+  {
+    "name": "Iwamura, Tsutomu",
+    "prompt": "Iwamura, Tsutomu from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/167715.jpg?s=7d3b98d8f28188b6140121fa1cf53792"
+  },
+  {
+    "name": "Izuki, Shun",
+    "prompt": "Izuki, Shun from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/185749.jpg?s=3a99e2fef4af376a1ad3c34de731be25"
+  },
+  {
+    "name": "Kasamatsu, Yukio",
+    "prompt": "Kasamatsu, Yukio from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/164419.jpg?s=7429ccf3f9254220d43e63b1dfc4dc91"
+  },
+  {
+    "name": "Kasuga, Ryuuhei",
+    "prompt": "Kasuga, Ryuuhei from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/167717.jpg?s=129b86b7ba87b0969f4e8838fcbb0adc"
+  },
+  {
+    "name": "Kawahara, Kouichi",
+    "prompt": "Kawahara, Kouichi from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/163557.jpg?s=abfdc7ef6b4335ecb8b6c7ad8d0a3945"
+  },
+  {
+    "name": "Kimura, Shinsuke",
+    "prompt": "Kimura, Shinsuke from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/275808.jpg?s=6ae26c09be6bc1497a3f627220492ec6"
+  },
+  {
+    "name": "Kise, Ryouta",
+    "prompt": "Kise, Ryouta from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/246753.jpg?s=e5810a9688d84690e4934ad9084be6b1"
+  },
+  {
+    "name": "Kiyoshi, Teppei",
+    "prompt": "Kiyoshi, Teppei from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/175263.jpg?s=5274640b48b65caac3b9afc3bdff261e"
+  },
+  {
+    "name": "Kobori, Kouji",
+    "prompt": "Kobori, Kouji from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/181527.jpg?s=df4dc5ba0960f846e92780d217dc8347"
+  },
+  {
+    "name": "Koganei, Akane",
+    "prompt": "Koganei, Akane from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/270699.jpg?s=aaa96398883ed2187899964bc7e07c84"
+  },
+  {
+    "name": "Koganei, Shinji",
+    "prompt": "Koganei, Shinji from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/195943.jpg?s=ca6e11ccd829bae958fbdefc180c9fc0"
+  },
+  {
+    "name": "Matsumoto, Yukinori",
+    "prompt": "Matsumoto, Yukinori from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/168781.jpg?s=1e1e1ebdf23739755ba28c0ddc70a57b"
+  },
+  {
+    "name": "Midorima, Shintarou",
+    "prompt": "Midorima, Shintarou from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/165835.jpg?s=6814a00169479efd70d34f471952f01a"
+  },
+  {
+    "name": "Mitobe, Rinnosuke",
+    "prompt": "Mitobe, Rinnosuke from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/165263.jpg?s=17639b979c445eb97d819fdcdaf51263"
+  },
+  {
+    "name": "Miyaji, Kiyoshi",
+    "prompt": "Miyaji, Kiyoshi from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/276216.jpg?s=a15ce126622610b8a3bbae3734cef799"
+  },
+  {
+    "name": "Momoi, Satsuki",
+    "prompt": "Momoi, Satsuki from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/172733.jpg?s=74a8edcce748d7f06462d1fcd60bbf46"
+  },
+  {
+    "name": "Moriyama, Yoshitaka",
+    "prompt": "Moriyama, Yoshitaka from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/181537.jpg?s=a251579da6f684b165ad43f6d91b0319"
+  },
+  {
+    "name": "Murasakibara, Atsushi",
+    "prompt": "Murasakibara, Atsushi from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/246755.jpg?s=e1b9d35502872e8ae682ed00e0af233a"
+  },
+  {
+    "name": "Nakatani, Masaaki",
+    "prompt": "Nakatani, Masaaki from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/170339.jpg?s=233e01d851a7daae2a90001ad30abad8"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Oomuro, Yoshikazu",
+    "prompt": "Oomuro, Yoshikazu from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/279354.jpg?s=ee3dcd5bcb8dfd6949fd9320108484c6"
+  },
+  {
+    "name": "Ootsubo, Taisuke",
+    "prompt": "Ootsubo, Taisuke from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/167093.jpg?s=133b7d397386989842206780526d9fd2"
+  },
+  {
+    "name": "Sakamoto, Kenjirou",
+    "prompt": "Sakamoto, Kenjirou from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/279353.jpg?s=10d487c682a6fbf13cb10f42ad1e5254"
+  },
+  {
+    "name": "Sakurai, Ryou",
+    "prompt": "Sakurai, Ryou from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/175261.jpg?s=c0aa436f7a3d641f651c8f2ac14f85ef"
+  },
+  {
+    "name": "Siki, Papa Mbai",
+    "prompt": "Siki, Papa Mbai from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/166673.jpg?s=2224394d91a4e7947907ddda66e4af8d"
+  },
+  {
+    "name": "Susa, Yoshinori",
+    "prompt": "Susa, Yoshinori from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/175243.jpg?s=e4a91d3e4ae3da9cfd5f3e5914bfaa58"
+  },
+  {
+    "name": "Takao, Kazunari",
+    "prompt": "Takao, Kazunari from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/170301.jpg?s=0d792af0164ed544c6e96686082819a4"
+  },
+  {
+    "name": "Takeda, Kenji",
+    "prompt": "Takeda, Kenji from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/163299.jpg?s=1a145304c41c5d0cbbd1be3aab22fb24"
+  },
+  {
+    "name": "Takeuchi, Genta",
+    "prompt": "Takeuchi, Genta from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/181525.jpg?s=5af619067a4cf8aa41b92acf17ed703d"
+  },
+  {
+    "name": "Tanaka",
+    "prompt": "Tanaka from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/280728.jpg?s=b4a5d58b58050a78c42f52adb524aad7"
+  },
+  {
+    "name": "Tanimura, Yuusuke",
+    "prompt": "Tanimura, Yuusuke from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/166613.jpg?s=7d2f221634e9e15e93da1c73bfe9c5d0"
+  },
+  {
+    "name": "Tsuchida, Satoshi",
+    "prompt": "Tsuchida, Satoshi from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/163319.jpg?s=84c469b63edd7f811abd46f483047e9e"
+  },
+  {
+    "name": "Tsugawa, Tomoki",
+    "prompt": "Tsugawa, Tomoki from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/167713.jpg?s=054bb13474903161243ca0cf4641f7a5"
+  },
+  {
+    "name": "Wakamatsu, Kousuke",
+    "prompt": "Wakamatsu, Kousuke from Kuroko no Basket",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/181529.jpg?s=abeb0af50d6a0218c7167dd68aa88da2"
+  }
+]

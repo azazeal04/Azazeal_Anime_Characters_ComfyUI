@@ -1,0 +1,667 @@
+[
+  {
+    "name": "Doraemon",
+    "prompt": "Doraemon from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/279905.jpg?s=41ad5388ff6ffcb811bd83d3701ecaad"
+  },
+  {
+    "name": "Gouda, Takeshi",
+    "prompt": "Gouda, Takeshi from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/93606.jpg?s=05b0a65b5930e42a9229006e5805ddcf"
+  },
+  {
+    "name": "Honekawa, Suneo",
+    "prompt": "Honekawa, Suneo from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/95993.jpg?s=2b68358e0fdcc5f11144010a1d562eee"
+  },
+  {
+    "name": "Minamoto, Shizuka",
+    "prompt": "Minamoto, Shizuka from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/570490.jpg?s=0530e3da5ba6ef53b68d46030b3316f7"
+  },
+  {
+    "name": "Nobi, Nobita",
+    "prompt": "Nobi, Nobita from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/93721.jpg?s=9b5d23b9ac02dbd5dfc59c1af00e9b14"
+  },
+  {
+    "name": "Aibu, Saki",
+    "prompt": "Aibu, Saki from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/497734.jpg?s=a48b2fc872d3f6d234390518bff7e833"
+  },
+  {
+    "name": "Akan Vader",
+    "prompt": "Akan Vader from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497376.jpg?s=af65ce251f07cf3b547930e68f08a057"
+  },
+  {
+    "name": "Alex, Depon",
+    "prompt": "Alex, Depon from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498119.jpg?s=672cde65a8a0e4a92572669212d4d53f"
+  },
+  {
+    "name": "Asada, Mao",
+    "prompt": "Asada, Mao from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/572284.jpg?s=f4e80d7b8900b703ae899395426871cb"
+  },
+  {
+    "name": "Baron Skull",
+    "prompt": "Baron Skull from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/571181.jpg?s=ddea21c22672cc8c7c45dbf15a8bfb49"
+  },
+  {
+    "name": "Belle",
+    "prompt": "Belle from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/496787.jpg?s=1c46a5add8182b31654aa63c5c91f640"
+  },
+  {
+    "name": "Besoemon",
+    "prompt": "Besoemon from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/573762.jpg?s=2312f093ab9407a436abd6f8c1998f85"
+  },
+  {
+    "name": "Boudet",
+    "prompt": "Boudet from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/571566.jpg?s=a47352ff1787c55155728cead6f0be8f"
+  },
+  {
+    "name": "Candy Store Owner",
+    "prompt": "Candy Store Owner from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/570877.jpg?s=72f79ecfe172acce24008dc4810ca64b"
+  },
+  {
+    "name": "Captain",
+    "prompt": "Captain from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/573765.jpg?s=d19dcf25e278aac545a89c01f7a033df"
+  },
+  {
+    "name": "Cave",
+    "prompt": "Cave from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/572790.jpg?s=c3a477d0a841c0114943e734ce59ef36"
+  },
+  {
+    "name": "Chammy",
+    "prompt": "Chammy from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/572404.jpg?s=b725a8f17e5d348459affc9bb1947855"
+  },
+  {
+    "name": "Chan",
+    "prompt": "Chan from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Clem",
+    "prompt": "Clem from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/572406.jpg?s=c738d1dbbf854d35b3cc3894a2d4a5d7"
+  },
+  {
+    "name": "Connie",
+    "prompt": "Connie from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/499080.jpg?s=1abe9472e0c9f1e679ac4d1e8dc29365"
+  },
+  {
+    "name": "Controller",
+    "prompt": "Controller from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/572389.jpg?s=c5cc3b4ed726cdc647ab695ef33d35d6"
+  },
+  {
+    "name": "Dakkusu",
+    "prompt": "Dakkusu from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/573764.jpg?s=20d87f5154fdfdde71e43c60b8b62c7f"
+  },
+  {
+    "name": "Denja",
+    "prompt": "Denja from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/498114.jpg?s=a17cb7d292e53806bf101bb10aa1c0fe"
+  },
+  {
+    "name": "Director of Space Tarzan",
+    "prompt": "Director of Space Tarzan from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/571180.jpg?s=eaaa41f02a83f250202974d4d4f97db4"
+  },
+  {
+    "name": "Doctor",
+    "prompt": "Doctor from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/572792.jpg?s=510ace00c89ed6ac6c74f59a89f3f32a"
+  },
+  {
+    "name": "Dorami",
+    "prompt": "Dorami from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/164663.jpg?s=03bf7d6997125892938c8c3d91e7860d"
+  },
+  {
+    "name": "Dorian",
+    "prompt": "Dorian from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/571568.jpg?s=c74d53be9fc067c3ede8eb1bb53da9c0"
+  },
+  {
+    "name": "Elder",
+    "prompt": "Elder from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/573766.jpg?s=2610d2996da78c40e974862bae8a6b9a"
+  },
+  {
+    "name": "Elder Daimo",
+    "prompt": "Elder Daimo from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/571815.jpg?s=73d5626e53b3672c682e66bd9d782b34"
+  },
+  {
+    "name": "Enban",
+    "prompt": "Enban from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/497560.jpg?s=23373b86238cd988a1838fef24d8a724"
+  },
+  {
+    "name": "Factory Manager of the Matsushiba Robot Factory",
+    "prompt": "Factory Manager of the Matsushiba Robot Factory from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/571770.jpg?s=416d04984bbc3f2447c4a7d1f24809a4"
+  },
+  {
+    "name": "Floor Manager",
+    "prompt": "Floor Manager from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/572791.jpg?s=e05ad27bd889f9aebda28768b0fd90c2"
+  },
+  {
+    "name": "General",
+    "prompt": "General from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/572005.jpg?s=2672250c6afe2b5b186d9075b5f86105"
+  },
+  {
+    "name": "George",
+    "prompt": "George from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/571796.jpg?s=8dfe42127fc8b68e9b6f633525fd8213"
+  },
+  {
+    "name": "Girl with a Yellow Balloon",
+    "prompt": "Girl with a Yellow Balloon from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/571396.jpg?s=d42963c359911baed5ba6eae596690ec"
+  },
+  {
+    "name": "God Robot",
+    "prompt": "God Robot from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/571541.jpg?s=00b2b53d9e57c167c90b224cb713a131"
+  },
+  {
+    "name": "Goddess Robot",
+    "prompt": "Goddess Robot from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/570884.jpg?s=b3eb08b9e538130f914cd68fbe71af0d"
+  },
+  {
+    "name": "Gondo",
+    "prompt": "Gondo from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/572561.jpg?s=80a53d6f7c2c53f8589636febda8e7ac"
+  },
+  {
+    "name": "Gonsuke",
+    "prompt": "Gonsuke from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/497797.jpg?s=f5b327ad032cbad3da11ca195c4e51c8"
+  },
+  {
+    "name": "Gouda, Mother",
+    "prompt": "Gouda, Mother from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/288032.jpg?s=6401679a37e0e23025c5327ab5249552"
+  },
+  {
+    "name": "Hanasaka",
+    "prompt": "Hanasaka from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/571034.jpg?s=fa2ffdfb9b9fcd70350ec32afd013931"
+  },
+  {
+    "name": "Hayami, Mokomichi",
+    "prompt": "Hayami, Mokomichi from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/571294.jpg?s=46643ea3fa22d8b7c8824c19129134a8"
+  },
+  {
+    "name": "Himeko's Mother",
+    "prompt": "Himeko's Mother from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/571557.jpg?s=b5851f80a9184906a372712434a594e7"
+  },
+  {
+    "name": "Hitsuji",
+    "prompt": "Hitsuji from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/498763.jpg?s=f8ece50800db6c32ea59a1fe3ea92bd0"
+  },
+  {
+    "name": "Hoi",
+    "prompt": "Hoi from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/497466.jpg?s=15c34c98359505d1be80ce4c916564a6"
+  },
+  {
+    "name": "Hoi's Father",
+    "prompt": "Hoi's Father from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/571814.jpg?s=54ce20fab5a15e2495ec940a9f575b12"
+  },
+  {
+    "name": "Honekawa, Mother",
+    "prompt": "Honekawa, Mother from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/357223.jpg?s=ca2085c748761e6ffe87c73509ed3e6b"
+  },
+  {
+    "name": "Honekawa, Sunekichi",
+    "prompt": "Honekawa, Sunekichi from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/496978.jpg?s=64e89e4bdc3708304b0b8a565943a229"
+  },
+  {
+    "name": "Jester",
+    "prompt": "Jester from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/499081.jpg?s=39dc8f28663391b40eae2d01f4a6cb6f"
+  },
+  {
+    "name": "Johan",
+    "prompt": "Johan from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/573313.jpg?s=368a7770933075d03856dde13efe23b3"
+  },
+  {
+    "name": "Johnny, Pirate Captain",
+    "prompt": "Johnny, Pirate Captain from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/571729.jpg?s=a7764f1322a4766bcee1246b3dfd221f"
+  },
+  {
+    "name": "Josef",
+    "prompt": "Josef from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497570.jpg?s=5d7d275d123996b37de00df5361c6e10"
+  },
+  {
+    "name": "Karen",
+    "prompt": "Karen from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/498120.jpg?s=9f07dd62187ee2b1d67efaab91b8e92d"
+  },
+  {
+    "name": "Kawaemon",
+    "prompt": "Kawaemon from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/573763.jpg?s=0f34b8498de319d92f0ab0702dbd4e94"
+  },
+  {
+    "name": "Kenneth",
+    "prompt": "Kenneth from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/571730.jpg?s=b2c05fbc7aa8082b481f8a93fee8c081"
+  },
+  {
+    "name": "King of Balt",
+    "prompt": "King of Balt from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/499088.jpg?s=faafe8f1f931f02d76b1252242aa2796"
+  },
+  {
+    "name": "King of Maskar",
+    "prompt": "King of Maskar from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/571806.jpg?s=68697e05a5a89e60492782ebf69644ac"
+  },
+  {
+    "name": "Kun",
+    "prompt": "Kun from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/571809.jpg?s=fc20c08e3547acd0470ec8626b4127af"
+  },
+  {
+    "name": "Lala",
+    "prompt": "Lala from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/571813.jpg?s=1601b5b04534c9446781449d4e1a13f1"
+  },
+  {
+    "name": "Lilian",
+    "prompt": "Lilian from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/571570.jpg?s=e2ea92ecf6b00b1c2e2383abde821e67"
+  },
+  {
+    "name": "Lugarde",
+    "prompt": "Lugarde from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/499089.jpg?s=b58e9cd141c47cabdc73771bc693c039"
+  },
+  {
+    "name": "Lulli",
+    "prompt": "Lulli from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/498022.jpg?s=a6d563055f2dc7d386e7d30a6588be95"
+  },
+  {
+    "name": "Majime",
+    "prompt": "Majime from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498761.jpg?s=27f6efd0ee40f6caa6ba97ed93304467"
+  },
+  {
+    "name": "Marian",
+    "prompt": "Marian from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/571569.jpg?s=7a8cfbc18971368e8599a3ba723eb77b"
+  },
+  {
+    "name": "Mecha Jirou",
+    "prompt": "Mecha Jirou from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/572801.jpg?s=b5d6d6e7047d338286583f5a45a1fad0"
+  },
+  {
+    "name": "Microbo",
+    "prompt": "Microbo from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/573767.jpg?s=61cbbbe2fe5cc79ff6c9be2d19bd7753"
+  },
+  {
+    "name": "Mikaela",
+    "prompt": "Mikaela from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/573314.jpg?s=2676f4928d48e504a0573cd399da7dca"
+  },
+  {
+    "name": "Mokke",
+    "prompt": "Mokke from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/571731.jpg?s=404625296969c642b58f520cdce65090"
+  },
+  {
+    "name": "Momotarou's Grandfather",
+    "prompt": "Momotarou's Grandfather from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/572003.jpg?s=c7a86c97a9fcb2ba30c92d502df12bd6"
+  },
+  {
+    "name": "Momotarou's Grandmother",
+    "prompt": "Momotarou's Grandmother from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/572004.jpg?s=6edb4b8ad6529ce1d8d9438347fa66b1"
+  },
+  {
+    "name": "Mong",
+    "prompt": "Mong from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/497902.jpg?s=7d4006d6db65d6f58188d49f2e1139e5"
+  },
+  {
+    "name": "Mosaro",
+    "prompt": "Mosaro from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/498765.jpg?s=82c89cb4942e5b0cac8a74444ca43010"
+  },
+  {
+    "name": "Munchausen, Lotte",
+    "prompt": "Munchausen, Lotte from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/497569.jpg?s=38db7c1c511ec077c618fdc2f3ac7746"
+  },
+  {
+    "name": "Musashibou, Benkei",
+    "prompt": "Musashibou, Benkei from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/573043.jpg?s=d9aebec367d01a12e09a40d168a7131d"
+  },
+  {
+    "name": "Nana",
+    "prompt": "Nana from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/499396.jpg?s=caf18f60cc7bfca2689867b4c73e13d4"
+  },
+  {
+    "name": "Nina",
+    "prompt": "Nina from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/497901.jpg?s=8a5882845d939f982156cd52a329c636"
+  },
+  {
+    "name": "Nobi, Tamako",
+    "prompt": "Nobi, Tamako from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/220269.jpg?s=e1e14fd35a6bde7b1c348c71c007b57f"
+  },
+  {
+    "name": "Nobi, Nobisuke",
+    "prompt": "Nobi, Nobisuke from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/282047.jpg?s=4c0f8c4875628e966c468267d2811443"
+  },
+  {
+    "name": "Nobita's Grandmother",
+    "prompt": "Nobita's Grandmother from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/496858.jpg?s=0098e80dabb4316de0375f62df84e94c"
+  },
+  {
+    "name": "Nobita's Mom's Customer",
+    "prompt": "Nobita's Mom's Customer from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/570880.jpg?s=f625198809b4510238fd01b87973bc40"
+  },
+  {
+    "name": "Nonko",
+    "prompt": "Nonko from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/496709.jpg?s=a23c1f6f4fc47a3aeed99294d98ff164"
+  },
+  {
+    "name": "Noramyako",
+    "prompt": "Noramyako from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/255845.jpg?s=1f00063091c829bcc22e81f453f0aaca"
+  },
+  {
+    "name": "Notch",
+    "prompt": "Notch from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/498769.jpg?s=bb59b393c24e4ba6eb37f73ee4cbb073"
+  },
+  {
+    "name": "Nozomi's Father",
+    "prompt": "Nozomi's Father from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/572285.jpg?s=b8cbf64399f6c424fa37202c6da6141a"
+  },
+  {
+    "name": "Nurse",
+    "prompt": "Nurse from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/572793.jpg?s=95c83fbf3240801ec83baa5ba894607b"
+  },
+  {
+    "name": "Old Man",
+    "prompt": "Old Man from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/571176.jpg?s=4af07824dece2ed7a437a0dc6481d0c3"
+  },
+  {
+    "name": "Old Man's Daughter",
+    "prompt": "Old Man's Daughter from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/571177.jpg?s=3f410d5bcd223df2975576de7c3e2164"
+  },
+  {
+    "name": "Old Peasant",
+    "prompt": "Old Peasant from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/571032.jpg?s=8ed313a1c3799904ef48243cc6ff6258"
+  },
+  {
+    "name": "Old Peasant's Daugther",
+    "prompt": "Old Peasant's Daugther from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/571033.jpg?s=82bd027e7a5597959efdada11dc9fefb"
+  },
+  {
+    "name": "Old Robot",
+    "prompt": "Old Robot from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/572795.jpg?s=af1d6f6c124890c39e5706584c670d1f"
+  },
+  {
+    "name": "Onboromeda Station Master",
+    "prompt": "Onboromeda Station Master from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/572390.jpg?s=d5b4ff2c28520fd8606599f8d71a8095"
+  },
+  {
+    "name": "Oni",
+    "prompt": "Oni from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/572002.jpg?s=581f8782493a9726a1e9e8da5731241f"
+  },
+  {
+    "name": "Oohara, Nozomi",
+    "prompt": "Oohara, Nozomi from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/496697.jpg?s=6f253c86acd66fed7bab688ae96c9015"
+  },
+  {
+    "name": "Pito",
+    "prompt": "Pito from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/499395.jpg?s=5d9684d06b567bd6356cee101a412d89"
+  },
+  {
+    "name": "Pon",
+    "prompt": "Pon from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Poweremon",
+    "prompt": "Poweremon from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/497906.jpg?s=b5c04b0fd0db6850e933378cc4794e4b"
+  },
+  {
+    "name": "Primitive Man",
+    "prompt": "Primitive Man from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/571035.jpg?s=5e2c362ad9ac2adef970cc60715dbd26"
+  },
+  {
+    "name": "Princess Are",
+    "prompt": "Princess Are from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/497374.jpg?s=301aaa19c7a6098ffd335f0a8851d9a4"
+  },
+  {
+    "name": "Princess Marie",
+    "prompt": "Princess Marie from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/571797.jpg?s=6b6ba8e1bc3029b7b42d64c31737ab8d"
+  },
+  {
+    "name": "Princess of Maskar",
+    "prompt": "Princess of Maskar from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/571807.jpg?s=e63b523c44e4811ccb30f6f998862fc6"
+  },
+  {
+    "name": "Princess Otto",
+    "prompt": "Princess Otto from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/571163.jpg?s=69d8b45de3fce415c38fd7e81709e588"
+  },
+  {
+    "name": "Putera",
+    "prompt": "Putera from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/499082.jpg?s=d0666150ce7a8183175ffaf5a0b72b86"
+  },
+  {
+    "name": "Richness, Bengal",
+    "prompt": "Richness, Bengal from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/498121.jpg?s=bf2d01f84cfdc09ebfda3894a2a0ff3d"
+  },
+  {
+    "name": "Rin",
+    "prompt": "Rin from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "RO-BO",
+    "prompt": "RO-BO from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/570595.jpg?s=812044a90a2b3dac652a4199c51fb857"
+  },
+  {
+    "name": "Robomi",
+    "prompt": "Robomi from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/572802.jpg?s=91edcfa5681280a42fb5147be44c9996"
+  },
+  {
+    "name": "Roppuru",
+    "prompt": "Roppuru from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/572405.jpg?s=87a00d55536d9742d594af928c124531"
+  },
+  {
+    "name": "Rumi",
+    "prompt": "Rumi from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/573943.jpg?s=52d64aed54a51b265200572c1c2d1e01"
+  },
+  {
+    "name": "Rumi's Doll",
+    "prompt": "Rumi's Doll from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/573944.jpg?s=d2d77e4327580957c649aecd7ac95864"
+  },
+  {
+    "name": "Ryuuguu, Himeko",
+    "prompt": "Ryuuguu, Himeko from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/571556.jpg?s=613d101231ef322a5cd32a21b56327f4"
+  },
+  {
+    "name": "Sabu",
+    "prompt": "Sabu from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/499079.jpg?s=7edf95a75b1cfa7c5b359adf31858cb1"
+  },
+  {
+    "name": "Sacrificed Girl",
+    "prompt": "Sacrificed Girl from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/570775.jpg?s=0cabe98cc4d12e2a06da653e7ecc8d99"
+  },
+  {
+    "name": "Sacrificed Girl's Father",
+    "prompt": "Sacrificed Girl's Father from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/570776.jpg?s=510e2a92b96d2e657b62a32b20da0a12"
+  },
+  {
+    "name": "Sacrificed Girl's Mother",
+    "prompt": "Sacrificed Girl's Mother from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/570777.jpg?s=d3feb56cdcdd33b32a19a841013192a0"
+  },
+  {
+    "name": "Space Tarzan",
+    "prompt": "Space Tarzan from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497690.jpg?s=920f99003048363c1bf81d565f564c92"
+  },
+  {
+    "name": "Spinel, Lapis",
+    "prompt": "Spinel, Lapis from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/498762.jpg?s=149773cbc804c4ca7bcb15a4e06f1710"
+  },
+  {
+    "name": "Suwa, Ganko",
+    "prompt": "Suwa, Ganko from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/497796.jpg?s=85e8dbfdef520b5de09f1a8c26f5384c"
+  },
+  {
+    "name": "Television Company President",
+    "prompt": "Television Company President from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/571182.jpg?s=889a3cb8377592be3e147ac77662e9c0"
+  },
+  {
+    "name": "Teraodai",
+    "prompt": "Teraodai from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/497306.jpg?s=22b9bb98e87a13d6d24bf9280e5fc64e"
+  },
+  {
+    "name": "The Prime Minister's Son",
+    "prompt": "The Prime Minister's Son from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/571772.jpg?s=55157a029b31334991e427910c8215a9"
+  },
+  {
+    "name": "Thief",
+    "prompt": "Thief from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/570890.jpg?s=bd6a971167114b44974d4053cc4f98ea"
+  },
+  {
+    "name": "Titi",
+    "prompt": "Titi from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/499393.jpg?s=956956a4b15b0e06afe8ef3025a53894"
+  },
+  {
+    "name": "Toy Shop Owner",
+    "prompt": "Toy Shop Owner from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/573942.jpg?s=ae6cc18a54cd64ae65be0ccaa5e7a711"
+  },
+  {
+    "name": "Urashima, Tarou",
+    "prompt": "Urashima, Tarou from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/571164.jpg?s=58e44b328ba8754c6a5ffb699fff7f46"
+  },
+  {
+    "name": "Ushiwakamaru",
+    "prompt": "Ushiwakamaru from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/573044.jpg?s=6ac808e34b2fd4207df21871706d0478"
+  },
+  {
+    "name": "Village Head",
+    "prompt": "Village Head from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/570774.jpg?s=f7e77f82c5d3048f5116c61d126d2001"
+  },
+  {
+    "name": "von Munchausen, Erich",
+    "prompt": "von Munchausen, Erich from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497571.jpg?s=c8bee0266ee69ff60bf88d047d49bffe"
+  },
+  {
+    "name": "Wakata",
+    "prompt": "Wakata from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/572392.jpg?s=db17370536e2b1742bbf4b473095ee30"
+  },
+  {
+    "name": "Walueheb",
+    "prompt": "Walueheb from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/499394.jpg?s=fae4e0d695508e6bd3fb04d8ddbb1e27"
+  },
+  {
+    "name": "Walzer",
+    "prompt": "Walzer from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/572560.jpg?s=f169d09d0e4b2179e7d41e4d2dc0ad64"
+  },
+  {
+    "name": "Watch",
+    "prompt": "Watch from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/498768.jpg?s=8d51b3605c29b8b0e5b0cb0b92f97090"
+  },
+  {
+    "name": "Wonderful",
+    "prompt": "Wonderful from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/498115.jpg?s=acead54847bee72e722e7e76b25cc99a"
+  },
+  {
+    "name": "Yan",
+    "prompt": "Yan from Doraemon (2005) Specials",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/571811.jpg?s=7b297e69af331e31e1d324d7c755a55c"
+  }
+]

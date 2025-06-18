@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Chico",
+    "prompt": "Chico from Pico to Chico",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/117168.jpg?s=20ee3f2e1760927b646e03be2bfe10af"
+  },
+  {
+    "name": "Pico",
+    "prompt": "Pico from Pico to Chico",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/438896.jpg?s=feecf0663ccd0a00752a979c15d9b971"
+  },
+  {
+    "name": "Manko",
+    "prompt": "Manko from Pico to Chico",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/103123.jpg?s=ec166b5529a5d8f2f7ddd7a87440baa7"
+  }
+]

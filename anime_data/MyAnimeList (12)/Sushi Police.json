@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Honda",
+    "prompt": "Honda from Sushi Police",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/301933.jpg?s=4152bb6b0aa2b98db98af82581b4d905"
+  },
+  {
+    "name": "Kawasaki",
+    "prompt": "Kawasaki from Sushi Police",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/301934.jpg?s=6c9dc3ef8129d5ea1ee97faceeb5b6d1"
+  },
+  {
+    "name": "Suzuki",
+    "prompt": "Suzuki from Sushi Police",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/301935.jpg?s=11535b324b6d25f6391b3adcbbcfe97e"
+  },
+  {
+    "name": "Carlos",
+    "prompt": "Carlos from Sushi Police",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/301936.jpg?s=b243e136ea87f3430bd8cfde92adb133"
+  },
+  {
+    "name": "Fuji, Madame",
+    "prompt": "Fuji, Madame from Sushi Police",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/301937.jpg?s=f70cf53d09d80dcbac90ba360bff3efd"
+  },
+  {
+    "name": "Sara",
+    "prompt": "Sara from Sushi Police",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/301938.jpg?s=7b9515a6cf0bff3614359016c2002f69"
+  }
+]

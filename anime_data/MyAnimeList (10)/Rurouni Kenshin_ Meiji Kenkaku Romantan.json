@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Himura, Kenshin",
+    "prompt": "Himura, Kenshin from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/73810.jpg?s=08e8e0effd22a6aa122000da932bfbc9"
+  },
+  {
+    "name": "Kamiya, Kaoru",
+    "prompt": "Kamiya, Kaoru from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/489042.jpg?s=1fff2733ad33e361291c7dda2d536b8a"
+  },
+  {
+    "name": "Myoujin, Yahiko",
+    "prompt": "Myoujin, Yahiko from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/519620.jpg?s=3ec1b840d336fe0ac9d06215bca66f39"
+  },
+  {
+    "name": "Sagara, Sanosuke",
+    "prompt": "Sagara, Sanosuke from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/256293.jpg?s=28b6fe05ccfa7011676c6647ae8cfdfa"
+  },
+  {
+    "name": "Akamatsu, Arundo",
+    "prompt": "Akamatsu, Arundo from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/124883.jpg?s=ee0953e3bf89f93d5a820dac9f88c2a3"
+  },
+  {
+    "name": "Amakusa, Shougo",
+    "prompt": "Amakusa, Shougo from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/53613.jpg?s=b897758e420d37cdf375d1042ca6e393"
+  },
+  {
+    "name": "Arai, Azusa",
+    "prompt": "Arai, Azusa from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/126611.jpg?s=253a2eb2c1e2d2e094172720ddacbc4a"
+  },
+  {
+    "name": "Arai, Shakkuu",
+    "prompt": "Arai, Shakkuu from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/570359.jpg?s=1712af27f76383b18c41fc06ad932e2e"
+  },
+  {
+    "name": "Arai, Iori",
+    "prompt": "Arai, Iori from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/126609.jpg?s=311b0ad07ed51f49a8905b23aaf8c296"
+  },
+  {
+    "name": "Arai, Seikuu",
+    "prompt": "Arai, Seikuu from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/194617.jpg?s=9d2fae1309e113f4f8d284e07e936e4a"
+  },
+  {
+    "name": "Beshimi",
+    "prompt": "Beshimi from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/513812.jpg?s=f9969c31c193683c7b1eed041f1bcd92"
+  },
+  {
+    "name": "Chuui, Melders",
+    "prompt": "Chuui, Melders from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/503442.jpg?s=ee4751cf7121b093fe947872f86e8dc8"
+  },
+  {
+    "name": "Dr. Hans",
+    "prompt": "Dr. Hans from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/523619.jpg?s=ea48b5f758e27babf209a161c21c6dc8"
+  },
+  {
+    "name": "Ebisu, Marimo",
+    "prompt": "Ebisu, Marimo from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/126007.jpg?s=b66a64c442498b7ff607965f6c269661"
+  },
+  {
+    "name": "Elstien",
+    "prompt": "Elstien from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/503440.jpg?s=3c585cebf8004bbc857fcc221f17b036"
+  },
+  {
+    "name": "Fuji",
+    "prompt": "Fuji from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/43925.jpg?s=82b36bdad429faffd24f83cb01fba298"
+  },
+  {
+    "name": "Gasuke",
+    "prompt": "Gasuke from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/112890.jpg?s=97fef0d16006e3a923ee2acc969ae824"
+  },
+  {
+    "name": "Genemon, Guspal",
+    "prompt": "Genemon, Guspal from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/503439.jpg?s=f8ea1aa261e7d50c2d5b444a1cc8cea1"
+  },
+  {
+    "name": "Hannya",
+    "prompt": "Hannya from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/115352.jpg?s=1567139c9435b00018b2e7d8e345f1f0"
+  },
+  {
+    "name": "Hashizume, Takuma",
+    "prompt": "Hashizume, Takuma from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/503435.jpg?s=9582772de3a5cc2eb959500de318c700"
+  },
+  {
+    "name": "Hiko, Seijuurou",
+    "prompt": "Hiko, Seijuurou from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/256287.jpg?s=3544269d8b99af1398741707d30a089e"
+  },
+  {
+    "name": "Hiruma, Gouhei",
+    "prompt": "Hiruma, Gouhei from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/112888.jpg?s=6f42ddfa58f38c7444224ad4fab21f28"
+  },
+  {
+    "name": "Honjou, Kamatari",
+    "prompt": "Honjou, Kamatari from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/256309.jpg?s=eaeacea8425c305b826c55db82b381ae"
+  },
+  {
+    "name": "Hyottoko",
+    "prompt": "Hyottoko from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/513811.jpg?s=6abefc4cbd51aabdc2e75415f931e7a3"
+  },
+  {
+    "name": "Isurugi, Raijuta",
+    "prompt": "Isurugi, Raijuta from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/63355.jpg?s=2421df881dea7a1867249ebaa699d9b7"
+  },
+  {
+    "name": "Iwanbou",
+    "prompt": "Iwanbou from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/63354.jpg?s=a1b80681af3472a20dadaeea2e54036e"
+  },
+  {
+    "name": "Jinpu",
+    "prompt": "Jinpu from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/137839.jpg?s=574d6ec72cdbd6f644e5b40dbd8d1a7c"
+  },
+  {
+    "name": "Kaioh",
+    "prompt": "Kaioh from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/503433.jpg?s=a039689da822394bc93f78325e82b263"
+  },
+  {
+    "name": "Kariwa, Henya",
+    "prompt": "Kariwa, Henya from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/133073.jpg?s=4ed77459e3e987c5e8a057046253ca71"
+  },
+  {
+    "name": "Kashiwazaki, Nenji",
+    "prompt": "Kashiwazaki, Nenji from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/53608.jpg?s=04d0ce8d7b0c3d006aa9af75ac294b64"
+  },
+  {
+    "name": "Katsu, Kaishuu",
+    "prompt": "Katsu, Kaishuu from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/137863.jpg?s=d4e52cba2f42b0dfaee83e369f341c82"
+  },
+  {
+    "name": "Katsu, Itsuko",
+    "prompt": "Katsu, Itsuko from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/125997.jpg?s=1746a233a123e7334d0cbfc458c86049"
+  },
+  {
+    "name": "Kawaji, Toshiyoshi",
+    "prompt": "Kawaji, Toshiyoshi from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/531771.jpg?s=836a547704138c84d35d85f02fd701bd"
+  },
+  {
+    "name": "Komagata, Yumi",
+    "prompt": "Komagata, Yumi from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/256283.jpg?s=cdff0ca1032cc088eb762ab71a032eed"
+  },
+  {
+    "name": "Kurojou",
+    "prompt": "Kurojou from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/137807.jpg?s=58ad242b4c2f9b6e2493b8229e15b9cf"
+  },
+  {
+    "name": "Lentz",
+    "prompt": "Lentz from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/257281.jpg?s=9d66feb2d5f98548c8e6ffdc862d78d6"
+  },
+  {
+    "name": "Makimachi, Misao",
+    "prompt": "Makimachi, Misao from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/256279.jpg?s=dbff0b619afc6d4c8ab29fc6110246b7"
+  },
+  {
+    "name": "Masukami",
+    "prompt": "Masukami from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/114954.jpg?s=467ac85bb95829e319c30d2ae3118b82"
+  },
+  {
+    "name": "Misanagi",
+    "prompt": "Misanagi from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/125949.jpg?s=5c14072ee858f7f1d4ba47d57b98e59f"
+  },
+  {
+    "name": "Mishima, Eiji",
+    "prompt": "Mishima, Eiji from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/102466.jpg?s=66b676d16961eb57ffcb8b3b19acec3c"
+  },
+  {
+    "name": "Mishima, Eiichirou",
+    "prompt": "Mishima, Eiichirou from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/565243.jpg?s=889d29e2b2c832f5d8fdb4ec8a3799e7"
+  },
+  {
+    "name": "Mutou, Tokisada",
+    "prompt": "Mutou, Tokisada from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/102405.jpg?s=7a5f66d508806e59035a588d1b268294"
+  },
+  {
+    "name": "Mutou, Sayo",
+    "prompt": "Mutou, Sayo from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/112925.jpg?s=eb9d7648ef31349250e1d2ff7fdfe57a"
+  },
+  {
+    "name": "Nagaoka, Mikio",
+    "prompt": "Nagaoka, Mikio from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/380277.jpg?s=ed6f1c4a94658422bbc911b3721665b8"
+  },
+  {
+    "name": "Nishiwaki",
+    "prompt": "Nishiwaki from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/112887.jpg?s=3b029845a6085af0818fda13a69dae9e"
+  },
+  {
+    "name": "Ogawa, Heizo",
+    "prompt": "Ogawa, Heizo from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/112949.jpg?s=a7832670fab2aca133d01d7103dd6487"
+  },
+  {
+    "name": "Oguni, Gensai",
+    "prompt": "Oguni, Gensai from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/137847.jpg?s=f9f9e250b2982c3f79d5bd44c54feaba"
+  },
+  {
+    "name": "Oguni, Suzume",
+    "prompt": "Oguni, Suzume from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/137845.jpg?s=4e56517bf33a0a1e50fe369c97dc0776"
+  },
+  {
+    "name": "Oguni, Ayame",
+    "prompt": "Oguni, Ayame from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/137843.jpg?s=7ba1e8cad3d7a5900cb71100da05a50a"
+  },
+  {
+    "name": "Okita, Souji",
+    "prompt": "Okita, Souji from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/63356.jpg?s=c4baf7cfe0ea3e12f0ec6c4383a43df8"
+  },
+  {
+    "name": "Ookubo, Tetsuma",
+    "prompt": "Ookubo, Tetsuma from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/137859.jpg?s=226c5b70271fae7ffaa283c8e779da39"
+  },
+  {
+    "name": "Ookubo, Toshimichi",
+    "prompt": "Ookubo, Toshimichi from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/124875.jpg?s=dca3b7999283085d3e06faaccb4b38f1"
+  },
+  {
+    "name": "Ookuma, Daigorou",
+    "prompt": "Ookuma, Daigorou from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/137855.jpg?s=5bc1b9013a1cf4de5ddfd15e94e35405"
+  },
+  {
+    "name": "Oumime",
+    "prompt": "Oumime from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/114953.jpg?s=632bb0850e037424c11270fa7386743d"
+  },
+  {
+    "name": "Raikou",
+    "prompt": "Raikou from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/286255.jpg?s=b750e8bf9c61932971a83c3fcf17e829"
+  },
+  {
+    "name": "Reisui",
+    "prompt": "Reisui from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/137841.jpg?s=a61edd1ecd13b7c8f9840c67aae33f3b"
+  },
+  {
+    "name": "Ren",
+    "prompt": "Ren from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/439627.jpg?s=4448e99aa26fee6e1472f9f851882136"
+  },
+  {
+    "name": "Rokusuke",
+    "prompt": "Rokusuke from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/112889.jpg?s=238e60c6d5d779f10b7e9186ebbebd3b"
+  },
+  {
+    "name": "Ryuusaburou, Higashiyama",
+    "prompt": "Ryuusaburou, Higashiyama from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/503432.jpg?s=464bfc4b20305891fd11c28ec80b7825"
+  },
+  {
+    "name": "Sadojima, Houji",
+    "prompt": "Sadojima, Houji from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/53610.jpg?s=c4e0ff094625a481f4829d6f79b0c633"
+  },
+  {
+    "name": "Saeki, Yunoshin",
+    "prompt": "Saeki, Yunoshin from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/503447.jpg?s=ba76dc519147691646d3d09486f4047e"
+  },
+  {
+    "name": "Sagara, Souzou",
+    "prompt": "Sagara, Souzou from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/256305.jpg?s=2be7ad2bfe65b67ba11246b60a4cdcd6"
+  },
+  {
+    "name": "Saitou, Hajime",
+    "prompt": "Saitou, Hajime from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/278739.jpg?s=be87fb6a9a089b24d23b2470d50796c1"
+  },
+  {
+    "name": "Saizuchi",
+    "prompt": "Saizuchi from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/137833.jpg?s=6f73416eb38f77e2d0b8393e350cb194"
+  },
+  {
+    "name": "Sakaki, Touma",
+    "prompt": "Sakaki, Touma from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/63358.jpg?s=5cd7c8a50f21f9d1c751c6e1bceb9475"
+  },
+  {
+    "name": "Sakata",
+    "prompt": "Sakata from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/137813.jpg?s=be9445d0011fd6d26be2facbf37dec0f"
+  },
+  {
+    "name": "Sanjou, Tsubame",
+    "prompt": "Sanjou, Tsubame from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/53604.jpg?s=c088973553c2dbfcabf8b5849393e4d5"
+  },
+  {
+    "name": "Santo, Shobu",
+    "prompt": "Santo, Shobu from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/503436.jpg?s=696a4434c9a2f7399efb3739317f94af"
+  },
+  {
+    "name": "Sawagejou, Chou",
+    "prompt": "Sawagejou, Chou from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/53603.jpg?s=0cfe254f995d174a5f2553c245dba660"
+  },
+  {
+    "name": "Sekihara, Tae",
+    "prompt": "Sekihara, Tae from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/63365.jpg?s=581452a51bfaa6e1b5a0146f58c4c1e6"
+  },
+  {
+    "name": "Sekihara, Sae",
+    "prompt": "Sekihara, Sae from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/133569.jpg?s=e8767e3c4841c7bca8a23b622dc53d90"
+  },
+  {
+    "name": "Senkaku",
+    "prompt": "Senkaku from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/137805.jpg?s=685904e4203931a524eb60c58ffdf64c"
+  },
+  {
+    "name": "Seta, Soujirou",
+    "prompt": "Seta, Soujirou from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/139253.jpg?s=ef6e8db59b144398b1761c971101d6b0"
+  },
+  {
+    "name": "Shibumi",
+    "prompt": "Shibumi from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/530009.jpg?s=4ddfd6eab110a0e12f5ae5abe3897702"
+  },
+  {
+    "name": "Shikijou",
+    "prompt": "Shikijou from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/522476.jpg?s=cad7b0c314e431ba5d78a2578052175f"
+  },
+  {
+    "name": "Shinomori, Aoshi",
+    "prompt": "Shinomori, Aoshi from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/256299.jpg?s=9277b1ed895dfafc9e23f40fbe3a7266"
+  },
+  {
+    "name": "Shirojo",
+    "prompt": "Shirojo from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/137809.jpg?s=7ddcea8de81129cfcfe406550ee91c30"
+  },
+  {
+    "name": "Shishio, Makoto",
+    "prompt": "Shishio, Makoto from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/313545.jpg?s=80bf3a74bebb4887bee932cbfc1541ad"
+  },
+  {
+    "name": "Shoui, Schneider",
+    "prompt": "Shoui, Schneider from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/513813.jpg?s=9dd7d74b6801a5431a451c6616b43d49"
+  },
+  {
+    "name": "Shouzou, Rorenzo",
+    "prompt": "Shouzou, Rorenzo from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/523618.jpg?s=3aa2c7e417db22ac95c47d365116ccf6"
+  },
+  {
+    "name": "Shura",
+    "prompt": "Shura from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/114952.jpg?s=af9395278d75c61b69f088ca694ef41c"
+  },
+  {
+    "name": "Sumidaya, Soubei",
+    "prompt": "Sumidaya, Soubei from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/503434.jpg?s=fbe066d4d6f8b1b7483ea32cd2199ef6"
+  },
+  {
+    "name": "Takani, Megumi",
+    "prompt": "Takani, Megumi from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/256301.jpg?s=3e893e4ee4a0b09f6fd496f0ee58fe01"
+  },
+  {
+    "name": "Takeda, Kanryuu",
+    "prompt": "Takeda, Kanryuu from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/137889.jpg?s=2a3f861e4d4c2d4f780d041461d45724"
+  },
+  {
+    "name": "Tatewaki, Shindou",
+    "prompt": "Tatewaki, Shindou from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/503448.jpg?s=89f3191a6ca9445f7ff9323da93e9893"
+  },
+  {
+    "name": "Toramaru",
+    "prompt": "Toramaru from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/137835.jpg?s=4dd5fdbbf1aca6ca8a12b9fa0878a702"
+  },
+  {
+    "name": "Tsubaki",
+    "prompt": "Tsubaki from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/132769.jpg?s=e54c3e40772cee416d9cbd216f351efa"
+  },
+  {
+    "name": "Tsukayama, Yutarou",
+    "prompt": "Tsukayama, Yutarou from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/53600.jpg?s=e0c26c7677a26edda65f111e7cd65db9"
+  },
+  {
+    "name": "Tsukioka, Katsuhiro",
+    "prompt": "Tsukioka, Katsuhiro from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/137803.jpg?s=a39f9c42b340b713a6930267eb2d30e4"
+  },
+  {
+    "name": "Udou, Jine",
+    "prompt": "Udou, Jine from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/519622.jpg?s=39e8eb5c1455805d21717409ecf4f171"
+  },
+  {
+    "name": "Ujiki",
+    "prompt": "Ujiki from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/588070.jpg?s=e8c2254b0ffdf4c720fc3ada0adfc7ea"
+  },
+  {
+    "name": "Uramura",
+    "prompt": "Uramura from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/287416.jpg?s=943a6d8f8d940ad87bd8d33e5a653f84"
+  },
+  {
+    "name": "Usui, Uonuma",
+    "prompt": "Usui, Uonuma from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/63367.jpg?s=3b9abcf2bdd5dd0a710febf10462690e"
+  },
+  {
+    "name": "Yamagata, Aritomo",
+    "prompt": "Yamagata, Aritomo from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/112891.jpg?s=32a76315de6212dee0681b976fbddf96"
+  },
+  {
+    "name": "Yamayoshi, Morisuke",
+    "prompt": "Yamayoshi, Morisuke from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/531111.jpg?s=3455c9824712239dbc8f1cb884d30d8b"
+  },
+  {
+    "name": "Yuukyuuzan, Anji",
+    "prompt": "Yuukyuuzan, Anji from Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/53598.jpg?s=9ed84097fa8ab15bf6c16ba93a04ab49"
+  }
+]

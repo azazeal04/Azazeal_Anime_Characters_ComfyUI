@@ -1,0 +1,597 @@
+[
+  {
+    "name": "Matsukaze, Tenma",
+    "prompt": "Matsukaze, Tenma from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/121445.jpg?s=b914bd35a0cbc68dace768102d1af454"
+  },
+  {
+    "name": "Rune, Fei",
+    "prompt": "Rune, Fei from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/175121.jpg?s=d5abf96c7940bc4891b6319346f770a7"
+  },
+  {
+    "name": "Shindou, Takuto",
+    "prompt": "Shindou, Takuto from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/137329.jpg?s=2159a7df62a5feb0fe89debbb15af28e"
+  },
+  {
+    "name": "Tsurugi, Kyousuke",
+    "prompt": "Tsurugi, Kyousuke from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/153577.jpg?s=df339697d681664bf1bd4fd89533fb92"
+  },
+  {
+    "name": "Alpha",
+    "prompt": "Alpha from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/175119.jpg?s=998f5dd7e9ee0488000f597c1fa923d9"
+  },
+  {
+    "name": "Amagi, Daichi",
+    "prompt": "Amagi, Daichi from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/117351.jpg?s=e092bcdba911403baaf1de116d20652e"
+  },
+  {
+    "name": "Amemiya, Taiyou",
+    "prompt": "Amemiya, Taiyou from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/171075.jpg?s=1e18e7af57590a0be4ca6aab7a55a967"
+  },
+  {
+    "name": "Aoyama, Shunsuke",
+    "prompt": "Aoyama, Shunsuke from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/131379.jpg?s=653de6b9540423d744a719c57000ca7c"
+  },
+  {
+    "name": "Avalonic, Zanark",
+    "prompt": "Avalonic, Zanark from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/178283.jpg?s=41643d454113097d2f053992c0fbca46"
+  },
+  {
+    "name": "Bahams",
+    "prompt": "Bahams from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/178289.jpg?s=904f8f99381e8821d754d8a223bbac5f"
+  },
+  {
+    "name": "Beta",
+    "prompt": "Beta from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/177791.jpg?s=6006eebff2c9623bf5c2ad4a89e70f14"
+  },
+  {
+    "name": "Bufuu",
+    "prompt": "Bufuu from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/297563.jpg?s=508d02488fdf30d9fe8eaf5bc59ffa1c"
+  },
+  {
+    "name": "Chet",
+    "prompt": "Chet from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/385361.jpg?s=bc6eabec896276e7eebea4c6e2e34c2a"
+  },
+  {
+    "name": "Chouhi",
+    "prompt": "Chouhi from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "d'Arc, Jeanne",
+    "prompt": "d'Arc, Jeanne from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/178279.jpg?s=ea531a95518c22d6442a0110beaf03a3"
+  },
+  {
+    "name": "Daku",
+    "prompt": "Daku from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/297564.jpg?s=7c479305cf6755fad0abe388872c815c"
+  },
+  {
+    "name": "Darna",
+    "prompt": "Darna from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/178291.jpg?s=78a88792caeaad78e13bbaa3aabfd7e9"
+  },
+  {
+    "name": "de Rais, Gilles",
+    "prompt": "de Rais, Gilles from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/234791.jpg?s=78c17b9e8bce5a1a75464720c05638e6"
+  },
+  {
+    "name": "Dorimu",
+    "prompt": "Dorimu from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/234205.jpg?s=8f79b4eba09f6395ab55e8cd35bcc856"
+  },
+  {
+    "name": "Drim",
+    "prompt": "Drim from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/177779.jpg?s=e4b97e9789cb5723778c831266f18628"
+  },
+  {
+    "name": "Einam",
+    "prompt": "Einam from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/176295.jpg?s=df594a4304b5e9ef04f13bad87143b11"
+  },
+  {
+    "name": "Endou, Daisuke",
+    "prompt": "Endou, Daisuke from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/84592.jpg?s=afe6a77ea5191ca8dace2c10684b4b6c"
+  },
+  {
+    "name": "Endou, Mamoru",
+    "prompt": "Endou, Mamoru from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/119336.jpg?s=4ea75c17530a50fdbdc717ec9d57d520"
+  },
+  {
+    "name": "Engiru",
+    "prompt": "Engiru from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/234613.jpg?s=1fafd13376aa30a115aa2438764ea6dc"
+  },
+  {
+    "name": "Evan, Saryuu",
+    "prompt": "Evan, Saryuu from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/199457.jpg?s=ee668feca352e61ae60412560d00faea"
+  },
+  {
+    "name": "Fuyukai, Suguru",
+    "prompt": "Fuyukai, Suguru from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/117032.jpg?s=a6eff17f4f62e668b5cdae410cb4f5b7"
+  },
+  {
+    "name": "Galling",
+    "prompt": "Galling from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/178287.jpg?s=1e66568adb28cf22c0e6934d170af7e2"
+  },
+  {
+    "name": "Gamma",
+    "prompt": "Gamma from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/177769.jpg?s=a7c05d2d08dcc632de1788b8bad21bad"
+  },
+  {
+    "name": "Gaura",
+    "prompt": "Gaura from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/177777.jpg?s=fe42e25829a8ea78c65cb46870930345"
+  },
+  {
+    "name": "Giris",
+    "prompt": "Giris from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/297565.jpg?s=923535c7b8e8fcd697540cefdacf58cb"
+  },
+  {
+    "name": "Goburis",
+    "prompt": "Goburis from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/297566.jpg?s=4308cefc68b62bd4b5e80fca5f16907f"
+  },
+  {
+    "name": "Gorouta",
+    "prompt": "Gorouta from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/176327.jpg?s=1b5d50649e02dab03ef1693a09337e1a"
+  },
+  {
+    "name": "Gouenji, Shuuya",
+    "prompt": "Gouenji, Shuuya from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/131303.jpg?s=21fe5e4c592ddc657747e7ad771339cd"
+  },
+  {
+    "name": "Gouzu",
+    "prompt": "Gouzu from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/234607.jpg?s=63d45a05fb23e7bc6d57961eae9b2840"
+  },
+  {
+    "name": "Guumi",
+    "prompt": "Guumi from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/297567.jpg?s=d591acfc147fc432638442862a3dc6b2"
+  },
+  {
+    "name": "Hamano, Kaiji",
+    "prompt": "Hamano, Kaiji from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/171065.jpg?s=cde9a86b70326a99618d9ee0364dee45"
+  },
+  {
+    "name": "Hanabayashi, Kyouko",
+    "prompt": "Hanabayashi, Kyouko from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/234193.jpg?s=cfe38307543292d832fdafd07c6a5cf9"
+  },
+  {
+    "name": "Hayami, Tsurumasa",
+    "prompt": "Hayami, Tsurumasa from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/171063.jpg?s=60ffe639d8f4b559ffa93736bbcb0260"
+  },
+  {
+    "name": "Hosu",
+    "prompt": "Hosu from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/297568.jpg?s=4c755c1fd4f2ed3d8fbcd9f3177483c4"
+  },
+  {
+    "name": "Ichimasa",
+    "prompt": "Ichimasa from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/176331.jpg?s=7a658778728d2fc20fc322791b1cf84a"
+  },
+  {
+    "name": "Ichino, Nanasuke",
+    "prompt": "Ichino, Nanasuke from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/131383.jpg?s=d4d0124878c080fbbe45c93a4f2a0a9d"
+  },
+  {
+    "name": "Imagawa, Yoshimoto",
+    "prompt": "Imagawa, Yoshimoto from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/177785.jpg?s=080b4c70a31554905ff3308ea0793ed5"
+  },
+  {
+    "name": "Interviewer",
+    "prompt": "Interviewer from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/175717.jpg?s=d4986dd7e7ceda0c55502d116a741730"
+  },
+  {
+    "name": "Jingo",
+    "prompt": "Jingo from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/176329.jpg?s=7365102a271337add6e1e48aba47d9ae"
+  },
+  {
+    "name": "Jini",
+    "prompt": "Jini from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/297569.jpg?s=fec65d24d7e12ddeb67187516643c23c"
+  },
+  {
+    "name": "Kageyama, Hikaru",
+    "prompt": "Kageyama, Hikaru from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/140975.jpg?s=02f047adad47f9e8d6a7075030c220f3"
+  },
+  {
+    "name": "Kanu",
+    "prompt": "Kanu from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kariya, Masaki",
+    "prompt": "Kariya, Masaki from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/155327.jpg?s=ecde15a796c87b968853ac98d6ac4ddf"
+  },
+  {
+    "name": "Kazemaru, Ichirouta",
+    "prompt": "Kazemaru, Ichirouta from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/123067.jpg?s=6d22337a0abf1bbf23c3baeb279f1495"
+  },
+  {
+    "name": "Kidou, Yuuto",
+    "prompt": "Kidou, Yuuto from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/125525.jpg?s=bc80a4455a83e0ea193aa1471d702899"
+  },
+  {
+    "name": "Kino, Aki",
+    "prompt": "Kino, Aki from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/99852.jpg?s=8e2b59b6ee22ce13fb1358c8b1cfd566"
+  },
+  {
+    "name": "Kinoshita, Toukichirou",
+    "prompt": "Kinoshita, Toukichirou from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/175783.jpg?s=618dcd1c2bedd0ee4e8a31c29a99c5a0"
+  },
+  {
+    "name": "Kirino, Ranmaru",
+    "prompt": "Kirino, Ranmaru from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/153571.jpg?s=0e6f4485e0b72d0deb4e281f30073b6d"
+  },
+  {
+    "name": "Kondou, Isami",
+    "prompt": "Kondou, Isami from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Koumei, Shokatsu",
+    "prompt": "Koumei, Shokatsu from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/289366.jpg?s=0c9977d5896f45b58f5ff971af58d398"
+  },
+  {
+    "name": "Kual",
+    "prompt": "Kual from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/236017.jpg?s=2c7a85ba814d27d18680196898cb7d57"
+  },
+  {
+    "name": "Kurama, Norihito",
+    "prompt": "Kurama, Norihito from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/177799.jpg?s=9727bd7000f2c4a35464c8ed601c07d2"
+  },
+  {
+    "name": "Kurumada, Gouichi",
+    "prompt": "Kurumada, Gouichi from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/177801.jpg?s=cf5697a964ce9331f286d41fe86b597b"
+  },
+  {
+    "name": "La Hire",
+    "prompt": "La Hire from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/234859.jpg?s=834074628b096f6347dbda929601af8f"
+  },
+  {
+    "name": "Matchos",
+    "prompt": "Matchos from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/234199.jpg?s=73df3cc6a78a3bceb6a473dc3531c389"
+  },
+  {
+    "name": "Mecha Endou",
+    "prompt": "Mecha Endou from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/495406.jpg?s=d24538978ea39f307bdaadaa675f7b20"
+  },
+  {
+    "name": "Medam",
+    "prompt": "Medam from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/176321.jpg?s=4fa96420e6933ab5be802e3199c1f901"
+  },
+  {
+    "name": "Meia",
+    "prompt": "Meia from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/297575.jpg?s=309fe1fc60b8850a20cfc8d8d1cb75d0"
+  },
+  {
+    "name": "Meizu",
+    "prompt": "Meizu from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/234615.jpg?s=6847a6a2ca178cc7720ff3fcfa8b8bc4"
+  },
+  {
+    "name": "Mista",
+    "prompt": "Mista from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/297574.jpg?s=5f95bee610d1835e07a9a5ec3893d14f"
+  },
+  {
+    "name": "Molly",
+    "prompt": "Molly from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297573.jpg?s=0bb67540e127d28f4705dbe5835d1b4d"
+  },
+  {
+    "name": "Nanobana, Kinako",
+    "prompt": "Nanobana, Kinako from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/178281.jpg?s=18e1ffcaca4c77b2426cdc23e1634bee"
+  },
+  {
+    "name": "Narumi, Yashima",
+    "prompt": "Narumi, Yashima from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/177783.jpg?s=679209a48bbf267bc38f22704ef96bc3"
+  },
+  {
+    "name": "Neira",
+    "prompt": "Neira from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/177775.jpg?s=754813c1f37c1a6c06df078a9649ec4e"
+  },
+  {
+    "name": "Netan",
+    "prompt": "Netan from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nike",
+    "prompt": "Nike from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/297571.jpg?s=da71e3a6a03c29e12214f13ad25741e9"
+  },
+  {
+    "name": "Nishiki, Ryouma",
+    "prompt": "Nishiki, Ryouma from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/177803.jpg?s=f7e23de25e137e3caeec3553b7587706"
+  },
+  {
+    "name": "Nishizono, Shinsuke",
+    "prompt": "Nishizono, Shinsuke from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/164299.jpg?s=faed4f02b4874a8b0c8d48e7d08ae3aa"
+  },
+  {
+    "name": "Oda, Nobunaga",
+    "prompt": "Oda, Nobunaga from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/175715.jpg?s=14e12b7bd2853094e85bb03a952209af"
+  },
+  {
+    "name": "Okatsu",
+    "prompt": "Okatsu from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/175713.jpg?s=2bc12628cfb77f3e11375d29d317200f"
+  },
+  {
+    "name": "Okita, Souji",
+    "prompt": "Okita, Souji from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/234931.jpg?s=df9c8df71ca3d2b0508fb4ba9f788af2"
+  },
+  {
+    "name": "Om",
+    "prompt": "Om from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/297572.jpg?s=74f1dbfc0a0955a1397f85b38e87af3a"
+  },
+  {
+    "name": "Oogu",
+    "prompt": "Oogu from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/234611.jpg?s=48562a8f39a72ad5187f2867e75ad9d2"
+  },
+  {
+    "name": "Orca",
+    "prompt": "Orca from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/176323.jpg?s=feb495776288f8d4b4ca489d89a5b837"
+  },
+  {
+    "name": "Otonashi, Haruna",
+    "prompt": "Otonashi, Haruna from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/99990.jpg?s=8ebf77245109f87301faeb72388e299a"
+  },
+  {
+    "name": "Pino",
+    "prompt": "Pino from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/233709.jpg?s=8d502f8711cc34a24fbcfcc8a5e8ac67"
+  },
+  {
+    "name": "Quarth",
+    "prompt": "Quarth from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/176319.jpg?s=64f2145820b41acdb7f7dca1b37daba1"
+  },
+  {
+    "name": "Rasetsu",
+    "prompt": "Rasetsu from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/235451.jpg?s=c17481527caa2ce316cbb66f53aa09ed"
+  },
+  {
+    "name": "Reiza",
+    "prompt": "Reiza from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/176293.jpg?s=a33d1cad2fe9d555c77e08bf354b0563"
+  },
+  {
+    "name": "Rodeo",
+    "prompt": "Rodeo from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/290594.jpg?s=fe31fff2eab1f2a02687e69541ad6c5e"
+  },
+  {
+    "name": "Roko",
+    "prompt": "Roko from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/233711.jpg?s=9888b12d38f657f60913231d0d1057f7"
+  },
+  {
+    "name": "Rudzik",
+    "prompt": "Rudzik from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/178285.jpg?s=e9b49b326f7fdb663e321168d9650ae0"
+  },
+  {
+    "name": "Rukh, Rei",
+    "prompt": "Rukh, Rei from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/243015.jpg?s=254cb5f3355eb157eaa4b0e8898b09bc"
+  },
+  {
+    "name": "Rune, Asurei",
+    "prompt": "Rune, Asurei from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/233713.jpg?s=c70ea1e4370194f2cca112440ebe43c3"
+  },
+  {
+    "name": "Ryouma, Sakamoto",
+    "prompt": "Ryouma, Sakamoto from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ryuu, Gentoku",
+    "prompt": "Ryuu, Gentoku from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/434881.jpg?s=d3bf408e3548bff42780bbb5cf6bd57e"
+  },
+  {
+    "name": "Sakamaki, Togurou",
+    "prompt": "Sakamaki, Togurou from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sangoku, Taichi",
+    "prompt": "Sangoku, Taichi from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/117345.jpg?s=e056d0df340a71c6bc7415ef8011aa47"
+  },
+  {
+    "name": "Seto, Midori",
+    "prompt": "Seto, Midori from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/117027.jpg?s=12081bc7433565e423649f5f36f06070"
+  },
+  {
+    "name": "Shinjami",
+    "prompt": "Shinjami from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/234617.jpg?s=a4edf5cbb5cd0e5af05f4c24dfd06d23"
+  },
+  {
+    "name": "Shintaro, Nakaoka",
+    "prompt": "Shintaro, Nakaoka from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/235449.jpg?s=1a1907a319b2d7e9dcb07c8e2283fec0"
+  },
+  {
+    "name": "Shishimaru",
+    "prompt": "Shishimaru from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/176325.jpg?s=a501e0ad09c01c7daa41120ae8daf3e5"
+  },
+  {
+    "name": "Shura",
+    "prompt": "Shura from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/234619.jpg?s=e3f2ca8cb7e048f31b9bbc093ac35b44"
+  },
+  {
+    "name": "Shuten",
+    "prompt": "Shuten from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/233705.jpg?s=360a4b77663df1e79351ac27df6e0b12"
+  },
+  {
+    "name": "Shuu",
+    "prompt": "Shuu from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/177797.jpg?s=232f599cbad957511c606c9a3b43fbdc"
+  },
+  {
+    "name": "Smile",
+    "prompt": "Smile from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/234195.jpg?s=01bc634a4dd9f9f80420f803ea2fb154"
+  },
+  {
+    "name": "Sorano, Aoi",
+    "prompt": "Sorano, Aoi from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/117028.jpg?s=50d34e29abccaa8f19aac104052c273b"
+  },
+  {
+    "name": "Straw",
+    "prompt": "Straw from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/234087.jpg?s=7e00b872c50b1b93c79ef3bfd1a23952"
+  },
+  {
+    "name": "Tasuke",
+    "prompt": "Tasuke from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/175711.jpg?s=841c8067a06a8a71c5cafb6a1d2c53b7"
+  },
+  {
+    "name": "Torb",
+    "prompt": "Torb from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/188644.jpg?s=45fb1c85db3897b4027776704191a350"
+  },
+  {
+    "name": "Toudou, Heikichi",
+    "prompt": "Toudou, Heikichi from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/175435.jpg?s=768e87fb7b8cd0b714e540d94daf9918"
+  },
+  {
+    "name": "Tsurugi, Yuuichi",
+    "prompt": "Tsurugi, Yuuichi from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/175125.jpg?s=ebc42431c2e9c1349f01149d46b67806"
+  },
+  {
+    "name": "Vamp, Vanfeny",
+    "prompt": "Vamp, Vanfeny from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/281704.jpg?s=4d522416a37160b8f747009941ee9582"
+  },
+  {
+    "name": "VII, Charles",
+    "prompt": "VII, Charles from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/234929.jpg?s=4b6d7d1c032cfc8f4dfe7fb64db95772"
+  },
+  {
+    "name": "Ward",
+    "prompt": "Ward from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/177773.jpg?s=f6a5f6157f237d922dad33082e10431e"
+  },
+  {
+    "name": "Wolfein, Garshya",
+    "prompt": "Wolfein, Garshya from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/275411.jpg?s=8094b1815d32e049106d28ee498108eb"
+  },
+  {
+    "name": "Wonderbot, Clark",
+    "prompt": "Wonderbot, Clark from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/175433.jpg?s=62938203f7691ea0417307d1da3a11a3"
+  },
+  {
+    "name": "Yamana, Akane",
+    "prompt": "Yamana, Akane from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/117029.jpg?s=bad83c39eadee578392923b76dcee414"
+  },
+  {
+    "name": "Yasha",
+    "prompt": "Yasha from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/234609.jpg?s=6c4680317fb5228ecd49ae7019cf6d6e"
+  },
+  {
+    "name": "Yashima, Yousuke",
+    "prompt": "Yashima, Yousuke from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/177781.jpg?s=0b43e93db88b5421fd25849e49423d33"
+  },
+  {
+    "name": "Yokka",
+    "prompt": "Yokka from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/233707.jpg?s=3454773b8b3c8bd00eadec85fba4eda9"
+  },
+  {
+    "name": "Zaizen, Sousuke",
+    "prompt": "Zaizen, Sousuke from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/172739.jpg?s=627be13bcaa6a9549eb7b249af74b444"
+  },
+  {
+    "name": "Zanou",
+    "prompt": "Zanou from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/177771.jpg?s=674e9078f22787da68963b16969eeaf2"
+  },
+  {
+    "name": "Zotan",
+    "prompt": "Zotan from Inazuma Eleven Go: Chrono Stone",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/257717.jpg?s=f2fc9d5ea618a5c58211232a18765555"
+  }
+]

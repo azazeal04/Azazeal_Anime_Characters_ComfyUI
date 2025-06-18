@@ -1,0 +1,287 @@
+[
+  {
+    "name": "Agumon",
+    "prompt": "Agumon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/519220.jpg?s=920f3b58ef64bc3c751f6a4b0c902ed6"
+  },
+  {
+    "name": "Daimon, Masaru",
+    "prompt": "Daimon, Masaru from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/95407.jpg?s=16368b130f3feb7607a57e1ba7b34c06"
+  },
+  {
+    "name": "Falcomon",
+    "prompt": "Falcomon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/7411.jpg?s=97518eb2e0011a6633de2b880e0c32c0"
+  },
+  {
+    "name": "Fujieda, Yoshino",
+    "prompt": "Fujieda, Yoshino from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/96262.jpg?s=329905c08a664a3a8aab28734ffb1885"
+  },
+  {
+    "name": "Gaomon",
+    "prompt": "Gaomon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/521717.jpg?s=a08ad8d768337d8eeef02d0187440133"
+  },
+  {
+    "name": "Lalamon",
+    "prompt": "Lalamon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/519936.jpg?s=c713bbf997af4dead7598f28205c9dd8"
+  },
+  {
+    "name": "Noguchi, Ikuto",
+    "prompt": "Noguchi, Ikuto from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/95404.jpg?s=cb3eb4f575f01bcfe29840f2fd0374a3"
+  },
+  {
+    "name": "Norstein, Touma",
+    "prompt": "Norstein, Touma from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/95405.jpg?s=eb15eb194041edd87d1773170e83bf8c"
+  },
+  {
+    "name": "Airdramon",
+    "prompt": "Airdramon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/485597.jpg?s=94983f42c8eadbd57e73654f94a53d1a"
+  },
+  {
+    "name": "Angewomon",
+    "prompt": "Angewomon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/546027.jpg?s=660ade4b7f39cef51d502da1e7423368"
+  },
+  {
+    "name": "BanchoLeomon",
+    "prompt": "BanchoLeomon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/248197.jpg?s=a00ebfbc41acd0713a7bf9fa9f8cf661"
+  },
+  {
+    "name": "Belphemon",
+    "prompt": "Belphemon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/248553.jpg?s=69cf64af99d5b345792f93d0b2d20a82"
+  },
+  {
+    "name": "Craniummon",
+    "prompt": "Craniummon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/248521.jpg?s=44ab540d76617cc982ce6708440f3f6c"
+  },
+  {
+    "name": "Daimon, Chika",
+    "prompt": "Daimon, Chika from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/248587.jpg?s=db54e2c8a0431adef74fd6f60828afaa"
+  },
+  {
+    "name": "Daimon, Suguru",
+    "prompt": "Daimon, Suguru from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/369277.jpg?s=0912cd11cd0b3fc309e5f3fc8f42e711"
+  },
+  {
+    "name": "Daimon, Sayuri",
+    "prompt": "Daimon, Sayuri from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/248593.jpg?s=c4256fc637289cab4b7ea35d8a906d93"
+  },
+  {
+    "name": "Duftmon",
+    "prompt": "Duftmon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/248569.jpg?s=e3596314e83772960fbeb503ce3cfff9"
+  },
+  {
+    "name": "Dukemon",
+    "prompt": "Dukemon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/553346.jpg?s=5bb33be92d3a449bcea862d6f67ba7bb"
+  },
+  {
+    "name": "Dynasmon",
+    "prompt": "Dynasmon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/248585.jpg?s=3f90e210ae258710a471da834f3fe8c4"
+  },
+  {
+    "name": "Gotsumon",
+    "prompt": "Gotsumon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/248573.jpg?s=9a7728221807f3f60d22766a30a59367"
+  },
+  {
+    "name": "Guardromon",
+    "prompt": "Guardromon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/520227.jpg?s=b82e8db95a89f952fe6941b25a17f729"
+  },
+  {
+    "name": "Hanamura, Hitoshi",
+    "prompt": "Hanamura, Hitoshi from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/247343.jpg?s=15be39b99e3ddb2d5eb7381dcb68a65b"
+  },
+  {
+    "name": "Hashiba",
+    "prompt": "Hashiba from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/248575.jpg?s=5f7e1311de31765bade979ab1d8eec08"
+  },
+  {
+    "name": "Hayase, Wife",
+    "prompt": "Hayase, Wife from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/247353.jpg?s=c653d7e54804037870cfcac354fe487c"
+  },
+  {
+    "name": "Hayase, Manami",
+    "prompt": "Hayase, Manami from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/247351.jpg?s=7201e3480835e10f23be8d1898daf350"
+  },
+  {
+    "name": "Hayase, Tsubasa",
+    "prompt": "Hayase, Tsubasa from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/247349.jpg?s=70986de9329bd6b952f465da1dbfac7a"
+  },
+  {
+    "name": "Ivan",
+    "prompt": "Ivan from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/248199.jpg?s=17f239764c872f3b7c6e27c138581d87"
+  },
+  {
+    "name": "Kotemon",
+    "prompt": "Kotemon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kouki",
+    "prompt": "Kouki from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/248203.jpg?s=d4eadfe7f596dd69364829bb7fca6fb1"
+  },
+  {
+    "name": "Kudamon",
+    "prompt": "Kudamon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/248559.jpg?s=e0095bd6b8d66be220df3366355400df"
+  },
+  {
+    "name": "Kurata, Akihiro",
+    "prompt": "Kurata, Akihiro from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/247481.jpg?s=2f47023da536c00bd1508f5d947c309e"
+  },
+  {
+    "name": "Kurosaki, Miki",
+    "prompt": "Kurosaki, Miki from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/247227.jpg?s=d21158b3b0e3bab213d227279fbd2348"
+  },
+  {
+    "name": "Magnamon",
+    "prompt": "Magnamon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/248531.jpg?s=595d0215dc31cda8d0300e1829a994a9"
+  },
+  {
+    "name": "Mercurimon",
+    "prompt": "Mercurimon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/248591.jpg?s=64a5f96ba06c872485502cfa0716a6b7"
+  },
+  {
+    "name": "Nanami",
+    "prompt": "Nanami from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/248201.jpg?s=934a4344388bbb9cb6a8e17dc5e814b9"
+  },
+  {
+    "name": "Noguchi, Kenji",
+    "prompt": "Noguchi, Kenji from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/248529.jpg?s=525a6ba0e47f1fbca6cb83b1ff8d4f28"
+  },
+  {
+    "name": "Noguchi, Misuzu",
+    "prompt": "Noguchi, Misuzu from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/248205.jpg?s=db482abaebd1cfb99d654985c877cffc"
+  },
+  {
+    "name": "Norstein, Franz",
+    "prompt": "Norstein, Franz from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/248539.jpg?s=2bcb7e189b7cf6342b46072b2cb0ef70"
+  },
+  {
+    "name": "Norstein, Grandmother",
+    "prompt": "Norstein, Grandmother from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/248537.jpg?s=ba62d726c75c2510e27646d8350421e7"
+  },
+  {
+    "name": "Norstein, Relena",
+    "prompt": "Norstein, Relena from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/248549.jpg?s=9e1b27dc046aef219f785b3ae19d4507"
+  },
+  {
+    "name": "Ogremon",
+    "prompt": "Ogremon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/295302.jpg?s=4c659183d4849b33e1db7f6b8bd6d17b"
+  },
+  {
+    "name": "Omegamon",
+    "prompt": "Omegamon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/248517.jpg?s=198ba409664b9c326afec188347d9ffd"
+  },
+  {
+    "name": "Piccolomon",
+    "prompt": "Piccolomon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/271593.jpg?s=0852dcf6839fb0006892292bea2dbf33"
+  },
+  {
+    "name": "Piyomon",
+    "prompt": "Piyomon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/520654.jpg?s=8246e19f2d8ac8bf50064b1a9a7593d2"
+  },
+  {
+    "name": "Pumpmon",
+    "prompt": "Pumpmon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/489432.jpg?s=5a132e15969adb588371b5e2328ab67d"
+  },
+  {
+    "name": "Reporter",
+    "prompt": "Reporter from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/247333.jpg?s=23125a5028718e62ae432664182161ea"
+  },
+  {
+    "name": "Reporter",
+    "prompt": "Reporter from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/248285.jpg?s=7f5bc26555bf599f2ce1fe750b487bd3"
+  },
+  {
+    "name": "RhodoKnightmon",
+    "prompt": "RhodoKnightmon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/248579.jpg?s=47659c28c4b62819901dbc3fc47c32aa"
+  },
+  {
+    "name": "SaberLeomon",
+    "prompt": "SaberLeomon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/248571.jpg?s=db33c5a1f7570ad029a13c1b359bfadf"
+  },
+  {
+    "name": "Satsuma, Rentarou",
+    "prompt": "Satsuma, Rentarou from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/322194.jpg?s=61fb1bdbadcda94d62c19d662743d0c9"
+  },
+  {
+    "name": "Shirakawa, Megumi",
+    "prompt": "Shirakawa, Megumi from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/247229.jpg?s=2ae600d5dc00da61acbd02713bd4fcd1"
+  },
+  {
+    "name": "Toucanmon",
+    "prompt": "Toucanmon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/286069.jpg?s=8567007e156c5b3877469c02bcb70ec4"
+  },
+  {
+    "name": "Touma's Mother",
+    "prompt": "Touma's Mother from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/247403.jpg?s=2ea81ed46d869c93dabfc1bdfdbe93e5"
+  },
+  {
+    "name": "UlforceVdramon",
+    "prompt": "UlforceVdramon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/248563.jpg?s=1498e0e6b317975a438e5e27dacf78d6"
+  },
+  {
+    "name": "Yggdrasil",
+    "prompt": "Yggdrasil from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/248409.jpg?s=db8b161b10821efce14342089bcdfe93"
+  },
+  {
+    "name": "Yukidarumon",
+    "prompt": "Yukidarumon from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/248583.jpg?s=50f89a55fc253d24ebd39c03755c2636"
+  },
+  {
+    "name": "Yushima, Hiroshi",
+    "prompt": "Yushima, Hiroshi from Digimon Savers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/248581.jpg?s=a7e1647266cdc2ccb1e3fdc186ee50fd"
+  }
+]

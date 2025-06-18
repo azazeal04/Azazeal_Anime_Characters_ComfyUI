@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Mark",
+    "prompt": "Mark from Hello! Sandybell",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/8558.jpg?s=c9fa9b99f7143d5f6ca080890312ea1b"
+  },
+  {
+    "name": "SandyBell",
+    "prompt": "SandyBell from Hello! Sandybell",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/8553.jpg?s=193691d66df221799e1e79e426079b39"
+  },
+  {
+    "name": "Charles",
+    "prompt": "Charles from Hello! Sandybell",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/475383.jpg?s=0e205851955afa733ea55447498c9d52"
+  },
+  {
+    "name": "Kentle, Ricky",
+    "prompt": "Kentle, Ricky from Hello! Sandybell",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/179811.jpg?s=0150f0b33cfca276c80903e4eb816762"
+  },
+  {
+    "name": "Laura",
+    "prompt": "Laura from Hello! Sandybell",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Peterson, Alec",
+    "prompt": "Peterson, Alec from Hello! Sandybell",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/179809.jpg?s=5e94417f3fb5973621078cf198f6e817"
+  },
+  {
+    "name": "Scherer, Kitty",
+    "prompt": "Scherer, Kitty from Hello! Sandybell",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/8559.jpg?s=8ebf0357d9492c5702cfa0aba78135b9"
+  },
+  {
+    "name": "Tambour",
+    "prompt": "Tambour from Hello! Sandybell",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/31205.jpg?s=6e58f6c38de7dab59d6420c67fa9acec"
+  }
+]

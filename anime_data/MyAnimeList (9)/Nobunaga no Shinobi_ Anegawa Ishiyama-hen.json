@@ -1,0 +1,237 @@
+[
+  {
+    "name": "Chidori",
+    "prompt": "Chidori from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/300336.jpg?s=4ba9e283ca01bb4d162dbb946366948d"
+  },
+  {
+    "name": "Oda, Nobunaga",
+    "prompt": "Oda, Nobunaga from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/300335.jpg?s=bded145bf23fcf72af2adfd920ac8a36"
+  },
+  {
+    "name": "Akechi, Mitsuhide",
+    "prompt": "Akechi, Mitsuhide from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/319301.jpg?s=20a89199fe5189db322ab598d004b7e2"
+  },
+  {
+    "name": "Asakura, Yoshikage",
+    "prompt": "Asakura, Yoshikage from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/320975.jpg?s=276709c9710dc9431a269c59302444a6"
+  },
+  {
+    "name": "Asakura, Souteki",
+    "prompt": "Asakura, Souteki from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Asakura, Kagetake",
+    "prompt": "Asakura, Kagetake from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ashikaga, Yoshiaki",
+    "prompt": "Ashikaga, Yoshiaki from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/319300.jpg?s=04b9f263e627007182ce550f6e3a44a0"
+  },
+  {
+    "name": "Azai, Nagamasa",
+    "prompt": "Azai, Nagamasa from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/320976.jpg?s=4e395b77fbd0af58d9f50e12db780d70"
+  },
+  {
+    "name": "Chacha",
+    "prompt": "Chacha from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ei",
+    "prompt": "Ei from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/358940.jpg?s=75c9114bf63221370ebd484103b79973"
+  },
+  {
+    "name": "Endou, Naotsune",
+    "prompt": "Endou, Naotsune from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/320980.jpg?s=51351d6c2e3996e13a5c9ead374c98e1"
+  },
+  {
+    "name": "Hattori, Hanzou",
+    "prompt": "Hattori, Hanzou from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/317776.jpg?s=311bdd45a9ff9798f48bb9280396da36"
+  },
+  {
+    "name": "Honda, Tadakatsu",
+    "prompt": "Honda, Tadakatsu from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hosokawa, Fujitaka",
+    "prompt": "Hosokawa, Fujitaka from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/329119.jpg?s=4fd71db6737482c8f91df9f0d734a6c8"
+  },
+  {
+    "name": "Isono, Kazumasa",
+    "prompt": "Isono, Kazumasa from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/321070.jpg?s=cd19a64ee8b6f7ae455e94317cb61d1d"
+  },
+  {
+    "name": "Iwanari, Tomomichi",
+    "prompt": "Iwanari, Tomomichi from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kennyo",
+    "prompt": "Kennyo from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/358941.jpg?s=3c5a5ae5286aed2f26a417756b2d39fa"
+  },
+  {
+    "name": "Kichou",
+    "prompt": "Kichou from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/311181.jpg?s=e73b63c00e3585c85c503bef5990c7eb"
+  },
+  {
+    "name": "Kinoshita, Hidenaga",
+    "prompt": "Kinoshita, Hidenaga from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kinoshita, Hideyoshi",
+    "prompt": "Kinoshita, Hideyoshi from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/317777.jpg?s=3bdaa9269045352d5d0bd918f193f3ad"
+  },
+  {
+    "name": "Maeda, Toshiie",
+    "prompt": "Maeda, Toshiie from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/319298.jpg?s=60f0a4587fbb49d5a103b548bac0a912"
+  },
+  {
+    "name": "Magara, Naotaka",
+    "prompt": "Magara, Naotaka from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/334616.jpg?s=1440f38bc5fe449a9a4c86418a25c2a5"
+  },
+  {
+    "name": "Matsunaga, Hisahide",
+    "prompt": "Matsunaga, Hisahide from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/327667.jpg?s=cb8c56eea02546e6b41175bf9430621d"
+  },
+  {
+    "name": "Miyoshi, Masayasu",
+    "prompt": "Miyoshi, Masayasu from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Miyoshi, Nagayasu",
+    "prompt": "Miyoshi, Nagayasu from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Miyoshi, Yasunaga",
+    "prompt": "Miyoshi, Yasunaga from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Miyoshi, Masakatsu",
+    "prompt": "Miyoshi, Masakatsu from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mochizuki, Chiyome",
+    "prompt": "Mochizuki, Chiyome from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mori, Nagayoshi",
+    "prompt": "Mori, Nagayoshi from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/358938.jpg?s=07c0f0156157901629ffba485c8ffe2f"
+  },
+  {
+    "name": "Mori, Ranmaru",
+    "prompt": "Mori, Ranmaru from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/358939.jpg?s=9c8bd981805cfbe307d231298d895020"
+  },
+  {
+    "name": "Mori, Yoshinari",
+    "prompt": "Mori, Yoshinari from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/348764.jpg?s=360e75d94a18a976aad19ce5231ff5b4"
+  },
+  {
+    "name": "Narration",
+    "prompt": "Narration from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nene",
+    "prompt": "Nene from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/461122.jpg?s=0c02326c97fc0f74e0ce56d1d32cc9d4"
+  },
+  {
+    "name": "Nyoshunni",
+    "prompt": "Nyoshunni from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/358942.jpg?s=1b878f6813f6a086c5be481756aba193"
+  },
+  {
+    "name": "Oichi",
+    "prompt": "Oichi from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/317779.jpg?s=738d8f9a8a6298939ed7bc3361708986"
+  },
+  {
+    "name": "Oka, Yoshimasa",
+    "prompt": "Oka, Yoshimasa from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Saika, Magoichi",
+    "prompt": "Saika, Magoichi from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Saitou, Tatsuoki",
+    "prompt": "Saitou, Tatsuoki from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/319295.jpg?s=4d7a00f8ae5526627af6ff11818a178a"
+  },
+  {
+    "name": "Shibata, Katsuie",
+    "prompt": "Shibata, Katsuie from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/319294.jpg?s=d16a865024d1cf230df43b876f7bdfe9"
+  },
+  {
+    "name": "Shimotsuma, Rairyuu",
+    "prompt": "Shimotsuma, Rairyuu from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Shimotsuma, Rairen",
+    "prompt": "Shimotsuma, Rairen from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/358943.jpg?s=29b7dfd889f9bee2bfc2e5d8d948d418"
+  },
+  {
+    "name": "Sukezou",
+    "prompt": "Sukezou from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/300337.jpg?s=603043aab4f93922a0426cb120c96043"
+  },
+  {
+    "name": "Takenaka, Kyuusaku",
+    "prompt": "Takenaka, Kyuusaku from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Takenaka, Hanbee",
+    "prompt": "Takenaka, Hanbee from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/318863.jpg?s=8c34a0ee2951bc3ebf16acdbec49cfe6"
+  },
+  {
+    "name": "Tokugawa, Ieyasu",
+    "prompt": "Tokugawa, Ieyasu from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/329123.jpg?s=091f9bb4576b881136f087974fce13dd"
+  },
+  {
+    "name": "Toudou, Takatora",
+    "prompt": "Toudou, Takatora from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Yamazaki, Yoshiie",
+    "prompt": "Yamazaki, Yoshiie from Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/334615.jpg?s=19c0c9c500fd3a4094b202b7a7db12cd"
+  }
+]

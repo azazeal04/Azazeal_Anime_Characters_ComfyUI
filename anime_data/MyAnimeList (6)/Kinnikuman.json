@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Alexandria Meat",
+    "prompt": "Alexandria Meat from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/508036.jpg?s=464e559a76295c63176440b52dcab388"
+  },
+  {
+    "name": "Kinniku, Suguru",
+    "prompt": "Kinniku, Suguru from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/509999.jpg?s=441a276ecb17e7dd7d36d377b1cb65c7"
+  },
+  {
+    "name": "Akuma Shougun",
+    "prompt": "Akuma Shougun from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/422090.jpg?s=624bd728b0e1ab29a56067bf0b410799"
+  },
+  {
+    "name": "Announcer Yoshigai",
+    "prompt": "Announcer Yoshigai from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/307879.jpg?s=2c1aaeee6c747736752fd3b35ab46047"
+  },
+  {
+    "name": "Ashuraman",
+    "prompt": "Ashuraman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/507028.jpg?s=785e184ff31dedab416cff8e5e7ad7c4"
+  },
+  {
+    "name": "Atlantis",
+    "prompt": "Atlantis from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/425155.jpg?s=1db03e8099afe567abc7bce82f67c086"
+  },
+  {
+    "name": "Beauty Rhodes",
+    "prompt": "Beauty Rhodes from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/431505.jpg?s=19d6d3254b249fd215e85cfc7baa59a3"
+  },
+  {
+    "name": "Benkiman",
+    "prompt": "Benkiman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/295241.jpg?s=d054850c607d954643e3af98f99579dd"
+  },
+  {
+    "name": "Big the Budo",
+    "prompt": "Big the Budo from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/430814.jpg?s=d4dbf3cfbdd502c84dd7e3da5f355a41"
+  },
+  {
+    "name": "Black Hole",
+    "prompt": "Black Hole from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/423297.jpg?s=2ce58bd3fc8909767bdd19f4de45334e"
+  },
+  {
+    "name": "Brocken Jr.",
+    "prompt": "Brocken Jr. from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/424866.jpg?s=755b988ed9720bb2ed410cf81d9b4996"
+  },
+  {
+    "name": "Brockenman",
+    "prompt": "Brockenman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/423188.jpg?s=000e61d9e97ea49b75c42dc7e07d5072"
+  },
+  {
+    "name": "Buffaloman",
+    "prompt": "Buffaloman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/295242.jpg?s=bf7c77284de10518d395e885b533331d"
+  },
+  {
+    "name": "Canadianman",
+    "prompt": "Canadianman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/423187.jpg?s=eecc0852745ec4f0b96d6307b3e6d10d"
+  },
+  {
+    "name": "Chief Cheyenne",
+    "prompt": "Chief Cheyenne from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/431992.jpg?s=c156c6a586d48a6d0f2cccb4137561dc"
+  },
+  {
+    "name": "Cubeman",
+    "prompt": "Cubeman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/431649.jpg?s=4553569a7a8cc71b2fd04d0db8199b69"
+  },
+  {
+    "name": "Curry Cook",
+    "prompt": "Curry Cook from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/430821.jpg?s=213e98ca840b989301c3a9d8c303f7b2"
+  },
+  {
+    "name": "Detective Akaiwa",
+    "prompt": "Detective Akaiwa from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/432971.jpg?s=d207e55724763e6b26ce86d58d9339bc"
+  },
+  {
+    "name": "Devil Magician",
+    "prompt": "Devil Magician from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/431507.jpg?s=2f4f34c965f22c801b9ae1aa18869a42"
+  },
+  {
+    "name": "Doctor Bombe",
+    "prompt": "Doctor Bombe from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/431492.jpg?s=b9dc9d57bcd6934d4130dc278e28fed7"
+  },
+  {
+    "name": "Flears, Dorlo",
+    "prompt": "Flears, Dorlo from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/431628.jpg?s=1b5d1442fe2698b1123adff57c2d6445"
+  },
+  {
+    "name": "Geronimo",
+    "prompt": "Geronimo from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/424867.jpg?s=a11322aacdbd33c4f647e15c9673d82a"
+  },
+  {
+    "name": "God of the Superman Road",
+    "prompt": "God of the Superman Road from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/430969.jpg?s=c6447f71f25ae79c51ae04f0e7d983ff"
+  },
+  {
+    "name": "Harrison, Edith",
+    "prompt": "Harrison, Edith from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/431631.jpg?s=a9f3e7def73de6aed90808e48f39aff4"
+  },
+  {
+    "name": "Iwao",
+    "prompt": "Iwao from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/305688.jpg?s=cc36ff01d7511f1d530275d45d02dffe"
+  },
+  {
+    "name": "Junkman",
+    "prompt": "Junkman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/423196.jpg?s=e14658a9d42d56325a219b853848b484"
+  },
+  {
+    "name": "Justiceman",
+    "prompt": "Justiceman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/430967.jpg?s=c31e565b2b15e733de18418c419ba324"
+  },
+  {
+    "name": "Kani Base",
+    "prompt": "Kani Base from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/430977.jpg?s=a15844780d42e0f98a24095da867a45b"
+  },
+  {
+    "name": "Kendaman",
+    "prompt": "Kendaman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/430971.jpg?s=29da34b67d1d966a0dcc297186e12227"
+  },
+  {
+    "name": "King Cobra",
+    "prompt": "King Cobra from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/431976.jpg?s=13d5a560e2818b239bff31633a23f5ef"
+  },
+  {
+    "name": "King Ton",
+    "prompt": "King Ton from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/431496.jpg?s=05196a1096fe5780c51f86c29fc30c5a"
+  },
+  {
+    "name": "Kinkotsu Obaba",
+    "prompt": "Kinkotsu Obaba from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/306109.jpg?s=538aaec6f1713c22cd0b9623b288bf56"
+  },
+  {
+    "name": "Kinkotsuman",
+    "prompt": "Kinkotsuman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/508037.jpg?s=78c17cce8849deb80cd82e02e7ab8bbf"
+  },
+  {
+    "name": "Kinniku, Mayumi",
+    "prompt": "Kinniku, Mayumi from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/432721.jpg?s=52746182df066f5e08d7012a580e987c"
+  },
+  {
+    "name": "Kinniku, Tatsunori",
+    "prompt": "Kinniku, Tatsunori from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/431984.jpg?s=dec34c880da05c9ee1b6b63945d98c1c"
+  },
+  {
+    "name": "Kinniku, Sayuri",
+    "prompt": "Kinniku, Sayuri from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/432720.jpg?s=9b060cd39faf0ba18c22875a2da496a7"
+  },
+  {
+    "name": "Mackintosh, Laura",
+    "prompt": "Mackintosh, Laura from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/306110.jpg?s=c28683a7469cbb64fe059e4cb4c5e66d"
+  },
+  {
+    "name": "Mackintosh, Alisa",
+    "prompt": "Mackintosh, Alisa from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/510002.jpg?s=aef357dddd7f890f9dda29bcd72a8516"
+  },
+  {
+    "name": "Maivia, Jesse",
+    "prompt": "Maivia, Jesse from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/430820.jpg?s=4e1c7bb18f2c42224ab30a9cdfd9d203"
+  },
+  {
+    "name": "Mindpuzzleman",
+    "prompt": "Mindpuzzleman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/431650.jpg?s=cca440747a5b1b58fccd55e2a04d06ab"
+  },
+  {
+    "name": "Mister Khamen",
+    "prompt": "Mister Khamen from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/425156.jpg?s=f86a59c3cea43d674e492350561b41a4"
+  },
+  {
+    "name": "Muscle, Harabote",
+    "prompt": "Muscle, Harabote from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/305847.jpg?s=2b1878c9e42b659ae8ec683e4d4e571e"
+  },
+  {
+    "name": "Nachiguron",
+    "prompt": "Nachiguron from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/305844.jpg?s=6795a29b6f05794041f743106d98c3da"
+  },
+  {
+    "name": "Nakano, Kazuo",
+    "prompt": "Nakano, Kazuo from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/305691.jpg?s=b9c3b02ab9298d88ae962c388ced2c91"
+  },
+  {
+    "name": "Neptuneman",
+    "prompt": "Neptuneman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/424875.jpg?s=f88fe0b9d04239fa0ea864b679061816"
+  },
+  {
+    "name": "Nikaidou, Mari",
+    "prompt": "Nikaidou, Mari from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/305689.jpg?s=9ec9a8b5374c41beeb114cc44f8f6d89"
+  },
+  {
+    "name": "Pentagon",
+    "prompt": "Pentagon from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/422089.jpg?s=77e2e6a4f4c4232f52f12a846e7b36a6"
+  },
+  {
+    "name": "Planetman",
+    "prompt": "Planetman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/425154.jpg?s=dd03515c73dda3bcd74460bb383e07e2"
+  },
+  {
+    "name": "Prince Kamehame",
+    "prompt": "Prince Kamehame from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/432725.jpg?s=5b01b86dc17594c67724acaa9308025b"
+  },
+  {
+    "name": "Queen of Heaven",
+    "prompt": "Queen of Heaven from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ramenman, Victory",
+    "prompt": "Ramenman, Victory from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/189538.jpg?s=1d3ee00f1657a4d8314dc987321e64a1"
+  },
+  {
+    "name": "Robin Mask",
+    "prompt": "Robin Mask from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/437036.jpg?s=10ad0587f40d9adb5c7d07852b626b7d"
+  },
+  {
+    "name": "Satan",
+    "prompt": "Satan from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/430961.jpg?s=e211a4a5990d492486e305beafd91212"
+  },
+  {
+    "name": "Satan Cross",
+    "prompt": "Satan Cross from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/430957.jpg?s=1932ab401b02147090c30f3185217aae"
+  },
+  {
+    "name": "Screw Kid",
+    "prompt": "Screw Kid from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/430972.jpg?s=c72e928c9671351f8db6287b16f61038"
+  },
+  {
+    "name": "Sheik Seijin",
+    "prompt": "Sheik Seijin from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/431638.jpg?s=f3883e7e273acbf478dc61cfbf48a7ce"
+  },
+  {
+    "name": "Shouno, Natsuko",
+    "prompt": "Shouno, Natsuko from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/305692.jpg?s=e9c51b801206d0a5fe3dffa1b96a02c9"
+  },
+  {
+    "name": "Silverman",
+    "prompt": "Silverman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/430966.jpg?s=b8c43712d51117329f331dea79b4302b"
+  },
+  {
+    "name": "Skull Bozu",
+    "prompt": "Skull Bozu from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/431504.jpg?s=cfc7d65fa85db72659f63535e6bda2f7"
+  },
+  {
+    "name": "Skyman",
+    "prompt": "Skyman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/431493.jpg?s=851297a96b15e4c51a65e816aaa6f8d8"
+  },
+  {
+    "name": "Sneagator",
+    "prompt": "Sneagator from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/430469.jpg?s=f8d1b9048f390b65b92ab51509820899"
+  },
+  {
+    "name": "Specialman",
+    "prompt": "Specialman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/430459.jpg?s=8ab7ee6a1d23a4bc82d9b60fdd2a2e52"
+  },
+  {
+    "name": "Springman",
+    "prompt": "Springman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/425157.jpg?s=015e6aa1b687e846cda715094b89cfb2"
+  },
+  {
+    "name": "SteCasse King",
+    "prompt": "SteCasse King from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/425158.jpg?s=db13e96f2d46808e8d3a14f32833e5fd"
+  },
+  {
+    "name": "Sunshine",
+    "prompt": "Sunshine from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/425152.jpg?s=b7128d53dd3649fdb22b6673c6de4c5a"
+  },
+  {
+    "name": "Taka-chan",
+    "prompt": "Taka-chan from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Teapackman",
+    "prompt": "Teapackman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/431490.jpg?s=08548d143c6ef5f2b66cea496e68c08b"
+  },
+  {
+    "name": "Terryman",
+    "prompt": "Terryman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/507027.jpg?s=f85792a6e168f9711822900bf087aa31"
+  },
+  {
+    "name": "The Mountain",
+    "prompt": "The Mountain from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/425159.jpg?s=e578f27cbaa4369a0dd443bd12f15a59"
+  },
+  {
+    "name": "The Ninja",
+    "prompt": "The Ninja from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/423190.jpg?s=b95bd433c5ac24d6c6885e82709d883d"
+  },
+  {
+    "name": "Tileman",
+    "prompt": "Tileman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/431648.jpg?s=071ccc566da05d5ca520630bf2ee40a0"
+  },
+  {
+    "name": "Warsman",
+    "prompt": "Warsman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/432719.jpg?s=bbc5040bd914005ef0d7b34855ff3963"
+  },
+  {
+    "name": "Watchman",
+    "prompt": "Watchman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/431971.jpg?s=4be0f469e1636c30be6cc5212cabc94c"
+  },
+  {
+    "name": "Wolfman",
+    "prompt": "Wolfman from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/305992.jpg?s=79c014fff776716533607072e84cb286"
+  },
+  {
+    "name": "Yosaku",
+    "prompt": "Yosaku from Kinnikuman",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/305851.jpg?s=5f2e1afe1e7e916bf1e4b8f6f71c6795"
+  }
+]

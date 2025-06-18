@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Carrera",
+    "prompt": "Carrera from Viper GTS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/127379.jpg?s=68f93f01ebfac2b1f62bd976f3ea1cb2"
+  },
+  {
+    "name": "Mercedes",
+    "prompt": "Mercedes from Viper GTS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/392645.jpg?s=76301acdf5113bae9dd537f5283a7cb0"
+  },
+  {
+    "name": "Ogawa",
+    "prompt": "Ogawa from Viper GTS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/39939.jpg?s=816828be59265b478addd6001ad02351"
+  },
+  {
+    "name": "Rati",
+    "prompt": "Rati from Viper GTS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/40457.jpg?s=52f159028685ae95f803c136e9f67a2f"
+  },
+  {
+    "name": "Alphina",
+    "prompt": "Alphina from Viper GTS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/39940.jpg?s=3bf9189f25cb1fbec418df5b42cf8357"
+  }
+]

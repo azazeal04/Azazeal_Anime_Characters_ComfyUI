@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Ichimatsu",
+    "prompt": "Ichimatsu from Samurai Gun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/469904.jpg?s=132c4ece8572386c202671ffecbf9a36"
+  },
+  {
+    "name": "Kurenai",
+    "prompt": "Kurenai from Samurai Gun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/417671.jpg?s=18922b9b5b7fc90c6395f699720e7e49"
+  },
+  {
+    "name": "Ohana",
+    "prompt": "Ohana from Samurai Gun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/148743.jpg?s=5811c17d87d3d6aba0e6634a3553088f"
+  },
+  {
+    "name": "Daimon",
+    "prompt": "Daimon from Samurai Gun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/112071.jpg?s=f3b99c5252b202b098c73834e76a7072"
+  },
+  {
+    "name": "Gouta",
+    "prompt": "Gouta from Samurai Gun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/276184.jpg?s=ff6d594099828f0b20d00c5ef7b049e8"
+  },
+  {
+    "name": "Matsuzaki, Shunkai",
+    "prompt": "Matsuzaki, Shunkai from Samurai Gun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/469905.jpg?s=127ac3fae1390236013e85c200fc87a1"
+  },
+  {
+    "name": "Sutekichi",
+    "prompt": "Sutekichi from Samurai Gun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/276182.jpg?s=5e5c89a223f21f348277235ce94fcb23"
+  },
+  {
+    "name": "Watou, Mitsumune",
+    "prompt": "Watou, Mitsumune from Samurai Gun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/112050.jpg?s=fcb686e16aa1ceb6d15f6ae7fff9745a"
+  }
+]

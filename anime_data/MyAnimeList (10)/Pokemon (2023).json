@@ -1,0 +1,1277 @@
+[
+  {
+    "name": "Achigator",
+    "prompt": "Achigator from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/564401.jpg?s=c699ed001eded00da0332c949573cdf9"
+  },
+  {
+    "name": "Captain Pikachu",
+    "prompt": "Captain Pikachu from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/583792.jpg?s=4d50b07bc5db9eae0e8b19ff8467277f"
+  },
+  {
+    "name": "Dot",
+    "prompt": "Dot from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/515102.jpg?s=75aaa87eab6ddcbc5e1b44ead64afd73"
+  },
+  {
+    "name": "Friede",
+    "prompt": "Friede from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/504230.jpg?s=9d27d2bc549f15e231848f54b52a30ff"
+  },
+  {
+    "name": "Hogator",
+    "prompt": "Hogator from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/521568.jpg?s=9ffdb8caa3ffe7150aac7259866c1629"
+  },
+  {
+    "name": "Liko",
+    "prompt": "Liko from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/502892.jpg?s=2fe5a245564e743688141691bbe2db18"
+  },
+  {
+    "name": "Masquernya",
+    "prompt": "Masquernya from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/523049.jpg?s=a43e3c8e2e06939e88530ffdda68608a"
+  },
+  {
+    "name": "Nyahoja",
+    "prompt": "Nyahoja from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/509143.jpg?s=0c915dc902e36a35e5d51ef6d8d077a6"
+  },
+  {
+    "name": "Nyarote",
+    "prompt": "Nyarote from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/543950.jpg?s=241d6999fc27dd5dfc19badb26c9ed76"
+  },
+  {
+    "name": "Roy",
+    "prompt": "Roy from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/503588.jpg?s=2740d8143de5f8285efed3b5cdd50da4"
+  },
+  {
+    "name": "Achamo",
+    "prompt": "Achamo from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/498099.jpg?s=d147f2d3c731fbde6ddcb5b1b5b06d4d"
+  },
+  {
+    "name": "Agate",
+    "prompt": "Agate from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/521909.jpg?s=8a22810299a3ccada71167f0dfb362da"
+  },
+  {
+    "name": "Alex",
+    "prompt": "Alex from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/517196.jpg?s=ed49b6c9219d5e201a93433292ada11f"
+  },
+  {
+    "name": "Alligates",
+    "prompt": "Alligates from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/499964.jpg?s=9214a1beb40043658d7a40ba98ef6297"
+  },
+  {
+    "name": "Amethio",
+    "prompt": "Amethio from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/506116.jpg?s=642f12d899347dd2e5bca27aee228f6a"
+  },
+  {
+    "name": "Ann",
+    "prompt": "Ann from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/508987.jpg?s=3532af5b18d522ef48eefc54defddd46"
+  },
+  {
+    "name": "Aoki",
+    "prompt": "Aoki from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/557268.jpg?s=3f781366abae57a2791fb55f71ade7b3"
+  },
+  {
+    "name": "Ashimari",
+    "prompt": "Ashimari from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/498783.jpg?s=39d57e79402da84c584cecb52dd287df"
+  },
+  {
+    "name": "Balkie",
+    "prompt": "Balkie from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/499985.jpg?s=72c021cb93f1b0bf734239a60e76f6dd"
+  },
+  {
+    "name": "Bangiras",
+    "prompt": "Bangiras from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/540502.jpg?s=ae4cc3a96a74d21b349bbd45a708f6a0"
+  },
+  {
+    "name": "Betbeter",
+    "prompt": "Betbeter from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/498611.jpg?s=e3991e33b9d709396c17e2ba1ea41763"
+  },
+  {
+    "name": "Betbeton",
+    "prompt": "Betbeton from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/498079.jpg?s=394c256329e54b6751d046cc86137735"
+  },
+  {
+    "name": "Biriridama",
+    "prompt": "Biriridama from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/484757.jpg?s=aaa6583da447e91cc85aabd05d94cf53"
+  },
+  {
+    "name": "Blacky",
+    "prompt": "Blacky from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/504427.jpg?s=94e3f93d5a82a5c75baa8b603a8fe990"
+  },
+  {
+    "name": "Blanca",
+    "prompt": "Blanca from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/541725.jpg?s=c00286e8c7617f79bcc117d1a69ef85c"
+  },
+  {
+    "name": "Bocco",
+    "prompt": "Bocco from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/554715.jpg?s=023cc242ad788f0007e37396e7e85888"
+  },
+  {
+    "name": "Botan",
+    "prompt": "Botan from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/554717.jpg?s=936cbca05166cae8ebef77ec8b686eb8"
+  },
+  {
+    "name": "Briar",
+    "prompt": "Briar from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/566752.jpg?s=eb8a1920098c4066aa19c71a14355870"
+  },
+  {
+    "name": "Bulu",
+    "prompt": "Bulu from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/499983.jpg?s=7fa07a4a89ebfe291eb559b4d8602760"
+  },
+  {
+    "name": "Butterfree",
+    "prompt": "Butterfree from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/498324.jpg?s=66301edd9a08b9f273353b8ebc41aeac"
+  },
+  {
+    "name": "Capsaiji",
+    "prompt": "Capsaiji from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/566593.jpg?s=d57c39986b9dc1b523bf84d6ce9ef7a1"
+  },
+  {
+    "name": "Carbou",
+    "prompt": "Carbou from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/569063.jpg?s=59d18469eca56e318780b5e099c1a835"
+  },
+  {
+    "name": "Caretaker",
+    "prompt": "Caretaker from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/566044.jpg?s=1494b3d562ce18ac2c094a1debd42cc5"
+  },
+  {
+    "name": "Caterpie",
+    "prompt": "Caterpie from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/503661.jpg?s=8da993ac7bcde374acf69e205f779b05"
+  },
+  {
+    "name": "Chandelure",
+    "prompt": "Chandelure from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/564400.jpg?s=18f482177f2f38265d3188b75c9a5570"
+  },
+  {
+    "name": "Chaoboo",
+    "prompt": "Chaoboo from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/504276.jpg?s=dd8bda7cf96aecd3b0a4bee837429fb0"
+  },
+  {
+    "name": "Chikorita",
+    "prompt": "Chikorita from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/528618.jpg?s=00c32ca6835ad3eb5a11f78b730596c5"
+  },
+  {
+    "name": "Chili",
+    "prompt": "Chili from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/532732.jpg?s=2e0519eccc54b0b742eb03447c672247"
+  },
+  {
+    "name": "Clavell",
+    "prompt": "Clavell from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/521548.jpg?s=da97114ea097e666916097ede4309e57"
+  },
+  {
+    "name": "Coil",
+    "prompt": "Coil from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498605.jpg?s=21c5d42c79b5cab5eb0eb3159de929c5"
+  },
+  {
+    "name": "Collecurei",
+    "prompt": "Collecurei from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/540503.jpg?s=bbfed8c9a37b2882c247761077bd0b29"
+  },
+  {
+    "name": "Colza",
+    "prompt": "Colza from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/514164.jpg?s=7c9b3cd466c69daa0c86ca911ca2c51d"
+  },
+  {
+    "name": "Conia",
+    "prompt": "Conia from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/506118.jpg?s=93b725edf27f2da14fd3788927c67da5"
+  },
+  {
+    "name": "Crave",
+    "prompt": "Crave from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/572947.jpg?s=3aba732844c5188a87d2fc7a70b0bc2e"
+  },
+  {
+    "name": "da Yotim, Sohtim",
+    "prompt": "da Yotim, Sohtim from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/588256.jpg?s=d9b24c19ac9b8c321cb54a72772948c2"
+  },
+  {
+    "name": "Dedenne",
+    "prompt": "Dedenne from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/499406.jpg?s=66e5d9f0e3b451961b6a93677dfff68e"
+  },
+  {
+    "name": "Delibird",
+    "prompt": "Delibird from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497653.jpg?s=b375033c9f98a1eec6266aa110de63ae"
+  },
+  {
+    "name": "Diana",
+    "prompt": "Diana from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/524671.jpg?s=f0a6e90dee831412caa4a4b9d0e7a924"
+  },
+  {
+    "name": "Diguda",
+    "prompt": "Diguda from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/484756.jpg?s=932bbf90709df207050b91d376212f28"
+  },
+  {
+    "name": "Doble",
+    "prompt": "Doble from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/576058.jpg?s=cacaf86e91d1b0f00bb9cb9e2d51c785"
+  },
+  {
+    "name": "Dodrio",
+    "prompt": "Dodrio from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/498610.jpg?s=b74edca1637f7feed5971bd023594512"
+  },
+  {
+    "name": "Doduo",
+    "prompt": "Doduo from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/498609.jpg?s=a2f63d9763b30adaf8a034c1f25ec7b5"
+  },
+  {
+    "name": "Dooh",
+    "prompt": "Dooh from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/564909.jpg?s=742f6b3b8ceb2a32d311fd6147a84100"
+  },
+  {
+    "name": "Dorameshiya",
+    "prompt": "Dorameshiya from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/553426.jpg?s=e8a287594c217c12aba9bdccd334fcae"
+  },
+  {
+    "name": "Dr. Willow",
+    "prompt": "Dr. Willow from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/500922.jpg?s=b6719e30cb4f4a86ce72bccb594de796"
+  },
+  {
+    "name": "Eievui",
+    "prompt": "Eievui from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/359157.jpg?s=0cbdbf1b3d11a3949cb9aec6d03ba650"
+  },
+  {
+    "name": "Eifie",
+    "prompt": "Eifie from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/504426.jpg?s=07f50dbf80adbacdc001d4aa56c37ccf"
+  },
+  {
+    "name": "Eipam",
+    "prompt": "Eipam from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/498766.jpg?s=51accefc8c98a045e37f7e991f5ceb7d"
+  },
+  {
+    "name": "Elekible",
+    "prompt": "Elekible from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/498080.jpg?s=430ae43d902fdc64ec82feed8a892df0"
+  },
+  {
+    "name": "Elekid",
+    "prompt": "Elekid from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/528245.jpg?s=3309b3002532edcb62d0215a5b452f58"
+  },
+  {
+    "name": "Emonga",
+    "prompt": "Emonga from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/504431.jpg?s=131c3879610241a97419c8465573f4cd"
+  },
+  {
+    "name": "Enbuou",
+    "prompt": "Enbuou from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/504277.jpg?s=054b838448fb8433b5e9f61a0b24a570"
+  },
+  {
+    "name": "Eneko",
+    "prompt": "Eneko from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/517163.jpg?s=bdc3cda13c0f7709f43cc570f09aee7b"
+  },
+  {
+    "name": "Entei",
+    "prompt": "Entei from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/254423.jpg?s=2c7bf7ebfe47cd735429de74d8664114"
+  },
+  {
+    "name": "Fire",
+    "prompt": "Fire from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/453721.jpg?s=2eda7b2c0db3a079c2be9408ce3ee2d4"
+  },
+  {
+    "name": "Fokko",
+    "prompt": "Fokko from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/521893.jpg?s=c5ba55b1a3a2bf0864ec1fb5913b18ce"
+  },
+  {
+    "name": "Freezer",
+    "prompt": "Freezer from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/393186.jpg?s=3676f432dd404892d1fb72ce119c7704"
+  },
+  {
+    "name": "Fushigibana",
+    "prompt": "Fushigibana from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/497451.jpg?s=5f7350c8f01d5365fcce698ff715ce52"
+  },
+  {
+    "name": "Fushigidane",
+    "prompt": "Fushigidane from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/484349.jpg?s=80dee90bc9f5ffc5a36db98e0f47d065"
+  },
+  {
+    "name": "Fushigisou",
+    "prompt": "Fushigisou from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/497450.jpg?s=cb15aaf8910b161c75e4be96ac1de61c"
+  },
+  {
+    "name": "Fuwante",
+    "prompt": "Fuwante from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/564399.jpg?s=20d46474c8931cdd856a8e501a81bf6e"
+  },
+  {
+    "name": "Gardie",
+    "prompt": "Gardie from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497179.jpg?s=190a0d99d19fe1b73e2a5e6b544a4b2f"
+  },
+  {
+    "name": "Gengar",
+    "prompt": "Gengar from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497724.jpg?s=5e6079f80a75912bc0139b8a95dc54fa"
+  },
+  {
+    "name": "Gibeon",
+    "prompt": "Gibeon from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/583795.jpg?s=2399cddad187d0cabc2358de5e695ea5"
+  },
+  {
+    "name": "Golduck",
+    "prompt": "Golduck from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/498480.jpg?s=80f799748fbd6eae6067c176d3dd19b8"
+  },
+  {
+    "name": "Gomazou",
+    "prompt": "Gomazou from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/495497.jpg?s=da91552689ce501e1cf627c856621e72"
+  },
+  {
+    "name": "Goriki",
+    "prompt": "Goriki from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/497605.jpg?s=a37679a4a60feb23a4f13033dca0e008"
+  },
+  {
+    "name": "Gorirander",
+    "prompt": "Gorirander from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/560404.jpg?s=73bcd44a203947effea81bab3d390c9e"
+  },
+  {
+    "name": "Gourton",
+    "prompt": "Gourton from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/576096.jpg?s=55c7d5988eb1e01f567051d6ddae5aaa"
+  },
+  {
+    "name": "Grusha",
+    "prompt": "Grusha from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/554718.jpg?s=3772dae045e19e56ed4c500d9558e471"
+  },
+  {
+    "name": "Gyarados",
+    "prompt": "Gyarados from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/528249.jpg?s=a62ca3c62d1d023218389e1337abb3ec"
+  },
+  {
+    "name": "Haidai",
+    "prompt": "Haidai from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/554713.jpg?s=443b646bacee9a0da9a5e688ecd7c5cb"
+  },
+  {
+    "name": "Hamber",
+    "prompt": "Hamber from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/542338.jpg?s=8704f5e1cf1fc7568a2a481ba6f6de69"
+  },
+  {
+    "name": "Hassaku",
+    "prompt": "Hassaku from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/545770.jpg?s=d2e4488c734b5fdb31e11413c84e4bad"
+  },
+  {
+    "name": "Hassam",
+    "prompt": "Hassam from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/499968.jpg?s=0237d72ef33cfa6a0945c16aa8be0bee"
+  },
+  {
+    "name": "Heracross",
+    "prompt": "Heracross from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497650.jpg?s=d92b43d4c8edba36914b6c4858eae4ed"
+  },
+  {
+    "name": "Hikozaru",
+    "prompt": "Hikozaru from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/500491.jpg?s=99dad9021bb4ab88a0b8c15786776148"
+  },
+  {
+    "name": "Himanuts",
+    "prompt": "Himanuts from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/576056.jpg?s=03d478716b550d4695948747d8feb539"
+  },
+  {
+    "name": "Hinoarashi",
+    "prompt": "Hinoarashi from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/495308.jpg?s=5dc420d479c62b5975204880f95bb58a"
+  },
+  {
+    "name": "Hitodeman",
+    "prompt": "Hitodeman from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/497608.jpg?s=b9b711e1d756ad2d944a211e97a6d3c0"
+  },
+  {
+    "name": "Hitokage",
+    "prompt": "Hitokage from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497725.jpg?s=d7b0e60b71876679b6a20161fc2260d0"
+  },
+  {
+    "name": "Horubee",
+    "prompt": "Horubee from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/576093.jpg?s=c4dd0904b76f04e394d0f6e808767475"
+  },
+  {
+    "name": "Irukaman",
+    "prompt": "Irukaman from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/553551.jpg?s=cb68eda7c7762e4534b01f37546b9d25"
+  },
+  {
+    "name": "Ishitsubute",
+    "prompt": "Ishitsubute from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497609.jpg?s=bcdc5d8156655d78fdb5b6684561cc9e"
+  },
+  {
+    "name": "Iwanko",
+    "prompt": "Iwanko from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/504281.jpg?s=2a00a96d6d2cd5edf18a50bf482b71af"
+  },
+  {
+    "name": "Iwark",
+    "prompt": "Iwark from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/528254.jpg?s=581b599604eb78f7cfc8367c34d672c6"
+  },
+  {
+    "name": "Jalorda",
+    "prompt": "Jalorda from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/504274.jpg?s=b0d2801e37b93a50ed826415b0c19b7b"
+  },
+  {
+    "name": "Janovy",
+    "prompt": "Janovy from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/504273.jpg?s=d1234f2513c9b829159e3e1dcd541baa"
+  },
+  {
+    "name": "Joy",
+    "prompt": "Joy from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/215001.jpg?s=4709a6ce2788588427805e93172b07e7"
+  },
+  {
+    "name": "Jugon",
+    "prompt": "Jugon from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/504425.jpg?s=0c0d85ff3ea8004f2a6b7e5989ae2d01"
+  },
+  {
+    "name": "Kabigon",
+    "prompt": "Kabigon from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/497183.jpg?s=4d001fb246af762fcbc30233cfb4c5ba"
+  },
+  {
+    "name": "Kabu",
+    "prompt": "Kabu from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/520556.jpg?s=52c099a4afc6722b99cbc7a8a8b08bb9"
+  },
+  {
+    "name": "Kaede",
+    "prompt": "Kaede from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/545777.jpg?s=dbf88175f401988b342773fc82233571"
+  },
+  {
+    "name": "Kairiki",
+    "prompt": "Kairiki from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/497612.jpg?s=1ba68cd71979517efb37db292d21ba5e"
+  },
+  {
+    "name": "Kairyuu",
+    "prompt": "Kairyuu from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/528913.jpg?s=7e9c8cf303fd1acf883ae73eccd5c633"
+  },
+  {
+    "name": "Kameil",
+    "prompt": "Kameil from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497565.jpg?s=7a6a70469c07542330e2f1fdf74938d6"
+  },
+  {
+    "name": "Kamonegi",
+    "prompt": "Kamonegi from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/497611.jpg?s=09b34b0bf0b66ace21f1fac9cfe0e947"
+  },
+  {
+    "name": "Kanuchan",
+    "prompt": "Kanuchan from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/560256.jpg?s=1da9171b08b2eb2dd4226f51a4da357d"
+  },
+  {
+    "name": "Karna",
+    "prompt": "Karna from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/564788.jpg?s=53cc67221f1f93df76bdbc358c1cad65"
+  },
+  {
+    "name": "Kihada",
+    "prompt": "Kihada from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/546092.jpg?s=78526b5e44b4ce25590ea6ab194ba7d7"
+  },
+  {
+    "name": "Kimawari",
+    "prompt": "Kimawari from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/576057.jpg?s=c4844aba23d77683f04067d380779fb6"
+  },
+  {
+    "name": "Koaruhie",
+    "prompt": "Koaruhie from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/565078.jpg?s=4b28a4300f5bf4c3e96c2f68321dd690"
+  },
+  {
+    "name": "Koduck",
+    "prompt": "Koduck from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497610.jpg?s=32c4d310209acd8b14c3fe390b16ce0c"
+  },
+  {
+    "name": "Koiking",
+    "prompt": "Koiking from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/497181.jpg?s=1f9c9acf07db69f74afac5a47c5b0a59"
+  },
+  {
+    "name": "Kolink",
+    "prompt": "Kolink from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/498100.jpg?s=7e9248e12f6865614819e957757ffb86"
+  },
+  {
+    "name": "Konoyozaru",
+    "prompt": "Konoyozaru from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/564910.jpg?s=cfb8e0b608c302558cd689c016e8b283"
+  },
+  {
+    "name": "Koratta",
+    "prompt": "Koratta from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498475.jpg?s=8705af4423acafef2593f11f28f92881"
+  },
+  {
+    "name": "Kuwassu",
+    "prompt": "Kuwassu from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/521899.jpg?s=f5104463393f8b1c42ee5138490c6c91"
+  },
+  {
+    "name": "Laglarge",
+    "prompt": "Laglarge from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/504430.jpg?s=dbf841557c0ce799af3aca547121c1b6"
+  },
+  {
+    "name": "Landau",
+    "prompt": "Landau from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/508986.jpg?s=f11ca7ee35066f235f444da839309dad"
+  },
+  {
+    "name": "Laplace",
+    "prompt": "Laplace from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/504790.jpg?s=b8ebdbc6f45ccdb2b0022c8b010a1e17"
+  },
+  {
+    "name": "Latias",
+    "prompt": "Latias from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/396594.jpg?s=2c67daed02a1ac52d3ae9c199e6f5af9"
+  },
+  {
+    "name": "Latios",
+    "prompt": "Latios from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/396593.jpg?s=8ca8f23a7f1b6faf55aa1e02e4dc6714"
+  },
+  {
+    "name": "Lip",
+    "prompt": "Lip from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/554712.jpg?s=c1a4469920b96bce545e792ac9f4b7ab"
+  },
+  {
+    "name": "Lizardo",
+    "prompt": "Lizardo from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497452.jpg?s=7b3c36f755c70aeba57c1a51696390c1"
+  },
+  {
+    "name": "Lizardon",
+    "prompt": "Lizardon from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497453.jpg?s=4ac403651eb19d691c4dd36ef2848119"
+  },
+  {
+    "name": "Lucario",
+    "prompt": "Lucario from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/472877.jpg?s=212f1dd46cb5945a1671db3bc2fc32f8"
+  },
+  {
+    "name": "Lucca",
+    "prompt": "Lucca from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/517545.jpg?s=01e299fe7d442e7b332c29e273196e21"
+  },
+  {
+    "name": "Lucius",
+    "prompt": "Lucius from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/568579.jpg?s=45f617ac29a1ef97e0ed586086eb67f7"
+  },
+  {
+    "name": "Lucky",
+    "prompt": "Lucky from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/553422.jpg?s=5528201e18f3679114e253f0a0e252a1"
+  },
+  {
+    "name": "Lugarugan",
+    "prompt": "Lugarugan from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/504282.jpg?s=c05babafaa6a9ecafa062b0aae84e4ed"
+  },
+  {
+    "name": "Luka",
+    "prompt": "Luka from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/554714.jpg?s=65b3c0a845453535e614a3a104d37811"
+  },
+  {
+    "name": "Magmag",
+    "prompt": "Magmag from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/497584.jpg?s=33015c4bc7e2ad82c4da9a2ac01fc092"
+  },
+  {
+    "name": "Magmarashi",
+    "prompt": "Magmarashi from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/517159.jpg?s=fd833f7d8702988daa11fadf64e738b1"
+  },
+  {
+    "name": "Mahomil",
+    "prompt": "Mahomil from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/523048.jpg?s=ab8b2fbbdfc20452041101df055a606d"
+  },
+  {
+    "name": "Manaphy",
+    "prompt": "Manaphy from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/101739.jpg?s=021c640da3a7c65244a0b101543a1683"
+  },
+  {
+    "name": "Manene",
+    "prompt": "Manene from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/576082.jpg?s=375265d7901679b77d245cbab214e1a9"
+  },
+  {
+    "name": "Maruyakude",
+    "prompt": "Maruyakude from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/528105.jpg?s=10658edee597f1b2e1f3977f53a302ab"
+  },
+  {
+    "name": "Matadogas",
+    "prompt": "Matadogas from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/499144.jpg?s=4bda67370d1878b3c6427ad31482e7db"
+  },
+  {
+    "name": "MC Kammer",
+    "prompt": "MC Kammer from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/584135.jpg?s=eb78f732f5e060daf80f67f477d65c44"
+  },
+  {
+    "name": "Melecie",
+    "prompt": "Melecie from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/493945.jpg?s=e237afce4081482a2758f9100a82bb3d"
+  },
+  {
+    "name": "Menokurage",
+    "prompt": "Menokurage from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497606.jpg?s=b9d9bcca4dd4e85bac64dc0c0e11893e"
+  },
+  {
+    "name": "Metagross",
+    "prompt": "Metagross from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/498082.jpg?s=d2f2d6a42c3c69559f29df1c2684e965"
+  },
+  {
+    "name": "Mijumaru",
+    "prompt": "Mijumaru from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/498764.jpg?s=b565811ee8d234328532ade4d51df8d1"
+  },
+  {
+    "name": "Milokaross",
+    "prompt": "Milokaross from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/578826.jpg?s=1be97b4ef3775079802cb31a5f1e25c3"
+  },
+  {
+    "name": "Miniryuu",
+    "prompt": "Miniryuu from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/498077.jpg?s=5607d7de650cc3646d0b22afdc39f84f"
+  },
+  {
+    "name": "Minive",
+    "prompt": "Minive from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/576097.jpg?s=4db9b41d9f37bb553effeb9d69e2d5be"
+  },
+  {
+    "name": "Minun",
+    "prompt": "Minun from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/500161.jpg?s=420521594afa546b563fc6d48b32174a"
+  },
+  {
+    "name": "Mizugorou",
+    "prompt": "Mizugorou from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/499986.jpg?s=0263fc0737ff2cd6f1edf04195db5782"
+  },
+  {
+    "name": "Mokurou",
+    "prompt": "Mokurou from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/465741.jpg?s=dd6dbe12b37f8cdc8b6f50868f07343a"
+  },
+  {
+    "name": "Mollie",
+    "prompt": "Mollie from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/514687.jpg?s=ebb575b22f38e69075cde871af3784c0"
+  },
+  {
+    "name": "Mollie's mother",
+    "prompt": "Mollie's mother from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/591839.jpg?s=0c73edc35e4547a939f878668707882d"
+  },
+  {
+    "name": "Morpeko",
+    "prompt": "Morpeko from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/576095.jpg?s=2c04ae5b80ffee499d9932215272c14c"
+  },
+  {
+    "name": "Mukuhawk",
+    "prompt": "Mukuhawk from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/497614.jpg?s=0284bec24cb898419d663d2ff25c7f9d"
+  },
+  {
+    "name": "Muma",
+    "prompt": "Muma from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/562032.jpg?s=b7dbd7cd45133fab454b7ef7ee95bae7"
+  },
+  {
+    "name": "Murdock",
+    "prompt": "Murdock from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/505362.jpg?s=6ab6a12456e0e7a92ffa45f015f4fc05"
+  },
+  {
+    "name": "Nanjyamo",
+    "prompt": "Nanjyamo from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/517448.jpg?s=9e31cb4169e6fc4ef5608f2cead23f93"
+  },
+  {
+    "name": "Nazonokusa",
+    "prompt": "Nazonokusa from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/484759.jpg?s=093b715e2b91ca9b9805f85abe17243e"
+  },
+  {
+    "name": "Negigaknight",
+    "prompt": "Negigaknight from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/498770.jpg?s=ee2aa09259eaf786ffe7ac1a51cfb7eb"
+  },
+  {
+    "name": "Nemo",
+    "prompt": "Nemo from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/514684.jpg?s=f78a7549be477b8f7fd83f33ef468149"
+  },
+  {
+    "name": "Nidoking",
+    "prompt": "Nidoking from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/498074.jpg?s=64acc4b996361dfce6597143549a2fca"
+  },
+  {
+    "name": "Nidoran♀",
+    "prompt": "Nidoran♀ from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/498477.jpg?s=b21147508be30ff8384e65f75e2d3870"
+  },
+  {
+    "name": "Nidorina",
+    "prompt": "Nidorina from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/498478.jpg?s=9fb49b7ebf6b73d906da488386fbcda9"
+  },
+  {
+    "name": "Numacraw",
+    "prompt": "Numacraw from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/504429.jpg?s=ec268a004f3f8c38c1ba051683581d3f"
+  },
+  {
+    "name": "Nyabiko",
+    "prompt": "Nyabiko from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/591838.jpg?s=c2dba96440c32382da2186b4db580751"
+  },
+  {
+    "name": "Nyarth",
+    "prompt": "Nyarth from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/131981.jpg?s=d7734d4cd42e72435749110ba1953798"
+  },
+  {
+    "name": "Nyasper",
+    "prompt": "Nyasper from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/521894.jpg?s=e1cf73ddf91e89543e312795da5658a0"
+  },
+  {
+    "name": "Nymphia",
+    "prompt": "Nymphia from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/517164.jpg?s=4764648954543eed08045d06faa1b6ae"
+  },
+  {
+    "name": "Nyorobon",
+    "prompt": "Nyorobon from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/498602.jpg?s=db50904bc00615909f14dc98c33ceae9"
+  },
+  {
+    "name": "Nyoromo",
+    "prompt": "Nyoromo from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/497646.jpg?s=af5553d5f9754084049367299beca227"
+  },
+  {
+    "name": "Nyorotono",
+    "prompt": "Nyorotono from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/578828.jpg?s=40d7a0e3e78bdab7838655771f8818fa"
+  },
+  {
+    "name": "Nyorozo",
+    "prompt": "Nyorozo from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/498601.jpg?s=445e8e5155ff4232c118100763559764"
+  },
+  {
+    "name": "Octane",
+    "prompt": "Octane from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/498767.jpg?s=abf92987c7e36bd666920afe31b071de"
+  },
+  {
+    "name": "Odoshishi",
+    "prompt": "Odoshishi from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/497692.jpg?s=9d0ad3e5f5db64a676627fe012571481"
+  },
+  {
+    "name": "Okorizaru",
+    "prompt": "Okorizaru from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/563379.jpg?s=643f86d932ab0beeffbca998f8d29134"
+  },
+  {
+    "name": "Omodaka",
+    "prompt": "Omodaka from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/545781.jpg?s=f034a867347a3abbc72e51f412b46eed"
+  },
+  {
+    "name": "Omstar",
+    "prompt": "Omstar from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/499084.jpg?s=51e24ca5d8b38284a2fa25865b0dc66b"
+  },
+  {
+    "name": "Onyx",
+    "prompt": "Onyx from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/521907.jpg?s=e79bc64e457b830f4ccbe3e55209e76d"
+  },
+  {
+    "name": "Orachifu",
+    "prompt": "Orachifu from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/565827.jpg?s=0ca6319bae9ddec00c9273d64e7028a7"
+  },
+  {
+    "name": "Ordile",
+    "prompt": "Ordile from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/504286.jpg?s=bafbb2ec8acb7618dddb0a0ed0c9b231"
+  },
+  {
+    "name": "Orio",
+    "prompt": "Orio from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/505363.jpg?s=3505f0b0df32848ea65c9da83e830498"
+  },
+  {
+    "name": "Pachirisu",
+    "prompt": "Pachirisu from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/569095.jpg?s=989930b6f8bb43c54e4e125176f8e5fa"
+  },
+  {
+    "name": "Pamo",
+    "prompt": "Pamo from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/560255.jpg?s=c91d425ad1694319eb0cd6f7c973c798"
+  },
+  {
+    "name": "Pepper",
+    "prompt": "Pepper from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/521547.jpg?s=c2cd1b59ca32672d2263fa542cf1cb91"
+  },
+  {
+    "name": "Pichu",
+    "prompt": "Pichu from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/467734.jpg?s=8cb55141a528a6728e076756031f6d11"
+  },
+  {
+    "name": "Pigeon",
+    "prompt": "Pigeon from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/498327.jpg?s=8f4db626d0a8473c97f9868f69e551c4"
+  },
+  {
+    "name": "Pikachu",
+    "prompt": "Pikachu from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/289627.jpg?s=b97db39e3126c4cc184a764059abe0f6"
+  },
+  {
+    "name": "Pippi",
+    "prompt": "Pippi from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/497392.jpg?s=d255b60c2e02bc41cf7eb6afab5acab4"
+  },
+  {
+    "name": "Pixy",
+    "prompt": "Pixy from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/497380.jpg?s=4d01e937431842549c860849ba41c4dc"
+  },
+  {
+    "name": "Plusle",
+    "prompt": "Plusle from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/500160.jpg?s=24cb7ca6139724bdd9cf6b964bc8298c"
+  },
+  {
+    "name": "Pochama",
+    "prompt": "Pochama from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/449497.jpg?s=c2298c5226083be5dcf2738c78036bb8"
+  },
+  {
+    "name": "Pochiena",
+    "prompt": "Pochiena from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/500158.jpg?s=b36b08861ebfc9b3e600e48cbcf4da5e"
+  },
+  {
+    "name": "Pokabu",
+    "prompt": "Pokabu from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/504275.jpg?s=4aa268d0ccdf742730cf333a3fbbf2d0"
+  },
+  {
+    "name": "Poppo",
+    "prompt": "Poppo from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/498326.jpg?s=7195d699709848dc904ab88508b63f75"
+  },
+  {
+    "name": "Poppy",
+    "prompt": "Poppy from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/546094.jpg?s=59b8dd1b80bce5499f0ce6baabd2d57a"
+  },
+  {
+    "name": "Pottaishi",
+    "prompt": "Pottaishi from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/553423.jpg?s=9a970d0644f22c8fbd6ab242d07b0fb8"
+  },
+  {
+    "name": "Ptera",
+    "prompt": "Ptera from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/528819.jpg?s=ffd21ba50b389008e6430ff61d05d2d3"
+  },
+  {
+    "name": "Pukurin",
+    "prompt": "Pukurin from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/497161.jpg?s=1d0cd3ff5a7a74fe495ff8d292375ac4"
+  },
+  {
+    "name": "Purin",
+    "prompt": "Purin from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/528822.jpg?s=aaad9673df1819b8cb009ffb603b8e7d"
+  },
+  {
+    "name": "Rabbifuto",
+    "prompt": "Rabbifuto from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/521897.jpg?s=27a0dbcb49913ac556fe60b2c64fb7f0"
+  },
+  {
+    "name": "Rai",
+    "prompt": "Rai from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/554716.jpg?s=f6d118e0527d7ffc201182fef282ada5"
+  },
+  {
+    "name": "Raifort",
+    "prompt": "Raifort from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/555425.jpg?s=afc2d6b09883a2f1dd04554d69e060c3"
+  },
+  {
+    "name": "Raikou",
+    "prompt": "Raikou from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/101497.jpg?s=313c05226fed67601ebf9357e9a9f3ff"
+  },
+  {
+    "name": "Ratta",
+    "prompt": "Ratta from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/498476.jpg?s=2ac15f2d6f786e9fe302a3cdf5acba49"
+  },
+  {
+    "name": "Rayquaza",
+    "prompt": "Rayquaza from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/500163.jpg?s=68594470f44b047ae001f41a64615f25"
+  },
+  {
+    "name": "Riolu",
+    "prompt": "Riolu from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/523722.jpg?s=b72ebe22e56241dac1aba9aa2bf7ce35"
+  },
+  {
+    "name": "Rokon",
+    "prompt": "Rokon from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497649.jpg?s=3a9a4ebe42b6033278669b00d1ac6637"
+  },
+  {
+    "name": "Runpappa",
+    "prompt": "Runpappa from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/576081.jpg?s=25e31961856e14d01f1d19e52678b110"
+  },
+  {
+    "name": "Ryme",
+    "prompt": "Ryme from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/554719.jpg?s=6db14f4c18948eafc16a66e7faa8e8dd"
+  },
+  {
+    "name": "Rystal",
+    "prompt": "Rystal from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/570450.jpg?s=00c7a661c9a2069e91baefba6a46493b"
+  },
+  {
+    "name": "Sango",
+    "prompt": "Sango from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/578631.jpg?s=e70fe2992001e5e9b4bf9b83be33c846"
+  },
+  {
+    "name": "Sarunori",
+    "prompt": "Sarunori from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/521896.jpg?s=3fd102f41c5a9e76b1d7696d169ea5fb"
+  },
+  {
+    "name": "Sazare",
+    "prompt": "Sazare from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/566041.jpg?s=e3be02f1eff9417d10bcee018387a3ec"
+  },
+  {
+    "name": "Seille",
+    "prompt": "Seille from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/566042.jpg?s=8435a8dafc9f5e3a0c2540d29f65ba4c"
+  },
+  {
+    "name": "Shizune",
+    "prompt": "Shizune from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/566043.jpg?s=78e9afd8d3c1089b715b523643b0977c"
+  },
+  {
+    "name": "Sidon",
+    "prompt": "Sidon from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498920.jpg?s=a23393720e15347761ee21645cac23ac"
+  },
+  {
+    "name": "Sonnano",
+    "prompt": "Sonnano from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/528825.jpg?s=3bdae8e2e6d71e4a034bc38ed7def463"
+  },
+  {
+    "name": "Soublades",
+    "prompt": "Soublades from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/569067.jpg?s=cc9ed382c0d6b4d93234ef6a2b2d38fd"
+  },
+  {
+    "name": "Spinel",
+    "prompt": "Spinel from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/521906.jpg?s=a82960eb58bf892710329d8995abe056"
+  },
+  {
+    "name": "Starmie",
+    "prompt": "Starmie from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498075.jpg?s=2dcf8b9ab4cbe48f98eb1f0e7477ffe9"
+  },
+  {
+    "name": "Strike",
+    "prompt": "Strike from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/498921.jpg?s=5509b02c78171719b772217ebc25baef"
+  },
+  {
+    "name": "Strinder",
+    "prompt": "Strinder from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/560405.jpg?s=c5522370fe68cf610eefa8e64119d581"
+  },
+  {
+    "name": "Suicune",
+    "prompt": "Suicune from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/471479.jpg?s=1c8c89fad83457a5b4348d69f5a20577"
+  },
+  {
+    "name": "Taggingru",
+    "prompt": "Taggingru from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/548423.jpg?s=71d84351bf395fc2e8ad2d4f99dfd1d5"
+  },
+  {
+    "name": "Terapagos",
+    "prompt": "Terapagos from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/574062.jpg?s=2fa0ccb75b980a17a6243bc413f95c62"
+  },
+  {
+    "name": "Terrakion",
+    "prompt": "Terrakion from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/493940.jpg?s=dfc3a7e4d0cb5b7aa250424f8584677d"
+  },
+  {
+    "name": "Thunder",
+    "prompt": "Thunder from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/421556.jpg?s=e8cb8deaa2ad148c2d915816a52228a7"
+  },
+  {
+    "name": "Togedemaru",
+    "prompt": "Togedemaru from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/521895.jpg?s=4420c54ea02aedaeb45690d810c3eb35"
+  },
+  {
+    "name": "Togepi",
+    "prompt": "Togepi from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/183991.jpg?s=e36ee409c2579368c510b7b6d632bed6"
+  },
+  {
+    "name": "Tsutarja",
+    "prompt": "Tsutarja from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/504272.jpg?s=ac4cad0bc9029103e495de4c7808b5a3"
+  },
+  {
+    "name": "Ult",
+    "prompt": "Ult from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/589861.jpg?s=23183a301e2c257260b81abb505888a0"
+  },
+  {
+    "name": "Upah",
+    "prompt": "Upah from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/484755.jpg?s=c9fcc5f37870b668fd26c3fc7a9188be"
+  },
+  {
+    "name": "Usohachi",
+    "prompt": "Usohachi from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/560252.jpg?s=b740c495a33bdc57d1f6457abf2a6b12"
+  },
+  {
+    "name": "Usokki",
+    "prompt": "Usokki from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/495295.jpg?s=b6e900e784b56481132e2cb624cde58f"
+  },
+  {
+    "name": "Virizion",
+    "prompt": "Virizion from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/493941.jpg?s=af995f3dc47b001efb1b43968f3e3b74"
+  },
+  {
+    "name": "Wakaba",
+    "prompt": "Wakaba from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/521658.jpg?s=3b54f678ebc1c49622a4f1e3615781da"
+  },
+  {
+    "name": "Waninoko",
+    "prompt": "Waninoko from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/528263.jpg?s=a3b1163350e17da8369d2c9580ec57f6"
+  },
+  {
+    "name": "Wanpachi",
+    "prompt": "Wanpachi from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/484758.jpg?s=218b199228df04e1003b4e925f449d7a"
+  },
+  {
+    "name": "Wanriki",
+    "prompt": "Wanriki from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/560251.jpg?s=909d0cd0f891d7b6fd9cb31f403eee8f"
+  },
+  {
+    "name": "Welkamo",
+    "prompt": "Welkamo from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/531716.jpg?s=c689baf95147ab79aeaf7bb4f06b0ff8"
+  },
+  {
+    "name": "Windie",
+    "prompt": "Windie from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497293.jpg?s=fe3838d37a43fb15e65edcbcfd068112"
+  },
+  {
+    "name": "Yabukuron",
+    "prompt": "Yabukuron from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/576092.jpg?s=b8e43e911836e1393112bce00d4f4229"
+  },
+  {
+    "name": "Yadon",
+    "prompt": "Yadon from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/528842.jpg?s=75e884ab4b8c6b888b4a26cd9142892c"
+  },
+  {
+    "name": "Yamikarasu",
+    "prompt": "Yamikarasu from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/581092.jpg?s=987f0138d145468a17bfec178881eeca"
+  },
+  {
+    "name": "Yanappu",
+    "prompt": "Yanappu from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/521892.jpg?s=95e38a6fb6dd70afcc87ee235b553d2e"
+  },
+  {
+    "name": "Yancham",
+    "prompt": "Yancham from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/497582.jpg?s=8253ff84403b4c0961353544dc4b5bdf"
+  },
+  {
+    "name": "Yomawaru",
+    "prompt": "Yomawaru from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/495496.jpg?s=60cec769b1b22633b4d904d97bce35c2"
+  },
+  {
+    "name": "Yorunozuku",
+    "prompt": "Yorunozuku from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497652.jpg?s=06526519f89bfeb1f154750625b620d5"
+  },
+  {
+    "name": "Yukiwarashi",
+    "prompt": "Yukiwarashi from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/497648.jpg?s=e7e2ab52bee0b75706afe53ee45b4a3c"
+  },
+  {
+    "name": "Yuno",
+    "prompt": "Yuno from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/535463.jpg?s=74e53723051c4b072640b6471365db4d"
+  },
+  {
+    "name": "Zenigame",
+    "prompt": "Zenigame from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497728.jpg?s=6456634d4f296b5f7d271dee4c867d15"
+  },
+  {
+    "name": "Zinnia",
+    "prompt": "Zinnia from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/546093.jpg?s=beb5a5f1a9dc39d371bcecc93b102758"
+  },
+  {
+    "name": "Zir",
+    "prompt": "Zir from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/506117.jpg?s=81de997e0e1567d5a04e642dba450075"
+  },
+  {
+    "name": "Zoroark",
+    "prompt": "Zoroark from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/396622.jpg?s=44b0f32e29342ab824ca44aacf95fca2"
+  },
+  {
+    "name": "Zuruggu",
+    "prompt": "Zuruggu from Pokemon (2023)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/470443.jpg?s=9bad4a169257b4f7947d9d88ca8360bf"
+  }
+]

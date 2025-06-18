@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Kenshirou",
+    "prompt": "Kenshirou from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/286109.jpg?s=200597934717b45d2f03742ce81fa92c"
+  },
+  {
+    "name": "Airi",
+    "prompt": "Airi from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/144827.jpg?s=a6f4da8692705b71ea18c0cbdba58989"
+  },
+  {
+    "name": "Aki",
+    "prompt": "Aki from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/313264.jpg?s=41829d2562ef81e79c0dacf382542f6e"
+  },
+  {
+    "name": "Amiba",
+    "prompt": "Amiba from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/87538.jpg?s=6778740ee74146f2e155621d90dede70"
+  },
+  {
+    "name": "Aruna",
+    "prompt": "Aruna from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/313263.jpg?s=50f84dc92b284c6ed56645e075b649e1"
+  },
+  {
+    "name": "Barcom",
+    "prompt": "Barcom from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/295413.jpg?s=4f708daf78461dd1a623b8991368ed68"
+  },
+  {
+    "name": "Baron",
+    "prompt": "Baron from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/313260.jpg?s=da6f63bf6801f771fffa18d5d6926e3f"
+  },
+  {
+    "name": "Bat",
+    "prompt": "Bat from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/111780.jpg?s=787f090763ca5cd0d85fb041b9a299e5"
+  },
+  {
+    "name": "Bella",
+    "prompt": "Bella from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/72663.jpg?s=7a825b7b6db70e1aebe22e27e4761ca7"
+  },
+  {
+    "name": "Boxer",
+    "prompt": "Boxer from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/313259.jpg?s=d711136ef1e9f929f0e4435943a60dbc"
+  },
+  {
+    "name": "Club",
+    "prompt": "Club from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/313258.jpg?s=59d05c0255ecbc4d02e76fb197f33a7f"
+  },
+  {
+    "name": "Colonel",
+    "prompt": "Colonel from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/117183.jpg?s=559197c1f603a46104c8c28de92ae56b"
+  },
+  {
+    "name": "Dagaal",
+    "prompt": "Dagaal from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/527532.jpg?s=e6dba9741bc2c2650633b9e3c40746c2"
+  },
+  {
+    "name": "Daiou, Kiba",
+    "prompt": "Daiou, Kiba from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/406753.jpg?s=41e94bb0573095dab50da82723a17576"
+  },
+  {
+    "name": "Dante",
+    "prompt": "Dante from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/313257.jpg?s=a9636166b665686581a84b652cbc74b0"
+  },
+  {
+    "name": "Dekai Babaa",
+    "prompt": "Dekai Babaa from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/504582.jpg?s=3619bcec4e78a2da7850ce68ef69d1c8"
+  },
+  {
+    "name": "Devil Rebirth",
+    "prompt": "Devil Rebirth from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/504581.jpg?s=dfc4b4c6c3c256c8de9d0bbb954ab8d6"
+  },
+  {
+    "name": "Diamond",
+    "prompt": "Diamond from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/340759.jpg?s=71f38a24c521eabe5282dd66d41eb59a"
+  },
+  {
+    "name": "Dragon",
+    "prompt": "Dragon from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/313256.jpg?s=1fead75847671ff0d0f6451d00722835"
+  },
+  {
+    "name": "Duran",
+    "prompt": "Duran from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/313255.jpg?s=edcd4a24c357c75417ff22edc3e697c1"
+  },
+  {
+    "name": "Ellery",
+    "prompt": "Ellery from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/313254.jpg?s=74c74d0894e9ab1b701894ac59627783"
+  },
+  {
+    "name": "Fox",
+    "prompt": "Fox from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/504375.jpg?s=fffc02f618461b548c6ceace6a494656"
+  },
+  {
+    "name": "Fudou",
+    "prompt": "Fudou from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/284041.jpg?s=a44012dbffeab281cde1169935ab3265"
+  },
+  {
+    "name": "Fuuga",
+    "prompt": "Fuuga from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/504585.jpg?s=839a734377c5bb32a835174cc36ea17b"
+  },
+  {
+    "name": "Garekki",
+    "prompt": "Garekki from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/295415.jpg?s=8ceaf029390b9ff13ca92683b7c3f86f"
+  },
+  {
+    "name": "Gertz",
+    "prompt": "Gertz from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/313253.jpg?s=89f4aab4bd8a4a3507d60adf70da61b2"
+  },
+  {
+    "name": "Gojiba",
+    "prompt": "Gojiba from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/313252.jpg?s=9c2fd2dabe329dc0ae3623d0b63cea0a"
+  },
+  {
+    "name": "Gorath",
+    "prompt": "Gorath from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/313251.jpg?s=b2a42c0bfc78eadb93f46d617946ee81"
+  },
+  {
+    "name": "Goum",
+    "prompt": "Goum from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/313250.jpg?s=4f0e76a0f4c21c79b859af9f0d239b39"
+  },
+  {
+    "name": "Grandfather",
+    "prompt": "Grandfather from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/313261.jpg?s=32a81d995622622890ae2db494692a2f"
+  },
+  {
+    "name": "Gyuuki",
+    "prompt": "Gyuuki from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/313249.jpg?s=3a0294e02c150aed8deae259cdecac06"
+  },
+  {
+    "name": "Habu",
+    "prompt": "Habu from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/313244.jpg?s=5a3cf0c999b4c1cee0c0b178f57e2e27"
+  },
+  {
+    "name": "Haystack",
+    "prompt": "Haystack from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/313243.jpg?s=b588a20bf64f92f60ca12b0a799a85e8"
+  },
+  {
+    "name": "Heart",
+    "prompt": "Heart from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/155757.jpg?s=cc3b3de982f8ec71e940d9ff5388d8a0"
+  },
+  {
+    "name": "Hyui",
+    "prompt": "Hyui from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/340763.jpg?s=3e9952be4e1ce087ff5d32337bf91839"
+  },
+  {
+    "name": "Jackal",
+    "prompt": "Jackal from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/313242.jpg?s=b8f5a41a81517f59e75bb9a70b939b84"
+  },
+  {
+    "name": "Jagi",
+    "prompt": "Jagi from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/286188.jpg?s=958c027a1a0be60d560de30a736a29fd"
+  },
+  {
+    "name": "Jennifer",
+    "prompt": "Jennifer from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/92762.jpg?s=996c2a34b74c4ff99f759a16c78f78df"
+  },
+  {
+    "name": "Jirou",
+    "prompt": "Jirou from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/295395.jpg?s=99bc7edd846013e8f7468c0652b2b236"
+  },
+  {
+    "name": "Johnny",
+    "prompt": "Johnny from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/313241.jpg?s=44cc61259c963cf8f9804a142879d60a"
+  },
+  {
+    "name": "Joker",
+    "prompt": "Joker from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/313240.jpg?s=63e44f23c89a109107157a5f135fb053"
+  },
+  {
+    "name": "Jun",
+    "prompt": "Jun from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/313248.jpg?s=126f637259d898c195280479ffafd1a9"
+  },
+  {
+    "name": "Junk",
+    "prompt": "Junk from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/295411.jpg?s=58f50ab25c4098eeb92a49a3bd041a11"
+  },
+  {
+    "name": "Juuza",
+    "prompt": "Juuza from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/286187.jpg?s=db3cb6f904b7225901e2e80d491f1216"
+  },
+  {
+    "name": "Kanna",
+    "prompt": "Kanna from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/295407.jpg?s=c6b323572dd3ef7b2d0f12631ddd69ac"
+  },
+  {
+    "name": "Karen",
+    "prompt": "Karen from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/295409.jpg?s=dd5db4e42ea15b7a799e62df0e2f704d"
+  },
+  {
+    "name": "Kemada",
+    "prompt": "Kemada from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/313273.jpg?s=cb44f37dd9e1e09c3e62ecaad17612cc"
+  },
+  {
+    "name": "Kou",
+    "prompt": "Kou from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/527533.jpg?s=10b0b03ed9b526d00dbd0d2bd9107b9e"
+  },
+  {
+    "name": "Kouryuu",
+    "prompt": "Kouryuu from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/39373.jpg?s=26cc770ad9451fd902eb15d852fa9b30"
+  },
+  {
+    "name": "Lin",
+    "prompt": "Lin from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/111779.jpg?s=1354841277185e9f93e30d5d651bd0de"
+  },
+  {
+    "name": "Lynn's Captor",
+    "prompt": "Lynn's Captor from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/313247.jpg?s=a70a02204df36d174a7269ecf5add409"
+  },
+  {
+    "name": "Mad Sarge",
+    "prompt": "Mad Sarge from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/313246.jpg?s=353e8f1f09f8a81cf35ed6dd58cac936"
+  },
+  {
+    "name": "Madara",
+    "prompt": "Madara from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/504583.jpg?s=702df8232aae862786dd39915d3286c1"
+  },
+  {
+    "name": "Mako",
+    "prompt": "Mako from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/313245.jpg?s=66021d8def0f87bf29a4b1c383e413b7"
+  },
+  {
+    "name": "Mamiya",
+    "prompt": "Mamiya from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/111777.jpg?s=4d66ecaa4ecf4d40f832fe8e511cbad9"
+  },
+  {
+    "name": "Mamiya's Village Elder",
+    "prompt": "Mamiya's Village Elder from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/313262.jpg?s=3785d51ceae5f33262e7af12338416ea"
+  },
+  {
+    "name": "Mika",
+    "prompt": "Mika from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/295393.jpg?s=9295f4f81d81ca1468222f9e9f59192e"
+  },
+  {
+    "name": "Mitsu",
+    "prompt": "Mitsu from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/527534.jpg?s=b343e0c0ca20c55ebc03092e17052b0a"
+  },
+  {
+    "name": "Nariman",
+    "prompt": "Nariman from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/313268.jpg?s=6e44aff9fcf41e20019ad882a5b86f08"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nova",
+    "prompt": "Nova from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/527535.jpg?s=114f3c9605b9f6ff7dcf5288ff0fee3c"
+  },
+  {
+    "name": "Ogai",
+    "prompt": "Ogai from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/111707.jpg?s=659a267a396d7c5f189ae9ab29394558"
+  },
+  {
+    "name": "Patra",
+    "prompt": "Patra from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/295396.jpg?s=6b8508f59e7e33010d099a498de1187e"
+  },
+  {
+    "name": "Paul",
+    "prompt": "Paul from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/313267.jpg?s=d748f222e5695844c23712675a679e47"
+  },
+  {
+    "name": "Raiga",
+    "prompt": "Raiga from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/504584.jpg?s=b95334d23f056436920a97175ee70d99"
+  },
+  {
+    "name": "Raou",
+    "prompt": "Raou from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/62587.jpg?s=7f1be8f04148095c0929ace8c100a0b4"
+  },
+  {
+    "name": "Rei",
+    "prompt": "Rei from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/286191.jpg?s=b312ef28d5a617e7ea45ecbf0e276ab7"
+  },
+  {
+    "name": "Rihaku",
+    "prompt": "Rihaku from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/111817.jpg?s=9265888acf9cffd149824615fdae95a8"
+  },
+  {
+    "name": "Rizo",
+    "prompt": "Rizo from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/111706.jpg?s=b93d5ead060fff1db92dcaea04f076dc"
+  },
+  {
+    "name": "Ryuga",
+    "prompt": "Ryuga from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/288072.jpg?s=9ae599f0651b535d87d65257ac1ca6dc"
+  },
+  {
+    "name": "Ryuuken",
+    "prompt": "Ryuuken from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/284040.jpg?s=dc1c15982e41a0cfd93f1b9b9e69504a"
+  },
+  {
+    "name": "Saki",
+    "prompt": "Saki from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/313266.jpg?s=9e44d81923fe05efd2cb501dda47e2cb"
+  },
+  {
+    "name": "Sam",
+    "prompt": "Sam from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/295394.jpg?s=1bb762dbda3ca364b12a89a5ac76ace4"
+  },
+  {
+    "name": "Sela",
+    "prompt": "Sela from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/295410.jpg?s=0a8b6a326ed31817589d3200e9f4c338"
+  },
+  {
+    "name": "Shiba",
+    "prompt": "Shiba from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/211531.jpg?s=77edf7c249bb02634d679949bf21b975"
+  },
+  {
+    "name": "Shin",
+    "prompt": "Shin from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/286185.jpg?s=5d3a690ff2ed3f46c4d3df5a67593f42"
+  },
+  {
+    "name": "Shuren",
+    "prompt": "Shuren from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/347991.jpg?s=5238100fd71d8e690c1df8c1dc64b5c3"
+  },
+  {
+    "name": "Shuu",
+    "prompt": "Shuu from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/284044.jpg?s=915ebb1cfe88ca5cf8eac3282d3e6545"
+  },
+  {
+    "name": "Smiley",
+    "prompt": "Smiley from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/313265.jpg?s=d766d7458b7665fa99c7d6867b151026"
+  },
+  {
+    "name": "Smith",
+    "prompt": "Smith from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/313318.jpg?s=e281656e1be3c7a50b92ac4d59bbe9e7"
+  },
+  {
+    "name": "Souther",
+    "prompt": "Souther from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/286189.jpg?s=71f95d35763ade707ca2aa7c9aef8182"
+  },
+  {
+    "name": "Spade",
+    "prompt": "Spade from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/295386.jpg?s=93dee3ad5949dfe42a0f02c2edc277bb"
+  },
+  {
+    "name": "Taki",
+    "prompt": "Taki from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/313317.jpg?s=03d007a912289d92c5b30c4fd40736cf"
+  },
+  {
+    "name": "Temjina",
+    "prompt": "Temjina from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/313316.jpg?s=24c21c99700cc5c6ac3f64fdc649ed54"
+  },
+  {
+    "name": "Toda",
+    "prompt": "Toda from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/313269.jpg?s=1e1e8e5329b6be2569f65be22645108e"
+  },
+  {
+    "name": "Toki",
+    "prompt": "Toki from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/286190.jpg?s=c3098603ab3cc7e08fd7a0f88495547d"
+  },
+  {
+    "name": "Tou",
+    "prompt": "Tou from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/111778.jpg?s=9d31e49efc0bffc213382a577aed530d"
+  },
+  {
+    "name": "Toyo",
+    "prompt": "Toyo from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/313315.jpg?s=e108e904f3bca43b562db46c1fac8377"
+  },
+  {
+    "name": "Uighur",
+    "prompt": "Uighur from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/340770.jpg?s=029666c180894316139105f1baabd46d"
+  },
+  {
+    "name": "Ukoku",
+    "prompt": "Ukoku from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/295385.jpg?s=eebcf9b1870b9d33cfec9298e8fde6f8"
+  },
+  {
+    "name": "Village Chief",
+    "prompt": "Village Chief from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/313270.jpg?s=3ae2d56c63e688c11faf4748bf761834"
+  },
+  {
+    "name": "Yuda",
+    "prompt": "Yuda from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/288071.jpg?s=061413e3c03f508a2b0ee91888a57bf9"
+  },
+  {
+    "name": "Yuria",
+    "prompt": "Yuria from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/286186.jpg?s=b47afc2126dd78941eea60b8e0f8daac"
+  },
+  {
+    "name": "Yuu",
+    "prompt": "Yuu from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/313272.jpg?s=f5e4034ec841e0fcbadb3509a6f5a2a8"
+  },
+  {
+    "name": "Zak",
+    "prompt": "Zak from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/480000.jpg?s=e02ce5ebb42a01ffa0cc4e85b7e58e09"
+  },
+  {
+    "name": "Zaria",
+    "prompt": "Zaria from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/313271.jpg?s=0417f6b5aa7cc0f34279992ce85f60c4"
+  },
+  {
+    "name": "Zeed",
+    "prompt": "Zeed from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/340771.jpg?s=a0272c8c2dc5526e831df305087830d4"
+  },
+  {
+    "name": "Zengyo",
+    "prompt": "Zengyo from Hokuto no Ken",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/111708.jpg?s=c01615a8f17ab3acff3a02a18263222f"
+  }
+]

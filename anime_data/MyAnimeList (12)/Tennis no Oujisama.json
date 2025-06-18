@@ -1,0 +1,507 @@
+[
+  {
+    "name": "Echizen, Ryouma",
+    "prompt": "Echizen, Ryouma from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/423565.jpg?s=914d01cca954b82c4765597a96a4d36f"
+  },
+  {
+    "name": "Fuji, Shuusuke",
+    "prompt": "Fuji, Shuusuke from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/92888.jpg?s=ac2ecd28d2f4df66e8a46f91657e14cb"
+  },
+  {
+    "name": "Inui, Sadaharu",
+    "prompt": "Inui, Sadaharu from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/39790.jpg?s=668a729b7cb7a72114d2520c1f747946"
+  },
+  {
+    "name": "Kaidou, Kaoru",
+    "prompt": "Kaidou, Kaoru from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/57616.jpg?s=864eea14899e81f1238aaf8ddddcb1db"
+  },
+  {
+    "name": "Kawamura, Takashi",
+    "prompt": "Kawamura, Takashi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/206703.jpg?s=4494b1c33240a086ea653c714caea094"
+  },
+  {
+    "name": "Kikumaru, Eiji",
+    "prompt": "Kikumaru, Eiji from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/94252.jpg?s=08fa815bc8f4859ed225ea642ff3b60d"
+  },
+  {
+    "name": "Momoshiro, Takeshi",
+    "prompt": "Momoshiro, Takeshi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/120526.jpg?s=701659ba05013913457c352447d2f049"
+  },
+  {
+    "name": "Oishi, Shuichiro",
+    "prompt": "Oishi, Shuichiro from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/92909.jpg?s=bbf28b83c13b3e01fb1833adadb7b9c2"
+  },
+  {
+    "name": "Tezuka, Kunimitsu",
+    "prompt": "Tezuka, Kunimitsu from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/118847.jpg?s=f8368da7a3368245a76fc454a9733d66"
+  },
+  {
+    "name": "Akazawa, Yoshirou",
+    "prompt": "Akazawa, Yoshirou from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/120528.jpg?s=d58bc90e375eff0162cb716a0d03fd9f"
+  },
+  {
+    "name": "Akutagawa, Jirou",
+    "prompt": "Akutagawa, Jirou from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/39826.jpg?s=03943bd982ea3c7d82b47cdb383b2553"
+  },
+  {
+    "name": "Akutsu, Jin",
+    "prompt": "Akutsu, Jin from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/120519.jpg?s=d4e984166f10b32ccfd2fdcd7b6d7d67"
+  },
+  {
+    "name": "Amane, Hikaru",
+    "prompt": "Amane, Hikaru from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/59867.jpg?s=178613c1b03c0d5d049be9a2659e19de"
+  },
+  {
+    "name": "Aoi, Kentarou",
+    "prompt": "Aoi, Kentarou from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/210067.jpg?s=7f32c118ab9c590b3a9fbd17b1975d5a"
+  },
+  {
+    "name": "Arai, Masashi",
+    "prompt": "Arai, Masashi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/511953.jpg?s=23279260568a47724e809aef2451b5d5"
+  },
+  {
+    "name": "Arbiter",
+    "prompt": "Arbiter from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/46015.jpg?s=6d8f13bbddb4ebd4b64f7414b52a6e46"
+  },
+  {
+    "name": "Atobe, Keigo",
+    "prompt": "Atobe, Keigo from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/369010.jpg?s=cfa2ee55226f73bd1206b6a2b91bcb70"
+  },
+  {
+    "name": "Baker, Richard",
+    "prompt": "Baker, Richard from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/413627.jpg?s=fa457ee48013f4e202927f8991a59445"
+  },
+  {
+    "name": "Banda, Mikiya",
+    "prompt": "Banda, Mikiya from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/105072.jpg?s=ba92f35d8bb3e8bb15ddc980a5158f4e"
+  },
+  {
+    "name": "Cassidy, Billy",
+    "prompt": "Cassidy, Billy from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/67250.jpg?s=49ba62c379e2160c1c055f1367658d2c"
+  },
+  {
+    "name": "Dan, Taichi",
+    "prompt": "Dan, Taichi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/47711.jpg?s=0905b3c96674e82c7752d8e4a16c201e"
+  },
+  {
+    "name": "Echizen, Nanjiro",
+    "prompt": "Echizen, Nanjiro from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/47713.jpg?s=0288917266da44c5964f009420d1f842"
+  },
+  {
+    "name": "Echizen, Nanako",
+    "prompt": "Echizen, Nanako from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/134999.jpg?s=126d6ebe567d20c1fc9191e787cd51ff"
+  },
+  {
+    "name": "Echizen, Rinko",
+    "prompt": "Echizen, Rinko from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/215829.jpg?s=12c98efc9d591ca4cedb82c3708606d0"
+  },
+  {
+    "name": "Essenheimer, Hannah",
+    "prompt": "Essenheimer, Hannah from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/216357.jpg?s=239a943ebf786d16a72a1c3c758953de"
+  },
+  {
+    "name": "Fuji, Yuuta",
+    "prompt": "Fuji, Yuuta from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/39799.jpg?s=a7f0d0c3804c0025daefdc5b2072fe21"
+  },
+  {
+    "name": "Fuji, Yumiko",
+    "prompt": "Fuji, Yumiko from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/48351.jpg?s=0345d39fd70652d73255b4b936e94baa"
+  },
+  {
+    "name": "Fukawa, Kimiyoshi",
+    "prompt": "Fukawa, Kimiyoshi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/513586.jpg?s=c81cb6a4b7265d78cd9681a8397cdf32"
+  },
+  {
+    "name": "Fukushi, Michiru",
+    "prompt": "Fukushi, Michiru from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/105196.jpg?s=4ed14c5b3d5f11dfdfa42097b3f0d34b"
+  },
+  {
+    "name": "Griffey, Tom",
+    "prompt": "Griffey, Tom from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/66776.jpg?s=05c7c0061cb353165131f63b9316d3f3"
+  },
+  {
+    "name": "Griffey, Terry",
+    "prompt": "Griffey, Terry from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/61143.jpg?s=6d871afe02bed85a63b1aa33e1ab0953"
+  },
+  {
+    "name": "Hanamura, Aoi",
+    "prompt": "Hanamura, Aoi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/247915.jpg?s=55a9009f6ca90ef767520cff42eeb950"
+  },
+  {
+    "name": "Hayashi, Daisuke",
+    "prompt": "Hayashi, Daisuke from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/512301.jpg?s=19dc7acb0187b20342bc4267a9819e0d"
+  },
+  {
+    "name": "Higashikata, Masami",
+    "prompt": "Higashikata, Masami from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/9902.jpg?s=01cc0fcae85f4308f8c528962ebeebb5"
+  },
+  {
+    "name": "Hiyoshi, Wakashi",
+    "prompt": "Hiyoshi, Wakashi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/195853.jpg?s=a61322c3c5a47979afffd529f5bc4a91"
+  },
+  {
+    "name": "Horio, Satoshi",
+    "prompt": "Horio, Satoshi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/10506.jpg?s=8b2d2897435496fb14cc781cbf168761"
+  },
+  {
+    "name": "Ibu, Shinji",
+    "prompt": "Ibu, Shinji from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/47712.jpg?s=78ea2214057af4712ff0ca5b16f1bf57"
+  },
+  {
+    "name": "Ignashov, Arnold",
+    "prompt": "Ignashov, Arnold from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/19630.jpg?s=6c39564cc19f01a14356915c996b17cc"
+  },
+  {
+    "name": "Ikeda, Masaya",
+    "prompt": "Ikeda, Masaya from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/511955.jpg?s=95c66a9b6b62fa8f08740c411a27984b"
+  },
+  {
+    "name": "Inoue, Mamoru",
+    "prompt": "Inoue, Mamoru from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/513588.jpg?s=f88c13409828e5baa573b9a648f360dd"
+  },
+  {
+    "name": "Ishida, Tetsu",
+    "prompt": "Ishida, Tetsu from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/105181.jpg?s=3f306d87f2d6e67f4dd0a5ddf824f73f"
+  },
+  {
+    "name": "Itsuki, Marehiko",
+    "prompt": "Itsuki, Marehiko from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/59866.jpg?s=45ee7f50e367b5cd9dc2f42771faf7d8"
+  },
+  {
+    "name": "Izumi, Tomoya",
+    "prompt": "Izumi, Tomoya from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/513017.jpg?s=7e2efc11c73fdf4e11b485aa8037329f"
+  },
+  {
+    "name": "Kabaji, Munehiro",
+    "prompt": "Kabaji, Munehiro from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/120529.jpg?s=1afc3a930c0b2866e485f47f4cea9bcc"
+  },
+  {
+    "name": "Kaidou, Hozumi",
+    "prompt": "Kaidou, Hozumi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/134995.jpg?s=42823b5350506dc9a92d5fc3377df683"
+  },
+  {
+    "name": "Kaidou, Shibuki",
+    "prompt": "Kaidou, Shibuki from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/134997.jpg?s=3836bad8254a912108e7280135a02e3d"
+  },
+  {
+    "name": "Kaidou, Hazue",
+    "prompt": "Kaidou, Hazue from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/134993.jpg?s=0ccf03557b610ad9fa7999c177f304f8"
+  },
+  {
+    "name": "Kajimoto, Takahisa",
+    "prompt": "Kajimoto, Takahisa from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/105063.jpg?s=5ac9645686c5e1a0adb693d4d7fd00d9"
+  },
+  {
+    "name": "Kamio, Akira",
+    "prompt": "Kamio, Akira from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/39791.jpg?s=77be8916fe8cb656360276a0f109c567"
+  },
+  {
+    "name": "Kaneda, Ichirou",
+    "prompt": "Kaneda, Ichirou from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/105064.jpg?s=0e2117ebc7920724f374403113938a48"
+  },
+  {
+    "name": "Karupin",
+    "prompt": "Karupin from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/105069.jpg?s=ab45e1a44cb41522d602887ae6d1f373"
+  },
+  {
+    "name": "Katou, Kachirou",
+    "prompt": "Katou, Kachirou from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/34945.jpg?s=9e69db7091b6c372e8a5e620d9c2716b"
+  },
+  {
+    "name": "Kenzou",
+    "prompt": "Kenzou from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/82140.jpg?s=62a3e2f092023dc54582fc7c3d689b8a"
+  },
+  {
+    "name": "Kirihara, Akaya",
+    "prompt": "Kirihara, Akaya from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/60521.jpg?s=c1689a0f911610796f05158d917208aa"
+  },
+  {
+    "name": "Kiriyama, Daichi",
+    "prompt": "Kiriyama, Daichi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/513018.jpg?s=36d6cee141ee93a081eedbb51c2e9a2c"
+  },
+  {
+    "name": "Kisarazu, Atsushi",
+    "prompt": "Kisarazu, Atsushi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/120531.jpg?s=46a8a3316aa1f861b47ba1f0f5757075"
+  },
+  {
+    "name": "Kisarazu, Ryou",
+    "prompt": "Kisarazu, Ryou from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/120532.jpg?s=42c6defa09dda2301714adbd2d46c22f"
+  },
+  {
+    "name": "Kita, Ichiuma",
+    "prompt": "Kita, Ichiuma from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/105065.jpg?s=aeaa3e02705f25777f7521229a75f875"
+  },
+  {
+    "name": "Kuki, Kiichi",
+    "prompt": "Kuki, Kiichi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/541327.jpg?s=9a3a4fffb3eea77bf4bb7198f563b453"
+  },
+  {
+    "name": "Kurobane, Harukaze",
+    "prompt": "Kurobane, Harukaze from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/59863.jpg?s=84f8b3aa56583aac1be5765f1912e418"
+  },
+  {
+    "name": "Kuwahara, Jackal",
+    "prompt": "Kuwahara, Jackal from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/229237.jpg?s=c3111bccecad1db0ea7355a5ed8e7b77"
+  },
+  {
+    "name": "Lee, Michael",
+    "prompt": "Lee, Michael from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Marui, Bunta",
+    "prompt": "Marui, Bunta from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/39792.jpg?s=775237e6bd537f32dfe989330d7c652f"
+  },
+  {
+    "name": "Max, Bobby",
+    "prompt": "Max, Bobby from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Minami, Kentarou",
+    "prompt": "Minami, Kentarou from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/105070.jpg?s=44563c343f0b655aa8a19dd63d65e67e"
+  },
+  {
+    "name": "Mizuki, Hajime",
+    "prompt": "Mizuki, Hajime from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/127987.jpg?s=8239574dac813a5969a9e9ec835d135c"
+  },
+  {
+    "name": "Mizuno, Katsuo",
+    "prompt": "Mizuno, Katsuo from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/121344.jpg?s=99e14b04989898ff7515aecd7249dc95"
+  },
+  {
+    "name": "Mori, Tatsunori",
+    "prompt": "Mori, Tatsunori from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/105198.jpg?s=145f4da2269679ed704780ae3be3e02e"
+  },
+  {
+    "name": "Mukahi, Gakuto",
+    "prompt": "Mukahi, Gakuto from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/120533.jpg?s=cd8502df8ff60594b2c1726045d265bd"
+  },
+  {
+    "name": "Muromachi, Touji",
+    "prompt": "Muromachi, Touji from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/105071.jpg?s=6fd2f876402ec3549bc51dc402a98bde"
+  },
+  {
+    "name": "Niou, Masaharu",
+    "prompt": "Niou, Masaharu from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/207657.jpg?s=e27f3be8b201503c4b9fe0806a061df9"
+  },
+  {
+    "name": "Nitobe, Inakichi",
+    "prompt": "Nitobe, Inakichi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/105055.jpg?s=31f1b7aa4cb782bb18c50c4574904b0f"
+  },
+  {
+    "name": "Nomura, Takuya",
+    "prompt": "Nomura, Takuya from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/105200.jpg?s=ed9a71e468e4c3eca78d09b51e4b01af"
+  },
+  {
+    "name": "Ojii",
+    "prompt": "Ojii from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/151313.jpg?s=981850534252622df9c3316a130128ac"
+  },
+  {
+    "name": "Oota, Shou",
+    "prompt": "Oota, Shou from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/513019.jpg?s=1b3f69f5e70a06f3e6266a9f3071fa28"
+  },
+  {
+    "name": "Ootori, Choutarou",
+    "prompt": "Ootori, Choutarou from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/47714.jpg?s=85c4b3a77edb0d71dedf51a9af709dc6"
+  },
+  {
+    "name": "Osakada, Tomoka",
+    "prompt": "Osakada, Tomoka from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/150263.jpg?s=949ea1b58d9f1d6404ac1fe2bbcca38d"
+  },
+  {
+    "name": "Oshitari, Yuushi",
+    "prompt": "Oshitari, Yuushi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/39796.jpg?s=69f66ad0572121b8050a85db6cb487e5"
+  },
+  {
+    "name": "Ryuzaki, Sumire",
+    "prompt": "Ryuzaki, Sumire from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/144297.jpg?s=b08fe2670ddaf771fe2464086b2ec2c5"
+  },
+  {
+    "name": "Ryuzaki, Sakuno",
+    "prompt": "Ryuzaki, Sakuno from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/75090.jpg?s=3f2eea84edc15be1a4f285a42428c011"
+  },
+  {
+    "name": "Saeki, Kojirou",
+    "prompt": "Saeki, Kojirou from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/39797.jpg?s=2a75199c0f6a7030603ae90b8a103630"
+  },
+  {
+    "name": "Sakaki, Tarou",
+    "prompt": "Sakaki, Tarou from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/203179.jpg?s=9673351e6a1c2ed13e62bcd2461a4272"
+  },
+  {
+    "name": "Sakurai, Masaya",
+    "prompt": "Sakurai, Masaya from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/9895.jpg?s=f65e491eeea34cde5146a77eb85f653c"
+  },
+  {
+    "name": "Sanada, Genichirou",
+    "prompt": "Sanada, Genichirou from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/39798.jpg?s=b884006891586fe4bb885608b495013e"
+  },
+  {
+    "name": "Sengoku, Kiyosumi",
+    "prompt": "Sengoku, Kiyosumi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/47719.jpg?s=628a3dc704258bad2185f28f59617701"
+  },
+  {
+    "name": "Shiba, Saori",
+    "prompt": "Shiba, Saori from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/118827.jpg?s=524ae7caa0e09ff6d09d78a839a7cf84"
+  },
+  {
+    "name": "Shinjou, Reiji",
+    "prompt": "Shinjou, Reiji from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/115582.jpg?s=b8751cd0834567d4918dc93261dd6e13"
+  },
+  {
+    "name": "Shishido, Ryou",
+    "prompt": "Shishido, Ryou from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/39829.jpg?s=0f1aad1a28e4316c1da218eeaf9972e6"
+  },
+  {
+    "name": "Smith, Kevin",
+    "prompt": "Smith, Kevin from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/105067.jpg?s=bac2ef499817f62ebf23dca32b9e3091"
+  },
+  {
+    "name": "Tachibana, An",
+    "prompt": "Tachibana, An from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/36356.jpg?s=b3b150825e6882ff4c1ebf9fafd49322"
+  },
+  {
+    "name": "Tachibana, Kippei",
+    "prompt": "Tachibana, Kippei from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/47831.jpg?s=bf6b5ac3723d3a568e7c18ac6cc519c8"
+  },
+  {
+    "name": "Taki, Haginosuke",
+    "prompt": "Taki, Haginosuke from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/104769.jpg?s=ee29eab985a82961970b10183dd8d011"
+  },
+  {
+    "name": "Tanaka, Youhei",
+    "prompt": "Tanaka, Youhei from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/27022.jpg?s=6b869335ce909b862c085ff0214105e6"
+  },
+  {
+    "name": "Tanaka, Kouhei",
+    "prompt": "Tanaka, Kouhei from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/118377.jpg?s=d2db8fe35c69c9b720ee154dc9d0427e"
+  },
+  {
+    "name": "Uchimura, Kyousuke",
+    "prompt": "Uchimura, Kyousuke from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/105197.jpg?s=088d421a34542d7f5aac56d2718d133f"
+  },
+  {
+    "name": "Wakato, Hiroshi",
+    "prompt": "Wakato, Hiroshi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/295700.jpg?s=5fdf48b2ec910c2866bbda2fc64d9ab0"
+  },
+  {
+    "name": "Yagyuu, Hiroshi",
+    "prompt": "Yagyuu, Hiroshi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/59862.jpg?s=2fb345c6cbda03bdca2aa535af596110"
+  },
+  {
+    "name": "Yamato, Yuudai",
+    "prompt": "Yamato, Yuudai from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/161527.jpg?s=2473e0a13f138b075366313707103410"
+  },
+  {
+    "name": "Yanagi, Renji",
+    "prompt": "Yanagi, Renji from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/59861.jpg?s=6300b1daef1d612c5d7702209bf1340c"
+  },
+  {
+    "name": "Yanagisawa, Shinya",
+    "prompt": "Yanagisawa, Shinya from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/120534.jpg?s=f2d30d214089e4605453faa003f9e2a3"
+  },
+  {
+    "name": "Yukimura, Seiichi",
+    "prompt": "Yukimura, Seiichi from Tennis no Oujisama",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/111693.jpg?s=5743bed23b327a6a222f6d8c49145581"
+  }
+]

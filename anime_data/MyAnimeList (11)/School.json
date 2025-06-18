@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Aiko",
+    "prompt": "Aiko from School",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/210689.jpg?s=d30b59088d094556519425492a761332"
+  },
+  {
+    "name": "Hikaru",
+    "prompt": "Hikaru from School",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/144275.jpg?s=e970c7e65a6a84a6ff4146e05af8ab57"
+  },
+  {
+    "name": "Hitomi",
+    "prompt": "Hitomi from School",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/210691.jpg?s=b5e6940ffc5981cf0391d631a175515d"
+  },
+  {
+    "name": "Kanzaki, Kouta",
+    "prompt": "Kanzaki, Kouta from School",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/185815.jpg?s=6e6594bc5476e6e3cc82127247cbf59d"
+  },
+  {
+    "name": "Rui",
+    "prompt": "Rui from School",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/185819.jpg?s=f44ce71ccf99caddee29c57c5248484d"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Devil",
+    "prompt": "Devil from Kanashimi no Belladonna",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/532076.jpg?s=2648de78a910b68056a7dbf54f5b3a89"
+  },
+  {
+    "name": "Jean",
+    "prompt": "Jean from Kanashimi no Belladonna",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/433924.jpg?s=8078ef253fe3e23f897944cb48fbaa8a"
+  },
+  {
+    "name": "Jeanne",
+    "prompt": "Jeanne from Kanashimi no Belladonna",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/330065.jpg?s=64e1d32bac9670db633e49c8060288cd"
+  },
+  {
+    "name": "Clown",
+    "prompt": "Clown from Kanashimi no Belladonna",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/433922.jpg?s=9d8ecda91679eba7127e0a1b3fc88dab"
+  },
+  {
+    "name": "Lady",
+    "prompt": "Lady from Kanashimi no Belladonna",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/433923.jpg?s=68fd534d35bc388b27fb8e3f41cec7ef"
+  },
+  {
+    "name": "Lord",
+    "prompt": "Lord from Kanashimi no Belladonna",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/433927.jpg?s=f1e8656e462b2d0a7d2bbb05a00f8f56"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Kanashimi no Belladonna",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Priest",
+    "prompt": "Priest from Kanashimi no Belladonna",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/433925.jpg?s=e3ebd515eae0ed6a5a144451ca3c8f31"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Kiro",
+    "prompt": "Kiro from Nayuta",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/582539.jpg?s=46858b24dd44db18da23c6082999415c"
+  },
+  {
+    "name": "Nayuta",
+    "prompt": "Nayuta from Nayuta",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/588375.jpg?s=b16fb1075e46cee51a476a0832d09fb0"
+  },
+  {
+    "name": "Ryoutarou",
+    "prompt": "Ryoutarou from Nayuta",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/588376.jpg?s=47502e3a40b79781674c2bdcb073c933"
+  },
+  {
+    "name": "Soz",
+    "prompt": "Soz from Nayuta",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/588377.jpg?s=ff392f5c2365bd97297d72acd1a08b9e"
+  }
+]

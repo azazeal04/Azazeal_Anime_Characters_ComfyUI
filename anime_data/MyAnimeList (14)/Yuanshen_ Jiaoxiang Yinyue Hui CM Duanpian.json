@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Albedo",
+    "prompt": "Albedo from Yuanshen: Jiaoxiang Yinyue Hui CM Duanpian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/475032.jpg?s=98b77aadc8eced21fab58f986f3a9192"
+  },
+  {
+    "name": "Diona",
+    "prompt": "Diona from Yuanshen: Jiaoxiang Yinyue Hui CM Duanpian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/541207.jpg?s=ed24fd349223300efb79bd97b6fdbad5"
+  },
+  {
+    "name": "Ganyu",
+    "prompt": "Ganyu from Yuanshen: Jiaoxiang Yinyue Hui CM Duanpian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/547751.jpg?s=5d28f2aea5084f240af1bc10285de445"
+  },
+  {
+    "name": "Lawrence, Eula",
+    "prompt": "Lawrence, Eula from Yuanshen: Jiaoxiang Yinyue Hui CM Duanpian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/519498.jpg?s=46d32f1595ecac43878fbdb26e6c4c75"
+  },
+  {
+    "name": "Tartaglia",
+    "prompt": "Tartaglia from Yuanshen: Jiaoxiang Yinyue Hui CM Duanpian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/455836.jpg?s=51fe069387c7b39ed9d5d1111dd1ce8b"
+  },
+  {
+    "name": "Xiao",
+    "prompt": "Xiao from Yuanshen: Jiaoxiang Yinyue Hui CM Duanpian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/540500.jpg?s=1c40b43ba5ff3b79dfc1262e54407983"
+  },
+  {
+    "name": "Zhongli",
+    "prompt": "Zhongli from Yuanshen: Jiaoxiang Yinyue Hui CM Duanpian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/452933.jpg?s=d7378c3ae0961530ddae9f234631e881"
+  }
+]

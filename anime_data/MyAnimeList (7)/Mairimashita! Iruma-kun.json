@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Asmodeus, Alice",
+    "prompt": "Asmodeus, Alice from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/557613.jpg?s=0dbaf666084c6bae716323bf2fa83bdb"
+  },
+  {
+    "name": "Suzuki, Iruma",
+    "prompt": "Suzuki, Iruma from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/393167.jpg?s=afedbf189ae3bb1c82044db37c29d11f"
+  },
+  {
+    "name": "Valac, Clara",
+    "prompt": "Valac, Clara from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/391918.jpg?s=1a972ddaa40f71925c880488a9387272"
+  },
+  {
+    "name": "Agares, Picero",
+    "prompt": "Agares, Picero from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/410090.jpg?s=2f434c5611fa8e816748602a910a2eeb"
+  },
+  {
+    "name": "Allocer, Schneider",
+    "prompt": "Allocer, Schneider from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/398388.jpg?s=0a16970117b7a85eb4fcc65e0630c9a7"
+  },
+  {
+    "name": "Amaymon",
+    "prompt": "Amaymon from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/403451.jpg?s=37c079c5c501cbd79f446e898c8a0d5a"
+  },
+  {
+    "name": "Ami, Kirio",
+    "prompt": "Ami, Kirio from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/416736.jpg?s=1237fe882fd1821a8a2dfc310a307b0f"
+  },
+  {
+    "name": "Andro M., Jazz",
+    "prompt": "Andro M., Jazz from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/410083.jpg?s=69dc7ae455a4878e766f52f19be48f31"
+  },
+  {
+    "name": "Asmodeus, Amaryllis",
+    "prompt": "Asmodeus, Amaryllis from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/410084.jpg?s=699f15cf6fd156cf96d590558f9ab778"
+  },
+  {
+    "name": "Astaroh",
+    "prompt": "Astaroh from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/539252.jpg?s=cda532357f304dc385ecc5460848f965"
+  },
+  {
+    "name": "Astaroth, Smoke",
+    "prompt": "Astaroth, Smoke from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/471962.jpg?s=b33249f39097f32d260e0de2c05c8996"
+  },
+  {
+    "name": "Azazel, Amelie",
+    "prompt": "Azazel, Amelie from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/390546.jpg?s=9a8961a36e838a014fc431d3f8f0c4be"
+  },
+  {
+    "name": "Azazel, Henri",
+    "prompt": "Azazel, Henri from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/410104.jpg?s=4ab96c61d511b840e9d3da7dae9ccf49"
+  },
+  {
+    "name": "Azuki",
+    "prompt": "Azuki from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/493338.jpg?s=6dc2a0be240dce253fddb03df216e1dd"
+  },
+  {
+    "name": "Baal",
+    "prompt": "Baal from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/420211.jpg?s=9ada7d851345c453bf51bb294b965dc4"
+  },
+  {
+    "name": "Bars, Robin",
+    "prompt": "Bars, Robin from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/402888.jpg?s=2a1d7e9b28a0861439966b63f52ddf8a"
+  },
+  {
+    "name": "Behemolt",
+    "prompt": "Behemolt from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/539254.jpg?s=c90c1abac6b0a1b68d41a59c58685020"
+  },
+  {
+    "name": "Belial",
+    "prompt": "Belial from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/539256.jpg?s=d45f021e79d1c999cb1cd4e52f4acddb"
+  },
+  {
+    "name": "Belzebuth",
+    "prompt": "Belzebuth from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/539253.jpg?s=f2cf11aff0657cf4ff37cb5c81b251c8"
+  },
+  {
+    "name": "Buer, Blushenko",
+    "prompt": "Buer, Blushenko from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/497529.jpg?s=bac1f206482a1aeb1fcc1559014edd5c"
+  },
+  {
+    "name": "Caim, Kamui",
+    "prompt": "Caim, Kamui from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/410093.jpg?s=e92eb79d280fd8946560989e756409ea"
+  },
+  {
+    "name": "Camu Camu",
+    "prompt": "Camu Camu from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/400023.jpg?s=33428255619135f66aad0edb96072b2c"
+  },
+  {
+    "name": "Clara's Mother",
+    "prompt": "Clara's Mother from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/493416.jpg?s=5201bfd1f764a3095184c7424b0281ac"
+  },
+  {
+    "name": "Crocell, Kerori",
+    "prompt": "Crocell, Kerori from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/410086.jpg?s=6eab7bc7c4920e8362b356dbad3b1570"
+  },
+  {
+    "name": "Dantalion, Dali",
+    "prompt": "Dantalion, Dali from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/492557.jpg?s=43853c0d54fb2febd9fd87e4a38853eb"
+  },
+  {
+    "name": "Dosanko",
+    "prompt": "Dosanko from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/410103.jpg?s=c4478e586ad4115daab6fdcdd79d4548"
+  },
+  {
+    "name": "Eiko",
+    "prompt": "Eiko from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/410088.jpg?s=64bc34049ab1ed854a7a9d18ca34c668"
+  },
+  {
+    "name": "Gaako",
+    "prompt": "Gaako from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/495706.jpg?s=ded756efad2c7417f4d4f330d0895d14"
+  },
+  {
+    "name": "Gaap, Goemon",
+    "prompt": "Gaap, Goemon from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/410096.jpg?s=cd4a1df26235f3a453cdc3f452606ebc"
+  },
+  {
+    "name": "Gusion, Sunny Grave",
+    "prompt": "Gusion, Sunny Grave from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/410100.jpg?s=9195a5c826a5000eae5e137dce378135"
+  },
+  {
+    "name": "Haruno",
+    "prompt": "Haruno from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/493340.jpg?s=f0edf73439764f9cb2047591783c9e71"
+  },
+  {
+    "name": "Ix, Elizabetta",
+    "prompt": "Ix, Elizabetta from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/399618.jpg?s=6bc4128b7f829f7eeb729f616980a997"
+  },
+  {
+    "name": "Kimaris, Quichelight",
+    "prompt": "Kimaris, Quichelight from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/410101.jpg?s=b7bfb80a40d9e5687d5d2a078d165e1b"
+  },
+  {
+    "name": "Konatsu",
+    "prompt": "Konatsu from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/493342.jpg?s=33ec4131ca7e1d0a03ec67179bddc9a7"
+  },
+  {
+    "name": "Levi",
+    "prompt": "Levi from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/539255.jpg?s=d0542bcef19e50256c00af54fac36208"
+  },
+  {
+    "name": "Marbas, March",
+    "prompt": "Marbas, March from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/539258.jpg?s=edaa8da29e09e37e4da59cd5794cb99e"
+  },
+  {
+    "name": "Marbas, Mal",
+    "prompt": "Marbas, Mal from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/539257.jpg?s=94c16069d370073f389ede53b0963f1a"
+  },
+  {
+    "name": "Morax, Momonoki",
+    "prompt": "Morax, Momonoki from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/410099.jpg?s=1036fb0a55fe77e193392719c6078329"
+  },
+  {
+    "name": "Naberius, Kalego",
+    "prompt": "Naberius, Kalego from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/399612.jpg?s=dc6acebd1472dabba4102984d284c1d8"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Opera",
+    "prompt": "Opera from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/397497.jpg?s=5bb0f52c87145f3499d79bcb3072d5d3"
+  },
+  {
+    "name": "Orias, Oswaal",
+    "prompt": "Orias, Oswaal from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497530.jpg?s=d011d981ca98d15fb6987687e7cf408c"
+  },
+  {
+    "name": "Paimon",
+    "prompt": "Paimon from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/398319.jpg?s=9c1db66fe8398eb7a5b60f4e865bee91"
+  },
+  {
+    "name": "Purson, Soi",
+    "prompt": "Purson, Soi from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/410097.jpg?s=43fe4078478c1b378abd0f0cab86b7a8"
+  },
+  {
+    "name": "Raim",
+    "prompt": "Raim from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/591318.jpg?s=fd3f1534a8b2a2b960132923a3907d07"
+  },
+  {
+    "name": "Sabnock, Sylvia",
+    "prompt": "Sabnock, Sylvia from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/539261.jpg?s=1103f63336bf5a9247d60dd66c04cb20"
+  },
+  {
+    "name": "Sabnock, Sabro",
+    "prompt": "Sabnock, Sabro from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/395367.jpg?s=9c2ac6076028fadecc5a4636bed9665c"
+  },
+  {
+    "name": "Shax, Lead",
+    "prompt": "Shax, Lead from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/402904.jpg?s=3c3b0a7a2326dd632ec86f8aac584fa2"
+  },
+  {
+    "name": "Stolas, Suzie",
+    "prompt": "Stolas, Suzie from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/402886.jpg?s=e42698e3a89aa0666064317fdb2458aa"
+  },
+  {
+    "name": "Sullivan",
+    "prompt": "Sullivan from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/399617.jpg?s=660a4367c21e90512ee7f6e686fa6f33"
+  },
+  {
+    "name": "Valac, Ran Ran",
+    "prompt": "Valac, Ran Ran from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/493421.jpg?s=cbfac6848dfa26ce001b07b15803e442"
+  },
+  {
+    "name": "Valac, Urara",
+    "prompt": "Valac, Urara from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/493417.jpg?s=f3827c06254385b369461bad7013aeaf"
+  },
+  {
+    "name": "Valac, Sin Sin",
+    "prompt": "Valac, Sin Sin from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/493420.jpg?s=b7722bcad7f1efb634d2f276b2a5052b"
+  },
+  {
+    "name": "Valac, Konchi",
+    "prompt": "Valac, Konchi from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/493418.jpg?s=5b15337bedf168de13b0dff6da3ff313"
+  },
+  {
+    "name": "Valac, Keebow",
+    "prompt": "Valac, Keebow from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/493419.jpg?s=1ac45f77de96260ded0af4440570f279"
+  },
+  {
+    "name": "Zagan, Johnny Western",
+    "prompt": "Zagan, Johnny Western from Mairimashita! Iruma-kun",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/410102.jpg?s=9e9b4d364914c6dab9df843df4d106fe"
+  }
+]

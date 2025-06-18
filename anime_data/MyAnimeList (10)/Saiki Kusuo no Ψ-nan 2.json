@@ -1,0 +1,507 @@
+[
+  {
+    "name": "Kaidou, Shun",
+    "prompt": "Kaidou, Shun from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/310574.jpg?s=2611fa34b02f4700325d61888fd52b89"
+  },
+  {
+    "name": "Kuboyasu, Aren",
+    "prompt": "Kuboyasu, Aren from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/403061.jpg?s=0a27b04d8b183c1b6e64ca0a73f4faaf"
+  },
+  {
+    "name": "Nendou, Riki",
+    "prompt": "Nendou, Riki from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/349586.jpg?s=36c268dc2f7e575e97139047f27b0d0e"
+  },
+  {
+    "name": "Saiki, Kusuo",
+    "prompt": "Saiki, Kusuo from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/337932.jpg?s=6f26ea3c8ba3e0abd9dbd9df07ee1f52"
+  },
+  {
+    "name": "Teruhashi, Kokomi",
+    "prompt": "Teruhashi, Kokomi from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/311291.jpg?s=ba54a6d82291c3c4d791b9fa06a3e6be"
+  },
+  {
+    "name": "Abe",
+    "prompt": "Abe from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Agawa",
+    "prompt": "Agawa from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/356972.jpg?s=512059386f40b9274ee50bf347f354df"
+  },
+  {
+    "name": "Aiura, Mikoto",
+    "prompt": "Aiura, Mikoto from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/550052.jpg?s=1aaf5acc8661ed9c70f0aca3d4773ecc"
+  },
+  {
+    "name": "Akechi, Touma",
+    "prompt": "Akechi, Touma from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/385851.jpg?s=7099ee74f2582e1e22c984c271bf4f31"
+  },
+  {
+    "name": "Amagi, Byakuya",
+    "prompt": "Amagi, Byakuya from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/355109.jpg?s=e23a1ae613401bb1fa47b1b86159d5e3"
+  },
+  {
+    "name": "Andou",
+    "prompt": "Andou from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Anpu",
+    "prompt": "Anpu from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/315463.jpg?s=d60c7f55a87f318284e55cdcb32d8e7d"
+  },
+  {
+    "name": "Broom User",
+    "prompt": "Broom User from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/351004.jpg?s=b4f92b7a1f0f064aa009da35227f4054"
+  },
+  {
+    "name": "Chouno, Uryoku",
+    "prompt": "Chouno, Uryoku from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/307193.jpg?s=efb168f9996b8681449e97fe5fa36fc0"
+  },
+  {
+    "name": "Cyborg Ciderman No. 2",
+    "prompt": "Cyborg Ciderman No. 2 from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/330506.jpg?s=aedd9cab0cf40dcf725f818ce040abe1"
+  },
+  {
+    "name": "Debt Collector",
+    "prompt": "Debt Collector from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Eland",
+    "prompt": "Eland from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Elizabeth",
+    "prompt": "Elizabeth from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/43474.jpg?s=616543fe7fd82ce059e63e21f214048e"
+  },
+  {
+    "name": "Enokida",
+    "prompt": "Enokida from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/351360.jpg?s=60f4752b6c45348deaf5681a0860ae56"
+  },
+  {
+    "name": "Fukutoku",
+    "prompt": "Fukutoku from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/356971.jpg?s=0724523097fd7d453accee09e795620e"
+  },
+  {
+    "name": "Gomi, Hiroshi",
+    "prompt": "Gomi, Hiroshi from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/351001.jpg?s=d429b6c2e776975fec30d458a321233c"
+  },
+  {
+    "name": "Haganeno, Ken",
+    "prompt": "Haganeno, Ken from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/552206.jpg?s=43ec62469899015de7d2f7d8afeeda24"
+  },
+  {
+    "name": "Hairo, Kineshi",
+    "prompt": "Hairo, Kineshi from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/307199.jpg?s=186cf0ac96c874d29af2976104b11140"
+  },
+  {
+    "name": "Higashino, Bungo",
+    "prompt": "Higashino, Bungo from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/369458.jpg?s=a299a81247b990f79605b507255ecc9a"
+  },
+  {
+    "name": "Ikemi, Kazuya",
+    "prompt": "Ikemi, Kazuya from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/310208.jpg?s=9cf2caacd09a81b3283a26cab0fe3688"
+  },
+  {
+    "name": "Iridatsu, Yuuta",
+    "prompt": "Iridatsu, Yuuta from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/317072.jpg?s=7b89a31012ab1cc71a73dfbbee33f054"
+  },
+  {
+    "name": "Izumi",
+    "prompt": "Izumi from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Jouten, Manako",
+    "prompt": "Jouten, Manako from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/352493.jpg?s=70e90462f23e9e90d5692c2fcaf6b593"
+  },
+  {
+    "name": "Kagura",
+    "prompt": "Kagura from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/505912.jpg?s=a0988dd3478129e2fecb8d077a5b5959"
+  },
+  {
+    "name": "Kaidou, Sora",
+    "prompt": "Kaidou, Sora from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/358114.jpg?s=a5e77f4ef427676a777bb8e6f0a5bd40"
+  },
+  {
+    "name": "Kaidou, Toki",
+    "prompt": "Kaidou, Toki from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/358113.jpg?s=a1c514e8aaef7d020dbe7fe9817941e0"
+  },
+  {
+    "name": "Kameima, Shouzou",
+    "prompt": "Kameima, Shouzou from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/352494.jpg?s=342b087723a62fb18c95e3f127009034"
+  },
+  {
+    "name": "Kanda, Hinsuke",
+    "prompt": "Kanda, Hinsuke from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/308334.jpg?s=96315002edbedeeecf54d289a2fb669f"
+  },
+  {
+    "name": "Kanno, Kazunao",
+    "prompt": "Kanno, Kazunao from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/359197.jpg?s=5219f2ab8e191e6bb52a72d10a543130"
+  },
+  {
+    "name": "Kasai, Fumi",
+    "prompt": "Kasai, Fumi from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/440919.jpg?s=af731685b929af0a0d92a0aa7ebc6b57"
+  },
+  {
+    "name": "Kasamatsu",
+    "prompt": "Kasamatsu from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ken",
+    "prompt": "Ken from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/369457.jpg?s=94a8e49c1620ed66e035436d096fb7ca"
+  },
+  {
+    "name": "Kimura, Takurou",
+    "prompt": "Kimura, Takurou from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/349631.jpg?s=5dd9a1cb194e0b6733c37d6844935ae0"
+  },
+  {
+    "name": "Kongou, Tsuyoshi",
+    "prompt": "Kongou, Tsuyoshi from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/313274.jpg?s=6d99e7c9fc05bfa66836accab78e3d8f"
+  },
+  {
+    "name": "Kongouchi, Mitsuru",
+    "prompt": "Kongouchi, Mitsuru from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/355108.jpg?s=c32ee42379d9a2e8396bc2d2c78d6253"
+  },
+  {
+    "name": "Kumiko",
+    "prompt": "Kumiko from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kumogata, Jouji",
+    "prompt": "Kumogata, Jouji from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/358112.jpg?s=277703a388b301baa4e2686809c5a4ed"
+  },
+  {
+    "name": "Kuramochi",
+    "prompt": "Kuramochi from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/351362.jpg?s=d410c23116a11fa87f91c7a9bb8737d6"
+  },
+  {
+    "name": "Kurisu",
+    "prompt": "Kurisu from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Makino, Arisu",
+    "prompt": "Makino, Arisu from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/358094.jpg?s=d87b230bf8fc11461622b020c77c2960"
+  },
+  {
+    "name": "Mami Manager",
+    "prompt": "Mami Manager from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/330512.jpg?s=b221c6f4a3a2fda46a3bb5f583393324"
+  },
+  {
+    "name": "Manabe, Baiku",
+    "prompt": "Manabe, Baiku from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/327227.jpg?s=d270e1fdeb0a5925f5c377f66d301415"
+  },
+  {
+    "name": "Matsumura",
+    "prompt": "Matsumura from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/481868.jpg?s=2767c41c34464331651435a044be9a45"
+  },
+  {
+    "name": "Matsutani",
+    "prompt": "Matsutani from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/356974.jpg?s=d1c0782d49fe82bc8e6638452a9cdf43"
+  },
+  {
+    "name": "Matsuzaki",
+    "prompt": "Matsuzaki from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/330513.jpg?s=40b3f40e258a7efcade95a5d2ac58ac3"
+  },
+  {
+    "name": "Mera, Chisato",
+    "prompt": "Mera, Chisato from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/307190.jpg?s=bcf41573fbf15db3fcb87eab33143cf3"
+  },
+  {
+    "name": "Mera, Kiyoshi",
+    "prompt": "Mera, Kiyoshi from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/369456.jpg?s=ded27e9d73eb9c4e798381f6e3f45f5c"
+  },
+  {
+    "name": "Mikami, Aiko",
+    "prompt": "Mikami, Aiko from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/349633.jpg?s=ba05d0facfe04a4ae81bcd9aa00394a9"
+  },
+  {
+    "name": "Miyabe",
+    "prompt": "Miyabe from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/369455.jpg?s=8e51f39e802ad2934ed9a13bae1dace2"
+  },
+  {
+    "name": "Murakami, Shouko",
+    "prompt": "Murakami, Shouko from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/369454.jpg?s=fd86fa4cb705ddd802e4c933558c7a4f"
+  },
+  {
+    "name": "Murata, Shuuji",
+    "prompt": "Murata, Shuuji from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/330514.jpg?s=70d5927edd347289cffb154c68fadfb2"
+  },
+  {
+    "name": "Namekawa",
+    "prompt": "Namekawa from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/352911.jpg?s=970f2a1e3fffa98f512ea1a9f83a80a6"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nendou, Midori",
+    "prompt": "Nendou, Midori from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/348963.jpg?s=a527ae658098c32b1b74c031c4580fd1"
+  },
+  {
+    "name": "Okajima",
+    "prompt": "Okajima from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Onimatsu, Gokuya",
+    "prompt": "Onimatsu, Gokuya from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/330516.jpg?s=06c05262409c0df178ef1ad3103c50c1"
+  },
+  {
+    "name": "Organizer",
+    "prompt": "Organizer from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/351003.jpg?s=f87ab72454d6965c7c476d44e16f5a1f"
+  },
+  {
+    "name": "Peanuts Ueda",
+    "prompt": "Peanuts Ueda from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/350313.jpg?s=5fdfa823b83d6619983d937536e39b33"
+  },
+  {
+    "name": "Rifuta, Imu",
+    "prompt": "Rifuta, Imu from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/358096.jpg?s=2470035ca37e26fb3602563d27580f1a"
+  },
+  {
+    "name": "Riki Jr. No. 2",
+    "prompt": "Riki Jr. No. 2 from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/369453.jpg?s=c8239e89cb7c23397c16b0269c0bf00d"
+  },
+  {
+    "name": "Sacchi",
+    "prompt": "Sacchi from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Saiki, Kurumi",
+    "prompt": "Saiki, Kurumi from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/307195.jpg?s=cde1eef18dce52ff1956abd3860581c7"
+  },
+  {
+    "name": "Saiki, Kumi",
+    "prompt": "Saiki, Kumi from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/312764.jpg?s=b3f06988bb3fbb8630dd825519db19f2"
+  },
+  {
+    "name": "Saiki, Kuniharu",
+    "prompt": "Saiki, Kuniharu from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/307194.jpg?s=0a39b234f659e54565f300e1a260232a"
+  },
+  {
+    "name": "Saiki, Kuusuke",
+    "prompt": "Saiki, Kuusuke from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/330520.jpg?s=2705ce49e978c4871473b18b44014574"
+  },
+  {
+    "name": "Saiki, Kumagorou",
+    "prompt": "Saiki, Kumagorou from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/312763.jpg?s=b059f5ecd30059a5b3cc32c116b49a42"
+  },
+  {
+    "name": "Saiko, Father",
+    "prompt": "Saiko, Father from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/327229.jpg?s=137ef1fbd31c1c17aa46c3f80d46417f"
+  },
+  {
+    "name": "Saiko, Metori",
+    "prompt": "Saiko, Metori from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/343290.jpg?s=fbee54fd96356284aeec8b590aeb78c5"
+  },
+  {
+    "name": "Sakata, Gintoki",
+    "prompt": "Sakata, Gintoki from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/241479.jpg?s=cec74d9d5f4f68fae78ef00ac0b2b40f"
+  },
+  {
+    "name": "Satou, Hiroshi",
+    "prompt": "Satou, Hiroshi from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/369451.jpg?s=4b0ee62af2ff4e067f7d3f220c0a303f"
+  },
+  {
+    "name": "Sawakita, Kouki",
+    "prompt": "Sawakita, Kouki from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/313279.jpg?s=19a88425ae6991afe753dfe53abb26e7"
+  },
+  {
+    "name": "Scofield, Michael",
+    "prompt": "Scofield, Michael from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/325991.jpg?s=8d888a498dacdb2b53faa76ec9a78c83"
+  },
+  {
+    "name": "Shiiko, Maki",
+    "prompt": "Shiiko, Maki from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/381108.jpg?s=ed6e435657bbc3d0fd414844822f7512"
+  },
+  {
+    "name": "Shima, Kyouka",
+    "prompt": "Shima, Kyouka from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/327228.jpg?s=f05b5088392506219e500a93d28f7737"
+  },
+  {
+    "name": "Shimura, Shinpachi",
+    "prompt": "Shimura, Shinpachi from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/114081.jpg?s=10fb5c6057e3bcfe48553c3fb5b1d08d"
+  },
+  {
+    "name": "Shinoda, Takeru",
+    "prompt": "Shinoda, Takeru from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/313276.jpg?s=3e1735d47ca10f0df6d289bf27bfc7b1"
+  },
+  {
+    "name": "Shiragami, Fudekichi",
+    "prompt": "Shiragami, Fudekichi from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/369450.jpg?s=21cb11e38c2bafc3d0fded8483d2c2ce"
+  },
+  {
+    "name": "Silent Cyborg Protagonist",
+    "prompt": "Silent Cyborg Protagonist from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sugawara",
+    "prompt": "Sugawara from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/453760.jpg?s=50c35ded9c1cb93bb5df988781ac87ce"
+  },
+  {
+    "name": "Suzuki",
+    "prompt": "Suzuki from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Takahashi",
+    "prompt": "Takahashi from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/308332.jpg?s=aa6cf9181a70be2fd3f3e42be41eeef4"
+  },
+  {
+    "name": "Takamiya",
+    "prompt": "Takamiya from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/356973.jpg?s=2207db65acb4d990e328c538da16afb4"
+  },
+  {
+    "name": "Takashi",
+    "prompt": "Takashi from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Takeru",
+    "prompt": "Takeru from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/352910.jpg?s=548a790bf01bc497aac913d10381f0b1"
+  },
+  {
+    "name": "Tanaka",
+    "prompt": "Tanaka from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tashiro",
+    "prompt": "Tashiro from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/356970.jpg?s=91b0659cd696c49a2efca75626d4cd01"
+  },
+  {
+    "name": "Teruhashi, Makoto",
+    "prompt": "Teruhashi, Makoto from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/307192.jpg?s=25fd935aefcd8c903a6d4d0ca364abfb"
+  },
+  {
+    "name": "Toritsuka, Reita",
+    "prompt": "Toritsuka, Reita from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/358703.jpg?s=f91d107bdd1b692d5e037417263c3d1b"
+  },
+  {
+    "name": "Ushimitsu",
+    "prompt": "Ushimitsu from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/351002.jpg?s=7babe2faec2bda009585e7b2502a3ed9"
+  },
+  {
+    "name": "Venus Tsukiko",
+    "prompt": "Venus Tsukiko from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/359194.jpg?s=247c4968b887853a5ae37acdc0cfcd73"
+  },
+  {
+    "name": "Voice from the Sky",
+    "prompt": "Voice from the Sky from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/325999.jpg?s=8b47f86bcdf56d27162a83deb23b1a0b"
+  },
+  {
+    "name": "Warp",
+    "prompt": "Warp from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/369449.jpg?s=3ae96a0c796f1e7c3280d9cc04d7e7da"
+  },
+  {
+    "name": "Yokota, Jaga",
+    "prompt": "Yokota, Jaga from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/330523.jpg?s=98d2ba7156bb153d4f0c42a8cb7bdf39"
+  },
+  {
+    "name": "Yumehara, Chiyo",
+    "prompt": "Yumehara, Chiyo from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/307189.jpg?s=7dd818172da686971cd0182534a122c9"
+  },
+  {
+    "name": "Yuuta's Mother",
+    "prompt": "Yuuta's Mother from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/330525.jpg?s=6a4adc19d86490e022f7cfa617b8c470"
+  },
+  {
+    "name": "Zorube",
+    "prompt": "Zorube from Saiki Kusuo no Ψ-nan 2",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/330526.jpg?s=7aad83f57514d592cf2a85f663d524e7"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Inu",
+    "prompt": "Inu from Tono to Inu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/583037.jpg?s=47b5990b36af372fb12050518a86c423"
+  },
+  {
+    "name": "Lord",
+    "prompt": "Lord from Tono to Inu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/569003.jpg?s=7d4586f238453ab55e5262d406527b5c"
+  },
+  {
+    "name": "Kiku",
+    "prompt": "Kiku from Tono to Inu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/583038.jpg?s=9c59dcdc87cae44e23759a233fa6bc54"
+  },
+  {
+    "name": "Motojii",
+    "prompt": "Motojii from Tono to Inu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/583039.jpg?s=4a9acecc45dcd9e119311654dce646e0"
+  },
+  {
+    "name": "Senmaru",
+    "prompt": "Senmaru from Tono to Inu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/578952.jpg?s=af8b3dd4694726c6ab6cb48a1237fa7f"
+  },
+  {
+    "name": "Shiro",
+    "prompt": "Shiro from Tono to Inu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/583235.jpg?s=27ffb9d3f74bf005b6e4b3e53f203b00"
+  },
+  {
+    "name": "Tama",
+    "prompt": "Tama from Tono to Inu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/583234.jpg?s=aa450417403c61ee883816db452fb6b7"
+  }
+]

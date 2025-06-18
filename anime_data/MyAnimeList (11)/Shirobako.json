@@ -1,0 +1,567 @@
+[
+  {
+    "name": "Imai, Midori",
+    "prompt": "Imai, Midori from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/362712.jpg?s=0778662ca60015cb05a572032b3121bc"
+  },
+  {
+    "name": "Miyamori, Aoi",
+    "prompt": "Miyamori, Aoi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/362716.jpg?s=c1604b718d6c03275bbe528a3d462f37"
+  },
+  {
+    "name": "Sakaki, Shizuka",
+    "prompt": "Sakaki, Shizuka from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/362714.jpg?s=e764d05649a4193443907d33385f1b83"
+  },
+  {
+    "name": "Toudou, Misa",
+    "prompt": "Toudou, Misa from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/362713.jpg?s=641368641c5b6cf7feb6c43162db9676"
+  },
+  {
+    "name": "Yasuhara, Ema",
+    "prompt": "Yasuhara, Ema from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/362715.jpg?s=097ac63f88f0ef2d54b4ee706ae784d4"
+  },
+  {
+    "name": "Akane",
+    "prompt": "Akane from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/278993.jpg?s=740dc334ea5e93041de902adef4d2146"
+  },
+  {
+    "name": "Alpine",
+    "prompt": "Alpine from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/278991.jpg?s=f265e7539d0b9a2abe160e2f5052fcd9"
+  },
+  {
+    "name": "Andou, Tsubaki",
+    "prompt": "Andou, Tsubaki from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/275185.jpg?s=aa6966b25a8679be294f11285c0140f1"
+  },
+  {
+    "name": "Asagami, Eri",
+    "prompt": "Asagami, Eri from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ashkenazy, Noa",
+    "prompt": "Ashkenazy, Noa from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/288157.jpg?s=7b9aea22a7f8234c6a717f109fdd8a1e"
+  },
+  {
+    "name": "Asugawa, Gen",
+    "prompt": "Asugawa, Gen from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/273073.jpg?s=d6649f99b95754a8934b9b5e0122f975"
+  },
+  {
+    "name": "Atsumi, Yuuji",
+    "prompt": "Atsumi, Yuuji from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/273169.jpg?s=a899ae999f0c7f8e8549fe40058af7fb"
+  },
+  {
+    "name": "Aya",
+    "prompt": "Aya from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/278992.jpg?s=2a0cb361c951282342f42bf30f12c30e"
+  },
+  {
+    "name": "Chazawa, Shinsuke",
+    "prompt": "Chazawa, Shinsuke from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/273171.jpg?s=32418c91b85f10f483599dc75bc123d5"
+  },
+  {
+    "name": "Composer Manager",
+    "prompt": "Composer Manager from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/275183.jpg?s=3109a738c303d4bf9b5b16bef6e17694"
+  },
+  {
+    "name": "Dobashi",
+    "prompt": "Dobashi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Doumoto, Chiemi",
+    "prompt": "Doumoto, Chiemi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/261985.jpg?s=74a3a81efe35e4079f2dbddd7734f6ff"
+  },
+  {
+    "name": "Endou, Ryousuke",
+    "prompt": "Endou, Ryousuke from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/261943.jpg?s=90f959f41fa46f56ead93d19d9794868"
+  },
+  {
+    "name": "Endou, Mayumi",
+    "prompt": "Endou, Mayumi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/451054.jpg?s=4e57f2a856cd09fe414aeda39f4afff2"
+  },
+  {
+    "name": "Enjou, Eisuke",
+    "prompt": "Enjou, Eisuke from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/274095.jpg?s=3d439500c8f3e7688fcc616fc39aad11"
+  },
+  {
+    "name": "Fuji, Asuka",
+    "prompt": "Fuji, Asuka from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/276486.jpg?s=5655007f2d73cc248af39ec495509615"
+  },
+  {
+    "name": "Hamasaki, Gorou",
+    "prompt": "Hamasaki, Gorou from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/275182.jpg?s=4039947d50834a5fa42583f8be913d4b"
+  },
+  {
+    "name": "Hanamaki, Ryou",
+    "prompt": "Hanamaki, Ryou from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hantou, Tatsuya",
+    "prompt": "Hantou, Tatsuya from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/278985.jpg?s=c9ea1d04ebc263b54ed5deb12e53c9fc"
+  },
+  {
+    "name": "Hashimoto",
+    "prompt": "Hashimoto from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hattori",
+    "prompt": "Hattori from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hidaka",
+    "prompt": "Hidaka from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/273167.jpg?s=1abc02fbfd4aa2c976fc5f8fa811b0a8"
+  },
+  {
+    "name": "Hiraoka, Daisuke",
+    "prompt": "Hiraoka, Daisuke from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/274099.jpg?s=1b4a2fdca41b0ab54b203c149463567b"
+  },
+  {
+    "name": "Hitotose, Aria",
+    "prompt": "Hitotose, Aria from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/288153.jpg?s=43456617fcab15790e6e385b5ad1aa7c"
+  },
+  {
+    "name": "Honda, Yutaka",
+    "prompt": "Honda, Yutaka from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/261991.jpg?s=e7c7bb154cb5a2a49839603137858d6f"
+  },
+  {
+    "name": "Hotta, Hikaru",
+    "prompt": "Hotta, Hikaru from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/283066.jpg?s=3654754edacee112d79813ed14f9380f"
+  },
+  {
+    "name": "Houjou, Hiroaki",
+    "prompt": "Houjou, Hiroaki from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/283065.jpg?s=f0a51dd9ca15b952a7a8d5c859660f1e"
+  },
+  {
+    "name": "Iguchi, Yumi",
+    "prompt": "Iguchi, Yumi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/261983.jpg?s=7cef25045658f9c5a37a7bfd5d54cdaa"
+  },
+  {
+    "name": "Iketani, Hiroshi",
+    "prompt": "Iketani, Hiroshi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/277186.jpg?s=507846db5f3b9bfa0ba536ea7024e0b1"
+  },
+  {
+    "name": "Inami, Masahiko",
+    "prompt": "Inami, Masahiko from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/271133.jpg?s=2337752d31d1b3b84ac9758fa6252b96"
+  },
+  {
+    "name": "Inanami, Yoshikazu",
+    "prompt": "Inanami, Yoshikazu from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/263025.jpg?s=d51202dab7cdffc187e2c42221b3c213"
+  },
+  {
+    "name": "Isokawa, Hisamitsu",
+    "prompt": "Isokawa, Hisamitsu from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/278441.jpg?s=6e5522880415027f6fc2db2bea2f4748"
+  },
+  {
+    "name": "Itou, Suzuka",
+    "prompt": "Itou, Suzuka from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/263037.jpg?s=eba28d6279b870e303a83bb9d161cb7c"
+  },
+  {
+    "name": "Kanno, Mitsuaki",
+    "prompt": "Kanno, Mitsuaki from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/272371.jpg?s=fa00ff175b2580f0c596c1504b007e24"
+  },
+  {
+    "name": "Katsuragi, Koutarou",
+    "prompt": "Katsuragi, Koutarou from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/263027.jpg?s=9842cd47b33e7740b5eaf0caeaec4d0c"
+  },
+  {
+    "name": "Kawano, Toshiyasu",
+    "prompt": "Kawano, Toshiyasu from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/381938.jpg?s=b73456c6a0aa386bbc0ca9dcc0a196b0"
+  },
+  {
+    "name": "Kayana, Mui",
+    "prompt": "Kayana, Mui from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/263039.jpg?s=d555d17e58d8cfbf041cc39ecc25f8f0"
+  },
+  {
+    "name": "Kinoshita, Seiichi",
+    "prompt": "Kinoshita, Seiichi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/261973.jpg?s=06db2f77335c4c14122abbf3c7f9d367"
+  },
+  {
+    "name": "Kisa, Mitsuhide",
+    "prompt": "Kisa, Mitsuhide from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/283064.jpg?s=7b375f9c3c03629ae7700d004c731cf2"
+  },
+  {
+    "name": "Kishitani, Hiroshi",
+    "prompt": "Kishitani, Hiroshi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/437644.jpg?s=77cfbef35c4f8a2b5c5d3988fd436a1f"
+  },
+  {
+    "name": "Kitano, Saburou",
+    "prompt": "Kitano, Saburou from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/437645.jpg?s=56f77ef6209f05c908de96bb897f8423"
+  },
+  {
+    "name": "Kunogi, Ai",
+    "prompt": "Kunogi, Ai from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/275180.jpg?s=2fe984cf403c54f69b4799f14d02f8fd"
+  },
+  {
+    "name": "Madoka, Hironori",
+    "prompt": "Madoka, Hironori from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/261971.jpg?s=cce131cf3f6fee33c23f8ede8551c5e1"
+  },
+  {
+    "name": "Maitake, Shimeji",
+    "prompt": "Maitake, Shimeji from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/273107.jpg?s=df118882c203c43172d91d4d8bb4ad42"
+  },
+  {
+    "name": "Makise, Ayano",
+    "prompt": "Makise, Ayano from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Makurada, Tsuyoshi",
+    "prompt": "Makurada, Tsuyoshi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/274041.jpg?s=fd1eece8d78834955c905ed8931bda70"
+  },
+  {
+    "name": "Marukawa, Masato",
+    "prompt": "Marukawa, Masato from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/261967.jpg?s=0ffddddccf461c17f6afc9189f222b27"
+  },
+  {
+    "name": "Mimura, Kenichi",
+    "prompt": "Mimura, Kenichi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/276485.jpg?s=a907be40e439d9a6e41d296ad075995f"
+  },
+  {
+    "name": "Miura",
+    "prompt": "Miura from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Miyamori, Mother",
+    "prompt": "Miyamori, Mother from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/529471.jpg?s=bd0e9cdcceb194e4f2363a5556bb2413"
+  },
+  {
+    "name": "Miyamori, Kaori",
+    "prompt": "Miyamori, Kaori from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/268447.jpg?s=b5ee44bfd3ba4ecf5759be3ebe5a1883"
+  },
+  {
+    "name": "Mizuyama, Yasuhiro",
+    "prompt": "Mizuyama, Yasuhiro from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/274101.jpg?s=bfb80851e6ca3348d40e239b71998018"
+  },
+  {
+    "name": "Momose, Isamu",
+    "prompt": "Momose, Isamu from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/264177.jpg?s=d025088775899639c1b065daee9341ca"
+  },
+  {
+    "name": "Mori, Shinobu",
+    "prompt": "Mori, Shinobu from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Morimiya, Saburou",
+    "prompt": "Morimiya, Saburou from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/277184.jpg?s=6d78d057bc79e4e3c48a97d168161e42"
+  },
+  {
+    "name": "Mukai",
+    "prompt": "Mukai from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/429374.jpg?s=afc853e7cb90e596c05af904c642d197"
+  },
+  {
+    "name": "Nagai, Tsukasa",
+    "prompt": "Nagai, Tsukasa from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nakabayashi, Wataru",
+    "prompt": "Nakabayashi, Wataru from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/278537.jpg?s=f5c893c04db27886648cd0923de6ed53"
+  },
+  {
+    "name": "Nakagaito, Nobuaki",
+    "prompt": "Nakagaito, Nobuaki from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/275181.jpg?s=3a73494a4f700393617415feac7ec459"
+  },
+  {
+    "name": "Nakaharu, Mei",
+    "prompt": "Nakaharu, Mei from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/263035.jpg?s=7b27271f6d6a43ae82f55d2c2b5aec98"
+  },
+  {
+    "name": "Nakata, Eri",
+    "prompt": "Nakata, Eri from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/263033.jpg?s=f01bbcda0f6526ad65cb3985e0ac66ca"
+  },
+  {
+    "name": "Nakayamata, Nobukatsu",
+    "prompt": "Nakayamata, Nobukatsu from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/286581.jpg?s=e667d947b1b8ddbd9d41387dc2e4ba9f"
+  },
+  {
+    "name": "Natsuki",
+    "prompt": "Natsuki from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nogame, Takezou",
+    "prompt": "Nogame, Takezou from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/278538.jpg?s=dc63402a7fd537dc78f9dc6c7b9b5e57"
+  },
+  {
+    "name": "Ochiai, Tatsuya",
+    "prompt": "Ochiai, Tatsuya from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/261997.jpg?s=b1343aeb76a2f01ed755b0bc0674a80b"
+  },
+  {
+    "name": "Ogasawara, Rinko",
+    "prompt": "Ogasawara, Rinko from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/280917.jpg?s=ab411664a78888d57e3510c9e0c950c5"
+  },
+  {
+    "name": "Okitsu, Yuka",
+    "prompt": "Okitsu, Yuka from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/261947.jpg?s=bc9434b9dc0cc12861bfc54aefc715ef"
+  },
+  {
+    "name": "Onodera",
+    "prompt": "Onodera from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/271139.jpg?s=ea8117cfd99c53bb94f4f693934792ca"
+  },
+  {
+    "name": "Onoue, Masato",
+    "prompt": "Onoue, Masato from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/271137.jpg?s=c4afd02f14d39b4531dbe1d3f26c39f3"
+  },
+  {
+    "name": "Ookura, Masahiro",
+    "prompt": "Ookura, Masahiro from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/276481.jpg?s=761b516807b1d9c3ecbcd641f9d011b5"
+  },
+  {
+    "name": "Ooyama, Takumi",
+    "prompt": "Ooyama, Takumi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/263041.jpg?s=8e459f69965ab6ef1db5a5f6d073fd8d"
+  },
+  {
+    "name": "Orii, Yui",
+    "prompt": "Orii, Yui from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/276484.jpg?s=3b766e1ae6f24d95e2704a35686f8c94"
+  },
+  {
+    "name": "Sagamori, Kouji",
+    "prompt": "Sagamori, Kouji from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/277185.jpg?s=eb20af62c542454baa10fa6fa8513d77"
+  },
+  {
+    "name": "Sakashita, Yuuna",
+    "prompt": "Sakashita, Yuuna from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sakuma, Hiromi",
+    "prompt": "Sakuma, Hiromi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sakura, Yoshiki",
+    "prompt": "Sakura, Yoshiki from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/261979.jpg?s=7d92b529163497e05a136a4892598b67"
+  },
+  {
+    "name": "Sakura, Daishirou",
+    "prompt": "Sakura, Daishirou from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sakurada, Nobuhiro",
+    "prompt": "Sakurada, Nobuhiro from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/271141.jpg?s=850a026c8243eb2bd97eaba6f6412e39"
+  },
+  {
+    "name": "Sasaki",
+    "prompt": "Sasaki from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/271143.jpg?s=7c75a47b86310a3ba93d39b5604957fe"
+  },
+  {
+    "name": "Satou, Sara",
+    "prompt": "Satou, Sara from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/294707.jpg?s=c1eec07619c818c3d6be6ff00571fccf"
+  },
+  {
+    "name": "Segawa, Misato",
+    "prompt": "Segawa, Misato from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/261993.jpg?s=1d080e7f6ccdd3358d45a821209b4d15"
+  },
+  {
+    "name": "Seino",
+    "prompt": "Seino from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Shimoyanagi, Yuuichirou",
+    "prompt": "Shimoyanagi, Yuuichirou from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/261987.jpg?s=80ee97761a7ad8b4603f0777d8308f4c"
+  },
+  {
+    "name": "Shinkawa, Nao",
+    "prompt": "Shinkawa, Nao from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/261977.jpg?s=0aa6618b5b6fd11723e1cba0dffd2c92"
+  },
+  {
+    "name": "Shinoda, Toshiki",
+    "prompt": "Shinoda, Toshiki from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Souma, Rena",
+    "prompt": "Souma, Rena from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/271149.jpg?s=2d2acd65bbccaa6400b1271580994476"
+  },
+  {
+    "name": "Sugie, Shigeru",
+    "prompt": "Sugie, Shigeru from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/262215.jpg?s=7e46551d41af148765ac7ae91bacd2c9"
+  },
+  {
+    "name": "Sugie, Wife",
+    "prompt": "Sugie, Wife from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/272373.jpg?s=24d93830433dc59cc3704f0bdf1e948b"
+  },
+  {
+    "name": "Suzuki, Kyouko",
+    "prompt": "Suzuki, Kyouko from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/276483.jpg?s=c89fcfc4f2e8430ab5f64943fffb7a8e"
+  },
+  {
+    "name": "Takanashi, Tarou",
+    "prompt": "Takanashi, Tarou from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/261989.jpg?s=d4402cd085e037348473693ea053d032"
+  },
+  {
+    "name": "Takekura, Keiji",
+    "prompt": "Takekura, Keiji from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/271135.jpg?s=dac602504de1417397207c7fbc46c0a4"
+  },
+  {
+    "name": "Tateishi, Kouichi",
+    "prompt": "Tateishi, Kouichi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tateo, Mari",
+    "prompt": "Tateo, Mari from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/271147.jpg?s=d74d8b49616f3c8c7156671766a6aa82"
+  },
+  {
+    "name": "Tokiwa, Hiroko",
+    "prompt": "Tokiwa, Hiroko from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tomigaya",
+    "prompt": "Tomigaya from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/261995.jpg?s=4b3da3158df17b493c29e2c81f310e22"
+  },
+  {
+    "name": "Tsujida, Mitsuyoshi",
+    "prompt": "Tsujida, Mitsuyoshi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/292368.jpg?s=a07ab3be6236bd5a04345444029a855a"
+  },
+  {
+    "name": "Uchida, Akane",
+    "prompt": "Uchida, Akane from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/261981.jpg?s=768bc717924f46739cbc83a508a68d6b"
+  },
+  {
+    "name": "Wakabashira, Hirokazu",
+    "prompt": "Wakabashira, Hirokazu from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/271145.jpg?s=11ebaee568a6c679e3a1a7471c94b7f2"
+  },
+  {
+    "name": "Waldegård, Christine",
+    "prompt": "Waldegård, Christine from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/288154.jpg?s=c5a9ae889d64e57fc669d793bd06cf15"
+  },
+  {
+    "name": "Watanabe, Jun",
+    "prompt": "Watanabe, Jun from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/263023.jpg?s=3ab1c24121e06e18095ea3f9dde04dcb"
+  },
+  {
+    "name": "Weller, Catherine",
+    "prompt": "Weller, Catherine from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/288152.jpg?s=6a2c6a25ed5f3e9767d79270317b3c54"
+  },
+  {
+    "name": "Yakovleva, Tatiana",
+    "prompt": "Yakovleva, Tatiana from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/288150.jpg?s=cc44a9a45bf228bbe60d1e5f0e51a013"
+  },
+  {
+    "name": "Yakushiji, Zaruyoshi",
+    "prompt": "Yakushiji, Zaruyoshi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/276482.jpg?s=904a0503ae73c467d9a6efc84804ab41"
+  },
+  {
+    "name": "Yamabuchi, Atsushi",
+    "prompt": "Yamabuchi, Atsushi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/263029.jpg?s=bc11db4ce247c768d46371df4bc47ed7"
+  },
+  {
+    "name": "Yamada, Masashi",
+    "prompt": "Yamada, Masashi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/261969.jpg?s=4d872e17fec135217a6d1d4ef5d58e46"
+  },
+  {
+    "name": "Yano, Erika",
+    "prompt": "Yano, Erika from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/317702.jpg?s=b5136c79c47b99bda58e42e11f3ffaba"
+  },
+  {
+    "name": "Yarase, Takumi",
+    "prompt": "Yarase, Takumi from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/274097.jpg?s=160e45f6952b879d7ebfc74c59b78c5e"
+  },
+  {
+    "name": "Yasuhara, Mother",
+    "prompt": "Yasuhara, Mother from Shirobako",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

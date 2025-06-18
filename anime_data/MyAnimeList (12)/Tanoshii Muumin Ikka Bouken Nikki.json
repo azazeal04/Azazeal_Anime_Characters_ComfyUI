@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Floren",
+    "prompt": "Floren from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/429867.jpg?s=c8795a79e60501b6495a5c58f6607b26"
+  },
+  {
+    "name": "Little My",
+    "prompt": "Little My from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/320010.jpg?s=2745e476de61e2972320380123e32b24"
+  },
+  {
+    "name": "Moominmamma",
+    "prompt": "Moominmamma from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/429863.jpg?s=c431c6cd93e752a5ce0eab83fd044ad5"
+  },
+  {
+    "name": "Moominpappa",
+    "prompt": "Moominpappa from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/429864.jpg?s=97d152387aea667b88e748e2ac0892a6"
+  },
+  {
+    "name": "Moomintroll",
+    "prompt": "Moomintroll from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/24783.jpg?s=47d1a450537bd96958bd6e7d106e6320"
+  },
+  {
+    "name": "Sniff",
+    "prompt": "Sniff from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/429862.jpg?s=d9a28dc09415639023ad50291b04d396"
+  },
+  {
+    "name": "Snufkin",
+    "prompt": "Snufkin from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/429859.jpg?s=edb2760961c529649f476b9681245204"
+  },
+  {
+    "name": "Antoco",
+    "prompt": "Antoco from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Aunt Jane",
+    "prompt": "Aunt Jane from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Billy",
+    "prompt": "Billy from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Captain",
+    "prompt": "Captain from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Cleovanila",
+    "prompt": "Cleovanila from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Cowboy",
+    "prompt": "Cowboy from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Disciple",
+    "prompt": "Disciple from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Duffy",
+    "prompt": "Duffy from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Edward",
+    "prompt": "Edward from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Fillyjonk",
+    "prompt": "Fillyjonk from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/141203.jpg?s=c231e6159aea3972b8b8932e4200302b"
+  },
+  {
+    "name": "Fork-Knife Man",
+    "prompt": "Fork-Knife Man from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Fundle",
+    "prompt": "Fundle from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Gafsa",
+    "prompt": "Gafsa from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Godley",
+    "prompt": "Godley from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Gustaf",
+    "prompt": "Gustaf from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hemlunt",
+    "prompt": "Hemlunt from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hemulen",
+    "prompt": "Hemulen from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/429869.jpg?s=c7362caba0c7f325bd83e7f672d909f0"
+  },
+  {
+    "name": "Mermaid",
+    "prompt": "Mermaid from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mymble's Daughter",
+    "prompt": "Mymble's Daughter from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/141199.jpg?s=7662353dbcf1994c24fe6d2a01142c6c"
+  },
+  {
+    "name": "Noelle",
+    "prompt": "Noelle from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Pinch",
+    "prompt": "Pinch from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Pinker",
+    "prompt": "Pinker from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ponker",
+    "prompt": "Ponker from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Prophet",
+    "prompt": "Prophet from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Queen",
+    "prompt": "Queen from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "School Director",
+    "prompt": "School Director from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sheriff",
+    "prompt": "Sheriff from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Shopkeeper",
+    "prompt": "Shopkeeper from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Snowman",
+    "prompt": "Snowman from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Stinky",
+    "prompt": "Stinky from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/429868.jpg?s=864cfc19671436019ae6e84fe4d0f70d"
+  },
+  {
+    "name": "The Groke",
+    "prompt": "The Groke from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/33083.jpg?s=ac74c92591446f5bc9909a312e58fae5"
+  },
+  {
+    "name": "The Police Inspector",
+    "prompt": "The Police Inspector from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/389037.jpg?s=c831475c0ad27eaaa436049b8024330f"
+  },
+  {
+    "name": "Thomas",
+    "prompt": "Thomas from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tonker",
+    "prompt": "Tonker from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Wimsey",
+    "prompt": "Wimsey from Tanoshii Muumin Ikka Bouken Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

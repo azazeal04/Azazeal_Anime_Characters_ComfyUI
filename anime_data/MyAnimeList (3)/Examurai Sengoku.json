@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Akira",
+    "prompt": "Akira from Examurai Sengoku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/76912.jpg?s=f471c5e802fc508ddc74201da5ea9bbe"
+  },
+  {
+    "name": "Atsushi",
+    "prompt": "Atsushi from Examurai Sengoku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/76911.jpg?s=c24cb67331bc4fbd66966597a0e1da56"
+  },
+  {
+    "name": "Hiro",
+    "prompt": "Hiro from Examurai Sengoku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/76907.jpg?s=781eeb800303edc8ec434a8acea6869a"
+  },
+  {
+    "name": "Kagura",
+    "prompt": "Kagura from Examurai Sengoku",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Makidai",
+    "prompt": "Makidai from Examurai Sengoku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/76910.jpg?s=a111d560dafbb97e87b0d8c5e6133c54"
+  },
+  {
+    "name": "Matsu",
+    "prompt": "Matsu from Examurai Sengoku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/76908.jpg?s=1f025bafcdc60cfcf20ced6065572ed4"
+  },
+  {
+    "name": "Takahiro",
+    "prompt": "Takahiro from Examurai Sengoku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/76913.jpg?s=f904a4e7d92348d51c4bf213f6015c95"
+  },
+  {
+    "name": "Usa",
+    "prompt": "Usa from Examurai Sengoku",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/76909.jpg?s=26ac6e8bf2490c73e67c43ddaf3154a8"
+  },
+  {
+    "name": "Nori",
+    "prompt": "Nori from Examurai Sengoku",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

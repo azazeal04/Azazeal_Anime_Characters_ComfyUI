@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Arisa",
+    "prompt": "Arisa from Henkei Shoujo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497109.jpg?s=10a54ad6dd1d6ce05d57531c69b29d7c"
+  },
+  {
+    "name": "Haru",
+    "prompt": "Haru from Henkei Shoujo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/335109.jpg?s=f35b0371b25771acab21245333433703"
+  },
+  {
+    "name": "Itsuki",
+    "prompt": "Itsuki from Henkei Shoujo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/335107.jpg?s=6ed242955031aed56e65f1478ef93bb6"
+  },
+  {
+    "name": "Nana",
+    "prompt": "Nana from Henkei Shoujo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/335110.jpg?s=59cc3e78f0367473bd26dbac824f6613"
+  },
+  {
+    "name": "Rin",
+    "prompt": "Rin from Henkei Shoujo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/335108.jpg?s=4fcf6aa60eb19ea7118d710b87333b23"
+  },
+  {
+    "name": "Hiromi",
+    "prompt": "Hiromi from Henkei Shoujo",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/338881.jpg?s=bcb20c8256df1ae92834b8691c549b2e"
+  }
+]

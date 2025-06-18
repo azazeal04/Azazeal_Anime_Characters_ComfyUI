@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Joker",
+    "prompt": "Joker from Joker: Marginal City",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/471239.jpg?s=fbf6757a96eacf87e5eda9e5f8c0eba4"
+  },
+  {
+    "name": "Rikudou, Rin",
+    "prompt": "Rikudou, Rin from Joker: Marginal City",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/409460.jpg?s=c08d2f3cd0501d014faf7cb06c55f2ad"
+  },
+  {
+    "name": "Barley",
+    "prompt": "Barley from Joker: Marginal City",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Dr. Bayfarm",
+    "prompt": "Dr. Bayfarm from Joker: Marginal City",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/409465.jpg?s=88926151cbeb614051b2c2e193302e61"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Joker: Marginal City",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Saki",
+    "prompt": "Saki from Joker: Marginal City",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/409464.jpg?s=6e06339b715354bfbeebbd32a64d37c9"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Kagura",
+    "prompt": "Kagura from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/505912.jpg?s=a0988dd3478129e2fecb8d077a5b5959"
+  },
+  {
+    "name": "Sakata, Gintoki",
+    "prompt": "Sakata, Gintoki from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/241479.jpg?s=cec74d9d5f4f68fae78ef00ac0b2b40f"
+  },
+  {
+    "name": "Shimura, Shinpachi",
+    "prompt": "Shimura, Shinpachi from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/114081.jpg?s=10fb5c6057e3bcfe48553c3fb5b1d08d"
+  },
+  {
+    "name": "Bichie",
+    "prompt": "Bichie from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/348742.jpg?s=1e00ed3b2f1df52f4b52fd95fa16fed8"
+  },
+  {
+    "name": "Chokyuukai",
+    "prompt": "Chokyuukai from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/343434.jpg?s=58dfd36b7a0ce6f5edbec9a0c6578a28"
+  },
+  {
+    "name": "Dai",
+    "prompt": "Dai from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/344073.jpg?s=32147960d349ae6ff99542876ba2b6e3"
+  },
+  {
+    "name": "Daigo",
+    "prompt": "Daigo from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/344074.jpg?s=2c3ae9f8708a6109b73068b931f65e3f"
+  },
+  {
+    "name": "Elizabeth",
+    "prompt": "Elizabeth from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/43474.jpg?s=616543fe7fd82ce059e63e21f214048e"
+  },
+  {
+    "name": "Hasegawa, Taizou",
+    "prompt": "Hasegawa, Taizou from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/115541.jpg?s=b4bb76e5d6d68fa576b958df8ab51833"
+  },
+  {
+    "name": "Hijikata, Toushirou",
+    "prompt": "Hijikata, Toushirou from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/73155.jpg?s=76fb40e660285ad835479f7f2b5b0026"
+  },
+  {
+    "name": "Ikumatsu's Brother-in-Law",
+    "prompt": "Ikumatsu's Brother-in-Law from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/341707.jpg?s=0098fb850f6c5e6ab2830c5abd83dd43"
+  },
+  {
+    "name": "Imai, Nobume",
+    "prompt": "Imai, Nobume from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/321324.jpg?s=7fd14b7a58aeeff142d04b65fd0ccba4"
+  },
+  {
+    "name": "Kankou",
+    "prompt": "Kankou from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/115820.jpg?s=90dba1f549acbe2a4cb048bef4a97435"
+  },
+  {
+    "name": "Katsura, Kotarou",
+    "prompt": "Katsura, Kotarou from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/30271.jpg?s=56aa6025d8ba114ee5be1d24f42c87fe"
+  },
+  {
+    "name": "Kondou, Isao",
+    "prompt": "Kondou, Isao from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/303226.jpg?s=736cb1e1c7a4c40f6008eb3525d5ac77"
+  },
+  {
+    "name": "Kurokoge no Kareshi",
+    "prompt": "Kurokoge no Kareshi from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/343427.jpg?s=3f3ffea3cd19d64770113abb3b047069"
+  },
+  {
+    "name": "Kusanagi",
+    "prompt": "Kusanagi from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/418987.jpg?s=36da2c0262cbe4544df2e78eba9458b6"
+  },
+  {
+    "name": "Maganagi",
+    "prompt": "Maganagi from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/418990.jpg?s=db1571e16e78cc5da3e8d57019687a7c"
+  },
+  {
+    "name": "Matsudaira, Katakuriko",
+    "prompt": "Matsudaira, Katakuriko from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/31008.jpg?s=e7c825d3f0aab576fa5d5b916515b38e"
+  },
+  {
+    "name": "Murata, Tetsuko",
+    "prompt": "Murata, Tetsuko from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/120270.jpg?s=90c38f1b7b1a041fc71f045dba2d290c"
+  },
+  {
+    "name": "Musashi",
+    "prompt": "Musashi from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/117897.jpg?s=b8108117581d952cc26ebf8e95b1d310"
+  },
+  {
+    "name": "Nishiki, Ikumatsu",
+    "prompt": "Nishiki, Ikumatsu from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/114867.jpg?s=97a755fc4b94e22aebbb8b491d135a08"
+  },
+  {
+    "name": "Nishiki-ya no Okami",
+    "prompt": "Nishiki-ya no Okami from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/343431.jpg?s=74d6adc91f183f65832ab3bab1b97b7b"
+  },
+  {
+    "name": "Okita, Sougo",
+    "prompt": "Okita, Sougo from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/112926.jpg?s=07942695a6a04cc5ab1a3147d6521a65"
+  },
+  {
+    "name": "Okita, Mitsuba",
+    "prompt": "Okita, Mitsuba from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/115543.jpg?s=6ef379eedfee9c331a6a3508cc778f67"
+  },
+  {
+    "name": "Osono",
+    "prompt": "Osono from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/343429.jpg?s=a7768f42cec93c66f54f5509ca999ef6"
+  },
+  {
+    "name": "Otose",
+    "prompt": "Otose from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/148723.jpg?s=e32839b332e5ca15bdeeeb323e052804"
+  },
+  {
+    "name": "Priest",
+    "prompt": "Priest from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/343428.jpg?s=f870581b16f1f698e97e83186416952d"
+  },
+  {
+    "name": "Saaya",
+    "prompt": "Saaya from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/418988.jpg?s=973d4b828ae4f44f4c6f99b3d28776dd"
+  },
+  {
+    "name": "Sadaharu",
+    "prompt": "Sadaharu from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/43475.jpg?s=c515768ace48c9d87ff2f594d53fc7bb"
+  },
+  {
+    "name": "Sarutobi, Ayame",
+    "prompt": "Sarutobi, Ayame from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/113709.jpg?s=f9639b2a6156ac901e3245a52a6cca81"
+  },
+  {
+    "name": "Sasaki, Isaburou",
+    "prompt": "Sasaki, Isaburou from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/195993.jpg?s=a570e9a4e0f386b30ca2a0805c7624cd"
+  },
+  {
+    "name": "Senbei",
+    "prompt": "Senbei from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/344126.jpg?s=784c5ad48f7011e359f689dae6014a89"
+  },
+  {
+    "name": "Shimura, Tae",
+    "prompt": "Shimura, Tae from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/115884.jpg?s=62bd626611f24fce5128c240859f86b5"
+  },
+  {
+    "name": "Takaya, Hachibei",
+    "prompt": "Takaya, Hachibei from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/115634.jpg?s=c1cb47732130a072de9f0d0af24ea889"
+  },
+  {
+    "name": "Tama",
+    "prompt": "Tama from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/114865.jpg?s=65b94a820fa1e24d9b14c84589975b7e"
+  },
+  {
+    "name": "Tamo",
+    "prompt": "Tamo from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/119084.jpg?s=b5058dfc201ed989fda2c64c7c146905"
+  },
+  {
+    "name": "Terakado, Ichi",
+    "prompt": "Terakado, Ichi from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/117896.jpg?s=af88562b468c42b73f33f49a31076dd6"
+  },
+  {
+    "name": "Terakado, Tsuu",
+    "prompt": "Terakado, Tsuu from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/112381.jpg?s=3c66c36b0e0adf7e8886f91b8f003037"
+  },
+  {
+    "name": "Tokugawa, Soyo",
+    "prompt": "Tokugawa, Soyo from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/202435.jpg?s=0e6a96e387ccd729e547f559bdfb42f9"
+  },
+  {
+    "name": "Tsukuyo",
+    "prompt": "Tsukuyo from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/115534.jpg?s=6553abe3795596d23f174495cd6c4e73"
+  },
+  {
+    "name": "Yagyuu, Kyuubei",
+    "prompt": "Yagyuu, Kyuubei from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/47988.jpg?s=f73ebc8b9f5aca14ca581356cc8d54d1"
+  },
+  {
+    "name": "Yamazaki, Sagaru",
+    "prompt": "Yamazaki, Sagaru from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/303204.jpg?s=d013cb7ec9be0d4f39ef106ffc2ef399"
+  },
+  {
+    "name": "Yi Long",
+    "prompt": "Yi Long from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/343433.jpg?s=84cbad0b2216bae33a30ede38a7bca61"
+  },
+  {
+    "name": "Yi Xing",
+    "prompt": "Yi Xing from Gintama. Porori-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/343432.jpg?s=71fd4cb538ab4312b743139ca76491f3"
+  }
+]

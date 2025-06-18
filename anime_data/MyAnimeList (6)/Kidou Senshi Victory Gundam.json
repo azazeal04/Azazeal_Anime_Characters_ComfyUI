@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Asher, Chronicle",
+    "prompt": "Asher, Chronicle from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/87996.jpg?s=b28e579c6a37456838e504342d062142"
+  },
+  {
+    "name": "Ewin, Üso",
+    "prompt": "Ewin, Üso from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/87992.jpg?s=f5dbefdbc7fab15c585035d45f6b682a"
+  },
+  {
+    "name": "Kareen, Shakti",
+    "prompt": "Kareen, Shakti from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/110370.jpg?s=87c87bdcf81886c1180c3c2faa14dbc2"
+  },
+  {
+    "name": "Loos, Katejina",
+    "prompt": "Loos, Katejina from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/168943.jpg?s=434e3f707114ff64e8cf34b1a9352cee"
+  },
+  {
+    "name": "Aaes, Torry",
+    "prompt": "Aaes, Torry from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/181989.jpg?s=4f1d02bae595efa0782abc9f827c0d63"
+  },
+  {
+    "name": "Almodovar, Leonid",
+    "prompt": "Almodovar, Leonid from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/286955.jpg?s=362cb29ecdabf56d885957d4c6d7ac75"
+  },
+  {
+    "name": "Arkins, Otis",
+    "prompt": "Arkins, Otis from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/181987.jpg?s=4d98580d4896e7895fdefd77847b327f"
+  },
+  {
+    "name": "Baggi, Azis",
+    "prompt": "Baggi, Azis from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/286923.jpg?s=69a5508f66f302a8039185f7c4614692"
+  },
+  {
+    "name": "Bagwatt, Kishowl",
+    "prompt": "Bagwatt, Kishowl from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/286950.jpg?s=1956eacfefc0e8f3f2063b6ea02babc5"
+  },
+  {
+    "name": "Band",
+    "prompt": "Band from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/286924.jpg?s=58bd76a2cc12ae644eb292553405385d"
+  },
+  {
+    "name": "Barl, Goze",
+    "prompt": "Barl, Goze from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/286940.jpg?s=cf91505948d477a6a632c54cf30eea33"
+  },
+  {
+    "name": "Blood, Ray",
+    "prompt": "Blood, Ray from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/286971.jpg?s=afa5411018347a4c46c054a9ad495ac2"
+  },
+  {
+    "name": "Boone, Patrick",
+    "prompt": "Boone, Patrick from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/286969.jpg?s=8c576e5b89dd0040c63a8ee51849e087"
+  },
+  {
+    "name": "Brogh",
+    "prompt": "Brogh from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/286926.jpg?s=dc14fae55b2d1825e0abe130c4910ec0"
+  },
+  {
+    "name": "Bush, Kate",
+    "prompt": "Bush, Kate from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/110371.jpg?s=aec921e8e1048b4d22dee320e65bf372"
+  },
+  {
+    "name": "Chavarri, Ester",
+    "prompt": "Chavarri, Ester from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/286933.jpg?s=e3ea95053ef76ebe310296364638a9da"
+  },
+  {
+    "name": "Cineau, Lupe",
+    "prompt": "Cineau, Lupe from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/110375.jpg?s=728b4968d9697b1759103cd596bf4636"
+  },
+  {
+    "name": "de Paloma, Renda",
+    "prompt": "de Paloma, Renda from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/286922.jpg?s=ad02cf7972efd73ce0ba3924077f4c5f"
+  },
+  {
+    "name": "Dukartuse, Karlmann",
+    "prompt": "Dukartuse, Karlmann from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/286947.jpg?s=8f740008d0a0161d9294f14c5b24007a"
+  },
+  {
+    "name": "Dupre, Gettle",
+    "prompt": "Dupre, Gettle from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/286920.jpg?s=01b75f559d26fad53d788b73456eb0bc"
+  },
+  {
+    "name": "Eagle, Striker",
+    "prompt": "Eagle, Striker from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/286973.jpg?s=b09e9c10107c0595827c956141e49736"
+  },
+  {
+    "name": "Elena",
+    "prompt": "Elena from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/286931.jpg?s=c0ac39442d5c46b69d7c411ac620aa8b"
+  },
+  {
+    "name": "Ewin, Hangelg",
+    "prompt": "Ewin, Hangelg from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/286941.jpg?s=9a552924d9cdde2290ad9a34c99319e2"
+  },
+  {
+    "name": "Fingerhat, Marvet",
+    "prompt": "Fingerhat, Marvet from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/87997.jpg?s=71ef916103436266eee34a597ed8768f"
+  },
+  {
+    "name": "Fitsuine, Cicely",
+    "prompt": "Fitsuine, Cicely from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/286929.jpg?s=9742b203ec0f3d178d23c31fe7587651"
+  },
+  {
+    "name": "Flanders",
+    "prompt": "Flanders from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/286934.jpg?s=a701d711821fdd750288ac93d78b3744"
+  },
+  {
+    "name": "Francis, Connie",
+    "prompt": "Francis, Connie from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/110373.jpg?s=becc48dedaaeed08a39735955bda3606"
+  },
+  {
+    "name": "Gehenam, Jinn",
+    "prompt": "Gehenam, Jinn from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/286921.jpg?s=28d06ef7400235ffa74ee6d1a249c897"
+  },
+  {
+    "name": "Gomez, Roberto",
+    "prompt": "Gomez, Roberto from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/110374.jpg?s=4cafcf6d488833d29cea57a6e0f1dcaa"
+  },
+  {
+    "name": "Griffon, Fuala",
+    "prompt": "Griffon, Fuala from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/110376.jpg?s=f944a7f73b6129fc861c8e4337968a63"
+  },
+  {
+    "name": "Hans, Nicholai",
+    "prompt": "Hans, Nicholai from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/286965.jpg?s=8b97066b05bafe8f93a397fda5ef31da"
+  },
+  {
+    "name": "Haro",
+    "prompt": "Haro from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/31834.jpg?s=9804c8628c60538fef080ce69938f20b"
+  },
+  {
+    "name": "Hein, Godwald",
+    "prompt": "Hein, Godwald from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/286939.jpg?s=4d2440b8bd352a81bfc12921cd9f9f19"
+  },
+  {
+    "name": "Henrik, Odelo",
+    "prompt": "Henrik, Odelo from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/88001.jpg?s=c696782345a7a981e2aab0282587d929"
+  },
+  {
+    "name": "Husher, Ness",
+    "prompt": "Husher, Ness from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/110377.jpg?s=222e4c8b3c246f1cac5f3f9dee29a6a0"
+  },
+  {
+    "name": "Inoue, Oliver",
+    "prompt": "Inoue, Oliver from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/87998.jpg?s=d8ca1d4058bc069742f9e39fb636d9e0"
+  },
+  {
+    "name": "Iq, Duker",
+    "prompt": "Iq, Duker from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/286919.jpg?s=7a95bb1606a2ab76083f98d1bfceb44a"
+  },
+  {
+    "name": "Jackson, Helen",
+    "prompt": "Jackson, Helen from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/110378.jpg?s=7f56d11864d9d6c610d515ce7430b964"
+  },
+  {
+    "name": "Jellines, Brasta",
+    "prompt": "Jellines, Brasta from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/286925.jpg?s=e5f08ebafc0f96486c2d6db5b741931e"
+  },
+  {
+    "name": "Jellines, Sophia",
+    "prompt": "Jellines, Sophia from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/286972.jpg?s=23ca181480be2284d31f9add6d6dfa17"
+  },
+  {
+    "name": "Jenko, Junko",
+    "prompt": "Jenko, Junko from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/87989.jpg?s=a9553e3d163a73a587b51125ca1fb389"
+  },
+  {
+    "name": "Kagatie, Fonse",
+    "prompt": "Kagatie, Fonse from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/286935.jpg?s=ed8c05527ea1a1be3af6466b0dbe3449"
+  },
+  {
+    "name": "Kaifu, Hazu",
+    "prompt": "Kaifu, Hazu from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/286943.jpg?s=b227b0a301939782525156f50deb2fbb"
+  },
+  {
+    "name": "Katan, Miliera",
+    "prompt": "Katan, Miliera from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/286959.jpg?s=19f28dcc399291dd29558ecc81446144"
+  },
+  {
+    "name": "Kikki, Genis",
+    "prompt": "Kikki, Genis from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/286938.jpg?s=81bd98955537b248bd487ef921862bc5"
+  },
+  {
+    "name": "Kranskie, Martina",
+    "prompt": "Kranskie, Martina from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/286957.jpg?s=3f15a845c9082ff803dfdb1024f1685b"
+  },
+  {
+    "name": "Kranskie, Elischa",
+    "prompt": "Kranskie, Elischa from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/286932.jpg?s=a1ad2ddbcb77fbd75c8ace110b8147d7"
+  },
+  {
+    "name": "Lee, Peggy",
+    "prompt": "Lee, Peggy from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/87988.jpg?s=a269e47c16709d4b355d22af5a8c302e"
+  },
+  {
+    "name": "Lee, Kwan",
+    "prompt": "Lee, Kwan from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/110379.jpg?s=2dfa12ad21a11caa0dcafeb8c3d14d20"
+  },
+  {
+    "name": "Lloyd, Chris",
+    "prompt": "Lloyd, Chris from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/286928.jpg?s=a2996ac155e10cf4087999d8060deb12"
+  },
+  {
+    "name": "Loos, Tengracee",
+    "prompt": "Loos, Tengracee from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/286974.jpg?s=31dd650a9b2dfc3286a8af5140a1f435"
+  },
+  {
+    "name": "Marvall, Romero",
+    "prompt": "Marvall, Romero from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/110380.jpg?s=ee5893a38aecc9d17274d3cdc9658918"
+  },
+  {
+    "name": "Massarik, Karrel",
+    "prompt": "Massarik, Karrel from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/286948.jpg?s=efae1ff3d2056095be30be75c4686352"
+  },
+  {
+    "name": "Massarik, Tomache",
+    "prompt": "Massarik, Tomache from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/286975.jpg?s=b43c0b9e049b014aee713739da5106c3"
+  },
+  {
+    "name": "Massarik, Burtsruff",
+    "prompt": "Massarik, Burtsruff from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/286927.jpg?s=6757849d72457ac34ef161c306855d57"
+  },
+  {
+    "name": "Meilasch, Juca",
+    "prompt": "Meilasch, Juca from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/286945.jpg?s=2bdd3a333cb7f54fbb042b6fc2d6f5bd"
+  },
+  {
+    "name": "Merril, Mahalia",
+    "prompt": "Merril, Mahalia from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/87993.jpg?s=50beafe93f2ecbf7fc1d13980637fd99"
+  },
+  {
+    "name": "Miguel, Muller",
+    "prompt": "Miguel, Muller from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/286963.jpg?s=c7cd7125c16cf4c6d87959cf153b28bb"
+  },
+  {
+    "name": "Minegan, Mizuho",
+    "prompt": "Minegan, Mizuho from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/286960.jpg?s=434cf2d44beb92a891d4db3035678d1c"
+  },
+  {
+    "name": "Miura, Kazoo",
+    "prompt": "Miura, Kazoo from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/286949.jpg?s=9ddb13fb73d3e73c0795edf0a27152df"
+  },
+  {
+    "name": "Most, Harry",
+    "prompt": "Most, Harry from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/286942.jpg?s=082e0037ade4db1da93ccc7d49db9808"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nibrou, Neneka",
+    "prompt": "Nibrou, Neneka from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/286964.jpg?s=b90441b5ff79c5f12da315fb6b2245c3"
+  },
+  {
+    "name": "Nyng, Oy",
+    "prompt": "Nyng, Oy from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/286968.jpg?s=f9e0f2fee02805ca129593eb0f4afd92"
+  },
+  {
+    "name": "O'Hara, Francesca",
+    "prompt": "O'Hara, Francesca from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/286936.jpg?s=bec841e0f0c952c2f2d4853985ede6e3"
+  },
+  {
+    "name": "Olesches, Lob",
+    "prompt": "Olesches, Lob from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/286956.jpg?s=3ed515e0ee747ed5f93f67d189aa8d1b"
+  },
+  {
+    "name": "Pia Armonia, Maria",
+    "prompt": "Pia Armonia, Maria from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/89145.jpg?s=55dbe2edd9bd263a1eec8e3876ab9232"
+  },
+  {
+    "name": "Pippiniden, Arbeo",
+    "prompt": "Pippiniden, Arbeo from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/110381.jpg?s=d32e95cee03258dd13f19b27ec0fd44f"
+  },
+  {
+    "name": "Quila",
+    "prompt": "Quila from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/286970.jpg?s=302b561b74ea270043c1d5ba9e3aebc7"
+  },
+  {
+    "name": "Relane, Suzy",
+    "prompt": "Relane, Suzy from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/87995.jpg?s=2100056afb7abc2f178233aa7fc19e2c"
+  },
+  {
+    "name": "Ron, Lee",
+    "prompt": "Ron, Lee from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/286953.jpg?s=e64c3468e42bde5e1f933e26bd899d61"
+  },
+  {
+    "name": "Rubence, Metchet",
+    "prompt": "Rubence, Metchet from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/35794.jpg?s=050c09eca278e0b15f0d66364b7a0b57"
+  },
+  {
+    "name": "Sabato, Raior",
+    "prompt": "Sabato, Raior from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/28904.jpg?s=80caf798c39c3f50e84069b31ddc7a07"
+  },
+  {
+    "name": "Salomon, Kuffu",
+    "prompt": "Salomon, Kuffu from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/286951.jpg?s=946dbd1bc0add82653838eb2e028ff8d"
+  },
+  {
+    "name": "Simonev, Zubroch",
+    "prompt": "Simonev, Zubroch from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/286979.jpg?s=31de03dbe4c5c8079cf810513e690656"
+  },
+  {
+    "name": "Soone, Mandella",
+    "prompt": "Soone, Mandella from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/35779.jpg?s=4e46d88849e1634c2bfd594d19ea3a92"
+  },
+  {
+    "name": "Stern, Mubarak",
+    "prompt": "Stern, Mubarak from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/286961.jpg?s=e5d35039d29369caac7c18d5899b10da"
+  },
+  {
+    "name": "Stiff, Jim",
+    "prompt": "Stiff, Jim from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/286944.jpg?s=7a3566c2d27dd10aa22c6b7cd2606d4f"
+  },
+  {
+    "name": "Sugan, Mutterma",
+    "prompt": "Sugan, Mutterma from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/286962.jpg?s=78a36f4b01b03d67c906a0a8ee55b997"
+  },
+  {
+    "name": "Tassilo, Vago",
+    "prompt": "Tassilo, Vago from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/119575.jpg?s=89a28e6a40e17398f260386cb66990b4"
+  },
+  {
+    "name": "Trace, Warren",
+    "prompt": "Trace, Warren from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/88002.jpg?s=d06e3298485764ea1e11013129a5393c"
+  },
+  {
+    "name": "Trance",
+    "prompt": "Trance from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/286976.jpg?s=8520be5807358c7704d7ec06e89ceb27"
+  },
+  {
+    "name": "Trump, Di",
+    "prompt": "Trump, Di from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/286930.jpg?s=d2ab889a628018ae7cfee7d7cca285ec"
+  },
+  {
+    "name": "Tundon, Kyl",
+    "prompt": "Tundon, Kyl from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/286952.jpg?s=cac6b732e7dabc6f154442af560ff34d"
+  },
+  {
+    "name": "Tunn, Garry",
+    "prompt": "Tunn, Garry from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/286937.jpg?s=d1ec6c85ba6d9110b6a7b1a393e17e11"
+  },
+  {
+    "name": "Vistan",
+    "prompt": "Vistan from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/286977.jpg?s=4ba5605a8b8a3312162e1edf5a5cfee8"
+  },
+  {
+    "name": "Walker, Lena",
+    "prompt": "Walker, Lena from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/286954.jpg?s=69627bc75c760886472806e6e1d4d30b"
+  },
+  {
+    "name": "Walker, Mazis",
+    "prompt": "Walker, Mazis from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/286958.jpg?s=0ace96171a7d93d688e9547678d9d261"
+  },
+  {
+    "name": "Wargan",
+    "prompt": "Wargan from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/286978.jpg?s=a6240cdfe5066106fe2fecdcc42d3c80"
+  },
+  {
+    "name": "Wattary, Gilla",
+    "prompt": "Wattary, Gilla from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/35664.jpg?s=57cac0a343132aa5fbfcb4850d0072ca"
+  },
+  {
+    "name": "Wogel, Kalinga",
+    "prompt": "Wogel, Kalinga from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/286946.jpg?s=9718d18f32310f8fe443160e8db90db3"
+  },
+  {
+    "name": "Zeta, Nomaizu",
+    "prompt": "Zeta, Nomaizu from Kidou Senshi Victory Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/286966.jpg?s=03d936291746bf84ab0ccd8fd4ed67f5"
+  }
+]

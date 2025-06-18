@@ -1,0 +1,897 @@
+[
+  {
+    "name": "Citron",
+    "prompt": "Citron from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/469116.jpg?s=dda0a9c0fdfb3574516610c0070e93d1"
+  },
+  {
+    "name": "Eureka",
+    "prompt": "Eureka from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/469117.jpg?s=c75b7e2d4ff78acecc15f78cb34839e2"
+  },
+  {
+    "name": "Pikachu",
+    "prompt": "Pikachu from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/289627.jpg?s=b97db39e3126c4cc184a764059abe0f6"
+  },
+  {
+    "name": "Satoshi",
+    "prompt": "Satoshi from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/100701.jpg?s=e0c6afbdb021ec02343675ebb587d488"
+  },
+  {
+    "name": "Serena",
+    "prompt": "Serena from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/469818.jpg?s=9973fb7048371f212ca7756c6e4becf1"
+  },
+  {
+    "name": "Absol",
+    "prompt": "Absol from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/453814.jpg?s=6bb190ca08273c1bfa7e3008d0e62724"
+  },
+  {
+    "name": "Akebi",
+    "prompt": "Akebi from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/314264.jpg?s=78a94ef827ec6d7508ab64317832d5b3"
+  },
+  {
+    "name": "Alan",
+    "prompt": "Alan from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/479249.jpg?s=768f5742e87e81e98c8a105af0405131"
+  },
+  {
+    "name": "Alva",
+    "prompt": "Alva from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/329585.jpg?s=92fb7e5f80ef7096a92f70a40d0e029a"
+  },
+  {
+    "name": "Amelia",
+    "prompt": "Amelia from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/322511.jpg?s=dd1b95a886f9f329e2b6725b1d97ebaf"
+  },
+  {
+    "name": "Arbo",
+    "prompt": "Arbo from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/497721.jpg?s=a91a1fee5fc38234a03daa0de6676de4"
+  },
+  {
+    "name": "Arbok",
+    "prompt": "Arbok from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/499143.jpg?s=45d73098814e473fad10d9927d9a6c87"
+  },
+  {
+    "name": "Armelle",
+    "prompt": "Armelle from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/560277.jpg?s=837f685f8e3860de5b2100a34484012e"
+  },
+  {
+    "name": "Asami",
+    "prompt": "Asami from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/560322.jpg?s=75a34967ab330b0f47010fe07eca6ee5"
+  },
+  {
+    "name": "Ayaka",
+    "prompt": "Ayaka from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/350269.jpg?s=7e17c9f835298c5c91531d12baebb921"
+  },
+  {
+    "name": "Bangiras",
+    "prompt": "Bangiras from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/540502.jpg?s=ae4cc3a96a74d21b349bbd45a708f6a0"
+  },
+  {
+    "name": "Bara",
+    "prompt": "Bara from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/314262.jpg?s=63cd07008c220f29c36d79183e7bf005"
+  },
+  {
+    "name": "Blacky",
+    "prompt": "Blacky from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/504427.jpg?s=94e3f93d5a82a5c75baa8b603a8fe990"
+  },
+  {
+    "name": "Blanche",
+    "prompt": "Blanche from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/560289.jpg?s=2a741765004cd0887cb3d074d622c37e"
+  },
+  {
+    "name": "Bulu",
+    "prompt": "Bulu from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/499983.jpg?s=7fa07a4a89ebfe291eb559b4d8602760"
+  },
+  {
+    "name": "Butterfree",
+    "prompt": "Butterfree from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/498324.jpg?s=66301edd9a08b9f273353b8ebc41aeac"
+  },
+  {
+    "name": "Cal",
+    "prompt": "Cal from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/322510.jpg?s=e8f15e92c480a7f4e48c81bf7a196481"
+  },
+  {
+    "name": "Carne",
+    "prompt": "Carne from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/488471.jpg?s=e479e108eb203fe403d5768c23bd2b53"
+  },
+  {
+    "name": "Caterpie",
+    "prompt": "Caterpie from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/503661.jpg?s=8da993ac7bcde374acf69e205f779b05"
+  },
+  {
+    "name": "Citroid",
+    "prompt": "Citroid from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/469118.jpg?s=e1422ea268e9bf6b3b1eaa50565e67ed"
+  },
+  {
+    "name": "Clarisse",
+    "prompt": "Clarisse from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/560293.jpg?s=00bde6014b64834e698971493bd67e1e"
+  },
+  {
+    "name": "Cleffy",
+    "prompt": "Cleffy from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/504325.jpg?s=a20b9d0f96b883654ab0359dcbaab504"
+  },
+  {
+    "name": "Coil",
+    "prompt": "Coil from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/498605.jpg?s=21c5d42c79b5cab5eb0eb3159de929c5"
+  },
+  {
+    "name": "Concombre",
+    "prompt": "Concombre from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/457154.jpg?s=892f86ed19933f4115a3cd71782914ff"
+  },
+  {
+    "name": "Corni",
+    "prompt": "Corni from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/350934.jpg?s=b9e5f42376c64dc76f0a455e2b10a1c2"
+  },
+  {
+    "name": "Correa",
+    "prompt": "Correa from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/335916.jpg?s=4f23ed5a3107823a95cd78519c5ff26b"
+  },
+  {
+    "name": "Cosette",
+    "prompt": "Cosette from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/579753.jpg?s=48f6ea46386025c84cbb1ac08a94477b"
+  },
+  {
+    "name": "Crimgan",
+    "prompt": "Crimgan from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/497193.jpg?s=e5ce5529e475630a7db4724395b083e8"
+  },
+  {
+    "name": "Cyn Lee",
+    "prompt": "Cyn Lee from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/560388.jpg?s=f1702414133e89f7d6ae15d899a4e051"
+  },
+  {
+    "name": "Darkrai",
+    "prompt": "Darkrai from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/120772.jpg?s=9773798c2c28d205b8ecf442d11bca53"
+  },
+  {
+    "name": "Dedenne",
+    "prompt": "Dedenne from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/499406.jpg?s=66e5d9f0e3b451961b6a93677dfff68e"
+  },
+  {
+    "name": "Diguda",
+    "prompt": "Diguda from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/484756.jpg?s=932bbf90709df207050b91d376212f28"
+  },
+  {
+    "name": "Doble",
+    "prompt": "Doble from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/576058.jpg?s=cacaf86e91d1b0f00bb9cb9e2d51c785"
+  },
+  {
+    "name": "Doctor Platane",
+    "prompt": "Doctor Platane from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/463666.jpg?s=ad4b8c1f91a9b8d699149227eb114825"
+  },
+  {
+    "name": "Dodrio",
+    "prompt": "Dodrio from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/498610.jpg?s=b74edca1637f7feed5971bd023594512"
+  },
+  {
+    "name": "Doduo",
+    "prompt": "Doduo from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/498609.jpg?s=a2f63d9763b30adaf8a034c1f25ec7b5"
+  },
+  {
+    "name": "Ed",
+    "prompt": "Ed from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/322513.jpg?s=2ceac1b59546aad5fcba469a625bd5ff"
+  },
+  {
+    "name": "Eievui",
+    "prompt": "Eievui from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/359157.jpg?s=0cbdbf1b3d11a3949cb9aec6d03ba650"
+  },
+  {
+    "name": "Eifie",
+    "prompt": "Eifie from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/504426.jpg?s=07f50dbf80adbacdc001d4aa56c37ccf"
+  },
+  {
+    "name": "Elle",
+    "prompt": "Elle from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/264743.jpg?s=a79e0abe41ddc6e9ba28e8202a56f07e"
+  },
+  {
+    "name": "Elma",
+    "prompt": "Elma from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/560303.jpg?s=377ea16d7aedcd67166adcb097f5f1ca"
+  },
+  {
+    "name": "Emonga",
+    "prompt": "Emonga from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/504431.jpg?s=131c3879610241a97419c8465573f4cd"
+  },
+  {
+    "name": "Eneko",
+    "prompt": "Eneko from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/517163.jpg?s=bdc3cda13c0f7709f43cc570f09aee7b"
+  },
+  {
+    "name": "Fire",
+    "prompt": "Fire from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/453721.jpg?s=2eda7b2c0db3a079c2be9408ce3ee2d4"
+  },
+  {
+    "name": "Fleur-de-lis",
+    "prompt": "Fleur-de-lis from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/370173.jpg?s=0825a2be96c3f09519fd4d70b587398c"
+  },
+  {
+    "name": "Fokko",
+    "prompt": "Fokko from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/521893.jpg?s=c5ba55b1a3a2bf0864ec1fb5913b18ce"
+  },
+  {
+    "name": "Freezer",
+    "prompt": "Freezer from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/393186.jpg?s=3676f432dd404892d1fb72ce119c7704"
+  },
+  {
+    "name": "Fukuji",
+    "prompt": "Fukuji from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/315675.jpg?s=d67328f1d4296d2db299924434de99d3"
+  },
+  {
+    "name": "Fushigibana",
+    "prompt": "Fushigibana from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/497451.jpg?s=5f7350c8f01d5365fcce698ff715ce52"
+  },
+  {
+    "name": "Fushigisou",
+    "prompt": "Fushigisou from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/497450.jpg?s=cb15aaf8910b161c75e4be96ac1de61c"
+  },
+  {
+    "name": "Gaburiasu",
+    "prompt": "Gaburiasu from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/498081.jpg?s=b09110d6c311d7500faf00434534c453"
+  },
+  {
+    "name": "Gekkouga",
+    "prompt": "Gekkouga from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/482544.jpg?s=d163ecac63db0172821090188210d7e4"
+  },
+  {
+    "name": "Gengar",
+    "prompt": "Gengar from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497724.jpg?s=5e6079f80a75912bc0139b8a95dc54fa"
+  },
+  {
+    "name": "Gogoat",
+    "prompt": "Gogoat from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/564518.jpg?s=2496da497dda4a9e3e6a407a051a6bdd"
+  },
+  {
+    "name": "Gojika",
+    "prompt": "Gojika from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/315212.jpg?s=161445b9f5c700e6656c0a4d92fdc07a"
+  },
+  {
+    "name": "Goriki",
+    "prompt": "Goriki from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/497605.jpg?s=a37679a4a60feb23a4f13033dca0e008"
+  },
+  {
+    "name": "Gothiruselle",
+    "prompt": "Gothiruselle from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/591797.jpg?s=567b684989f204574c5fa7abe8d83042"
+  },
+  {
+    "name": "Graena",
+    "prompt": "Graena from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/500159.jpg?s=d00a3061d666068f71743713c3dfe736"
+  },
+  {
+    "name": "Groudon",
+    "prompt": "Groudon from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/500162.jpg?s=cc6d6f057f1e207858e32e3ba3c10127"
+  },
+  {
+    "name": "Gyarados",
+    "prompt": "Gyarados from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/528249.jpg?s=a62ca3c62d1d023218389e1337abb3ec"
+  },
+  {
+    "name": "Hakuryuu",
+    "prompt": "Hakuryuu from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/498076.jpg?s=1fb53fac19645777282b7694f36549a1"
+  },
+  {
+    "name": "Hanako",
+    "prompt": "Hanako from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/506992.jpg?s=0229e1b6818ea34136d09d24e8e744f6"
+  },
+  {
+    "name": "Hanzou",
+    "prompt": "Hanzou from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/328438.jpg?s=5c690ad64eedf485a194e1a47f36ebb5"
+  },
+  {
+    "name": "Harimaron",
+    "prompt": "Harimaron from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/535095.jpg?s=d9a13909ce4ac6e3c220c8299283977a"
+  },
+  {
+    "name": "Hassam",
+    "prompt": "Hassam from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/499968.jpg?s=0237d72ef33cfa6a0945c16aa8be0bee"
+  },
+  {
+    "name": "Hassboh",
+    "prompt": "Hassboh from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/534554.jpg?s=3c8bcf4b92b975cb27f3385bcca1e824"
+  },
+  {
+    "name": "Head Nurse",
+    "prompt": "Head Nurse from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/322508.jpg?s=1d33ce82e77264e99ecc0042e6491ee2"
+  },
+  {
+    "name": "Heidayuu",
+    "prompt": "Heidayuu from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/322723.jpg?s=bf46427b7c30771026c2a0da902a4b6b"
+  },
+  {
+    "name": "Hiro",
+    "prompt": "Hiro from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/322589.jpg?s=267b3f9ef95df80a401e6ce19ec4bec8"
+  },
+  {
+    "name": "Horubee",
+    "prompt": "Horubee from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/576093.jpg?s=c4dd0904b76f04e394d0f6e808767475"
+  },
+  {
+    "name": "Ichigaya",
+    "prompt": "Ichigaya from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/329201.jpg?s=134a47249a7ee5c8e01b5d97d459f0dd"
+  },
+  {
+    "name": "Ippei",
+    "prompt": "Ippei from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/322505.jpg?s=5bcddeac757b81bc57d0e3b430559049"
+  },
+  {
+    "name": "Jimmy",
+    "prompt": "Jimmy from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/313597.jpg?s=405c8075f29e965e5d3c0a9c98e87fff"
+  },
+  {
+    "name": "Joy",
+    "prompt": "Joy from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/215001.jpg?s=4709a6ce2788588427805e93172b07e7"
+  },
+  {
+    "name": "Jukain",
+    "prompt": "Jukain from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/504428.jpg?s=4fc844286eea770a78fe10c391b2d1e8"
+  },
+  {
+    "name": "Junsa",
+    "prompt": "Junsa from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/84019.jpg?s=b533f0a782484bfd2d5c1fc40b1a3425"
+  },
+  {
+    "name": "Juptile",
+    "prompt": "Juptile from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/461361.jpg?s=83e12b1879e08411bb79ff28987d3c69"
+  },
+  {
+    "name": "Kabigon",
+    "prompt": "Kabigon from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/497183.jpg?s=4d001fb246af762fcbc30233cfb4c5ba"
+  },
+  {
+    "name": "Kagetomo",
+    "prompt": "Kagetomo from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/322502.jpg?s=f91efbcc378e851d3e07b9de879ad46e"
+  },
+  {
+    "name": "Kairiki",
+    "prompt": "Kairiki from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/497612.jpg?s=1ba68cd71979517efb37db292d21ba5e"
+  },
+  {
+    "name": "Kamex",
+    "prompt": "Kamex from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/497455.jpg?s=be5b72efb98a91b4f2075fd9831c75aa"
+  },
+  {
+    "name": "Kamonegi",
+    "prompt": "Kamonegi from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/497611.jpg?s=09b34b0bf0b66ace21f1fac9cfe0e947"
+  },
+  {
+    "name": "Karakara",
+    "prompt": "Karakara from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/531399.jpg?s=0507a619ae7e5bb8aece032f524cd864"
+  },
+  {
+    "name": "Kazarii",
+    "prompt": "Kazarii from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/560318.jpg?s=b5b2554e40be08dbac8226a2d384ab40"
+  },
+  {
+    "name": "Kenzou",
+    "prompt": "Kenzou from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/326518.jpg?s=5b125f95d5f2e5c55f5e06ba58360d7f"
+  },
+  {
+    "name": "Kirika",
+    "prompt": "Kirika from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/560315.jpg?s=e8cd12c877f5ad6cac5403d3ce7753cd"
+  },
+  {
+    "name": "Koaruhie",
+    "prompt": "Koaruhie from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/565078.jpg?s=4b28a4300f5bf4c3e96c2f68321dd690"
+  },
+  {
+    "name": "Kobushi",
+    "prompt": "Kobushi from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/322512.jpg?s=c76b4df9b06bd69d22d4295a8de8dceb"
+  },
+  {
+    "name": "Koduck",
+    "prompt": "Koduck from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497610.jpg?s=32c4d310209acd8b14c3fe390b16ce0c"
+  },
+  {
+    "name": "Kojirou",
+    "prompt": "Kojirou from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/502950.jpg?s=c2fd0729a93d9635e946946b3d49e5b2"
+  },
+  {
+    "name": "Koratta",
+    "prompt": "Koratta from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/498475.jpg?s=8705af4423acafef2593f11f28f92881"
+  },
+  {
+    "name": "Laplace",
+    "prompt": "Laplace from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/504790.jpg?s=b8ebdbc6f45ccdb2b0022c8b010a1e17"
+  },
+  {
+    "name": "Lilia",
+    "prompt": "Lilia from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/311313.jpg?s=ecbe8bf81315f5d70e31b9ed9db43035"
+  },
+  {
+    "name": "Lily",
+    "prompt": "Lily from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/560321.jpg?s=e6c0b1f433309cfd0cda0fb48572e5d6"
+  },
+  {
+    "name": "Limone",
+    "prompt": "Limone from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/290485.jpg?s=bccbc8442b604b487a3f22cf4c5c68c8"
+  },
+  {
+    "name": "Lizardo",
+    "prompt": "Lizardo from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/497452.jpg?s=7b3c36f755c70aeba57c1a51696390c1"
+  },
+  {
+    "name": "Lizardon",
+    "prompt": "Lizardon from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/497453.jpg?s=4ac403651eb19d691c4dd36ef2848119"
+  },
+  {
+    "name": "Louie",
+    "prompt": "Louie from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/241633.jpg?s=467542f4264c2de88e956d4bd4c7cf58"
+  },
+  {
+    "name": "Lucario",
+    "prompt": "Lucario from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/472877.jpg?s=212f1dd46cb5945a1671db3bc2fc32f8"
+  },
+  {
+    "name": "Mache",
+    "prompt": "Mache from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/350940.jpg?s=c66c1b880046c009749b55b20f0775bb"
+  },
+  {
+    "name": "Mahoxy",
+    "prompt": "Mahoxy from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/538658.jpg?s=ca689f9f81e1f491fa6bc83efa921b94"
+  },
+  {
+    "name": "Makunoshita",
+    "prompt": "Makunoshita from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/560253.jpg?s=22f587b37dd4d10af9884648886704fb"
+  },
+  {
+    "name": "Manene",
+    "prompt": "Manene from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/576082.jpg?s=375265d7901679b77d245cbab214e1a9"
+  },
+  {
+    "name": "Manon",
+    "prompt": "Manon from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/241491.jpg?s=122de65be7c8245c8d9ef878fd8747e4"
+  },
+  {
+    "name": "Matori",
+    "prompt": "Matori from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/116112.jpg?s=71b115df4be530f6e5ddc5d9c67a11ee"
+  },
+  {
+    "name": "Melecie",
+    "prompt": "Melecie from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/493945.jpg?s=e237afce4081482a2758f9100a82bb3d"
+  },
+  {
+    "name": "Metagross",
+    "prompt": "Metagross from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/498082.jpg?s=d2f2d6a42c3c69559f29df1c2684e965"
+  },
+  {
+    "name": "Metamon",
+    "prompt": "Metamon from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/470442.jpg?s=94010b7b906e181f316030be0e5132ec"
+  },
+  {
+    "name": "Millefeui",
+    "prompt": "Millefeui from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/307798.jpg?s=ac5c2f4a267aca5cdac307ef1ccf020b"
+  },
+  {
+    "name": "Minami",
+    "prompt": "Minami from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/338213.jpg?s=d4c4e06cc6f0b11eddb2a74177e78837"
+  },
+  {
+    "name": "Minun",
+    "prompt": "Minun from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/500161.jpg?s=420521594afa546b563fc6d48b32174a"
+  },
+  {
+    "name": "Momiji",
+    "prompt": "Momiji from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/314255.jpg?s=b6a60fb6c483b18e4a0bdca2a4f85b78"
+  },
+  {
+    "name": "Monsieur Pierre",
+    "prompt": "Monsieur Pierre from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/310772.jpg?s=e01504bf02d1395ea00de40200b933bc"
+  },
+  {
+    "name": "Muchul",
+    "prompt": "Muchul from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/499404.jpg?s=3bcc8c61b1a5695c1c1a4c64861e962e"
+  },
+  {
+    "name": "Musashi",
+    "prompt": "Musashi from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/278096.jpg?s=051ae458066175cfe4bf0f07bb2df11d"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/511553.jpg?s=a57d2a41fe40f1e203b06d3d9218f4b5"
+  },
+  {
+    "name": "Nazonokusa",
+    "prompt": "Nazonokusa from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/484759.jpg?s=093b715e2b91ca9b9805f85abe17243e"
+  },
+  {
+    "name": "Nene",
+    "prompt": "Nene from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/356292.jpg?s=f2c0ad24e5de1a5b9ee29147cc9e1d90"
+  },
+  {
+    "name": "Nidoqueen",
+    "prompt": "Nidoqueen from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/498479.jpg?s=bc78a4fa00b972288487268097a21da7"
+  },
+  {
+    "name": "Nidoran♀",
+    "prompt": "Nidoran♀ from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/498477.jpg?s=b21147508be30ff8384e65f75e2d3870"
+  },
+  {
+    "name": "Nidoran♂",
+    "prompt": "Nidoran♂ from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/497583.jpg?s=395b7817e466f4d16f3316790e71a791"
+  },
+  {
+    "name": "Nihei",
+    "prompt": "Nihei from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/322756.jpg?s=7043abbee47c163794cb837831f6a6f0"
+  },
+  {
+    "name": "Nyarth",
+    "prompt": "Nyarth from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/131981.jpg?s=d7734d4cd42e72435749110ba1953798"
+  },
+  {
+    "name": "Nyasper",
+    "prompt": "Nyasper from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/521894.jpg?s=e1cf73ddf91e89543e312795da5658a0"
+  },
+  {
+    "name": "Nymphia",
+    "prompt": "Nymphia from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/517164.jpg?s=4764648954543eed08045d06faa1b6ae"
+  },
+  {
+    "name": "Nyoromo",
+    "prompt": "Nyoromo from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/497646.jpg?s=af5553d5f9754084049367299beca227"
+  },
+  {
+    "name": "Nyorotono",
+    "prompt": "Nyorotono from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/578828.jpg?s=40d7a0e3e78bdab7838655771f8818fa"
+  },
+  {
+    "name": "Nyorozo",
+    "prompt": "Nyorozo from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/498601.jpg?s=445e8e5155ff4232c118100763559764"
+  },
+  {
+    "name": "Ookido, Yukinari",
+    "prompt": "Ookido, Yukinari from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/101947.jpg?s=01478fadc2b8b7238e03d3612a3a731e"
+  },
+  {
+    "name": "Pachira",
+    "prompt": "Pachira from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/324675.jpg?s=9345ab9e2e9498cc60ae7f754cfab442"
+  },
+  {
+    "name": "Pachirisu",
+    "prompt": "Pachirisu from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/569095.jpg?s=989930b6f8bb43c54e4e125176f8e5fa"
+  },
+  {
+    "name": "Pansy",
+    "prompt": "Pansy from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/336379.jpg?s=d04ebd36b1cad858b95441cd2150dbbb"
+  },
+  {
+    "name": "Plusle",
+    "prompt": "Plusle from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/500160.jpg?s=24cb7ca6139724bdd9cf6b964bc8298c"
+  },
+  {
+    "name": "Pochiena",
+    "prompt": "Pochiena from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/500158.jpg?s=b36b08861ebfc9b3e600e48cbcf4da5e"
+  },
+  {
+    "name": "Pokemon Zukan",
+    "prompt": "Pokemon Zukan from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/284318.jpg?s=bdc8446c95348fbb93324d4e51edb3de"
+  },
+  {
+    "name": "Poppo",
+    "prompt": "Poppo from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/498326.jpg?s=7195d699709848dc904ab88508b63f75"
+  },
+  {
+    "name": "Ptera",
+    "prompt": "Ptera from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/528819.jpg?s=ffd21ba50b389008e6430ff61d05d2d3"
+  },
+  {
+    "name": "Pukurin",
+    "prompt": "Pukurin from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/497161.jpg?s=1d0cd3ff5a7a74fe495ff8d292375ac4"
+  },
+  {
+    "name": "Purin",
+    "prompt": "Purin from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/528822.jpg?s=aaad9673df1819b8cb009ffb603b8e7d"
+  },
+  {
+    "name": "Queenko",
+    "prompt": "Queenko from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/560385.jpg?s=21ede2d8bb5d97c46cc60264c42f351c"
+  },
+  {
+    "name": "Raichu",
+    "prompt": "Raichu from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/508206.jpg?s=b8dc05fbdcfcb5510891c1f6af1006dc"
+  },
+  {
+    "name": "Runpappa",
+    "prompt": "Runpappa from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/576081.jpg?s=25e31961856e14d01f1d19e52678b110"
+  },
+  {
+    "name": "Saizou",
+    "prompt": "Saizou from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/322503.jpg?s=4832e397e232078352676bc040911a2d"
+  },
+  {
+    "name": "Sakaki",
+    "prompt": "Sakaki from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/222133.jpg?s=b6503c67934b3c802476cc661913c35b"
+  },
+  {
+    "name": "Saki",
+    "prompt": "Saki from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/295067.jpg?s=8430badc4d31a7f6a1f1d3ea044cae79"
+  },
+  {
+    "name": "Sana",
+    "prompt": "Sana from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/254667.jpg?s=b0d8c25c1136cc39cba973f24ea2ae25"
+  },
+  {
+    "name": "Sanpei",
+    "prompt": "Sanpei from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/237057.jpg?s=ea6d76fb8e5fa576e05a0b54a5f1f1ac"
+  },
+  {
+    "name": "Shinobu",
+    "prompt": "Shinobu from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/322507.jpg?s=d64b46faddfd348ff2c3814b080ec528"
+  },
+  {
+    "name": "Shione",
+    "prompt": "Shione from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/560290.jpg?s=b4eadf6b90ed56b9a71b7d2699253872"
+  },
+  {
+    "name": "Shouta",
+    "prompt": "Shouta from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/300266.jpg?s=f49770cbaeb420d103be856e2455e3ce"
+  },
+  {
+    "name": "Shulin",
+    "prompt": "Shulin from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/514570.jpg?s=d625a95c4ae25acde1d4bd95cd54c05d"
+  },
+  {
+    "name": "Soonansu",
+    "prompt": "Soonansu from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/391861.jpg?s=b56eadae29d5aea53f07fc8aed666ec4"
+  },
+  {
+    "name": "Sophie",
+    "prompt": "Sophie from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/560391.jpg?s=7511cf324057350ccef891733366ffb8"
+  },
+  {
+    "name": "Stan",
+    "prompt": "Stan from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/329259.jpg?s=3fff4ca9264f5032ec7b1d46b4b0f36e"
+  },
+  {
+    "name": "Takeru",
+    "prompt": "Takeru from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/313623.jpg?s=22ceac6f9d71638d7b9045152e3573ba"
+  },
+  {
+    "name": "Thunder",
+    "prompt": "Thunder from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/421556.jpg?s=e8cb8deaa2ad148c2d915816a52228a7"
+  },
+  {
+    "name": "Tierno",
+    "prompt": "Tierno from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/254669.jpg?s=5e7e9d86c3e0971cc1ad0fa0b6ee41b3"
+  },
+  {
+    "name": "Tomo",
+    "prompt": "Tomo from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/319331.jpg?s=5c90a9d440653e56f74e7a2459dbbb15"
+  },
+  {
+    "name": "Trova",
+    "prompt": "Trova from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/254671.jpg?s=e6a70379abe9571bf258e7e10abc3b17"
+  },
+  {
+    "name": "Tsutomu",
+    "prompt": "Tsutomu from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/322509.jpg?s=8bfa82eecef4e89eb7df3475de7edc3a"
+  },
+  {
+    "name": "Tsuwabuki, Daigo",
+    "prompt": "Tsuwabuki, Daigo from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/469813.jpg?s=a42baadf317f7d5609ccf84d6aeb93be"
+  },
+  {
+    "name": "Upah",
+    "prompt": "Upah from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/484755.jpg?s=c9fcc5f37870b668fd26c3fc7a9188be"
+  },
+  {
+    "name": "Urup",
+    "prompt": "Urup from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/313707.jpg?s=b4b23d5ea4b1cf5b27d789373adc6aa6"
+  },
+  {
+    "name": "Usohachi",
+    "prompt": "Usohachi from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/560252.jpg?s=b740c495a33bdc57d1f6457abf2a6b12"
+  },
+  {
+    "name": "Viola",
+    "prompt": "Viola from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/225105.jpg?s=ac88a22e6e5918ebbf88fa1e85d61bff"
+  },
+  {
+    "name": "Wanriki",
+    "prompt": "Wanriki from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/560251.jpg?s=909d0cd0f891d7b6fd9cb31f403eee8f"
+  },
+  {
+    "name": "Xerosicy",
+    "prompt": "Xerosicy from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/327769.jpg?s=e242257f347b2e3ad6b242b7878cd0a7"
+  },
+  {
+    "name": "Yamikarasu",
+    "prompt": "Yamikarasu from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/581092.jpg?s=987f0138d145468a17bfec178881eeca"
+  },
+  {
+    "name": "Yanappu",
+    "prompt": "Yanappu from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/521892.jpg?s=95e38a6fb6dd70afcc87ee235b553d2e"
+  },
+  {
+    "name": "Yancham",
+    "prompt": "Yancham from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/497582.jpg?s=8253ff84403b4c0961353544dc4b5bdf"
+  },
+  {
+    "name": "Yashio",
+    "prompt": "Yashio from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/325045.jpg?s=b4126e6afc222b321fe3d0fc87b25ee9"
+  },
+  {
+    "name": "Zakuro",
+    "prompt": "Zakuro from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/241429.jpg?s=a9cf60e0fa40f83bfbb3f91fa2b14107"
+  },
+  {
+    "name": "Zumi",
+    "prompt": "Zumi from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/350272.jpg?s=8b277a13c91e2624d08a37dbbb256149"
+  },
+  {
+    "name": "Zuruggu",
+    "prompt": "Zuruggu from Pokemon XY&Z",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/470443.jpg?s=9bad4a169257b4f7947d9d88ca8360bf"
+  }
+]

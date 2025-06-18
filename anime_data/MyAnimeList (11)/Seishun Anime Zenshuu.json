@@ -1,0 +1,992 @@
+[
+  {
+    "name": "Aikawa, Goichi",
+    "prompt": "Aikawa, Goichi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/582556.jpg?s=97f3bde6bb9eca0f22d6553e99328f82"
+  },
+  {
+    "name": "Akechi, Kogorou",
+    "prompt": "Akechi, Kogorou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/584821.jpg?s=0fa8456af8390fcbff2adf123828e068"
+  },
+  {
+    "name": "Aonari, Hyoukichi",
+    "prompt": "Aonari, Hyoukichi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/583722.jpg?s=e5522699961b6165b256a7ac84f10d06"
+  },
+  {
+    "name": "Botchan",
+    "prompt": "Botchan from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/581592.jpg?s=3c2912880a8232f4f1ee19fcbc317824"
+  },
+  {
+    "name": "Fukiya, Seiichirou",
+    "prompt": "Fukiya, Seiichirou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/585199.jpg?s=dafab420f8f3024462b3439eb759ab27"
+  },
+  {
+    "name": "Fumiko",
+    "prompt": "Fumiko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hisao",
+    "prompt": "Hisao from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/586309.jpg?s=a346c210ea2dafa3f0f48e44730a7f11"
+  },
+  {
+    "name": "Houichi",
+    "prompt": "Houichi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/583056.jpg?s=2c2ac5bc7512264e0b5563c42112b376"
+  },
+  {
+    "name": "Izumi, Eiko",
+    "prompt": "Izumi, Eiko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/583832.jpg?s=5d1c95e09169241a66ef2beb1ed8e236"
+  },
+  {
+    "name": "Kaji, Ayuta",
+    "prompt": "Kaji, Ayuta from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/582399.jpg?s=c5ab9485a06fc51c4f25b4a59f332fae"
+  },
+  {
+    "name": "Kaoru",
+    "prompt": "Kaoru from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/580823.jpg?s=a8d8f07c8e9a734fba9a4c1b84bfa673"
+  },
+  {
+    "name": "Kasai, Ryuuichi",
+    "prompt": "Kasai, Ryuuichi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/583552.jpg?s=1b61ed28818012e9d643ad4211036f79"
+  },
+  {
+    "name": "Kasai, Kyouko",
+    "prompt": "Kasai, Kyouko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/583553.jpg?s=8c1b3d63e644030ee4cfc10ad33da317"
+  },
+  {
+    "name": "Kasai, Yoshiko",
+    "prompt": "Kasai, Yoshiko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/583613.jpg?s=f97540ab6ee312f73cbe35e63625bcb0"
+  },
+  {
+    "name": "Kenkichi",
+    "prompt": "Kenkichi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/586411.jpg?s=a96ca0ea47fcc97057491f718ceb9f24"
+  },
+  {
+    "name": "Kichizou",
+    "prompt": "Kichizou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/586310.jpg?s=78e8857a216ad8dfd550d68e6ba5ace0"
+  },
+  {
+    "name": "Kobayashi, Monzou",
+    "prompt": "Kobayashi, Monzou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/584820.jpg?s=561baa2f5c2476bbabd17cf60feef19e"
+  },
+  {
+    "name": "Kubo, Shinji",
+    "prompt": "Kubo, Shinji from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/580908.jpg?s=7056f0a4eb1ace8c61ea636ef526631d"
+  },
+  {
+    "name": "Lieutenant Inoue",
+    "prompt": "Lieutenant Inoue from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/584686.jpg?s=bd1c060de30f6795d731476ddbc10d01"
+  },
+  {
+    "name": "Lorenzo",
+    "prompt": "Lorenzo from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/586115.jpg?s=53d31a25b5b42e3f23a98b89fa6f45e2"
+  },
+  {
+    "name": "Miyata, Hatsue",
+    "prompt": "Miyata, Hatsue from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/580907.jpg?s=ad706d7e6cdba406c47ae0bb7a4855ec"
+  },
+  {
+    "name": "Mizushima, Yasuhiko",
+    "prompt": "Mizushima, Yasuhiko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/584656.jpg?s=795bba7416a7e4962ccf88ebcf13c243"
+  },
+  {
+    "name": "Mizushima",
+    "prompt": "Mizushima from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/580829.jpg?s=ee20bd5d14edd02e04ad0c0abaf8991a"
+  },
+  {
+    "name": "Mr. Nakakita",
+    "prompt": "Mr. Nakakita from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/583607.jpg?s=42b048d582054197bccd60dda590194c"
+  },
+  {
+    "name": "Mrs. Nakakita",
+    "prompt": "Mrs. Nakakita from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/583605.jpg?s=7be515da7d6df09bf5c85fd5a3a9a85f"
+  },
+  {
+    "name": "Nojima",
+    "prompt": "Nojima from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/586413.jpg?s=417c3bcdfcfb7fafba28ad9a3aaac51e"
+  },
+  {
+    "name": "Okoto",
+    "prompt": "Okoto from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/584032.jpg?s=7e2e884a7d5279d118cbeb8856f5292d"
+  },
+  {
+    "name": "Oota, Toyotarou",
+    "prompt": "Oota, Toyotarou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/581988.jpg?s=a7bbd417c65d15cd1c89e33f31cf0ba7"
+  },
+  {
+    "name": "Saeko",
+    "prompt": "Saeko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/582398.jpg?s=cef4f286692dc7bfd5d746bc4497f51f"
+  },
+  {
+    "name": "Saito, Masao",
+    "prompt": "Saito, Masao from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/581079.jpg?s=729ebb589852f1e95f95bd41e697f169"
+  },
+  {
+    "name": "Sasuke",
+    "prompt": "Sasuke from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/584033.jpg?s=3a815b3e63f01fce9e8697f139e7c08e"
+  },
+  {
+    "name": "Shinnyo",
+    "prompt": "Shinnyo from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/582708.jpg?s=869b600c0d560aede42f31b2b8bd2fd4"
+  },
+  {
+    "name": "Sugata, Sanshirou",
+    "prompt": "Sugata, Sanshirou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/584199.jpg?s=1028972aa0f01401bdfbb6b407538c53"
+  },
+  {
+    "name": "Sugiko",
+    "prompt": "Sugiko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/586414.jpg?s=73f941d73efb219fb50a66064f327c0b"
+  },
+  {
+    "name": "Sumiko",
+    "prompt": "Sumiko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/586410.jpg?s=ce57fcedaac8fcaeb020792140e200f7"
+  },
+  {
+    "name": "Tamiko",
+    "prompt": "Tamiko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/581080.jpg?s=e7db0afa309f15bf80a00fefefb79f13"
+  },
+  {
+    "name": "The Priest",
+    "prompt": "The Priest from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/582883.jpg?s=ca51adf2ff48f055b4d8ae090d063e60"
+  },
+  {
+    "name": "Tsugawa, Tatsuya",
+    "prompt": "Tsugawa, Tatsuya from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/583833.jpg?s=75adf888bcab170c2212006b2640a098"
+  },
+  {
+    "name": "Watashi",
+    "prompt": "Watashi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/581429.jpg?s=ead2b97a554ebf0503cef17a566b973c"
+  },
+  {
+    "name": "Wiegert, Elise",
+    "prompt": "Wiegert, Elise from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/581993.jpg?s=aa96683179d250ae98924d839d710b18"
+  },
+  {
+    "name": "11th Floor Resident",
+    "prompt": "11th Floor Resident from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/583546.jpg?s=3abbb8ebb0d3de01a928a11d6055925c"
+  },
+  {
+    "name": "1st Class Abe",
+    "prompt": "1st Class Abe from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "1st Class Maruyama",
+    "prompt": "1st Class Maruyama from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "1st Class Okada",
+    "prompt": "1st Class Okada from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Aizawa, Kenkichi",
+    "prompt": "Aizawa, Kenkichi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/581991.jpg?s=46d8fecb45a3281fc0e6aad99460c1c3"
+  },
+  {
+    "name": "Aonari, Hyotarou",
+    "prompt": "Aonari, Hyotarou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/583721.jpg?s=d3e53e1da848d7537702147ad04b2283"
+  },
+  {
+    "name": "Aonari, Omine",
+    "prompt": "Aonari, Omine from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/583715.jpg?s=e662c8c56037b97dbe383f099a738229"
+  },
+  {
+    "name": "Attaché",
+    "prompt": "Attaché from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Aunt",
+    "prompt": "Aunt from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/582578.jpg?s=9ac87ac7e70b981db56579bb26acee8a"
+  },
+  {
+    "name": "Bunji",
+    "prompt": "Bunji from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/582705.jpg?s=f86e0f2db93e3e0a6194fb1705abe343"
+  },
+  {
+    "name": "Burmese Boy",
+    "prompt": "Burmese Boy from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/584684.jpg?s=f077c9cece789aba22db2e1c0fdafa61"
+  },
+  {
+    "name": "Captain",
+    "prompt": "Captain from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/581019.jpg?s=ee02591f7aacdbd6e04a7466266cdbfa"
+  },
+  {
+    "name": "Chief Priest",
+    "prompt": "Chief Priest from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/583052.jpg?s=99f0bfc464d3bbd69fa9824e094bb2ae"
+  },
+  {
+    "name": "Chief Takajima",
+    "prompt": "Chief Takajima from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/580913.jpg?s=1b3fefbbaf1d0bc6aaa9e645fb0b8599"
+  },
+  {
+    "name": "Chikamatsu",
+    "prompt": "Chikamatsu from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Chiyoko",
+    "prompt": "Chiyoko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/580848.jpg?s=2a68fe8133d09b6bb2b99cd8b191c00f"
+  },
+  {
+    "name": "Choukichi",
+    "prompt": "Choukichi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/582707.jpg?s=0fc011a7ff977116a8c8ae7b1205e750"
+  },
+  {
+    "name": "Chusuke",
+    "prompt": "Chusuke from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/582579.jpg?s=a0432886f1306f38a0d8a870c74e9387"
+  },
+  {
+    "name": "Doctor",
+    "prompt": "Doctor from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/581989.jpg?s=92b0fde394406912bcc0e136a3c12451"
+  },
+  {
+    "name": "Eda",
+    "prompt": "Eda from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Eikichi",
+    "prompt": "Eikichi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/580828.jpg?s=026b7b1a49ff48310b0e76a7671e8951"
+  },
+  {
+    "name": "Elise's Mother",
+    "prompt": "Elise's Mother from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/581992.jpg?s=5cf27a196ed8706cd545bb6abfde6e85"
+  },
+  {
+    "name": "Endou, Ichirou",
+    "prompt": "Endou, Ichirou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/584819.jpg?s=ae2f85d913ef57b088acb83d0fdea74f"
+  },
+  {
+    "name": "Examiner",
+    "prompt": "Examiner from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/586400.jpg?s=f5aeb9dea98629e9021549966f5a58d4"
+  },
+  {
+    "name": "Farmer",
+    "prompt": "Farmer from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/582878.jpg?s=9d3df95742610bd95dc084125ad7af72"
+  },
+  {
+    "name": "Fukuno, Akitarou",
+    "prompt": "Fukuno, Akitarou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/582574.jpg?s=16fc04b5a3b9a9fdbcb7aa2aecd2ef44"
+  },
+  {
+    "name": "Fukuno, Kihei",
+    "prompt": "Fukuno, Kihei from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/582577.jpg?s=4fc3b962be9fa75bd45e1740bb0932be"
+  },
+  {
+    "name": "Fumiko's Father",
+    "prompt": "Fumiko's Father from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Fumiko's Mother",
+    "prompt": "Fumiko's Mother from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Gouda, Saburou",
+    "prompt": "Gouda, Saburou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/584822.jpg?s=b22b6d067fc81962d3c3eecf1a07751d"
+  },
+  {
+    "name": "Grandma",
+    "prompt": "Grandma from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/584655.jpg?s=9816ff0b0c8292e20f108d6a01d01fba"
+  },
+  {
+    "name": "Guest",
+    "prompt": "Guest from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/583054.jpg?s=f43d5440ee246b1b8850bbbffbac0e33"
+  },
+  {
+    "name": "Hamada, Ryuuji",
+    "prompt": "Hamada, Ryuuji from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/581020.jpg?s=6458c96078f300a1785a2c1b69b301fb"
+  },
+  {
+    "name": "Hamako",
+    "prompt": "Hamako from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/582401.jpg?s=d1bda681576ec3ad3d3577a61b2688c4"
+  },
+  {
+    "name": "Hatsue",
+    "prompt": "Hatsue from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/581083.jpg?s=137ecfccf1981cd222dfb3f3decc9c5b"
+  },
+  {
+    "name": "Hayakawa",
+    "prompt": "Hayakawa from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/586417.jpg?s=cbc3f00ee7399401f25edccb333cfe82"
+  },
+  {
+    "name": "Headmaster",
+    "prompt": "Headmaster from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/586401.jpg?s=87909f937aadd65cd44273e39f2f5c45"
+  },
+  {
+    "name": "Higaki, Gennosuke",
+    "prompt": "Higaki, Gennosuke from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/584195.jpg?s=58615c844ec08450597a6d8913a94edc"
+  },
+  {
+    "name": "High School Student",
+    "prompt": "High School Student from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/586388.jpg?s=bab477ee8b8dc486fbca8ee7b1644e25"
+  },
+  {
+    "name": "Host",
+    "prompt": "Host from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/583053.jpg?s=a2cf6f43d393877200b764e51dcbd1ac"
+  },
+  {
+    "name": "Housewife",
+    "prompt": "Housewife from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/583543.jpg?s=47784fc9bf578d8fb18cc00affafc445"
+  },
+  {
+    "name": "Housewife B",
+    "prompt": "Housewife B from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/583542.jpg?s=9a6d68c9fbac0e34e483791886f035d2"
+  },
+  {
+    "name": "Hunter",
+    "prompt": "Hunter from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/586311.jpg?s=f2885405b1265d60a53bdb0d5d347127"
+  },
+  {
+    "name": "Ikagin",
+    "prompt": "Ikagin from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/581664.jpg?s=973004091b0cb97d96889dddc83b903c"
+  },
+  {
+    "name": "Indian Soldier #1",
+    "prompt": "Indian Soldier #1 from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/584682.jpg?s=855abf790913cce50bc0a9ac0302cada"
+  },
+  {
+    "name": "Indian Soldier #2",
+    "prompt": "Indian Soldier #2 from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/584683.jpg?s=85ab5ce624efc1f5058207ead6ced9f9"
+  },
+  {
+    "name": "Ine",
+    "prompt": "Ine from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/586117.jpg?s=f58cc5a710257b45bcf9026f05906c9b"
+  },
+  {
+    "name": "Kane",
+    "prompt": "Kane from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/581084.jpg?s=37076d47d3363e071119941fddd41fac"
+  },
+  {
+    "name": "Kanpei",
+    "prompt": "Kanpei from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/583723.jpg?s=adca403993744132733aedcede389048"
+  },
+  {
+    "name": "Kashima",
+    "prompt": "Kashima from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/582402.jpg?s=a18fab2152cc9b725ea42f3f66bf98b3"
+  },
+  {
+    "name": "Katsukichi",
+    "prompt": "Katsukichi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kawamoto, Yasuo",
+    "prompt": "Kawamoto, Yasuo from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/580910.jpg?s=b4c5058450247d82fd2e9a76a0cb386a"
+  },
+  {
+    "name": "Kenji",
+    "prompt": "Kenji from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/586404.jpg?s=08bf36fd7313aa4aa6396b8d5b5af8d6"
+  },
+  {
+    "name": "Kenkichi's Brother-in-Law",
+    "prompt": "Kenkichi's Brother-in-Law from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/586403.jpg?s=e4c0e1eb1795c58de04e84bedad7cb48"
+  },
+  {
+    "name": "Kenkichi's Sister",
+    "prompt": "Kenkichi's Sister from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/586408.jpg?s=db63ac918875b7fa5b9590d21681228e"
+  },
+  {
+    "name": "Kichizou's Brother",
+    "prompt": "Kichizou's Brother from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/586315.jpg?s=703ebb298b1063103cae1fd5944061c6"
+  },
+  {
+    "name": "Kimura",
+    "prompt": "Kimura from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/586313.jpg?s=79261afce71a0e9face0aa6653295a58"
+  },
+  {
+    "name": "Kira, Tsune",
+    "prompt": "Kira, Tsune from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/583720.jpg?s=0c7ca62a372e93abb9d02f2fce0fc8eb"
+  },
+  {
+    "name": "Kisuke",
+    "prompt": "Kisuke from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/586118.jpg?s=6dde67537e9ea4c244a5e82eaf696a84"
+  },
+  {
+    "name": "Kiyo",
+    "prompt": "Kiyo from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/581596.jpg?s=789b80cff2ecacf88e500ad04ab533a4"
+  },
+  {
+    "name": "Kobayashi-sensei",
+    "prompt": "Kobayashi-sensei from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Koga, Fusa",
+    "prompt": "Koga, Fusa from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/585198.jpg?s=8b3ceee5c6a75dc47649f6ff7e7fbf5e"
+  },
+  {
+    "name": "Koga, Uranari",
+    "prompt": "Koga, Uranari from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/581665.jpg?s=ac5464c557c8591c18371bba8c7ee8b3"
+  },
+  {
+    "name": "Komiyama, Yuki",
+    "prompt": "Komiyama, Yuki from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kubo, Hiroshi",
+    "prompt": "Kubo, Hiroshi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/580909.jpg?s=a28110576d9bbd06a27cb39dfd8a23d7"
+  },
+  {
+    "name": "Kubo, Tomi",
+    "prompt": "Kubo, Tomi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/580914.jpg?s=43e814933ba3cd24391845d8eaa51b46"
+  },
+  {
+    "name": "Kurokawa, Yasukichi",
+    "prompt": "Kurokawa, Yasukichi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kyozo",
+    "prompt": "Kyozo from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/582558.jpg?s=e4061a496b7ee58c4aa3c2787382c70f"
+  },
+  {
+    "name": "Lady Attendant",
+    "prompt": "Lady Attendant from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/583046.jpg?s=a07e13c48f75aa86c6e21dc188ac858f"
+  },
+  {
+    "name": "Mabuchi, Noriko",
+    "prompt": "Mabuchi, Noriko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/583549.jpg?s=f0ff624ffbc992b8cdfa7409e777c833"
+  },
+  {
+    "name": "Mabuchi, Shizuko",
+    "prompt": "Mabuchi, Shizuko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/583550.jpg?s=602419ceecbd038c420c871bebc67dd3"
+  },
+  {
+    "name": "Madonna Toyama",
+    "prompt": "Madonna Toyama from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/581666.jpg?s=50cf29cfdc35e7a02835ae1286f8da97"
+  },
+  {
+    "name": "Maid",
+    "prompt": "Maid from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Man",
+    "prompt": "Man from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/583055.jpg?s=c46a04c864b45d830b56d6abcd8f6932"
+  },
+  {
+    "name": "Matsui",
+    "prompt": "Matsui from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/586407.jpg?s=2fe287858b24be9c3e4c482878883e27"
+  },
+  {
+    "name": "Matsumoto",
+    "prompt": "Matsumoto from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/583835.jpg?s=0f8bd2d6873c089dacf6b4542b3af84d"
+  },
+  {
+    "name": "Medicine Seller",
+    "prompt": "Medicine Seller from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/582879.jpg?s=5c8b118e9234347e8d95207baf78aac4"
+  },
+  {
+    "name": "Midori",
+    "prompt": "Midori from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/582697.jpg?s=fd449c794fc2f71f1570ce76793e5d26"
+  },
+  {
+    "name": "Mikami, Mako",
+    "prompt": "Mikami, Mako from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/583611.jpg?s=fb926fbb547f87e744962734e2e99cb2"
+  },
+  {
+    "name": "Mineko",
+    "prompt": "Mineko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/584818.jpg?s=4c89789831029d245160a00c1554e930"
+  },
+  {
+    "name": "Missionary",
+    "prompt": "Missionary from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/586120.jpg?s=f4bd8449f99eed83e56d57133f379018"
+  },
+  {
+    "name": "Mistress",
+    "prompt": "Mistress from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/583545.jpg?s=f2c7ff7c08b2c36b5d0479ff04df3843"
+  },
+  {
+    "name": "Miyata, Terukichi",
+    "prompt": "Miyata, Terukichi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/581018.jpg?s=c248ebf253755e3b57f7c4524bab6bee"
+  },
+  {
+    "name": "Mother",
+    "prompt": "Mother from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/582703.jpg?s=9cd3d5141768e285b6ec5558ebcd2dab"
+  },
+  {
+    "name": "Mover",
+    "prompt": "Mover from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/583603.jpg?s=041805d62291edaf71d94cfa788ea672"
+  },
+  {
+    "name": "Mr. Mabuchi",
+    "prompt": "Mr. Mabuchi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/583551.jpg?s=b1fcc6cab7bd8ec0e12adf3dd195a8d8"
+  },
+  {
+    "name": "Mr. Mikami",
+    "prompt": "Mr. Mikami from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/583610.jpg?s=616c2a5daf5443e321d0ce12f089e771"
+  },
+  {
+    "name": "Mrs. Hagino",
+    "prompt": "Mrs. Hagino from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/581668.jpg?s=c3b7d0c230e37ef71cfec2fb2dd74c21"
+  },
+  {
+    "name": "Mrs. Mikami",
+    "prompt": "Mrs. Mikami from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/583609.jpg?s=437e00301cb811b9ee82e0747b61c9b2"
+  },
+  {
+    "name": "Mrs. Takajima",
+    "prompt": "Mrs. Takajima from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/580912.jpg?s=ca1c802658d9125924cf10140f3389c3"
+  },
+  {
+    "name": "Murai, Hansuke",
+    "prompt": "Murai, Hansuke from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/584200.jpg?s=53c45f8c0c5ac1c74230a790358c9bac"
+  },
+  {
+    "name": "Murai, Otomi",
+    "prompt": "Murai, Otomi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/584198.jpg?s=d7a1f11573618a970add54c4cd36a3b0"
+  },
+  {
+    "name": "Muraoka",
+    "prompt": "Muraoka from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/586419.jpg?s=5c91819468403fe20bf33f2c811beb32"
+  },
+  {
+    "name": "Nakada",
+    "prompt": "Nakada from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/586415.jpg?s=9a6e31c76ae4c019e6d5eb3dfa1dcb72"
+  },
+  {
+    "name": "Nakada's Mother",
+    "prompt": "Nakada's Mother from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nishimura",
+    "prompt": "Nishimura from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "O-Ryou",
+    "prompt": "O-Ryou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Okinu",
+    "prompt": "Okinu from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/582575.jpg?s=b2fdde44b581d955e9325f141c151832"
+  },
+  {
+    "name": "Old Aunt",
+    "prompt": "Old Aunt from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/580827.jpg?s=dce5ae9be1147091590d68c28d1c3b29"
+  },
+  {
+    "name": "Old Teahouse Woman",
+    "prompt": "Old Teahouse Woman from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Oomiya",
+    "prompt": "Oomiya from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/586416.jpg?s=850ac9d4f18869329642a1953dd6f66c"
+  },
+  {
+    "name": "Oomiya's Mother",
+    "prompt": "Oomiya's Mother from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ooyama, Juukichi",
+    "prompt": "Ooyama, Juukichi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/580916.jpg?s=4620cc715bbd6436517466e229b9bbbf"
+  },
+  {
+    "name": "Orin",
+    "prompt": "Orin from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/583717.jpg?s=436ed60f55b1e5c88d41ea1d013bf167"
+  },
+  {
+    "name": "Oryou",
+    "prompt": "Oryou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/582400.jpg?s=d4182d2dd9625dfd6803ab5898af5547"
+  },
+  {
+    "name": "Otatsu",
+    "prompt": "Otatsu from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/580849.jpg?s=934077350ae26046c024b6d3d95ebf53"
+  },
+  {
+    "name": "Oyoshi",
+    "prompt": "Oyoshi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/582701.jpg?s=e72d26e7e08dbf0fde972fc02cf4a12d"
+  },
+  {
+    "name": "Paper Merchant",
+    "prompt": "Paper Merchant from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/580825.jpg?s=352f54c088fb0f06562fb9686941f686"
+  },
+  {
+    "name": "Parrot",
+    "prompt": "Parrot from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/584685.jpg?s=6afda1380a26f1b07ab3ce92ff9040c0"
+  },
+  {
+    "name": "Priest",
+    "prompt": "Priest from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/582700.jpg?s=1d679a33f2b31b1e2ffcd6cecbf13a9a"
+  },
+  {
+    "name": "Principal",
+    "prompt": "Principal from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/581663.jpg?s=1bd4539b92b7052814637c1b4ef48d82"
+  },
+  {
+    "name": "Red Shirt",
+    "prompt": "Red Shirt from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/581593.jpg?s=3fce03e890639db1ac479ae1f43cfb7c"
+  },
+  {
+    "name": "Ren",
+    "prompt": "Ren from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/582557.jpg?s=746056fd6c535c995d96192605b2e33f"
+  },
+  {
+    "name": "Rickshaw Man",
+    "prompt": "Rickshaw Man from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/586420.jpg?s=11246d8d1b610d3fe873777eca53bd15"
+  },
+  {
+    "name": "Ritarou",
+    "prompt": "Ritarou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/584029.jpg?s=5d0d2e7adcee72a9bb7f8604fe8d8075"
+  },
+  {
+    "name": "Sachiko",
+    "prompt": "Sachiko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Saitou, Isamu",
+    "prompt": "Saitou, Isamu from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/585197.jpg?s=f1449ce52bba4afadab22409faf1b081"
+  },
+  {
+    "name": "Sakuji",
+    "prompt": "Sakuji from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/582563.jpg?s=bae7028155ed0676ca573f92e135d655"
+  },
+  {
+    "name": "Sally",
+    "prompt": "Sally from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Samurai Ghost",
+    "prompt": "Samurai Ghost from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/583050.jpg?s=0fccea8153b9a5560aedc69f5e78f750"
+  },
+  {
+    "name": "Sangorou",
+    "prompt": "Sangorou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/582706.jpg?s=2badb15b9073c4b8329bc6ecf9156843"
+  },
+  {
+    "name": "Satou",
+    "prompt": "Satou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/586406.jpg?s=6483bf0d99bb91ed751e8704436eb777"
+  },
+  {
+    "name": "Section Manager",
+    "prompt": "Section Manager from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/583548.jpg?s=84e7a33847cdab33deefb3cd72c484f0"
+  },
+  {
+    "name": "Senior Baba",
+    "prompt": "Senior Baba from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Senior Kobayashi",
+    "prompt": "Senior Kobayashi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Senior Suzuki",
+    "prompt": "Senior Suzuki from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sergeant Itou",
+    "prompt": "Sergeant Itou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Setsuko",
+    "prompt": "Setsuko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/581430.jpg?s=c10bca6d3b8b1dd751beeca3f406f2c1"
+  },
+  {
+    "name": "Shigeme",
+    "prompt": "Shigeme from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/584030.jpg?s=283fba8846dde83fa5daaa0219678f80"
+  },
+  {
+    "name": "Shinkichi",
+    "prompt": "Shinkichi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/581081.jpg?s=5c1ec23a15231751e23e6f3c1e4f6121"
+  },
+  {
+    "name": "Shizu",
+    "prompt": "Shizu from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/581082.jpg?s=45c671952c682d5c26a28890b5273a21"
+  },
+  {
+    "name": "Shoutarou",
+    "prompt": "Shoutarou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/582699.jpg?s=8d23c8b5de9d9a4a02dfc1bc0118a6f8"
+  },
+  {
+    "name": "Simeon",
+    "prompt": "Simeon from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/586116.jpg?s=473b10c6be622010e9828a490fc7f6dc"
+  },
+  {
+    "name": "Station Attendant",
+    "prompt": "Station Attendant from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/582560.jpg?s=cb455c324e72a0a0738b12bd4e243766"
+  },
+  {
+    "name": "Student",
+    "prompt": "Student from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/581595.jpg?s=1b83e82fcda89761eaf3cc6e98f56019"
+  },
+  {
+    "name": "Tachikawa",
+    "prompt": "Tachikawa from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/583604.jpg?s=186893ab00f0d899693113b79bcca3f2"
+  },
+  {
+    "name": "Taira no Tokiko",
+    "prompt": "Taira no Tokiko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/583048.jpg?s=d162110429a129c1b78bf637186ccb6e"
+  },
+  {
+    "name": "Takeko",
+    "prompt": "Takeko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/586418.jpg?s=01f80f103842e8b8f1f658a35f1abacf"
+  },
+  {
+    "name": "Tanaka",
+    "prompt": "Tanaka from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/586405.jpg?s=ea9d859584f3d0ee1b25567ca05b5109"
+  },
+  {
+    "name": "The Old Man",
+    "prompt": "The Old Man from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/582880.jpg?s=07fc05b5b1f0e0e1fbb6ff22503c85bc"
+  },
+  {
+    "name": "The Woman",
+    "prompt": "The Woman from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/582881.jpg?s=3ad5a013e47c98517f36ef60a12a1638"
+  },
+  {
+    "name": "Tomekichi",
+    "prompt": "Tomekichi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/582405.jpg?s=b4a182f38027e331394c93b548019d3e"
+  },
+  {
+    "name": "Tomi",
+    "prompt": "Tomi from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tsugawa, Michihisa",
+    "prompt": "Tsugawa, Michihisa from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/583837.jpg?s=24d36f2d59f737160d9cff0febca5de9"
+  },
+  {
+    "name": "Tsugino-sensei",
+    "prompt": "Tsugino-sensei from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/582561.jpg?s=fe41289cca2c2483a63a4dd2e3ea2625"
+  },
+  {
+    "name": "Ushimatsu",
+    "prompt": "Ushimatsu from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/582704.jpg?s=e420eb6db69e175913b35fbe3ff7f764"
+  },
+  {
+    "name": "Vice-Principal",
+    "prompt": "Vice-Principal from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/583714.jpg?s=da450dd662980fbba506063555a8d09a"
+  },
+  {
+    "name": "Woman",
+    "prompt": "Woman from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/583047.jpg?s=3af1742ada9d9468731b85c71dfd90b7"
+  },
+  {
+    "name": "Worker",
+    "prompt": "Worker from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/583547.jpg?s=42a9f629186a75020a6033e0f3f59c94"
+  },
+  {
+    "name": "Yamaarashi, Hotta",
+    "prompt": "Yamaarashi, Hotta from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/581597.jpg?s=559d2a58e867da2c1857b990f15a4b92"
+  },
+  {
+    "name": "Yano, Shougorou",
+    "prompt": "Yano, Shougorou from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/584197.jpg?s=ee8247d1e5111cc5051bfd696f2c22f3"
+  },
+  {
+    "name": "Yasuke",
+    "prompt": "Yasuke from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/583051.jpg?s=a27ae23178f02b1a0cd24c54c42c6dce"
+  },
+  {
+    "name": "Yasuzaemon",
+    "prompt": "Yasuzaemon from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/584031.jpg?s=71e595c0aaf0f620e62d6f78e14c4556"
+  },
+  {
+    "name": "Yone",
+    "prompt": "Yone from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/582702.jpg?s=96da7d927ad3055e2a0efb706664bf58"
+  },
+  {
+    "name": "Yoshikawa, Nodaiko",
+    "prompt": "Yoshikawa, Nodaiko from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/581594.jpg?s=bfbdaffb87310ca7e9000ebba75ec216"
+  },
+  {
+    "name": "Young Priest",
+    "prompt": "Young Priest from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/583049.jpg?s=e299d9ea7be8adde16b83a0ad46c57d8"
+  },
+  {
+    "name": "Yukio",
+    "prompt": "Yukio from Seishun Anime Zenshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/582406.jpg?s=7698a7990f78a43825110a63bd4133d4"
+  }
+]

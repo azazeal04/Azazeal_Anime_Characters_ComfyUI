@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Aphrodite",
+    "prompt": "Aphrodite from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/582200.jpg?s=06d8c3411d2e29a1e8f05d00e5a73cc2"
+  },
+  {
+    "name": "Apollo",
+    "prompt": "Apollo from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/582201.jpg?s=9c4693dc0daf24c7d4340d497db73846"
+  },
+  {
+    "name": "Artemis",
+    "prompt": "Artemis from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/582097.jpg?s=0f1fea7f835901a229182995ef3df615"
+  },
+  {
+    "name": "Athena",
+    "prompt": "Athena from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/582096.jpg?s=4de013f7568e86d986d808b77d1fbcd3"
+  },
+  {
+    "name": "Demeter",
+    "prompt": "Demeter from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/582098.jpg?s=3c4db1f6644bc1e27c338271ca3345e7"
+  },
+  {
+    "name": "Hades",
+    "prompt": "Hades from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/582126.jpg?s=55c663bfcce62e58edceffca83a9fcde"
+  },
+  {
+    "name": "Hera",
+    "prompt": "Hera from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/582094.jpg?s=f0b8d9b270ca45fb491c0dd43e5a25ea"
+  },
+  {
+    "name": "Hermes",
+    "prompt": "Hermes from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/582100.jpg?s=e1eb36095a54297219e45a83435efe0a"
+  },
+  {
+    "name": "Prometheus",
+    "prompt": "Prometheus from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/582109.jpg?s=ed5242c215886fd5e2b9d16c48c8c530"
+  },
+  {
+    "name": "Zeus",
+    "prompt": "Zeus from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/582093.jpg?s=b953fbf5607f6db4ebd1bb6977b3f06f"
+  },
+  {
+    "name": "Amphitrite",
+    "prompt": "Amphitrite from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/582101.jpg?s=bf558fd0aedccc7994d148e73b23d886"
+  },
+  {
+    "name": "Andromeda",
+    "prompt": "Andromeda from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/582209.jpg?s=1de9dea531d861cbd15b054354eb816c"
+  },
+  {
+    "name": "Arachne",
+    "prompt": "Arachne from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/582207.jpg?s=242ed9da70989d15256efad0d62279ba"
+  },
+  {
+    "name": "Ares",
+    "prompt": "Ares from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/582099.jpg?s=07475a1403e6122a0e951ce4d57f9c75"
+  },
+  {
+    "name": "Atalanta",
+    "prompt": "Atalanta from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/582205.jpg?s=d1d58c3d49b2d30cf93a9e1427297cdb"
+  },
+  {
+    "name": "Athamas",
+    "prompt": "Athamas from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/582128.jpg?s=093ac240c51eadd0ff9198802ca242f6"
+  },
+  {
+    "name": "Atropos",
+    "prompt": "Atropos from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/582117.jpg?s=d0307e5f20a9e93738159fcf1b8ee2de"
+  },
+  {
+    "name": "Baucis",
+    "prompt": "Baucis from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/582214.jpg?s=462f4e5e880e280dae2e59858ec59ba9"
+  },
+  {
+    "name": "Bellerophon",
+    "prompt": "Bellerophon from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/582127.jpg?s=093a502ea0c8982b6913778e430cb4fc"
+  },
+  {
+    "name": "Cassiopeia",
+    "prompt": "Cassiopeia from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/582211.jpg?s=df61d01381303067ef10529f04f502bc"
+  },
+  {
+    "name": "Chalciope",
+    "prompt": "Chalciope from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/582210.jpg?s=00600dd33bd78e92235cc3e0e9da540b"
+  },
+  {
+    "name": "Charon",
+    "prompt": "Charon from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/582106.jpg?s=22f30b2c918d3cf14f57d84fc544ab33"
+  },
+  {
+    "name": "Clotho",
+    "prompt": "Clotho from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/582115.jpg?s=a0e400f704b484ee975888c43176905e"
+  },
+  {
+    "name": "Danae",
+    "prompt": "Danae from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/582208.jpg?s=d6f7471b94a4f43366c6d28e06b51019"
+  },
+  {
+    "name": "Deucalion",
+    "prompt": "Deucalion from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/582137.jpg?s=e4cb18dc606682a7a919fb75e1bbe146"
+  },
+  {
+    "name": "Dionysus",
+    "prompt": "Dionysus from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/582122.jpg?s=a39fcad6edd5b5b2e43c7fbee5eb7d4c"
+  },
+  {
+    "name": "Echo",
+    "prompt": "Echo from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/582120.jpg?s=35563d2d5e829789c0a72edb245e1a8f"
+  },
+  {
+    "name": "Eris",
+    "prompt": "Eris from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/582111.jpg?s=98b4c811c1152e6a56df392182b4736f"
+  },
+  {
+    "name": "Eros",
+    "prompt": "Eros from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/582112.jpg?s=aacb2a1d18a300bb7f8a974fc997449e"
+  },
+  {
+    "name": "Europa",
+    "prompt": "Europa from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/582223.jpg?s=ee7c102a7a486eef265e36ec1d639d79"
+  },
+  {
+    "name": "Helle",
+    "prompt": "Helle from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hephaestus",
+    "prompt": "Hephaestus from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/582114.jpg?s=a54fc95ec9dd4b25013f9064f057d282"
+  },
+  {
+    "name": "Hercules",
+    "prompt": "Hercules from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/582119.jpg?s=2305944f6a2a9c562c4c4d2e9fc03e4a"
+  },
+  {
+    "name": "Hippomenes",
+    "prompt": "Hippomenes from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/582206.jpg?s=e527c90ed1692f37746f1cf8be20b3ab"
+  },
+  {
+    "name": "Ino",
+    "prompt": "Ino from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/582204.jpg?s=1750bebf1cc60d91ad26032933c3705b"
+  },
+  {
+    "name": "Io",
+    "prompt": "Io from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/582125.jpg?s=c1ab4c2de2efaa855552dcca8a121a9e"
+  },
+  {
+    "name": "Lachesis",
+    "prompt": "Lachesis from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/582116.jpg?s=31e72db9e970d1a799bc0b3820d56d7d"
+  },
+  {
+    "name": "Maia",
+    "prompt": "Maia from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/582103.jpg?s=32edf77a12c08b340d3aad250ce559ab"
+  },
+  {
+    "name": "Medusa",
+    "prompt": "Medusa from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/582219.jpg?s=42a8c1a6e498f88acbb8e89ae5acdc10"
+  },
+  {
+    "name": "Meleager",
+    "prompt": "Meleager from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/582221.jpg?s=c2cdd28e91eb01c4f9738aba33d307f7"
+  },
+  {
+    "name": "Narcissus",
+    "prompt": "Narcissus from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nemesis",
+    "prompt": "Nemesis from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/582105.jpg?s=51e57c8b696b671387a177cb0b05d83c"
+  },
+  {
+    "name": "Orpheus",
+    "prompt": "Orpheus from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/582131.jpg?s=f1187db2c2ab189a622a606080dca504"
+  },
+  {
+    "name": "Pandora",
+    "prompt": "Pandora from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/582213.jpg?s=6f15e95ab313993fcd027c48ff5fa62e"
+  },
+  {
+    "name": "Paris",
+    "prompt": "Paris from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/582132.jpg?s=b8097bea675d99b2bfb5e12b3a895ccd"
+  },
+  {
+    "name": "Peleus",
+    "prompt": "Peleus from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/582134.jpg?s=8d8883432d128a6e1c60269f7560a226"
+  },
+  {
+    "name": "Peneus",
+    "prompt": "Peneus from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/582107.jpg?s=c93c8c32e3118b05e19ca106d494c566"
+  },
+  {
+    "name": "Persephone",
+    "prompt": "Persephone from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/582121.jpg?s=1b7f6b0c2ede9ec544f750ed31a76e97"
+  },
+  {
+    "name": "Perseus",
+    "prompt": "Perseus from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Philemon",
+    "prompt": "Philemon from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/582136.jpg?s=fa35a75c9c239460790ccf55757f9e9c"
+  },
+  {
+    "name": "Phrixus",
+    "prompt": "Phrixus from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/582138.jpg?s=40bce80ac4b8c1f0767fdaa657932f65"
+  },
+  {
+    "name": "Poseidon",
+    "prompt": "Poseidon from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/582095.jpg?s=0470c46de735a1d57682ab9a84738c93"
+  },
+  {
+    "name": "Princess Philonoe",
+    "prompt": "Princess Philonoe from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/582212.jpg?s=17286bf22fb81c3c7498482b64adad01"
+  },
+  {
+    "name": "Psyche",
+    "prompt": "Psyche from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Queen Anteia",
+    "prompt": "Queen Anteia from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/582202.jpg?s=ff476c07815cb850ca3d584305ddf74d"
+  },
+  {
+    "name": "Queen of Colchis",
+    "prompt": "Queen of Colchis from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/582225.jpg?s=cc02daeab61d17b3672447fa19825dad"
+  },
+  {
+    "name": "Rhea",
+    "prompt": "Rhea from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/582113.jpg?s=c30cc2eab38a40fe0e08dfe04552305a"
+  },
+  {
+    "name": "Theseus",
+    "prompt": "Theseus from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/582139.jpg?s=98f79ce464afaa9b75d63bcef8c543d2"
+  },
+  {
+    "name": "Tithonus",
+    "prompt": "Tithonus from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/582224.jpg?s=e40dcdc5434aa66cacd581d9cd918204"
+  },
+  {
+    "name": "Zephyrus",
+    "prompt": "Zephyrus from Greek Roman Sinhwa: Olympus Guardian",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/582123.jpg?s=ec03d91e89e8d2d3ac0593ce32f47808"
+  }
+]

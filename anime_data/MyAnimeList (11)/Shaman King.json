@@ -1,0 +1,537 @@
+[
+  {
+    "name": "Amidamaru",
+    "prompt": "Amidamaru from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/60102.jpg?s=87d284729a18dff3ed84d97493484d1c"
+  },
+  {
+    "name": "Asakura, You",
+    "prompt": "Asakura, You from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/60123.jpg?s=b0e9acca91c2ee44ad8e6aceb36b355f"
+  },
+  {
+    "name": "Asakura, Hao",
+    "prompt": "Asakura, Hao from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/251443.jpg?s=b69698da0e12f1f08fe2ae8d46e11b2b"
+  },
+  {
+    "name": "Kyouyama, Anna",
+    "prompt": "Kyouyama, Anna from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/86806.jpg?s=852a2351fb2c96e323cdaa3c5f38ef9d"
+  },
+  {
+    "name": "Oyamada, Manta",
+    "prompt": "Oyamada, Manta from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/428595.jpg?s=e140015b1b26405b9df8f8739bc58b67"
+  },
+  {
+    "name": "Tao, Ren",
+    "prompt": "Tao, Ren from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/570727.jpg?s=9facbdf74cfd121b2b5f1da9cdfce866"
+  },
+  {
+    "name": "Allen",
+    "prompt": "Allen from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/462818.jpg?s=2114d77564f002d7583b119fd13057f7"
+  },
+  {
+    "name": "Anderson, Billy",
+    "prompt": "Anderson, Billy from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/100751.jpg?s=df4de83b6a39574f45228d26a4637eeb"
+  },
+  {
+    "name": "Anise",
+    "prompt": "Anise from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/347884.jpg?s=69a58a72ca8511388df048d40159bdf9"
+  },
+  {
+    "name": "Apache",
+    "prompt": "Apache from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/440692.jpg?s=11b4de29b4b35aa0fe6c9e3ab7d6aed0"
+  },
+  {
+    "name": "Asakura, Keiko",
+    "prompt": "Asakura, Keiko from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/106251.jpg?s=3924ffabe2b48a72f8d8b22a8fdb58b8"
+  },
+  {
+    "name": "Asakura, Mikihisa",
+    "prompt": "Asakura, Mikihisa from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/460112.jpg?s=279f9bd02605bf67806707dae00cffea"
+  },
+  {
+    "name": "Asakura, Youmei",
+    "prompt": "Asakura, Youmei from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/92369.jpg?s=f3ce7cf04cb8224c3d5271c3f91d4ca6"
+  },
+  {
+    "name": "Asakura, Kino",
+    "prompt": "Asakura, Kino from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/163917.jpg?s=af682d4759e18c6f527b6b15fc7b46fd"
+  },
+  {
+    "name": "Ashil",
+    "prompt": "Ashil from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/339261.jpg?s=820cec400d568d1261c2fa2f7b798aaa"
+  },
+  {
+    "name": "Ball Boy",
+    "prompt": "Ball Boy from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/440697.jpg?s=c591e6003abc659f41da6dca25108a9e"
+  },
+  {
+    "name": "Bason",
+    "prompt": "Bason from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/60304.jpg?s=78975973c9944c77c8ad44b7a7827274"
+  },
+  {
+    "name": "Bismarch, Kanna",
+    "prompt": "Bismarch, Kanna from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/530819.jpg?s=ab781dbd86b69507948de18253b3b926"
+  },
+  {
+    "name": "Blamuro",
+    "prompt": "Blamuro from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/464327.jpg?s=f71860201218f6b5d07076f7067265db"
+  },
+  {
+    "name": "Blue Chateau",
+    "prompt": "Blue Chateau from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/440698.jpg?s=dec257100f9cbae7617b4b272b3b87bb"
+  },
+  {
+    "name": "Burton, Bill",
+    "prompt": "Burton, Bill from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/48492.jpg?s=0a770814e3df6961fee12fef7eb7c9da"
+  },
+  {
+    "name": "Cadimahide, Tona Papik",
+    "prompt": "Cadimahide, Tona Papik from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/462819.jpg?s=862cc796b9ade35b90704d001bd8a6ed"
+  },
+  {
+    "name": "Chrysler",
+    "prompt": "Chrysler from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/117466.jpg?s=6e40234aacdb0d96ea15907ca6b9132c"
+  },
+  {
+    "name": "Conchi",
+    "prompt": "Conchi from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/81875.jpg?s=99a70de46fe25b0f4b9413f45cd58948"
+  },
+  {
+    "name": "Death Machine",
+    "prompt": "Death Machine from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/440695.jpg?s=5d5af515a54d01a05fd7f0088f85b64a"
+  },
+  {
+    "name": "Denbat, John",
+    "prompt": "Denbat, John from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/463743.jpg?s=6e0183669fc8f1c28e6be69b36057c63"
+  },
+  {
+    "name": "Diethel, Lyserg",
+    "prompt": "Diethel, Lyserg from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/110874.jpg?s=ca7038ccee029f37187b44e9c0d23d76"
+  },
+  {
+    "name": "Diethel, Liam",
+    "prompt": "Diethel, Liam from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/347883.jpg?s=68d20fabd5dab064f30747067dec1b7c"
+  },
+  {
+    "name": "Diethel, Jane",
+    "prompt": "Diethel, Jane from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/473271.jpg?s=477ef8610635e469ebbdffc3a6f63c03"
+  },
+  {
+    "name": "Dirac, Larch",
+    "prompt": "Dirac, Larch from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/464211.jpg?s=0079c26f3fa1ac895455e360e3992431"
+  },
+  {
+    "name": "Dracula, Boris Tepes",
+    "prompt": "Dracula, Boris Tepes from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/464326.jpg?s=5e08bad311a09530572ab7cb23ee6832"
+  },
+  {
+    "name": "Díaz, Peyote",
+    "prompt": "Díaz, Peyote from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/48491.jpg?s=cbbd4fc6f9487d23c0293afa4bab84ab"
+  },
+  {
+    "name": "Eliza",
+    "prompt": "Eliza from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/110872.jpg?s=203deae6f47b59ac0f9f4ed01f542a2f"
+  },
+  {
+    "name": "Ellie",
+    "prompt": "Ellie from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/448215.jpg?s=d6ce6293b4fb9457ae238dc4a7e7e728"
+  },
+  {
+    "name": "Faust VIII, Johann",
+    "prompt": "Faust VIII, Johann from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/110873.jpg?s=82739d47d1ae548dabf8f9d9766ca9fa"
+  },
+  {
+    "name": "Free Day",
+    "prompt": "Free Day from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/440701.jpg?s=662e3309ae1bf4eda9e6f0840467db90"
+  },
+  {
+    "name": "Gagarik, Zorya",
+    "prompt": "Gagarik, Zorya from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/463945.jpg?s=726187a1f3a96fcd143f5bff91dcea73"
+  },
+  {
+    "name": "Go-Johtoh",
+    "prompt": "Go-Johtoh from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/528391.jpg?s=7e227dfa1bef4bab8a274a8d8bfe0cee"
+  },
+  {
+    "name": "Goldva",
+    "prompt": "Goldva from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/454057.jpg?s=0101d0b5fde45cb0219d05fdd4586d58"
+  },
+  {
+    "name": "Graham, Pino",
+    "prompt": "Graham, Pino from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/462005.jpg?s=805f69e879fb6e742451023c6d31bdb4"
+  },
+  {
+    "name": "Green Garam",
+    "prompt": "Green Garam from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/473269.jpg?s=0d310fca2fc1dd68193ecb429bcbae4d"
+  },
+  {
+    "name": "Griffith, Porf",
+    "prompt": "Griffith, Porf from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/463640.jpg?s=aa5af7febebfe8e25f88f5c455f54c9b"
+  },
+  {
+    "name": "Hang, Zang-Ching",
+    "prompt": "Hang, Zang-Ching from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/48450.jpg?s=ce0ef0f469d43ebdb6636affcf83a03f"
+  },
+  {
+    "name": "Hilda",
+    "prompt": "Hilda from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/237915.jpg?s=68d26641a561fe030fb36e08096ab3ee"
+  },
+  {
+    "name": "Iron Maiden Jeanne",
+    "prompt": "Iron Maiden Jeanne from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/464087.jpg?s=bc9a7bb3a84a86702ecdc561b9a43a9b"
+  },
+  {
+    "name": "Junk Food",
+    "prompt": "Junk Food from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/440694.jpg?s=c5b8ca0578f2dbd388f6ff97f10fbca6"
+  },
+  {
+    "name": "Kalim",
+    "prompt": "Kalim from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/448191.jpg?s=59a209122e9dbce1744425e883397a1d"
+  },
+  {
+    "name": "Kanae",
+    "prompt": "Kanae from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/237921.jpg?s=d35e0af91ad05c62e5b4c9035ce824cd"
+  },
+  {
+    "name": "Kororo",
+    "prompt": "Kororo from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/60194.jpg?s=a6b7444acb5defc021b16511fa0aa0b6"
+  },
+  {
+    "name": "Lasso, Luchist",
+    "prompt": "Lasso, Luchist from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/473268.jpg?s=3bbdc5c83ec6f28a10c5a27bd24edb1b"
+  },
+  {
+    "name": "Lasso, Marco",
+    "prompt": "Lasso, Marco from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/81878.jpg?s=6eae205d396225454d6e76db396ae9ac"
+  },
+  {
+    "name": "Lilirara",
+    "prompt": "Lilirara from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/110601.jpg?s=8d054975cd4601c2a8e2e2f5dab97c82"
+  },
+  {
+    "name": "Lily",
+    "prompt": "Lily from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/47008.jpg?s=320c1e8bcabf850f16d9e2dc9b75dfb4"
+  },
+  {
+    "name": "Matisse, Matilda",
+    "prompt": "Matisse, Matilda from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/530817.jpg?s=e3b0d9828c1c410bd300c962b29fc14d"
+  },
+  {
+    "name": "Maya",
+    "prompt": "Maya from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/563282.jpg?s=a2e69539d8ddfb5eeadda70ce88ce38d"
+  },
+  {
+    "name": "McDonell, Chocolove",
+    "prompt": "McDonell, Chocolove from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/460109.jpg?s=ae6bb4484509f5943515c2ad46ec583a"
+  },
+  {
+    "name": "Mendel, Cebin",
+    "prompt": "Mendel, Cebin from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/462003.jpg?s=638518b622b8b1cd7bba5e4252ab11d7"
+  },
+  {
+    "name": "Meyer, Blocken",
+    "prompt": "Meyer, Blocken from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/465707.jpg?s=067c5edf382a78282929683976e131f4"
+  },
+  {
+    "name": "Mic",
+    "prompt": "Mic from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/81876.jpg?s=847d60d0fe4458f83cfd232f52406663"
+  },
+  {
+    "name": "Millie",
+    "prompt": "Millie from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/419370.jpg?s=514cf88e30feae1c0fd499e1f7e5b263"
+  },
+  {
+    "name": "Montgomery, Meene",
+    "prompt": "Montgomery, Meene from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/478227.jpg?s=f1610c070c745d5bad9e811824d9c3a0"
+  },
+  {
+    "name": "Morphine",
+    "prompt": "Morphine from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/46492.jpg?s=59efc86779d61129360a5e61a8589abc"
+  },
+  {
+    "name": "Mosuke",
+    "prompt": "Mosuke from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/436306.jpg?s=168abc4c9cf732999b0925171b0ff793"
+  },
+  {
+    "name": "Mr. Little Lake",
+    "prompt": "Mr. Little Lake from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/463944.jpg?s=72df936149041c840e0f7a7e472e20e1"
+  },
+  {
+    "name": "Muscle Punch",
+    "prompt": "Muscle Punch from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/440689.jpg?s=fe8aec7cd21655fbaa27975873775615"
+  },
+  {
+    "name": "Ni-Johtoh",
+    "prompt": "Ni-Johtoh from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/528388.jpg?s=e1b61c13a33383ca788b49248b1e5b95"
+  },
+  {
+    "name": "Nichrom",
+    "prompt": "Nichrom from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/478229.jpg?s=18367c4f3518fd6a1f5fa7c9a333df57"
+  },
+  {
+    "name": "Nyorai",
+    "prompt": "Nyorai from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/464329.jpg?s=aa601e11d0be321309c103e80742eb61"
+  },
+  {
+    "name": "Opacho",
+    "prompt": "Opacho from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/88958.jpg?s=8b18ac4fa369c18a0d171deff8413504"
+  },
+  {
+    "name": "Orona",
+    "prompt": "Orona from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/418388.jpg?s=f41edfe6222ca669075b6e55c54c79a0"
+  },
+  {
+    "name": "Phauna, Marion",
+    "prompt": "Phauna, Marion from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/530818.jpg?s=5df0ce3958ccdef30ea5e354604966f8"
+  },
+  {
+    "name": "Pitrah, Nakht",
+    "prompt": "Pitrah, Nakht from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/465783.jpg?s=e253a169e274b63be3b65ebe0ab6a7d8"
+  },
+  {
+    "name": "Pokki, Anatel",
+    "prompt": "Pokki, Anatel from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/463633.jpg?s=9b10ecbc2fcf1adc867fdf3bbe591099"
+  },
+  {
+    "name": "Ponchi",
+    "prompt": "Ponchi from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/81874.jpg?s=76a9a6e87ab1de672589f1ab11c35f80"
+  },
+  {
+    "name": "Puljiz, Khafre",
+    "prompt": "Puljiz, Khafre from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/464331.jpg?s=55b19343aa0040a4a5d27fc10d68d1e4"
+  },
+  {
+    "name": "Pyron, Lee",
+    "prompt": "Pyron, Lee from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/434155.jpg?s=8b24b4bbb5c139279b74a3e52dfa4531"
+  },
+  {
+    "name": "Radim",
+    "prompt": "Radim from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/478228.jpg?s=ef745e5c3cf7b84558590fdf9572b9c9"
+  },
+  {
+    "name": "Sally",
+    "prompt": "Sally from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/448216.jpg?s=ce84f5f7f1e74dd35d69bc4e5b20e997"
+  },
+  {
+    "name": "San-Johtoh",
+    "prompt": "San-Johtoh from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/528389.jpg?s=af19b47e807076ca921ff696a99c4ab3"
+  },
+  {
+    "name": "Savage Pan",
+    "prompt": "Savage Pan from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/465785.jpg?s=cefe0b8d88c8df00724f6c855a34ed3d"
+  },
+  {
+    "name": "Shamon",
+    "prompt": "Shamon from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/439835.jpg?s=9947924b3b5994c2b7f572dc0d62b538"
+  },
+  {
+    "name": "Sharona",
+    "prompt": "Sharona from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/44912.jpg?s=895e302c8c5b3278d1cc3e1d3a56f903"
+  },
+  {
+    "name": "Silva",
+    "prompt": "Silva from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/448634.jpg?s=9421cf843edc1c6be98b98f7a564d896"
+  },
+  {
+    "name": "Silver Horn",
+    "prompt": "Silver Horn from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/472831.jpg?s=dcb3167d70c5a53bc86c31fcccf26a28"
+  },
+  {
+    "name": "Silver Rod",
+    "prompt": "Silver Rod from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/472833.jpg?s=d26d485b617e98ce357e9ac5ce37871e"
+  },
+  {
+    "name": "Silver Shield",
+    "prompt": "Silver Shield from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/472834.jpg?s=08982967161d0fc162263aba1cd427bc"
+  },
+  {
+    "name": "Silver Tail",
+    "prompt": "Silver Tail from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/472832.jpg?s=2f38feb05971451be40c301a7b79f0cd"
+  },
+  {
+    "name": "Silver Wing",
+    "prompt": "Silver Wing from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/472830.jpg?s=dac99b089ebed0544df1517f8cad01a7"
+  },
+  {
+    "name": "Space Shot",
+    "prompt": "Space Shot from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/440693.jpg?s=9917a12349879aca47a12d5d26d212ba"
+  },
+  {
+    "name": "Sugimoto, Ryou",
+    "prompt": "Sugimoto, Ryou from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/463748.jpg?s=f997bbae1267af16f9a67dda057061cf"
+  },
+  {
+    "name": "Tabarsi, Mohammed",
+    "prompt": "Tabarsi, Mohammed from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/48397.jpg?s=13aa6778050aac908b4caf6d402c92d1"
+  },
+  {
+    "name": "Tamamura, Tamao",
+    "prompt": "Tamamura, Tamao from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/434156.jpg?s=d58486e3e19f5d438d740aa8b65881e1"
+  },
+  {
+    "name": "Tamurazaki, Midori",
+    "prompt": "Tamurazaki, Midori from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/464213.jpg?s=895c906a9c11f52fbd2a2f50fa18f43c"
+  },
+  {
+    "name": "Tao, Ching",
+    "prompt": "Tao, Ching from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/123969.jpg?s=fcadc227a4edfd9a234f2cc24b9b21e5"
+  },
+  {
+    "name": "Tao, Jun",
+    "prompt": "Tao, Jun from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/460107.jpg?s=d51d9c3e55266d4d55f3aee07d44e8d0"
+  },
+  {
+    "name": "Tao, Gein",
+    "prompt": "Tao, Gein from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/464328.jpg?s=ca6b87ff80d16fe95ca9ee5376f0cced"
+  },
+  {
+    "name": "Tao, Yúan",
+    "prompt": "Tao, Yúan from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/370269.jpg?s=9a43e1ca95b1c835caa0701ad53b7a70"
+  },
+  {
+    "name": "Tao, Ran",
+    "prompt": "Tao, Ran from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/463746.jpg?s=6516f0acd94e952b8ed7bb21cc2669cd"
+  },
+  {
+    "name": "Tokagerou",
+    "prompt": "Tokagerou from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/110603.jpg?s=c7f0709f815857975d69c543ff63ec71"
+  },
+  {
+    "name": "Umemiya, Ryuunosuke",
+    "prompt": "Umemiya, Ryuunosuke from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/460117.jpg?s=c84434e8542c5a13478d2d19475765af"
+  },
+  {
+    "name": "Usui, Horokeu",
+    "prompt": "Usui, Horokeu from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/81877.jpg?s=999ebe7a6489c232fe2e1f0aff4ac3db"
+  },
+  {
+    "name": "Usui, Pirika",
+    "prompt": "Usui, Pirika from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/163921.jpg?s=5713b3069866196b2850d027a8cbd37a"
+  },
+  {
+    "name": "Venstar, Chris",
+    "prompt": "Venstar, Chris from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/463636.jpg?s=7fa3494c66fe088f5512b2f978c6f40e"
+  },
+  {
+    "name": "Yamada, Kouji",
+    "prompt": "Yamada, Kouji from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/464330.jpg?s=7bc63fd4fa92342b9e330c6ec85b091e"
+  },
+  {
+    "name": "Yon-Johtoh",
+    "prompt": "Yon-Johtoh from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/528390.jpg?s=dc6bdf02d295dcea374c6619bd49d9fd"
+  },
+  {
+    "name": "Yoneda, Zen",
+    "prompt": "Yoneda, Zen from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/448194.jpg?s=d51760ed19842361be537f168823dc2c"
+  },
+  {
+    "name": "Zinc",
+    "prompt": "Zinc from Shaman King",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/463943.jpg?s=b3a2cab90a30ed7ba62aed6d810eeddd"
+  }
+]

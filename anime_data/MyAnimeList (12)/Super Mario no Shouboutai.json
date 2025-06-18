@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Kaoru",
+    "prompt": "Kaoru from Super Mario no Shouboutai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/441552.jpg?s=112d9ff7d924e9d86de9c81f321559f1"
+  },
+  {
+    "name": "Mario",
+    "prompt": "Mario from Super Mario no Shouboutai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/502189.jpg?s=f10fbae91a2b46c7d7cdfcf339807969"
+  },
+  {
+    "name": "Tatsuya",
+    "prompt": "Tatsuya from Super Mario no Shouboutai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/441553.jpg?s=ff40279f0d973f7ebbfea4d5f1269199"
+  },
+  {
+    "name": "Luigi",
+    "prompt": "Luigi from Super Mario no Shouboutai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/57590.jpg?s=ad803c666ad0ba35c2fc246ef6b63306"
+  }
+]
