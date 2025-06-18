@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Azuma, Satori",
+    "prompt": "Azuma, Satori from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/30080.jpg?s=f089d10c68ec683fddbbabf3b4a9a23d"
+  },
+  {
+    "name": "Chiba, Kirino",
+    "prompt": "Chiba, Kirino from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/30084.jpg?s=78c490ee21e7f4875476376afddb1e38"
+  },
+  {
+    "name": "Eiga, Danjuurou",
+    "prompt": "Eiga, Danjuurou from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/73044.jpg?s=40ceb95720b83939a813e23aba054704"
+  },
+  {
+    "name": "Ishida, Toraji",
+    "prompt": "Ishida, Toraji from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/108631.jpg?s=68073c5de7f200c5071d7b9abf1890f5"
+  },
+  {
+    "name": "Kawazoe, Tamaki",
+    "prompt": "Kawazoe, Tamaki from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/76147.jpg?s=72cb5f033a8e918c29904c14a28fb6e8"
+  },
+  {
+    "name": "Kuwahara, Sayako",
+    "prompt": "Kuwahara, Sayako from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/90685.jpg?s=26a9e22597f96cd5eb5443ee47fc6bc3"
+  },
+  {
+    "name": "Miyazaki, Miyako",
+    "prompt": "Miyazaki, Miyako from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/30076.jpg?s=22b79d3a4d288835e47e2353a36492bc"
+  },
+  {
+    "name": "Nakata, Yuuji",
+    "prompt": "Nakata, Yuuji from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/105532.jpg?s=dd61b2b3e1544380bda9fe3bd494e237"
+  },
+  {
+    "name": "Andou, Yuuri",
+    "prompt": "Andou, Yuuri from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/105536.jpg?s=7ab9f560806225993465a1580effc389"
+  },
+  {
+    "name": "Aoki",
+    "prompt": "Aoki from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/545173.jpg?s=9a4236e017ffe82ac5371e785d7d8f84"
+  },
+  {
+    "name": "Asakawa, Akemi",
+    "prompt": "Asakawa, Akemi from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/105540.jpg?s=03b3332041d653a98316922897113fce"
+  },
+  {
+    "name": "Biker",
+    "prompt": "Biker from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/545179.jpg?s=7ef2782c55182eef007b3d7966e86861"
+  },
+  {
+    "name": "Blue Blade Braver",
+    "prompt": "Blue Blade Braver from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/120008.jpg?s=db6503c087271f5522a6fdeb7a3da72c"
+  },
+  {
+    "name": "Chiba, Takkun",
+    "prompt": "Chiba, Takkun from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/545140.jpg?s=126d8ef451c04b998d6e766f0247c0dd"
+  },
+  {
+    "name": "Chief Umpire",
+    "prompt": "Chief Umpire from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/545176.jpg?s=9bb62ed91aeb23c0998d5f2a52513009"
+  },
+  {
+    "name": "Cosmo One",
+    "prompt": "Cosmo One from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/545181.jpg?s=b312ca57c8afaa303d7f6fb25d6d359d"
+  },
+  {
+    "name": "Death Armor",
+    "prompt": "Death Armor from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/545153.jpg?s=4e0cccf95f8d7f1d1289025eef7860a7"
+  },
+  {
+    "name": "Dorochil",
+    "prompt": "Dorochil from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/581390.jpg?s=ea00ff1ded0e0a0935e3d6f757408dfd"
+  },
+  {
+    "name": "Film Director",
+    "prompt": "Film Director from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/545182.jpg?s=5f929fe196659fce75f1e337c23fd741"
+  },
+  {
+    "name": "Fujimura",
+    "prompt": "Fujimura from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/278852.jpg?s=4fa4fea6400e67622e484d8a56eb4496"
+  },
+  {
+    "name": "Harada, Konatsu",
+    "prompt": "Harada, Konatsu from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/13277.jpg?s=81165b9e58680e147a1c107c0d92929a"
+  },
+  {
+    "name": "Hayami",
+    "prompt": "Hayami from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/581389.jpg?s=e58c3736bc2e968d690fef55524c4931"
+  },
+  {
+    "name": "Hayashi, Tadaaki",
+    "prompt": "Hayashi, Tadaaki from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/108641.jpg?s=e3c490573bd1c36c863269aa4d83d269"
+  },
+  {
+    "name": "Iguchi",
+    "prompt": "Iguchi from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/545175.jpg?s=96918ea2582ef54470d850a166502551"
+  },
+  {
+    "name": "Ishibashi, Kenzaburou",
+    "prompt": "Ishibashi, Kenzaburou from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/108639.jpg?s=892f8eeeb10e22a06afbef2ce171d1dd"
+  },
+  {
+    "name": "Iwasa, Makoto",
+    "prompt": "Iwasa, Makoto from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/545167.jpg?s=272e090f81b9c2c78cd881227f86461c"
+  },
+  {
+    "name": "Iwasa, Masaru",
+    "prompt": "Iwasa, Masaru from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/545152.jpg?s=daf5807d4ca477d1d4b57a8e214bd04f"
+  },
+  {
+    "name": "Kawaguchi",
+    "prompt": "Kawaguchi from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/545172.jpg?s=c3951375ad6d8537e4725cc45b131e55"
+  },
+  {
+    "name": "Kawazoe, Father",
+    "prompt": "Kawazoe, Father from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/108640.jpg?s=8b9e33693f44183054673d97c058faca"
+  },
+  {
+    "name": "Kirino's Mother",
+    "prompt": "Kirino's Mother from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/545177.jpg?s=4dd79fac670eecaa3f6e6564ced6a3c3"
+  },
+  {
+    "name": "Kiyomura, Ono",
+    "prompt": "Kiyomura, Ono from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/14161.jpg?s=ebd953375db024b191d7dd7dc53c6e40"
+  },
+  {
+    "name": "Konishi",
+    "prompt": "Konishi from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/108633.jpg?s=c4ce160672d47a5a463ecc1e4c12cb81"
+  },
+  {
+    "name": "Kuwahara, Kazuhiko",
+    "prompt": "Kuwahara, Kazuhiko from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/545155.jpg?s=ddf211eb1c66dcd7a93c39368640ef57"
+  },
+  {
+    "name": "Math Teacher",
+    "prompt": "Math Teacher from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/581387.jpg?s=b10440c26e80cc25155138d659264964"
+  },
+  {
+    "name": "Matsuki",
+    "prompt": "Matsuki from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/545161.jpg?s=f76ecc35654bd68c0758c36c994ae0aa"
+  },
+  {
+    "name": "Moo Moo House Manager",
+    "prompt": "Moo Moo House Manager from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/545150.jpg?s=2b0e68ccd4ed72350578c31a81e361ba"
+  },
+  {
+    "name": "Muscular Girl",
+    "prompt": "Muscular Girl from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/545160.jpg?s=ed8c03e9346c9a0933538050b3546177"
+  },
+  {
+    "name": "Narita, Hiroshi",
+    "prompt": "Narita, Hiroshi from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/545180.jpg?s=cf20bc6bd0a78de93f92169bb17c8ccd"
+  },
+  {
+    "name": "Nishikawa, Carrie",
+    "prompt": "Nishikawa, Carrie from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/86459.jpg?s=f446412ea9be144df04a51e3f206f04d"
+  },
+  {
+    "name": "Nishiyama, Karen",
+    "prompt": "Nishiyama, Karen from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/13204.jpg?s=0480dfc143ff28687e81485bfbfd436d"
+  },
+  {
+    "name": "Nobu-chan",
+    "prompt": "Nobu-chan from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/545157.jpg?s=d0e3a667b8bfb08ca849cbf2dffeddfc"
+  },
+  {
+    "name": "Nomura",
+    "prompt": "Nomura from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/545171.jpg?s=633299742a906224328cfeb032d2f004"
+  },
+  {
+    "name": "Nozomi",
+    "prompt": "Nozomi from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/545162.jpg?s=e64086cc8ed8b7475a49d25a7f96e8e6"
+  },
+  {
+    "name": "Odajima, Reimi",
+    "prompt": "Odajima, Reimi from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/108632.jpg?s=010efb690bd8eaf46e976d3465f48b59"
+  },
+  {
+    "name": "Ogawa, Mei",
+    "prompt": "Ogawa, Mei from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/108644.jpg?s=88dfb4d577f2229ffc415fc000fe31fb"
+  },
+  {
+    "name": "Ozawa, Kenyuukai",
+    "prompt": "Ozawa, Kenyuukai from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/545168.jpg?s=41eb3757860aaf3e31cbe4513c46a7d7"
+  },
+  {
+    "name": "Red Blade Braver",
+    "prompt": "Red Blade Braver from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/105544.jpg?s=f72ef994d31fffee3b97630358f90b5c"
+  },
+  {
+    "name": "Reimi's Father",
+    "prompt": "Reimi's Father from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/581388.jpg?s=ff6e156dab5d70f33d4424c54f1b34f3"
+  },
+  {
+    "name": "Reimi's Mother",
+    "prompt": "Reimi's Mother from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/545149.jpg?s=010914eeb25aa7aae445e780544a8a7f"
+  },
+  {
+    "name": "Sakaguchi",
+    "prompt": "Sakaguchi from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/545148.jpg?s=cb7fbe3897a92e157057c0491dba86b4"
+  },
+  {
+    "name": "Satou",
+    "prompt": "Satou from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/545174.jpg?s=238c3ed91b655a44047b933690c97d0c"
+  },
+  {
+    "name": "School Advisor",
+    "prompt": "School Advisor from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/545178.jpg?s=e68e9eedcf20db4f9014537e2aeea186"
+  },
+  {
+    "name": "Shinaider",
+    "prompt": "Shinaider from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/120009.jpg?s=1d745a68967be459d4b23970aab19568"
+  },
+  {
+    "name": "Store Clerk",
+    "prompt": "Store Clerk from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/545158.jpg?s=c32b16a16d70d5bc5f8c5faf7ec07fca"
+  },
+  {
+    "name": "Sugimoto",
+    "prompt": "Sugimoto from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/545163.jpg?s=ae542fb44d3b24a007272294834736e8"
+  },
+  {
+    "name": "Suginokouji, Takachiho",
+    "prompt": "Suginokouji, Takachiho from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/120011.jpg?s=71362e25cf4ee45f91382810d800ff15"
+  },
+  {
+    "name": "Suzuki, Rin",
+    "prompt": "Suzuki, Rin from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/55041.jpg?s=db02100a4c14bc143dcd0eb8c7a146c7"
+  },
+  {
+    "name": "Suzushiro",
+    "prompt": "Suzushiro from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/545164.jpg?s=2dc47f31312ab88a1f7973bc215f14d1"
+  },
+  {
+    "name": "Takahashi",
+    "prompt": "Takahashi from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/545169.jpg?s=5a4e1eb8e01efa549062c6828a13d1c8"
+  },
+  {
+    "name": "Takasugi",
+    "prompt": "Takasugi from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/545151.jpg?s=dd4e6ecec0b5633a4c087fcb3f201822"
+  },
+  {
+    "name": "Toraji's Father",
+    "prompt": "Toraji's Father from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/545159.jpg?s=8a33fe3ccbd869b31b7aa4c7948d46ca"
+  },
+  {
+    "name": "Toraji's Mother",
+    "prompt": "Toraji's Mother from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/545156.jpg?s=1c25a008bf3298238bd3773e3106d6b5"
+  },
+  {
+    "name": "Toyama, Shinobu",
+    "prompt": "Toyama, Shinobu from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/85875.jpg?s=108516f02be1330f3e8e366ec7b3df13"
+  },
+  {
+    "name": "Toyama, Akira",
+    "prompt": "Toyama, Akira from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/545145.jpg?s=d2dd2e50974e030dca7d3eefb1ea1dc2"
+  },
+  {
+    "name": "Vice Principal",
+    "prompt": "Vice Principal from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/545154.jpg?s=cbbf5fffeb0d5b2695c9a1a02132185e"
+  },
+  {
+    "name": "Yellow Blade Braver",
+    "prompt": "Yellow Blade Braver from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/120007.jpg?s=3964ff3732028ad7e85ebd914131abcb"
+  },
+  {
+    "name": "Yoko, Maya",
+    "prompt": "Yoko, Maya from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/13206.jpg?s=6c23b9501ec556cc893f30da0d7c339f"
+  },
+  {
+    "name": "Yoshikawa",
+    "prompt": "Yoshikawa from Bamboo Blade",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/120010.jpg?s=cfb6deb73d4a9465401d3c6d6d2b9a01"
+  }
+]
