@@ -1,0 +1,572 @@
+[
+  {
+    "name": "Akagi",
+    "prompt": "Akagi from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/414964.jpg?s=a8754096b97927bc4eb110596eff8a0a"
+  },
+  {
+    "name": "Belfast",
+    "prompt": "Belfast from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/496951.jpg?s=45fb85b004c5b2b956f74aa2146a24fb"
+  },
+  {
+    "name": "Enterprise",
+    "prompt": "Enterprise from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/384508.jpg?s=f133e55771df31dd792efc960abff9c5"
+  },
+  {
+    "name": "Kaga",
+    "prompt": "Kaga from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/402618.jpg?s=e7b28779e0d19a8f53eead7e4d7c3655"
+  },
+  {
+    "name": "Laffey",
+    "prompt": "Laffey from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/437855.jpg?s=64f966a36f4ef7d893095f8cfee26f13"
+  },
+  {
+    "name": "Admiral Hipper",
+    "prompt": "Admiral Hipper from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/409619.jpg?s=dd8330664619d2d804503e72c646bb2f"
+  },
+  {
+    "name": "Akashi",
+    "prompt": "Akashi from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/418787.jpg?s=f417bd52e576fdb246051eb033dcbd79"
+  },
+  {
+    "name": "Akatsuki",
+    "prompt": "Akatsuki from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/478898.jpg?s=1ac77c2d45d90e2d8cca44ae6b48983c"
+  },
+  {
+    "name": "Amagi",
+    "prompt": "Amagi from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/409608.jpg?s=5d6fa7b2ef4eb0687a894d1fa6c97db0"
+  },
+  {
+    "name": "Amazon",
+    "prompt": "Amazon from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/478775.jpg?s=04205ac90cc797598929ece27d0c11e3"
+  },
+  {
+    "name": "Arizona",
+    "prompt": "Arizona from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/437576.jpg?s=28a13328613b2f975336fb1082a12fa6"
+  },
+  {
+    "name": "Ark Royal",
+    "prompt": "Ark Royal from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/481793.jpg?s=d636da79a2582371deedef83a701488a"
+  },
+  {
+    "name": "Atago",
+    "prompt": "Atago from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/403963.jpg?s=3a1f90d76512e2b5ee1d858582b3a793"
+  },
+  {
+    "name": "Aulick",
+    "prompt": "Aulick from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/478731.jpg?s=a50f1390fada25a2904fb0f7d4b7893f"
+  },
+  {
+    "name": "Ayanami",
+    "prompt": "Ayanami from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/396119.jpg?s=103fd3bdc82b9da164fe5a1264707425"
+  },
+  {
+    "name": "Bailey",
+    "prompt": "Bailey from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/478767.jpg?s=0f52c0f5be2e6724afb31b2331093fed"
+  },
+  {
+    "name": "Beagle",
+    "prompt": "Beagle from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/478765.jpg?s=cc35dbb09c141d72e44bfb32b5662457"
+  },
+  {
+    "name": "Bismarck",
+    "prompt": "Bismarck from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/403970.jpg?s=b6d180690d167356d1a46188145daa39"
+  },
+  {
+    "name": "Bogue",
+    "prompt": "Bogue from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/478733.jpg?s=3cde8fa9d22d7cb5705f8cc0f64574e2"
+  },
+  {
+    "name": "Bulldog",
+    "prompt": "Bulldog from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/478766.jpg?s=4aed7cd52d64e9fbcbd10c48e33f556a"
+  },
+  {
+    "name": "Charles Ausburne",
+    "prompt": "Charles Ausburne from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/478729.jpg?s=4dcced32772ece38fad53412e1fb3f0a"
+  },
+  {
+    "name": "Cleveland",
+    "prompt": "Cleveland from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/399679.jpg?s=89e661d066680c03281177100b322179"
+  },
+  {
+    "name": "Columbia",
+    "prompt": "Columbia from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/478764.jpg?s=a73cc7dab6d36f0c5fef9e4f18a02da5"
+  },
+  {
+    "name": "Cygnet",
+    "prompt": "Cygnet from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/462685.jpg?s=da1f8cb07127e17f23f7a812eb96b7c5"
+  },
+  {
+    "name": "Dace",
+    "prompt": "Dace from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/478905.jpg?s=e15e5eb895e759c60436e38bd4f2cb50"
+  },
+  {
+    "name": "Denver",
+    "prompt": "Denver from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/450408.jpg?s=b6f66b48e6a5a9698614bd80396f4004"
+  },
+  {
+    "name": "Edinburgh",
+    "prompt": "Edinburgh from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/409616.jpg?s=21dca922379f03d8ce35c3c864b7741f"
+  },
+  {
+    "name": "Eldridge",
+    "prompt": "Eldridge from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/478859.jpg?s=fbc5582467c2bdc2938595b3ccc6b7dd"
+  },
+  {
+    "name": "Foxhound",
+    "prompt": "Foxhound from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/438340.jpg?s=fc661b406681559fd458a58f90eab538"
+  },
+  {
+    "name": "Fubuki",
+    "prompt": "Fubuki from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/409644.jpg?s=98a01fa5f2b559f2cb466e5908bce1ce"
+  },
+  {
+    "name": "Fumizuki",
+    "prompt": "Fumizuki from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/478789.jpg?s=67a9fb31ee86ccab5d5de6fd03ac2d03"
+  },
+  {
+    "name": "Furutaka",
+    "prompt": "Furutaka from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/478784.jpg?s=07f9fce91347f45deb8abec4a55b6964"
+  },
+  {
+    "name": "Fusou",
+    "prompt": "Fusou from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/478792.jpg?s=6f064bfaeafe0911e479cef05ef05fd8"
+  },
+  {
+    "name": "Glowworm",
+    "prompt": "Glowworm from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/478727.jpg?s=64268384c1061468d0b3cc824ef32588"
+  },
+  {
+    "name": "Gridley",
+    "prompt": "Gridley from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/478768.jpg?s=550a2a2b8ae5cbcdbaac1b0ee76cf1ca"
+  },
+  {
+    "name": "Hammann",
+    "prompt": "Hammann from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/462684.jpg?s=d35d7725db9aa685707fc093cc923f1a"
+  },
+  {
+    "name": "Hatakaze",
+    "prompt": "Hatakaze from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/478904.jpg?s=4e502201b020723a13466014a9ee9218"
+  },
+  {
+    "name": "Hatsuharu",
+    "prompt": "Hatsuharu from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/478735.jpg?s=8a8dc383ddbefb3c9f010b9fae9e1389"
+  },
+  {
+    "name": "Helena",
+    "prompt": "Helena from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/437573.jpg?s=88f369094043765102a9252d59cd9ca8"
+  },
+  {
+    "name": "Hiryuu",
+    "prompt": "Hiryuu from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/409607.jpg?s=8153412644a3d666e139400e1374d83f"
+  },
+  {
+    "name": "Hood",
+    "prompt": "Hood from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/409563.jpg?s=8d5fd2586b57fb73fbbac4f2bf7be78d"
+  },
+  {
+    "name": "Hornet",
+    "prompt": "Hornet from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/462681.jpg?s=accd87368d601079c689135a85133826"
+  },
+  {
+    "name": "Houston",
+    "prompt": "Houston from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/478776.jpg?s=78014b4e61c40842854d22a244b306ba"
+  },
+  {
+    "name": "Hyuuga",
+    "prompt": "Hyuuga from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/478860.jpg?s=7a52c4a9b53e2645f8fcecacd46fef6a"
+  },
+  {
+    "name": "Ikazuchi",
+    "prompt": "Ikazuchi from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/478899.jpg?s=f7bad605a20295aedd420bc36b5bbd3a"
+  },
+  {
+    "name": "Illustrious",
+    "prompt": "Illustrious from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/478456.jpg?s=bcf7b72e65ea7de490f34bb4a65a11a8"
+  },
+  {
+    "name": "Ise",
+    "prompt": "Ise from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/478781.jpg?s=eec7c50fb3e365252a8898d640663f2f"
+  },
+  {
+    "name": "Isuzu",
+    "prompt": "Isuzu from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/478903.jpg?s=87de501b9ff531b2c213cf75cbd27080"
+  },
+  {
+    "name": "Javelin",
+    "prompt": "Javelin from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/464822.jpg?s=2af8577e9b6132d772b7d869aa374184"
+  },
+  {
+    "name": "Jintsuu",
+    "prompt": "Jintsuu from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/478780.jpg?s=2e85fe1ff42e81581d53a3f0b855d498"
+  },
+  {
+    "name": "Köln",
+    "prompt": "Köln from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/478769.jpg?s=75f3fb7aa5e235cb7e2f00bd01035e70"
+  },
+  {
+    "name": "Kagerou",
+    "prompt": "Kagerou from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/478901.jpg?s=afdc023c7ef07ae7fc2501745de39537"
+  },
+  {
+    "name": "Kako",
+    "prompt": "Kako from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/478785.jpg?s=90233934d53d23c4bc8c81b2e907c9c1"
+  },
+  {
+    "name": "Kawakaze",
+    "prompt": "Kawakaze from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/409637.jpg?s=9093a35fb4dce20097229a8e8cc2a3e6"
+  },
+  {
+    "name": "Kent",
+    "prompt": "Kent from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/478777.jpg?s=59fbaddceb5d02a3a7ca59f3162f314f"
+  },
+  {
+    "name": "Kisaragi",
+    "prompt": "Kisaragi from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/478757.jpg?s=37448f907d3fd91b9592b1370328bdba"
+  },
+  {
+    "name": "Langley",
+    "prompt": "Langley from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/478861.jpg?s=30a0b4ba9b2300c479062e7bbca1a8cb"
+  },
+  {
+    "name": "London",
+    "prompt": "London from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/409634.jpg?s=c50fa2e7351e98da3961da8d722a5b0d"
+  },
+  {
+    "name": "Long Island",
+    "prompt": "Long Island from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/409618.jpg?s=73ddb062bc19a44aa5e546e2d74f8ea0"
+  },
+  {
+    "name": "Massachusetts",
+    "prompt": "Massachusetts from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/409611.jpg?s=b58cf243d62879f2f377e7303df48d97"
+  },
+  {
+    "name": "Mikasa",
+    "prompt": "Mikasa from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/437334.jpg?s=f67add9266091ef33f8cb58d559ea714"
+  },
+  {
+    "name": "Mikazuki",
+    "prompt": "Mikazuki from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/478788.jpg?s=01a20abd1cb972b4cac29075b8a52f48"
+  },
+  {
+    "name": "Minazuki",
+    "prompt": "Minazuki from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/478787.jpg?s=c5e8596ee4fb8efdfaad453c0d236a85"
+  },
+  {
+    "name": "Montpelier",
+    "prompt": "Montpelier from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/409617.jpg?s=6cb5bdb71ace92f31c0b85befde6329c"
+  },
+  {
+    "name": "Mutsu",
+    "prompt": "Mutsu from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/462257.jpg?s=aced52441ed46ad5f2962e1989bcbb2c"
+  },
+  {
+    "name": "Mutsuki",
+    "prompt": "Mutsuki from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/409624.jpg?s=ea96371fe5bd1c7df36f30bd8dd8da1c"
+  },
+  {
+    "name": "Nagara",
+    "prompt": "Nagara from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/478902.jpg?s=c1d7109dde23f06b0e2a1f485833421a"
+  },
+  {
+    "name": "Nagato",
+    "prompt": "Nagato from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/478758.jpg?s=2724609250c73105f902f67d71423fe0"
+  },
+  {
+    "name": "Nagatsuki",
+    "prompt": "Nagatsuki from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/478862.jpg?s=8ea212ade8dfd4d7bb8db8d9d262815c"
+  },
+  {
+    "name": "Naka",
+    "prompt": "Naka from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/478863.jpg?s=58c6fba34a669c2dc82d20a095ca9057"
+  },
+  {
+    "name": "Nelson",
+    "prompt": "Nelson from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/505542.jpg?s=a3956289f7e32a0561644720ec17c82b"
+  },
+  {
+    "name": "Nevada",
+    "prompt": "Nevada from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/478864.jpg?s=98ec02cb295d5fa4dad2d8502cc17cf4"
+  },
+  {
+    "name": "Ning Hai",
+    "prompt": "Ning Hai from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/409615.jpg?s=5fe5d20051df92955c60a3c1919f9304"
+  },
+  {
+    "name": "Norfolk",
+    "prompt": "Norfolk from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/478747.jpg?s=59707026d3240c3c0de0d838ff70b046"
+  },
+  {
+    "name": "Northampton",
+    "prompt": "Northampton from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/455805.jpg?s=089fb5e532636d23c71dff57ff5a2e15"
+  },
+  {
+    "name": "Observer",
+    "prompt": "Observer from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/409717.jpg?s=d361aa57f54035c2474fe93cb096b23c"
+  },
+  {
+    "name": "Oklahoma",
+    "prompt": "Oklahoma from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/478770.jpg?s=5fba516e58a8b37bfa908e443d96fd09"
+  },
+  {
+    "name": "Ping Hai",
+    "prompt": "Ping Hai from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/462512.jpg?s=42fc9a78bbc91683a67b2611e62a925a"
+  },
+  {
+    "name": "Portland",
+    "prompt": "Portland from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/456221.jpg?s=9c93afd6fb46da1815a95156cf4e6d95"
+  },
+  {
+    "name": "Prince of Wales",
+    "prompt": "Prince of Wales from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/395546.jpg?s=12411ea656866801d9100a0a3171390e"
+  },
+  {
+    "name": "Prinz Eugen",
+    "prompt": "Prinz Eugen from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/391270.jpg?s=ba2f54c70692511ad34fb588fbb07f5c"
+  },
+  {
+    "name": "Prototype Bulin MKII",
+    "prompt": "Prototype Bulin MKII from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/478906.jpg?s=c9147c793dcb880aae4fcb02a025b9dc"
+  },
+  {
+    "name": "Purifier",
+    "prompt": "Purifier from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/396628.jpg?s=60272d5f7c21660bfd6fffef8cae9067"
+  },
+  {
+    "name": "Queen Elizabeth",
+    "prompt": "Queen Elizabeth from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/504101.jpg?s=355a6888fcc2084d31af2875272ee265"
+  },
+  {
+    "name": "Renown",
+    "prompt": "Renown from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/478772.jpg?s=eeda44ea023e35897e2dd0f251babac8"
+  },
+  {
+    "name": "Repulse",
+    "prompt": "Repulse from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/478865.jpg?s=fb8b527c272d4a21349c2d3516f43eb2"
+  },
+  {
+    "name": "San Diego",
+    "prompt": "San Diego from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/464821.jpg?s=06122ca32d41bcbba16c82a80c182b2c"
+  },
+  {
+    "name": "Saratoga",
+    "prompt": "Saratoga from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/415130.jpg?s=25b31cac5de73789b6f160604705cc7b"
+  },
+  {
+    "name": "Sendai",
+    "prompt": "Sendai from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/478782.jpg?s=8605835fe5005587657d6938bb969b48"
+  },
+  {
+    "name": "Sheffield",
+    "prompt": "Sheffield from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/409642.jpg?s=c26cf4c138a2210937f9f27d336fc8af"
+  },
+  {
+    "name": "Shigure",
+    "prompt": "Shigure from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/409622.jpg?s=c7a4342669b431c0bea22a5635477950"
+  },
+  {
+    "name": "Shiranui",
+    "prompt": "Shiranui from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/395571.jpg?s=2a370b2950b68e4b42d0f665c1fa9e31"
+  },
+  {
+    "name": "Shiratsuyu",
+    "prompt": "Shiratsuyu from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/478900.jpg?s=36761ae51b7cc17096168454167257bf"
+  },
+  {
+    "name": "Shoukaku",
+    "prompt": "Shoukaku from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/462286.jpg?s=2b288fbb793a4146951c2a25028486f4"
+  },
+  {
+    "name": "Souryuu",
+    "prompt": "Souryuu from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/459450.jpg?s=152a21abe68f130f1e96384f97e82958"
+  },
+  {
+    "name": "Spence",
+    "prompt": "Spence from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/478732.jpg?s=148c162ae623f55eeea5e8ad578cfbe6"
+  },
+  {
+    "name": "St. Louis",
+    "prompt": "St. Louis from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/462230.jpg?s=35ac28e432a49b3db3e6f68ea00643ec"
+  },
+  {
+    "name": "Suffolk",
+    "prompt": "Suffolk from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/437575.jpg?s=19972224d849eb3980e04dee81991a73"
+  },
+  {
+    "name": "Takao",
+    "prompt": "Takao from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/409609.jpg?s=0b24cd37ad4d89f28af6ac764ffb96e9"
+  },
+  {
+    "name": "Tester",
+    "prompt": "Tester from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/409562.jpg?s=b43304ec23515122313e9eb5366c26ac"
+  },
+  {
+    "name": "Thatcher",
+    "prompt": "Thatcher from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/478730.jpg?s=7964d34f7f444ec5d6edc807997aad9c"
+  },
+  {
+    "name": "Unicorn",
+    "prompt": "Unicorn from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/396039.jpg?s=a1211cf111a448f0de30359038fc1386"
+  },
+  {
+    "name": "Universal Bulin",
+    "prompt": "Universal Bulin from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/478907.jpg?s=724a83bae35765ab1214e56352bd2abe"
+  },
+  {
+    "name": "Uzuki",
+    "prompt": "Uzuki from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/478786.jpg?s=8f9d331b3722e0cd3b41010c08f0443a"
+  },
+  {
+    "name": "Vestal",
+    "prompt": "Vestal from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/391480.jpg?s=86393245c0dfba0a66628f7268ced956"
+  },
+  {
+    "name": "Warspite",
+    "prompt": "Warspite from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/504184.jpg?s=b95a57eddde34a7864900cd2175f7d7c"
+  },
+  {
+    "name": "Yamashiro",
+    "prompt": "Yamashiro from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/437577.jpg?s=16d354e8b441e805e1b573027deae335"
+  },
+  {
+    "name": "Yorktown",
+    "prompt": "Yorktown from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/393222.jpg?s=484e469f4dc6f476dc30cec9499414e6"
+  },
+  {
+    "name": "Yukikaze",
+    "prompt": "Yukikaze from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/409621.jpg?s=326cea78723e7a6fa86f003524eb37c7"
+  },
+  {
+    "name": "Yuudachi",
+    "prompt": "Yuudachi from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/574087.jpg?s=fe0136adba89edce9c12c27e5263513f"
+  },
+  {
+    "name": "Yuugure",
+    "prompt": "Yuugure from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/478734.jpg?s=f79f2809728524fa9b647cfa0aad941c"
+  },
+  {
+    "name": "Z1",
+    "prompt": "Z1 from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/441992.jpg?s=4e0f06cf555885d07be7b5e8803862fa"
+  },
+  {
+    "name": "Z23",
+    "prompt": "Z23 from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/395548.jpg?s=bbb0568ebda2e8027acc8478b4a9340c"
+  },
+  {
+    "name": "Zuikaku",
+    "prompt": "Zuikaku from Azur Lane",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/462682.jpg?s=3b98b5b28d1f74f7aa820e7a334dfdb9"
+  }
+]

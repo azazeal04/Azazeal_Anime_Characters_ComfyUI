@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Drago",
+    "prompt": "Drago from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/119150.jpg?s=97c02cf670837568c857145bc6d0b4b2"
+  },
+  {
+    "name": "Kazami, Shun",
+    "prompt": "Kazami, Shun from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/119151.jpg?s=16e5365cd2b5127d22acd264684b72f8"
+  },
+  {
+    "name": "Kuusou, Danma",
+    "prompt": "Kuusou, Danma from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/119152.jpg?s=6a4638dc3ae82629b13cd4a67d48a1d2"
+  },
+  {
+    "name": "Lazar, Gunz",
+    "prompt": "Lazar, Gunz from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/431671.jpg?s=d19017aea195baef2344f18972f9d284"
+  },
+  {
+    "name": "Marukura, Chouji",
+    "prompt": "Marukura, Chouji from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/435348.jpg?s=31c158b3c0db280208235a300831cdb7"
+  },
+  {
+    "name": "Schwartz, Pamela",
+    "prompt": "Schwartz, Pamela from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/119270.jpg?s=24dae8eec9c3678410b5cb1698d2a061"
+  },
+  {
+    "name": "Waver, Ralph",
+    "prompt": "Waver, Ralph from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/431277.jpg?s=ca59fb2a652f2950698ec0823e0ab2ba"
+  },
+  {
+    "name": "Accelerak",
+    "prompt": "Accelerak from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/431595.jpg?s=fd1da6829ae04f78137f5a2fdc24b360"
+  },
+  {
+    "name": "Aerogan",
+    "prompt": "Aerogan from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/431627.jpg?s=c4ce351f2535622b9f43759a5e5d4d4d"
+  },
+  {
+    "name": "Amazon",
+    "prompt": "Amazon from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/431300.jpg?s=5150384a8a2330c109466d8176c058af"
+  },
+  {
+    "name": "Anubias",
+    "prompt": "Anubias from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/431276.jpg?s=8adf808f5a4802339a1310fb71174e07"
+  },
+  {
+    "name": "Aranaut",
+    "prompt": "Aranaut from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/427930.jpg?s=2da57c679138724af80c7e01bbf03dd8"
+  },
+  {
+    "name": "Argus",
+    "prompt": "Argus from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/431295.jpg?s=fe24a7be855cf17b3de710c5f9bd813d"
+  },
+  {
+    "name": "Asgard",
+    "prompt": "Asgard from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/431296.jpg?s=7b5d8e19c3645298d66b82f3710c0a21"
+  },
+  {
+    "name": "Balista",
+    "prompt": "Balista from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/431587.jpg?s=631a10fbfc4c2c72db8a32e658a758e2"
+  },
+  {
+    "name": "Barodius",
+    "prompt": "Barodius from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/427910.jpg?s=bce150b69ba200c0f41a7855a66fbb0e"
+  },
+  {
+    "name": "Betadron",
+    "prompt": "Betadron from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/431581.jpg?s=338909e1f9bc95abec9d3d7730628a02"
+  },
+  {
+    "name": "Callum",
+    "prompt": "Callum from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/431289.jpg?s=f790060e663170bbddf9ab01eacadd76"
+  },
+  {
+    "name": "Chromopod",
+    "prompt": "Chromopod from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/431674.jpg?s=1ce0e3986f3132ac51d65b1b9c66a3c0"
+  },
+  {
+    "name": "Code Eve",
+    "prompt": "Code Eve from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/427955.jpg?s=4041e3b64942508a6228b24367db9f35"
+  },
+  {
+    "name": "Damkar",
+    "prompt": "Damkar from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/431584.jpg?s=c6f45a6f561ddd1f31414e30727f4c5f"
+  },
+  {
+    "name": "Dharak",
+    "prompt": "Dharak from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/427937.jpg?s=861a5c996d7c9d3613f0ffebdf97f6c9"
+  },
+  {
+    "name": "Diablo",
+    "prompt": "Diablo from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/417193.jpg?s=665018e25a04adceb0c3f4a56b131100"
+  },
+  {
+    "name": "Donovan",
+    "prompt": "Donovan from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/431272.jpg?s=24c5ef0ec8fa5bb04ad999ac2b955d06"
+  },
+  {
+    "name": "Dreadeon",
+    "prompt": "Dreadeon from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/431602.jpg?s=081c1aebd3654ac9b2276e82b6e5aba5"
+  },
+  {
+    "name": "Dreadeon Titan",
+    "prompt": "Dreadeon Titan from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/431616.jpg?s=6a8df98c8850476ff94e8e921177c9ca"
+  },
+  {
+    "name": "Elfin",
+    "prompt": "Elfin from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/417369.jpg?s=56dd7c1a1240bd6364c8db8deebc83bc"
+  },
+  {
+    "name": "Elright",
+    "prompt": "Elright from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/427898.jpg?s=169a78b6044f5c5fb79bd4157747b63b"
+  },
+  {
+    "name": "Exodus",
+    "prompt": "Exodus from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/431598.jpg?s=2d1c3022d16c23ce12bf69611341d079"
+  },
+  {
+    "name": "Faser",
+    "prompt": "Faser from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/431294.jpg?s=92c16dd6cb4a74802d498e1aa7b3e1f9"
+  },
+  {
+    "name": "Faser Titan",
+    "prompt": "Faser Titan from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/431618.jpg?s=fb6a0954ace4a5006f88d996e8466d54"
+  },
+  {
+    "name": "Fermin, Mira",
+    "prompt": "Fermin, Mira from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/435352.jpg?s=754a9bd2678ec89b12406b8c9cd06545"
+  },
+  {
+    "name": "Flytris",
+    "prompt": "Flytris from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/431620.jpg?s=7a5f11689b97c94687ea1d25823625b4"
+  },
+  {
+    "name": "Fury",
+    "prompt": "Fury from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/431577.jpg?s=16965b10661dddab863d746668451690"
+  },
+  {
+    "name": "Genesis Dragonoid",
+    "prompt": "Genesis Dragonoid from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/431678.jpg?s=c8330bca8346f3a3dbadee8afb81acd5"
+  },
+  {
+    "name": "Gigarion",
+    "prompt": "Gigarion from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/431609.jpg?s=89b340ea6d1295ac11a7b0b1738be1a9"
+  },
+  {
+    "name": "Gira",
+    "prompt": "Gira from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/431599.jpg?s=c5af91f072857354a4441fbb839eeaed"
+  },
+  {
+    "name": "Gorem",
+    "prompt": "Gorem from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/417191.jpg?s=775e8ee2980747386045825dd411766f"
+  },
+  {
+    "name": "Grav, Gus",
+    "prompt": "Grav, Gus from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/119268.jpg?s=c19a7559c0236ab9e364ceae99d23cfe"
+  },
+  {
+    "name": "Helios",
+    "prompt": "Helios from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/417372.jpg?s=6618c906acd1c1d00bd52f693603f329"
+  },
+  {
+    "name": "Heyward, Julie",
+    "prompt": "Heyward, Julie from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/427356.jpg?s=93ac2275a924828d20df40f4b772a14b"
+  },
+  {
+    "name": "Hop Fokker",
+    "prompt": "Hop Fokker from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/431574.jpg?s=0ea2037d7e8b84adf54c234d0a3d25d1"
+  },
+  {
+    "name": "Hydranoid",
+    "prompt": "Hydranoid from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/417134.jpg?s=7b0bbea099b9b87c803aedc350cf376a"
+  },
+  {
+    "name": "Ingram",
+    "prompt": "Ingram from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/417367.jpg?s=e17cb27a6d17a73eff51e3f1e22575e3"
+  },
+  {
+    "name": "Jerryl",
+    "prompt": "Jerryl from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/431288.jpg?s=e393472949203cff71afab043929191f"
+  },
+  {
+    "name": "Katou",
+    "prompt": "Katou from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/417112.jpg?s=23925f862533a9425d89f9cc3ec33772"
+  },
+  {
+    "name": "Kodokor",
+    "prompt": "Kodokor from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/431586.jpg?s=7edcadc01c06634b5eb8b5c2b906760a"
+  },
+  {
+    "name": "Krawler, Ren",
+    "prompt": "Krawler, Ren from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/119272.jpg?s=d6464cafb64bb7cc61aaf4757113c96e"
+  },
+  {
+    "name": "Kuso, Miyoko",
+    "prompt": "Kuso, Miyoko from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/417117.jpg?s=95dba295614c3438136b714489b9d8f2"
+  },
+  {
+    "name": "Linehalt",
+    "prompt": "Linehalt from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/427947.jpg?s=7958ce2458eba5a18e5f434505242877"
+  },
+  {
+    "name": "Lorenz, Diago",
+    "prompt": "Lorenz, Diago from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/431281.jpg?s=a7f998dcbae80b1c0d1b69a3db685372"
+  },
+  {
+    "name": "Luger",
+    "prompt": "Luger from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/431575.jpg?s=331fbb9b755d6214e1139918261de37c"
+  },
+  {
+    "name": "Lukas",
+    "prompt": "Lukas from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/431290.jpg?s=70931157a0ddd8db8712cb8af6d8fc51"
+  },
+  {
+    "name": "Mag Mel",
+    "prompt": "Mag Mel from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/429523.jpg?s=23270ad2218338ce51e40c16b54f6c76"
+  },
+  {
+    "name": "Marie, Kris",
+    "prompt": "Marie, Kris from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/431285.jpg?s=3a030f68ba20406307ce52a8be68edcb"
+  },
+  {
+    "name": "Marukura, Kyosuke",
+    "prompt": "Marukura, Kyosuke from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/417061.jpg?s=1bd23ec3a0e6ef73417a10434fc2f101"
+  },
+  {
+    "name": "Misaki, Runo",
+    "prompt": "Misaki, Runo from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/427358.jpg?s=b80fd8980f0160b37f7cebb5e26653d6"
+  },
+  {
+    "name": "Mutabrid",
+    "prompt": "Mutabrid from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/431582.jpg?s=4dc084882c8dcc897feac74bd5569a40"
+  },
+  {
+    "name": "Noah",
+    "prompt": "Noah from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/431280.jpg?s=bf1a37958a5cecd0c41b9bba6d4251ae"
+  },
+  {
+    "name": "Nurzak",
+    "prompt": "Nurzak from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/427903.jpg?s=d4c3c8d04053ee30bf20b17a6ea21576"
+  },
+  {
+    "name": "Pahn Shade",
+    "prompt": "Pahn Shade from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/431570.jpg?s=9d778a3cc1f9e07d5777c5cebff2d569"
+  },
+  {
+    "name": "Phantom, Spectra",
+    "prompt": "Phantom, Spectra from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/119267.jpg?s=d86aad537d5c6cfe180283dac25c9700"
+  },
+  {
+    "name": "Phoenix",
+    "prompt": "Phoenix from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/417189.jpg?s=d0c840336f3560897d0c3037975c997f"
+  },
+  {
+    "name": "Preyas",
+    "prompt": "Preyas from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/407678.jpg?s=2ecf23cd2e23a054491ec64cc0ba4424"
+  },
+  {
+    "name": "Punt, Rev",
+    "prompt": "Punt, Rev from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/431282.jpg?s=70484375ddaff76ed4037bc91b120c97"
+  },
+  {
+    "name": "Razen",
+    "prompt": "Razen from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/431298.jpg?s=004f87a13afacf7765b6ae72000f7ef9"
+  },
+  {
+    "name": "Reptak",
+    "prompt": "Reptak from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/431567.jpg?s=02d457b656eaee0e0ac547cfd98ea464"
+  },
+  {
+    "name": "Robin",
+    "prompt": "Robin from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/431284.jpg?s=90cb05975bceefe3b7f6e917a3634b5f"
+  },
+  {
+    "name": "Rockstar",
+    "prompt": "Rockstar from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/431576.jpg?s=c3ba3a23ae0032b8777671210c6ba23d"
+  },
+  {
+    "name": "Sellon",
+    "prompt": "Sellon from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/431267.jpg?s=fecc4c4c2faffd1cdb48493c1dd62075"
+  },
+  {
+    "name": "Sheen, Fabia",
+    "prompt": "Sheen, Fabia from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/557641.jpg?s=9df34092e5cec806cff617d8c622e77d"
+  },
+  {
+    "name": "Silent Strike",
+    "prompt": "Silent Strike from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/431605.jpg?s=0aea25159666085cfba1252e722d61d2"
+  },
+  {
+    "name": "Sion",
+    "prompt": "Sion from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/431291.jpg?s=ad61e2cf28e6c1b6fbd92802282db47a"
+  },
+  {
+    "name": "Soon",
+    "prompt": "Soon from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/431287.jpg?s=dcc48c9f5ab1e48c176fcc88cdb0fbbd"
+  },
+  {
+    "name": "Spatterix",
+    "prompt": "Spatterix from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/431592.jpg?s=619558d145a9e2b92db25950c4b2ca3b"
+  },
+  {
+    "name": "Stronk",
+    "prompt": "Stronk from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/431593.jpg?s=0783faa5778c3bd0d889715df44388c7"
+  },
+  {
+    "name": "Swift Sweep",
+    "prompt": "Swift Sweep from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/431607.jpg?s=37120fe3b569e7e0d835312b9d2baabe"
+  },
+  {
+    "name": "Tesela",
+    "prompt": "Tesela from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/431601.jpg?s=8d3cf607046b275145c9fa1028309192"
+  },
+  {
+    "name": "Thorak",
+    "prompt": "Thorak from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/431619.jpg?s=0389410f660f6998e79aaa34376666b0"
+  },
+  {
+    "name": "Tigress",
+    "prompt": "Tigress from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/417190.jpg?s=c563fb52e2a45cd5ab582ef616edb7e7"
+  },
+  {
+    "name": "Tremblar",
+    "prompt": "Tremblar from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/431594.jpg?s=a81474d745308f7a299b9ee5638e83cd"
+  },
+  {
+    "name": "Tristar",
+    "prompt": "Tristar from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/431292.jpg?s=ef653c4703294ef1f2c24a3e3681bcf8"
+  },
+  {
+    "name": "Vexfist",
+    "prompt": "Vexfist from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/431596.jpg?s=4b11b087f1a587eee2a255b8d6449c50"
+  },
+  {
+    "name": "Vulcan",
+    "prompt": "Vulcan from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/417375.jpg?s=1d10f0da9769471e56e2055ebbd4d9c3"
+  },
+  {
+    "name": "War Orbe",
+    "prompt": "War Orbe from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/431573.jpg?s=6228b675a60d71d8c2c67a1408164f71"
+  },
+  {
+    "name": "Wiseman",
+    "prompt": "Wiseman from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/431565.jpg?s=5e5729f4509cc085ecfb278f08d30b81"
+  },
+  {
+    "name": "Worton",
+    "prompt": "Worton from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/431588.jpg?s=55d5d0907911b4cd891c080a768541b4"
+  },
+  {
+    "name": "Wyvern",
+    "prompt": "Wyvern from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/417203.jpg?s=3c3bd02674558245a0d68f745ce5e4bf"
+  },
+  {
+    "name": "Yoshida",
+    "prompt": "Yoshida from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/477632.jpg?s=a4b4b9ded1e2df7b6409887d09426746"
+  },
+  {
+    "name": "Zaram",
+    "prompt": "Zaram from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/431600.jpg?s=8072a1047052543279054a8e59d71ee6"
+  },
+  {
+    "name": "Zenthon",
+    "prompt": "Zenthon from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/431597.jpg?s=3d042c7be22cd7b2a734748c46aa9957"
+  },
+  {
+    "name": "Zenthon Titan",
+    "prompt": "Zenthon Titan from Bakugan Battle Brawlers: Mechtanium Surge",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/431613.jpg?s=54a11b9fd1fed50426d55b31c425844a"
+  }
+]

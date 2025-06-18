@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Drago",
+    "prompt": "Drago from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/119150.jpg?s=97c02cf670837568c857145bc6d0b4b2"
+  },
+  {
+    "name": "Gehabich, Alice",
+    "prompt": "Gehabich, Alice from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/79914.jpg?s=b51c5e02650f92dfdd3ee7bfde9ea907"
+  },
+  {
+    "name": "Heyward, Julie",
+    "prompt": "Heyward, Julie from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/427356.jpg?s=93ac2275a924828d20df40f4b772a14b"
+  },
+  {
+    "name": "Kazami, Shun",
+    "prompt": "Kazami, Shun from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/119151.jpg?s=16e5365cd2b5127d22acd264684b72f8"
+  },
+  {
+    "name": "Kuusou, Danma",
+    "prompt": "Kuusou, Danma from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/119152.jpg?s=6a4638dc3ae82629b13cd4a67d48a1d2"
+  },
+  {
+    "name": "Marukura, Chouji",
+    "prompt": "Marukura, Chouji from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/435348.jpg?s=31c158b3c0db280208235a300831cdb7"
+  },
+  {
+    "name": "Misaki, Runo",
+    "prompt": "Misaki, Runo from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/427358.jpg?s=b80fd8980f0160b37f7cebb5e26653d6"
+  },
+  {
+    "name": "Ai",
+    "prompt": "Ai from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/417024.jpg?s=3522e0d0edc09d0eb1df62393eef74f4"
+  },
+  {
+    "name": "Akira",
+    "prompt": "Akira from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/416854.jpg?s=26966e52062a4f3c321e322e4f7eb484"
+  },
+  {
+    "name": "Angelo",
+    "prompt": "Angelo from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/417192.jpg?s=7225f1ba53e526914b5b3dcf4108e6cd"
+  },
+  {
+    "name": "Ashura",
+    "prompt": "Ashura from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/417205.jpg?s=b80e8a14fd72b68448dbb8b32210fc72"
+  },
+  {
+    "name": "Clayf",
+    "prompt": "Clayf from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/417141.jpg?s=1933b9109fd195fd58646ea7249d1247"
+  },
+  {
+    "name": "Cyclops",
+    "prompt": "Cyclops from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/417207.jpg?s=84106119fec74ab16b27ec658496209d"
+  },
+  {
+    "name": "Diablo",
+    "prompt": "Diablo from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/417193.jpg?s=665018e25a04adceb0c3f4a56b131100"
+  },
+  {
+    "name": "Droa",
+    "prompt": "Droa from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/417202.jpg?s=a51a778c461076a958eb9d155fbad58d"
+  },
+  {
+    "name": "Exedra",
+    "prompt": "Exedra from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/417137.jpg?s=06d1396fc796a740bafe3151872d5365"
+  },
+  {
+    "name": "Fafnir",
+    "prompt": "Fafnir from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/417136.jpg?s=ca9db64e187a6089b6feb3f8ff747bcf"
+  },
+  {
+    "name": "Faust",
+    "prompt": "Faust from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/417200.jpg?s=ef7df6dd38dba4e9a54a5cb5b718f68c"
+  },
+  {
+    "name": "Flashal",
+    "prompt": "Flashal from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/417204.jpg?s=bfeaa0fbb0cfbc00b42a3cb117a0d28a"
+  },
+  {
+    "name": "Frosch",
+    "prompt": "Frosch from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/417140.jpg?s=eb67730ae0cc5f96af22215791bc5aac"
+  },
+  {
+    "name": "Gehabich, Ben",
+    "prompt": "Gehabich, Ben from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/430771.jpg?s=73f482aa769e07fedf116ba2bb92c969"
+  },
+  {
+    "name": "Gehabich, Michael",
+    "prompt": "Gehabich, Michael from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/417122.jpg?s=2a485c2be816be5f25885bd892904e93"
+  },
+  {
+    "name": "Gehabich, Clara",
+    "prompt": "Gehabich, Clara from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/430770.jpg?s=1a1cbe77ff344ec521126e0b8e331356"
+  },
+  {
+    "name": "Gilbert, Billy",
+    "prompt": "Gilbert, Billy from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/416867.jpg?s=976135fe97141392f6635a40ffe04347"
+  },
+  {
+    "name": "Gorem",
+    "prompt": "Gorem from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/417191.jpg?s=775e8ee2980747386045825dd411766f"
+  },
+  {
+    "name": "Hal-G",
+    "prompt": "Hal-G from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/416855.jpg?s=f88e593049c2b03657c6cc115f6f9dec"
+  },
+  {
+    "name": "Harpy",
+    "prompt": "Harpy from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/417208.jpg?s=7270b93e9ab06db54774c34ad3f8fb41"
+  },
+  {
+    "name": "Hayward, Daisy",
+    "prompt": "Hayward, Daisy from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/119156.jpg?s=9354db9078db9e3b9655524cf43a3241"
+  },
+  {
+    "name": "Hydranoid",
+    "prompt": "Hydranoid from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/417134.jpg?s=7b0bbea099b9b87c803aedc350cf376a"
+  },
+  {
+    "name": "Joe's Mother",
+    "prompt": "Joe's Mother from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/417115.jpg?s=5d935cb1fd91450d4a7937575a5aff03"
+  },
+  {
+    "name": "Kani",
+    "prompt": "Kani from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/416884.jpg?s=bd75054f658c4f1709ee56b6c0ffdf75"
+  },
+  {
+    "name": "Katou",
+    "prompt": "Katou from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/417112.jpg?s=23925f862533a9425d89f9cc3ec33772"
+  },
+  {
+    "name": "Kazami, Shiori",
+    "prompt": "Kazami, Shiori from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/417114.jpg?s=e8cab164ef09352ed04db320879c7bbf"
+  },
+  {
+    "name": "Keble",
+    "prompt": "Keble from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/417199.jpg?s=8986ee560f5f9859eaba4bf2553ed984"
+  },
+  {
+    "name": "Kenji",
+    "prompt": "Kenji from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/425284.jpg?s=f5efc607dfb29e51d2277bae073dee40"
+  },
+  {
+    "name": "Kenta",
+    "prompt": "Kenta from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/416892.jpg?s=5f5c21711c616362e0ea057a31298edf"
+  },
+  {
+    "name": "Komba",
+    "prompt": "Komba from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/416871.jpg?s=115b34a55147ff6e413b1925b4677bc7"
+  },
+  {
+    "name": "Kouichi",
+    "prompt": "Kouichi from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/417039.jpg?s=1bf4df6ca953f27bf36a3906aba32f20"
+  },
+  {
+    "name": "Kousuke",
+    "prompt": "Kousuke from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/417025.jpg?s=24451bc42cd6c6385633300ab650aef2"
+  },
+  {
+    "name": "Kuso, Miyoko",
+    "prompt": "Kuso, Miyoko from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/417117.jpg?s=95dba295614c3438136b714489b9d8f2"
+  },
+  {
+    "name": "Kuso, Shinjiro",
+    "prompt": "Kuso, Shinjiro from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/417118.jpg?s=6b2855c3e3266c79bef2f915105d934e"
+  },
+  {
+    "name": "Lars Lion",
+    "prompt": "Lars Lion from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/417138.jpg?s=60503f4ce0c47ef821a1b8cb9f905eed"
+  },
+  {
+    "name": "Lee, Chan",
+    "prompt": "Lee, Chan from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/416886.jpg?s=c14abe8d557801a84e5e8a0677e999f8"
+  },
+  {
+    "name": "Lucifer",
+    "prompt": "Lucifer from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/417133.jpg?s=ec3bbc10791493ea6cec150a396e6c87"
+  },
+  {
+    "name": "Makoto",
+    "prompt": "Makoto from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/417023.jpg?s=70f256322f2932136a6bb9f8c276ad7c"
+  },
+  {
+    "name": "Marukura, Shouko",
+    "prompt": "Marukura, Shouko from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/425808.jpg?s=37825d083a6d132d198bf26f389cf70d"
+  },
+  {
+    "name": "Marukura, Kyosuke",
+    "prompt": "Marukura, Kyosuke from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/417061.jpg?s=1bd23ec3a0e6ef73417a10434fc2f101"
+  },
+  {
+    "name": "Masquerade",
+    "prompt": "Masquerade from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/427640.jpg?s=388c9d1f7c960f85c0b0e97acf179919"
+  },
+  {
+    "name": "Misaki, Saki",
+    "prompt": "Misaki, Saki from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/417119.jpg?s=52120f8eafaee2907c2265f03ca18598"
+  },
+  {
+    "name": "Misaki, Tatsuo",
+    "prompt": "Misaki, Tatsuo from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/417120.jpg?s=b23a607b357b115ebbccbc0e9f238d27"
+  },
+  {
+    "name": "Ms. Pardy",
+    "prompt": "Ms. Pardy from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/477560.jpg?s=f8029731d02468a7169c07189fc336cb"
+  },
+  {
+    "name": "Nae",
+    "prompt": "Nae from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/416885.jpg?s=ed75def92edb8dbe55e6f84571a4639b"
+  },
+  {
+    "name": "Naga",
+    "prompt": "Naga from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/452471.jpg?s=d2c076cc70ec9c0aa82ab11f7bdd5f36"
+  },
+  {
+    "name": "Nene",
+    "prompt": "Nene from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/416853.jpg?s=1b377c6456c7663b873a1dfdc90c4b0f"
+  },
+  {
+    "name": "Oberon",
+    "prompt": "Oberon from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/417139.jpg?s=00fab8cb611b223b7cf1d279add42130"
+  },
+  {
+    "name": "Osamu, Joe",
+    "prompt": "Osamu, Joe from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/430766.jpg?s=039850857cb4b72261a5040787283adb"
+  },
+  {
+    "name": "Phoenix",
+    "prompt": "Phoenix from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/417189.jpg?s=d0c840336f3560897d0c3037975c997f"
+  },
+  {
+    "name": "Preyas",
+    "prompt": "Preyas from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/407678.jpg?s=2ecf23cd2e23a054491ec64cc0ba4424"
+  },
+  {
+    "name": "Reporter",
+    "prompt": "Reporter from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/477626.jpg?s=ecd3889f8157594e0d13d14af09c917a"
+  },
+  {
+    "name": "Rikimaru",
+    "prompt": "Rikimaru from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/417055.jpg?s=e15cb5bfc8e0d1aec2fb51adae32ac7d"
+  },
+  {
+    "name": "Rock",
+    "prompt": "Rock from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/417198.jpg?s=e9b87f935b8d0c9d9ed62d1e06e9b671"
+  },
+  {
+    "name": "Ryo",
+    "prompt": "Ryo from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/417054.jpg?s=f76c3d6ac931e418863aefafb3de7011"
+  },
+  {
+    "name": "Sage Lao Hu",
+    "prompt": "Sage Lao Hu from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/417196.jpg?s=8e69c2af510e155633d3ed1e833f37db"
+  },
+  {
+    "name": "Santana, Julio",
+    "prompt": "Santana, Julio from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/416863.jpg?s=e4efb538e79f03df65f5296c48de8497"
+  },
+  {
+    "name": "Shiltis",
+    "prompt": "Shiltis from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/417197.jpg?s=fefcf50fc8bcc21373c8d6e045aa895b"
+  },
+  {
+    "name": "Shire",
+    "prompt": "Shire from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/417201.jpg?s=3a0c1a7383394209bdb89829ea66f406"
+  },
+  {
+    "name": "Shuji",
+    "prompt": "Shuji from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/416851.jpg?s=0337fc0c54f15df385831fb8c633337c"
+  },
+  {
+    "name": "Shun's Grandfather",
+    "prompt": "Shun's Grandfather from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/417111.jpg?s=1fa57feb7fb15f240033e698c8afb574"
+  },
+  {
+    "name": "Siren",
+    "prompt": "Siren from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/417206.jpg?s=c1b60eee08fe1f8908f350682732eafb"
+  },
+  {
+    "name": "Takashi",
+    "prompt": "Takashi from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/417026.jpg?s=0447434cdca64083d6dc5494467c164f"
+  },
+  {
+    "name": "Tatsuya",
+    "prompt": "Tatsuya from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/417058.jpg?s=78b7a8f6a175be28c4290af150881b82"
+  },
+  {
+    "name": "Tigress",
+    "prompt": "Tigress from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/417190.jpg?s=c563fb52e2a45cd5ab582ef616edb7e7"
+  },
+  {
+    "name": "Tsuyoshi",
+    "prompt": "Tsuyoshi from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/417036.jpg?s=872c393120e4831c2f353308719d1613"
+  },
+  {
+    "name": "Tsuyoshi's Juggernaut",
+    "prompt": "Tsuyoshi's Juggernaut from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/477543.jpg?s=8fca89c4090092a955e3abbfd3f2a76c"
+  },
+  {
+    "name": "Von Hertzon, Klaus",
+    "prompt": "Von Hertzon, Klaus from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/400077.jpg?s=bb76e79937ff062d39aa98e12ea10d27"
+  },
+  {
+    "name": "Wyvern",
+    "prompt": "Wyvern from Bakugan Battle Brawlers",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/417203.jpg?s=3c3bd02674558245a0d68f745ce5e4bf"
+  }
+]
