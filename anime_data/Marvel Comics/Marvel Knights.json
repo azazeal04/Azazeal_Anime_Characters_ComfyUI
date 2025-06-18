@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Cloak",
+    "prompt": "Cloak from Marvel Knights",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/180-cloak.jpg"
+  },
+  {
+    "name": "Dagger",
+    "prompt": "Dagger from Marvel Knights",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/198-dagger.jpg"
+  },
+  {
+    "name": "Daredevil",
+    "prompt": "Daredevil from Marvel Knights",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/201-daredevil.jpg"
+  },
+  {
+    "name": "Moon Knight",
+    "prompt": "Moon Knight from Marvel Knights",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/470-moon-knight.jpg"
+  }
+]

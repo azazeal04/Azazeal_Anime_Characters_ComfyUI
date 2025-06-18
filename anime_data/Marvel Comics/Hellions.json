@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Cannonball",
+    "prompt": "Cannonball from Hellions",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/148-cannonball.jpg"
+  },
+  {
+    "name": "Wolfsbane",
+    "prompt": "Wolfsbane from Hellions",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/716-wolfsbane.jpg"
+  }
+]

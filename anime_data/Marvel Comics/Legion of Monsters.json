@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Ghost Rider",
+    "prompt": "Ghost Rider from Legion of Monsters",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/280-ghost-rider.jpg"
+  },
+  {
+    "name": "Man-Thing",
+    "prompt": "Man-Thing from Legion of Monsters",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/428-man-thing.jpg"
+  }
+]

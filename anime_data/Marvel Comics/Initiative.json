@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Justice",
+    "prompt": "Justice from Initiative",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/376-justice.jpg"
+  },
+  {
+    "name": "Ultragirl",
+    "prompt": "Ultragirl from Initiative",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/679-ultragirl.jpg"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Black Knight III",
+    "prompt": "Black Knight III from Knights of Wundagore",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/102-black-knight-iii.jpg"
+  },
+  {
+    "name": "Shadowcat",
+    "prompt": "Shadowcat from Knights of Wundagore",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/586-shadowcat.jpg"
+  }
+]

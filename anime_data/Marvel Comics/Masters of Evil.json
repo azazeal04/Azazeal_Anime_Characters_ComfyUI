@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Absorbing Man",
+    "prompt": "Absorbing Man from Masters of Evil",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/6-absorbing-man.jpg"
+  },
+  {
+    "name": "Mach-IV",
+    "prompt": "Mach-IV from Masters of Evil",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/421-mach-iv.jpg"
+  },
+  {
+    "name": "Moonstone",
+    "prompt": "Moonstone from Masters of Evil",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/471-moonstone.jpg"
+  },
+  {
+    "name": "Songbird",
+    "prompt": "Songbird from Masters of Evil",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/610-songbird.jpg"
+  },
+  {
+    "name": "Ultron",
+    "prompt": "Ultron from Masters of Evil",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/680-ultron.jpg"
+  },
+  {
+    "name": "Yellowjacket II",
+    "prompt": "Yellowjacket II from Masters of Evil",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/727-yellowjacket-ii.jpg"
+  }
+]

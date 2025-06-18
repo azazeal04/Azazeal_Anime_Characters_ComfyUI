@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Iron Man",
+    "prompt": "Iron Man from Illuminati",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/346-iron-man.jpg"
+  },
+  {
+    "name": "Professor X",
+    "prompt": "Professor X from Illuminati",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/527-professor-x.jpg"
+  }
+]

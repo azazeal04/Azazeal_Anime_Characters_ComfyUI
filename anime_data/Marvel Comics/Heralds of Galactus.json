@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Air-Walker",
+    "prompt": "Air-Walker from Heralds of Galactus",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/12-air-walker.jpg"
+  },
+  {
+    "name": "Fallen One II",
+    "prompt": "Fallen One II from Heralds of Galactus",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/252-fallen-one-ii.jpg"
+  }
+]

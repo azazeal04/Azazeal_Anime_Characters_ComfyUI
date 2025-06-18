@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Tiger Shark",
+    "prompt": "Tiger Shark from Lethal Legion",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/666-tiger-shark.jpg"
+  },
+  {
+    "name": "Ultron",
+    "prompt": "Ultron from Lethal Legion",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/680-ultron.jpg"
+  }
+]
