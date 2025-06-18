@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Cleric",
+    "prompt": "Cleric from Bikini Warriors OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/348956.jpg?s=a4f9666e9b3b131f4bc4f84a1fd34acb"
+  },
+  {
+    "name": "Dark Elf",
+    "prompt": "Dark Elf from Bikini Warriors OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/286228.jpg?s=e435c137d42ac66074cce75fb7754a9d"
+  },
+  {
+    "name": "Fighter",
+    "prompt": "Fighter from Bikini Warriors OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/286231.jpg?s=166add5940bdf4938e2ba99d3d062342"
+  },
+  {
+    "name": "Hunter",
+    "prompt": "Hunter from Bikini Warriors OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/286229.jpg?s=464df33f8fa3ce77c1b31f19ba22b292"
+  },
+  {
+    "name": "Mage",
+    "prompt": "Mage from Bikini Warriors OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/316853.jpg?s=0016ff7288af1409ade95d2a95853416"
+  },
+  {
+    "name": "Paladin",
+    "prompt": "Paladin from Bikini Warriors OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/286232.jpg?s=6ccd9b0995c13a436d7ce1394848a2ff"
+  },
+  {
+    "name": "Valkyrie",
+    "prompt": "Valkyrie from Bikini Warriors OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/286230.jpg?s=8b3fa303d08971704ab0751c03ac58b3"
+  },
+  {
+    "name": "Black Knight",
+    "prompt": "Black Knight from Bikini Warriors OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/520290.jpg?s=5e96639001e5817178cb787042296aea"
+  },
+  {
+    "name": "Kunoichi",
+    "prompt": "Kunoichi from Bikini Warriors OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/327333.jpg?s=178e0f239cd630c6569c32d016159cc9"
+  },
+  {
+    "name": "Necromancer",
+    "prompt": "Necromancer from Bikini Warriors OVA",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/520294.jpg?s=72e806bbeee5f899df51a1e067df8e56"
+  }
+]

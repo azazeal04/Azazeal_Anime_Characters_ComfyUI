@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Dark Elf",
+    "prompt": "Dark Elf from Bikini Warriors Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/286228.jpg?s=e435c137d42ac66074cce75fb7754a9d"
+  },
+  {
+    "name": "Fighter",
+    "prompt": "Fighter from Bikini Warriors Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/286231.jpg?s=166add5940bdf4938e2ba99d3d062342"
+  },
+  {
+    "name": "Mage",
+    "prompt": "Mage from Bikini Warriors Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/316853.jpg?s=0016ff7288af1409ade95d2a95853416"
+  },
+  {
+    "name": "Paladin",
+    "prompt": "Paladin from Bikini Warriors Special",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/286232.jpg?s=6ccd9b0995c13a436d7ce1394848a2ff"
+  }
+]
