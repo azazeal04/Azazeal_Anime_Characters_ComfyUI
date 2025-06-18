@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Asari",
+    "prompt": "Asari from Asari-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/271211.jpg?s=dffc19bf269ab6f30541129b66164c7f"
+  },
+  {
+    "name": "Ibara",
+    "prompt": "Ibara from Asari-chan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mama",
+    "prompt": "Mama from Asari-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/521902.jpg?s=256ba21b167a94e826b224d5dee208a2"
+  },
+  {
+    "name": "Nirou",
+    "prompt": "Nirou from Asari-chan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Papa",
+    "prompt": "Papa from Asari-chan",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/521903.jpg?s=afa99ce9172f9cd3bbe7fe2e986bb5a1"
+  },
+  {
+    "name": "Tatami",
+    "prompt": "Tatami from Asari-chan",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]
