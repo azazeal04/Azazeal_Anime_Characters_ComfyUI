@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Cibo",
+    "prompt": "Cibo from Blame! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/69264.jpg?s=052dc568cccfbb96181137c69bd5abc4"
+  },
+  {
+    "name": "Killy",
+    "prompt": "Killy from Blame! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/79586.jpg?s=cfda63c6686e2a6df2f26ee337bdbdf1"
+  },
+  {
+    "name": "Atsuji",
+    "prompt": "Atsuji from Blame! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/323399.jpg?s=2a66330cb0f0b5352f3ca1b0e43ea32e"
+  },
+  {
+    "name": "Fuku",
+    "prompt": "Fuku from Blame! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/351924.jpg?s=4d7d0770d81bc72346a826dbb8c106a9"
+  },
+  {
+    "name": "Fusata",
+    "prompt": "Fusata from Blame! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/323398.jpg?s=2d33926a60161ad09a055649d54622fc"
+  },
+  {
+    "name": "Oyassan",
+    "prompt": "Oyassan from Blame! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/323395.jpg?s=8167efe2a82d34bee75c43987eb07a9f"
+  },
+  {
+    "name": "Sanakan",
+    "prompt": "Sanakan from Blame! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/565110.jpg?s=6292420f44f731e94702d4f3898accdc"
+  },
+  {
+    "name": "Sutezou",
+    "prompt": "Sutezou from Blame! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/323396.jpg?s=eed4499d31f9f7ffc3cc117b7f47225c"
+  },
+  {
+    "name": "Tae",
+    "prompt": "Tae from Blame! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/323397.jpg?s=f8aed309f8893eb5d7c6f5232afc6820"
+  },
+  {
+    "name": "Touchikyoku",
+    "prompt": "Touchikyoku from Blame! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/414071.jpg?s=ee7864cd92ff8255cd0df11f8a301ff5"
+  },
+  {
+    "name": "Zuru",
+    "prompt": "Zuru from Blame! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/323394.jpg?s=f85bb231e5c196170e830b9ae5d8f1a9"
+  }
+]

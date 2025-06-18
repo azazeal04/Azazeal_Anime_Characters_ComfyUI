@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Aino, Minako",
+    "prompt": "Aino, Minako from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/324034.jpg?s=7d17dbc1f6b70cdea194ced7801ba645"
+  },
+  {
+    "name": "Chiba, Mamoru",
+    "prompt": "Chiba, Mamoru from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/160873.jpg?s=1e3d9cd0ff44497ee11dff97c018163b"
+  },
+  {
+    "name": "Chibiusa",
+    "prompt": "Chibiusa from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/324028.jpg?s=d01905ca22313c40e7481a72150a5354"
+  },
+  {
+    "name": "Helios",
+    "prompt": "Helios from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/249147.jpg?s=99a5b8563e7594582dd1931dc425b99a"
+  },
+  {
+    "name": "Hino, Rei",
+    "prompt": "Hino, Rei from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/324042.jpg?s=4f5c4f21c318790ca1e63a07b0f7b1af"
+  },
+  {
+    "name": "Kino, Makoto",
+    "prompt": "Kino, Makoto from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/324032.jpg?s=a977cea447833c962a846a71f7b46fb4"
+  },
+  {
+    "name": "Mizuno, Ami",
+    "prompt": "Mizuno, Ami from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/258703.jpg?s=c61aeb647982ae3e3dc33ec787d8fa4a"
+  },
+  {
+    "name": "Queen Nehellenia",
+    "prompt": "Queen Nehellenia from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/67687.jpg?s=e3afb053b09bc76372ea1a60e30984bd"
+  },
+  {
+    "name": "Tsukino, Usagi",
+    "prompt": "Tsukino, Usagi from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/312776.jpg?s=6048c7b4ea17ad1b1408c6464e531a73"
+  },
+  {
+    "name": "Zirconia",
+    "prompt": "Zirconia from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/115062.jpg?s=472d753a673f7ff2bf138b92b577fd38"
+  },
+  {
+    "name": "Aki",
+    "prompt": "Aki from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/66641.jpg?s=d9eb79c2bde49ea5758920ded83b771e"
+  },
+  {
+    "name": "Akiyama, Fuyumi",
+    "prompt": "Akiyama, Fuyumi from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/66631.jpg?s=819aa8e9bb673af76cec4e930f61cc86"
+  },
+  {
+    "name": "Akiyama, Miharu",
+    "prompt": "Akiyama, Miharu from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/66630.jpg?s=ee4474ad25613be0b85540c711b14c8b"
+  },
+  {
+    "name": "Artemis",
+    "prompt": "Artemis from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/67701.jpg?s=c5ee5747076ea85e11f6907d5f12aafb"
+  },
+  {
+    "name": "Autobiko",
+    "prompt": "Autobiko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/66638.jpg?s=95a548e6d91b09311c68c19536267e41"
+  },
+  {
+    "name": "Ayatoriko",
+    "prompt": "Ayatoriko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/66632.jpg?s=56484e7af5aeed763ed48592659badb2"
+  },
+  {
+    "name": "Battanko",
+    "prompt": "Battanko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/66637.jpg?s=fbed86987118a1cd3620f29ccb4daaec"
+  },
+  {
+    "name": "BiriBiri Yarou",
+    "prompt": "BiriBiri Yarou from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/92424.jpg?s=b67b39ef69d3333ebaa3de255cd4645f"
+  },
+  {
+    "name": "Buranko",
+    "prompt": "Buranko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/66627.jpg?s=a5bce32a89c450cfea7793c050ad1327"
+  },
+  {
+    "name": "CereCere",
+    "prompt": "CereCere from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/417014.jpg?s=fd623850d05a005f9cc3971c702bd240"
+  },
+  {
+    "name": "Diana",
+    "prompt": "Diana from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/136471.jpg?s=52255515c427dd0b57c3d087d7b16a8a"
+  },
+  {
+    "name": "Do Kanko",
+    "prompt": "Do Kanko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/66405.jpg?s=36456d659ba510f03d71e31b99158c63"
+  },
+  {
+    "name": "Elephanko",
+    "prompt": "Elephanko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/425909.jpg?s=e4a76dc58c9a57ef885e539df3b8403b"
+  },
+  {
+    "name": "Fish Eye",
+    "prompt": "Fish Eye from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/366509.jpg?s=21bcf13b8b82a0465b293c50add864f2"
+  },
+  {
+    "name": "Furuhata, Unazuki",
+    "prompt": "Furuhata, Unazuki from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/115243.jpg?s=ca00821ae394304dee4426146201b4ad"
+  },
+  {
+    "name": "Furuhata, Motoki",
+    "prompt": "Furuhata, Motoki from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/253641.jpg?s=a420ea8a2a664d3d4a075158f0cfbeef"
+  },
+  {
+    "name": "GaraGara Musume",
+    "prompt": "GaraGara Musume from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/67028.jpg?s=f4586b22004b703f7e829820c4d79626"
+  },
+  {
+    "name": "GariGari",
+    "prompt": "GariGari from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/425910.jpg?s=76d693119f6ca88e030567e8c900062c"
+  },
+  {
+    "name": "Gittanko",
+    "prompt": "Gittanko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/66636.jpg?s=113b227ba30ef1f146e1c05f57b73741"
+  },
+  {
+    "name": "Gomumario",
+    "prompt": "Gomumario from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/66633.jpg?s=be5c2f87eb5bf975d11b228995ab1418"
+  },
+  {
+    "name": "Grandpa Hino",
+    "prompt": "Grandpa Hino from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/115210.jpg?s=ab197ab390d3769ba48dd4832f9b0a6d"
+  },
+  {
+    "name": "Hawk's Eye",
+    "prompt": "Hawk's Eye from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/417013.jpg?s=a0da9ac7b09e7f946d3f0c6168ead127"
+  },
+  {
+    "name": "Hebihanabiko",
+    "prompt": "Hebihanabiko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/66496.jpg?s=9a8747547bbef600301cc507cf1a0601"
+  },
+  {
+    "name": "Ichinose, Natsumi",
+    "prompt": "Ichinose, Natsumi from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/66628.jpg?s=3d029c89282ed78db508fdfced31e7da"
+  },
+  {
+    "name": "Ichinose, Tomokazu",
+    "prompt": "Ichinose, Tomokazu from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/66629.jpg?s=981a54894091708651b0749ee364efe9"
+  },
+  {
+    "name": "JunJun",
+    "prompt": "JunJun from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/417016.jpg?s=4a7781cdadb10845a8765f82e692a749"
+  },
+  {
+    "name": "Karakuriko",
+    "prompt": "Karakuriko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/66403.jpg?s=5769d687eac6e920b38510777dd11caa"
+  },
+  {
+    "name": "KeroKero Musume",
+    "prompt": "KeroKero Musume from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/425911.jpg?s=d0972bebc0f552ed59e78d4844df0779"
+  },
+  {
+    "name": "Kigurumiko",
+    "prompt": "Kigurumiko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/66475.jpg?s=38dccc8ac78dd63084e0fc39e2b1f75a"
+  },
+  {
+    "name": "Kiriko",
+    "prompt": "Kiriko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/66647.jpg?s=25a09c5b5f79b95a006dd9798c7139cf"
+  },
+  {
+    "name": "Kitakata",
+    "prompt": "Kitakata from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/66525.jpg?s=79977e4b29b955798df9a70fa493ce49"
+  },
+  {
+    "name": "Kobayashi",
+    "prompt": "Kobayashi from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/66474.jpg?s=b9597b1796e2e677257ca893ea5acc40"
+  },
+  {
+    "name": "Kumada, Yuuichirou",
+    "prompt": "Kumada, Yuuichirou from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/115214.jpg?s=fe30c93747297adb926101f38d331839"
+  },
+  {
+    "name": "Kyokubadanko",
+    "prompt": "Kyokubadanko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/66404.jpg?s=82d84a80bf4912b4f1c2e02f6f6b5182"
+  },
+  {
+    "name": "Kyouko",
+    "prompt": "Kyouko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/67031.jpg?s=613ff0e72e8f1973757eb384e142e76c"
+  },
+  {
+    "name": "Luna",
+    "prompt": "Luna from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/251831.jpg?s=30c3ccc6ebfee7631cd6546a7206a862"
+  },
+  {
+    "name": "ManeMane Musume",
+    "prompt": "ManeMane Musume from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/67033.jpg?s=2b01e499e757b0f28126098ee9c2fa80"
+  },
+  {
+    "name": "Mawashitarou",
+    "prompt": "Mawashitarou from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/66643.jpg?s=bdf58809628b79f6649338e31f9e2374"
+  },
+  {
+    "name": "Mayako",
+    "prompt": "Mayako from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/66639.jpg?s=c576d044bca1a15dbbf23861a67bdebb"
+  },
+  {
+    "name": "Mister Magic Pierrot",
+    "prompt": "Mister Magic Pierrot from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/66877.jpg?s=66460dbd566fe87f45afbe264c19c77e"
+  },
+  {
+    "name": "Mizugeiko",
+    "prompt": "Mizugeiko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/64173.jpg?s=607a2cec3e29846b0239b5c46460549a"
+  },
+  {
+    "name": "Momohara, Momoko",
+    "prompt": "Momohara, Momoko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/115081.jpg?s=c8f37383d1c2b3a3438d1723be861658"
+  },
+  {
+    "name": "Morino",
+    "prompt": "Morino from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/66495.jpg?s=102abe07232f7f1c56807424919db342"
+  },
+  {
+    "name": "Nanako",
+    "prompt": "Nanako from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/67032.jpg?s=cccafb182df222e904476470147993be"
+  },
+  {
+    "name": "Nishimura, Reika",
+    "prompt": "Nishimura, Reika from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/427136.jpg?s=e76bc70ef6b428c79f1e1f45539a0458"
+  },
+  {
+    "name": "Nishino, Toshiyuki",
+    "prompt": "Nishino, Toshiyuki from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/67030.jpg?s=4aefb4a01dbca49d553caf7c246314e0"
+  },
+  {
+    "name": "Ohno, Ichirou",
+    "prompt": "Ohno, Ichirou from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/66640.jpg?s=7703d79d1cb5eaf218fd2dc52dfe37fa"
+  },
+  {
+    "name": "Oosaka, Naru",
+    "prompt": "Oosaka, Naru from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/251821.jpg?s=e7eeb87901b470bc5ca55182d5a18146"
+  },
+  {
+    "name": "Otedamako",
+    "prompt": "Otedamako from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/66472.jpg?s=e9d5ed31fe675aec9e173c7bb6b24147"
+  },
+  {
+    "name": "PallaPalla",
+    "prompt": "PallaPalla from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/417017.jpg?s=b4f3196152f205e722810f3cc72d338a"
+  },
+  {
+    "name": "Ponko",
+    "prompt": "Ponko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/66645.jpg?s=d370384d6fc9948ba112352ff200e352"
+  },
+  {
+    "name": "Princess Rubina",
+    "prompt": "Princess Rubina from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/465464.jpg?s=5aae8d5cd346189ffbeaa4f605e13ee7"
+  },
+  {
+    "name": "Puko",
+    "prompt": "Puko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/64177.jpg?s=42bd43a4ba8d56cbcabf07aa90bc8d4d"
+  },
+  {
+    "name": "Robert",
+    "prompt": "Robert from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/66642.jpg?s=91189063564a89ae986c6f8fb39d1e0e"
+  },
+  {
+    "name": "Saori",
+    "prompt": "Saori from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/66473.jpg?s=e943f95a4e8b7fb1a88b9fa815b30b9b"
+  },
+  {
+    "name": "Sarashina, Kyuusuke",
+    "prompt": "Sarashina, Kyuusuke from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/115244.jpg?s=5c52966e202b12088575dd93472539af"
+  },
+  {
+    "name": "Shuffle Furuo",
+    "prompt": "Shuffle Furuo from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/66873.jpg?s=cc1730c1a9f33629d6087e4731c64b57"
+  },
+  {
+    "name": "Sister Maria",
+    "prompt": "Sister Maria from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/66481.jpg?s=2479947da96368f29dd3c405495d1c59"
+  },
+  {
+    "name": "Takase, Tomoko",
+    "prompt": "Takase, Tomoko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/66484.jpg?s=245e8c04b6c0e3ee275799335a64dc2f"
+  },
+  {
+    "name": "Tenko",
+    "prompt": "Tenko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/64187.jpg?s=bfd24d81e0fef7b472135a5f1d5a2e3b"
+  },
+  {
+    "name": "Tiger's Eye",
+    "prompt": "Tiger's Eye from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/417021.jpg?s=79ccdc942dc4f258c0c9c664ac550205"
+  },
+  {
+    "name": "Tobihaneru",
+    "prompt": "Tobihaneru from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/66875.jpg?s=578117a8adb69c2a03b3789acd501230"
+  },
+  {
+    "name": "Tsukino, Kenji",
+    "prompt": "Tsukino, Kenji from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/104032.jpg?s=6f2b0f8723c7919316660064bffed9d8"
+  },
+  {
+    "name": "Tsukino, Shingo",
+    "prompt": "Tsukino, Shingo from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/251807.jpg?s=fcd2a022527bca822f9f2aa094a7f780"
+  },
+  {
+    "name": "Tsukino, Ikuko",
+    "prompt": "Tsukino, Ikuko from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/251809.jpg?s=47a2eb25b7ac29c6abf4241e35569ea6"
+  },
+  {
+    "name": "Tsunawatarou",
+    "prompt": "Tsunawatarou from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/66526.jpg?s=0a777e8933f9e0f587417b6ebcd78364"
+  },
+  {
+    "name": "Umino, Gurio",
+    "prompt": "Umino, Gurio from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/251813.jpg?s=27546905cb0ea75db9c963ecae908854"
+  },
+  {
+    "name": "Usui, Yoshiki",
+    "prompt": "Usui, Yoshiki from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/66634.jpg?s=b2a35c5de96d09317bd7c5d5caed395d"
+  },
+  {
+    "name": "VesVes",
+    "prompt": "VesVes from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/417018.jpg?s=1d64f119c628439dcc9f2ee19430e04c"
+  },
+  {
+    "name": "Yamagishi",
+    "prompt": "Yamagishi from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/66646.jpg?s=f032730bd8af1ca141e856987ec446bd"
+  },
+  {
+    "name": "Zircon",
+    "prompt": "Zircon from Bishoujo Senshi Sailor Moon SuperS",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/22085.jpg?s=d697220bce063e3fa30f4543c7378c14"
+  }
+]

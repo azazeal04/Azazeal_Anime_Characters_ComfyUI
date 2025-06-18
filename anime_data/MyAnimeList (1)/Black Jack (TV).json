@@ -1,0 +1,707 @@
+[
+  {
+    "name": "Hazama, Kuroo",
+    "prompt": "Hazama, Kuroo from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/302564.jpg?s=d9ccc0fe85b620df1c9bc267ba0e5a4c"
+  },
+  {
+    "name": "Hosuke, Sharaku",
+    "prompt": "Hosuke, Sharaku from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/307140.jpg?s=fc4b6a0f6dedea80b56bdd0928b0a3ba"
+  },
+  {
+    "name": "Pinoko",
+    "prompt": "Pinoko from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/334452.jpg?s=d87b74fd185f74796a82d35b764eb0a1"
+  },
+  {
+    "name": "Aotori, Michiru",
+    "prompt": "Aotori, Michiru from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/585872.jpg?s=5d4104d2efcbc2c00d29df14292e5548"
+  },
+  {
+    "name": "Arima, Akira",
+    "prompt": "Arima, Akira from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/585840.jpg?s=063a883f20cb3b8d2cd2dd99d96d548c"
+  },
+  {
+    "name": "Asato, Rei",
+    "prompt": "Asato, Rei from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/585873.jpg?s=b64e6d80f5ffef9fc021fb35e7f3923e"
+  },
+  {
+    "name": "Barbara",
+    "prompt": "Barbara from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/178807.jpg?s=0328ea4c2c08e61abfa566321208f9ff"
+  },
+  {
+    "name": "Big Mask",
+    "prompt": "Big Mask from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/585865.jpg?s=1c5d668ea287d06ff4513f0878652507"
+  },
+  {
+    "name": "Biwamaru",
+    "prompt": "Biwamaru from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/373586.jpg?s=81bf80e010b1a50a3efcad6592106bf6"
+  },
+  {
+    "name": "Boss of the Monster Maker Group",
+    "prompt": "Boss of the Monster Maker Group from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/585864.jpg?s=5420539e993bf4b3101c929a9a20a40f"
+  },
+  {
+    "name": "Captain",
+    "prompt": "Captain from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/585319.jpg?s=f0d58698c17e1213f56cc9e12338154a"
+  },
+  {
+    "name": "Chako",
+    "prompt": "Chako from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/585336.jpg?s=e04201ab1c34092aff67da63a8a87cf9"
+  },
+  {
+    "name": "Chiyoko, Wato",
+    "prompt": "Chiyoko, Wato from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/571447.jpg?s=117f85b984abf7a74fb9d61395f9e8b4"
+  },
+  {
+    "name": "Dr. Andou",
+    "prompt": "Dr. Andou from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/585884.jpg?s=641f4b44004ab76a7ae57351baf2b871"
+  },
+  {
+    "name": "Dr. Arayama",
+    "prompt": "Dr. Arayama from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/585915.jpg?s=111f23396804b11392d530c18d24f2d2"
+  },
+  {
+    "name": "Dr. Asakusa",
+    "prompt": "Dr. Asakusa from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/585903.jpg?s=7f728185555cde87960d15c2e2c5b6d6"
+  },
+  {
+    "name": "Dr. Eiji",
+    "prompt": "Dr. Eiji from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/585931.jpg?s=5b31628f7bc4532a0f882f41dc0a0c44"
+  },
+  {
+    "name": "Dr. Ito",
+    "prompt": "Dr. Ito from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/585924.jpg?s=90447bf680ed11a8f1c2e2185b16ca2c"
+  },
+  {
+    "name": "Dr. Kani",
+    "prompt": "Dr. Kani from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/585927.jpg?s=cb041172ada15022526330965619abe9"
+  },
+  {
+    "name": "Dr. Makino",
+    "prompt": "Dr. Makino from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/585914.jpg?s=a68253d04fa82c65c836df719cf8b993"
+  },
+  {
+    "name": "Dr. Saitou",
+    "prompt": "Dr. Saitou from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/585913.jpg?s=c3e7c664ef775958332a8873bf6d4524"
+  },
+  {
+    "name": "Dr. Shibata",
+    "prompt": "Dr. Shibata from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/585339.jpg?s=1b62a3ab3a5edeb0621473a1e0a9d41f"
+  },
+  {
+    "name": "Dr. Shiitake",
+    "prompt": "Dr. Shiitake from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/585337.jpg?s=5dfc82a0bd7a87ea3c7a77decdc85e2a"
+  },
+  {
+    "name": "Dr. Tachibana",
+    "prompt": "Dr. Tachibana from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/585925.jpg?s=47a49232f6dda9f985a5e22162809a0b"
+  },
+  {
+    "name": "Dr. Taguchi",
+    "prompt": "Dr. Taguchi from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/585909.jpg?s=f43b32611506ed8bc262e7a0a4020a9e"
+  },
+  {
+    "name": "Dr. Tatsumi",
+    "prompt": "Dr. Tatsumi from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/585920.jpg?s=7591b5cb156982f58bdb005b01fc6c41"
+  },
+  {
+    "name": "Dr. Togakushi",
+    "prompt": "Dr. Togakushi from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/585926.jpg?s=f732e413bd7f46b7cee27ef8f0488093"
+  },
+  {
+    "name": "Dr. Tokugawa",
+    "prompt": "Dr. Tokugawa from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/585338.jpg?s=8311ad1b364d747252987b9b9b6303b7"
+  },
+  {
+    "name": "Dr. Tsukuda",
+    "prompt": "Dr. Tsukuda from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/585939.jpg?s=bbd39baeeb5158f379d7809bc82a9cef"
+  },
+  {
+    "name": "Dr. Yamadano",
+    "prompt": "Dr. Yamadano from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/585321.jpg?s=3c48ecc8ffe39d1d20032d6b62aa00fa"
+  },
+  {
+    "name": "Dr. Yuuichi",
+    "prompt": "Dr. Yuuichi from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/585845.jpg?s=eb8c65817a85d134fd5ed8c9462ce485"
+  },
+  {
+    "name": "Dracula, Hakushaku",
+    "prompt": "Dracula, Hakushaku from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/335532.jpg?s=e9016ba92f46329c14d12b0212052ee8"
+  },
+  {
+    "name": "Eiichi",
+    "prompt": "Eiichi from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/585930.jpg?s=b7dc82e9399e73ace7682be691d8d3b3"
+  },
+  {
+    "name": "Eiko, Sono",
+    "prompt": "Eiko, Sono from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/585891.jpg?s=432184132405f76c3877b30fd4c9c1f7"
+  },
+  {
+    "name": "Eiko, Seisui",
+    "prompt": "Eiko, Seisui from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/585900.jpg?s=9e3912ecfd620a480bcc6a7615284619"
+  },
+  {
+    "name": "Futohara, Yasuo",
+    "prompt": "Futohara, Yasuo from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/585940.jpg?s=818e3a9d04d6b79290560b7e1e0a5c06"
+  },
+  {
+    "name": "Gen",
+    "prompt": "Gen from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/585880.jpg?s=bd1dc9336e5df2d7c97f043df8116c97"
+  },
+  {
+    "name": "Gonta",
+    "prompt": "Gonta from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/585887.jpg?s=2177567a43ff00d7bcd67ccd2ee4c0f4"
+  },
+  {
+    "name": "Gori",
+    "prompt": "Gori from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/585911.jpg?s=1897ca18c548d4f3e1bdfa1d0c4a561b"
+  },
+  {
+    "name": "Hachiya's Wife",
+    "prompt": "Hachiya's Wife from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/585906.jpg?s=0934effbf49b7c6176182b0fdad1fe79"
+  },
+  {
+    "name": "Ham Egg",
+    "prompt": "Ham Egg from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/118365.jpg?s=ea21ab80d85fc836286716548101f24a"
+  },
+  {
+    "name": "Hanamura, Kazue",
+    "prompt": "Hanamura, Kazue from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/585955.jpg?s=d7a412d6c64b3bc23e58b7d9d5198cce"
+  },
+  {
+    "name": "Hazama, Mio",
+    "prompt": "Hazama, Mio from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/585823.jpg?s=d681298f568fcfccdb2cd0a34ce17d7b"
+  },
+  {
+    "name": "Hige Oyaji",
+    "prompt": "Hige Oyaji from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/118366.jpg?s=7ff94db08af9777cad7ed1aa85a8b1c8"
+  },
+  {
+    "name": "Hisao",
+    "prompt": "Hisao from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/585341.jpg?s=cdf53dbbeb262499778625f0087bbbbe"
+  },
+  {
+    "name": "Hisao's Mother",
+    "prompt": "Hisao's Mother from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/585342.jpg?s=d76e625226b537ce4cccbb6f196dd9c0"
+  },
+  {
+    "name": "Holmes, Rock",
+    "prompt": "Holmes, Rock from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/284462.jpg?s=1646e408008274009f2e8364f13e4292"
+  },
+  {
+    "name": "Honma, Kumiko",
+    "prompt": "Honma, Kumiko from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/40313.jpg?s=a2afa1f155e8eade9fa0c4a080ae4861"
+  },
+  {
+    "name": "Honma, Joutarou",
+    "prompt": "Honma, Joutarou from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/328357.jpg?s=db7fff555098b4c93e0b0800c317dc50"
+  },
+  {
+    "name": "Ichinoseki, Kazuo",
+    "prompt": "Ichinoseki, Kazuo from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/585866.jpg?s=7e9408ca19cd54149da6817a28b4eb00"
+  },
+  {
+    "name": "Ichiro's Mother",
+    "prompt": "Ichiro's Mother from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/585934.jpg?s=a338673f20acd2e6093e4bb96f6b0af0"
+  },
+  {
+    "name": "Inspector",
+    "prompt": "Inspector from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/585932.jpg?s=5db7893bc135a1611178974721d6d898"
+  },
+  {
+    "name": "Jaws",
+    "prompt": "Jaws from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/585928.jpg?s=04419537f9e6b6937edcb215139e0f8b"
+  },
+  {
+    "name": "Jiro",
+    "prompt": "Jiro from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/585919.jpg?s=29b5c6222818e1e1fcdabc3c12fe72d2"
+  },
+  {
+    "name": "Jun",
+    "prompt": "Jun from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/585881.jpg?s=0e7df354868416b5564d25ca7c63727c"
+  },
+  {
+    "name": "Jun's Father",
+    "prompt": "Jun's Father from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/585895.jpg?s=9a5ee2f5cf3ebb0da31882034e588505"
+  },
+  {
+    "name": "Jun's Mother",
+    "prompt": "Jun's Mother from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/585896.jpg?s=2d28e8873c2ced0bee829d77f0feca96"
+  },
+  {
+    "name": "Kazuo's Mother",
+    "prompt": "Kazuo's Mother from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/585869.jpg?s=46296c24791281706a7b197c97510410"
+  },
+  {
+    "name": "Keaton",
+    "prompt": "Keaton from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/475446.jpg?s=7088faafa37cb083a0caaff1b19fbfb5"
+  },
+  {
+    "name": "Ken",
+    "prompt": "Ken from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/585910.jpg?s=61b659ab2454aef3379f53c6e9beb366"
+  },
+  {
+    "name": "Kisaragi, Megumi",
+    "prompt": "Kisaragi, Megumi from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/41600.jpg?s=fd76463790b3ffd732cd95557af7d1a1"
+  },
+  {
+    "name": "Kishida",
+    "prompt": "Kishida from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/585912.jpg?s=daea0cab203859e14bfb5336575a348c"
+  },
+  {
+    "name": "Kiyota",
+    "prompt": "Kiyota from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/585902.jpg?s=4c5a66aeb57a80d711e12953b92e185b"
+  },
+  {
+    "name": "Koizumi, Hachiya",
+    "prompt": "Koizumi, Hachiya from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/585839.jpg?s=2b34555307432b41b5f40544e3f1a15d"
+  },
+  {
+    "name": "Kojirou",
+    "prompt": "Kojirou from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/585871.jpg?s=5a9de99b0df0515ab6a567d78311a52d"
+  },
+  {
+    "name": "Komatsu",
+    "prompt": "Komatsu from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/585892.jpg?s=49a4fbe65a3d5f03b5965cef1e7745ca"
+  },
+  {
+    "name": "Kong",
+    "prompt": "Kong from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/585320.jpg?s=a016e9e4a25c3a53d70c14f4eb0611f1"
+  },
+  {
+    "name": "Kowa",
+    "prompt": "Kowa from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/585905.jpg?s=d87aa858a19f46a77069cf0a3d9e6dfb"
+  },
+  {
+    "name": "Kujiraoka",
+    "prompt": "Kujiraoka from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/585819.jpg?s=c404bc2e0d43eebbc70a22cdcd2d85b5"
+  },
+  {
+    "name": "Kujiraoka's Son",
+    "prompt": "Kujiraoka's Son from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/585820.jpg?s=b13f75ad49e2b0f21d678db712eceab2"
+  },
+  {
+    "name": "Kuma",
+    "prompt": "Kuma from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/585879.jpg?s=6d2663e911b68c571d2d54252090c65f"
+  },
+  {
+    "name": "Kuromatsu",
+    "prompt": "Kuromatsu from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/585936.jpg?s=21b732513e9ba4ec6498106f7d03618d"
+  },
+  {
+    "name": "Lamp, Acetylene",
+    "prompt": "Lamp, Acetylene from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/124285.jpg?s=5d5abf02106b07dfd9915e526d421799"
+  },
+  {
+    "name": "Largo",
+    "prompt": "Largo from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/40307.jpg?s=9ac9055263968b5551773c3bacf135ec"
+  },
+  {
+    "name": "Lunan",
+    "prompt": "Lunan from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/585921.jpg?s=3fd896b80a6e6647c699df7de8145a9e"
+  },
+  {
+    "name": "Lunan's Mother",
+    "prompt": "Lunan's Mother from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/585922.jpg?s=a5d663485c0e804298bbe9681f81fb26"
+  },
+  {
+    "name": "Lune",
+    "prompt": "Lune from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/106542.jpg?s=e1f313d9d0ff8c6902efae0ea2202dcd"
+  },
+  {
+    "name": "Maggie",
+    "prompt": "Maggie from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/585933.jpg?s=9a375ed813685c3c907097c524c06336"
+  },
+  {
+    "name": "Michiru's Father",
+    "prompt": "Michiru's Father from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/585877.jpg?s=44def07e22789a5c4c581138c0baae91"
+  },
+  {
+    "name": "Michiru's Mother",
+    "prompt": "Michiru's Mother from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/585878.jpg?s=4b93e19bd979e5697cb414de81460fb0"
+  },
+  {
+    "name": "Mika",
+    "prompt": "Mika from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/585883.jpg?s=6e0ee56ec29aeff0639b98abed4d231c"
+  },
+  {
+    "name": "Miriam",
+    "prompt": "Miriam from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/585848.jpg?s=20dd21684894fa4d7aa881c2b7c0ccca"
+  },
+  {
+    "name": "Mitsuo",
+    "prompt": "Mitsuo from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/585322.jpg?s=cc73a80dd18be91bd281e6c339c767e5"
+  },
+  {
+    "name": "Mitsuo's Mother",
+    "prompt": "Mitsuo's Mother from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/585323.jpg?s=96f4a7eb5270c0f3d66327366c2863a4"
+  },
+  {
+    "name": "Mizuhara, Yuko",
+    "prompt": "Mizuhara, Yuko from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/585944.jpg?s=087577827136a96bec0245a2ed9e285e"
+  },
+  {
+    "name": "Mizuhara",
+    "prompt": "Mizuhara from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/585901.jpg?s=809a2cb1f0ae87b0ad09db5c843a5bb8"
+  },
+  {
+    "name": "Morozov, Alexei",
+    "prompt": "Morozov, Alexei from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/585942.jpg?s=9f8d2ed85218aa6cec08b46b5ae93c68"
+  },
+  {
+    "name": "Morrison, Thomas",
+    "prompt": "Morrison, Thomas from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/585874.jpg?s=fbbb73d3f89dce726a749eafcfe4f6d6"
+  },
+  {
+    "name": "Mother",
+    "prompt": "Mother from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/585315.jpg?s=387941186f1548cf90738d28ded6689f"
+  },
+  {
+    "name": "Muramasa",
+    "prompt": "Muramasa from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/585340.jpg?s=2e7daca7072d016f02255cd92446fbd8"
+  },
+  {
+    "name": "Muraoka, Eiji",
+    "prompt": "Muraoka, Eiji from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/585885.jpg?s=daa787f9038772571823b26b051ccca7"
+  },
+  {
+    "name": "Muraoka",
+    "prompt": "Muraoka from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/585889.jpg?s=e694be46b8f6b7ed82e47a10118fdfa4"
+  },
+  {
+    "name": "Musashi",
+    "prompt": "Musashi from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/585870.jpg?s=17f88dea7c4ca8d7e1e63d323cb3ab11"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ooedo, Daigo",
+    "prompt": "Ooedo, Daigo from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/585882.jpg?s=d2e5450b37d5d803faf07d97727005ff"
+  },
+  {
+    "name": "Poacher",
+    "prompt": "Poacher from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/585317.jpg?s=74e3a73767b5c7ac46991aceb85d0922"
+  },
+  {
+    "name": "Public Prosecutor",
+    "prompt": "Public Prosecutor from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/585318.jpg?s=fe52986267434b4b21a91f786e3e556a"
+  },
+  {
+    "name": "Quack Doctor",
+    "prompt": "Quack Doctor from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/585904.jpg?s=ffa5be91523a2935be41973584ff8de8"
+  },
+  {
+    "name": "Ricky",
+    "prompt": "Ricky from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/585897.jpg?s=db1ec1e61270faa187abc2e884b834e6"
+  },
+  {
+    "name": "Romi",
+    "prompt": "Romi from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/585938.jpg?s=394ba95b633146d6e8dc7e8ac137c86b"
+  },
+  {
+    "name": "Sachi",
+    "prompt": "Sachi from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/585937.jpg?s=f1d11a5920d9320d3683d08572cc272d"
+  },
+  {
+    "name": "Saeki",
+    "prompt": "Saeki from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/585888.jpg?s=997dacfb42e6334fe3107e7b63b622b3"
+  },
+  {
+    "name": "Saitou, Tomoyuki",
+    "prompt": "Saitou, Tomoyuki from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/585951.jpg?s=05aa4c40077ff9cad81135ed5f4b3e66"
+  },
+  {
+    "name": "Sapphire",
+    "prompt": "Sapphire from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/118396.jpg?s=6546cb3e3e34f772a23a689102a8eb9d"
+  },
+  {
+    "name": "Satoru",
+    "prompt": "Satoru from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/585907.jpg?s=af46d5d895331ed268eb83290d3029ed"
+  },
+  {
+    "name": "Satoru's Mother",
+    "prompt": "Satoru's Mother from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/585908.jpg?s=35ff6cc676cc83e31ddebbecfcde674d"
+  },
+  {
+    "name": "Secretary",
+    "prompt": "Secretary from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/585314.jpg?s=6928e53aadfd6975e5a7eb5a728486a8"
+  },
+  {
+    "name": "Shimizu, Kiyomi",
+    "prompt": "Shimizu, Kiyomi from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/585875.jpg?s=919135a2f1b08d4758e4b226200f8003"
+  },
+  {
+    "name": "Sushi Chef",
+    "prompt": "Sushi Chef from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/585843.jpg?s=adf6d1deb1ca75e8f7587cae552735d2"
+  },
+  {
+    "name": "Suwa, Michihiko",
+    "prompt": "Suwa, Michihiko from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/585945.jpg?s=0d8d62f0b9d931e4112c400745b2a038"
+  },
+  {
+    "name": "Suzuta",
+    "prompt": "Suzuta from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/585923.jpg?s=ff9cd2d018fac237aa59c406ea60ab4a"
+  },
+  {
+    "name": "Tachibana, Toru",
+    "prompt": "Tachibana, Toru from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/585950.jpg?s=a01f44f3007081f65afa98b522f95964"
+  },
+  {
+    "name": "Taichi",
+    "prompt": "Taichi from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/585838.jpg?s=b7fddc01cebbc6354c9ead5ff0022090"
+  },
+  {
+    "name": "Taichi's Father",
+    "prompt": "Taichi's Father from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/585898.jpg?s=16f9d0f851f318a361f76ee9e3daf19f"
+  },
+  {
+    "name": "Takashi",
+    "prompt": "Takashi from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/585935.jpg?s=814303c751af6f87798871212fb37513"
+  },
+  {
+    "name": "Takashi",
+    "prompt": "Takashi from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/585316.jpg?s=8fad08d8625d50ae69cd3f8f490bc4eb"
+  },
+  {
+    "name": "Taku",
+    "prompt": "Taku from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/585842.jpg?s=2c3aa59e805b2f67eb384f191704c0e9"
+  },
+  {
+    "name": "Tanaka",
+    "prompt": "Tanaka from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/585288.jpg?s=9aacff8926d5c1a62a027e8f192e3f4c"
+  },
+  {
+    "name": "Tanigawa",
+    "prompt": "Tanigawa from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/585868.jpg?s=5a35bbfaa0c4e65d2e585d90d0008ee2"
+  },
+  {
+    "name": "Tendou, Ichiro",
+    "prompt": "Tendou, Ichiro from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/585953.jpg?s=bad0a724d04d866d9c7b2f5b88e99f83"
+  },
+  {
+    "name": "Tezuka, Osamu",
+    "prompt": "Tezuka, Osamu from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/81812.jpg?s=da6b33fe71de600d9ec3d25e067accfe"
+  },
+  {
+    "name": "Tezuka, Makoto",
+    "prompt": "Tezuka, Makoto from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/585952.jpg?s=3187fb00819f0c729b8577e5b097f829"
+  },
+  {
+    "name": "Tink",
+    "prompt": "Tink from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/52668.jpg?s=c6513079b0f0b2f9eacd21e71f41411d"
+  },
+  {
+    "name": "Tokoma, Shirou",
+    "prompt": "Tokoma, Shirou from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/585954.jpg?s=8c4db9a7759c9b559b18e6d46310e652"
+  },
+  {
+    "name": "Tomo",
+    "prompt": "Tomo from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/585918.jpg?s=dd571916508dfd28dbee66a8801b8ff9"
+  },
+  {
+    "name": "Tomo's Brother",
+    "prompt": "Tomo's Brother from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/585917.jpg?s=8417a6050f72076ef8ba5ddcd6c4dcb3"
+  },
+  {
+    "name": "Toranomon",
+    "prompt": "Toranomon from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/585890.jpg?s=e5fd4f8b01ee1ada49b460ec31733cc7"
+  },
+  {
+    "name": "Toshie",
+    "prompt": "Toshie from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/585867.jpg?s=39fbc6475dd94c91243a20cd2ecc4ff4"
+  },
+  {
+    "name": "Tsuyuko",
+    "prompt": "Tsuyuko from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/585894.jpg?s=3fa6a7f40e242152c9f72c0306ba762b"
+  },
+  {
+    "name": "Tsuyuko's Mother",
+    "prompt": "Tsuyuko's Mother from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/585893.jpg?s=0561179b8bcbbb4dffb635c6e19a48d7"
+  },
+  {
+    "name": "Ueto, Sho",
+    "prompt": "Ueto, Sho from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/585941.jpg?s=8b8ee45e6687fac61159bf71b217b317"
+  },
+  {
+    "name": "Ushigorou",
+    "prompt": "Ushigorou from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/585916.jpg?s=b1924a5db7ff9d89ecced6f684f51767"
+  },
+  {
+    "name": "Yamatoya, Gyo",
+    "prompt": "Yamatoya, Gyo from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/585948.jpg?s=08f461b4c51391b80db3bd2c330da990"
+  },
+  {
+    "name": "Yokoyama, Eizo",
+    "prompt": "Yokoyama, Eizo from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/585943.jpg?s=58f0e9dba55e1fd265e5063b0bb7c63e"
+  },
+  {
+    "name": "Yukio",
+    "prompt": "Yukio from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/585849.jpg?s=927f0b5b0669da9e27dc9b80936040df"
+  },
+  {
+    "name": "Yukio's Brother",
+    "prompt": "Yukio's Brother from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/585850.jpg?s=da88e6d1128721f8a734c47a689fc520"
+  },
+  {
+    "name": "Yukio's Mother",
+    "prompt": "Yukio's Mother from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/585863.jpg?s=865f631e12fd5692d626815cbd66de37"
+  },
+  {
+    "name": "Yuuichi's Mother",
+    "prompt": "Yuuichi's Mother from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/585844.jpg?s=6af3e94a49233a9cf36d001b24f0103f"
+  },
+  {
+    "name": "Yuuichi's Wife",
+    "prompt": "Yuuichi's Wife from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/585846.jpg?s=cc52067814309e1ef06fbe1fb40cf576"
+  },
+  {
+    "name": "Zephyrus",
+    "prompt": "Zephyrus from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/159233.jpg?s=5579db4bd75f62babe2d84c943bb4edd"
+  },
+  {
+    "name": "Zookeeper",
+    "prompt": "Zookeeper from Black Jack (TV)",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/585841.jpg?s=79909f7072c4030c4a3e23a1a3370ba3"
+  }
+]

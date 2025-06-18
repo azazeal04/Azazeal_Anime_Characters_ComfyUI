@@ -1,0 +1,767 @@
+[
+  {
+    "name": "Asta",
+    "prompt": "Asta from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/312836.jpg?s=f4ea6f575c53db8908baf0f874e33e70"
+  },
+  {
+    "name": "Silva, Noelle",
+    "prompt": "Silva, Noelle from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/338844.jpg?s=37d6d1f99de07821983285b9a3ac2614"
+  },
+  {
+    "name": "Yuno",
+    "prompt": "Yuno from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/318765.jpg?s=dbc2307d86d0e001e31b9aad6f12b21c"
+  },
+  {
+    "name": "Abari",
+    "prompt": "Abari from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/587552.jpg?s=8e82ae485ebc6e9e557933b7ecc791b4"
+  },
+  {
+    "name": "Adlai, Gauche",
+    "prompt": "Adlai, Gauche from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/338848.jpg?s=28f45d16f4108fda7684f19cde29f607"
+  },
+  {
+    "name": "Adlai, Marie",
+    "prompt": "Adlai, Marie from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/357534.jpg?s=fcd034ef07cfe26134076ff2cb1a7be1"
+  },
+  {
+    "name": "Agrippa, Jonna",
+    "prompt": "Agrippa, Jonna from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/434359.jpg?s=85c591336d6f47702f1e1af161437e0c"
+  },
+  {
+    "name": "Agrippa, Nathan",
+    "prompt": "Agrippa, Nathan from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/434358.jpg?s=7c492075d600b6c73481626ecaab234c"
+  },
+  {
+    "name": "Agrippa, Gordon",
+    "prompt": "Agrippa, Gordon from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/476331.jpg?s=3115618c6334573bde162e0a610e5c4f"
+  },
+  {
+    "name": "Agrippa, Roxanne",
+    "prompt": "Agrippa, Roxanne from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/434360.jpg?s=0f2a2c33f5c162e1a18e64dbc657bc95"
+  },
+  {
+    "name": "Agrippa, Nilenia",
+    "prompt": "Agrippa, Nilenia from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/434361.jpg?s=6d3664d4ee453096dd544bc31e8c1823"
+  },
+  {
+    "name": "Aguirre, Elvira",
+    "prompt": "Aguirre, Elvira from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/564587.jpg?s=c2ffb4a5f19d9edf5ac21fa6d413ea46"
+  },
+  {
+    "name": "Angel, Paulie",
+    "prompt": "Angel, Paulie from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/385134.jpg?s=f0ab38b7c4dc10b785884294844fce76"
+  },
+  {
+    "name": "Aquaria, Lily",
+    "prompt": "Aquaria, Lily from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/338861.jpg?s=ef2c48727eeb1da3283934e24d94ac58"
+  },
+  {
+    "name": "Aruru",
+    "prompt": "Aruru from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/341888.jpg?s=8a7eabcf0db9d98dbac5224ba5f3c689"
+  },
+  {
+    "name": "Barbary, Helene",
+    "prompt": "Barbary, Helene from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/374438.jpg?s=567a12a27d1b452475e2bea599a443b2"
+  },
+  {
+    "name": "Baro",
+    "prompt": "Baro from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/357535.jpg?s=7391765c3aa345ca81d8079912e7fdf8"
+  },
+  {
+    "name": "Becquerel, Letoile",
+    "prompt": "Becquerel, Letoile from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/399003.jpg?s=c74b71a7c8e21c2df503799ddb17f51e"
+  },
+  {
+    "name": "Benfunk, Ben",
+    "prompt": "Benfunk, Ben from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/385135.jpg?s=84def9e9d846c38911d525950f59672a"
+  },
+  {
+    "name": "Boismortier, Rill",
+    "prompt": "Boismortier, Rill from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/351522.jpg?s=558a521fe99c73d50a8e756d96a548f1"
+  },
+  {
+    "name": "Brint, Dmitri",
+    "prompt": "Brint, Dmitri from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/440447.jpg?s=4a8397f1952217aca6e8dc4c00269f32"
+  },
+  {
+    "name": "Broccos",
+    "prompt": "Broccos from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/369107.jpg?s=f14b3aa1750d03133165d9d9268478eb"
+  },
+  {
+    "name": "Bronzazza, Sekke",
+    "prompt": "Bronzazza, Sekke from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/338854.jpg?s=53e2b92e156a9e8d2423c364c08a0ddd"
+  },
+  {
+    "name": "Calmreich, Finesse",
+    "prompt": "Calmreich, Finesse from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/460185.jpg?s=42931db8b7ed9dc999927f3327e4e667"
+  },
+  {
+    "name": "Carillon, Kabwe",
+    "prompt": "Carillon, Kabwe from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/434364.jpg?s=eef558b5b269bb0046adbaa3a809968e"
+  },
+  {
+    "name": "Caseus, Hamon",
+    "prompt": "Caseus, Hamon from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/351515.jpg?s=8201bda730c7fa85aef7fb6c05ccaf12"
+  },
+  {
+    "name": "Catherine",
+    "prompt": "Catherine from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/353584.jpg?s=5c499c3885e75c526d2255d35a480d21"
+  },
+  {
+    "name": "Chagar, Ruben",
+    "prompt": "Chagar, Ruben from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/385137.jpg?s=9676102fd4f9b44cd03cff1ae6e47113"
+  },
+  {
+    "name": "Charla",
+    "prompt": "Charla from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/401514.jpg?s=f8efac5e2dabf29daa99e8f735b46d43"
+  },
+  {
+    "name": "Chevour, Halbet",
+    "prompt": "Chevour, Halbet from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/556889.jpg?s=8ea618b0294575b493db397dd291d9c4"
+  },
+  {
+    "name": "Code, Dominante",
+    "prompt": "Code, Dominante from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/369100.jpg?s=e179fb1ef558eb7da4ac20f9a4abdb95"
+  },
+  {
+    "name": "Cornell, Rick",
+    "prompt": "Cornell, Rick from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/381897.jpg?s=bbda3fd2d31c84ee55c7f7e7fce48184"
+  },
+  {
+    "name": "Drowa",
+    "prompt": "Drowa from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/401511.jpg?s=a1944cf62530d00dbf31213e878b0f49"
+  },
+  {
+    "name": "Eclat",
+    "prompt": "Eclat from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/564837.jpg?s=44f272f0b4b9f451c81aa61d74228fe8"
+  },
+  {
+    "name": "Elf Fana",
+    "prompt": "Elf Fana from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/397185.jpg?s=1046a1b15fccfb9a1858dbf860b31f7f"
+  },
+  {
+    "name": "Enoteca, Vanessa",
+    "prompt": "Enoteca, Vanessa from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/338849.jpg?s=a1136f2a61fa0fa033790daac3abbb28"
+  },
+  {
+    "name": "Fana",
+    "prompt": "Fana from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/352251.jpg?s=4002207f1b3d9d55d57c14ff63f095a9"
+  },
+  {
+    "name": "Faust, Nacht",
+    "prompt": "Faust, Nacht from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/476311.jpg?s=2f79188b3434b5240da3fbeb909668c1"
+  },
+  {
+    "name": "Floga",
+    "prompt": "Floga from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/429681.jpg?s=ed1fe8d116cd39b1d7b987472867596b"
+  },
+  {
+    "name": "Francois, Marx",
+    "prompt": "Francois, Marx from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/357890.jpg?s=1b42db0440c1d5ee99887b41c75cd4e2"
+  },
+  {
+    "name": "Gaja",
+    "prompt": "Gaja from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/407954.jpg?s=abacf51f85f02c23ed9e64c886a4dada"
+  },
+  {
+    "name": "Georg",
+    "prompt": "Georg from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/355355.jpg?s=6684c49250de113df33ee21350e35b9f"
+  },
+  {
+    "name": "Gifso",
+    "prompt": "Gifso from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/359991.jpg?s=4ad4a9707e0eeec2dcd68169e29a33c5"
+  },
+  {
+    "name": "Gimodelo",
+    "prompt": "Gimodelo from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/564068.jpg?s=46f531f2d8cc714529afecaf79ee2781"
+  },
+  {
+    "name": "Gio",
+    "prompt": "Gio from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/360925.jpg?s=179bcaa0353a22913127ee70b5c39d8c"
+  },
+  {
+    "name": "Godroc, Gaderois",
+    "prompt": "Godroc, Gaderois from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/440454.jpg?s=9a37c6977c8e89fe321f2a806212947a"
+  },
+  {
+    "name": "Goht",
+    "prompt": "Goht from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/568923.jpg?s=bf43287c9baf7dba4c4aa49d5d1785d8"
+  },
+  {
+    "name": "Granvorka, Kaiser",
+    "prompt": "Granvorka, Kaiser from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/375247.jpg?s=018014260ea310b1edc7b1a5e9a9a081"
+  },
+  {
+    "name": "Grey",
+    "prompt": "Grey from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/370159.jpg?s=6434f27baf3554320d606ee7d4f1ef9b"
+  },
+  {
+    "name": "Grice, Heath",
+    "prompt": "Grice, Heath from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/344127.jpg?s=37492eb094cba4ec044a5bfe39634d48"
+  },
+  {
+    "name": "Gris, Forte",
+    "prompt": "Gris, Forte from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/385139.jpg?s=6310731baecbdac8716c9ce623823264"
+  },
+  {
+    "name": "Hapshass, Salim",
+    "prompt": "Hapshass, Salim from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/349237.jpg?s=6afcd78f63e09f5c3a6ffc7d7bd36cdb"
+  },
+  {
+    "name": "Holo",
+    "prompt": "Holo from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/343532.jpg?s=1eaf461fe825a638e92988f15d4c14d8"
+  },
+  {
+    "name": "Ideale, Zara",
+    "prompt": "Ideale, Zara from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/381898.jpg?s=e66dc61819578acb1d792ede272f85f2"
+  },
+  {
+    "name": "Ideale, Zora",
+    "prompt": "Ideale, Zora from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/476198.jpg?s=bfdf3edd392e10d77edc47505690cdca"
+  },
+  {
+    "name": "Jack the Ripper",
+    "prompt": "Jack the Ripper from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/476133.jpg?s=155b6fcdaeb6b5dc5aff3bf5ac952da1"
+  },
+  {
+    "name": "Jamo",
+    "prompt": "Jamo from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/369128.jpg?s=363f270cdd1605e7f1d825eca4badf0c"
+  },
+  {
+    "name": "Kahono",
+    "prompt": "Kahono from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/357520.jpg?s=28bc085d9a7cc9986955816ee14ec3fe"
+  },
+  {
+    "name": "Kiato",
+    "prompt": "Kiato from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/360126.jpg?s=504cbab5a2c18d299389d67516d2b15e"
+  },
+  {
+    "name": "Kira, Damnatio",
+    "prompt": "Kira, Damnatio from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/401439.jpg?s=6a1e240be9b2e9695df8aba93d63063a"
+  },
+  {
+    "name": "Kira Clover XIII, Augustus",
+    "prompt": "Kira Clover XIII, Augustus from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/357532.jpg?s=bafa67a7fb551bf385438732a0f41a53"
+  },
+  {
+    "name": "Kravitz, Samantha",
+    "prompt": "Kravitz, Samantha from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/564588.jpg?s=782bd59e734f0f5cd1b73ed79480d025"
+  },
+  {
+    "name": "Kruger, Fanzell",
+    "prompt": "Kruger, Fanzell from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/366481.jpg?s=5a66376885058fa5e146761fc1cb83c3"
+  },
+  {
+    "name": "Ladros",
+    "prompt": "Ladros from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/367824.jpg?s=44eac55de08cdfe68f7e46ac92aba4b8"
+  },
+  {
+    "name": "Lagus",
+    "prompt": "Lagus from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/369106.jpg?s=0a06c7545765c553a372889c4696acdc"
+  },
+  {
+    "name": "Latry",
+    "prompt": "Latry from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/401515.jpg?s=6c8212d17a84426c187f4c434376aed7"
+  },
+  {
+    "name": "Legolant, Henry",
+    "prompt": "Legolant, Henry from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/375603.jpg?s=402c9ead4ff125f33a70221f2bc20349"
+  },
+  {
+    "name": "Licht",
+    "prompt": "Licht from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/390335.jpg?s=5f91e2c73abda19f67bee32f73e49d18"
+  },
+  {
+    "name": "Licita",
+    "prompt": "Licita from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/451979.jpg?s=e5cf573fbb9b094a905755e4b1dcec7e"
+  },
+  {
+    "name": "Liebe",
+    "prompt": "Liebe from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/436444.jpg?s=1b6fca2680d1d9f87f6efa51e65e47dd"
+  },
+  {
+    "name": "Lira",
+    "prompt": "Lira from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/401512.jpg?s=01e312353478675738160ba8be938f81"
+  },
+  {
+    "name": "Loropechika",
+    "prompt": "Loropechika from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/403787.jpg?s=6b21e36c6dc4570357870ed6e2147840"
+  },
+  {
+    "name": "Lucifero",
+    "prompt": "Lucifero from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/462810.jpg?s=4e154dd60904d55beb797ab5a4ff92d4"
+  },
+  {
+    "name": "Luftair, Randall",
+    "prompt": "Luftair, Randall from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/389636.jpg?s=033e75241d49fd61d11f14e2a6922e81"
+  },
+  {
+    "name": "Lugner, Xerx",
+    "prompt": "Lugner, Xerx from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/385053.jpg?s=705721a63534d6c87a1316890d29a5cd"
+  },
+  {
+    "name": "Lunettes, Klaus",
+    "prompt": "Lunettes, Klaus from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/338853.jpg?s=c4b11aca6cb8b28f1f0c3c4320106d8d"
+  },
+  {
+    "name": "Marco",
+    "prompt": "Marco from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/359993.jpg?s=b3574592f399632465fd08ef571683fd"
+  },
+  {
+    "name": "Mariella",
+    "prompt": "Mariella from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/369101.jpg?s=a5b6432399186c81e632543ce2157fd4"
+  },
+  {
+    "name": "Marron, Sol",
+    "prompt": "Marron, Sol from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/378713.jpg?s=2db50ad5187abdba0b3147e58b7ba21d"
+  },
+  {
+    "name": "Mars",
+    "prompt": "Mars from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/349478.jpg?s=4a6dcfeee70ea102e16077bd7388ef16"
+  },
+  {
+    "name": "Megicula",
+    "prompt": "Megicula from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/440460.jpg?s=62ab7363859dd01f770e6963367b781a"
+  },
+  {
+    "name": "Meshu",
+    "prompt": "Meshu from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/434363.jpg?s=4c2c0a30d8ed82017c6558f94a56b4d7"
+  },
+  {
+    "name": "Migusteau, Foyal",
+    "prompt": "Migusteau, Foyal from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/440449.jpg?s=e10960bbe41ec89e8dcbf6285e6b87d1"
+  },
+  {
+    "name": "Mohl",
+    "prompt": "Mohl from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/568922.jpg?s=6e5bc1f2405b0c2b0ee07c8b09d3ccb2"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nash",
+    "prompt": "Nash from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/341887.jpg?s=e082f2fe8b8d53462ebb40851f240227"
+  },
+  {
+    "name": "Neige",
+    "prompt": "Neige from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/357531.jpg?s=375835a80007bb803322a8d6212b15f4"
+  },
+  {
+    "name": "Nero",
+    "prompt": "Nero from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/366777.jpg?s=0ac83add1a3ae99f75b8d534a286b2e0"
+  },
+  {
+    "name": "Niaflem, Ralph",
+    "prompt": "Niaflem, Ralph from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/451981.jpg?s=3e5268cca29ab19f6a73e0544dbe8486"
+  },
+  {
+    "name": "Nocde, Bow",
+    "prompt": "Nocde, Bow from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/434366.jpg?s=75c0e17d0b45521c8d612d9bdc6c58f1"
+  },
+  {
+    "name": "North, Makusa",
+    "prompt": "North, Makusa from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/564479.jpg?s=1841c23787e2b8dbb421f3d8932f8632"
+  },
+  {
+    "name": "Novachrono, Julius",
+    "prompt": "Novachrono, Julius from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/474453.jpg?s=a66742ae73fbb1a9449472c2c0cca53a"
+  },
+  {
+    "name": "Orfai, Orsi",
+    "prompt": "Orfai, Orsi from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/338860.jpg?s=251dba088793b315aacc84cc22610340"
+  },
+  {
+    "name": "Owen",
+    "prompt": "Owen from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/369129.jpg?s=c083a3cd8ca16e4d0450d7d226460990"
+  },
+  {
+    "name": "Pappitson, Charmy",
+    "prompt": "Pappitson, Charmy from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/338850.jpg?s=b1e2ad8e574b87801a9225956dbfd88a"
+  },
+  {
+    "name": "Patry",
+    "prompt": "Patry from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/355350.jpg?s=e646c7fddef1ad52450141ddfe168daf"
+  },
+  {
+    "name": "Poizot, Gueldre",
+    "prompt": "Poizot, Gueldre from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/351523.jpg?s=c2888783479004716344de012741fabc"
+  },
+  {
+    "name": "Portaport, Cob",
+    "prompt": "Portaport, Cob from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/401509.jpg?s=9accd3941c8c4e8c41e1596712fabebe"
+  },
+  {
+    "name": "Potrof",
+    "prompt": "Potrof from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/428842.jpg?s=3132fdb533021b2dc3b2d5cbc304bf3b"
+  },
+  {
+    "name": "Ragus, Nils",
+    "prompt": "Ragus, Nils from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/381894.jpg?s=d55c7061a01b98730d7f387189458459"
+  },
+  {
+    "name": "Rapual, Theresa",
+    "prompt": "Rapual, Theresa from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/358596.jpg?s=0a7fcf4b98bcdbf1b64a334dcdd86d9a"
+  },
+  {
+    "name": "Recca",
+    "prompt": "Recca from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/341890.jpg?s=2e156ca338107ede543181b3dd64f16d"
+  },
+  {
+    "name": "Reve",
+    "prompt": "Reve from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/484365.jpg?s=34b4bbc1af842f03759182f05475bd08"
+  },
+  {
+    "name": "Rhya",
+    "prompt": "Rhya from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/359190.jpg?s=1b6808b5eac0c94df3cd812762c71184"
+  },
+  {
+    "name": "Ringard, En",
+    "prompt": "Ringard, En from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/381895.jpg?s=0aae062ff384b620c5404a409a3be03d"
+  },
+  {
+    "name": "Ronne",
+    "prompt": "Ronne from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/401513.jpg?s=a6a094bc200be301ed629c554fc43f0a"
+  },
+  {
+    "name": "Roselei, Charlotte",
+    "prompt": "Roselei, Charlotte from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/507586.jpg?s=c2becf3e659cf6cea8cbf8e98850372f"
+  },
+  {
+    "name": "Roulacase, Finral",
+    "prompt": "Roulacase, Finral from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/338845.jpg?s=e7067eebf2ff3f056f30260b0b1cbe50"
+  },
+  {
+    "name": "Salik, Revchi",
+    "prompt": "Salik, Revchi from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/349238.jpg?s=f618d1ab5b142483fce37929852c51af"
+  },
+  {
+    "name": "Sally",
+    "prompt": "Sally from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/354764.jpg?s=6f0658d8017d00c09864b583887a1280"
+  },
+  {
+    "name": "Sandler, Alecdora",
+    "prompt": "Sandler, Alecdora from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/355353.jpg?s=eecf3ebbda3d5515fffaad1e3493eb6c"
+  },
+  {
+    "name": "Scarlet, Rebecca",
+    "prompt": "Scarlet, Rebecca from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/348942.jpg?s=05abf573ca34a51d3f3a3083c70b518e"
+  },
+  {
+    "name": "Seyhe",
+    "prompt": "Seyhe from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/348941.jpg?s=11d5c69cd11b359f4df817bb77c0cb96"
+  },
+  {
+    "name": "Silva, Solid",
+    "prompt": "Silva, Solid from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/351517.jpg?s=922696f8c0ed50b7d6563e3cdb4c082c"
+  },
+  {
+    "name": "Silva, Nebra",
+    "prompt": "Silva, Nebra from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/351516.jpg?s=04be01c6e80a29589f85b0b3167aa845"
+  },
+  {
+    "name": "Silva, Acier",
+    "prompt": "Silva, Acier from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/385143.jpg?s=fa6a52b153aff4cda1c8145f321751af"
+  },
+  {
+    "name": "Silva, Nozel",
+    "prompt": "Silva, Nozel from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/476153.jpg?s=b4d93a2a8320be0c2f4cf803ee1142c6"
+  },
+  {
+    "name": "Silvamillion Clover, Lemiel",
+    "prompt": "Silvamillion Clover, Lemiel from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/399001.jpg?s=407358d4e5695afc96a22cc4f9313971"
+  },
+  {
+    "name": "Sitate, Erika",
+    "prompt": "Sitate, Erika from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/374439.jpg?s=a8e1ebfbba189108b1c91fe7298c39f8"
+  },
+  {
+    "name": "Spirito, Rades",
+    "prompt": "Spirito, Rades from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/351982.jpg?s=b67f43dfc2dc9fa9ed4f6252a9d43fdb"
+  },
+  {
+    "name": "Sukehiro, Yami",
+    "prompt": "Sukehiro, Yami from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/338843.jpg?s=d748ae4e0aeddec65092858616cedc33"
+  },
+  {
+    "name": "Swallow, David",
+    "prompt": "Swallow, David from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/428608.jpg?s=61cbf11210b7772af186e5ea3397fef9"
+  },
+  {
+    "name": "Swing, Magna",
+    "prompt": "Swing, Magna from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/338846.jpg?s=8de778bcc3f17932491054612976960f"
+  },
+  {
+    "name": "Sylph",
+    "prompt": "Sylph from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/351521.jpg?s=1dec5dc747ddd7f513057d85d3674eb5"
+  },
+  {
+    "name": "Talis, Digito",
+    "prompt": "Talis, Digito from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/390336.jpg?s=8cafca23d1e72936487b1c6c659ba353"
+  },
+  {
+    "name": "Tayak, Daz",
+    "prompt": "Tayak, Daz from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/434365.jpg?s=35efbedf394631422eb779237d65b50a"
+  },
+  {
+    "name": "Tetia",
+    "prompt": "Tetia from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/401510.jpg?s=0050b520acede2dbba416ca1a01322f3"
+  },
+  {
+    "name": "Tium, Shiren",
+    "prompt": "Tium, Shiren from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/351514.jpg?s=0ec854b47a45fc9b493b2ad2ad067fa6"
+  },
+  {
+    "name": "Toike",
+    "prompt": "Toike from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/587553.jpg?s=f1fd6a7662d418e826d15fb4de65d99f"
+  },
+  {
+    "name": "Tormenta, Fragil",
+    "prompt": "Tormenta, Fragil from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/381896.jpg?s=f2f75228ee2fbf1311c6307304d32dda"
+  },
+  {
+    "name": "Undine",
+    "prompt": "Undine from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/428524.jpg?s=df8d1e82c5db41bddabc4e5a9d38056e"
+  },
+  {
+    "name": "Unsworth, Dorothy",
+    "prompt": "Unsworth, Dorothy from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/405128.jpg?s=8423833ee66744ec998c8e2a1db1f387"
+  },
+  {
+    "name": "Valtos",
+    "prompt": "Valtos from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/351985.jpg?s=9dbb60d86576eda11964076f7f5cee35"
+  },
+  {
+    "name": "Vangeance, William",
+    "prompt": "Vangeance, William from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/486270.jpg?s=556ba405cb5e6f89d221993099627b88"
+  },
+  {
+    "name": "Vaude, Langris",
+    "prompt": "Vaude, Langris from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/364349.jpg?s=70f9e4e108fab810beb2467a6acd09bb"
+  },
+  {
+    "name": "Vermillion, Leopold",
+    "prompt": "Vermillion, Leopold from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/351518.jpg?s=d16b67f6e99a6c3e9d271ca0c050e32a"
+  },
+  {
+    "name": "Vermillion, Fuegoleon",
+    "prompt": "Vermillion, Fuegoleon from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/473479.jpg?s=e3a81379dda733187f27276566c667a3"
+  },
+  {
+    "name": "Vermillion, Mimosa",
+    "prompt": "Vermillion, Mimosa from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/334729.jpg?s=ad7978f5a8fca0cefa1ec200ff054d48"
+  },
+  {
+    "name": "Vermillion, Kirsch",
+    "prompt": "Vermillion, Kirsch from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/384680.jpg?s=f810c90dde63a076dff42479488e7342"
+  },
+  {
+    "name": "Vermillion, Mereoleona",
+    "prompt": "Vermillion, Mereoleona from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/375601.jpg?s=3525fb9f55d4920a4679eb2458f42973"
+  },
+  {
+    "name": "Vetto",
+    "prompt": "Vetto from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/476341.jpg?s=43c141e6008ed39193f8a5f24f785476"
+  },
+  {
+    "name": "Vide",
+    "prompt": "Vide from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/434362.jpg?s=31dfc1dd81b063c3e16fe9f5a1783696"
+  },
+  {
+    "name": "Vitesse, Rob",
+    "prompt": "Vitesse, Rob from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/402134.jpg?s=8e16d94eb3683bb38477f613d94b2bad"
+  },
+  {
+    "name": "Voltia, Luck",
+    "prompt": "Voltia, Luck from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/338847.jpg?s=2b5b1e60b774ea0304191285dc78e124"
+  },
+  {
+    "name": "Wainsley",
+    "prompt": "Wainsley from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/401508.jpg?s=a38df8395b2bd67ad562be23e453f75d"
+  },
+  {
+    "name": "Warren, Curtis",
+    "prompt": "Warren, Curtis from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/587555.jpg?s=25bb78acedf7513d2eabb98654102b51"
+  },
+  {
+    "name": "Whomalt, Lotus",
+    "prompt": "Whomalt, Lotus from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/351520.jpg?s=93dd36a5f965e269160c6bb616c56b9a"
+  },
+  {
+    "name": "Witch Queen",
+    "prompt": "Witch Queen from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/384171.jpg?s=d807d6446f4149ba84b2aaf44383a759"
+  },
+  {
+    "name": "Yagos",
+    "prompt": "Yagos from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/369130.jpg?s=dab60c9007beb1c7336ba73bd4398f9b"
+  },
+  {
+    "name": "Zagred",
+    "prompt": "Zagred from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/476342.jpg?s=3d503b25b1d54592f39f7b63a77967ff"
+  },
+  {
+    "name": "Zogratis, Dante",
+    "prompt": "Zogratis, Dante from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/426660.jpg?s=3bc1a474a177014ebefbd7972b4dade8"
+  },
+  {
+    "name": "Zogratis, Vanica",
+    "prompt": "Zogratis, Vanica from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/476135.jpg?s=1159b5cd3fbaebfe9eb0660f6b4fcca8"
+  },
+  {
+    "name": "Zogratis, Zenon",
+    "prompt": "Zogratis, Zenon from Black Clover",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/476134.jpg?s=5433268d19771a535a8c9a670566e6a2"
+  }
+]
