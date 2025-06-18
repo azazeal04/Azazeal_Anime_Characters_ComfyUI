@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Animal Man",
+    "prompt": "Animal Man from Justice League Europe",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/28-animal-man.jpg"
+  },
+  {
+    "name": "Elongated Man",
+    "prompt": "Elongated Man from Justice League Europe",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/240-elongated-man.jpg"
+  },
+  {
+    "name": "Hal Jordan",
+    "prompt": "Hal Jordan from Justice League Europe",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/306-hal-jordan.jpg"
+  },
+  {
+    "name": "Power Girl",
+    "prompt": "Power Girl from Justice League Europe",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/524-power-girl.jpg"
+  }
+]

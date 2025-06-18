@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Atom Girl",
+    "prompt": "Atom Girl from Legion of Super-Heroes",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/52-atom-girl.jpg"
+  },
+  {
+    "name": "Brainiac 5",
+    "prompt": "Brainiac 5 from Legion of Super-Heroes",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/137-brainiac-5.jpg"
+  },
+  {
+    "name": "Light Lass",
+    "prompt": "Light Lass from Legion of Super-Heroes",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/406-light-lass.jpg"
+  },
+  {
+    "name": "Lightning Lad",
+    "prompt": "Lightning Lad from Legion of Super-Heroes",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/407-lightning-lad.jpg"
+  },
+  {
+    "name": "Micro Lad",
+    "prompt": "Micro Lad from Legion of Super-Heroes",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/451-micro-lad.jpg"
+  },
+  {
+    "name": "Superboy",
+    "prompt": "Superboy from Legion of Super-Heroes",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/641-superboy.jpg"
+  },
+  {
+    "name": "Supergirl",
+    "prompt": "Supergirl from Legion of Super-Heroes",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/643-supergirl.jpg"
+  },
+  {
+    "name": "Triplicate Girl",
+    "prompt": "Triplicate Girl from Legion of Super-Heroes",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/676-triplicate-girl.jpg"
+  },
+  {
+    "name": "Wildfire",
+    "prompt": "Wildfire from Legion of Super-Heroes",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/713-wildfire.jpg"
+  }
+]

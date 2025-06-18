@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Aqualad",
+    "prompt": "Aqualad from Teen Titans",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/37-aqualad.jpg"
+  },
+  {
+    "name": "Atom II",
+    "prompt": "Atom II from Teen Titans",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/53-atom-ii.jpg"
+  },
+  {
+    "name": "Bushido",
+    "prompt": "Bushido from Teen Titans",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/144-bushido.jpg"
+  },
+  {
+    "name": "Hawk",
+    "prompt": "Hawk from Teen Titans",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/312-hawk.jpg"
+  },
+  {
+    "name": "Kid Flash",
+    "prompt": "Kid Flash from Teen Titans",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/384-kid-flash.jpg"
+  },
+  {
+    "name": "Miss Martian",
+    "prompt": "Miss Martian from Teen Titans",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/455-miss-martian.jpg"
+  },
+  {
+    "name": "Raven",
+    "prompt": "Raven from Teen Titans",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/542-raven.jpg"
+  },
+  {
+    "name": "Red Arrow",
+    "prompt": "Red Arrow from Teen Titans",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/545-red-arrow.jpg"
+  },
+  {
+    "name": "Starfire",
+    "prompt": "Starfire from Teen Titans",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/632-starfire.jpg"
+  },
+  {
+    "name": "Static",
+    "prompt": "Static from Teen Titans",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/634-static.jpg"
+  },
+  {
+    "name": "Superboy",
+    "prompt": "Superboy from Teen Titans",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/641-superboy.jpg"
+  },
+  {
+    "name": "Supergirl",
+    "prompt": "Supergirl from Teen Titans",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/643-supergirl.jpg"
+  },
+  {
+    "name": "Wonder Girl",
+    "prompt": "Wonder Girl from Teen Titans",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/718-wonder-girl.jpg"
+  }
+]

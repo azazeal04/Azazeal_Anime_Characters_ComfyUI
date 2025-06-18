@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Black Canary",
+    "prompt": "Black Canary from Justice League Task Force",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/97-black-canary.jpg"
+  },
+  {
+    "name": "Martian Manhunter",
+    "prompt": "Martian Manhunter from Justice League Task Force",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/432-martian-manhunter.jpg"
+  },
+  {
+    "name": "Maxima",
+    "prompt": "Maxima from Justice League Task Force",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/439-maxima.jpg"
+  },
+  {
+    "name": "Ray",
+    "prompt": "Ray from Justice League Task Force",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/543-ray.jpg"
+  }
+]

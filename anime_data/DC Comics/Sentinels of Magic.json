@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aqualad",
+    "prompt": "Aqualad from Sentinels of Magic",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/37-aqualad.jpg"
+  },
+  {
+    "name": "Enchantress",
+    "prompt": "Enchantress from Sentinels of Magic",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/242-enchantress.jpg"
+  },
+  {
+    "name": "Zatanna",
+    "prompt": "Zatanna from Sentinels of Magic",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/730-zatanna.jpg"
+  }
+]

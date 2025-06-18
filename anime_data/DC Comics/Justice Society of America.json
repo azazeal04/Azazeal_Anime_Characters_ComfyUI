@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Black Adam",
+    "prompt": "Black Adam from Justice Society of America",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/95-black-adam.jpg"
+  },
+  {
+    "name": "Black Canary",
+    "prompt": "Black Canary from Justice Society of America",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/97-black-canary.jpg"
+  },
+  {
+    "name": "Black Canary",
+    "prompt": "Black Canary from Justice Society of America",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/98-black-canary.jpg"
+  },
+  {
+    "name": "Captain Marvel",
+    "prompt": "Captain Marvel from Justice Society of America",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/156-captain-marvel.jpg"
+  },
+  {
+    "name": "Citizen Steel",
+    "prompt": "Citizen Steel from Justice Society of America",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/177-citizen-steel.jpg"
+  },
+  {
+    "name": "Doctor Fate",
+    "prompt": "Doctor Fate from Justice Society of America",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/224-doctor-fate.jpg"
+  },
+  {
+    "name": "Flash",
+    "prompt": "Flash from Justice Society of America",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/263-flash.jpg"
+  },
+  {
+    "name": "Power Girl",
+    "prompt": "Power Girl from Justice Society of America",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/524-power-girl.jpg"
+  },
+  {
+    "name": "Red Tornado",
+    "prompt": "Red Tornado from Justice Society of America",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/551-red-tornado.jpg"
+  },
+  {
+    "name": "Stargirl",
+    "prompt": "Stargirl from Justice Society of America",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/633-stargirl.jpg"
+  }
+]

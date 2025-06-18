@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Alfred Pennyworth",
+    "prompt": "Alfred Pennyworth from Outsiders",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/17-alfred-pennyworth.jpg"
+  },
+  {
+    "name": "Batman",
+    "prompt": "Batman from Outsiders",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/70-batman.jpg"
+  },
+  {
+    "name": "Elongated Man",
+    "prompt": "Elongated Man from Outsiders",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/240-elongated-man.jpg"
+  },
+  {
+    "name": "Martian Manhunter",
+    "prompt": "Martian Manhunter from Outsiders",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/432-martian-manhunter.jpg"
+  },
+  {
+    "name": "Starfire",
+    "prompt": "Starfire from Outsiders",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/632-starfire.jpg"
+  },
+  {
+    "name": "Supergirl",
+    "prompt": "Supergirl from Outsiders",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/643-supergirl.jpg"
+  }
+]

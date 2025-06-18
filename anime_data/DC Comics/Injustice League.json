@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Captain Cold",
+    "prompt": "Captain Cold from Injustice League",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/152-captain-cold.jpg"
+  },
+  {
+    "name": "Catwoman",
+    "prompt": "Catwoman from Injustice League",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/165-catwoman.jpg"
+  },
+  {
+    "name": "Cheetah III",
+    "prompt": "Cheetah III from Injustice League",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/174-cheetah-iii.jpg"
+  },
+  {
+    "name": "Joker",
+    "prompt": "Joker from Injustice League",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/370-joker.jpg"
+  },
+  {
+    "name": "Lex Luthor",
+    "prompt": "Lex Luthor from Injustice League",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/405-lex-luthor.jpg"
+  },
+  {
+    "name": "Sinestro",
+    "prompt": "Sinestro from Injustice League",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/601-sinestro.jpg"
+  },
+  {
+    "name": "Solomon Grundy",
+    "prompt": "Solomon Grundy from Injustice League",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/609-solomon-grundy.jpg"
+  }
+]

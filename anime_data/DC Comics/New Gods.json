@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Big Barda",
+    "prompt": "Big Barda from New Gods",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/81-big-barda.jpg"
+  },
+  {
+    "name": "Metron",
+    "prompt": "Metron from New Gods",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/448-metron.jpg"
+  }
+]
