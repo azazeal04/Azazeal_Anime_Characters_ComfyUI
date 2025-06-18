@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Anna",
+    "prompt": "Anna from Bousai Keihatsu Douga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/344324.jpg?s=edc2fc0fa8caf2fc57f2b15b95c5fa21"
+  },
+  {
+    "name": "Bob",
+    "prompt": "Bob from Bousai Keihatsu Douga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/344330.jpg?s=cc58fb25663380ed64186f587321b173"
+  },
+  {
+    "name": "George",
+    "prompt": "George from Bousai Keihatsu Douga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/344322.jpg?s=ba5b996eeb665cdecc4fea1435c79bf2"
+  },
+  {
+    "name": "Hana",
+    "prompt": "Hana from Bousai Keihatsu Douga",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kaori",
+    "prompt": "Kaori from Bousai Keihatsu Douga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/344331.jpg?s=301cb2873bb96f1978ead8ef88f0720e"
+  },
+  {
+    "name": "Lee",
+    "prompt": "Lee from Bousai Keihatsu Douga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/344328.jpg?s=7102f74ad340f7c0addc973ee0743275"
+  },
+  {
+    "name": "Michelle",
+    "prompt": "Michelle from Bousai Keihatsu Douga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/344326.jpg?s=9aa341354fe9560be7da950d0c85eab1"
+  },
+  {
+    "name": "Mr. Sato",
+    "prompt": "Mr. Sato from Bousai Keihatsu Douga",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/344332.jpg?s=0273954e7b02411f348efbdb8b2c3635"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Bousai Keihatsu Douga",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

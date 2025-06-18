@@ -1,0 +1,1292 @@
+[
+  {
+    "name": "Kawaki",
+    "prompt": "Kawaki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/368951.jpg?s=6b573a422f08e780a673f476e0b71168"
+  },
+  {
+    "name": "Mitsuki",
+    "prompt": "Mitsuki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/435397.jpg?s=5cf8eabc3afce93f474d636c44f18a8b"
+  },
+  {
+    "name": "Uchiha, Sarada",
+    "prompt": "Uchiha, Sarada from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/292448.jpg?s=2325bf125a1bec74b888defa4c5bb02a"
+  },
+  {
+    "name": "Uzumaki, Boruto",
+    "prompt": "Uzumaki, Boruto from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/292447.jpg?s=2268c929ed1ef587e1bf253043b7c542"
+  },
+  {
+    "name": "A",
+    "prompt": "A from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/112222.jpg?s=f80f0afc66a8f019bede3e5cdf1e53c1"
+  },
+  {
+    "name": "Aburame, Shino",
+    "prompt": "Aburame, Shino from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/292449.jpg?s=f7b8f2084a65d22cd9381f25a55f8b2f"
+  },
+  {
+    "name": "Aburame, Harika",
+    "prompt": "Aburame, Harika from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/509730.jpg?s=1d86646c033aac2622f04a3e5bf11b0a"
+  },
+  {
+    "name": "Akatsuchi",
+    "prompt": "Akatsuchi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/87030.jpg?s=53fdba7223d0299e9af6202242c4acae"
+  },
+  {
+    "name": "Akimichi, Chouchou",
+    "prompt": "Akimichi, Chouchou from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297478.jpg?s=dde8553e8974bc9ce69ac5a82fd33447"
+  },
+  {
+    "name": "Akimichi, Chouji",
+    "prompt": "Akimichi, Chouji from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/105421.jpg?s=bbb2f94a4f15470a215358085358bc37"
+  },
+  {
+    "name": "Akitsuki, Kankitsu",
+    "prompt": "Akitsuki, Kankitsu from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/399640.jpg?s=acf37926a259edebd602b28780263c2f"
+  },
+  {
+    "name": "Akkun",
+    "prompt": "Akkun from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/386110.jpg?s=fce92588508e35a775931ac7fa5ab12f"
+  },
+  {
+    "name": "Amaashi, Samidare",
+    "prompt": "Amaashi, Samidare from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/425212.jpg?s=330e226ca2b979b91a3bd1f80572a46b"
+  },
+  {
+    "name": "Amino, Sousha",
+    "prompt": "Amino, Sousha from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/509731.jpg?s=2cfefcd8fa9952d083d4102ef8ceb2e5"
+  },
+  {
+    "name": "Anaguma",
+    "prompt": "Anaguma from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/510126.jpg?s=3589321e2b1eed30bb26cbcd4db8cbe2"
+  },
+  {
+    "name": "Aniki",
+    "prompt": "Aniki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/509775.jpg?s=befdea9652dd0cc1ab95f41d24e73cf0"
+  },
+  {
+    "name": "Ao",
+    "prompt": "Ao from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/292897.jpg?s=a2ea7c3edff333068fbb6665ffff7aba"
+  },
+  {
+    "name": "Aoda",
+    "prompt": "Aoda from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/296114.jpg?s=1108c2c2fd633e5d1cd1dbf43421f0e5"
+  },
+  {
+    "name": "Aosa",
+    "prompt": "Aosa from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/588063.jpg?s=81d938b5c3ffef178049c52e930c599e"
+  },
+  {
+    "name": "Arai",
+    "prompt": "Arai from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/425201.jpg?s=48a660fdb2b72a888970ad567dbff660"
+  },
+  {
+    "name": "Araya",
+    "prompt": "Araya from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/357778.jpg?s=218be1a8eacb282ba6e2947c53e7cee2"
+  },
+  {
+    "name": "Asaka",
+    "prompt": "Asaka from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/591102.jpg?s=030e0ba2f56c8b86917f5e3147cf11a3"
+  },
+  {
+    "name": "Asakusa, Neon",
+    "prompt": "Asakusa, Neon from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/509732.jpg?s=3800c598d14d9826709b18e059a001b6"
+  },
+  {
+    "name": "Ashimaru",
+    "prompt": "Ashimaru from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/350502.jpg?s=35b07232299ff0a963e4ffd076dea49d"
+  },
+  {
+    "name": "Ashina",
+    "prompt": "Ashina from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/388437.jpg?s=7eff74c06f3160ff2d74ea3fc1c80cae"
+  },
+  {
+    "name": "Ayame",
+    "prompt": "Ayame from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/130515.jpg?s=e47667162694ef2dd32847cebb0b2a21"
+  },
+  {
+    "name": "Batta",
+    "prompt": "Batta from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/510127.jpg?s=68b6b3a217d635e889f456e22932de49"
+  },
+  {
+    "name": "Benga",
+    "prompt": "Benga from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/425202.jpg?s=15c422794a31ec3f460f79ccabd71470"
+  },
+  {
+    "name": "Boro",
+    "prompt": "Boro from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/455835.jpg?s=e32f485ddfa549af5d68cacf789a4442"
+  },
+  {
+    "name": "Bug",
+    "prompt": "Bug from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/512983.jpg?s=a427a9b5d36c711148ef97662e2b6b4d"
+  },
+  {
+    "name": "Choujuurou",
+    "prompt": "Choujuurou from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/232239.jpg?s=365a287b1eff38c301511d94f6abd268"
+  },
+  {
+    "name": "Code",
+    "prompt": "Code from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/442761.jpg?s=32cb269165f8f5041723039330a6bd6b"
+  },
+  {
+    "name": "Daemon",
+    "prompt": "Daemon from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/504343.jpg?s=4620106d10e893d540ba04e5a9cd28a9"
+  },
+  {
+    "name": "Darui",
+    "prompt": "Darui from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/293381.jpg?s=c007249ae2da00233ee2b2bf561323a8"
+  },
+  {
+    "name": "Deepa",
+    "prompt": "Deepa from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/415300.jpg?s=4f7da344cfb503657fad448434ad0b92"
+  },
+  {
+    "name": "Delta",
+    "prompt": "Delta from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/391051.jpg?s=ee8eade557f86d66d6ace10580f5c6e3"
+  },
+  {
+    "name": "Denki's Father",
+    "prompt": "Denki's Father from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/352645.jpg?s=b1e5a43f2ccce069285a48f4ec71687a"
+  },
+  {
+    "name": "Doragu",
+    "prompt": "Doragu from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/425209.jpg?s=6f820de5639a935015ad96c5a30777a0"
+  },
+  {
+    "name": "Doutonbori, Daore",
+    "prompt": "Doutonbori, Daore from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/388438.jpg?s=e273b2f2aa67e5a8d7ec99520216a1f3"
+  },
+  {
+    "name": "Doutonbori, Kuay",
+    "prompt": "Doutonbori, Kuay from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/388439.jpg?s=e1f95d83e9aca3e1611937acc7e1693e"
+  },
+  {
+    "name": "Eida",
+    "prompt": "Eida from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/503099.jpg?s=edfcbc46b4ab82d95a659471730bdf9d"
+  },
+  {
+    "name": "Enra",
+    "prompt": "Enra from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/425188.jpg?s=405ef85625d9be4b3d2b47eda6f55152"
+  },
+  {
+    "name": "Fuefuki, Kyohou",
+    "prompt": "Fuefuki, Kyohou from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/341366.jpg?s=29f61480fbd138ad3b06abf8455753fc"
+  },
+  {
+    "name": "Fugou",
+    "prompt": "Fugou from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/510128.jpg?s=e1e64dff9a9783a65627a14004489562"
+  },
+  {
+    "name": "Funamushi",
+    "prompt": "Funamushi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/527581.jpg?s=4be0a748215ba286446165ddabb71fb0"
+  },
+  {
+    "name": "Funato, Isari",
+    "prompt": "Funato, Isari from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/527646.jpg?s=fe4333c5dc5eb5142a7d6d96bdce777e"
+  },
+  {
+    "name": "Funato, Tenma",
+    "prompt": "Funato, Tenma from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/527648.jpg?s=2b963fb8d760ce5a7542fca4bf8ed372"
+  },
+  {
+    "name": "Funato, Jibiki",
+    "prompt": "Funato, Jibiki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/544038.jpg?s=3803e5c9b23fe129932e7f729e4f6861"
+  },
+  {
+    "name": "Funato, Seiren",
+    "prompt": "Funato, Seiren from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/527584.jpg?s=68abb453dda40b9741a4d175c7000c55"
+  },
+  {
+    "name": "Funato, Ikada",
+    "prompt": "Funato, Ikada from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/527586.jpg?s=604d632430340025d45d37c40cd0b0d2"
+  },
+  {
+    "name": "Funato, Minamo",
+    "prompt": "Funato, Minamo from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/527645.jpg?s=609a3b37abdb3aa9e28251d034c1f3d3"
+  },
+  {
+    "name": "Funato, Araumi",
+    "prompt": "Funato, Araumi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/527647.jpg?s=03e70380132b169e9229a5b2ae635537"
+  },
+  {
+    "name": "Fundaru",
+    "prompt": "Fundaru from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/510414.jpg?s=3aefddd7336e3d39af2b1953e34a22e6"
+  },
+  {
+    "name": "Fuuma, Eiki",
+    "prompt": "Fuuma, Eiki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/509735.jpg?s=63ea7427c0ac370a3e97cbba0a9164fb"
+  },
+  {
+    "name": "Fuuma, Koutarou",
+    "prompt": "Fuuma, Koutarou from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/350503.jpg?s=4ffdb2987aadc5a0652d0d2e1a76bc01"
+  },
+  {
+    "name": "Gaara",
+    "prompt": "Gaara from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/293375.jpg?s=ceeb8ed1578737104c8e347ab7a52101"
+  },
+  {
+    "name": "Gankubi, Kiseru",
+    "prompt": "Gankubi, Kiseru from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/510129.jpg?s=b4f95f62777cb4c3ea20446340819ad2"
+  },
+  {
+    "name": "Ganno",
+    "prompt": "Ganno from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/510415.jpg?s=ba616b76cce841521237fdab6331967b"
+  },
+  {
+    "name": "Ganryuu, Doseki",
+    "prompt": "Ganryuu, Doseki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/509736.jpg?s=0ef42bfb6bd4831612979db4a1caabc2"
+  },
+  {
+    "name": "Garaga",
+    "prompt": "Garaga from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/510239.jpg?s=0ec31c74c2375dfc9965d44002d99769"
+  },
+  {
+    "name": "Garou",
+    "prompt": "Garou from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/488689.jpg?s=c49505f3ab1c81596fc4d90b9a8bf8c9"
+  },
+  {
+    "name": "Gatai",
+    "prompt": "Gatai from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/425197.jpg?s=a8c8ac9dc5fba1cf7435388eed3a6370"
+  },
+  {
+    "name": "Gekkou",
+    "prompt": "Gekkou from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/350504.jpg?s=890e7f06ff4ac851893bfc77039c6229"
+  },
+  {
+    "name": "Goetsu, Doushu",
+    "prompt": "Goetsu, Doushu from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/348457.jpg?s=f0c44bb6e934c3004acb74905c3a079a"
+  },
+  {
+    "name": "Gojou",
+    "prompt": "Gojou from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/425189.jpg?s=4dfd0a651103d67fb9e80dd07d1aa9f3"
+  },
+  {
+    "name": "Gyuuki",
+    "prompt": "Gyuuki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/293374.jpg?s=bfb638d2d6e7ba4d897049e327e28abc"
+  },
+  {
+    "name": "Hachiya, Tsurushi",
+    "prompt": "Hachiya, Tsurushi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/340264.jpg?s=ff4b9f910da431b0de2554a284bb731e"
+  },
+  {
+    "name": "Haguruma",
+    "prompt": "Haguruma from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/350505.jpg?s=b8109d9e1536b6df62c85bb516f29ebc"
+  },
+  {
+    "name": "Haruno, Sakura",
+    "prompt": "Haruno, Sakura from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/69275.jpg?s=36c4ad9f4440d77918c34c49870e719c"
+  },
+  {
+    "name": "Hatake, Kakashi",
+    "prompt": "Hatake, Kakashi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/284129.jpg?s=b0a6b941fd427cbfd85657f316c0e309"
+  },
+  {
+    "name": "Hebiichigo",
+    "prompt": "Hebiichigo from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/341365.jpg?s=b05e26beb6cde7d64663502d4b631ef5"
+  },
+  {
+    "name": "Hibiki",
+    "prompt": "Hibiki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/544213.jpg?s=634a393ebbe314dddecf12a408d86b7c"
+  },
+  {
+    "name": "Hidari",
+    "prompt": "Hidari from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/350507.jpg?s=8f5abc828a07bd8677a748fc3cfd9c97"
+  },
+  {
+    "name": "Hoozuki, Suigetsu",
+    "prompt": "Hoozuki, Suigetsu from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/73652.jpg?s=bf1051ba4b667b69a36dea46d29a1804"
+  },
+  {
+    "name": "Hoshigaki, Shizuma",
+    "prompt": "Hoshigaki, Shizuma from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/340827.jpg?s=64789213bbd0bf77a25e400b30520b35"
+  },
+  {
+    "name": "Hyogo",
+    "prompt": "Hyogo from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/523122.jpg?s=3419471380957d6fb8c5963bfb62e2ec"
+  },
+  {
+    "name": "Hyuuga, Hinata",
+    "prompt": "Hyuuga, Hinata from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/278736.jpg?s=efc87a537d323edc47900cb08e1722c9"
+  },
+  {
+    "name": "Hyuuga, Neji",
+    "prompt": "Hyuuga, Neji from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/105538.jpg?s=7603e3986722997b66259d9fea83a3b2"
+  },
+  {
+    "name": "Hyuuga, Hiashi",
+    "prompt": "Hyuuga, Hiashi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/103836.jpg?s=ee29dfbb0ceaba845e7baf1d2973405a"
+  },
+  {
+    "name": "Hyuuga, Hanabi",
+    "prompt": "Hyuuga, Hanabi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/292518.jpg?s=c860f8ad1834beb701c7da96b5bcc699"
+  },
+  {
+    "name": "Ichikishimahime",
+    "prompt": "Ichikishimahime from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/388440.jpg?s=df457ff17a0a7a44adcd08b1e14a9993"
+  },
+  {
+    "name": "Inabikari, Kande",
+    "prompt": "Inabikari, Kande from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/509738.jpg?s=8bb9868f0aa054618dfb1faa285152a5"
+  },
+  {
+    "name": "Inuzuka, Akita",
+    "prompt": "Inuzuka, Akita from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/488680.jpg?s=500eb04f3fbf34012bfebdcc54c1a679"
+  },
+  {
+    "name": "Inuzuka, Kiba",
+    "prompt": "Inuzuka, Kiba from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/131217.jpg?s=d3bc94609e7a552ec522daf99834c21a"
+  },
+  {
+    "name": "Inuzuka, Mimi",
+    "prompt": "Inuzuka, Mimi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/509740.jpg?s=f2558185ac80b15b8d2d93f3c20a3025"
+  },
+  {
+    "name": "Iori",
+    "prompt": "Iori from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/350506.jpg?s=612301b1b6dfc080c40c00b141d16b51"
+  },
+  {
+    "name": "Isago",
+    "prompt": "Isago from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/425190.jpg?s=c6c960ba9f6f61157897952c630f25b2"
+  },
+  {
+    "name": "Ise, Udon",
+    "prompt": "Ise, Udon from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/91366.jpg?s=d65c9ef3d5d16b21a7328b217bc9f6e4"
+  },
+  {
+    "name": "Itoi, Tsuru",
+    "prompt": "Itoi, Tsuru from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/348461.jpg?s=9196639851188d15c14f05222e8f3620"
+  },
+  {
+    "name": "Itomaki, Yuina",
+    "prompt": "Itomaki, Yuina from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/509741.jpg?s=c823d2ff96f1ff45ab0bad1bcd957ba8"
+  },
+  {
+    "name": "Izuno, Mazuma",
+    "prompt": "Izuno, Mazuma from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/522095.jpg?s=159a18d4660726f89fd0c452bfd6d66b"
+  },
+  {
+    "name": "Izuno, Daruma",
+    "prompt": "Izuno, Daruma from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/522096.jpg?s=be94a70755a896ae7af158697311eff7"
+  },
+  {
+    "name": "Izuno, Wasabi",
+    "prompt": "Izuno, Wasabi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/328975.jpg?s=ac9e8e0b472c0dcfce622e6937c75785"
+  },
+  {
+    "name": "Izuno, Amagi",
+    "prompt": "Izuno, Amagi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/522094.jpg?s=0bc1d72e53e96adb58f05e10dbe752f4"
+  },
+  {
+    "name": "Jigen",
+    "prompt": "Jigen from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/472207.jpg?s=8dc1489bac629b42ca63dc5e2435adc4"
+  },
+  {
+    "name": "Jiji",
+    "prompt": "Jiji from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/510416.jpg?s=23cfd9a65cbae66a7d50a0ef499540b8"
+  },
+  {
+    "name": "Jiraiya",
+    "prompt": "Jiraiya from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/68618.jpg?s=ec35c8f49aa4cd7389bfc36d30cda3d7"
+  },
+  {
+    "name": "JJ",
+    "prompt": "JJ from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/388442.jpg?s=65c96bf34198b87709915399b117f820"
+  },
+  {
+    "name": "Jouge, Sayuu",
+    "prompt": "Jouge, Sayuu from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/568852.jpg?s=79bc59ad9cf88c69adcfe30b25e88745"
+  },
+  {
+    "name": "Juugo",
+    "prompt": "Juugo from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/293373.jpg?s=4e1dac7b55f9935ef1f2a4cd8e92654a"
+  },
+  {
+    "name": "Kageno, Kura",
+    "prompt": "Kageno, Kura from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/509748.jpg?s=2cd9fb07151351a23aa4ace5aa743ca6"
+  },
+  {
+    "name": "Kaka, Hana",
+    "prompt": "Kaka, Hana from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/509749.jpg?s=f86586625a2ab4eec0e773b827fc05f2"
+  },
+  {
+    "name": "Kakei, Sumire",
+    "prompt": "Kakei, Sumire from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/334548.jpg?s=247572c89f03b3012bacedac68728792"
+  },
+  {
+    "name": "Kakou",
+    "prompt": "Kakou from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/388443.jpg?s=d48337206b59eaa209504747c5300b69"
+  },
+  {
+    "name": "Kakuremino, Magire",
+    "prompt": "Kakuremino, Magire from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/329918.jpg?s=065093d03f8170b18eb46ad2d5586b7b"
+  },
+  {
+    "name": "Kamakura, Hibari",
+    "prompt": "Kamakura, Hibari from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/509773.jpg?s=a2102135b81f0cd8c5df0757dd5c380c"
+  },
+  {
+    "name": "Kamakura, Gongorou",
+    "prompt": "Kamakura, Gongorou from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/388445.jpg?s=0a5a9b7f8ac0fcae3c9587cdb40cc168"
+  },
+  {
+    "name": "Kamakura, Osuka",
+    "prompt": "Kamakura, Osuka from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/484929.jpg?s=1c2f119fb1548a51512446ac3d760a36"
+  },
+  {
+    "name": "Kamata",
+    "prompt": "Kamata from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/425203.jpg?s=5ab5a5c02ba059ec2126b24b0b233199"
+  },
+  {
+    "name": "Kaminarimon, Denki",
+    "prompt": "Kaminarimon, Denki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/326711.jpg?s=7c38189e185d51ec13e4d36d658caa60"
+  },
+  {
+    "name": "Kaneki",
+    "prompt": "Kaneki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/425213.jpg?s=844be21a04c748fb42ae147dbf904d68"
+  },
+  {
+    "name": "Kankurou",
+    "prompt": "Kankurou from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/68615.jpg?s=6f6d40205ea049c4a579e6a2d756daa0"
+  },
+  {
+    "name": "Kannonji, Suika",
+    "prompt": "Kannonji, Suika from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/352643.jpg?s=9abbad1beede522c3d948e4a9460da3c"
+  },
+  {
+    "name": "Karatachi, Kagura",
+    "prompt": "Karatachi, Kagura from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/339586.jpg?s=c40e03d4f5469ceee350e7e4886e37a7"
+  },
+  {
+    "name": "Karin",
+    "prompt": "Karin from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/72752.jpg?s=8cb2b21da8df8b1678c6a398aa44af52"
+  },
+  {
+    "name": "Karui",
+    "prompt": "Karui from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/85736.jpg?s=54487c14ac41858333e052f8e08c5340"
+  },
+  {
+    "name": "Kashin, Koji",
+    "prompt": "Kashin, Koji from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/354121.jpg?s=26fb65c814a5beb6f35e5d62c574506a"
+  },
+  {
+    "name": "Kawanami, Kaito",
+    "prompt": "Kawanami, Kaito from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/457377.jpg?s=de86c694fa59caa45f82d2ee60276aa0"
+  },
+  {
+    "name": "Kazamatsuri, Moegi",
+    "prompt": "Kazamatsuri, Moegi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/110944.jpg?s=5f8e5adbf660bbf2b12cf7f18589b8e9"
+  },
+  {
+    "name": "Kedama",
+    "prompt": "Kedama from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/425204.jpg?s=77bb63e5960bd841079675c9e7bab6a2"
+  },
+  {
+    "name": "Kiku",
+    "prompt": "Kiku from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/425206.jpg?s=63d0fd9ecdcd9a8fc8c9e8bf6b23bb1c"
+  },
+  {
+    "name": "Killer Bee",
+    "prompt": "Killer Bee from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/128072.jpg?s=0253bf1db4c6aa0f46b3765350c530a2"
+  },
+  {
+    "name": "Kirara",
+    "prompt": "Kirara from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/388433.jpg?s=fa934a5cb6a1c70dd153afcafa70e5aa"
+  },
+  {
+    "name": "Kiri",
+    "prompt": "Kiri from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/348147.jpg?s=fb3046fb82b6388407b379117d9ef5b6"
+  },
+  {
+    "name": "Kirisaki",
+    "prompt": "Kirisaki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/557553.jpg?s=c8f6358bf5bd8fba0956dba80f4ab163"
+  },
+  {
+    "name": "Kobuna",
+    "prompt": "Kobuna from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/542799.jpg?s=ab4529425c876071cd5cc6b97dfff4dc"
+  },
+  {
+    "name": "Kodama",
+    "prompt": "Kodama from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/544216.jpg?s=8782d739da1ce35e4a4e97857bb957b1"
+  },
+  {
+    "name": "Kokatsu",
+    "prompt": "Kokatsu from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/501433.jpg?s=93fd65dbabf434272d03b30cb87b7c9c"
+  },
+  {
+    "name": "Kokubou, Renga",
+    "prompt": "Kokubou, Renga from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/348460.jpg?s=8f6606d0e0d4e6f357172c1ae6879991"
+  },
+  {
+    "name": "Kokuri",
+    "prompt": "Kokuri from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/425205.jpg?s=b19d5aa5a67a45cd87ebf3d03e47eedd"
+  },
+  {
+    "name": "Kokushi",
+    "prompt": "Kokushi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/501431.jpg?s=f7cee97a505b9d691d8df76555336f0d"
+  },
+  {
+    "name": "Kokuyou",
+    "prompt": "Kokuyou from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/388432.jpg?s=bf32a7741fad1758fa6ee23fbda5f68a"
+  },
+  {
+    "name": "Kona",
+    "prompt": "Kona from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/425215.jpg?s=1a9044fda0a96db8c6c2a3bc76287275"
+  },
+  {
+    "name": "Konsuchi",
+    "prompt": "Konsuchi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/562767.jpg?s=8f10ba343cb5510e3bc656ae64da74f2"
+  },
+  {
+    "name": "Kurama",
+    "prompt": "Kurama from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/232183.jpg?s=4ab26e80928ae4a0a667ea3f21f72492"
+  },
+  {
+    "name": "Kurogane, Tsubaki",
+    "prompt": "Kurogane, Tsubaki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/425194.jpg?s=b552d17845b36bd22a3beca0e3da563a"
+  },
+  {
+    "name": "Kuroi, Hako",
+    "prompt": "Kuroi, Hako from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/346891.jpg?s=df8ce2394c3ab7077506885586c00457"
+  },
+  {
+    "name": "Kuromori, Batora",
+    "prompt": "Kuromori, Batora from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/509751.jpg?s=534e558e41aca101b2bad4d3bf6b71f6"
+  },
+  {
+    "name": "Kurosuki, Buntan",
+    "prompt": "Kurosuki, Buntan from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/341363.jpg?s=73280cca6a66ac5bdc5ef608e5b21264"
+  },
+  {
+    "name": "Kurotsuchi",
+    "prompt": "Kurotsuchi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/110597.jpg?s=5443cb7be0337b24a7a3f42313250526"
+  },
+  {
+    "name": "Kuu",
+    "prompt": "Kuu from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/388431.jpg?s=291aed00f05eb64e24481bc183986962"
+  },
+  {
+    "name": "Lee, Metal",
+    "prompt": "Lee, Metal from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/328112.jpg?s=a424a300f45a1cd835a82bc32f20f231"
+  },
+  {
+    "name": "Lee, Rock",
+    "prompt": "Lee, Rock from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/433353.jpg?s=c2099a6532ecf14f4cf233c4cbd6532f"
+  },
+  {
+    "name": "Log",
+    "prompt": "Log from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/443728.jpg?s=01a7f17b96d237630ddf8b198118c9aa"
+  },
+  {
+    "name": "Mabui",
+    "prompt": "Mabui from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/91529.jpg?s=bb53f1808410ae04cc9c42a4f7a15fa9"
+  },
+  {
+    "name": "Madoka, Tentou",
+    "prompt": "Madoka, Tentou from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/330448.jpg?s=31983a1c34a7b893944b0801ea4bcad2"
+  },
+  {
+    "name": "Manari",
+    "prompt": "Manari from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/510419.jpg?s=9aada8dc510653692a610bb50540ad71"
+  },
+  {
+    "name": "Margo",
+    "prompt": "Margo from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/510420.jpg?s=111ae53ffa037c82d99581eee49521c8"
+  },
+  {
+    "name": "Maruta",
+    "prompt": "Maruta from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/510123.jpg?s=65cae024142b8757d7afaf82b25ef5f6"
+  },
+  {
+    "name": "Mia",
+    "prompt": "Mia from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/425217.jpg?s=1f7adf6ec403db2f780b2ec0390a6837"
+  },
+  {
+    "name": "Mifune",
+    "prompt": "Mifune from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/292442.jpg?s=4746ec654b8841ced71441a84c2d9b3a"
+  },
+  {
+    "name": "Might, Dai",
+    "prompt": "Might, Dai from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/295201.jpg?s=8aee07febb91348bad0b63eb3eef0a0c"
+  },
+  {
+    "name": "Might, Guy",
+    "prompt": "Might, Guy from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/103576.jpg?s=5da52d3d6d0b921506ffe65a8ff3288f"
+  },
+  {
+    "name": "Mitarashi, Anko",
+    "prompt": "Mitarashi, Anko from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/66177.jpg?s=dd1055043101c23d89c332873170f962"
+  },
+  {
+    "name": "Momo",
+    "prompt": "Momo from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/388430.jpg?s=866f42ee1f97b4d93cbb22e650eb65e1"
+  },
+  {
+    "name": "Morino, Ibiki",
+    "prompt": "Morino, Ibiki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/104672.jpg?s=b8200c863a19fe5d963b21e954efc948"
+  },
+  {
+    "name": "Mozuku",
+    "prompt": "Mozuku from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/523283.jpg?s=b51bbe4b9f2c9c0313f7419ab001594c"
+  },
+  {
+    "name": "Mugino",
+    "prompt": "Mugino from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/425216.jpg?s=41e875c5e5a1c5be3adf5d76419cd2ed"
+  },
+  {
+    "name": "Mujou",
+    "prompt": "Mujou from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/425207.jpg?s=8f386e577305a15155c6651d2ff2a6a4"
+  },
+  {
+    "name": "Namua",
+    "prompt": "Namua from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/510130.jpg?s=5af7d7d2e061ed0a856d4d5230e77cc1"
+  },
+  {
+    "name": "Nanara",
+    "prompt": "Nanara from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/510421.jpg?s=44112d0cf349cfd7d4ff0d6db17789c6"
+  },
+  {
+    "name": "Nara, Shikamaru",
+    "prompt": "Nara, Shikamaru from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/131315.jpg?s=a800fe970f638eae38b1e50d3471121d"
+  },
+  {
+    "name": "Nara, Shikaku",
+    "prompt": "Nara, Shikaku from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/100214.jpg?s=23ba0304e5dd735219998bdbdf9e21da"
+  },
+  {
+    "name": "Nara, Shikadai",
+    "prompt": "Nara, Shikadai from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/297481.jpg?s=411e200f498bda33f2ce34b88df4a117"
+  },
+  {
+    "name": "Neon's Mother",
+    "prompt": "Neon's Mother from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/509774.jpg?s=7178713487d0e88c0c5ac5fdd571cfa2"
+  },
+  {
+    "name": "Nerikiri, Konashi",
+    "prompt": "Nerikiri, Konashi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/509766.jpg?s=0aa9a307cd7251116f648cf677f86ce7"
+  },
+  {
+    "name": "Nezumi, Kaitou",
+    "prompt": "Nezumi, Kaitou from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/399641.jpg?s=ca73b57e61cc7c6b49c7a23c8cf9f6a3"
+  },
+  {
+    "name": "Nitora, Take",
+    "prompt": "Nitora, Take from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/388424.jpg?s=2ed51a20043871607dcc1f54b6dde55e"
+  },
+  {
+    "name": "Norimaki, Ehou",
+    "prompt": "Norimaki, Ehou from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/509747.jpg?s=05c458728019ec60545c869f7bba871a"
+  },
+  {
+    "name": "Omoi",
+    "prompt": "Omoi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/86313.jpg?s=a6738b06904a0a2d4e3d2d8cd812b519"
+  },
+  {
+    "name": "Onikuma, Enko",
+    "prompt": "Onikuma, Enko from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/348458.jpg?s=7777bd3f0ad0c02dbb6ed3eba69e1503"
+  },
+  {
+    "name": "Oniyuzu, Ichirouta",
+    "prompt": "Oniyuzu, Ichirouta from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/341364.jpg?s=d9bdf713df3d2629f471d98493a1ba89"
+  },
+  {
+    "name": "Onomichi, Hassaku",
+    "prompt": "Onomichi, Hassaku from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/339587.jpg?s=7576834bc2033cd654d4193fe9a4c593"
+  },
+  {
+    "name": "Oonoki",
+    "prompt": "Oonoki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/292445.jpg?s=60a46bc5b67b793307c75bab4394d362"
+  },
+  {
+    "name": "Ootsutsuki, Kinshiki",
+    "prompt": "Ootsutsuki, Kinshiki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/386024.jpg?s=31819f93a01110f1f8bc2f6b14cb7b83"
+  },
+  {
+    "name": "Ootsutsuki, Isshiki",
+    "prompt": "Ootsutsuki, Isshiki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/442613.jpg?s=96a332562a87a1c85ab619d2b00e14c0"
+  },
+  {
+    "name": "Ootsutsuki, Toneri",
+    "prompt": "Ootsutsuki, Toneri from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/294933.jpg?s=1fd5957858edd9129af914ef62892f7c"
+  },
+  {
+    "name": "Ootsutsuki, Kaguya",
+    "prompt": "Ootsutsuki, Kaguya from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/292976.jpg?s=74ba21ce020fb5785779ecf83841fb37"
+  },
+  {
+    "name": "Ootsutsuki, Momoshiki",
+    "prompt": "Ootsutsuki, Momoshiki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/443572.jpg?s=997d0d5b40d6c675c05ac735381d4fa6"
+  },
+  {
+    "name": "Ootsutsuki, Urashiki",
+    "prompt": "Ootsutsuki, Urashiki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/357781.jpg?s=805452490489e8732079dc5106abca42"
+  },
+  {
+    "name": "Oppo",
+    "prompt": "Oppo from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/509776.jpg?s=0bc2d7ac095edb30cfbbfa3dffcb0acf"
+  },
+  {
+    "name": "Orochimaru",
+    "prompt": "Orochimaru from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/162089.jpg?s=77b65c6a4dfa133ef211d805af39d986"
+  },
+  {
+    "name": "Ouga",
+    "prompt": "Ouga from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/510131.jpg?s=fdf0c6a7831af259e309cb4109d25cf9"
+  },
+  {
+    "name": "Ouga's Male Puppet",
+    "prompt": "Ouga's Male Puppet from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/510132.jpg?s=ad7c1b706fe45a81e0c03da9e3e3f6e3"
+  },
+  {
+    "name": "Penjira",
+    "prompt": "Penjira from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/510417.jpg?s=9f935e8d234b026628a920a3fcc9d2b5"
+  },
+  {
+    "name": "Prime Minister",
+    "prompt": "Prime Minister from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/510422.jpg?s=0ec3561eedf0209ed47a25e117a9687e"
+  },
+  {
+    "name": "Rokuro",
+    "prompt": "Rokuro from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/510133.jpg?s=8483ae4a417147ade8b356079c92adfe"
+  },
+  {
+    "name": "Ryougi",
+    "prompt": "Ryougi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/352644.jpg?s=774dba7139f854201dc91cc410eddc65"
+  },
+  {
+    "name": "Ryuuki",
+    "prompt": "Ryuuki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/388429.jpg?s=43293bd16889f1157df967ee37d55204"
+  },
+  {
+    "name": "Sai",
+    "prompt": "Sai from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/36032.jpg?s=3b8e83c47efda2c5b93843f9a0c09fc3"
+  },
+  {
+    "name": "Sanzu, Amado",
+    "prompt": "Sanzu, Amado from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/455846.jpg?s=03eba41256c4b36b3c4c13c1e218e5af"
+  },
+  {
+    "name": "Sarutobi, Mirai",
+    "prompt": "Sarutobi, Mirai from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/352646.jpg?s=1a203d5bd7e4d349b03f1e3888ee344c"
+  },
+  {
+    "name": "Sarutobi, Hiruzen",
+    "prompt": "Sarutobi, Hiruzen from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/68520.jpg?s=7d6e5e92c4a665933686d4ece2cbdbe1"
+  },
+  {
+    "name": "Sarutobi, Asuma",
+    "prompt": "Sarutobi, Asuma from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/82538.jpg?s=5196f696350f23474767acdf6efc6b8f"
+  },
+  {
+    "name": "Sarutobi, Konohamaru",
+    "prompt": "Sarutobi, Konohamaru from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/109419.jpg?s=818d5a433ba71a276feb67578ccf711a"
+  },
+  {
+    "name": "Sasami",
+    "prompt": "Sasami from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/388428.jpg?s=d6d1b7377cfba424d95339c7a3e14343"
+  },
+  {
+    "name": "Sekiei",
+    "prompt": "Sekiei from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/399637.jpg?s=0e22660f64380a1956988bd58fd70d42"
+  },
+  {
+    "name": "Sekki",
+    "prompt": "Sekki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/568851.jpg?s=d0a66c9a95eb087c682e216f95a4c40e"
+  },
+  {
+    "name": "Senka, Takanami",
+    "prompt": "Senka, Takanami from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/386166.jpg?s=96a3a1ec4dee788b5747908f2db6d5ec"
+  },
+  {
+    "name": "Senka, Sazanami",
+    "prompt": "Senka, Sazanami from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/386112.jpg?s=f5c3fdfcdcb09398180755e192e34700"
+  },
+  {
+    "name": "Senka, Makinami",
+    "prompt": "Senka, Makinami from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/386113.jpg?s=edcd8a764189d53cf74c8c85f6c77237"
+  },
+  {
+    "name": "Shamo",
+    "prompt": "Shamo from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/510134.jpg?s=8ec5ffa03d2c177c7787a660c3a1833a"
+  },
+  {
+    "name": "Shigaraki, Tanuki",
+    "prompt": "Shigaraki, Tanuki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/333957.jpg?s=a10004e5195b43fe24ae5113d04f6388"
+  },
+  {
+    "name": "Shinki",
+    "prompt": "Shinki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/362445.jpg?s=5366b80ffef6a99d6f4b512fbb10f169"
+  },
+  {
+    "name": "Shitakiri, Tsuzura",
+    "prompt": "Shitakiri, Tsuzura from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/510125.jpg?s=68d58e889ebad26e7e423bc4074468db"
+  },
+  {
+    "name": "Shitakiri, Mozu",
+    "prompt": "Shitakiri, Mozu from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/510124.jpg?s=6cbcb0cc5d2ea6e05ca265cbcddb7a38"
+  },
+  {
+    "name": "Shizune",
+    "prompt": "Shizune from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/103794.jpg?s=34f7e533eadf02840c039b3bc4f40f06"
+  },
+  {
+    "name": "Shojoji",
+    "prompt": "Shojoji from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/429745.jpg?s=579ae02b23747da40e52a49ef0d23e8b"
+  },
+  {
+    "name": "Shukaku",
+    "prompt": "Shukaku from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/62812.jpg?s=c16d67dab7ccd31a6b0c639a504fc2b6"
+  },
+  {
+    "name": "Sougi, Ran",
+    "prompt": "Sougi, Ran from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/509767.jpg?s=ad529c439a6f05688f224dfcd777a14f"
+  },
+  {
+    "name": "Sougi, Suzu",
+    "prompt": "Sougi, Suzu from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/509770.jpg?s=1a5046bc0050954149b9972333d0ecaf"
+  },
+  {
+    "name": "Sukea",
+    "prompt": "Sukea from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/348459.jpg?s=a6c067c24acbb6aabe19e6bc59d2b3f7"
+  },
+  {
+    "name": "Suzumeno, Namida",
+    "prompt": "Suzumeno, Namida from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/328972.jpg?s=90953f499e16a2ee246357d359310973"
+  },
+  {
+    "name": "Tagitsuhime",
+    "prompt": "Tagitsuhime from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/388426.jpg?s=a52d04d4b530f5277b605df2efad9fa9"
+  },
+  {
+    "name": "Tagorihime",
+    "prompt": "Tagorihime from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/388425.jpg?s=17a1a63d3b2138671f62e950131bb4b0"
+  },
+  {
+    "name": "Taketori, Houki",
+    "prompt": "Taketori, Houki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/566085.jpg?s=85c1471e7dd1d811528c487e991323fd"
+  },
+  {
+    "name": "Tamaki",
+    "prompt": "Tamaki from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/62800.jpg?s=f81e25b76c0929dbfe2e5d149e1dd13b"
+  },
+  {
+    "name": "Tao, Soul",
+    "prompt": "Tao, Soul from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/509771.jpg?s=2c28db5af6a50b6daa6d9ebe8003e558"
+  },
+  {
+    "name": "Tarui",
+    "prompt": "Tarui from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/357782.jpg?s=84b556d58516e4dcd8a1c5477ffe0b90"
+  },
+  {
+    "name": "Tatsumi",
+    "prompt": "Tatsumi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/388422.jpg?s=0eb41ace4e3358e29e1a0eccfd1be127"
+  },
+  {
+    "name": "Tayori",
+    "prompt": "Tayori from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/332210.jpg?s=c9eec3069afd518981b89fdf8ce1c177"
+  },
+  {
+    "name": "Temari",
+    "prompt": "Temari from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/292452.jpg?s=81c9799689a262a4df639b3dd5c48bc3"
+  },
+  {
+    "name": "Tenten",
+    "prompt": "Tenten from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/110946.jpg?s=babf65fba5bfda45c8c6dc400669b6cb"
+  },
+  {
+    "name": "Teru",
+    "prompt": "Teru from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/509777.jpg?s=14a6016fbd89163a494a2fe232791b17"
+  },
+  {
+    "name": "Terumi, Mei",
+    "prompt": "Terumi, Mei from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/292453.jpg?s=2ce42c351431e849f4b25dac2ba4ec31"
+  },
+  {
+    "name": "Tofu",
+    "prompt": "Tofu from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/350508.jpg?s=fd8869570ba0ae9ba814b76f67fabc97"
+  },
+  {
+    "name": "Tomaru",
+    "prompt": "Tomaru from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/399642.jpg?s=6ad8e485733be7d8179af2bed28894c9"
+  },
+  {
+    "name": "Tono, Garashi",
+    "prompt": "Tono, Garashi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/416349.jpg?s=2ea1834511ebaa3a30c50aada5b00728"
+  },
+  {
+    "name": "Toono, Katasuke",
+    "prompt": "Toono, Katasuke from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/330449.jpg?s=d99a77a6ecd89bc20935cbb1a67586ca"
+  },
+  {
+    "name": "Toroi",
+    "prompt": "Toroi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/330468.jpg?s=f181f9e9d436d0c50f65a57f6bdb1ebf"
+  },
+  {
+    "name": "Tosaka",
+    "prompt": "Tosaka from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/388420.jpg?s=e208ccb94c85bacb5f90b39b46f73ec3"
+  },
+  {
+    "name": "Tsukiyo",
+    "prompt": "Tsukiyo from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/425208.jpg?s=ea0f1b646167f4aae3f5d14482bf2ec9"
+  },
+  {
+    "name": "Tsunade",
+    "prompt": "Tsunade from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/523646.jpg?s=6e76b1e4adef34cd1698c91947542cc5"
+  },
+  {
+    "name": "Uchiha, Shin",
+    "prompt": "Uchiha, Shin from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/337254.jpg?s=f943af759cdd8c4960c31786b046c20f"
+  },
+  {
+    "name": "Uchiha, Sasuke",
+    "prompt": "Uchiha, Sasuke from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/131317.jpg?s=9705c17dba36c2edebded3a72dc1a46e"
+  },
+  {
+    "name": "Umino, Iruka",
+    "prompt": "Umino, Iruka from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/100216.jpg?s=8ce41c2857b1d19260f46e114cc9d158"
+  },
+  {
+    "name": "Unabara, Awaji",
+    "prompt": "Unabara, Awaji from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/544037.jpg?s=61317562363e7ef6cac7b0cdca088be7"
+  },
+  {
+    "name": "Uzumaki, Naruto",
+    "prompt": "Uzumaki, Naruto from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/61330.jpg?s=ee8fc22475454609f72ae66112f6cf87"
+  },
+  {
+    "name": "Uzumaki, Himawari",
+    "prompt": "Uzumaki, Himawari from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/504694.jpg?s=b1411783f2d2218f1298db68811cd456"
+  },
+  {
+    "name": "Victor",
+    "prompt": "Victor from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/415299.jpg?s=3c0c567de91d41900afb077e61ebe7ea"
+  },
+  {
+    "name": "Victor's Secretary",
+    "prompt": "Victor's Secretary from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/476931.jpg?s=e3587ca5a1e55ad701c2c9db63399ad7"
+  },
+  {
+    "name": "Yakushi, Kabuto",
+    "prompt": "Yakushi, Kabuto from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/82459.jpg?s=81d3435c2ca60c6acbea9da7bc7ba6c4"
+  },
+  {
+    "name": "Yamanaka, Ino",
+    "prompt": "Yamanaka, Ino from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/60062.jpg?s=bd8ff387569eebde9eb9af3d2a7feefc"
+  },
+  {
+    "name": "Yamanaka, Inoichi",
+    "prompt": "Yamanaka, Inoichi from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/103837.jpg?s=b2e6470593966071b495ca22130eeb0f"
+  },
+  {
+    "name": "Yamanaka, Kohan",
+    "prompt": "Yamanaka, Kohan from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/486591.jpg?s=983e47238d9def55e5f5b8e51adb8596"
+  },
+  {
+    "name": "Yamanaka, Inojin",
+    "prompt": "Yamanaka, Inojin from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/297480.jpg?s=6a706b86fba2174c1d69e57efce52a27"
+  },
+  {
+    "name": "Yamaoka",
+    "prompt": "Yamaoka from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/429744.jpg?s=5b340a622253708b083ae24d74cc1cfd"
+  },
+  {
+    "name": "Yamato",
+    "prompt": "Yamato from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/128096.jpg?s=51e99871c3ce211263109dcc2fe7814a"
+  },
+  {
+    "name": "Yodo",
+    "prompt": "Yodo from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/357777.jpg?s=d805123fc6cf7f0f1800a59d320f4d10"
+  },
+  {
+    "name": "Yoimura, Remon",
+    "prompt": "Yoimura, Remon from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/399643.jpg?s=984a290b49a31b26cb31d1d044bf6a01"
+  },
+  {
+    "name": "Yorishiro, Hyoui",
+    "prompt": "Yorishiro, Hyoui from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/488670.jpg?s=938be85eb517f2c39c7f46221d8146fe"
+  },
+  {
+    "name": "Yubina",
+    "prompt": "Yubina from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/425214.jpg?s=3394a91f069208168551f9b2c956b075"
+  },
+  {
+    "name": "Yuino, Iwabee",
+    "prompt": "Yuino, Iwabee from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/327450.jpg?s=65f94683472098e81af9b9f20a815731"
+  },
+  {
+    "name": "Yukiwari, Kae",
+    "prompt": "Yukiwari, Kae from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/484766.jpg?s=b02436b78ddc241813f3dc66c7b2c824"
+  },
+  {
+    "name": "Yurito",
+    "prompt": "Yurito from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/388421.jpg?s=cac17b24e3ce1671c6187e7ee425da17"
+  },
+  {
+    "name": "Yurui",
+    "prompt": "Yurui from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/362443.jpg?s=f81336cef159309b78b6e596e21ad455"
+  },
+  {
+    "name": "Yuuhi, Kurenai",
+    "prompt": "Yuuhi, Kurenai from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/103797.jpg?s=01189fc7f8a526c4fd60ecb124f7065f"
+  },
+  {
+    "name": "Zansul",
+    "prompt": "Zansul from Boruto: Naruto Next Generations",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/502029.jpg?s=5b680b4367f23c25cbee3ac8ae873a46"
+  }
+]
