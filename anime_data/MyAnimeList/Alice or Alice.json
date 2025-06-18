@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Airi",
+    "prompt": "Airi from Alice or Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/350841.jpg?s=eb48c855a80f1d8e7d7d88eb81d77d37"
+  },
+  {
+    "name": "Ani",
+    "prompt": "Ani from Alice or Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/537217.jpg?s=fd31c7962f4a73081798db15c6ec4eb8"
+  },
+  {
+    "name": "Rise",
+    "prompt": "Rise from Alice or Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/350840.jpg?s=3e948252c06811d2c9826555f9940793"
+  },
+  {
+    "name": "Coco",
+    "prompt": "Coco from Alice or Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/350843.jpg?s=29dd4682444a86194103ff202bee2856"
+  },
+  {
+    "name": "Kisaki",
+    "prompt": "Kisaki from Alice or Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/350844.jpg?s=f4e4626918395b3e0a676026dcf2bb24"
+  },
+  {
+    "name": "Maco",
+    "prompt": "Maco from Alice or Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/350842.jpg?s=c8383878c79d0e7d2fca9ebd16545e1e"
+  },
+  {
+    "name": "Ruha",
+    "prompt": "Ruha from Alice or Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/350845.jpg?s=c3878199f75d406a2b5dc084ddea8171"
+  },
+  {
+    "name": "Yamirie",
+    "prompt": "Yamirie from Alice or Alice",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/555805.jpg?s=fe1a58a13ff6a43d2a86f3a8258fec13"
+  }
+]

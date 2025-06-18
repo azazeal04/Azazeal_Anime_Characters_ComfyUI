@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Alice",
+    "prompt": "Alice from Alice in Voodooland",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/410365.jpg?s=6128e18ec6f40f942da8310763962b00"
+  },
+  {
+    "name": "Cheshire Cat",
+    "prompt": "Cheshire Cat from Alice in Voodooland",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/410367.jpg?s=b7cc8abf7cf5cf5b2c3361538a7917af"
+  },
+  {
+    "name": "Queen of Hearts",
+    "prompt": "Queen of Hearts from Alice in Voodooland",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/410369.jpg?s=909e26ba7a9ae9c6066e54606c962e89"
+  },
+  {
+    "name": "White Rabbit",
+    "prompt": "White Rabbit from Alice in Voodooland",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/410366.jpg?s=b0eb863a07e0a00c9a9d68c170401d1f"
+  },
+  {
+    "name": "Caterpillar",
+    "prompt": "Caterpillar from Alice in Voodooland",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/419403.jpg?s=c56d576bc7473e204d597d7cb46198fa"
+  },
+  {
+    "name": "Dormouse",
+    "prompt": "Dormouse from Alice in Voodooland",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/419402.jpg?s=238cd6902e605118bae703ca6d81cdf9"
+  },
+  {
+    "name": "Mad Hatter",
+    "prompt": "Mad Hatter from Alice in Voodooland",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/419400.jpg?s=0c66a76a7d3a4a74ec0c9038b8d0e683"
+  },
+  {
+    "name": "March Hare",
+    "prompt": "March Hare from Alice in Voodooland",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/419401.jpg?s=e87ee731e8f548faf2212a33f0ce39bb"
+  }
+]
