@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ai",
+    "prompt": "Ai from Ai to Yuuto: Hajimete no Otsukai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/594456.jpg?s=c96497e39fbb1e6b8246bed37911e005"
+  },
+  {
+    "name": "Yuuto",
+    "prompt": "Yuuto from Ai to Yuuto: Hajimete no Otsukai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/594457.jpg?s=654ef938b150cf20808fe9e27657b6fb"
+  },
+  {
+    "name": "Masa",
+    "prompt": "Masa from Ai to Yuuto: Hajimete no Otsukai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/594459.jpg?s=ae1225ab75f56f0ba105f5670b115742"
+  },
+  {
+    "name": "Mother",
+    "prompt": "Mother from Ai to Yuuto: Hajimete no Otsukai",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/594458.jpg?s=4592ce3e71368e8161bcccd9967c7d40"
+  }
+]

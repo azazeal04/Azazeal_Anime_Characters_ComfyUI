@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Ann",
+    "prompt": "Ann from Aikatsu Planet! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/435302.jpg?s=1b5cd785804260db9f3e086146871ff0"
+  },
+  {
+    "name": "Beat",
+    "prompt": "Beat from Aikatsu Planet! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/435299.jpg?s=23dbfa5ec65be33ed9668e1009854601"
+  },
+  {
+    "name": "Hana",
+    "prompt": "Hana from Aikatsu Planet! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/435297.jpg?s=04f7097211f015207041e7e296756c4f"
+  },
+  {
+    "name": "Q-pit",
+    "prompt": "Q-pit from Aikatsu Planet! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/435301.jpg?s=283b4b9b265f4ea28bc07630bd9eb662"
+  },
+  {
+    "name": "Rose",
+    "prompt": "Rose from Aikatsu Planet! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/435303.jpg?s=c37c452218b401317c6a55ab720a618e"
+  },
+  {
+    "name": "Ruli",
+    "prompt": "Ruli from Aikatsu Planet! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/435298.jpg?s=9461eda078863c5f6695dd815a5c08f4"
+  },
+  {
+    "name": "Sala",
+    "prompt": "Sala from Aikatsu Planet! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/435304.jpg?s=b0ada4a7ebecf45b21319ec51430faad"
+  },
+  {
+    "name": "Shiori",
+    "prompt": "Shiori from Aikatsu Planet! Movie",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/435300.jpg?s=477c0028b16f8e686dee979f89335895"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Amahane, Madoka",
+    "prompt": "Amahane, Madoka from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/282577.jpg?s=d65a7eef6870a95875cafa9331a55385"
+  },
+  {
+    "name": "Arisugawa, Otome",
+    "prompt": "Arisugawa, Otome from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/259881.jpg?s=a9cbb25a746246866ba387645a892180"
+  },
+  {
+    "name": "Hikami, Sumire",
+    "prompt": "Hikami, Sumire from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/301554.jpg?s=17970a37ec647134a747abff1bb2c5a0"
+  },
+  {
+    "name": "Hoshimiya, Ichigo",
+    "prompt": "Hoshimiya, Ichigo from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/220071.jpg?s=e21887874e2be7363fe6a249c63bc7d4"
+  },
+  {
+    "name": "Kanzaki, Mizuki",
+    "prompt": "Kanzaki, Mizuki from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/177165.jpg?s=6a61314d7b55942d42fb3c06318e393e"
+  },
+  {
+    "name": "Kiriya, Aoi",
+    "prompt": "Kiriya, Aoi from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/220073.jpg?s=544876fa86642adf9f564bc87a7b81ae"
+  },
+  {
+    "name": "Kurebayashi, Juri",
+    "prompt": "Kurebayashi, Juri from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/288766.jpg?s=cc4e838f3f800820786ea1f59e46f231"
+  },
+  {
+    "name": "Kurosawa, Rin",
+    "prompt": "Kurosawa, Rin from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/281690.jpg?s=430f3b1d9cbda41820742fbdc569ab94"
+  },
+  {
+    "name": "Oozora, Akari",
+    "prompt": "Oozora, Akari from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/279068.jpg?s=aac9e8fea0de449e38bda2e0074764da"
+  },
+  {
+    "name": "Otoshiro, Seira",
+    "prompt": "Otoshiro, Seira from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/220067.jpg?s=56b362e8a83926e2d6d5796f8ae01ce6"
+  },
+  {
+    "name": "Saegusa, Kii",
+    "prompt": "Saegusa, Kii from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/220069.jpg?s=ba93e77b7b14587a952d057ab7c6572b"
+  },
+  {
+    "name": "Shibuki, Ran",
+    "prompt": "Shibuki, Ran from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/349878.jpg?s=ea757ea8a87e1e9c7b3c40d6f97ff568"
+  },
+  {
+    "name": "Shinjou, Hinaki",
+    "prompt": "Shinjou, Hinaki from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/278472.jpg?s=d4f3e677bde49a9800c7162230619ca4"
+  },
+  {
+    "name": "Toudou, Yurika",
+    "prompt": "Toudou, Yurika from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/278473.jpg?s=e963bee4d0201cb0cf3fbf3044a5b2c7"
+  },
+  {
+    "name": "Amahane, Asuka",
+    "prompt": "Amahane, Asuka from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/297767.jpg?s=e9c18edfa0b62703d339bd1d72dabf74"
+  },
+  {
+    "name": "Amane, Mirai",
+    "prompt": "Amane, Mirai from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/525816.jpg?s=7dbcfde8c02266bc0211d3cd4800361f"
+  },
+  {
+    "name": "Asakura, Miwa",
+    "prompt": "Asakura, Miwa from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/188144.jpg?s=1def04be3812e512f68d9d791939f9ec"
+  },
+  {
+    "name": "Atsuji, Encierro",
+    "prompt": "Atsuji, Encierro from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297713.jpg?s=f006e993e085055bcc27d8308428ddf2"
+  },
+  {
+    "name": "Ayasaki, Maria",
+    "prompt": "Ayasaki, Maria from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297760.jpg?s=6404e9d20fa086065b3cb549082bcbd1"
+  },
+  {
+    "name": "Bepp, Johnny",
+    "prompt": "Bepp, Johnny from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/297762.jpg?s=976650a4f054af79699cd3c077f012e6"
+  },
+  {
+    "name": "Beppu, Elisa",
+    "prompt": "Beppu, Elisa from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/285634.jpg?s=881694ec8d41cf116d18d641a450f9dd"
+  },
+  {
+    "name": "Daichi, Kazuno",
+    "prompt": "Daichi, Kazuno from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/547169.jpg?s=b7e8e0eb056d69a09fe54ccc74869f6c"
+  },
+  {
+    "name": "Daichi, Nono",
+    "prompt": "Daichi, Nono from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/293657.jpg?s=2493b95359cb1b66addf60394e56b9ca"
+  },
+  {
+    "name": "Dojima, Nina",
+    "prompt": "Dojima, Nina from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/298592.jpg?s=151889d9d363668067ab6a8b83706ecd"
+  },
+  {
+    "name": "Fujimoto, Erika",
+    "prompt": "Fujimoto, Erika from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/297758.jpg?s=f3ec79f0cf2ecafa21ca454ab5773a1f"
+  },
+  {
+    "name": "Fujiwara, Miyabi",
+    "prompt": "Fujiwara, Miyabi from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/278470.jpg?s=57fa611f5bf53bbc8ec6406134a16afe"
+  },
+  {
+    "name": "Hanazuki, Miu",
+    "prompt": "Hanazuki, Miu from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297738.jpg?s=d5b943c4f8e4ac736ba07676419fadf7"
+  },
+  {
+    "name": "Hateruma, Minami",
+    "prompt": "Hateruma, Minami from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/296333.jpg?s=269e6eef24dd712303f272b4c24544c6"
+  },
+  {
+    "name": "Hattori, Yuu",
+    "prompt": "Hattori, Yuu from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/297761.jpg?s=ff0bf2158a989f1b6fe5f24cafd6a130"
+  },
+  {
+    "name": "Hayase, Konatsu",
+    "prompt": "Hayase, Konatsu from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297742.jpg?s=c1b1fe4036c4cb990fdc227f37db38bd"
+  },
+  {
+    "name": "Hiiragi, Elena",
+    "prompt": "Hiiragi, Elena from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/297715.jpg?s=e35f29919a499d02ec4f94d8692a7346"
+  },
+  {
+    "name": "Himesato, Maria",
+    "prompt": "Himesato, Maria from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/245917.jpg?s=0de42d5e6e540d3ce1b6fba78becc49e"
+  },
+  {
+    "name": "Himuro, Asami",
+    "prompt": "Himuro, Asami from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/470997.jpg?s=ae0a3510313166403f08a3d834f4694d"
+  },
+  {
+    "name": "Hirasaka, Aya",
+    "prompt": "Hirasaka, Aya from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/297737.jpg?s=1ad32fa4bee37845d17e8615f93c251a"
+  },
+  {
+    "name": "Hirayama, Misaki",
+    "prompt": "Hirayama, Misaki from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/297750.jpg?s=f37c92b919ac9e15e2ba60039e107ffd"
+  },
+  {
+    "name": "Hiro",
+    "prompt": "Hiro from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/586657.jpg?s=73dcfc75a83132acf60c18b587139f89"
+  },
+  {
+    "name": "Hoshimiya, Ringo",
+    "prompt": "Hoshimiya, Ringo from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/297763.jpg?s=5ad2dcfc844061439eb2c9ba661f7540"
+  },
+  {
+    "name": "Hoshimiya, Raichi",
+    "prompt": "Hoshimiya, Raichi from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/297764.jpg?s=bfc3086eddb189bf82520319d810549b"
+  },
+  {
+    "name": "Hoshimiya, Taichi",
+    "prompt": "Hoshimiya, Taichi from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/297765.jpg?s=57ea25553e1045cfe41d03882e19e941"
+  },
+  {
+    "name": "Ichinose, Kaede",
+    "prompt": "Ichinose, Kaede from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/298706.jpg?s=727068b1ed5539d1cf3225186a4f0013"
+  },
+  {
+    "name": "Jose",
+    "prompt": "Jose from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/567990.jpg?s=f026d94449990aeafe6a14eefba0e26e"
+  },
+  {
+    "name": "Kamishiro, Rei",
+    "prompt": "Kamishiro, Rei from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/297766.jpg?s=7b34472a2325db2684daa31939076f04"
+  },
+  {
+    "name": "Kamiya, Shion",
+    "prompt": "Kamiya, Shion from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/297735.jpg?s=aefd14ee89897191b4e82ee61bce0be7"
+  },
+  {
+    "name": "Katagiri, Sumire",
+    "prompt": "Katagiri, Sumire from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/297740.jpg?s=a15d93907ec8a087840ced56aad4968e"
+  },
+  {
+    "name": "Kayoko",
+    "prompt": "Kayoko from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/297710.jpg?s=86f52962a99e5914512b814f6a1a5de2"
+  },
+  {
+    "name": "Kazesawa, Sora",
+    "prompt": "Kazesawa, Sora from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/245921.jpg?s=9d1c440b9b5eb9a2f97f333bc5dfaebb"
+  },
+  {
+    "name": "Kikuchi, Karin",
+    "prompt": "Kikuchi, Karin from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/297757.jpg?s=94bc28b3ecfc73a33c31387e895c8253"
+  },
+  {
+    "name": "Kimura, Rio",
+    "prompt": "Kimura, Rio from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/297748.jpg?s=3e8286068a07c824d5d38f70c820e487"
+  },
+  {
+    "name": "King",
+    "prompt": "King from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/307098.jpg?s=5f3f579a3be27464aadf6d3994d0e234"
+  },
+  {
+    "name": "Kinkawa, Oto",
+    "prompt": "Kinkawa, Oto from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297705.jpg?s=bec074e153e79dbf53e099d70e2b5120"
+  },
+  {
+    "name": "Kisaragi, Lucy",
+    "prompt": "Kisaragi, Lucy from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/586521.jpg?s=9aaf965ac843b233ea43b16a91b89631"
+  },
+  {
+    "name": "Kitaooji, Sakura",
+    "prompt": "Kitaooji, Sakura from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/202389.jpg?s=25abb5a2d6d2676c78a0f634fcc072f9"
+  },
+  {
+    "name": "Kodama, Anna",
+    "prompt": "Kodama, Anna from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/297700.jpg?s=4688dc3ce7a571cff7496cf11433843b"
+  },
+  {
+    "name": "Kondou, Mako",
+    "prompt": "Kondou, Mako from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/188148.jpg?s=247607e0e2670b531070f5c389af5b08"
+  },
+  {
+    "name": "Kurisu, Kokone",
+    "prompt": "Kurisu, Kokone from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/293659.jpg?s=71378b3437ee10d1493fd36c4d835bda"
+  },
+  {
+    "name": "Kurosawa, Michiru",
+    "prompt": "Kurosawa, Michiru from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/297734.jpg?s=0bedf8eb8aaa9c2e8110723dc243a017"
+  },
+  {
+    "name": "Kuze, Wakaba",
+    "prompt": "Kuze, Wakaba from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/297739.jpg?s=3ca583ae071e2a5a99640450b518ee28"
+  },
+  {
+    "name": "Makina",
+    "prompt": "Makina from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/297711.jpg?s=117fafa5429e61899d2a819121f1e91a"
+  },
+  {
+    "name": "Marcel",
+    "prompt": "Marcel from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297714.jpg?s=b300665b0854337d4e7aac5b6256bfe1"
+  },
+  {
+    "name": "Matsue, Nagisa",
+    "prompt": "Matsue, Nagisa from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/297754.jpg?s=c9b66e289ab5952aaa58b2a50b0ea827"
+  },
+  {
+    "name": "Mimori, Akane",
+    "prompt": "Mimori, Akane from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/297864.jpg?s=e4dbbaf2db848310fb8b1ca765d8ffd2"
+  },
+  {
+    "name": "Minowa, Hikari",
+    "prompt": "Minowa, Hikari from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/245915.jpg?s=d23d6b32e7c6d183bb881422e4c1c76b"
+  },
+  {
+    "name": "Mitsuishi, Orihime",
+    "prompt": "Mitsuishi, Orihime from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/297774.jpg?s=1cc4e7bb6142f83a59c685ddd787dbe0"
+  },
+  {
+    "name": "Miyagawa, Anna",
+    "prompt": "Miyagawa, Anna from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/297752.jpg?s=4fca4c11f738be32f4895fffa1a1726b"
+  },
+  {
+    "name": "Miyamoto, Fumina",
+    "prompt": "Miyamoto, Fumina from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/297746.jpg?s=ee672c175e6ebe71c1138249282afcc7"
+  },
+  {
+    "name": "Mizukoshi, Arisa",
+    "prompt": "Mizukoshi, Arisa from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/297703.jpg?s=6ed2b3d7da3b73c06d5da01a987e1e8b"
+  },
+  {
+    "name": "Mochizuki, Yukari",
+    "prompt": "Mochizuki, Yukari from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/297743.jpg?s=cc1c86a28739412d25d27c2d2f175965"
+  },
+  {
+    "name": "Mori, Kurumi",
+    "prompt": "Mori, Kurumi from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/297747.jpg?s=2652d0bfb81a6f0ec5d5d70936501c8e"
+  },
+  {
+    "name": "Mr. S",
+    "prompt": "Mr. S from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/224981.jpg?s=7e3bfde3d34b12e30f8a7f76b1b2cb89"
+  },
+  {
+    "name": "Muleta, Atsurou",
+    "prompt": "Muleta, Atsurou from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/297866.jpg?s=213a35a820e89a3fb2ae6813aae13615"
+  },
+  {
+    "name": "Nagahama, Mitsuru",
+    "prompt": "Nagahama, Mitsuru from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/547171.jpg?s=b83ac42d54901d33d01d629e96aee836"
+  },
+  {
+    "name": "Nakayama, Yuna",
+    "prompt": "Nakayama, Yuna from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/297736.jpg?s=dd827f03e8a1ea02ac65735bdb8420cc"
+  },
+  {
+    "name": "Natsuki, Mikuru",
+    "prompt": "Natsuki, Mikuru from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/245911.jpg?s=04066708f2736ad677c210236be8e38e"
+  },
+  {
+    "name": "Natsume, Akira",
+    "prompt": "Natsume, Akira from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/297749.jpg?s=58cbdb1f9d2aaec070708c243559287e"
+  },
+  {
+    "name": "Nijigahara, Makoto",
+    "prompt": "Nijigahara, Makoto from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297775.jpg?s=4a9b749e78296b0cb8ed543c8038c1b5"
+  },
+  {
+    "name": "Nikaido, Urara",
+    "prompt": "Nikaido, Urara from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297702.jpg?s=431a0ce1676108a203b7b65d7f98f8a3"
+  },
+  {
+    "name": "Nonomiya, Chiyo",
+    "prompt": "Nonomiya, Chiyo from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/297753.jpg?s=a4b301aec0abef54816ebc199823be5b"
+  },
+  {
+    "name": "Oikawa, Rin",
+    "prompt": "Oikawa, Rin from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297704.jpg?s=6f9226e94b6cc3ccb57c44cb7c8542bb"
+  },
+  {
+    "name": "Oota, Kakeru",
+    "prompt": "Oota, Kakeru from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/188150.jpg?s=e53368a92602932286aada561c0f0e05"
+  },
+  {
+    "name": "Osanai, Chiho",
+    "prompt": "Osanai, Chiho from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/297744.jpg?s=e486094861a5e4b046811998379a40ea"
+  },
+  {
+    "name": "Otoshiro, Noel",
+    "prompt": "Otoshiro, Noel from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/223029.jpg?s=0a8225473f8a47d5fc8ce28e1a884686"
+  },
+  {
+    "name": "Otowa, Himari",
+    "prompt": "Otowa, Himari from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297706.jpg?s=a667ed68fcf5320b32a1e85acc91157b"
+  },
+  {
+    "name": "Reporter",
+    "prompt": "Reporter from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/292421.jpg?s=60ac8ecb55b0c02a34c5a3b508db3eb8"
+  },
+  {
+    "name": "Saeki, Nana",
+    "prompt": "Saeki, Nana from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/297707.jpg?s=043f22b8d2de623ee9576eb015838fbc"
+  },
+  {
+    "name": "Saionji, Tsubaki",
+    "prompt": "Saionji, Tsubaki from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/297865.jpg?s=ad1c70ee0e04f32dd69193d74726e423"
+  },
+  {
+    "name": "Sano, Harumi",
+    "prompt": "Sano, Harumi from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/297755.jpg?s=18f7f6f6046346540a1b810bab0e9450"
+  },
+  {
+    "name": "Sena, Tsubasa",
+    "prompt": "Sena, Tsubasa from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/297773.jpg?s=1cd45256830c9fc6477b444af569e8ab"
+  },
+  {
+    "name": "Sendou, Yumeka",
+    "prompt": "Sendou, Yumeka from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/538131.jpg?s=c58e56255ba639e08cae49e891d452ca"
+  },
+  {
+    "name": "Shibata, Nanami",
+    "prompt": "Shibata, Nanami from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/297751.jpg?s=7ff3c1d7b6ca1e1403bdb904e0bdd300"
+  },
+  {
+    "name": "Shinjou, Ema",
+    "prompt": "Shinjou, Ema from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/206785.jpg?s=df9eac8721289fa9b5c09e8865f46c02"
+  },
+  {
+    "name": "Shirakaba, Reiko",
+    "prompt": "Shirakaba, Reiko from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/586205.jpg?s=69b67c9080ea79fcb1c1a4fb2bf6f016"
+  },
+  {
+    "name": "Shirakaba, Risa",
+    "prompt": "Shirakaba, Risa from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/293658.jpg?s=8a6f7ef8d7a56abf77c2556efd92a50a"
+  },
+  {
+    "name": "Shirosawa, Tomoyo",
+    "prompt": "Shirosawa, Tomoyo from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/434196.jpg?s=f8fae48ed4cf371c02c0cce11783beab"
+  },
+  {
+    "name": "Sunny",
+    "prompt": "Sunny from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297712.jpg?s=60add3a99754d6ee7c1971f89dfa50f4"
+  },
+  {
+    "name": "Suzukawa, Naoto",
+    "prompt": "Suzukawa, Naoto from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/297772.jpg?s=34a0d71d890edea37195b818e32a824b"
+  },
+  {
+    "name": "Tachibana, Anna",
+    "prompt": "Tachibana, Anna from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/297771.jpg?s=982b1af4e037eddfa7d7b74cc13fc941"
+  },
+  {
+    "name": "Tachibana, Michelle",
+    "prompt": "Tachibana, Michelle from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/470996.jpg?s=69d52733c76ae2be5633f0c8179f5b4b"
+  },
+  {
+    "name": "Takaoka, Tomoe",
+    "prompt": "Takaoka, Tomoe from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/297759.jpg?s=806197d58df9657004b342200d6d1749"
+  },
+  {
+    "name": "Tateishi, Aki",
+    "prompt": "Tateishi, Aki from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/548747.jpg?s=bdeabe55d6f05e779a9f3ea3e210f911"
+  },
+  {
+    "name": "Tokui, Toku",
+    "prompt": "Tokui, Toku from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/297716.jpg?s=b7c15ac6835943a0c6c0c15d378c6c61"
+  },
+  {
+    "name": "Totsuka, Saki",
+    "prompt": "Totsuka, Saki from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/297756.jpg?s=d7db2e5a505f21ff959261a7489e17f4"
+  },
+  {
+    "name": "Tsukikage, Honoka",
+    "prompt": "Tsukikage, Honoka from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/297770.jpg?s=95d80da9b384adfc366987754c336475"
+  },
+  {
+    "name": "Tsutsumi, Nagisa",
+    "prompt": "Tsutsumi, Nagisa from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/406880.jpg?s=7c63fc9df1c5fc18b163320ded93728a"
+  },
+  {
+    "name": "Watanuki, Mimi",
+    "prompt": "Watanuki, Mimi from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/297699.jpg?s=2bf136653af3a13e14ccade3ee3e062d"
+  },
+  {
+    "name": "Yazuki, Nana",
+    "prompt": "Yazuki, Nana from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/297741.jpg?s=f7381e3b6497eb5e9dc9089cbaf14fde"
+  },
+  {
+    "name": "Yoshikawa, Kokoro",
+    "prompt": "Yoshikawa, Kokoro from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/297745.jpg?s=80bc2e2106fa3254ffa889867ad4d91b"
+  },
+  {
+    "name": "Yotsuba, Shun",
+    "prompt": "Yotsuba, Shun from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/297769.jpg?s=835eba9cd3dc9b48b9fc8b6c91b93f7a"
+  },
+  {
+    "name": "Yuki, Ayako",
+    "prompt": "Yuki, Ayako from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/297698.jpg?s=df310f538b0183a4dfe4268f68ce7711"
+  },
+  {
+    "name": "Yuki, Reika",
+    "prompt": "Yuki, Reika from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/297701.jpg?s=ec6f1846b5d88d78781fb7eeb67f6574"
+  },
+  {
+    "name": "Yumekouji, Maya",
+    "prompt": "Yumekouji, Maya from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/297768.jpg?s=061b1992c01312343d6ab396087435f4"
+  },
+  {
+    "name": "Yumesaki, Tiara",
+    "prompt": "Yumesaki, Tiara from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/297709.jpg?s=68182ec5595c2b000a84b46dece1cb59"
+  },
+  {
+    "name": "Yuzuha, Mei",
+    "prompt": "Yuzuha, Mei from Aikatsu!",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/188142.jpg?s=c8b0be179c3a8743ff2d96aec1996c83"
+  }
+]

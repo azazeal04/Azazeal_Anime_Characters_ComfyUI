@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Enterprise",
+    "prompt": "Enterprise from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/384508.jpg?s=f133e55771df31dd792efc960abff9c5"
+  },
+  {
+    "name": "Akagi",
+    "prompt": "Akagi from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/414964.jpg?s=a8754096b97927bc4eb110596eff8a0a"
+  },
+  {
+    "name": "Ark Royal",
+    "prompt": "Ark Royal from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/481793.jpg?s=d636da79a2582371deedef83a701488a"
+  },
+  {
+    "name": "Avrora",
+    "prompt": "Avrora from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/505537.jpg?s=34970de02953c29fedf19a9ab29bc9c1"
+  },
+  {
+    "name": "Bismarck",
+    "prompt": "Bismarck from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/403970.jpg?s=b6d180690d167356d1a46188145daa39"
+  },
+  {
+    "name": "Essex",
+    "prompt": "Essex from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/560684.jpg?s=76670fd4aedfb626eaf16aec4cad2bc4"
+  },
+  {
+    "name": "Hiryuu",
+    "prompt": "Hiryuu from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/409607.jpg?s=8153412644a3d666e139400e1374d83f"
+  },
+  {
+    "name": "Hornet",
+    "prompt": "Hornet from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/462681.jpg?s=accd87368d601079c689135a85133826"
+  },
+  {
+    "name": "Jean Bart",
+    "prompt": "Jean Bart from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/519630.jpg?s=a1c587dfb00416b4c8fb76b2014dae79"
+  },
+  {
+    "name": "Kaga",
+    "prompt": "Kaga from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/402618.jpg?s=e7b28779e0d19a8f53eead7e4d7c3655"
+  },
+  {
+    "name": "King George V",
+    "prompt": "King George V from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/520377.jpg?s=81a1dceb5812b69182bab7806f5c9ca1"
+  },
+  {
+    "name": "Littorio",
+    "prompt": "Littorio from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/551905.jpg?s=f398f196d2b0a569b98bce44f83e4085"
+  },
+  {
+    "name": "Massachusetts",
+    "prompt": "Massachusetts from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/409611.jpg?s=b58cf243d62879f2f377e7303df48d97"
+  },
+  {
+    "name": "Ning Hai",
+    "prompt": "Ning Hai from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/409615.jpg?s=5fe5d20051df92955c60a3c1919f9304"
+  },
+  {
+    "name": "Ping Hai",
+    "prompt": "Ping Hai from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/462512.jpg?s=42fc9a78bbc91683a67b2611e62a925a"
+  },
+  {
+    "name": "Queen Elizabeth",
+    "prompt": "Queen Elizabeth from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/504101.jpg?s=355a6888fcc2084d31af2875272ee265"
+  },
+  {
+    "name": "Renown",
+    "prompt": "Renown from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/478772.jpg?s=eeda44ea023e35897e2dd0f251babac8"
+  },
+  {
+    "name": "Richelieu",
+    "prompt": "Richelieu from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/520389.jpg?s=87a690578b88abc562f16792e7e69918"
+  },
+  {
+    "name": "Rodney",
+    "prompt": "Rodney from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/437571.jpg?s=0a5d015f3df6a6c0497b0ea7b2241d00"
+  },
+  {
+    "name": "Tester",
+    "prompt": "Tester from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/409562.jpg?s=b43304ec23515122313e9eb5366c26ac"
+  },
+  {
+    "name": "Victorious",
+    "prompt": "Victorious from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/505528.jpg?s=3b9fff790279ac9356823fa0cb0ad89a"
+  },
+  {
+    "name": "Warspite",
+    "prompt": "Warspite from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/504184.jpg?s=b95a57eddde34a7864900cd2175f7d7c"
+  },
+  {
+    "name": "Yorktown",
+    "prompt": "Yorktown from Ain't Backing Down",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/393222.jpg?s=484e469f4dc6f476dc30cec9499414e6"
+  }
+]
