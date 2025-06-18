@@ -6,7 +6,7 @@ license = { file = "LICENSE" }
 dependencies = ["none"]
 
 [project.urls]
-Repository = "https://github.com/azazeal/Azazeal_Anime_Characters_ComfyUI"
+Repository = "https://github.com/azazeal04/Azazeal_Anime_Characters_ComfyUI.git"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
