@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ares",
+    "prompt": "Ares from Mighty Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/43-ares.jpg"
+  },
+  {
+    "name": "Black Widow",
+    "prompt": "Black Widow from Mighty Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/107-black-widow.jpg"
+  },
+  {
+    "name": "Falcon",
+    "prompt": "Falcon from Mighty Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/251-falcon.jpg"
+  },
+  {
+    "name": "Hercules",
+    "prompt": "Hercules from Mighty Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/325-hercules.jpg"
+  },
+  {
+    "name": "Iron Man",
+    "prompt": "Iron Man from Mighty Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/346-iron-man.jpg"
+  },
+  {
+    "name": "Sentry",
+    "prompt": "Sentry from Mighty Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/583-sentry.jpg"
+  }
+]

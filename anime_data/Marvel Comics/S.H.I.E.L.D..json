@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Black Widow",
+    "prompt": "Black Widow from S.H.I.E.L.D.",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/107-black-widow.jpg"
+  },
+  {
+    "name": "Daredevil",
+    "prompt": "Daredevil from S.H.I.E.L.D.",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/201-daredevil.jpg"
+  },
+  {
+    "name": "Shadowcat",
+    "prompt": "Shadowcat from S.H.I.E.L.D.",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/586-shadowcat.jpg"
+  }
+]

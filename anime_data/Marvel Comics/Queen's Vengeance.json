@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Black Knight III",
+    "prompt": "Black Knight III from Queen's Vengeance",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/102-black-knight-iii.jpg"
+  },
+  {
+    "name": "Black Panther",
+    "prompt": "Black Panther from Queen's Vengeance",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/106-black-panther.jpg"
+  },
+  {
+    "name": "Crystal",
+    "prompt": "Crystal from Queen's Vengeance",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/191-crystal.jpg"
+  },
+  {
+    "name": "Firebird",
+    "prompt": "Firebird from Queen's Vengeance",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/257-firebird.jpg"
+  },
+  {
+    "name": "Scarlet Witch",
+    "prompt": "Scarlet Witch from Queen's Vengeance",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/579-scarlet-witch.jpg"
+  }
+]

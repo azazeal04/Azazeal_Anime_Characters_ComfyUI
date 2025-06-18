@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Armor",
+    "prompt": "Armor from New X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/45-armor.jpg"
+  },
+  {
+    "name": "X-23",
+    "prompt": "X-23 from New X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/723-x-23.jpg"
+  }
+]
