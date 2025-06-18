@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Luke",
+    "prompt": "Luke from Chao You Bing",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/352068.jpg?s=4a54fa6cb9004139da7cb67f7e570dd8"
+  },
+  {
+    "name": "Xiaohong",
+    "prompt": "Xiaohong from Chao You Bing",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/352071.jpg?s=8c3643b603b76a5fb5fee42cfca23163"
+  },
+  {
+    "name": "Alice",
+    "prompt": "Alice from Chao You Bing",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/352069.jpg?s=97512ce485ac1042ac09d7a2f0f3688b"
+  },
+  {
+    "name": "Commander",
+    "prompt": "Commander from Chao You Bing",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/352072.jpg?s=8e1f7d6ee5438f0784c98dc3e34441fd"
+  },
+  {
+    "name": "Girl",
+    "prompt": "Girl from Chao You Bing",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/352070.jpg?s=1d384cc49c28d02bfac0d4163f284960"
+  }
+]
