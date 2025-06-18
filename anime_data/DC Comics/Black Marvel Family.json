@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Isis",
+    "prompt": "Isis from Black Marvel Family",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/348-isis.jpg"
+  },
+  {
+    "name": "Sobek",
+    "prompt": "Sobek from Black Marvel Family",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/608-sobek.jpg"
+  }
+]

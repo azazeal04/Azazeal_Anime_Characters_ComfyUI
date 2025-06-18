@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Captain Atom",
+    "prompt": "Captain Atom from Extreme Justice",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/150-captain-atom.jpg"
+  },
+  {
+    "name": "Maxima",
+    "prompt": "Maxima from Extreme Justice",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/439-maxima.jpg"
+  },
+  {
+    "name": "Plastique",
+    "prompt": "Plastique from Extreme Justice",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/521-plastique.jpg"
+  }
+]

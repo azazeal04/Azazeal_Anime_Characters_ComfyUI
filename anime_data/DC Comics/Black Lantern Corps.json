@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Abin Sur",
+    "prompt": "Abin Sur from Black Lantern Corps",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/3-abin-sur.jpg"
+  },
+  {
+    "name": "Doctor Fate",
+    "prompt": "Doctor Fate from Black Lantern Corps",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/224-doctor-fate.jpg"
+  },
+  {
+    "name": "Elongated Man",
+    "prompt": "Elongated Man from Black Lantern Corps",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/240-elongated-man.jpg"
+  },
+  {
+    "name": "Hawk",
+    "prompt": "Hawk from Black Lantern Corps",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/312-hawk.jpg"
+  },
+  {
+    "name": "Professor Zoom",
+    "prompt": "Professor Zoom from Black Lantern Corps",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/528-professor-zoom.jpg"
+  },
+  {
+    "name": "Question",
+    "prompt": "Question from Black Lantern Corps",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/535-question.jpg"
+  },
+  {
+    "name": "Solomon Grundy",
+    "prompt": "Solomon Grundy from Black Lantern Corps",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/609-solomon-grundy.jpg"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Giganta",
+    "prompt": "Giganta from Inc.",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/284-giganta.jpg"
+  },
+  {
+    "name": "Power Girl",
+    "prompt": "Power Girl from Inc.",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/524-power-girl.jpg"
+  }
+]

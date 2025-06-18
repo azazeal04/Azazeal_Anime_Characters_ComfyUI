@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Atlas",
+    "prompt": "Atlas from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/49-atlas.jpg"
+  },
+  {
+    "name": "Ben 10",
+    "prompt": "Ben 10 from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/78-ben-10.jpg"
+  },
+  {
+    "name": "Black Flash",
+    "prompt": "Black Flash from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/100-black-flash.jpg"
+  },
+  {
+    "name": "Black Manta",
+    "prompt": "Black Manta from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/105-black-manta.jpg"
+  },
+  {
+    "name": "Deadshot",
+    "prompt": "Deadshot from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/214-deadshot.jpg"
+  },
+  {
+    "name": "Gorilla Grodd",
+    "prompt": "Gorilla Grodd from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/294-gorilla-grodd.jpg"
+  },
+  {
+    "name": "Jessica Cruz",
+    "prompt": "Jessica Cruz from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/360-jessica-cruz.jpg"
+  },
+  {
+    "name": "Kevin 11",
+    "prompt": "Kevin 11 from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/382-kevin-11.jpg"
+  },
+  {
+    "name": "Killer Frost",
+    "prompt": "Killer Frost from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/387-killer-frost.jpg"
+  },
+  {
+    "name": "King Shark",
+    "prompt": "King Shark from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/390-king-shark.jpg"
+  },
+  {
+    "name": "Mister Mxyzptlk",
+    "prompt": "Mister Mxyzptlk from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/459-mister-mxyzptlk.jpg"
+  },
+  {
+    "name": "Mister Zsasz",
+    "prompt": "Mister Zsasz from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/no-portrait.jpg"
+  },
+  {
+    "name": "Offspring",
+    "prompt": "Offspring from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/499-offspring.jpg"
+  },
+  {
+    "name": "Osiris",
+    "prompt": "Osiris from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/506-osiris.jpg"
+  },
+  {
+    "name": "Penguin",
+    "prompt": "Penguin from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/514-penguin.jpg"
+  },
+  {
+    "name": "Phantom Girl",
+    "prompt": "Phantom Girl from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/516-phantom-girl.jpg"
+  },
+  {
+    "name": "Riddler",
+    "prompt": "Riddler from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/558-riddler.jpg"
+  },
+  {
+    "name": "Robin VI",
+    "prompt": "Robin VI from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/565-robin-vi.jpg"
+  },
+  {
+    "name": "Shadow Lass",
+    "prompt": "Shadow Lass from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/585-shadow-lass.jpg"
+  },
+  {
+    "name": "Simon Baz",
+    "prompt": "Simon Baz from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/600-simon-baz.jpg"
+  },
+  {
+    "name": "Siren",
+    "prompt": "Siren from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/602-siren.jpg"
+  },
+  {
+    "name": "Steppenwolf",
+    "prompt": "Steppenwolf from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/637-steppenwolf.jpg"
+  },
+  {
+    "name": "Two-Face",
+    "prompt": "Two-Face from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/678-two-face.jpg"
+  },
+  {
+    "name": "Vibe",
+    "prompt": "Vibe from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/692-vibe.jpg"
+  },
+  {
+    "name": "White Canary",
+    "prompt": "White Canary from -",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/711-white-canary.jpg"
+  }
+]

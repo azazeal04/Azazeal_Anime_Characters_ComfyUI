@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Deadman",
+    "prompt": "Deadman from formerly Sentinels of Magic",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/212-deadman.jpg"
+  },
+  {
+    "name": "Raven",
+    "prompt": "Raven from formerly Sentinels of Magic",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/542-raven.jpg"
+  }
+]
