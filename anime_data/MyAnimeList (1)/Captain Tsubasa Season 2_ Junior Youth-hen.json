@@ -1,0 +1,672 @@
+[
+  {
+    "name": "Misaki, Tarou",
+    "prompt": "Misaki, Tarou from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/349316.jpg?s=7a8f79b276b80fa3cb12f04667335426"
+  },
+  {
+    "name": "Oozora, Tsubasa",
+    "prompt": "Oozora, Tsubasa from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/83786.jpg?s=1b18eccb2599d77bd9b1c94ecdea2891"
+  },
+  {
+    "name": "Amoro, Dominique",
+    "prompt": "Amoro, Dominique from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/542963.jpg?s=c728f458bececad46067997533063bb1"
+  },
+  {
+    "name": "Andrea",
+    "prompt": "Andrea from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/536018.jpg?s=4b00350ead849123296c45702712e2ef"
+  },
+  {
+    "name": "Aoi, Shingo",
+    "prompt": "Aoi, Shingo from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/300537.jpg?s=93eb82b44499675ff5a3d7908ca7fdba"
+  },
+  {
+    "name": "Barbas, Diego",
+    "prompt": "Barbas, Diego from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/521510.jpg?s=757fb87414451c06b257b2695fde262b"
+  },
+  {
+    "name": "Baroli",
+    "prompt": "Baroli from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/536039.jpg?s=6dd0481f1aa730f3681a15312d9a5597"
+  },
+  {
+    "name": "Bolten",
+    "prompt": "Bolten from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/536041.jpg?s=415137c93cefb7a2e6d69642d06baec5"
+  },
+  {
+    "name": "Borghi, Clastho",
+    "prompt": "Borghi, Clastho from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/536042.jpg?s=cbea01f8c017b20c208e45fb7afaeadd"
+  },
+  {
+    "name": "Bossis, Alain",
+    "prompt": "Bossis, Alain from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/521517.jpg?s=d647a405b1c35d798e12a5aec2eb8823"
+  },
+  {
+    "name": "Bravo, Luis",
+    "prompt": "Bravo, Luis from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/539214.jpg?s=c8c3998166c8ed688ce3c02bda3cd2d9"
+  },
+  {
+    "name": "Brecht",
+    "prompt": "Brecht from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/536044.jpg?s=d73a55d162cfe66c390a5f2a4a231038"
+  },
+  {
+    "name": "Briegel",
+    "prompt": "Briegel from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/536430.jpg?s=7e2f9433d972ccf0e8aa0a2117537ebf"
+  },
+  {
+    "name": "Brown, Rafael",
+    "prompt": "Brown, Rafael from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/536047.jpg?s=1bc05ee80c7709b26306ec8ee06fae21"
+  },
+  {
+    "name": "Carbonara, René",
+    "prompt": "Carbonara, René from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/521518.jpg?s=1c367d53ddc3c95e0047568eabaf3477"
+  },
+  {
+    "name": "Carlos",
+    "prompt": "Carlos from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/533785.jpg?s=d780d646df8aad356410c4cd7ff0c506"
+  },
+  {
+    "name": "Conti, Giovanni",
+    "prompt": "Conti, Giovanni from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/534637.jpg?s=4be979ff31f9e1cbfa36c9ad07854f85"
+  },
+  {
+    "name": "Daniel",
+    "prompt": "Daniel from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/539215.jpg?s=e61b9b9d07a9e43eb56fb50f1a94abfc"
+  },
+  {
+    "name": "Dean",
+    "prompt": "Dean from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/536048.jpg?s=ef55f79f697626826dae42b720fda1a5"
+  },
+  {
+    "name": "Diaz, Juan",
+    "prompt": "Diaz, Juan from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/549785.jpg?s=e6bfa5eb617c0a9a4792cf992c5a1fdd"
+  },
+  {
+    "name": "Dussault, Marcel",
+    "prompt": "Dussault, Marcel from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/539343.jpg?s=57fe52c5711c4a41c976edb2efef590d"
+  },
+  {
+    "name": "Elle Sid's Father",
+    "prompt": "Elle Sid's Father from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/555491.jpg?s=5970f4d99b7f74349c16c5c1a5e25f1c"
+  },
+  {
+    "name": "Elle Sid's Mother",
+    "prompt": "Elle Sid's Mother from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/539337.jpg?s=ceffbb2944ee3ba3e3631f67838af604"
+  },
+  {
+    "name": "Ferreri, Michel",
+    "prompt": "Ferreri, Michel from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/539350.jpg?s=b414fddfd2c051db632a0429890734c8"
+  },
+  {
+    "name": "Fisher, Michel",
+    "prompt": "Fisher, Michel from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/536369.jpg?s=203ba87eaa4eee036a7fcf5f0a2fafa7"
+  },
+  {
+    "name": "Francesco",
+    "prompt": "Francesco from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/536212.jpg?s=56d199c549c1eb6cb6d342e2c09dd4ef"
+  },
+  {
+    "name": "Fujisawa, Yoshiko",
+    "prompt": "Fujisawa, Yoshiko from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/536418.jpg?s=8aaa446ff778860d05496531e594e19d"
+  },
+  {
+    "name": "Galeya, Jorge",
+    "prompt": "Galeya, Jorge from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/536214.jpg?s=f129cd82c74f35b8e050f9f1dd532196"
+  },
+  {
+    "name": "Galtoni, Julio",
+    "prompt": "Galtoni, Julio from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/534619.jpg?s=5ea0a3c843f99868a16d923131760eb3"
+  },
+  {
+    "name": "Galvan, Gabriel",
+    "prompt": "Galvan, Gabriel from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/534620.jpg?s=9da9ae04dd2a2c5f41d2eb8ad1e49f1a"
+  },
+  {
+    "name": "Gentile, Salvatore",
+    "prompt": "Gentile, Salvatore from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/534625.jpg?s=c8489aab14dc7f8b7a036533a078468f"
+  },
+  {
+    "name": "Georges",
+    "prompt": "Georges from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/539217.jpg?s=c0d416cc7017b3a9e4c7c3528617a3cf"
+  },
+  {
+    "name": "Gildo, Mike",
+    "prompt": "Gildo, Mike from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/539362.jpg?s=8801087f1f946f429efbea41ae79cb55"
+  },
+  {
+    "name": "Golbate, Gentile",
+    "prompt": "Golbate, Gentile from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/536218.jpg?s=ebd4d5018d9ec2e70bdfd39174764cf9"
+  },
+  {
+    "name": "Gongels",
+    "prompt": "Gongels from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/542484.jpg?s=3719ecc95712bf94712f761dcf7c4ba6"
+  },
+  {
+    "name": "Hain, Michael",
+    "prompt": "Hain, Michael from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/539218.jpg?s=67d629c272892484911bcf2b59f1012b"
+  },
+  {
+    "name": "Hamana's Coach",
+    "prompt": "Hamana's Coach from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/555466.jpg?s=d97324cda467d4623eb1f307664b34c6"
+  },
+  {
+    "name": "Hardwich",
+    "prompt": "Hardwich from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/555457.jpg?s=54e1935e66bd748a0f6ce4d2057af08f"
+  },
+  {
+    "name": "Hayakawa, Azumi",
+    "prompt": "Hayakawa, Azumi from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/536026.jpg?s=81af2e4b088159a526c13560bbc6673b"
+  },
+  {
+    "name": "Hernandez, Gino",
+    "prompt": "Hernandez, Gino from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/558590.jpg?s=14ed9f01fd7976b826dc5902e77f553e"
+  },
+  {
+    "name": "Hinmel",
+    "prompt": "Hinmel from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/536234.jpg?s=2be3ef714b65b8a8b1a40e6a19151de6"
+  },
+  {
+    "name": "Hongo, Roberto",
+    "prompt": "Hongo, Roberto from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/349318.jpg?s=aa054e45a95f188aba6410c2941077c2"
+  },
+  {
+    "name": "Honma, Minoru",
+    "prompt": "Honma, Minoru from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/533927.jpg?s=f29caa2a9443d64101bd2420fc724500"
+  },
+  {
+    "name": "Hyuuga, Kojirou",
+    "prompt": "Hyuuga, Kojirou from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/84405.jpg?s=14c86d1488d507bc64b9c511668ce834"
+  },
+  {
+    "name": "Ishida, Tetsuo",
+    "prompt": "Ishida, Tetsuo from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/533931.jpg?s=8c463cb303307acbc508331895c9b742"
+  },
+  {
+    "name": "Ishizaki, Ryou",
+    "prompt": "Ishizaki, Ryou from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/558422.jpg?s=3fdb99cfe6079f43f233ca0e388201eb"
+  },
+  {
+    "name": "Iwami, Kenichi",
+    "prompt": "Iwami, Kenichi from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/526644.jpg?s=34f93ad83a7a7b8957df7e818cab53c8"
+  },
+  {
+    "name": "Izawa, Mamoru",
+    "prompt": "Izawa, Mamoru from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/439613.jpg?s=bc58006bf3827bb989b251ff5410322a"
+  },
+  {
+    "name": "Jara",
+    "prompt": "Jara from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/536237.jpg?s=4fa0f1c6eab9aa6430871e314571a8ee"
+  },
+  {
+    "name": "Jeites, Manuel",
+    "prompt": "Jeites, Manuel from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/536238.jpg?s=8850ddbb6a07ddf2147fcb0eed2f552e"
+  },
+  {
+    "name": "Jito, Hiroshi",
+    "prompt": "Jito, Hiroshi from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/558420.jpg?s=086dcec3d49065b3178cfe688d90bee1"
+  },
+  {
+    "name": "Kain",
+    "prompt": "Kain from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/539341.jpg?s=de3c56cb6d4d7eb9e61a144b636727e2"
+  },
+  {
+    "name": "Kaltz, Hermann",
+    "prompt": "Kaltz, Hermann from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/472391.jpg?s=69c6a37e86184a5917350d20fddec91d"
+  },
+  {
+    "name": "Kanda, Koshi",
+    "prompt": "Kanda, Koshi from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/535114.jpg?s=ef8b0ba541398fc6ae866ff833cc6644"
+  },
+  {
+    "name": "Karl-Heinz's Mother",
+    "prompt": "Karl-Heinz's Mother from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/536239.jpg?s=de5be6262d82ca01f96850268ffc9a4f"
+  },
+  {
+    "name": "Katagiri, Munemasa",
+    "prompt": "Katagiri, Munemasa from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/558614.jpg?s=d475b84b4ebb1a531d72c7718fd8e71b"
+  },
+  {
+    "name": "Katou, Masanori",
+    "prompt": "Katou, Masanori from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/536367.jpg?s=66b672c1be6d2b31f3b2d9947021173b"
+  },
+  {
+    "name": "Kira, Kouzou",
+    "prompt": "Kira, Kouzou from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/536358.jpg?s=257edec76ad33d545527db666df29508"
+  },
+  {
+    "name": "Kishida, Takeshi",
+    "prompt": "Kishida, Takeshi from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/527420.jpg?s=1131ad8655508ca586e8bde0121663a3"
+  },
+  {
+    "name": "Kisugi, Teppei",
+    "prompt": "Kisugi, Teppei from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/356631.jpg?s=425c3a80ca56141e7e3a4759caf76013"
+  },
+  {
+    "name": "Kitazume, Makoto",
+    "prompt": "Kitazume, Makoto from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/472392.jpg?s=9acee944e2e6c581da81b625028da106"
+  },
+  {
+    "name": "Klaus",
+    "prompt": "Klaus from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/536249.jpg?s=8aa4fea53e409786f66f505ba4ae198b"
+  },
+  {
+    "name": "Kodama, Kazuo",
+    "prompt": "Kodama, Kazuo from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/533932.jpg?s=3d36adf550dc7d1c7b97d3004dcc806f"
+  },
+  {
+    "name": "Koji",
+    "prompt": "Koji from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/536252.jpg?s=92650b413da1551f7fd8984ff07ef562"
+  },
+  {
+    "name": "Lange",
+    "prompt": "Lange from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/536359.jpg?s=336eab4bd0732d860d2947eed6e5ab51"
+  },
+  {
+    "name": "Live Commentator",
+    "prompt": "Live Commentator from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/539369.jpg?s=89796a26ebed34f783419c11b4a41806"
+  },
+  {
+    "name": "Machida, Machiko",
+    "prompt": "Machida, Machiko from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/536365.jpg?s=4e0ae66b5f8a25cbeec7a6c6b1cc958e"
+  },
+  {
+    "name": "Magath, Thomas",
+    "prompt": "Magath, Thomas from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/539342.jpg?s=b86dec64074e981fc5f87eb4358509d9"
+  },
+  {
+    "name": "Margus, Manfred",
+    "prompt": "Margus, Manfred from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/534557.jpg?s=f421830718ac70a5bfea96d1889b985d"
+  },
+  {
+    "name": "Marinho, Dimos",
+    "prompt": "Marinho, Dimos from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/534636.jpg?s=de70063e520e322d7870373831e46b3e"
+  },
+  {
+    "name": "Matsuyama, Hikaru",
+    "prompt": "Matsuyama, Hikaru from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/558409.jpg?s=e6fd280d5c02b80a22b18c2f0690b22c"
+  },
+  {
+    "name": "Matteo",
+    "prompt": "Matteo from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/536368.jpg?s=74752621277c9735b580b7f10b1a2f16"
+  },
+  {
+    "name": "Max, Felix",
+    "prompt": "Max, Felix from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/555492.jpg?s=eed12e4b72ce9d85fb3f345b7079ca73"
+  },
+  {
+    "name": "Mayer",
+    "prompt": "Mayer from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/537674.jpg?s=38e3d87112d67725b173a1e11674ad55"
+  },
+  {
+    "name": "Mayer, Haralt",
+    "prompt": "Mayer, Haralt from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/555500.jpg?s=4cc4328552fffd4a2bbf92f52b6bad2e"
+  },
+  {
+    "name": "Mikami, Tatsuo",
+    "prompt": "Mikami, Tatsuo from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/558613.jpg?s=a7e17b722f74642f10b2ff38bd25f479"
+  },
+  {
+    "name": "Misaki, Ichirou",
+    "prompt": "Misaki, Ichirou from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/536236.jpg?s=e926d3b48893ea1e39fd1dc0733e5026"
+  },
+  {
+    "name": "Misugi, Jun",
+    "prompt": "Misugi, Jun from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/558423.jpg?s=c54e82c371652934afd0331eef0ae052"
+  },
+  {
+    "name": "Mitsuru",
+    "prompt": "Mitsuru from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/536370.jpg?s=37ab32dedd55abf57e71cca4279d5f53"
+  },
+  {
+    "name": "Mitsuru's Mother",
+    "prompt": "Mitsuru's Mother from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/536371.jpg?s=436b6c1d1302052d523517e3318438ad"
+  },
+  {
+    "name": "Montana, Sax",
+    "prompt": "Montana, Sax from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/555499.jpg?s=0ee2342049845ffe820f54f70823c7c6"
+  },
+  {
+    "name": "Morisaki, Yuuzou",
+    "prompt": "Morisaki, Yuuzou from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/439612.jpg?s=fe1b1b03ebbe0680d7f87245df9c5208"
+  },
+  {
+    "name": "Murnau",
+    "prompt": "Murnau from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/536372.jpg?s=9173e863d521174b55e034831aecb533"
+  },
+  {
+    "name": "Müller, Deuter",
+    "prompt": "Müller, Deuter from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/539216.jpg?s=64d19b77496b987eaab66567f1ef95b4"
+  },
+  {
+    "name": "Nagano, Hiroshi",
+    "prompt": "Nagano, Hiroshi from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/555497.jpg?s=5f7b61014ceec18dbd9066340cd2cb1e"
+  },
+  {
+    "name": "Nagaoka, Tsutomu",
+    "prompt": "Nagaoka, Tsutomu from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/555493.jpg?s=a97c0bc7ff55bb2c7dab0474123b6874"
+  },
+  {
+    "name": "Nakanishi, Taichi",
+    "prompt": "Nakanishi, Taichi from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/558612.jpg?s=06fbbfdc08f3cc6df0a28892c3aadfd0"
+  },
+  {
+    "name": "Nakazawa, Sanae",
+    "prompt": "Nakazawa, Sanae from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/276884.jpg?s=afe44a63f1aafdf5d0b72a38e59f2fbe"
+  },
+  {
+    "name": "Nakazawa, Atsushi",
+    "prompt": "Nakazawa, Atsushi from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/555458.jpg?s=9422020e35dc9af558354892ad1a1cb0"
+  },
+  {
+    "name": "Napoleon, Louis",
+    "prompt": "Napoleon, Louis from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/558418.jpg?s=4a773cc159660f6b0d95dcff2f8f3f7f"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nishimoto, Yukari",
+    "prompt": "Nishimoto, Yukari from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/536419.jpg?s=806b8b6c2522c41b460aa55c8a26cf71"
+  },
+  {
+    "name": "Nishio, Kouji",
+    "prompt": "Nishio, Kouji from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/536255.jpg?s=e941a29bddc6a57e3aca5fcf4015ba45"
+  },
+  {
+    "name": "Nitta, Shun",
+    "prompt": "Nitta, Shun from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/558412.jpg?s=1ef5b58272a4a7e0872fd266ffd57cc1"
+  },
+  {
+    "name": "Oda, Tsuyoshi",
+    "prompt": "Oda, Tsuyoshi from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/536416.jpg?s=efb3db7a0eecf4fa4574ce728df2077b"
+  },
+  {
+    "name": "Ookawa, Manabu",
+    "prompt": "Ookawa, Manabu from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/427887.jpg?s=beb33996f07910dae40a498aee67d514"
+  },
+  {
+    "name": "Oozora, Koudai",
+    "prompt": "Oozora, Koudai from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/379929.jpg?s=eaa44fe402dbee45db627ad126ef6bb1"
+  },
+  {
+    "name": "Oozora, Natsuko",
+    "prompt": "Oozora, Natsuko from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/439615.jpg?s=6c1c38652a8cce2c0203d0f9c20c5ffe"
+  },
+  {
+    "name": "Palus, Jose",
+    "prompt": "Palus, Jose from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/536373.jpg?s=748aeb23cb5f4b335ed60d17c2451b15"
+  },
+  {
+    "name": "Pasaro, Daniel",
+    "prompt": "Pasaro, Daniel from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/536374.jpg?s=14edaf22b6848e4cdf112ed67c023ecc"
+  },
+  {
+    "name": "Pascal, Alan",
+    "prompt": "Pascal, Alan from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/534679.jpg?s=31e14dc47693e22b56643825d579eab0"
+  },
+  {
+    "name": "Pierre, Elle Sid",
+    "prompt": "Pierre, Elle Sid from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/558417.jpg?s=4691fba136af9f5bcc45ab69fd2e54f5"
+  },
+  {
+    "name": "Ruggeri, Arnaldo",
+    "prompt": "Ruggeri, Arnaldo from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/536409.jpg?s=2aef52add0f86701e053d4b095c6bd16"
+  },
+  {
+    "name": "Rust, Jean",
+    "prompt": "Rust, Jean from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/539551.jpg?s=31cf4d35ed9dfb8d2bd4af8a1ed0f04b"
+  },
+  {
+    "name": "Sano, Mitsuru",
+    "prompt": "Sano, Mitsuru from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/408186.jpg?s=d9089735cb499179a2591dd1b8767614"
+  },
+  {
+    "name": "Santana, Carlos",
+    "prompt": "Santana, Carlos from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/558772.jpg?s=b69f8c809e312e4447489daa543343db"
+  },
+  {
+    "name": "Sawada, Takeshi",
+    "prompt": "Sawada, Takeshi from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/356630.jpg?s=14b8588b53827d18127e2081ae0af138"
+  },
+  {
+    "name": "Sawaki, Noboru",
+    "prompt": "Sawaki, Noboru from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/521400.jpg?s=d9cee9a569be5ee4215de5341e2ae2ea"
+  },
+  {
+    "name": "Schester, Franz",
+    "prompt": "Schester, Franz from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/554472.jpg?s=02a569fa02ae8e7e880eb8dc500f5919"
+  },
+  {
+    "name": "Schneider, Karl-Heinz",
+    "prompt": "Schneider, Karl-Heinz from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/419521.jpg?s=243e31dccc01a36e2b1797b17d2a956b"
+  },
+  {
+    "name": "Schneider, Marie",
+    "prompt": "Schneider, Marie from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/536366.jpg?s=6442419f93c8cab4a5528fc462d56d4f"
+  },
+  {
+    "name": "Schneider, Rudi Frank",
+    "prompt": "Schneider, Rudi Frank from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/536379.jpg?s=ffd3d856182272a1a86e3ad701c799bd"
+  },
+  {
+    "name": "Seemann",
+    "prompt": "Seemann from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/542965.jpg?s=44cd6f7217c408cb558f9c5800c15450"
+  },
+  {
+    "name": "Shimonari",
+    "prompt": "Shimonari from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/536412.jpg?s=f68cae8dfd3b264d8fd93a94e3509f26"
+  },
+  {
+    "name": "Shiroyama, Tadashi",
+    "prompt": "Shiroyama, Tadashi from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/539363.jpg?s=2d3ac327bcd822f621aa3c50ee01aadf"
+  },
+  {
+    "name": "Soda, Makoto",
+    "prompt": "Soda, Makoto from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/369890.jpg?s=827354190a24246ed933eb995cd4e58a"
+  },
+  {
+    "name": "Sorimachi, Kazuki",
+    "prompt": "Sorimachi, Kazuki from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/472390.jpg?s=d8808ca54b891e719dfa528818e8ce14"
+  },
+  {
+    "name": "Sugimoto, Kumi",
+    "prompt": "Sugimoto, Kumi from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/521340.jpg?s=463eb9760b742bd968bf0eb2302b7aff"
+  },
+  {
+    "name": "Sumimoto, Sabruou",
+    "prompt": "Sumimoto, Sabruou from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/536410.jpg?s=a08b152862fab31a1821e5bd1c0feec0"
+  },
+  {
+    "name": "Tachibana, Masao",
+    "prompt": "Tachibana, Masao from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/356276.jpg?s=d094195afa850571ab412d6fb05c7dee"
+  },
+  {
+    "name": "Tachibana, Kazuo",
+    "prompt": "Tachibana, Kazuo from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/378397.jpg?s=672798db261f471aae8720317fdadb31"
+  },
+  {
+    "name": "Takahiro",
+    "prompt": "Takahiro from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/536413.jpg?s=a803f1ccd0aa7a9c0d5bc005a451f8e0"
+  },
+  {
+    "name": "Takasugi, Shingo",
+    "prompt": "Takasugi, Shingo from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/439614.jpg?s=11bb551289a271fe7a54de9e9df0ef64"
+  },
+  {
+    "name": "Takei, Kazuto",
+    "prompt": "Takei, Kazuto from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/536244.jpg?s=82091711de2f562969150909fdd49def"
+  },
+  {
+    "name": "Taki, Hajime",
+    "prompt": "Taki, Hajime from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/558762.jpg?s=27bf21b0af1c75e3db9653d63403afff"
+  },
+  {
+    "name": "Tardelli, Demetrio",
+    "prompt": "Tardelli, Demetrio from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/534631.jpg?s=3f28cd7a7faf71ed12324eaccd85eb28"
+  },
+  {
+    "name": "Torino, Marco",
+    "prompt": "Torino, Marco from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/536414.jpg?s=f1e72517c0b67d5788f992371ba29041"
+  },
+  {
+    "name": "Tsuji, Ryota",
+    "prompt": "Tsuji, Ryota from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/555461.jpg?s=52a82bd340d5af2deaf91ce3553eac8c"
+  },
+  {
+    "name": "Tsuyoshi",
+    "prompt": "Tsuyoshi from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/536415.jpg?s=fe1dd06c728deb9ba771be23b32994c6"
+  },
+  {
+    "name": "Urabe, Hanji",
+    "prompt": "Urabe, Hanji from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/339703.jpg?s=e4db25def1a34ae89e628151259daa94"
+  },
+  {
+    "name": "Victorino, Ramon",
+    "prompt": "Victorino, Ramon from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/558608.jpg?s=b68cd4dbb91e9959e10d3bca47e060b0"
+  },
+  {
+    "name": "Wakabayashi, Genzou",
+    "prompt": "Wakabayashi, Genzou from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/490901.jpg?s=741683bcdfd8ee918300bc0ff83fa57f"
+  },
+  {
+    "name": "Wakashimazu, Ken",
+    "prompt": "Wakashimazu, Ken from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/286898.jpg?s=c34777733e227dfc4efcd9e1841333ac"
+  },
+  {
+    "name": "Yamamura",
+    "prompt": "Yamamura from Captain Tsubasa Season 2: Junior Youth-hen",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/536417.jpg?s=e29bb333d130481568b11d7c85b76fc5"
+  }
+]

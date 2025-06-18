@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Hyuuga, Kojirou",
+    "prompt": "Hyuuga, Kojirou from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/84405.jpg?s=14c86d1488d507bc64b9c511668ce834"
+  },
+  {
+    "name": "Misaki, Tarou",
+    "prompt": "Misaki, Tarou from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/349316.jpg?s=7a8f79b276b80fa3cb12f04667335426"
+  },
+  {
+    "name": "Nakazawa, Sanae",
+    "prompt": "Nakazawa, Sanae from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/276884.jpg?s=afe44a63f1aafdf5d0b72a38e59f2fbe"
+  },
+  {
+    "name": "Oozora, Tsubasa",
+    "prompt": "Oozora, Tsubasa from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/83786.jpg?s=1b18eccb2599d77bd9b1c94ecdea2891"
+  },
+  {
+    "name": "Wakabayashi, Genzou",
+    "prompt": "Wakabayashi, Genzou from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/490901.jpg?s=741683bcdfd8ee918300bc0ff83fa57f"
+  },
+  {
+    "name": "Aimor",
+    "prompt": "Aimor from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/521504.jpg?s=8992afc32a4c9053b1baffe7cf024140"
+  },
+  {
+    "name": "Alaberdo",
+    "prompt": "Alaberdo from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/521506.jpg?s=c6ab51d0dbaa61e3dd41dc9fa325b79d"
+  },
+  {
+    "name": "Almieja, Marcos",
+    "prompt": "Almieja, Marcos from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/521507.jpg?s=f78f9163e22b48f31869b2d9033c030e"
+  },
+  {
+    "name": "Andrea",
+    "prompt": "Andrea from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/536018.jpg?s=4b00350ead849123296c45702712e2ef"
+  },
+  {
+    "name": "Aoba, Yayoi",
+    "prompt": "Aoba, Yayoi from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/458040.jpg?s=36dd717ff42d9846d8b8f4895dad036d"
+  },
+  {
+    "name": "Aoi, Shingo",
+    "prompt": "Aoi, Shingo from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/300537.jpg?s=93eb82b44499675ff5a3d7908ca7fdba"
+  },
+  {
+    "name": "Asada, Takeshi",
+    "prompt": "Asada, Takeshi from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Banchi, Marco",
+    "prompt": "Banchi, Marco from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/521508.jpg?s=bd4f1b3a457d3db8afe1e4852306440a"
+  },
+  {
+    "name": "Bara, Barsole",
+    "prompt": "Bara, Barsole from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/521509.jpg?s=dbeedb117c62feb310221e330326d8b8"
+  },
+  {
+    "name": "Barbas, Diego",
+    "prompt": "Barbas, Diego from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/521510.jpg?s=757fb87414451c06b257b2695fde262b"
+  },
+  {
+    "name": "Baroli",
+    "prompt": "Baroli from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/536039.jpg?s=6dd0481f1aa730f3681a15312d9a5597"
+  },
+  {
+    "name": "Bassi, Nicola",
+    "prompt": "Bassi, Nicola from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/521511.jpg?s=57be9bdde3fb31034c203779fdc82f75"
+  },
+  {
+    "name": "Blueno",
+    "prompt": "Blueno from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/521514.jpg?s=4668507b4fbf8f10e6090f364dce4e70"
+  },
+  {
+    "name": "Bossis, Alain",
+    "prompt": "Bossis, Alain from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/521517.jpg?s=d647a405b1c35d798e12a5aec2eb8823"
+  },
+  {
+    "name": "Carbonara, René",
+    "prompt": "Carbonara, René from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/521518.jpg?s=1c367d53ddc3c95e0047568eabaf3477"
+  },
+  {
+    "name": "Conti, Giovanni",
+    "prompt": "Conti, Giovanni from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/534637.jpg?s=4be979ff31f9e1cbfa36c9ad07854f85"
+  },
+  {
+    "name": "Delpi, Alessandro",
+    "prompt": "Delpi, Alessandro from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/533820.jpg?s=f5bc49ed72d025512d4b42268fe87472"
+  },
+  {
+    "name": "Diaz, Juan",
+    "prompt": "Diaz, Juan from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/549785.jpg?s=e6bfa5eb617c0a9a4792cf992c5a1fdd"
+  },
+  {
+    "name": "Esnander",
+    "prompt": "Esnander from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/533821.jpg?s=86d8632d6bc23caa46eb261eccd1cdbf"
+  },
+  {
+    "name": "Fonseca, Pedro",
+    "prompt": "Fonseca, Pedro from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Fujisawa, Yoshiko",
+    "prompt": "Fujisawa, Yoshiko from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/536418.jpg?s=8aaa446ff778860d05496531e594e19d"
+  },
+  {
+    "name": "Fujita, Takamasa",
+    "prompt": "Fujita, Takamasa from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Galtoni, Julio",
+    "prompt": "Galtoni, Julio from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/534619.jpg?s=5ea0a3c843f99868a16d923131760eb3"
+  },
+  {
+    "name": "Galvan, Gabriel",
+    "prompt": "Galvan, Gabriel from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/534620.jpg?s=9da9ae04dd2a2c5f41d2eb8ad1e49f1a"
+  },
+  {
+    "name": "Haranishi, Keisuke",
+    "prompt": "Haranishi, Keisuke from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Harukawa, Shunta",
+    "prompt": "Harukawa, Shunta from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Hernandez, Gino",
+    "prompt": "Hernandez, Gino from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/558590.jpg?s=14ed9f01fd7976b826dc5902e77f553e"
+  },
+  {
+    "name": "Hongo, Roberto",
+    "prompt": "Hongo, Roberto from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/349318.jpg?s=aa054e45a95f188aba6410c2941077c2"
+  },
+  {
+    "name": "Honma, Minoru",
+    "prompt": "Honma, Minoru from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/533927.jpg?s=f29caa2a9443d64101bd2420fc724500"
+  },
+  {
+    "name": "Ichijou, Isamu",
+    "prompt": "Ichijou, Isamu from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/533928.jpg?s=94791cef4d7d8f4926c8fdf88ed15047"
+  },
+  {
+    "name": "Ichinose, Akira",
+    "prompt": "Ichinose, Akira from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/533930.jpg?s=47e74add6e5028dde772824e61099a71"
+  },
+  {
+    "name": "Ishida, Tetsuo",
+    "prompt": "Ishida, Tetsuo from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/533931.jpg?s=8c463cb303307acbc508331895c9b742"
+  },
+  {
+    "name": "Ishizaki, Ryou",
+    "prompt": "Ishizaki, Ryou from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/558422.jpg?s=3fdb99cfe6079f43f233ca0e388201eb"
+  },
+  {
+    "name": "Itao​, Susumu",
+    "prompt": "Itao​, Susumu from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Iwami, Kenichi",
+    "prompt": "Iwami, Kenichi from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/526644.jpg?s=34f93ad83a7a7b8957df7e818cab53c8"
+  },
+  {
+    "name": "Izawa, Mamoru",
+    "prompt": "Izawa, Mamoru from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/439613.jpg?s=bc58006bf3827bb989b251ff5410322a"
+  },
+  {
+    "name": "Jito, Hiroshi",
+    "prompt": "Jito, Hiroshi from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/558420.jpg?s=086dcec3d49065b3178cfe688d90bee1"
+  },
+  {
+    "name": "Junguang, Xiao",
+    "prompt": "Junguang, Xiao from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/534159.jpg?s=c66cc79b4c5c82f525a95f4440220915"
+  },
+  {
+    "name": "Kaltz, Hermann",
+    "prompt": "Kaltz, Hermann from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/472391.jpg?s=69c6a37e86184a5917350d20fddec91d"
+  },
+  {
+    "name": "Karl-Heinz's Mother",
+    "prompt": "Karl-Heinz's Mother from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/536239.jpg?s=de5be6262d82ca01f96850268ffc9a4f"
+  },
+  {
+    "name": "Katagiri, Munemasa",
+    "prompt": "Katagiri, Munemasa from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/558614.jpg?s=d475b84b4ebb1a531d72c7718fd8e71b"
+  },
+  {
+    "name": "Katou, Masanori",
+    "prompt": "Katou, Masanori from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/536367.jpg?s=66b672c1be6d2b31f3b2d9947021173b"
+  },
+  {
+    "name": "Kawakami, Goro",
+    "prompt": "Kawakami, Goro from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kira, Kouzou",
+    "prompt": "Kira, Kouzou from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/536358.jpg?s=257edec76ad33d545527db666df29508"
+  },
+  {
+    "name": "Kishida, Takeshi",
+    "prompt": "Kishida, Takeshi from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/527420.jpg?s=1131ad8655508ca586e8bde0121663a3"
+  },
+  {
+    "name": "Kisugi, Teppei",
+    "prompt": "Kisugi, Teppei from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/356631.jpg?s=425c3a80ca56141e7e3a4759caf76013"
+  },
+  {
+    "name": "Kitazume, Makoto",
+    "prompt": "Kitazume, Makoto from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/472392.jpg?s=9acee944e2e6c581da81b625028da106"
+  },
+  {
+    "name": "Kurita​, Goro",
+    "prompt": "Kurita​, Goro from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Levin, Stefan",
+    "prompt": "Levin, Stefan from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/526643.jpg?s=35ca1912e527e2c14474448717d132e3"
+  },
+  {
+    "name": "Margus, Manfred",
+    "prompt": "Margus, Manfred from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/534557.jpg?s=f421830718ac70a5bfea96d1889b985d"
+  },
+  {
+    "name": "Marinho, Dimos",
+    "prompt": "Marinho, Dimos from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/534636.jpg?s=de70063e520e322d7870373831e46b3e"
+  },
+  {
+    "name": "Matsumoto, Yuichi",
+    "prompt": "Matsumoto, Yuichi from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Matsuyama, Hikaru",
+    "prompt": "Matsuyama, Hikaru from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/558409.jpg?s=e6fd280d5c02b80a22b18c2f0690b22c"
+  },
+  {
+    "name": "Mikami, Tatsuo",
+    "prompt": "Mikami, Tatsuo from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/558613.jpg?s=a7e17b722f74642f10b2ff38bd25f479"
+  },
+  {
+    "name": "Misaki, Ichirou",
+    "prompt": "Misaki, Ichirou from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/536236.jpg?s=e926d3b48893ea1e39fd1dc0733e5026"
+  },
+  {
+    "name": "Misugi, Jun",
+    "prompt": "Misugi, Jun from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/558423.jpg?s=c54e82c371652934afd0331eef0ae052"
+  },
+  {
+    "name": "Morisaki, Yuuzou",
+    "prompt": "Morisaki, Yuuzou from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/439612.jpg?s=fe1b1b03ebbe0680d7f87245df9c5208"
+  },
+  {
+    "name": "Müller, Deuter",
+    "prompt": "Müller, Deuter from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/539216.jpg?s=64d19b77496b987eaab66567f1ef95b4"
+  },
+  {
+    "name": "Nagano, Hiroshi",
+    "prompt": "Nagano, Hiroshi from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/555497.jpg?s=5f7b61014ceec18dbd9066340cd2cb1e"
+  },
+  {
+    "name": "Nagatani, Ken",
+    "prompt": "Nagatani, Ken from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nakanishi, Taichi",
+    "prompt": "Nakanishi, Taichi from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/558612.jpg?s=06fbbfdc08f3cc6df0a28892c3aadfd0"
+  },
+  {
+    "name": "Napoleon, Louis",
+    "prompt": "Napoleon, Louis from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/558418.jpg?s=4a773cc159660f6b0d95dcff2f8f3f7f"
+  },
+  {
+    "name": "Nishio, Kouji",
+    "prompt": "Nishio, Kouji from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/536255.jpg?s=e941a29bddc6a57e3aca5fcf4015ba45"
+  },
+  {
+    "name": "Nitta, Shun",
+    "prompt": "Nitta, Shun from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/558412.jpg?s=1ef5b58272a4a7e0872fd266ffd57cc1"
+  },
+  {
+    "name": "Oda, Tsuyoshi",
+    "prompt": "Oda, Tsuyoshi from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/536416.jpg?s=efb3db7a0eecf4fa4574ce728df2077b"
+  },
+  {
+    "name": "Ookawa, Manabu",
+    "prompt": "Ookawa, Manabu from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/427887.jpg?s=beb33996f07910dae40a498aee67d514"
+  },
+  {
+    "name": "Oozora, Koudai",
+    "prompt": "Oozora, Koudai from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/379929.jpg?s=eaa44fe402dbee45db627ad126ef6bb1"
+  },
+  {
+    "name": "Oozora, Natsuko",
+    "prompt": "Oozora, Natsuko from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/439615.jpg?s=6c1c38652a8cce2c0203d0f9c20c5ffe"
+  },
+  {
+    "name": "Pascal, Alan",
+    "prompt": "Pascal, Alan from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/534679.jpg?s=31e14dc47693e22b56643825d579eab0"
+  },
+  {
+    "name": "Pierre, Elle Sid",
+    "prompt": "Pierre, Elle Sid from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/448642.jpg?s=8c74265af14b6d4ae729b19b32cfc52f"
+  },
+  {
+    "name": "Rivaul",
+    "prompt": "Rivaul from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/439626.jpg?s=efddda9cd38c58299017c56ff4c54159"
+  },
+  {
+    "name": "Rust, Jean",
+    "prompt": "Rust, Jean from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/539551.jpg?s=31cf4d35ed9dfb8d2bd4af8a1ed0f04b"
+  },
+  {
+    "name": "Sano, Mitsuru",
+    "prompt": "Sano, Mitsuru from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/408186.jpg?s=d9089735cb499179a2591dd1b8767614"
+  },
+  {
+    "name": "Santana, Carlos",
+    "prompt": "Santana, Carlos from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/558772.jpg?s=b69f8c809e312e4447489daa543343db"
+  },
+  {
+    "name": "Sawada, Takeshi",
+    "prompt": "Sawada, Takeshi from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/356630.jpg?s=14b8588b53827d18127e2081ae0af138"
+  },
+  {
+    "name": "Sawaki, Noboru",
+    "prompt": "Sawaki, Noboru from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/521400.jpg?s=d9cee9a569be5ee4215de5341e2ae2ea"
+  },
+  {
+    "name": "Schester, Franz",
+    "prompt": "Schester, Franz from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/554472.jpg?s=02a569fa02ae8e7e880eb8dc500f5919"
+  },
+  {
+    "name": "Schneider, Rudi Frank",
+    "prompt": "Schneider, Rudi Frank from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/536379.jpg?s=ffd3d856182272a1a86e3ad701c799bd"
+  },
+  {
+    "name": "Schneider, Marie",
+    "prompt": "Schneider, Marie from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/536366.jpg?s=6442419f93c8cab4a5528fc462d56d4f"
+  },
+  {
+    "name": "Schneider, Karl-Heinz",
+    "prompt": "Schneider, Karl-Heinz from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/419521.jpg?s=243e31dccc01a36e2b1797b17d2a956b"
+  },
+  {
+    "name": "Seemann",
+    "prompt": "Seemann from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/542965.jpg?s=44cd6f7217c408cb558f9c5800c15450"
+  },
+  {
+    "name": "Shiroyama, Tadashi",
+    "prompt": "Shiroyama, Tadashi from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/539363.jpg?s=2d3ac327bcd822f621aa3c50ee01aadf"
+  },
+  {
+    "name": "Soda, Makoto",
+    "prompt": "Soda, Makoto from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/369890.jpg?s=827354190a24246ed933eb995cd4e58a"
+  },
+  {
+    "name": "Sorimachi, Kazuki",
+    "prompt": "Sorimachi, Kazuki from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/472390.jpg?s=d8808ca54b891e719dfa528818e8ce14"
+  },
+  {
+    "name": "Tachibana, Masao",
+    "prompt": "Tachibana, Masao from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/356276.jpg?s=d094195afa850571ab412d6fb05c7dee"
+  },
+  {
+    "name": "Tachibana, Kazuo",
+    "prompt": "Tachibana, Kazuo from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/378397.jpg?s=672798db261f471aae8720317fdadb31"
+  },
+  {
+    "name": "Takasugi, Shingo",
+    "prompt": "Takasugi, Shingo from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/439614.jpg?s=11bb551289a271fe7a54de9e9df0ef64"
+  },
+  {
+    "name": "Takei, Kazuto",
+    "prompt": "Takei, Kazuto from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/536244.jpg?s=82091711de2f562969150909fdd49def"
+  },
+  {
+    "name": "Taki, Hajime",
+    "prompt": "Taki, Hajime from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/558762.jpg?s=27bf21b0af1c75e3db9653d63403afff"
+  },
+  {
+    "name": "Tardelli, Demetrio",
+    "prompt": "Tardelli, Demetrio from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/534631.jpg?s=3f28cd7a7faf71ed12324eaccd85eb28"
+  },
+  {
+    "name": "Toda, Jin",
+    "prompt": "Toda, Jin from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tsuji, Ryota",
+    "prompt": "Tsuji, Ryota from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/555461.jpg?s=52a82bd340d5af2deaf91ce3553eac8c"
+  },
+  {
+    "name": "Urabe, Hanji",
+    "prompt": "Urabe, Hanji from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/339703.jpg?s=e4db25def1a34ae89e628151259daa94"
+  },
+  {
+    "name": "Victorino, Ramon",
+    "prompt": "Victorino, Ramon from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/558608.jpg?s=b68cd4dbb91e9959e10d3bca47e060b0"
+  },
+  {
+    "name": "Wakashimazu, Ken",
+    "prompt": "Wakashimazu, Ken from Captain Tsubasa: Road to 2002",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/286898.jpg?s=c34777733e227dfc4efcd9e1841333ac"
+  }
+]
