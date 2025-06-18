@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Hans",
+    "prompt": "Hans from Andersen Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/545707.jpg?s=504a43101beebb36b2e1d1454fbc759b"
+  },
+  {
+    "name": "Uncle Ole",
+    "prompt": "Uncle Ole from Andersen Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/544496.jpg?s=80ffa7228c6624cb1f6a3ba083a5d614"
+  },
+  {
+    "name": "Karen",
+    "prompt": "Karen from Andersen Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/545189.jpg?s=bb8e6951d7db33c9c230f317846451c7"
+  },
+  {
+    "name": "The Regional Inspector",
+    "prompt": "The Regional Inspector from Andersen Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/545711.jpg?s=1b7e173997f530ff804c9191d5818e51"
+  }
+]

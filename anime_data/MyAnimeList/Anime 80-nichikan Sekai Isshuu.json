@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Chico",
+    "prompt": "Chico from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/389514.jpg?s=b6ddc977ff0332017e239502bd6e228e"
+  },
+  {
+    "name": "Fog, Willy",
+    "prompt": "Fog, Willy from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/389511.jpg?s=756f0c12189f530d3c8244d3ec120f45"
+  },
+  {
+    "name": "Princess Romy",
+    "prompt": "Princess Romy from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/389512.jpg?s=236c0c9e45a52c8579f88ab6e2958ee8"
+  },
+  {
+    "name": "Rigodon",
+    "prompt": "Rigodon from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/389513.jpg?s=4646757fb8390254a51aced7e391a327"
+  },
+  {
+    "name": "Armstrong, Jed",
+    "prompt": "Armstrong, Jed from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/593253.jpg?s=783876a82810728600661cf6eaeee678"
+  },
+  {
+    "name": "Boat Owner",
+    "prompt": "Boat Owner from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/593240.jpg?s=432ba8b84595a028c38a266cfa91a83b"
+  },
+  {
+    "name": "Bombay Police Chief",
+    "prompt": "Bombay Police Chief from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/593182.jpg?s=d44c98d188f93b34141089b4d4485645"
+  },
+  {
+    "name": "Bookmaker",
+    "prompt": "Bookmaker from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/593175.jpg?s=0c513422f887e7e20a503a93fc14cb2f"
+  },
+  {
+    "name": "Bottomley, Bartholomew",
+    "prompt": "Bottomley, Bartholomew from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/593178.jpg?s=c3fc74dcc72c5a971f42684fa6dda3d7"
+  },
+  {
+    "name": "Brigadier Corn",
+    "prompt": "Brigadier Corn from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/593159.jpg?s=f4d185b250a7a54d5e336f1a79e86672"
+  },
+  {
+    "name": "Buffalo, Calm",
+    "prompt": "Buffalo, Calm from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/593252.jpg?s=04fbc64ae431ce99a31ecd22c1a92e37"
+  },
+  {
+    "name": "Bullman",
+    "prompt": "Bullman from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/593248.jpg?s=434f2ed085c01986e26651e262ed6384"
+  },
+  {
+    "name": "Calcutta Police Commissioner",
+    "prompt": "Calcutta Police Commissioner from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/593219.jpg?s=caa673a77b0379539e468eabbcd54c5b"
+  },
+  {
+    "name": "Captain of the Carnatic",
+    "prompt": "Captain of the Carnatic from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/593235.jpg?s=d50be3d6d297598479b588a8b25f5ff5"
+  },
+  {
+    "name": "Captain of the Mongolia",
+    "prompt": "Captain of the Mongolia from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/593181.jpg?s=8e62d9bcae4de2956f6e36f9c2938b39"
+  },
+  {
+    "name": "Circus Manager",
+    "prompt": "Circus Manager from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/593236.jpg?s=5ff3ec3d70b186f284fb9e1d8d357c67"
+  },
+  {
+    "name": "Coachman",
+    "prompt": "Coachman from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/593244.jpg?s=1a31bdaf425f183c58cf67b851073aac"
+  },
+  {
+    "name": "Colonel Armstrong",
+    "prompt": "Colonel Armstrong from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/593222.jpg?s=2359e64fd3de0c9686ca18d31afba103"
+  },
+  {
+    "name": "Commissioner Rowan",
+    "prompt": "Commissioner Rowan from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/389515.jpg?s=edf10be5abfad02faeaddb2c74054a13"
+  },
+  {
+    "name": "Constable Bully",
+    "prompt": "Constable Bully from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/552504.jpg?s=034c78c07194df77f4119e71fe5a3532"
+  },
+  {
+    "name": "Cowboy",
+    "prompt": "Cowboy from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/593239.jpg?s=6346f2a440b658c38bdd2e66cb722a21"
+  },
+  {
+    "name": "Drink Seller",
+    "prompt": "Drink Seller from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/593220.jpg?s=b882b2eaab00452c80a80732223b7b18"
+  },
+  {
+    "name": "Engineer",
+    "prompt": "Engineer from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/593241.jpg?s=f1888ab7af8187994af70c90d0c202c3"
+  },
+  {
+    "name": "Farrel",
+    "prompt": "Farrel from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/593158.jpg?s=eacc68b1262ddb2cb5f2cddd5e6bd88f"
+  },
+  {
+    "name": "French Train Conductor",
+    "prompt": "French Train Conductor from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/593176.jpg?s=45067d41c2f1c0da6b4d22e89097f71a"
+  },
+  {
+    "name": "Gouda",
+    "prompt": "Gouda from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/593226.jpg?s=b469be63c1bf5ca30436c8dcde0ab122"
+  },
+  {
+    "name": "Governor",
+    "prompt": "Governor from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/593223.jpg?s=c94432ec87f8b12fcf3517194757052a"
+  },
+  {
+    "name": "Guard",
+    "prompt": "Guard from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/593224.jpg?s=928ccedb7e6796ba9cee15215412b8dd"
+  },
+  {
+    "name": "Gwenzi",
+    "prompt": "Gwenzi from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/593237.jpg?s=d073dd1d931fcec9e195f04703afe915"
+  },
+  {
+    "name": "High Priestess",
+    "prompt": "High Priestess from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/593218.jpg?s=fca0e1d106a4dd97e4acc343e3e7366c"
+  },
+  {
+    "name": "Hong Kong Commissioner",
+    "prompt": "Hong Kong Commissioner from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/593225.jpg?s=b4e412c97a3da2481180f77ad7188a12"
+  },
+  {
+    "name": "Indian Train Conductor",
+    "prompt": "Indian Train Conductor from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/593217.jpg?s=bb668a8539c248096e7df7f8ec734a41"
+  },
+  {
+    "name": "Innkeeper",
+    "prompt": "Innkeeper from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/593246.jpg?s=a447481464ce6753e06fe611f2315e9c"
+  },
+  {
+    "name": "Inspector Dix",
+    "prompt": "Inspector Dix from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/413358.jpg?s=15b914c42f942a14a151c9eb8949f87a"
+  },
+  {
+    "name": "Jenkins",
+    "prompt": "Jenkins from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/593174.jpg?s=a7615dc27372d53e334ad63a5e038a0d"
+  },
+  {
+    "name": "Johnson",
+    "prompt": "Johnson from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/552503.jpg?s=77c85386fcf0e3ea1cbafc3b2fbbba41"
+  },
+  {
+    "name": "Judge",
+    "prompt": "Judge from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/593221.jpg?s=754e2b987f3ec9076c9fa3d18d87100a"
+  },
+  {
+    "name": "Kid, Dingo",
+    "prompt": "Kid, Dingo from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/593251.jpg?s=82efeb5fdd0f51f170bbbc38cc1a2109"
+  },
+  {
+    "name": "King Paipai",
+    "prompt": "King Paipai from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/593231.jpg?s=0fd0815da212d2d7470c5499dfd38fdb"
+  },
+  {
+    "name": "Lord Guinness",
+    "prompt": "Lord Guinness from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/593162.jpg?s=5f4036b6fbbd8f6917959f39a320a9e4"
+  },
+  {
+    "name": "Mani",
+    "prompt": "Mani from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/593229.jpg?s=e5681cea980e58e18bce5dbd8efe9dc8"
+  },
+  {
+    "name": "Maximilian",
+    "prompt": "Maximilian from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/593227.jpg?s=d12d04dd6fbe6ecb6a5691739703e48b"
+  },
+  {
+    "name": "Mexican Bar Owner",
+    "prompt": "Mexican Bar Owner from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/593243.jpg?s=8cfcfb8a1fbc8d251f6903b5f98b2ac4"
+  },
+  {
+    "name": "Mr. Sullivan",
+    "prompt": "Mr. Sullivan from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/389516.jpg?s=bb3fbcc717c8b225b9b832a327953d1b"
+  },
+  {
+    "name": "Narrator",
+    "prompt": "Narrator from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "One-Eyed Jim",
+    "prompt": "One-Eyed Jim from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/593234.jpg?s=1dbca0b2eae8b2132d640bf3aa63425d"
+  },
+  {
+    "name": "Parisian Coachman",
+    "prompt": "Parisian Coachman from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/593177.jpg?s=29c0a47639dc97d59f39096981b2adc9"
+  },
+  {
+    "name": "Parsi",
+    "prompt": "Parsi from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/593183.jpg?s=cb54265ad9dc8d7178600d1109c5e34e"
+  },
+  {
+    "name": "Perez, Manolo",
+    "prompt": "Perez, Manolo from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/593250.jpg?s=a66a8351a7cd088fdec428bc745a1714"
+  },
+  {
+    "name": "Princess Kaula",
+    "prompt": "Princess Kaula from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/593230.jpg?s=4be0944438e7225e1839eabda9bc15a5"
+  },
+  {
+    "name": "Professor Frick",
+    "prompt": "Professor Frick from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/593179.jpg?s=c160fdafe026fe8b4bfb9893657147d7"
+  },
+  {
+    "name": "Professor Frock",
+    "prompt": "Professor Frock from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/593180.jpg?s=9cc165c054823c832498f8a91b3a9a00"
+  },
+  {
+    "name": "Prospector",
+    "prompt": "Prospector from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/593247.jpg?s=36f3587a74b2ccf61e60681f71836fdc"
+  },
+  {
+    "name": "Reporter Ralf",
+    "prompt": "Reporter Ralf from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/389517.jpg?s=af54863bd295d2da7820ff5d4f55cabf"
+  },
+  {
+    "name": "Reverend Wilson",
+    "prompt": "Reverend Wilson from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/593242.jpg?s=777c06da1b751879c5b5cf2d5bc5715d"
+  },
+  {
+    "name": "Sheriff Johnson",
+    "prompt": "Sheriff Johnson from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/593238.jpg?s=be45c647d15ce41dcd1ff5897636a90c"
+  },
+  {
+    "name": "Speedy, Andrew",
+    "prompt": "Speedy, Andrew from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/593254.jpg?s=631765d3eb3eb6b2033521598b3b0d21"
+  },
+  {
+    "name": "Takamaki",
+    "prompt": "Takamaki from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/593233.jpg?s=9a344cfcbf0c6a4f8972b9b419fc4d83"
+  },
+  {
+    "name": "Transfer",
+    "prompt": "Transfer from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/389518.jpg?s=7529e7760c36fd38789d5d32955970a4"
+  },
+  {
+    "name": "Weston",
+    "prompt": "Weston from Anime 80-nichikan Sekai Isshuu",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/552502.jpg?s=0eaaec160cf2ec7065ac15bcc5db8bf4"
+  }
+]
