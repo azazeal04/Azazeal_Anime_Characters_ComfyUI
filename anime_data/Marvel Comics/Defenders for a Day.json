@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Falcon",
+    "prompt": "Falcon from Defenders for a Day",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/251-falcon.jpg"
+  },
+  {
+    "name": "Havok",
+    "prompt": "Havok from Defenders for a Day",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/311-havok.jpg"
+  },
+  {
+    "name": "Hercules",
+    "prompt": "Hercules from Defenders for a Day",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/325-hercules.jpg"
+  },
+  {
+    "name": "Jack of Hearts",
+    "prompt": "Jack of Hearts from Defenders for a Day",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/350-jack-of-hearts.jpg"
+  },
+  {
+    "name": "Polaris",
+    "prompt": "Polaris from Defenders for a Day",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/523-polaris.jpg"
+  }
+]

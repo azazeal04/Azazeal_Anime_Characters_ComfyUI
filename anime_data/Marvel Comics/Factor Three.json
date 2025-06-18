@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Banshee",
+    "prompt": "Banshee from Factor Three",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/61-banshee.jpg"
+  },
+  {
+    "name": "Blob",
+    "prompt": "Blob from Factor Three",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/119-blob.jpg"
+  },
+  {
+    "name": "Changeling",
+    "prompt": "Changeling from Factor Three",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/171-changeling.jpg"
+  },
+  {
+    "name": "Vanisher",
+    "prompt": "Vanisher from Factor Three",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/685-vanisher.jpg"
+  }
+]

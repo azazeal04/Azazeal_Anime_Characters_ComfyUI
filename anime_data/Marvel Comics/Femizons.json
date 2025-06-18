@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Arclight",
+    "prompt": "Arclight from Femizons",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/41-arclight.jpg"
+  },
+  {
+    "name": "Frenzy",
+    "prompt": "Frenzy from Femizons",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/271-frenzy.jpg"
+  },
+  {
+    "name": "Moonstone",
+    "prompt": "Moonstone from Femizons",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/471-moonstone.jpg"
+  }
+]

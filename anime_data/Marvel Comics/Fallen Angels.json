@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Multiple Man",
+    "prompt": "Multiple Man from Fallen Angels",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/478-multiple-man.jpg"
+  },
+  {
+    "name": "Siryn",
+    "prompt": "Siryn from Fallen Angels",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/604-siryn.jpg"
+  },
+  {
+    "name": "Sunspot",
+    "prompt": "Sunspot from Fallen Angels",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/640-sunspot.jpg"
+  },
+  {
+    "name": "Vanisher",
+    "prompt": "Vanisher from Fallen Angels",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/685-vanisher.jpg"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Cloak",
+    "prompt": "Cloak from Cloak and Dagger",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/180-cloak.jpg"
+  },
+  {
+    "name": "Dagger",
+    "prompt": "Dagger from Cloak and Dagger",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/198-dagger.jpg"
+  }
+]

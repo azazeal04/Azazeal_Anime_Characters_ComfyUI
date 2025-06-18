@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Human Torch",
+    "prompt": "Human Torch from Fantastic Four",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/333-human-torch.jpg"
+  },
+  {
+    "name": "Invisible Woman",
+    "prompt": "Invisible Woman from Fantastic Four",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/344-invisible-woman.jpg"
+  },
+  {
+    "name": "Medusa",
+    "prompt": "Medusa from Fantastic Four",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/441-medusa.jpg"
+  },
+  {
+    "name": "Mister Fantastic",
+    "prompt": "Mister Fantastic from Fantastic Four",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/456-mister-fantastic.jpg"
+  },
+  {
+    "name": "Namor",
+    "prompt": "Namor from Fantastic Four",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/481-namor.jpg"
+  },
+  {
+    "name": "Namorita",
+    "prompt": "Namorita from Fantastic Four",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/484-namorita.jpg"
+  },
+  {
+    "name": "Nova",
+    "prompt": "Nova from Fantastic Four",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/497-nova.jpg"
+  },
+  {
+    "name": "She-Hulk",
+    "prompt": "She-Hulk from Fantastic Four",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/589-she-hulk.jpg"
+  },
+  {
+    "name": "Storm",
+    "prompt": "Storm from Fantastic Four",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/638-storm.jpg"
+  },
+  {
+    "name": "Thundra",
+    "prompt": "Thundra from Fantastic Four",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/665-thundra.jpg"
+  },
+  {
+    "name": "Wolverine",
+    "prompt": "Wolverine from Fantastic Four",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/717-wolverine.jpg"
+  }
+]
