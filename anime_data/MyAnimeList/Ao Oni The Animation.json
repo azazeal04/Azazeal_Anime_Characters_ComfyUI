@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Ao Oni",
+    "prompt": "Ao Oni from Ao Oni The Animation",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/429247.jpg?s=3ab40e5bebf2449f1fcc96e2a99365bf"
+  },
+  {
+    "name": "Hiroshi",
+    "prompt": "Hiroshi from Ao Oni The Animation",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/354101.jpg?s=7ec3ebdff191caab517c3f535385093f"
+  },
+  {
+    "name": "Mika",
+    "prompt": "Mika from Ao Oni The Animation",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/344060.jpg?s=edaa00a3a6485676d78b67335a67a4c7"
+  },
+  {
+    "name": "Takeshi",
+    "prompt": "Takeshi from Ao Oni The Animation",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/368703.jpg?s=9d84deeb75fa3963b8fe7b54d07e07b4"
+  },
+  {
+    "name": "Takurou",
+    "prompt": "Takurou from Ao Oni The Animation",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/344724.jpg?s=27d12a7151bb0cdc3bbaf6325030e223"
+  },
+  {
+    "name": "Anna",
+    "prompt": "Anna from Ao Oni The Animation",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/344727.jpg?s=afcf39c89b4c494bf08dc794e97a12e7"
+  },
+  {
+    "name": "Narration",
+    "prompt": "Narration from Ao Oni The Animation",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Shun",
+    "prompt": "Shun from Ao Oni The Animation",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/344728.jpg?s=4c24f7b42574e6766a129a6904542aa0"
+  }
+]
