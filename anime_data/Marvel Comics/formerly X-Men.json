@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Ink",
+    "prompt": "Ink from Formerly X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/343-ink.jpg"
+  },
+  {
+    "name": "Legion",
+    "prompt": "Legion from Formerly X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/403-legion.jpg"
+  },
+  {
+    "name": "X-Man",
+    "prompt": "X-Man from Formerly X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/724-x-man.jpg"
+  }
+]
