@@ -1,0 +1,15 @@
+[project]
+name = "Azazeal-Anime-Character"
+description = "character nodes for characters from various anime shows and comics"
+version = "1.0"
+license = { file = "LICENSE" }
+dependencies = ["none"]
+
+[project.urls]
+Repository = "https://github.com/azazeal/Azazeal_Anime_Characters_ComfyUI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "Azazeal"
+DisplayName = "anime_character_selector"
+Icon = ""
