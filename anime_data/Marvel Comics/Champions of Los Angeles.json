@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Black Widow",
+    "prompt": "Black Widow from Champions of Los Angeles",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/107-black-widow.jpg"
+  },
+  {
+    "name": "Hercules",
+    "prompt": "Hercules from Champions of Los Angeles",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/325-hercules.jpg"
+  }
+]

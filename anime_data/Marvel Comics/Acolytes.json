@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Colossus",
+    "prompt": "Colossus from Acolytes",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/185-colossus.jpg"
+  },
+  {
+    "name": "Exodus",
+    "prompt": "Exodus from Acolytes",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/249-exodus.jpg"
+  },
+  {
+    "name": "Frenzy",
+    "prompt": "Frenzy from Acolytes",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/271-frenzy.jpg"
+  },
+  {
+    "name": "Polaris",
+    "prompt": "Polaris from Acolytes",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/523-polaris.jpg"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Hulk",
+    "prompt": "Hulk from alternate Fantastic Four",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/332-hulk.jpg"
+  },
+  {
+    "name": "Spider-Man",
+    "prompt": "Spider-Man from alternate Fantastic Four",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/620-spider-man.jpg"
+  }
+]

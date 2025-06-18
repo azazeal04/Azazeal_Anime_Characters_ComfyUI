@@ -1,0 +1,12 @@
+[
+  {
+    "name": "John Wraith",
+    "prompt": "John Wraith from C.I.A.",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/no-portrait.jpg"
+  },
+  {
+    "name": "Nick Fury",
+    "prompt": "Nick Fury from C.I.A.",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/489-nick-fury.jpg"
+  }
+]

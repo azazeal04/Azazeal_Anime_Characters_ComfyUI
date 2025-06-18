@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Ant-Man II",
+    "prompt": "Ant-Man II from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/31-ant-man-ii.jpg"
+  },
+  {
+    "name": "Arachne",
+    "prompt": "Arachne from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/39-arachne.jpg"
+  },
+  {
+    "name": "Ares",
+    "prompt": "Ares from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/43-ares.jpg"
+  },
+  {
+    "name": "Beast",
+    "prompt": "Beast from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/75-beast.jpg"
+  },
+  {
+    "name": "Black Panther",
+    "prompt": "Black Panther from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/106-black-panther.jpg"
+  },
+  {
+    "name": "Black Widow",
+    "prompt": "Black Widow from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/107-black-widow.jpg"
+  },
+  {
+    "name": "Crystal",
+    "prompt": "Crystal from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/191-crystal.jpg"
+  },
+  {
+    "name": "Falcon",
+    "prompt": "Falcon from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/251-falcon.jpg"
+  },
+  {
+    "name": "Hellcat",
+    "prompt": "Hellcat from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/323-hellcat.jpg"
+  },
+  {
+    "name": "Hercules",
+    "prompt": "Hercules from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/325-hercules.jpg"
+  },
+  {
+    "name": "Invisible Woman",
+    "prompt": "Invisible Woman from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/344-invisible-woman.jpg"
+  },
+  {
+    "name": "Iron Man",
+    "prompt": "Iron Man from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/346-iron-man.jpg"
+  },
+  {
+    "name": "Jack of Hearts",
+    "prompt": "Jack of Hearts from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/350-jack-of-hearts.jpg"
+  },
+  {
+    "name": "Justice",
+    "prompt": "Justice from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/376-justice.jpg"
+  },
+  {
+    "name": "Machine Man",
+    "prompt": "Machine Man from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/422-machine-man.jpg"
+  },
+  {
+    "name": "Mockingbird",
+    "prompt": "Mockingbird from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/462-mockingbird.jpg"
+  },
+  {
+    "name": "Namor",
+    "prompt": "Namor from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/481-namor.jpg"
+  },
+  {
+    "name": "Quicksilver",
+    "prompt": "Quicksilver from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/536-quicksilver.jpg"
+  },
+  {
+    "name": "Tigra",
+    "prompt": "Tigra from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/667-tigra.jpg"
+  },
+  {
+    "name": "Wasp",
+    "prompt": "Wasp from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/708-wasp.jpg"
+  },
+  {
+    "name": "Yellowjacket II",
+    "prompt": "Yellowjacket II from Avengers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/727-yellowjacket-ii.jpg"
+  }
+]
