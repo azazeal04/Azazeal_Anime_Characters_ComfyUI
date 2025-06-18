@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Chacha",
+    "prompt": "Chacha from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/88512.jpg?s=4540776204445b0852fa747821c31a4f"
+  },
+  {
+    "name": "Riiya",
+    "prompt": "Riiya from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/113853.jpg?s=af9e14d731dc05f3847596d6458584bf"
+  },
+  {
+    "name": "Shiine",
+    "prompt": "Shiine from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/88511.jpg?s=84335e3422d8e789c6b5d60ae0973188"
+  },
+  {
+    "name": "Access",
+    "prompt": "Access from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/113862.jpg?s=b28cb858efd2fc3f16b2ba9096e22980"
+  },
+  {
+    "name": "Arimakkin",
+    "prompt": "Arimakkin from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Barber",
+    "prompt": "Barber from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Barikimassu, Ruu",
+    "prompt": "Barikimassu, Ruu from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Baritone",
+    "prompt": "Baritone from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Beppu",
+    "prompt": "Beppu from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Bonnie",
+    "prompt": "Bonnie from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Buchineko",
+    "prompt": "Buchineko from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Bukiido",
+    "prompt": "Bukiido from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Caterer",
+    "prompt": "Caterer from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Caterpillar",
+    "prompt": "Caterpillar from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Cheetah",
+    "prompt": "Cheetah from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Choutarou",
+    "prompt": "Choutarou from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/80107.jpg?s=2096803a25bec0cec9e5c6a1c72a92a5"
+  },
+  {
+    "name": "Clyde",
+    "prompt": "Clyde from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/80003.jpg?s=302cab7bf8a3effd6f8644b529ef6c7d"
+  },
+  {
+    "name": "Cream",
+    "prompt": "Cream from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Cupifuel",
+    "prompt": "Cupifuel from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Daimaou",
+    "prompt": "Daimaou from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/113860.jpg?s=f4af7257b15e5cce7294f2444b69094b"
+  },
+  {
+    "name": "Desmas",
+    "prompt": "Desmas from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Dinosaur",
+    "prompt": "Dinosaur from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Dokugar",
+    "prompt": "Dokugar from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Doris",
+    "prompt": "Doris from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Dorothy",
+    "prompt": "Dorothy from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/113854.jpg?s=e08f6410cc9d5ab746bbc6ea8a914341"
+  },
+  {
+    "name": "Dr. Hawking",
+    "prompt": "Dr. Hawking from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Dr. Mikeneko",
+    "prompt": "Dr. Mikeneko from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/113863.jpg?s=ec12569a0086e8dde476895bcc9b84f0"
+  },
+  {
+    "name": "Dragon",
+    "prompt": "Dragon from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Elizabeth",
+    "prompt": "Elizabeth from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/113855.jpg?s=a6519d4e046f5be2b2ac8d55a65c0ba6"
+  },
+  {
+    "name": "Eraser",
+    "prompt": "Eraser from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Fisherman",
+    "prompt": "Fisherman from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Five-Star House",
+    "prompt": "Five-Star House from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Foxy",
+    "prompt": "Foxy from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Franken",
+    "prompt": "Franken from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Frog",
+    "prompt": "Frog from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Gandar",
+    "prompt": "Gandar from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Garock",
+    "prompt": "Garock from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "GauGau",
+    "prompt": "GauGau from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/80090.jpg?s=d106706e4ee319be5f188f0e25a867e4"
+  },
+  {
+    "name": "Gekkou",
+    "prompt": "Gekkou from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Genius",
+    "prompt": "Genius from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/79993.jpg?s=f17c81b817695aba2350eb3ac88e2956"
+  },
+  {
+    "name": "Giant Pig",
+    "prompt": "Giant Pig from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Granny",
+    "prompt": "Granny from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Great King Panda",
+    "prompt": "Great King Panda from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Haideyansu",
+    "prompt": "Haideyansu from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/79994.jpg?s=b85ba4524e4b6c5f6e5717906faaebc3"
+  },
+  {
+    "name": "Harpy",
+    "prompt": "Harpy from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Jashon",
+    "prompt": "Jashon from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ka Zandan",
+    "prompt": "Ka Zandan from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/80006.jpg?s=94efa3422ef652f722e44f3b9f04db9d"
+  },
+  {
+    "name": "Kankan",
+    "prompt": "Kankan from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kappa A",
+    "prompt": "Kappa A from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kappa B",
+    "prompt": "Kappa B from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kazumi",
+    "prompt": "Kazumi from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ken",
+    "prompt": "Ken from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kid, Nezumi",
+    "prompt": "Kid, Nezumi from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/80094.jpg?s=ad49b8c98d98ee426c8f3ff25d82fa10"
+  },
+  {
+    "name": "King",
+    "prompt": "King from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kiyotoora",
+    "prompt": "Kiyotoora from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kuroneko",
+    "prompt": "Kuroneko from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Kyuu-chan",
+    "prompt": "Kyuu-chan from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/330810.jpg?s=967e4f507020f8b8494072635c7742d8"
+  },
+  {
+    "name": "Lanlan",
+    "prompt": "Lanlan from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Leader Jellyfish",
+    "prompt": "Leader Jellyfish from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Maasa, Muura",
+    "prompt": "Maasa, Muura from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/80008.jpg?s=b561aa510635efaf483684baad168aa1"
+  },
+  {
+    "name": "Makki",
+    "prompt": "Makki from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Maneki-neko",
+    "prompt": "Maneki-neko from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Marine",
+    "prompt": "Marine from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/88479.jpg?s=6f1e1015d23bfbf2f1bd202eecfbd644"
+  },
+  {
+    "name": "Mary",
+    "prompt": "Mary from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/80091.jpg?s=fdd6b799204a8b31d19d587706fa2b2c"
+  },
+  {
+    "name": "Mayor",
+    "prompt": "Mayor from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Miraado",
+    "prompt": "Miraado from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mirror",
+    "prompt": "Mirror from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Modoking",
+    "prompt": "Modoking from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mole",
+    "prompt": "Mole from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mosqui-chan",
+    "prompt": "Mosqui-chan from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mosuke",
+    "prompt": "Mosuke from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/80092.jpg?s=b8996c89c066349c70b20de31f8646f9"
+  },
+  {
+    "name": "Mother",
+    "prompt": "Mother from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Mr. Barabaraman",
+    "prompt": "Mr. Barabaraman from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/79998.jpg?s=ad70150e9a616a74bb7d1c4d4dab3779"
+  },
+  {
+    "name": "Mr. Rascal",
+    "prompt": "Mr. Rascal from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/88466.jpg?s=05b26aed4aa94567f2a1a6a130a1b120"
+  },
+  {
+    "name": "Ms. Mayachon",
+    "prompt": "Ms. Mayachon from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/80109.jpg?s=b0e3a3c5f5bb697ab3bcfdcf953ed216"
+  },
+  {
+    "name": "Ms. Oyuki",
+    "prompt": "Ms. Oyuki from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/113861.jpg?s=8f69b4ca62398047283ca51d91a5f77f"
+  },
+  {
+    "name": "Ms. Yoshiko",
+    "prompt": "Ms. Yoshiko from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Noroware Armor",
+    "prompt": "Noroware Armor from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Nyunyu",
+    "prompt": "Nyunyu from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Obaba",
+    "prompt": "Obaba from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Orin",
+    "prompt": "Orin from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/113858.jpg?s=b8fbffe028cb9bfd3bebefbe16b98a7c"
+  },
+  {
+    "name": "Orosshi",
+    "prompt": "Orosshi from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Ossu",
+    "prompt": "Ossu from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Pickle-kun",
+    "prompt": "Pickle-kun from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Piisuke",
+    "prompt": "Piisuke from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/79996.jpg?s=3b6cca989071f4a95f4f99750fde8421"
+  },
+  {
+    "name": "Pikapon",
+    "prompt": "Pikapon from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/80108.jpg?s=4341aa9d629506a42c4ad6eb44b619ed"
+  },
+  {
+    "name": "Principal Urara",
+    "prompt": "Principal Urara from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/113856.jpg?s=8b1f64a1ac0f7299ab820fde24803897"
+  },
+  {
+    "name": "Queen",
+    "prompt": "Queen from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Rhino",
+    "prompt": "Rhino from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Riiya's Brother",
+    "prompt": "Riiya's Brother from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Riiya's Grandpa",
+    "prompt": "Riiya's Grandpa from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Santa",
+    "prompt": "Santa from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Seravi",
+    "prompt": "Seravi from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/113857.jpg?s=ded334b53c07350bf4512d316ded1e91"
+  },
+  {
+    "name": "Shiine's Mother",
+    "prompt": "Shiine's Mother from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Shin",
+    "prompt": "Shin from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Shironeko",
+    "prompt": "Shironeko from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Shounosuke",
+    "prompt": "Shounosuke from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Soprano",
+    "prompt": "Soprano from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/80007.jpg?s=638036f4822a0e5e7282a3096399fd6b"
+  },
+  {
+    "name": "Sorges",
+    "prompt": "Sorges from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/113859.jpg?s=8e2bacea8de700eb34720097898e20bf"
+  },
+  {
+    "name": "Spidia",
+    "prompt": "Spidia from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Starfish",
+    "prompt": "Starfish from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Sushi",
+    "prompt": "Sushi from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Toraneko",
+    "prompt": "Toraneko from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tori",
+    "prompt": "Tori from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Tree Zombie",
+    "prompt": "Tree Zombie from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Umibouko",
+    "prompt": "Umibouko from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Umibouzu",
+    "prompt": "Umibouzu from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Uncle Kopett",
+    "prompt": "Uncle Kopett from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Wife",
+    "prompt": "Wife from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  },
+  {
+    "name": "Yakko",
+    "prompt": "Yakko from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/362128.jpg?s=7cb70c1a2b2a46524e8f1e162376b96e"
+  },
+  {
+    "name": "Yordas",
+    "prompt": "Yordas from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/79995.jpg?s=f68af0ee12a300c9114279d2b9412810"
+  },
+  {
+    "name": "Yoroi",
+    "prompt": "Yoroi from Akazukin Chacha",
+    "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c"
+  }
+]

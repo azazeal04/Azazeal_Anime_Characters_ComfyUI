@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Brawler",
+    "prompt": "Brawler from Akudama Drive",
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/447639.jpg?s=c6e52cae85d31937e03cd312f7652186"
+  },
+  {
+    "name": "Courier",
+    "prompt": "Courier from Akudama Drive",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/447637.jpg?s=d365d8becbe9f6b5b83d2a2d7136df73"
+  },
+  {
+    "name": "Cutthroat",
+    "prompt": "Cutthroat from Akudama Drive",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/409747.jpg?s=4804b6ba26ac520da5e0eadd3c49c0bf"
+  },
+  {
+    "name": "Doctor",
+    "prompt": "Doctor from Akudama Drive",
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/447640.jpg?s=128f84d4aa34027f0f527968bf518d9c"
+  },
+  {
+    "name": "Hacker",
+    "prompt": "Hacker from Akudama Drive",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/447638.jpg?s=2be77a51f3aa18e9e060c2564b3b08a4"
+  },
+  {
+    "name": "Hoodlum",
+    "prompt": "Hoodlum from Akudama Drive",
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/447641.jpg?s=fa2e0128e7aa1757f7028e342291260d"
+  },
+  {
+    "name": "Ordinary Person",
+    "prompt": "Ordinary Person from Akudama Drive",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/418556.jpg?s=dbb7361ae6f3529c519dcd2d9389f5e2"
+  },
+  {
+    "name": "Black Cat",
+    "prompt": "Black Cat from Akudama Drive",
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/447644.jpg?s=44f469aa27e2cff2473236004bb69206"
+  },
+  {
+    "name": "Boss",
+    "prompt": "Boss from Akudama Drive",
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/418562.jpg?s=7b96ee8cdb69183f7007916542a6caad"
+  },
+  {
+    "name": "Brother",
+    "prompt": "Brother from Akudama Drive",
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/423661.jpg?s=e697dac0b6213131e3befd08a41502b2"
+  },
+  {
+    "name": "Bunny",
+    "prompt": "Bunny from Akudama Drive",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/426234.jpg?s=852973a5d6ff2d62530024455fcabfcd"
+  },
+  {
+    "name": "Execution Division Apprentice",
+    "prompt": "Execution Division Apprentice from Akudama Drive",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/418561.jpg?s=1dceaa6448a529253574051f8c7fae62"
+  },
+  {
+    "name": "Execution Division Junior",
+    "prompt": "Execution Division Junior from Akudama Drive",
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/447588.jpg?s=457f699fbd090db4618fc7c2e4106ca0"
+  },
+  {
+    "name": "Execution Division Master",
+    "prompt": "Execution Division Master from Akudama Drive",
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/418560.jpg?s=2704ea18f63792495b272478f20a072c"
+  },
+  {
+    "name": "Shark",
+    "prompt": "Shark from Akudama Drive",
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/425740.jpg?s=90854e5b4f16b8c41614784cb577bc03"
+  },
+  {
+    "name": "Sister",
+    "prompt": "Sister from Akudama Drive",
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/423662.jpg?s=e75233b96a34ac892bd3309141c62320"
+  }
+]
