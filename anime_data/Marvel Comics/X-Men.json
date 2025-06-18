@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Ariel",
+    "prompt": "Ariel from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/44-ariel.jpg"
+  },
+  {
+    "name": "Armor",
+    "prompt": "Armor from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/45-armor.jpg"
+  },
+  {
+    "name": "Banshee",
+    "prompt": "Banshee from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/61-banshee.jpg"
+  },
+  {
+    "name": "Cannonball",
+    "prompt": "Cannonball from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/148-cannonball.jpg"
+  },
+  {
+    "name": "Changeling",
+    "prompt": "Changeling from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/171-changeling.jpg"
+  },
+  {
+    "name": "Dazzler",
+    "prompt": "Dazzler from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/211-dazzler.jpg"
+  },
+  {
+    "name": "Hope Summers",
+    "prompt": "Hope Summers from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/330-hope-summers.jpg"
+  },
+  {
+    "name": "Husk",
+    "prompt": "Husk from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/335-husk.jpg"
+  },
+  {
+    "name": "Juggernaut",
+    "prompt": "Juggernaut from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/374-juggernaut.jpg"
+  },
+  {
+    "name": "Magneto",
+    "prompt": "Magneto from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/423-magneto.jpg"
+  },
+  {
+    "name": "Mimic",
+    "prompt": "Mimic from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/452-mimic.jpg"
+  },
+  {
+    "name": "Mystique",
+    "prompt": "Mystique from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/480-mystique.jpg"
+  },
+  {
+    "name": "Namor",
+    "prompt": "Namor from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/481-namor.jpg"
+  },
+  {
+    "name": "Nightcrawler",
+    "prompt": "Nightcrawler from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/490-nightcrawler.jpg"
+  },
+  {
+    "name": "Northstar",
+    "prompt": "Northstar from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/495-northstar.jpg"
+  },
+  {
+    "name": "Polaris",
+    "prompt": "Polaris from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/523-polaris.jpg"
+  },
+  {
+    "name": "Psylocke",
+    "prompt": "Psylocke from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/529-psylocke.jpg"
+  },
+  {
+    "name": "Rogue",
+    "prompt": "Rogue from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/567-rogue.jpg"
+  },
+  {
+    "name": "Thunderbird",
+    "prompt": "Thunderbird from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/661-thunderbird.jpg"
+  },
+  {
+    "name": "Wolverine",
+    "prompt": "Wolverine from X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/717-wolverine.jpg"
+  }
+]

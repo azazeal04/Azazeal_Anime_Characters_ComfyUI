@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Ink",
+    "prompt": "Ink from Young X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/343-ink.jpg"
+  },
+  {
+    "name": "Sunspot",
+    "prompt": "Sunspot from Young X-Men",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/640-sunspot.jpg"
+  }
+]
