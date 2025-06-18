@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Agent Zero",
+    "prompt": "Agent Zero from Team X",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/11-agent-zero.jpg"
+  },
+  {
+    "name": "John Wraith",
+    "prompt": "John Wraith from Team X",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/no-portrait.jpg"
+  },
+  {
+    "name": "Wolverine",
+    "prompt": "Wolverine from Team X",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/717-wolverine.jpg"
+  }
+]

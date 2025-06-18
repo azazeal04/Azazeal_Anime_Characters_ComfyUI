@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Punisher",
+    "prompt": "Punisher from U.S. Marine Corps",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/530-punisher.jpg"
+  },
+  {
+    "name": "War Machine",
+    "prompt": "War Machine from U.S. Marine Corps",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/703-war-machine.jpg"
+  }
+]

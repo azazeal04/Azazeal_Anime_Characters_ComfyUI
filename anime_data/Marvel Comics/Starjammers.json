@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Havok",
+    "prompt": "Havok from Starjammers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/311-havok.jpg"
+  },
+  {
+    "name": "Marvel Girl",
+    "prompt": "Marvel Girl from Starjammers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/433-marvel-girl.jpg"
+  },
+  {
+    "name": "Polaris",
+    "prompt": "Polaris from Starjammers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/523-polaris.jpg"
+  },
+  {
+    "name": "Professor X",
+    "prompt": "Professor X from Starjammers",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/527-professor-x.jpg"
+  }
+]

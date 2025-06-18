@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Drax the Destroyer",
+    "prompt": "Drax the Destroyer from United Front",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/234-drax-the-destroyer.jpg"
+  },
+  {
+    "name": "Nebula",
+    "prompt": "Nebula from United Front",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/487-nebula.jpg"
+  },
+  {
+    "name": "Star-Lord",
+    "prompt": "Star-Lord from United Front",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/630-star-lord.jpg"
+  }
+]

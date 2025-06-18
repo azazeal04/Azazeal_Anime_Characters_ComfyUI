@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Justice",
+    "prompt": "Justice from Unlimited Class Wrestling Federation",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/376-justice.jpg"
+  },
+  {
+    "name": "Songbird",
+    "prompt": "Songbird from Unlimited Class Wrestling Federation",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/610-songbird.jpg"
+  },
+  {
+    "name": "Thing",
+    "prompt": "Thing from Unlimited Class Wrestling Federation",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/658-thing.jpg"
+  }
+]

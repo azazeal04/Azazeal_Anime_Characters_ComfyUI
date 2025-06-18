@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Bullseye",
+    "prompt": "Bullseye from Thunderbolts",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/141-bullseye.jpg"
+  },
+  {
+    "name": "Jolt",
+    "prompt": "Jolt from Thunderbolts",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/371-jolt.jpg"
+  },
+  {
+    "name": "Juggernaut",
+    "prompt": "Juggernaut from Thunderbolts",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/374-juggernaut.jpg"
+  },
+  {
+    "name": "Man-Thing",
+    "prompt": "Man-Thing from Thunderbolts",
+    "image_url": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/428-man-thing.jpg"
+  }
+]
