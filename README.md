@@ -1,62 +1,61 @@
 # Azazeal_Anime_Characters_ComfyUI
- Anime Character nodes
 
+Anime character selector nodes for ComfyUI.
 
-This custom node for **ComfyUI** adds an **Anime Character Selector** component that allows you to easily choose a character from an anime title node using a dropdown interface.
+## What changed (Node 2.0)
 
+This pack now uses a **Node 2.0-style data-driven design** by default:
 
+- Registers only a small fixed set of nodes at startup.
+- Uses an on-disk index cache (`anime_data/.index.json`).
+- Loads full prompt maps lazily when needed.
 
----
+This avoids creating one ComfyUI node per anime during import, which significantly improves startup performance on large datasets.
 
-## 📦 Features
+## Nodes
 
-- Select a **character** from a dropdown list for the chosen anime
-- Outputs a ready-to-use prompt string for image generation
-- Automatically loads `.json` character data from `anime_data/YourGroup/*.json`
-- character_list.html is the entire list of each avaible anime and their characters
-![workflow_example](https://github.com/user-attachments/assets/43c49536-527c-4cb8-b5eb-018a48ae99d6)
-![ComfyUI_00024_](https://github.com/user-attachments/assets/f8101083-fb7f-456d-b1fc-1ecfc7d299aa)
+### 1) Anime Character Prompt Selector (V2)
+Category: `Anime_Character`
 
----
+Inputs:
+- `anime_title` (dropdown)
+- `character_name` (string)
 
-## 🔧 Installation
+Outputs:
+- `character_prompt`
+- `character_name`
+- `anime_title`
 
-Clone this repository into your ComfyUI `custom_nodes` folder:
+### 2) Anime Character List (V2)
+Category: `Anime_Character/Tools`
+
+Helper node that provides a character dropdown for an anime title.
+
+## Backward compatibility (Node 1.0)
+
+Legacy per-anime nodes are still supported but are **disabled by default** for performance.
+
+Enable them when you need to load old workflows:
+
+```bash
+AZAZEAL_ENABLE_LEGACY_NODES=1
+```
+
+When enabled, the package dynamically registers legacy `AnimePromptNode_*` node types so older workflows can deserialize.
+
+## Installation
 
 ```bash
 git clone https://github.com/azazeal04/Azazeal_Anime_Characters_ComfyUI.git
 ```
 
-Once cloned, restart ComfyUI. The node will appear in the ComfyUI interface under the **"Anime_Charater"** category (e.g., `Anime_Character/AnimeName`).
+Clone into `ComfyUI/custom_nodes` and restart ComfyUI.
 
----
-
-## 🧩 Node Output
-
-The node outputs a **combined prompt string** like:
-
-```
-"Sasuke Uchiha from Naruto"
-```
-
-You can connect this directly to a text encoder node such as **CLIPTextEncode** or similar in your ComfyUI workflow.
-
----
-
-## ✅ Requirements
+## Requirements
 
 - Python 3.10+
-- A working ComfyUI installation
+- ComfyUI
 
----
+## License
 
-## 📚 License
-
-MIT License — © 2025 Azazeal
-
----
-
-## 🌐 GitHub Repository
-
-https://github.com/azazeal04/Azazeal_Anime_Characters_ComfyUI.git
-
+MIT
