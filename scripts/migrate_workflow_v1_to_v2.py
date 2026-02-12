@@ -5,15 +5,35 @@ import argparse
 import json
 from pathlib import Path
 
+from data_store import build_store
 
-def legacy_to_title(node_type: str) -> str:
+
+def _legacy_suffix_to_title(suffix: str, known_titles: set[str]) -> str:
+    if suffix in known_titles:
+        return suffix
+
+    spaced = suffix.replace("_", " ")
+    if spaced in known_titles:
+        return spaced
+
+    hyphenated = suffix.replace("_", "-")
+    if hyphenated in known_titles:
+        return hyphenated
+
+    return spaced
+
+
+def legacy_to_title(node_type: str, known_titles: set[str]) -> str:
     raw = node_type.replace("AnimePromptNode_", "", 1)
-    return raw.replace("_", " ")
+    return _legacy_suffix_to_title(raw, known_titles)
 
 
 def migrate(path: Path) -> dict:
     with open(path, "r", encoding="utf-8") as handle:
         workflow = json.load(handle)
+
+    data_dir = Path(__file__).resolve().parents[1] / "anime_data"
+    known_titles = set(build_store(data_dir).anime_titles())
 
     nodes = workflow.get("nodes", [])
     replaced = 0
@@ -21,7 +41,7 @@ def migrate(path: Path) -> dict:
     for node in nodes:
         node_type = node.get("type", "")
         if isinstance(node_type, str) and node_type.startswith("AnimePromptNode_"):
-            anime_title = legacy_to_title(node_type)
+            anime_title = legacy_to_title(node_type, known_titles)
             node["type"] = "AnimeCharacterPromptSelectorV2"
 
             widgets = node.setdefault("widgets_values", [])
