@@ -4,6 +4,11 @@
 import argparse
 import json
 from pathlib import Path
+import sys
+
+REPO_ROOT = Path(__file__).resolve().parents[1]
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
 
 from data_store import build_store
 
@@ -32,7 +37,7 @@ def migrate(path: Path) -> dict:
     with open(path, "r", encoding="utf-8") as handle:
         workflow = json.load(handle)
 
-    data_dir = Path(__file__).resolve().parents[1] / "anime_data"
+    data_dir = REPO_ROOT / "anime_data"
     known_titles = set(build_store(data_dir).anime_titles())
 
     nodes = workflow.get("nodes", [])
